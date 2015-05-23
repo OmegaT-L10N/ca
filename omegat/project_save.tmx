@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT automatically selects a tokenizer for the source and the target language according to the language settings of the project.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T163507Z" creationid="Stephanie" creationdate="20150523T163507Z">
+        <seg>OmegaT selecciona automàticament un tokenizer la llengua d'origen i de la de destinació d'acord amb la configuració de llengua del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT supports two of the popular version control systems (VCS for short), &lt;a0&gt;Apache Subversion&lt;/a0&gt; (often abbreviated SVN, after the command name svn) and &lt;a1&gt;Git&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T155125Z" creationid="Stephanie" creationdate="20150523T154603Z">
@@ -306,6 +314,14 @@
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T161643Z" creationid="Stephanie" creationdate="20150523T161643Z">
         <seg>Els tokenizers (o lematitzadors) milloren la qualitat de les coincidències mitjançant el reconeixement de paraules flexionades en les dades del text original i les memòries de traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers are included in OmegaT and active by default.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T163418Z" creationid="Stephanie" creationdate="20150523T163418Z">
+        <seg>Els tokenizers s'inclouen en OmegaT i s'activen per defecte.</seg>
       </tuv>
     </tu>
     <tu>
