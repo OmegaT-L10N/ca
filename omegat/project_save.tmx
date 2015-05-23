@@ -142,10 +142,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T164258Z" creationid="Stephanie" creationdate="20150523T164258Z">
+        <seg>Inici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Importing the project to SVN repository - Windows</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T154019Z" creationid="Stephanie" creationdate="20150523T154019Z">
         <seg>Importació del projecte al repositori SVN - Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T164021Z" creationid="Stephanie" creationdate="20150523T164021Z">
+        <seg>En cas que no hi hagi un tokenizer per a les llengües emprades, OmegaT utilitza en lloc Hunspell (en aquest cas, assegureu-vos que els diccionaris Hunspell pertinents estan instal·lats).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Incompatibilities</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T164030Z" creationid="Stephanie" creationdate="20150523T164030Z">
+        <seg>Incompatibilitats</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +194,14 @@
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T161238Z" creationid="Stephanie" creationdate="20150523T161238Z">
         <seg>Selecció de llengües</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigation footer</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T164237Z" creationid="Stephanie" creationdate="20150523T164237Z">
+        <seg>Peu de pàgina de navegació</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T164110Z" creationid="Stephanie" creationdate="20150523T164110Z">
+        <seg>OmegaT no s'iniciarà si els tokenizers es troben a la carpeta / plugins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One member of the team, the project administrator, needs to be acquainted with handling the server side, i.e. the job of setting up the environment, importing the OmegaT project, assigning the access rights for the team members, resolving the conflicts, etc.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T160405Z" creationid="Stephanie" creationdate="20150523T160405Z">
@@ -234,6 +274,14 @@
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T160900Z" creationid="Stephanie" creationdate="20150523T160900Z">
         <seg>Els membres del projecte es connecten a aquest a través del seu client VCS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove all the tokenizers from the /plugin folder before starting OmegaT.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T164152Z" creationid="Stephanie" creationdate="20150523T164152Z">
+        <seg>Traieu tots els tokenizers de la carpeta / plugins abans d'iniciar OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
