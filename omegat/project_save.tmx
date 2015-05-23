@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3. Accessing the TaaS service</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T171443Z" creationid="Stephanie" creationdate="20150523T171443Z">
+        <seg>3. Accés al servei de TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Prev&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T153838Z" creationid="Stephanie" creationdate="20150523T153838Z">
@@ -202,6 +210,14 @@
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T165821Z" creationid="Stephanie" creationdate="20150523T165821Z">
         <seg>Generalitats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to https://demo.taas-project.eu/account/keys/create?system=omegaT to create your own key then give it to OmegaT with -Dtaas.user.key=xxxxx (TAAS_API_KEY_NOT_FOUND)</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T171405Z" creationid="Stephanie" creationdate="20150523T171323Z">
+        <seg>Anar a https://demo.taas-project.eu/account/keys/create?system=omegaT per crear la seva pròpia clau i després introduir-la a OmegaT a través de -Dtaas.user.key = xxxxx (TAAS_API_KEY_NOT_FOUND)</seg>
       </tuv>
     </tu>
     <tu>
@@ -432,8 +448,8 @@
       <tuv lang="EN">
         <seg>The key must then be given to OmegaT using -Dtaas.user.key=xxxxx.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Stephanie" changedate="20150523T170729Z" creationid="Stephanie" creationdate="20150523T170729Z">
-        <seg>Llavors, la clau haur'a de ser introduïda a OmegaT a través de = -Dtaas.user.key xxxxx.</seg>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T171330Z" creationid="Stephanie" creationdate="20150523T170729Z">
+        <seg>Llavors, la clau haurà de ser introduïda a OmegaT a través de = -Dtaas.user.key xxxxx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -522,6 +538,14 @@
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T160808Z" creationid="Stephanie" creationdate="20150523T160808Z">
         <seg>Alguns dels clients més populars per a entorn Windows són TortoiseSVN i TortoiseGit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When accessing the service without a private key, the following message will be put in the log: TaaS API key not found.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T171302Z" creationid="Stephanie" creationdate="20150523T171302Z">
+        <seg>Quan s'accedeixi al servei sense una clau privada, el següent missatge apareixerà en el registre: clau Taas API no trobada.</seg>
       </tuv>
     </tu>
     <tu>
