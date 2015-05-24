@@ -112,8 +112,8 @@
       <tuv lang="EN">
         <seg>&lt;s0&gt;&lt;s1&gt;administrator: &lt;/s1&gt;&lt;/s0&gt;the person responsible for the creation and maintaining of the repository, i.e. taking care of the server side of the task.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Stephanie" changedate="20150524T224953Z" creationid="Stephanie" creationdate="20150524T224953Z">
-        <seg>&lt;s0&gt;&lt;s1&gt;Administrador: &lt;/s1&gt;&lt;/s0&gt; la persona responsable de la creació i el manteniment del repositori, p. e. tenir cura del costat del servidor de la tasca.</seg>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150524T230326Z" creationid="Stephanie" creationdate="20150524T224953Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Administrador: &lt;/s1&gt;&lt;/s0&gt; la persona responsable de la creació i el manteniment del repositori, és a dir, tenir cura del costat del servidor de la tasca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -176,8 +176,8 @@
       <tuv lang="EN">
         <seg>Alternatively, to avoid this issue you can set a private SVN server, for example if you already have an Apache server that includes the software in question (e.g. VisualSVN).</seg>
       </tuv>
-      <tuv lang="CA" changeid="Stephanie" changedate="20150524T230246Z" creationid="Stephanie" creationdate="20150524T230246Z">
-        <seg>Alternativament, per evitar aquest problema podeu establir un servidor SVN privat, per exemple, si ja teniu un servidor Apache que inclou el programari en qüestió (per exemple VisualSVN).</seg>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150524T230348Z" creationid="Stephanie" creationdate="20150524T230246Z">
+        <seg>Alternativament, per evitar aquest problema podeu establir un servidor SVN privat, per exemple, si ja teniu un servidor Apache que inclou el programari en qüestió (p. e. VisualSVN).</seg>
       </tuv>
     </tu>
     <tu>
@@ -274,6 +274,14 @@
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150524T183120Z" creationid="Stephanie" creationdate="20150523T155609Z">
         <seg>Per defecte, cada tres minuts una versió actualitzada de les dades compartides estarà disponible per a la resta de l'equip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For Windows we recommend &lt;a0&gt;TortoiseSVN&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150524T230504Z" creationid="Stephanie" creationdate="20150524T230504Z">
+        <seg>Per a Windows recomanem &lt;a0&gt;TortoiseSVN.&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -434,6 +442,14 @@
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T164110Z" creationid="Stephanie" creationdate="20150523T164110Z">
         <seg>OmegaT no s'iniciarà si els tokenizers es troben a la carpeta / plugins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the SVN server is available, project managers must locally install a SVN client, in order to manage the project contents on their computers.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150524T230444Z" creationid="Stephanie" creationdate="20150524T230444Z">
+        <seg>Una vegada el servidor SVN està disponible, els administradors del projecte hauran d'instal·lar localment un client SVN, per tal d'administrar el contingut del projecte en els seus equips.</seg>
       </tuv>
     </tu>
     <tu>
