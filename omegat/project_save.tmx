@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The alternative is to have one single repository with subfolders &lt;c0&gt;Project1&lt;/c0&gt;, &lt;c1&gt;Project2&lt;/c1&gt;, etc., and share the common material via common &lt;c2&gt;tm&lt;/c2&gt;, &lt;c3&gt;glossary&lt;/c3&gt; and &lt;c4&gt;dictionary&lt;/c4&gt; folders.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T163513Z" creationid="Stephanie" creationdate="20150525T163513Z">
+        <seg>&lt;L'alternativa és tenir un únic repositori amb subcarpetes &lt;c0&gt;Project1&lt;/c0&gt;, &lt;c1Project2, etc., i compartir el material comú a través de tm comú, glossari i carpetes de diccionari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The collaborative translation offered by OmegaT is based on the functionality of version or revision control, widely used by the software community to maintain control of changes to the code of a program and allow unimpeded collaboration within the development team.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150524T182943Z" creationid="Stephanie" creationdate="20150523T154426Z">
@@ -834,6 +842,14 @@
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150524T225935Z" creationid="Stephanie" creationdate="20150524T225935Z">
         <seg>Quan utilitzeu un servei extern heu de ser conscient de les possibles conseqüències en termes de confidencialitat, ja que carregareu el document original a un servidor fora del vostre control directe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Within a given language pair it is best to keep different subjects and/or clients as separate repositories as well.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T163348Z" creationid="Stephanie" creationdate="20150525T163348Z">
+        <seg>Dins d'un mateix parell de llengües, s'aconsella també mantenir les diferents matèries o clients en repositoris separats.</seg>
       </tuv>
     </tu>
     <tu>
