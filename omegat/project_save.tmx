@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;add the copied files to the local version of the repository:&lt;/s1&gt;&lt;/s0&gt; right-click on the local checkout folder and select &lt;s2&gt;TortoiseSVN &gt; Add.&lt;/s2&gt; In the dialog that opens, leave all options as per default and click&lt;s3&gt; OK&lt;/s3&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T175543Z" creationid="Stephanie" creationdate="20150525T175543Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Afegir els arxius copiats a la versió local del repositori:&lt;/s1&gt;&lt;/s0&gt; feu clic dret a la carpeta checkout i seleccioneu &lt;s2&gt;TortoiseSVN &gt; Add.&lt;/s2&gt; Al diàleg que s'obrirà, deixeu totes les opcions per defecte i feu clic a &lt;s3&gt; OK&lt;/s3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;&lt;s1&gt;administrator: &lt;/s1&gt;&lt;/s0&gt;the person responsible for the creation and maintaining of the repository, i.e. taking care of the server side of the task.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150524T230326Z" creationid="Stephanie" creationdate="20150524T224953Z">
@@ -698,6 +706,14 @@
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150525T163152Z" creationid="Stephanie" creationdate="20150525T163152Z">
         <seg>De la mateixa manera que en el cas dels projectes d'OmegaT, es necessitaran repositoris separats per a diferents parells d'idiomes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Add Finished!</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T175725Z" creationid="Stephanie" creationdate="20150525T175725Z">
+        <seg>El procés d'afegiment ha finalitzat!</seg>
       </tuv>
     </tu>
     <tu>
