@@ -192,8 +192,8 @@
       <tuv lang="EN">
         <seg>&lt;s0&gt;&lt;s1&gt;update local files from the local repository copy&lt;/s1&gt;&lt;/s0&gt; - the changes received from the server repository reside within the .svn subfolder but not yet in the files and folders themselves.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Stephanie" changedate="20150525T182545Z" creationid="Stephanie" creationdate="20150525T182545Z">
-        <seg>&lt;s0&gt;&lt;s1&gt;Actualitzeu els arxius locals des de la còpia local del repositori&lt;/s1&gt;&lt;/s0&gt; - els canvis rebuts del repositori del servidor resideixen a la subcarpeta .svn però els arxius i les carpetes encara no ho fan.</seg>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T225146Z" creationid="Stephanie" creationdate="20150525T182545Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Actualitzeu els arxius locals des de la còpia local del repositori&lt;/s1&gt;&lt;/s0&gt; - els canvis rebuts del repositori del servidor resideixen a la subcarpeta .svn, però els arxius i les carpetes encara no ho fan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -408,8 +408,8 @@
       <tuv lang="EN">
         <seg>Credentials are stored, so it isn't needed to enter them each time.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Stephanie" changedate="20150525T181706Z" creationid="Stephanie" creationdate="20150525T181706Z">
-        <seg>Les credencials s'emmagatzemen, per la qual cosa no serà necessari per inserir-les cada vegada.</seg>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T225219Z" creationid="Stephanie" creationdate="20150525T181706Z">
+        <seg>Les credencials s'emmagatzemen, per la qual cosa no serà necessari inserir-les cada vegada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -568,8 +568,8 @@
       <tuv lang="EN">
         <seg>It will first commit the current contents to the server repository and then update the local copy of the repository - i.e. the contents of .svn subfolder - so that it is up to date with the latest repository version.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Stephanie" changedate="20150525T180504Z" creationid="Stephanie" creationdate="20150525T180504Z">
-        <seg>Serà primer cometre els continguts actuals al repositori del servidor i després actualitzar la còpia local del repositori - és a dir, el contingut de subcarpeta .svn - de manera que està al dia amb l'última versió del repositori.</seg>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T225127Z" creationid="Stephanie" creationdate="20150525T180504Z">
+        <seg>En primer lloc, remetrà els continguts actuals al repositori del servidor i després actualitzarà la còpia local del repositori i el contingut de subcarpeta .svn, de manera que tindrà els mateixos continguts que l'última versió del repositori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -680,8 +680,8 @@
       <tuv lang="EN">
         <seg>OmegaT will recognize it is a team project, and will synchronize everything automatically, every three minutes by default.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Stephanie" changedate="20150525T180553Z" creationid="Stephanie" creationdate="20150525T180553Z">
-        <seg>OmegaT reconeixerà que és un projecte d'equip, i sincronitzarà, per defecte, tots els elements automàticament cada tres minuts.</seg>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T225257Z" creationid="Stephanie" creationdate="20150525T180553Z">
+        <seg>OmegaT reconeixerà que és un projecte en equip, i sincronitzarà, per defecte, tots els elements automàticament cada tres minuts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1080,8 +1080,8 @@
       <tuv lang="EN">
         <seg>Under Linux, if &lt;s2&gt;OmegaT&lt;/s2&gt; is still asking for your credentials, you can checking the &lt;s3&gt;Force saving password as plain text&lt;/s3&gt; checkbox.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Stephanie" changedate="20150525T182055Z" creationid="Stephanie" creationdate="20150525T182055Z">
-        <seg>A Linux, si &lt;s2&gt;OmegaT&lt;/s2&gt; encara demana les vostres credencials, comproveu la casella de selecció &lt;s3&gt;Force saving password as plain text&lt;/s3&gt; </seg>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T225245Z" creationid="Stephanie" creationdate="20150525T182055Z">
+        <seg>A Linux, si &lt;s2&gt;OmegaT&lt;/s2&gt; continua demanant-vos les vostres credencials, comproveu la casella de selecció &lt;s3&gt;Force saving password as plain text&lt;/s3&gt; </seg>
       </tuv>
     </tu>
     <tu>
