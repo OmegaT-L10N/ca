@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also &lt;c3&gt;ignored_words.txt&lt;/c3&gt; and &lt;c4&gt;learned_words.txt&lt;/c4&gt; in the &lt;c5&gt;omegat&lt;/c5&gt; folder may be worth sharing and maintaining on the team level.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T174207Z" creationid="Stephanie" creationdate="20150525T174207Z">
+        <seg>A més, també seria recomanable compartir i guardar a nivell d'equip &lt;c3&gt;ignored_words.txt&lt;/c3&gt; (paraules ignorades) i &lt;c4&gt;learned_words.txt&lt;/c4&gt; (paraules apreses) en la carpeta &lt;c5&gt;omegat&lt;/c5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, to avoid this issue you can set a private SVN server, for example if you already have an Apache server that includes the software in question (e.g. VisualSVN).</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150524T230348Z" creationid="Stephanie" creationdate="20150524T230246Z">
