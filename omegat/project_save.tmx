@@ -112,8 +112,8 @@
       <tuv lang="EN">
         <seg>&lt;s0&gt;&lt;s1&gt;Browse TaaS Collections&lt;/s1&gt;&lt;/s0&gt; will allow browsing existing collections for the source and target languages of the project, and downloading them.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Stephanie" changedate="20150524T180316Z" creationid="Stephanie" creationdate="20150524T180316Z">
-        <seg>&lt;s0&gt;&lt;s1&gt;Browse TaaS Collections&lt;/s1&gt;&lt;/s0&gt; permetran navegar per les col·leccions existents per als idiomes d'origen i de destinació del projecte, i descarregar-los.</seg>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T221902Z" creationid="Stephanie" creationdate="20150524T180316Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Browse TaaS Collections&lt;/s1&gt;&lt;/s0&gt; permetran navegar per les col·leccions existents per als idiomes d'origen i de destinació del projecte, i descarregar-les.</seg>
       </tuv>
     </tu>
     <tu>
@@ -648,8 +648,8 @@
       <tuv lang="EN">
         <seg>OmegaT configuration launchers (OmegaT.l4J.ini, omegat.kaptn and OmegaT.sh) contain a template entry.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Stephanie" changedate="20150523T171044Z" creationid="Stephanie" creationdate="20150523T171021Z">
-        <seg>La configuració de les interfícies d'inici d'OmegaT (OmegaT.l4J.ini, omegat.kaptn and OmegaT.sh) contenen un model de plantilla.</seg>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T221621Z" creationid="Stephanie" creationdate="20150523T171021Z">
+        <seg>La configuració de les interfícies d'inici d'OmegaT (OmegaT.l4J.ini, omegat.kaptn and OmegaT.sh) contenen un model d'entrada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1104,8 +1104,8 @@
       <tuv lang="EN">
         <seg>When accessing the service without a private key, the following message will be put in the log: TaaS API key not found.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Stephanie" changedate="20150523T171302Z" creationid="Stephanie" creationdate="20150523T171302Z">
-        <seg>Quan s'accedeixi al servei sense una clau privada, el següent missatge apareixerà en el registre: clau Taas API no trobada.</seg>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T221830Z" creationid="Stephanie" creationdate="20150523T171302Z">
+        <seg>Si s'accedeix al servei sense una clau privada, el següent missatge apareixerà en el registre: TaaS API key not found (clau TaaS API no trobada).</seg>
       </tuv>
     </tu>
     <tu>
