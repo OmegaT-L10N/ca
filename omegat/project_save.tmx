@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will first commit the current contents to the server repository and then update the local copy of the repository - i.e. the contents of .svn subfolder - so that it is up to date with the latest repository version.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T180504Z" creationid="Stephanie" creationdate="20150525T180504Z">
+        <seg>Serà primer cometre els continguts actuals al repositori del servidor i després actualitzar la còpia local del repositori - és a dir, el contingut de subcarpeta .svn - de manera que està al dia amb l'última versió del repositori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Languages selection</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T161238Z" creationid="Stephanie" creationdate="20150523T161238Z">
@@ -610,6 +618,14 @@
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T164110Z" creationid="Stephanie" creationdate="20150523T164110Z">
         <seg>OmegaT no s'iniciarà si els tokenizers es troben a la carpeta / plugins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will recognize it is a team project, and will synchronize everything automatically, every three minutes by default.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T180553Z" creationid="Stephanie" creationdate="20150525T180553Z">
+        <seg>OmegaT reconeixerà que és un projecte d'equip, i sincronitzarà, per defecte, tots els elements automàticament cada tres minuts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -738,6 +754,14 @@
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150525T175725Z" creationid="Stephanie" creationdate="20150525T175725Z">
         <seg>El procés d'afegiment ha finalitzat!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Commit window will open and show the progress of the commit command.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T180448Z" creationid="Stephanie" creationdate="20150525T180448Z">
+        <seg>La finestra de confirmació s'obrirà i mostrarà el progrés de la comanda de confirmació.</seg>
       </tuv>
     </tu>
     <tu>
