@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T125134Z" creationid="Alexandra" creationdate="20150526T125031Z">
+        <seg>Documents "How to" en aquesta web, que contenen informació sobre certs procediments i funcions d'OmegaT per a usuaris avançats que no estan regits pel manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>( &lt;c0&gt;OmegaT&lt;/c0&gt; and &lt;c1&gt;OmegaT SL Localization &lt;/c1&gt;in the example used here)</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150525T223944Z" creationid="Stephanie" creationdate="20150525T162023Z">
@@ -358,6 +366,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Susan Welsh (Open Document Format).</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T124851Z" creationid="Alexandra" creationdate="20150526T124851Z">
+        <seg>Per Susan Gal (Format de Document obert).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Susan Welsh (PDF format).</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T124929Z" creationid="Alexandra" creationdate="20150526T124929Z">
+        <seg>Per Susan Gal (PDF format).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 19. Glossaries</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T165728Z" creationid="Stephanie" creationdate="20150523T165728Z">
@@ -422,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compatibility HowTos</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T125146Z" creationid="Alexandra" creationdate="20150526T125146Z">
+        <seg>Compatibilitat HowTo's</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T102544Z" creationid="Alexandra" creationdate="20150526T102544Z">
@@ -474,6 +506,22 @@
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150525T225219Z" creationid="Stephanie" creationdate="20150525T181706Z">
         <seg>Les credencials s'emmagatzemen, per la qual cosa no serà necessari inserir-les cada vegada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with Microsoft Office 2007 files, especially Word 2007.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T125315Z" creationid="Alexandra" creationdate="20150526T125315Z">
+        <seg>Descriu la compatibilitat d'OmegaT amb arxius de Microsoft Office 2007, especialment Word 2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with selected other software products.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T125228Z" creationid="Alexandra" creationdate="20150526T125228Z">
+        <seg>Descriu la compatibilitat d'OmegaT amb altres productes de programari selectius.</seg>
       </tuv>
     </tu>
     <tu>
@@ -918,10 +966,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT compatibility</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T125156Z" creationid="Alexandra" creationdate="20150526T125156Z">
+        <seg>Compatibilitat d'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT configuration launchers (OmegaT.l4J.ini, omegat.kaptn and OmegaT.sh) contain a template entry.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150525T221621Z" creationid="Stephanie" creationdate="20150523T171021Z">
         <seg>La configuració de les interfícies d'inici d'OmegaT (OmegaT.l4J.ini, omegat.kaptn and OmegaT.sh) contenen un model d'entrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT for Beginners tutorial</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T124839Z" creationid="Alexandra" creationdate="20150526T124839Z">
+        <seg>Tutorial d'OmegaT per a principiants</seg>
       </tuv>
     </tu>
     <tu>
@@ -1646,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With links to more detailed HOWTOs.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T125254Z" creationid="Alexandra" creationdate="20150526T125254Z">
+        <seg>Amb enllaços a How to's més detallats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Within a given language pair it is best to keep different subjects and/or clients as separate repositories as well.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150525T224034Z" creationid="Stephanie" creationdate="20150525T163348Z">
@@ -1690,6 +1762,14 @@
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T102527Z" creationid="Alexandra" creationdate="20150526T102527Z">
         <seg>es pot utilitzar amb alfabets no llatins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>docx compatibility</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T125258Z" creationid="Alexandra" creationdate="20150526T125258Z">
+        <seg>compatibilitat de docx</seg>
       </tuv>
     </tu>
     <tu>
