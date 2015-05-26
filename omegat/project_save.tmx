@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, if you already know which version you wish to download, click on the link to the Download Overview.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T123910Z" creationid="Alexandra" creationdate="20150526T123910Z">
+        <seg>Alternativament, si ja sap quina versió voleu descarregar, feu clic a l'enllaç a l'enllaç de descarregar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, to avoid this issue you can set a private SVN server, for example if you already have an Apache server that includes the software in question (e.g. VisualSVN).</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150525T223735Z" creationid="Stephanie" creationdate="20150524T230246Z">
@@ -486,6 +494,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download Overview</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T124215Z" creationid="Alexandra" creationdate="20150526T124215Z">
+        <seg>Visió de descàrrega</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Selector</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T124013Z" creationid="Alexandra" creationdate="20150526T124013Z">
+        <seg> Selector de descàrrega</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter an appropriate message into the message window and press &lt;s0&gt;OK&lt;/s0&gt;.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150525T180357Z" creationid="Stephanie" creationdate="20150525T180357Z">
@@ -586,6 +610,14 @@
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150524T175837Z" creationid="Stephanie" creationdate="20150523T171323Z">
         <seg>Aneu a https://demo.taas-project.eu/account/keys/create?system=omegaT per crear la vostra pròpia clau i després introduïu-la a OmegaT a través de -Dtaas.user.key = xxxxx (TAAS_API_KEY_NOT_FOUND)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Guides you step-by-step to selecting a suitable OmegaT version for download.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T124024Z" creationid="Alexandra" creationdate="20150526T124024Z">
+        <seg>Guia pas a pas per seleccionar una versió d'OmegaT adequada per descarregar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1368,8 +1400,8 @@
       <tuv lang="EN">
         <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Alexandra" changedate="20150526T123729Z" creationid="Alexandra" creationdate="20150526T123729Z">
-        <seg>Per trobar la versió més adequada per a vostè, seguiu l'enllaç sota pel Selector de descarregar.</seg>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T123938Z" creationid="Alexandra" creationdate="20150526T123729Z">
+        <seg>Per trobar la versió més adequada per a vostè, seguiu l'enllaç baix el Selector de descarregar.</seg>
       </tuv>
     </tu>
     <tu>
