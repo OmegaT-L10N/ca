@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>"Aligner" aligner utility</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T140656Z" creationid="Alexandra" creationdate="20150526T140656Z">
+        <seg>Utilitat d'alineador "Aligner"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Bligner" aligner utility</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T140633Z" creationid="Alexandra" creationdate="20150526T140633Z">
+        <seg>Utilitat d'alineador de "Bligner"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T125134Z" creationid="Alexandra" creationdate="20150526T125031Z">
@@ -630,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributed by Didier Briel.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T140619Z" creationid="Alexandra" creationdate="20150526T140619Z">
+        <seg>Aportades per Didier Briel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributed by Dmitri Gabinski.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T134840Z" creationid="Alexandra" creationdate="20150526T134840Z">
@@ -1222,10 +1246,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java command-line script for merging two or more TMX files.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T140558Z" creationid="Alexandra" creationdate="20150526T140558Z">
+        <seg>Línia d'ordres d'escriptura de Java per fusionar dos o més fitxers TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java command-line script for removing "superfluous" translation units from a TMX file: deletes all TUs without target segment or in which the target segment is identical to the source segment.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Alexandra" changedate="20150526T140423Z" creationid="Alexandra" creationdate="20150526T140423Z">
-        <seg>Suprimeix tots els TUs sense segment de destinació o en que el segment objectiu sigui idèntic al segment font.</seg>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T140613Z" creationid="Alexandra" creationdate="20150526T140423Z">
+        <seg>Línia d'ordres d'escriptura de Java per treure unitats de traducció "superflu" d'un fitxer TMX: Suprimeix tots els TUs sense segment de destinació o en que el segment objectiu sigui idèntic al segment font.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2558,6 +2590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Utilities</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T140659Z" creationid="Alexandra" creationdate="20150526T140659Z">
+        <seg>Utilitats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Utility for converting Trados TagEditor (TTX) files to an intermediate format, enabling them to be translated in OmegaT.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T140306Z" creationid="Alexandra" creationdate="20150526T140306Z">
@@ -2634,6 +2674,22 @@
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T134852Z" creationid="Alexandra" creationdate="20150526T134852Z">
         <seg>Convertidor d'arxius de Wordfast TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Written in Python.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T140641Z" creationid="Alexandra" creationdate="20150526T140641Z">
+        <seg>Escrit en Python.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Written in Python/Perl.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T140623Z" creationid="Alexandra" creationdate="20150526T140623Z">
+        <seg>Escrit en Python/Perl.</seg>
       </tuv>
     </tu>
     <tu>
