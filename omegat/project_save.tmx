@@ -1222,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java command-line script for removing "superfluous" translation units from a TMX file: deletes all TUs without target segment or in which the target segment is identical to the source segment.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T140423Z" creationid="Alexandra" creationdate="20150526T140423Z">
+        <seg>Suprimeix tots els TUs sense segment de destinació o en que el segment objectiu sigui idèntic al segment font.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LF Aligner</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T134034Z" creationid="Alexandra" creationdate="20150526T134034Z">
