@@ -62,10 +62,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Create a TMX file containing all strings, with identical source and target</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T133739Z" creationid="Alexandra" creationdate="20150526T133739Z">
+        <seg>-Crear un fitxer TMX que conté totes les memòries, amb idèntic origen i destinació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Extract all source text from the project files into a single, large text file</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T133805Z" creationid="Alexandra" creationdate="20150526T133805Z">
+        <seg>-Extreure tot el text font des dels fitxers de projecte a un gran arxiu de text senzill</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Remove all text except tags, or all tags except text</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T133546Z" creationid="Alexandra" creationdate="20150526T133546Z">
         <seg>-Tregui tot el text excepte Etiquetes o totes les Etiquetes excepte el text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Skip segments containing a certain set of characters</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T133812Z" creationid="Alexandra" creationdate="20150526T133812Z">
+        <seg>-Segments de Skip que contenen un cert conjunt de caràcters</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T134030Z" creationid="Alexandra" creationdate="20150526T134030Z">
+        <seg>Una eina intel·ligent d'alineació per a produir fitxers de memòries de traducció de textos de llegat i les seves traduccions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T130614Z" creationid="Alexandra" creationdate="20150526T130600Z">
@@ -626,6 +658,14 @@
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T130409Z" creationid="Alexandra" creationdate="20150526T130409Z">
         <seg>Es descriu com utilitzar OmegaT conjuntament amb format de RTF Trados bilingüe ("sense netejar" arxius).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Descriptions of and links to Samuel Murray's scripts/procedures.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T133904Z" creationid="Alexandra" creationdate="20150526T133904Z">
+        <seg>Descripcions de i enllaços a escriptures/procediments de Samuel Murray.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1134,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most of these scripts require MS Windows, although some procedures may also work on other platforms.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T133846Z" creationid="Alexandra" creationdate="20150526T133846Z">
+        <seg>La majoria d'aquests guions requereixen MS Windows, encara que alguns procediments també poden treballar en altres plataformes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Navigation footer</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T164237Z" creationid="Stephanie" creationdate="20150523T164237Z">
@@ -1522,6 +1570,22 @@
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T102548Z" creationid="Alexandra" creationdate="20150526T102548Z">
         <seg>Requisits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Samuel Murray's scripts and procedures</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T133942Z" creationid="Alexandra" creationdate="20150526T133921Z">
+        <seg>Escriptures i procediments de Samuel Murray</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripts/procedures are available to enable you to do the following:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150526T133833Z" creationid="Alexandra" creationdate="20150526T133833Z">
+        <seg>Escriptures/procediments estan disponibles i permeten fer el següent:</seg>
       </tuv>
     </tu>
     <tu>
