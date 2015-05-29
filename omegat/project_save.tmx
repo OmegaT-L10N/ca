@@ -296,8 +296,8 @@
       <tuv lang="EN">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;s1&gt;&lt;e2&gt;typed&lt;/e2&gt;&lt;/s1&gt;, &lt;s3&gt;&lt;e4&gt;pressed&lt;/e4&gt;&lt;/s3&gt;, &lt;s5&gt;&lt;e6&gt;released&lt;/e6&gt;&lt;/s5&gt;</seg>
       </tuv>
-      <tuv lang="CA" changeid="Packard Bell" changedate="20150529T103635Z" creationid="Packard Bell" creationdate="20150529T103635Z">
-        <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; pot ser: &lt;s1&gt;&lt;e2&gt;typed&lt;/e2&gt;&lt;/s1&gt;, &lt;s3&gt;&lt;e4&gt;pressed&lt;/e4&gt;&lt;/s3&gt;, &lt;s5&gt;&lt;e6&gt;released&lt;/e6&gt;&lt;/s5&gt;</seg>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150529T103831Z" creationid="Packard Bell" creationdate="20150529T103635Z">
+        <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; pot ser: &lt;s1&gt;&lt;e2&gt;escrit&lt;/e2&gt;&lt;/s1&gt;, &lt;s3&gt;&lt;e4&gt;premut&lt;/e4&gt;&lt;/s3&gt;, &lt;s5&gt;&lt;e6&gt;deixat anar&lt;/e6&gt;&lt;/s5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1299,6 +1299,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T132546Z" creationid="Alexandra" creationdate="20150526T132546Z">
         <seg>Per defensors del programari de codi obert, aquesta llibertat és encara més important que l'exempció d'haver de pagar res.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, in the default OmegaT shortcuts&lt;a0&gt;&lt;s1&gt;[5]&lt;/s1&gt;&lt;/a0&gt;, one can find:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150529T103929Z" creationid="Packard Bell" creationdate="20150529T103929Z">
+        <seg>Per exemple, en les dreceres per defecte d'OmegaT &lt;a0&gt;&lt;s1&gt;[5]&lt;/s1&gt;&lt;/a0&gt;, es pot trobar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3759,6 +3767,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard&lt;a1&gt;&lt;s2&gt;[4]&lt;/s2&gt;&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150529T103848Z" creationid="Packard Bell" creationdate="20150529T103848Z">
+        <seg>i &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; pot ser qualsevol tecla disponible en el seu teclat&lt;a1&gt;&lt;s2&gt;[4]&lt;/s2&gt;&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>can be used with non-Latin alphabets</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T102527Z" creationid="Alexandra" creationdate="20150526T102527Z">
@@ -3771,6 +3787,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T125258Z" creationid="Alexandra" creationdate="20150526T125258Z">
         <seg>compatibilitat de docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150529T103940Z" creationid="Packard Bell" creationdate="20150529T103940Z">
+        <seg>editCreateGlossaryEntryMenuItem=ctrl Maj G</seg>
       </tuv>
     </tu>
     <tu>
