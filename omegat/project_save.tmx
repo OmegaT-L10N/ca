@@ -304,8 +304,8 @@
       <tuv lang="EN">
         <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; can be: &lt;s1&gt;&lt;e2&gt;shift&lt;/e2&gt;&lt;/s1&gt;, &lt;s3&gt;&lt;e4&gt;control&lt;/e4&gt;&lt;/s3&gt;, &lt;s5&gt;&lt;e6&gt;ctrl&lt;/e6&gt;&lt;/s5&gt;, &lt;s7&gt;&lt;e8&gt;meta&lt;/e8&gt;&lt;/s7&gt;&lt;a9&gt;&lt;s10&gt;[3]&lt;/s10&gt;&lt;/a9&gt;, &lt;s11&gt;&lt;e12&gt;alt&lt;/e12&gt;&lt;/s11&gt;, &lt;s13&gt;&lt;e14&gt;altGraph&lt;/e14&gt;&lt;/s13&gt;</seg>
       </tuv>
-      <tuv lang="CA" changeid="Packard Bell" changedate="20150529T103311Z" creationid="Packard Bell" creationdate="20150529T103311Z">
-        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; pot ser: &lt;s1&gt;&lt;e2&gt;Maj&lt;/e2&gt;&lt;/s1&gt;, &lt;s3&gt;&lt;e4&gt;control&lt;/e4&gt;&lt;/s3&gt;, &lt;s5&gt;&lt;e6&gt;ctrl&lt;/e6&gt;&lt;/s5&gt;, &lt;s7&gt;&lt;e8&gt;meta&lt;/e8&gt;&lt;/s7&gt;&lt;a9&gt;&lt;s10&gt;[3]&lt;/s10&gt;&lt;/a9&gt;, &lt;s11&gt;&lt;e12&gt;alt&lt;/e12&gt;&lt;/s11&gt;, &lt;s13&gt;&lt;e14&gt;altGraph&lt;/e14&gt;&lt;/s13&gt;</seg>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150529T104255Z" creationid="Packard Bell" creationdate="20150529T103311Z">
+        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; pot ser: &lt;s1&gt;&lt;e2&gt;shift&lt;/e2&gt;&lt;/s1&gt;, &lt;s3&gt;&lt;e4&gt;control&lt;/e4&gt;&lt;/s3&gt;, &lt;s5&gt;&lt;e6&gt;ctrl&lt;/e6&gt;&lt;/s5&gt;, &lt;s7&gt;&lt;e8&gt;meta&lt;/e8&gt;&lt;/s7&gt;&lt;a9&gt;&lt;s10&gt;[3]&lt;/s10&gt;&lt;/a9&gt;, &lt;s11&gt;&lt;e12&gt;alt&lt;/e12&gt;&lt;/s11&gt;, &lt;s13&gt;&lt;e14&gt;altGraph&lt;/e14&gt;&lt;/s13&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2991,6 +2991,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first is the shortcut for &lt;s0&gt;Open Project&lt;/s0&gt;, the second for &lt;s1&gt;Create Glossary Entry&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150529T104231Z" creationid="Packard Bell" creationdate="20150529T104231Z">
+        <seg>La primera és la drecera per &lt;s0&gt;Obre projecte&lt;/s0&gt;, la segona per &lt;s1&gt;Crea una entrada del glossari&lt;/s1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150528T211709Z" creationid="Packard Bell" creationdate="20150528T211253Z">
@@ -3787,14 +3795,6 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T125258Z" creationid="Alexandra" creationdate="20150526T125258Z">
         <seg>compatibilitat de docx</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
-      </tuv>
-      <tuv lang="CA" changeid="Packard Bell" changedate="20150529T103940Z" creationid="Packard Bell" creationdate="20150529T103940Z">
-        <seg>editCreateGlossaryEntryMenuItem=ctrl Maj G</seg>
       </tuv>
     </tu>
     <tu>
