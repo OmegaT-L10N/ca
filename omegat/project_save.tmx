@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Anything after the "//" will be ignored.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150529T095842Z" creationid="Packard Bell" creationdate="20150529T095842Z">
+        <seg>Qualsevol cosa després de la "//" serà ignorada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apertium Plugin</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T161514Z" creationid="Alexandra" creationdate="20150526T161514Z">
@@ -1123,6 +1131,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T092259Z" creationid="Packard Bell" creationdate="20150529T092227Z">
         <seg>Menú Edita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Empty lines are accepted and comment lines should start with "//".</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150529T095827Z" creationid="Packard Bell" creationdate="20150529T095827Z">
+        <seg>Les línies buides són acceptades i les línies de comentari han de començar amb "//".</seg>
       </tuv>
     </tu>
     <tu>
@@ -3035,6 +3051,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150525T223534Z" creationid="Stephanie" creationdate="20150524T224732Z">
         <seg>El servidor assegura que qualsevol canvi conflictiu, a causa de què dos membres que treballen en els mateixos continguts constatats, es resoldran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The shortcut definition file must be named &lt;c0&gt;MainMenuShortcuts.properties&lt;/c0&gt; and must contain at most one shortcut definition per line.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150529T095757Z" creationid="Packard Bell" creationdate="20150529T095757Z">
+        <seg>L'arxiu de definició de drecera ha de ser nomenat &lt;c0&gt;MainMenuShortcuts.properties&lt;/c0&gt; i ha de contenir com a màxim una definició de drecera per línia.</seg>
       </tuv>
     </tu>
     <tu>
