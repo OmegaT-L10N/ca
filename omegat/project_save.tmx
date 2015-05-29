@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;Replace All:&lt;/s1&gt;&lt;/s0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150529T161305Z" creationid="Packard Bell" creationdate="20150529T161305Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Substitueix  All:&lt;/s1&gt;&lt;/s0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;&lt;s1&gt;TaaS Terminology Lookup&lt;/s1&gt;&lt;/s0&gt;: when checked, will allow querying TaaS data on a segment by segment basis.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150524T182107Z" creationid="Stephanie" creationdate="20150524T182107Z">
@@ -1499,6 +1507,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150525T171705Z" creationid="Stephanie" creationdate="20150525T171705Z">
         <seg>Escriviu la URL proporcionada per ProjectLocker, en el camp&lt;s0&gt;&lt;s1&gt;URL of repository&lt;/s1&gt;&lt;/s0&gt; (URL del repositori).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;s0&gt;&lt;e1&gt;Replace with&lt;/e1&gt;&lt;/s0&gt; box, then click one of the following options:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150529T161205Z" creationid="Packard Bell" creationdate="20150529T161205Z">
+        <seg>Introduïu la paraula o frase (no funciona amb expressions regulars) en el quadre &lt;s0&gt;&lt;e1&gt;Substitueix amb&lt;/e1&gt;&lt;/s0&gt; i feu clic en una de les següents opcions:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2945,7 +2961,7 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>Open the Search and replace window with &lt;s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt;&lt;/s0&gt;+&lt;s2&gt;&lt;s3&gt;K&lt;/s3&gt;&lt;/s2&gt; and enter the word or expression you wish to replace in the &lt;s4&gt;&lt;e5&gt;Search for&lt;/e5&gt;&lt;/s4&gt; box.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Packard Bell" changedate="20150529T160347Z" creationid="Packard Bell" creationdate="20150529T160347Z">
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150529T161505Z" creationid="Packard Bell" creationdate="20150529T160347Z">
         <seg>Obriu la finestra Cerca i substitueix amb &lt;s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt;&lt;/s0&gt;+&lt;s2&gt;&lt;s3&gt;K&lt;/s3&gt;&lt;/s2&gt; i escriviu la paraula o frase que voleu canviar en el quadre Cerca.</seg>
       </tuv>
     </tu>
