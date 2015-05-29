@@ -296,8 +296,8 @@
       <tuv lang="EN">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;s1&gt;&lt;e2&gt;typed&lt;/e2&gt;&lt;/s1&gt;, &lt;s3&gt;&lt;e4&gt;pressed&lt;/e4&gt;&lt;/s3&gt;, &lt;s5&gt;&lt;e6&gt;released&lt;/e6&gt;&lt;/s5&gt;</seg>
       </tuv>
-      <tuv lang="CA" changeid="Packard Bell" changedate="20150529T103831Z" creationid="Packard Bell" creationdate="20150529T103635Z">
-        <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; pot ser: &lt;s1&gt;&lt;e2&gt;escrit&lt;/e2&gt;&lt;/s1&gt;, &lt;s3&gt;&lt;e4&gt;premut&lt;/e4&gt;&lt;/s3&gt;, &lt;s5&gt;&lt;e6&gt;deixat anar&lt;/e6&gt;&lt;/s5&gt;</seg>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150529T104513Z" creationid="Packard Bell" creationdate="20150529T103635Z">
+        <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; pot ser: &lt;s1&gt;&lt;e2&gt;teclejeu&lt;/e2&gt;&lt;/s1&gt;, &lt;s3&gt;&lt;e4&gt;manteniu premut&lt;/e4&gt;&lt;/s3&gt;, &lt;s5&gt;&lt;e6&gt;deixeu anar&lt;/e6&gt;&lt;/s5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1523,6 +1523,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T123717Z" creationid="Alexandra" creationdate="20150526T110300Z">
         <seg>Si ha trobat útil OmegaT i  t'agradaria expressar la seva gratitud, fent una donació, aneu a la pàgina de GmailI de OmegaT SourceForge feu clic a "Donar".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to use &lt;s0&gt;&lt;s1&gt;Shift&lt;/s1&gt;&lt;/s0&gt;+&lt;s2&gt;&lt;s3&gt;Ctrl&lt;/s3&gt;&lt;/s2&gt;+&lt;s4&gt;&lt;s5&gt;O&lt;/s5&gt;&lt;/s4&gt; to open a project, modify your &lt;c6&gt;MainMenuShortcuts.properties&lt;/c6&gt; as follows:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150529T104611Z" creationid="Packard Bell" creationdate="20150529T104611Z">
+        <seg>Si voleu utilitzar &lt;s0&gt;&lt;s1&gt;Shift&lt;/s1&gt;&lt;/s0&gt;+&lt;s2&gt;&lt;s3&gt;Ctrl&lt;/s3&gt;&lt;/s2&gt;+&lt;s4&gt;&lt;s5&gt;O&lt;/s5&gt;&lt;/s4&gt; per obrir un projecte, modifiqui l'arxiu &lt;c6&gt;MainMenuShortcuts.properties&lt;/c6&gt; de la següent manera:</seg>
       </tuv>
     </tu>
     <tu>
