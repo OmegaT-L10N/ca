@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150529T102012Z" creationid="Packard Bell" creationdate="20150529T102012Z">
+        <seg>&lt;drecera&gt; ha de ser de la següent manera: 0 o més &lt;c0&gt;&lt;modificador&gt;&lt;/c0&gt; seguit de 0 o 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T134239Z" creationid="Alexandra" creationdate="20150526T134239Z">
