@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2257,8 +2257,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>It will be used automatically by OmegaT if &lt;s0&gt;Options &gt; Language Checker&lt;/s0&gt; is checked.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Packard Bell" changedate="20150528T181209Z" creationid="Packard Bell" creationdate="20150528T180558Z">
-        <seg>Serà aplicat automàticament per OmegaT si feu clic en Opcions&gt; Verificador lingüístic.</seg>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150530T102556Z" creationid="Packard Bell" creationdate="20150528T180558Z">
+        <seg>Serà aplicat automàticament per OmegaT si feu clic en &lt;s0&gt;Opcions&gt; Verificador lingüístic&lt;/s0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4881,8 +4881,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;s1&gt;&lt;e2&gt;also &lt;/e2&gt;&lt;/s1&gt;and &lt;s3&gt;&lt;e4&gt;I didn't do nothing&lt;/e4&gt;&lt;/s3&gt; in the picture above).</seg>
       </tuv>
-      <tuv lang="CA" changeid="Packard Bell" changedate="20150528T181538Z" creationid="Packard Bell" creationdate="20150528T181538Z">
-        <seg>Quan es detecta un error, la frase corresponent se subratllarà en blau en l'Editor (vegeu also i I didn't do nothing en la imatge de dalt).</seg>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150530T102722Z" creationid="Packard Bell" creationdate="20150528T181538Z">
+        <seg>Quan es detecta un error, la frase corresponent se subratllarà en blau en l'Editor (vegeu &lt;s1&gt;&lt;e2&gt;also&lt;/e2&gt;&lt;/s1 i &lt;s3&gt;&lt;e4&gt;I didn't do nothing&lt;/e4&gt;&lt;/s3&gt; en la imatge de dalt).</seg>
       </tuv>
     </tu>
     <tu>
