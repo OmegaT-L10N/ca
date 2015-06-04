@@ -64,8 +64,8 @@
       <tuv lang="EN">
         <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
       </tuv>
-      <tuv lang="CA" changeid="Alexandra" changedate="20150526T161442Z" creationid="Alexandra" creationdate="20150526T161442Z">
-        <seg>(No confondre amb la funció "Exportar Text", que també permet seqüències d'ordres ser utilitzat amb l'OmegaT, però a un nivell més bàsic).</seg>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150604T202341Z" creationid="Alexandra" creationdate="20150526T161442Z">
+        <seg>(No s'ha de confondre amb la funció "Exportar Text", que també permet la utilització de seqüències d'ordres amb l'OmegaT, però a un nivell més bàsic).</seg>
       </tuv>
     </tu>
     <tu>
@@ -800,8 +800,8 @@
       <tuv lang="EN">
         <seg>Apertium Plugin</seg>
       </tuv>
-      <tuv lang="CA" changeid="Alexandra" changedate="20150526T161514Z" creationid="Alexandra" creationdate="20150526T161514Z">
-        <seg>Plugin de Apertium</seg>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150604T202348Z" creationid="Alexandra" creationdate="20150526T161514Z">
+        <seg>Connector d'Apertium</seg>
       </tuv>
     </tu>
     <tu>
@@ -912,8 +912,8 @@
       <tuv lang="EN">
         <seg>A HowTo describing the tokenizers plug-in is also available.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Alexandra" changedate="20150526T161307Z" creationid="Alexandra" creationdate="20150526T161307Z">
-        <seg>També hi ha un HowTo descrivint els tokenizers plug-in.</seg>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150604T202329Z" creationid="Alexandra" creationdate="20150526T161307Z">
+        <seg>També hi ha disponible un Com-es-fa descrivint el connector tokenizers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -944,9 +944,8 @@
       <tuv lang="EN">
         <seg>Blog pages on OmegaT.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Alexandra" changedate="20150526T161049Z" creationid="Alexandra" creationdate="20150526T161049Z">
-        <seg>Pàgines de blog sobre
-OmegaT.</seg>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150604T202302Z" creationid="Alexandra" creationdate="20150526T161049Z">
+        <seg>Pàgines de blog sobre OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1097,8 +1096,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>Checks for language errors (style, grammar, etc.).</seg>
       </tuv>
-      <tuv lang="CA" changeid="Alexandra" changedate="20150526T161346Z" creationid="Alexandra" creationdate="20150526T161346Z">
-        <seg>Comprovacions per a errors de llenguatge (estil, gramàtica, etc.).</seg>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150604T202332Z" creationid="Alexandra" creationdate="20150526T161346Z">
+        <seg>Comprovacions per a errors de llenguatge (estil, &lt;s0/&gt;gramàtica, etc.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1537,8 +1536,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>Enables external scripts to access OmegaT's functionality.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Alexandra" changedate="20150526T161404Z" creationid="Alexandra" creationdate="20150526T161404Z">
-        <seg>Permet escriptures externes accedir a la funcionalitat d'OmegaT.</seg>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150604T202338Z" creationid="Alexandra" creationdate="20150526T161404Z">
+        <seg>Permet els scripts externes accedir a les funcions d'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2049,8 +2048,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>Important: in order to use the plug-ins, you may need to install a more recent version of OmegaT.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Alexandra" changedate="20150526T155351Z" creationid="Alexandra" creationdate="20150526T155351Z">
-        <seg>per poder utilitzar els plug-ins, pot necessitar instal·lar una versió més recent d'OmegaT.</seg>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150604T202353Z" creationid="Alexandra" creationdate="20150526T155351Z">
+        <seg>Important: per poder utilitzar els connectors, és possible que hagueu d'instal·lar una versió més recent d'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2161,8 +2160,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Alexandra" changedate="20150526T161527Z" creationid="Alexandra" creationdate="20150526T161527Z">
-        <seg>Integra la funcionalitat de traducció automàtica Apertium a OmegaT.</seg>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150604T202351Z" creationid="Alexandra" creationdate="20150526T161527Z">
+        <seg>S'integra la funcionalitat de traducció automàtica Apertium a OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2329,8 +2328,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>LanguageTool plug-in</seg>
       </tuv>
-      <tuv lang="CA" changeid="Alexandra" changedate="20150526T161336Z" creationid="Alexandra" creationdate="20150526T161336Z">
-        <seg>Plug-in de funció de llenguatge</seg>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150604T202331Z" creationid="Alexandra" creationdate="20150526T161336Z">
+        <seg>Connector LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -2729,8 +2728,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>Okapi Filters Plugin</seg>
       </tuv>
-      <tuv lang="CA" changeid="Alexandra" changedate="20150526T161454Z" creationid="Alexandra" creationdate="20150526T161454Z">
-        <seg>Filtres Okapi Plugin</seg>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150604T202343Z" creationid="Alexandra" creationdate="20150526T161454Z">
+        <seg>Connector Filtres Okapi</seg>
       </tuv>
     </tu>
     <tu>
@@ -2913,8 +2912,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>OmegaT plug-ins</seg>
       </tuv>
-      <tuv lang="CA" changeid="Alexandra" changedate="20150526T161143Z" creationid="Alexandra" creationdate="20150526T161133Z">
-        <seg>Plug-ins d'OmegaT</seg>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150604T202322Z" creationid="Alexandra" creationdate="20150526T161133Z">
+        <seg>OmegaT connectors</seg>
       </tuv>
     </tu>
     <tu>
@@ -3305,8 +3304,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>Provides recognition of inflected forms in fuzzy matches and glossary hits.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Alexandra" changedate="20150526T161250Z" creationid="Alexandra" creationdate="20150526T161250Z">
-        <seg>Proporciona el reconeixement de les formes declinades a coincidències parcials i coincidències de glossari.</seg>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150604T202326Z" creationid="Alexandra" creationdate="20150526T161250Z">
+        <seg>Proporciona el reconeixement de les formes flexionades les coincidències parcials i les peticions de fitxer del glossari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3529,8 +3528,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>Scripting plug-in</seg>
       </tuv>
-      <tuv lang="CA" changeid="Alexandra" changedate="20150526T161350Z" creationid="Alexandra" creationdate="20150526T161350Z">
-        <seg>Seqüències plug-in</seg>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150604T202335Z" creationid="Alexandra" creationdate="20150526T161350Z">
+        <seg>Connector Scripting</seg>
       </tuv>
     </tu>
     <tu>
@@ -4529,8 +4528,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>Tokenizers plug-in</seg>
       </tuv>
-      <tuv lang="CA" changeid="Alexandra" changedate="20150526T161210Z" creationid="Alexandra" creationdate="20150526T161210Z">
-        <seg>Tokenizers Plug-in</seg>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150604T202324Z" creationid="Alexandra" creationdate="20150526T161210Z">
+        <seg>Connector Tokenizers</seg>
       </tuv>
     </tu>
     <tu>
@@ -5169,9 +5168,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>on translation and the</seg>
       </tuv>
-      <tuv lang="CA" changeid="Alexandra" changedate="20150526T161038Z" creationid="Alexandra" creationdate="20150526T160744Z">
-        <seg>sobre la traducció i
-la</seg>
+      <tuv lang="CA" changeid="Alexandra" changedate="20150604T202256Z" creationid="Alexandra" creationdate="20150526T160744Z">
+        <seg>sobre la traducció i la</seg>
       </tuv>
     </tu>
     <tu>
