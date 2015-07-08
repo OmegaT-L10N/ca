@@ -1,0 +1,1953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>1.1. Search options</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T163124Z" creationid="Packard Bell" creationdate="20150605T163124Z">
+        <seg>1.1. Opcions de cerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1. &lt;a0&gt;&lt;/a0&gt;Shortcuts customization</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160945Z" creationid="Packard Bell" creationdate="20150605T160945Z">
+        <seg>1. &lt;a0&gt;&lt;/a0&gt;Personalització de dreceres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1. &lt;s0&gt;OmegaT&lt;/s0&gt; sites and &lt;s1&gt;OmegaT&lt;/s1&gt; SourceForge project</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162308Z" creationid="Packard Bell" creationdate="20150605T162308Z">
+        <seg>Llocs web d'&lt;s0&gt;OmegaT&lt;/s0&gt; i projecte d'&lt;s1&gt;OmegaT&lt;/s1&gt; a SourceForge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1. Introduction</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T155135Z" creationid="Packard Bell" creationdate="20150605T155135Z">
+        <seg>1. Introducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1. Search window</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162757Z" creationid="Packard Bell" creationdate="20150605T162757Z">
+        <seg>1. Finestra de cerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2. Bug reports</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162448Z" creationid="Packard Bell" creationdate="20150605T162448Z">
+        <seg>2. Informes d'errors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2. Installation and Use</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T155829Z" creationid="Packard Bell" creationdate="20150605T155829Z">
+        <seg>2. Instal·lació i ús</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2. Project Menu</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161245Z" creationid="Packard Bell" creationdate="20150605T161245Z">
+        <seg>2. Menú Projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2. Use</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160449Z" creationid="Packard Bell" creationdate="20150605T160449Z">
+        <seg>2. Ús</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2. User settings files</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160939Z" creationid="Packard Bell" creationdate="20150605T160939Z">
+        <seg>2. Fitxers de configuració de l'usuari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.2. Search window</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T163126Z" creationid="Packard Bell" creationdate="20150605T163126Z">
+        <seg>3.2. Finestra de cerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3. Contributing to &lt;s0&gt;OmegaT&lt;/s0&gt; project</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162504Z" creationid="Packard Bell" creationdate="20150605T162504Z">
+        <seg>3. Col·laboració en el projecte d'&lt;s0&gt;OmegaT&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3. Edit Menu</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161320Z" creationid="Packard Bell" creationdate="20150605T161320Z">
+        <seg>3. Menú Edita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3. Scripting languages</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160559Z" creationid="Packard Bell" creationdate="20150605T160559Z">
+        <seg>3. Els llenguatges script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4. GoTo Menu</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161544Z" creationid="Packard Bell" creationdate="20150605T161544Z">
+        <seg>4. Menú Vés a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5. View Menu</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161717Z" creationid="Packard Bell" creationdate="20150605T161717Z">
+        <seg>5. Menú visualització</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6. Tools Menu</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161813Z" creationid="Packard Bell" creationdate="20150605T161813Z">
+        <seg>6. Menú Eines</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>7. Options Menu</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161825Z" creationid="Packard Bell" creationdate="20150605T161825Z">
+        <seg>7. Menú Opcions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>8. Help Menu</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162045Z" creationid="Packard Bell" creationdate="20150605T162045Z">
+        <seg>8. Menú Ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;&lt;s1&gt;[2] &lt;/s1&gt;&lt;/a0&gt;The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;a2&gt;Java 1.6 keystrokes shortcuts&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162058Z" creationid="Packard Bell" creationdate="20150605T162058Z">
+        <seg>&lt;a0&gt;&lt;s1&gt;[2] &lt;/s1&gt;&lt;/a0&gt;La sintaxi completa de pulsacions (dreceres) es defineix en la següent documentació de Java 1.6 a Oracle (part inferior de la pàgina): &lt;a2&gt;Dreceres de pulsacions de teclat de Java 1.6&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;&lt;s1&gt;[3] &lt;/s1&gt;&lt;/a0&gt;On the Mac, the modifier &lt;s2&gt;&lt;e3&gt;meta&lt;/e3&gt;&lt;/s2&gt; must be used to specify the &lt;s4&gt;&lt;e5&gt;command&lt;/e5&gt;&lt;/s4&gt; key.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162100Z" creationid="Packard Bell" creationdate="20150605T162100Z">
+        <seg>&lt;a0&gt;&lt;s1&gt;[3] &lt;/s1&gt;&lt;/a0&gt;En Mac, el modificador &lt;s2&gt;&lt;e3&gt;meta&lt;/e3&gt;&lt;/s2&gt; s'ha d'utilitzar per especificar la tecla &lt;s4&gt;&lt;e5&gt;command&lt;/e5&gt;&lt;/s4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;&lt;s1&gt;[4] &lt;/s1&gt;&lt;/a0&gt;The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;a2&gt;Java 1.6 keyEvents description&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162104Z" creationid="Packard Bell" creationdate="20150605T162104Z">
+        <seg>&lt;a0&gt;&lt;s1&gt;[4] &lt;/s1&gt;&lt;/a0&gt;Els possibles keyevents (tecles) s'enumeren en la següent documentació de Java 1.6 a Oracle: &lt;a2&gt;Descripció de keyevents Java 1.6&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;&lt;s1&gt;[5] &lt;/s1&gt;&lt;/a0&gt;The default OmegaT shortcuts are available from Sourceforge: &lt;a2&gt;Default OmegaT Shortcuts&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162129Z" creationid="Packard Bell" creationdate="20150605T162129Z">
+        <seg>&lt;a0&gt;&lt;s1&gt;[5] &lt;/s1&gt;&lt;/a0&gt;Les dreceres per defecte d'OmegaT estan disponibles a Sourceforge:: &lt;a2&gt;Dreceres per defecte d'OmegaT &lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;LanguageTool&lt;/a0&gt; is an Open Source style and grammar proofreading software for English, French, German, Polish, Dutch, Romanian, and a number of other languages - see the &lt;a1&gt;list of supported languages&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T155303Z" creationid="Packard Bell" creationdate="20150605T155303Z">
+        <seg>&lt;a0&gt;LanguageTool&lt;/a0&gt; és un programari de codi obert i correcció gramatical per anglès, francès, alemany, polonès, holandès, romanès, i altres idiomes - vegeu la &lt;a1&gt;llista d'idiomes admesos&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Prev&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T155124Z" creationid="Packard Bell" creationdate="20150605T155124Z">
+        <seg>&lt;a0&gt;Anterior&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;s1&gt;&lt;e2&gt;typed&lt;/e2&gt;&lt;/s1&gt;, &lt;s3&gt;&lt;e4&gt;pressed&lt;/e4&gt;&lt;/s3&gt;, &lt;s5&gt;&lt;e6&gt;released&lt;/e6&gt;&lt;/s5&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161153Z" creationid="Packard Bell" creationdate="20150605T161153Z">
+        <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; pot ser: &lt;s1&gt;&lt;e2&gt;teclejeu&lt;/e2&gt;&lt;/s1&gt;, &lt;s3&gt;&lt;e4&gt;manteniu premut&lt;/e4&gt;&lt;/s3&gt;, &lt;s5&gt;&lt;e6&gt;deixeu anar&lt;/e6&gt;&lt;/s5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; can be: &lt;s1&gt;&lt;e2&gt;shift&lt;/e2&gt;&lt;/s1&gt;, &lt;s3&gt;&lt;e4&gt;control&lt;/e4&gt;&lt;/s3&gt;, &lt;s5&gt;&lt;e6&gt;ctrl&lt;/e6&gt;&lt;/s5&gt;, &lt;s7&gt;&lt;e8&gt;meta&lt;/e8&gt;&lt;/s7&gt;&lt;a9&gt;&lt;s10&gt;[3]&lt;/s10&gt;&lt;/a9&gt;, &lt;s11&gt;&lt;e12&gt;alt&lt;/e12&gt;&lt;/s11&gt;, &lt;s13&gt;&lt;e14&gt;altGraph&lt;/e14&gt;&lt;/s13&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161150Z" creationid="Packard Bell" creationdate="20150605T161150Z">
+        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; pot ser: &lt;s1&gt;&lt;e2&gt;shift&lt;/e2&gt;&lt;/s1&gt;, &lt;s3&gt;&lt;e4&gt;control&lt;/e4&gt;&lt;/s3&gt;, &lt;s5&gt;&lt;e6&gt;ctrl&lt;/e6&gt;&lt;/s5&gt;, &lt;s7&gt;&lt;e8&gt;meta&lt;/e8&gt;&lt;/s7&gt;&lt;a9&gt;&lt;s10&gt;[3]&lt;/s10&gt;&lt;/a9&gt;, &lt;s11&gt;&lt;e12&gt;alt&lt;/e12&gt;&lt;/s11&gt;, &lt;s13&gt;&lt;e14&gt;altGraph&lt;/e14&gt;&lt;/s13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161228Z" creationid="Packard Bell" creationdate="20150605T161228Z">
+        <seg>Si voleu utilitzar &lt;s0&gt;&lt;s1&gt;Shift&lt;/s1&gt;&lt;/s0&gt;+&lt;s2&gt;&lt;s3&gt;Ctrl&lt;/s3&gt;&lt;/s2&gt;+&lt;s4&gt;&lt;s5&gt;O&lt;/s5&gt;&lt;/s4&gt; per obrir un projecte, modifiqui el seu arxiu &lt;c6&gt;MainMenuShortcuts.properties&lt;/c6&gt; de la següent manera:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;Close:&lt;/s1&gt;&lt;/s0&gt; close the window without any change.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162853Z" creationid="Packard Bell" creationdate="20150605T162853Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Tanca:&lt;/s1&gt;&lt;/s0&gt; tanca la finestra sense fer cap canvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;Ctrl+N&lt;/s1&gt;&lt;/s0&gt; or &lt;s2&gt;&lt;s3&gt;Enter&lt;/s3&gt;&lt;/s2&gt; or &lt;s4&gt;&lt;s5&gt;Tab&lt;/s5&gt;&lt;/s4&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161642Z" creationid="Packard Bell" creationdate="20150605T161642Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Ctrl+N&lt;/s1&gt;&lt;/s0&gt; o &lt;s2&gt;&lt;s3&gt;Intro&lt;/s3&gt;&lt;/s2&gt; o &lt;s4&gt;&lt;s5&gt;Tab&lt;/s5&gt;&lt;/s4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;Ctrl+P&lt;/s1&gt;&lt;/s0&gt; or &lt;s2&gt;&lt;s3&gt;Ctrl+Enter&lt;/s3&gt;&lt;/s2&gt; or &lt;s4&gt;&lt;s5&gt;Ctrl+Tab&lt;/s5&gt;&lt;/s4&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161655Z" creationid="Packard Bell" creationdate="20150605T161655Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Ctrl+P&lt;/s1&gt;&lt;/s0&gt; o &lt;s2&gt;&lt;s3&gt;Ctrl+Enter&lt;/s3&gt;&lt;/s2&gt; o &lt;s4&gt;&lt;s5&gt;Ctrl+Tab&lt;/s5&gt;&lt;/s4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;Groovy&lt;/s1&gt;&lt;/s0&gt; (http://groovy.codehaus.org): is a dynamic language for the Java Virtual machine.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160603Z" creationid="Packard Bell" creationdate="20150605T160603Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Groovy&lt;/s1&gt;&lt;/s0&gt; (http://groovy.codehaus.org): és un llenguatge dinàmic per a la màquina virtual Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;JavaScript&lt;/s1&gt;&lt;/s0&gt; (sometimes abbreviated JS, not to be confused with Java): is a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160606Z" creationid="Packard Bell" creationdate="20150605T160606Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;JavaScript&lt;/s1&gt;&lt;/s0&gt; (de vegades abreujat JS, que no s'ha de confondre amb Java): és un llenguatge script basat en prototips dinàmic, de tipus feble i amb funcions de primera classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;Replace All:&lt;/s1&gt;&lt;/s0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T163006Z" creationid="Packard Bell" creationdate="20150605T162841Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Replace All&lt;/s1&gt;&lt;/s0&gt; (substitueix-ho tot): realitza la substitució de tots els resultats (després de mostrar una finestra de confirmació que indica el nombre de resultats).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;Replace:&lt;/s1&gt;&lt;/s0&gt; operates a "one by one" replacement, by the mean of buttons in the &lt;s2&gt;&lt;s3&gt;header of the Editor pane&lt;/s3&gt;&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162944Z" creationid="Packard Bell" creationdate="20150605T162843Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Replace&lt;/s1&gt;&lt;/s0&gt; (substitueix): realitza una substitució "un a un", mitjançant els botons de la &lt;s2&gt;&lt;s3&gt;capçalera del panell Editor&lt;/s3&gt;&lt;/s2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; sites and &lt;s1&gt;OmegaT&lt;/s1&gt; SourceForge project</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162248Z" creationid="Packard Bell" creationdate="20150605T162248Z">
+        <seg>Llocs web d''&lt;s0&gt;OmegaT&lt;/s0&gt; i projecte d'&lt;s1&gt;OmegaT&lt;/s1&gt; a SourceForge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161123Z" creationid="Packard Bell" creationdate="20150605T161123Z">
+        <seg>&lt;drecera&gt; ha de ser de la següent manera: 0 o més &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; seguit de 0 o 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; seguit d'1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, on:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>About...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162051Z" creationid="Packard Bell" creationdate="20150605T162051Z">
+        <seg>Quant a...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All the languages have access to the OmegaT object model, with the project as the top object.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160734Z" creationid="Packard Bell" creationdate="20150605T160734Z">
+        <seg>Totes les llengües tenen accés al model d'objectes OmegaT, amb el projecte com a objecte superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Always Confirm Quit</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161840Z" creationid="Packard Bell" creationdate="20150605T161840Z">
+        <seg>Confirma sempre en sortir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Anything after the "//" will be ignored.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161057Z" creationid="Packard Bell" creationdate="20150605T161057Z">
+        <seg>Qualsevol cosa després de la "//" serà ignorada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix D. Tokenizers</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T155118Z" creationid="Packard Bell" creationdate="20150605T155118Z">
+        <seg>Apèndix D. Tokenizers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix E. LanguageTool plugin</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T155108Z" creationid="Packard Bell" creationdate="20150605T155108Z">
+        <seg>Apèndix E. Connector LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix F. Scripts</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T155119Z" creationid="Packard Bell" creationdate="20150605T155119Z">
+        <seg>Apèndix F. Scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix G. &lt;s0&gt;&lt;a1&gt;&lt;/a1&gt;OmegaT&lt;/s0&gt; on the web</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162243Z" creationid="Packard Bell" creationdate="20150605T162243Z">
+        <seg>Apèndix G. &lt;s0&gt;&lt;a1&gt;&lt;/a1&gt;OmegaT&lt;/s0&gt; al web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix G. OmegaT on the web</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160408Z" creationid="Packard Bell" creationdate="20150605T160408Z">
+        <seg>Apèndix G. OmegaT al web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix H. Shortcuts customization</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160850Z" creationid="Packard Bell" creationdate="20150605T160850Z">
+        <seg>Apèndix H. Personalització de dreceres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix I. Legal notices</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160857Z" creationid="Packard Bell" creationdate="20150605T160857Z">
+        <seg>Apèndix I. Avisos legals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Auto-text...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161901Z" creationid="Packard Bell" creationdate="20150605T161901Z">
+        <seg>Emplenament automàtic/Text automàtic...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Character Table...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161902Z" creationid="Packard Bell" creationdate="20150605T161902Z">
+        <seg>Emplenament automàtic/Taula de caràcters...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Glossary...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161858Z" creationid="Packard Bell" creationdate="20150605T161858Z">
+        <seg>Emplenament automàtic/Glossari...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Back in history...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161706Z" creationid="Packard Bell" creationdate="20150605T161706Z">
+        <seg>Enrere en l'historial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Being the language behind popular software such as Firefox it is a familiar and preferred programming tool in the open-source domain.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160612Z" creationid="Packard Bell" creationdate="20150605T160612Z">
+        <seg>És el llenguatge que hi ha darrere de programaris populars com Firefox i una eina de programació coneguda i preferida en el domini de codi obert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bug reports</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162305Z" creationid="Packard Bell" creationdate="20150605T162305Z">
+        <seg>Informes d'errors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, scripts are stored in the "scripts" folder located in OmegaT installation folder (the folder that contains the OmegaT.jar).</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160556Z" creationid="Packard Bell" creationdate="20150605T160542Z">
+        <seg>Per defecte, els scripts s'emmagatzemen a la carpeta "scripts", ubicada a la carpeta d'instal·lació d'OmegaT (la carpeta que conté OmegaT.jar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 15. Searches</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162744Z" creationid="Packard Bell" creationdate="20150605T162744Z">
+        <seg>Capítol 15. Cerques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 16. Search and Replace</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162740Z" creationid="Packard Bell" creationdate="20150605T162740Z">
+        <seg>Capítol 16. Cerca i substitueix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 17. Regular expressions</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162746Z" creationid="Packard Bell" creationdate="20150605T162746Z">
+        <seg>Capítol 17. Expressions regulars</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;s4&gt;&lt;e5&gt;Replace Next&lt;/e5&gt;&lt;/s4&gt; or &lt;s6&gt;&lt;e7&gt;Skip&lt;/e7&gt;&lt;/s6&gt;, then end the replacement session with &lt;s8&gt;&lt;e9&gt;Finish&lt;/e9&gt;&lt;/s8&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T163119Z" creationid="Packard Bell" creationdate="20150605T162846Z">
+        <seg>Feu clic a &lt;s4&gt;&lt;e5&gt;Replace next&lt;/e5&gt;&lt;/s4&gt; (substitueix següent) o a &lt;s6&gt;&lt;e7&gt;Skip&lt;/e7&gt;&lt;/s6&gt; (omet) i acabeu el procés de substitució amb &lt;s8&gt;&lt;e9&gt;Finish&lt;/e9&gt;&lt;/s8&gt; (finalitza).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clicking &lt;s0&gt;Tools &gt; &lt;/s0&gt;&lt;s1&gt;Scripting&lt;/s1&gt; opens the Scripting window:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160450Z" creationid="Packard Bell" creationdate="20150605T160450Z">
+        <seg>En fer clic a &lt;s0&gt;Eines&gt; &lt;/s0&gt;&lt;s1&gt;Scripts&lt;/s1&gt; s'obre la finestra de Scripts:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161305Z" creationid="Packard Bell" creationdate="20150605T161305Z">
+        <seg>Tanca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributing to &lt;s0&gt;OmegaT&lt;/s0&gt; project</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162307Z" creationid="Packard Bell" creationdate="20150605T162307Z">
+        <seg>Col·laboració en el projecte d'&lt;s0&gt;OmegaT&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Alternative Translation</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161540Z" creationid="Packard Bell" creationdate="20150605T161540Z">
+        <seg>Crea una traducció alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Current Translated Documents</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161310Z" creationid="Packard Bell" creationdate="20150605T161310Z">
+        <seg>Crea els documents traduïts en ús</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Glossary Entry</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161513Z" creationid="Packard Bell" creationdate="20150605T161513Z">
+        <seg>Crea una entrada del glossari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Translated Documents</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161308Z" creationid="Packard Bell" creationdate="20150605T161308Z">
+        <seg>Crea els documents traduïts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cycle Case To...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161537Z" creationid="Packard Bell" creationdate="20150605T161537Z">
+        <seg>Operació de majúscules i minúscules a...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default shortcut</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161250Z" creationid="Packard Bell" creationdate="20150605T161250Z">
+        <seg>Drecera per defecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display Source Segments</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161804Z" creationid="Packard Bell" creationdate="20150605T161804Z">
+        <seg>Mostra els segments de partida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Team Project</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161256Z" creationid="Packard Bell" creationdate="20150605T161256Z">
+        <seg>Baixa un projecte en equip...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Menu</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160911Z" creationid="Packard Bell" creationdate="20150605T160911Z">
+        <seg>Menú Edita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editing Behavior...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161908Z" creationid="Packard Bell" creationdate="20150605T161908Z">
+        <seg>Comportament de l'edició...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Empty lines are accepted and comment lines should start with "//".</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161056Z" creationid="Packard Bell" creationdate="20150605T161056Z">
+        <seg>Les línies buides hi són acceptades i les línies de comentari han de començar amb "//".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;s0&gt;&lt;e1&gt;Replace with&lt;/e1&gt;&lt;/s0&gt; box, then click one of the following options:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162834Z" creationid="Packard Bell" creationdate="20150605T162834Z">
+        <seg>Introduïu la paraula o frase (no funciona amb expressions regulars) en el quadre &lt;s0&gt;&lt;e1&gt;Replace with&lt;/e1&gt;&lt;/s0&gt; (Substitueix amb) i feu clic en una de les següents opcions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Except one: check &lt;s0&gt;&lt;s1&gt;Untranslated&lt;/s1&gt;&lt;/s0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T163151Z" creationid="Packard Bell" creationdate="20150605T163151Z">
+        <seg>Llevat d'una: feu clic a &lt;s0&gt;&lt;s1&gt;Untranslated&lt;/s1&gt;&lt;/s0&gt; per activar Cerca i substitueix en els segments que encara no han estat traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export Selection</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161512Z" creationid="Packard Bell" creationdate="20150605T161512Z">
+        <seg>Exporta la selecció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External TMXs...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162037Z" creationid="Packard Bell" creationdate="20150605T161913Z">
+        <seg>Memòries TMX externes...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure E.1. The LanguageTool in OmegaT</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T155821Z" creationid="Packard Bell" creationdate="20150605T155821Z">
+        <seg>Figura E.1. LanguageTool en OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Filters...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161905Z" creationid="Packard Bell" creationdate="20150605T161905Z">
+        <seg>Filtres de fitxers...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161904Z" creationid="Packard Bell" creationdate="20150605T161904Z">
+        <seg>Tipus de lletra...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, in the default OmegaT shortcuts&lt;a0&gt;&lt;s1&gt;[5]&lt;/s1&gt;&lt;/a0&gt;, one can find:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161157Z" creationid="Packard Bell" creationdate="20150605T161157Z">
+        <seg>Per exemple, en les dreceres per defecte d'OmegaT &lt;a0&gt;&lt;s1&gt;[5]&lt;/s1&gt;&lt;/a0&gt;, es pot trobar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the latest version of OmegaT, refer to the downloads page at www.omegat.org.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162434Z" creationid="Packard Bell" creationdate="20150605T162434Z">
+        <seg>Per obtenir l'última versió d'OmegaT, vegeu la pàgina de baixades a www.omegat.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Forward in history...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161703Z" creationid="Packard Bell" creationdate="20150605T161703Z">
+        <seg>Endavant en l'historial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GoTo Menu</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160914Z" creationid="Packard Bell" creationdate="20150605T160914Z">
+        <seg>Menú Vés a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help Menu</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160935Z" creationid="Packard Bell" creationdate="20150605T160935Z">
+        <seg>Menú Ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160324Z" creationid="Packard Bell" creationdate="20150605T160324Z">
+        <seg>Inici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T163235Z" creationid="Packard Bell" creationdate="20150605T163235Z">
+        <seg>Si no es fa cap substitució en un segment determinat, el segment d'arribada es "buidarà", és a dir, es mantindrà sense traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161235Z" creationid="Packard Bell" creationdate="20150605T161235Z">
+        <seg>Si no entren en conflicte amb les dreceres del sistema, han d'estar disponibles dins d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are on a Mac and you want to add a &lt;s0&gt;&lt;s1&gt;Shift&lt;/s1&gt;&lt;/s0&gt;+&lt;s2&gt;&lt;s3&gt;Command&lt;/s3&gt;&lt;/s2&gt;+&lt;s4&gt;&lt;s5&gt;S&lt;/s5&gt;&lt;/s4&gt; shortcut to &lt;s6&gt;Tools&lt;/s6&gt; → &lt;s7&gt;Statistics&lt;/s7&gt;, add the following line to your &lt;c8&gt;MainMenuShortcuts.properties&lt;/c8&gt;:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161230Z" creationid="Packard Bell" creationdate="20150605T161230Z">
+        <seg>Si esteu en un Mac i voleu afegir una drecera &lt;s0&gt;&lt;s1&gt;Shift&lt;/s1&gt;&lt;/s0&gt;+&lt;s2&gt;&lt;s3&gt;Command&lt;/s3&gt;&lt;/s2&gt;+&lt;s4&gt;&lt;s5&gt;S&lt;/s5&gt;&lt;/s4&gt; a &lt;s6&gt;Eines&lt;/s6&gt; → &lt;s7&gt;Estadístiques&lt;/s7&gt;, afegiu la següent línia al seu arxiu &lt;c8&gt;MainMenuShortcuts.properties&lt;/c8&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to use &lt;s0&gt;&lt;s1&gt;Shift&lt;/s1&gt;&lt;/s0&gt;+&lt;s2&gt;&lt;s3&gt;Ctrl&lt;/s3&gt;&lt;/s2&gt;+&lt;s4&gt;&lt;s5&gt;O&lt;/s5&gt;&lt;/s4&gt; to open a project, modify your &lt;c6&gt;MainMenuShortcuts.properties&lt;/c6&gt; as follows:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161226Z" creationid="Packard Bell" creationdate="20150605T161226Z">
+        <seg>Si voleu utilitzar &lt;s0&gt;&lt;s1&gt;Shift&lt;/s1&gt;&lt;/s0&gt;+&lt;s2&gt;&lt;s3&gt;Ctrl&lt;/s3&gt;&lt;/s2&gt;+&lt;s4&gt;&lt;s5&gt;O&lt;/s5&gt;&lt;/s4&gt; per obrir un projecte, modifiqui el seu arxiu &lt;c6&gt;MainMenuShortcuts.properties&lt;/c6&gt; de la següent manera:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish to keep track of what is happening to the report, register as a SourceForge user, login and file a bug report or simply click Monitor at the top of the report.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162503Z" creationid="Packard Bell" creationdate="20150605T162503Z">
+        <seg>Si voleu fer el seguiment de l'informe, cal que us registreu com a usuari de SourceForge, inicieu la sessió i envieu l'informe d'error, o bé simplement feu clic al botó Monitor (Supervisa) de la part superior de l'informe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you would like to help support the continued development of OmegaT, it would be very much appreciated - click on this link to go to the &lt;a0&gt; OmegaT PayPal account&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162538Z" creationid="Packard Bell" creationdate="20150605T162538Z">
+        <seg>Si volguéssiu ajudar al continu desenvolupament d'OmegaT, us ho agrairíem molt - feu clic en aquest enllaç per anar al &lt;a0&gt;compte PayPal d'OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import From MediaWiki...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161301Z" creationid="Packard Bell" creationdate="20150605T161301Z">
+        <seg>Importa des de MediaWiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import Source Files...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161300Z" creationid="Packard Bell" creationdate="20150605T161300Z">
+        <seg>Importa fitxers de partida...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160533Z" creationid="Packard Bell" creationdate="20150605T160533Z">
+        <seg>En l'exemple anterior ja s'han agregat dos scripts (posició 1 i 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Incompatibilities</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160310Z" creationid="Packard Bell" creationdate="20150605T160310Z">
+        <seg>Incompatibilitats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Match</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161439Z" creationid="Packard Bell" creationdate="20150605T161439Z">
+        <seg>Insereix la coincidència</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Next Missing Tag</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161505Z" creationid="Packard Bell" creationdate="20150605T161505Z">
+        <seg>Insereix la següent etiqueta que falta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Source</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161449Z" creationid="Packard Bell" creationdate="20150605T161449Z">
+        <seg>Insereix el text de partida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Source Tags</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161452Z" creationid="Packard Bell" creationdate="20150605T161452Z">
+        <seg>Insereix les etiquetes del text de partida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installation and Use</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T155131Z" creationid="Packard Bell" creationdate="20150605T155131Z">
+        <seg>2. Instal·lació i ús</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T155129Z" creationid="Packard Bell" creationdate="20150605T155129Z">
+        <seg>Introducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160605Z" creationid="Packard Bell" creationdate="20150605T160605Z">
+        <seg>Es basa en els punts forts de Java, però té característiques de potència addicionals inspirades en llenguatges com Python, Ruby i Smalltalk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can also detect some grammar mistakes.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T155816Z" creationid="Packard Bell" creationdate="20150605T155816Z">
+        <seg>Pot també detectar alguns errors gramaticals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It does not include spell checking.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T155817Z" creationid="Packard Bell" creationdate="20150605T155817Z">
+        <seg>No inclou la correcció ortogràfica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160607Z" creationid="Packard Bell" creationdate="20150605T160607Z">
+        <seg>És un llenguatge multiparadigma que admet estils de programació funcionals, imperatius i orientats a l'objecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will be used automatically by OmegaT if &lt;s0&gt;Options &gt; Language Checker&lt;/s0&gt; is checked.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160058Z" creationid="Packard Bell" creationdate="20150605T160058Z">
+        <seg>Serà aplicat automàticament per OmegaT si feu clic en &lt;s0&gt;Opcions&gt; Verificador lingüístic&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool will find errors for which a rule has been defined in its language-specific configuration files.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T155818Z" creationid="Packard Bell" creationdate="20150605T155818Z">
+        <seg>LanguageTool trobarà errors per als quals s'ha definit una regla general en els seus fitxers de configuració específics de l'idioma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool will not work properly if an old version is found in the /plugin folder.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160316Z" creationid="Packard Bell" creationdate="20150605T160316Z">
+        <seg>LanguageTool no funcionarà correctament si una versió antiga es troba a la carpeta /plugin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Last Changes...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162053Z" creationid="Packard Bell" creationdate="20150605T162053Z">
+        <seg>Darrers Canvis...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160529Z" creationid="Packard Bell" creationdate="20150605T160529Z">
+        <seg>Carregueu un script en l'editor fent clic en el seu nom, en la llista del panell esquerre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Log...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162054Z" creationid="Packard Bell" creationdate="20150605T162054Z">
+        <seg>Registre...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Machine Translate</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161841Z" creationid="Packard Bell" creationdate="20150605T161841Z">
+        <seg>Traducció automàtica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161808Z" creationid="Packard Bell" creationdate="20150605T161808Z">
+        <seg>Marca els caràcters de control d'algorisme bidireccional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Non-Unique Segments</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161804Z" creationid="Packard Bell" creationdate="20150605T161804Z">
+        <seg>Marca els segments no únics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Non-breakable Spaces</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161806Z" creationid="Packard Bell" creationdate="20150605T161806Z">
+        <seg>Marca els espais no separables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Segments with Notes</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161805Z" creationid="Packard Bell" creationdate="20150605T161805Z">
+        <seg>Marca els segments amb notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Translated Segments</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161802Z" creationid="Packard Bell" creationdate="20150605T161802Z">
+        <seg>Marca els segments traduïts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161803Z" creationid="Packard Bell" creationdate="20150605T161803Z">
+        <seg>Marca els segments no traduïts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Whitespace</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161807Z" creationid="Packard Bell" creationdate="20150605T161807Z">
+        <seg>Marca els espais en blanc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match Statistics</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161823Z" creationid="Packard Bell" creationdate="20150605T161823Z">
+        <seg>Estadístiques de coincidències</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match Statistics per File</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161824Z" creationid="Packard Bell" creationdate="20150605T161824Z">
+        <seg>Estadístiques de coincidències per fitxer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Menu Item</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161248Z" creationid="Packard Bell" creationdate="20150605T161248Z">
+        <seg>Element de menú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Menu Item Code</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161252Z" creationid="Packard Bell" creationdate="20150605T161252Z">
+        <seg>Codi d'element de menú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification Info/Display All</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161812Z" creationid="Packard Bell" creationdate="20150605T161812Z">
+        <seg>Informació de modificació/Mostra-la en tots els segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification Info/Display None</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161810Z" creationid="Packard Bell" creationdate="20150605T161810Z">
+        <seg>Informació de modificació/No la mostris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification Info/Display Selected</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161811Z" creationid="Packard Bell" creationdate="20150605T161811Z">
+        <seg>Informació de modificació/Mostra-la al segment actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More can be found in the &lt;a0&gt;Painless Bug Tracking&lt;/a0&gt; article by Joel Spolsky.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162455Z" creationid="Packard Bell" creationdate="20150605T162455Z">
+        <seg>Podeu trobar més informació a l'article &lt;a0&gt;Painless Bug Tracking&lt;/a0&gt; d'en Joel Spolsky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161024Z" creationid="Packard Bell" creationdate="20150605T161024Z">
+        <seg>La majoria dels elements que apareixen al menú principal poden tenir una nova drecera assignada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigation footer</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160318Z" creationid="Packard Bell" creationdate="20150605T160318Z">
+        <seg>Peu de pàgina de navegació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigation header</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T155120Z" creationid="Packard Bell" creationdate="20150605T155120Z">
+        <seg>Capçalera de navegació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161253Z" creationid="Packard Bell" creationdate="20150605T161253Z">
+        <seg>Nou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T155125Z" creationid="Packard Bell" creationdate="20150605T155125Z">
+        <seg>Següent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Note</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161700Z" creationid="Packard Bell" creationdate="20150605T161700Z">
+        <seg>Nota següent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Segment</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161557Z" creationid="Packard Bell" creationdate="20150605T161557Z">
+        <seg>Segment següent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Translated Segment</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161554Z" creationid="Packard Bell" creationdate="20150605T161554Z">
+        <seg>Segment següent traduït</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161552Z" creationid="Packard Bell" creationdate="20150605T161552Z">
+        <seg>Segment següent sense traduir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that bug reports and requests for enhancements are publicly visible, so you should not add any sensitive files.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162502Z" creationid="Packard Bell" creationdate="20150605T162502Z">
+        <seg>Tingueu en compte que els informes d'errors i les sol·licituds de millora són públics; per tant, no hi afegiu cap fitxer que contingui informació confidencial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT 3.1 - User's Guide</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T155113Z" creationid="Packard Bell" creationdate="20150605T155113Z">
+        <seg>OmegaT 3.1 - Manual d'usuari </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT allows to run scripts written in different scripting languages.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160449Z" creationid="Packard Bell" creationdate="20150605T160449Z">
+        <seg>OmegaT permet executar scripts escrits en diferents llenguatges script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the &lt;c0&gt;MainMenuShortcuts.properties&lt;/c0&gt; file is modified, &lt;s1&gt;OmegaT&lt;/s1&gt; must be relaunched to take the new shortcuts into account.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161059Z" creationid="Packard Bell" creationdate="20150605T161059Z">
+        <seg>Una vegada que l'arxiu &lt;c0&gt;MainMenuShortcuts.properties&lt;/c0&gt; es modifica, &lt;s1&gt;OmegaT&lt;/s1&gt; ha de ser rellançat perquè tingui les noves dreceres en compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161255Z" creationid="Packard Bell" creationdate="20150605T161255Z">
+        <seg>Obre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the Search and replace window with &lt;s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt;&lt;/s0&gt;+&lt;s2&gt;&lt;s3&gt;K&lt;/s3&gt;&lt;/s2&gt; and enter the word or expression you wish to replace in the &lt;s4&gt;&lt;e5&gt;Search for&lt;/e5&gt;&lt;/s4&gt; box.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162805Z" creationid="Packard Bell" creationdate="20150605T162805Z">
+        <seg>Obriu la finestra Cerca i substitueix amb &lt;s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt;&lt;/s0&gt;+&lt;s2&gt;&lt;s3&gt;K&lt;/s3&gt;&lt;/s2&gt; i escriviu la paraula o frase que voleu canviar en el quadre &lt;s4&gt;&lt;e5&gt;Cerca&lt;/e5&gt;&lt;/s4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options Menu</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160933Z" creationid="Packard Bell" creationdate="20150605T160933Z">
+        <seg>Menú Opcions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous Note</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161701Z" creationid="Packard Bell" creationdate="20150605T161701Z">
+        <seg>Nota anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous Segment</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161645Z" creationid="Packard Bell" creationdate="20150605T161645Z">
+        <seg>Segment anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Files...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161313Z" creationid="Packard Bell" creationdate="20150605T161313Z">
+        <seg>Fitxers del projecte...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Menu</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160908Z" creationid="Packard Bell" creationdate="20150605T160908Z">
+        <seg>Menú Projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Properties...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161311Z" creationid="Packard Bell" creationdate="20150605T161311Z">
+        <seg>Propietats …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Proxy Login...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162041Z" creationid="Packard Bell" creationdate="20150605T162041Z">
+        <seg>Inici de sessió al servidor intermediari...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Quit</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161315Z" creationid="Packard Bell" creationdate="20150605T161315Z">
+        <seg>Surt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Redo Last Action</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161422Z" creationid="Packard Bell" creationdate="20150605T161422Z">
+        <seg>Refés l'última acció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Register Identical Translation</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161541Z" creationid="Packard Bell" creationdate="20150605T161541Z">
+        <seg>Registra una traducció idèntica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reload</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161303Z" creationid="Packard Bell" creationdate="20150605T161303Z">
+        <seg>Torna a carregar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remember that every good bug report needs just three things:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162450Z" creationid="Packard Bell" creationdate="20150605T162450Z">
+        <seg>Tingueu en compte que, per a crear un informe d'error que sigui realment útil, cal que hi especifiqueu solament aquestes tres coses:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove LanguageTool from the /plugin folder before starting OmegaT.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160317Z" creationid="Packard Bell" creationdate="20150605T160317Z">
+        <seg>Traieu LanguageTool de la carpeta /plugin abans d'executar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace With Match</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161424Z" creationid="Packard Bell" creationdate="20150605T161424Z">
+        <seg>Reemplaça per la coincidència</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace With Source</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161445Z" creationid="Packard Bell" creationdate="20150605T161445Z">
+        <seg>Reemplaça pel text de partida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace with Machine Translation</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161441Z" creationid="Packard Bell" creationdate="20150605T161441Z">
+        <seg>Reemplaça amb la traducció automàtica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore Main Window</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162042Z" creationid="Packard Bell" creationdate="20150605T162042Z">
+        <seg>Restaura la finestra principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160532Z" creationid="Packard Bell" creationdate="20150605T160532Z">
+        <seg>Feu clic amb el botó dret en una opció de l'"&lt;1&gt;" al "&lt;12&gt;" al panell inferior i seleccioneu "Afegir".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161307Z" creationid="Packard Bell" creationdate="20150605T161307Z">
+        <seg>Desa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save then the file and relaunch &lt;s0&gt;OmegaT&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161232Z" creationid="Packard Bell" creationdate="20150605T161232Z">
+        <seg>Deseu el fitxer i després rellanceu &lt;s0&gt;OmegaT&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving and Output...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162039Z" creationid="Packard Bell" creationdate="20150605T162039Z">
+        <seg>Desament i sortida...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripting languages</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160439Z" creationid="Packard Bell" creationdate="20150605T160439Z">
+        <seg>Els llenguatges script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Project...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161514Z" creationid="Packard Bell" creationdate="20150605T161514Z">
+        <seg>Cerca al projecte...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search and Replace...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161516Z" creationid="Packard Bell" creationdate="20150605T161516Z">
+        <seg>Cerca i reemplaça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search options</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162756Z" creationid="Packard Bell" creationdate="20150605T162756Z">
+        <seg>Opcions de cerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search options are similar to the ones displayed in &lt;a0&gt;Search window&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T163133Z" creationid="Packard Bell" creationdate="20150605T163133Z">
+        <seg>Les opcions de cerca són similars a les que es mostren en la &lt;a0&gt;Finestra de cerca&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search window</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162753Z" creationid="Packard Bell" creationdate="20150605T162753Z">
+        <seg>Finestra de cerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment number...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161658Z" creationid="Packard Bell" creationdate="20150605T161658Z">
+        <seg>Número de segment...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161906Z" creationid="Packard Bell" creationdate="20150605T161906Z">
+        <seg>Segmentació...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Fuzzy Match 1</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161521Z" creationid="Packard Bell" creationdate="20150605T161521Z">
+        <seg>Selecciona la coincidència núm. 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Fuzzy Match 2</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161523Z" creationid="Packard Bell" creationdate="20150605T161523Z">
+        <seg>Selecciona la coincidència núm. 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Fuzzy Match 3</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161524Z" creationid="Packard Bell" creationdate="20150605T161524Z">
+        <seg>Selecciona la coincidència núm. 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Fuzzy Match 4</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161525Z" creationid="Packard Bell" creationdate="20150605T161525Z">
+        <seg>Selecciona la coincidència núm. 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Fuzzy Match 5</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161527Z" creationid="Packard Bell" creationdate="20150605T161527Z">
+        <seg>Selecciona la coincidència núm. 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Next Match</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161519Z" creationid="Packard Bell" creationdate="20150605T161519Z">
+        <seg>Selecciona la coincidència següent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Previous Match</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161517Z" creationid="Packard Bell" creationdate="20150605T161517Z">
+        <seg>Selecciona la coincidència anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shortcuts customization</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160906Z" creationid="Packard Bell" creationdate="20150605T160906Z">
+        <seg>Personalització de dreceres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spell checking...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161907Z" creationid="Packard Bell" creationdate="20150605T161907Z">
+        <seg>Verificació ortogràfica...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Statistics</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161822Z" creationid="Packard Bell" creationdate="20150605T161822Z">
+        <seg>Estadístiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Steps to reproduce</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162452Z" creationid="Packard Bell" creationdate="20150605T162452Z">
+        <seg>Els passos per a reproduir l'error</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Lower Case</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161532Z" creationid="Packard Bell" creationdate="20150605T161532Z">
+        <seg>Canvia majúscules i minúscules a /Minúscules</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Title Case</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161536Z" creationid="Packard Bell" creationdate="20150605T161536Z">
+        <seg>Canvia majúscules i minúscules a/ Lletra majúscula inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Upper Case</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161534Z" creationid="Packard Bell" creationdate="20150605T161534Z">
+        <seg>Canvia majúscules i minúscules a/ Majúscules</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table H.1. Project Menu</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161246Z" creationid="Packard Bell" creationdate="20150605T161246Z">
+        <seg>Taula H.1. Menú Projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table H.2. Edit Menu</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161325Z" creationid="Packard Bell" creationdate="20150605T161325Z">
+        <seg>Taula H.2. Menú Edita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table H.3. GoTo Menu</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161545Z" creationid="Packard Bell" creationdate="20150605T161545Z">
+        <seg>Taula H.3. Menú Vés a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table H.4. View Menu</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161757Z" creationid="Packard Bell" creationdate="20150605T161757Z">
+        <seg>Taula H.2. Menú Visualització</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table H.5. Tools Menu</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161816Z" creationid="Packard Bell" creationdate="20150605T161816Z">
+        <seg>Taula H.1. Menú Eines</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table H.6. Options Menu</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161833Z" creationid="Packard Bell" creationdate="20150605T161833Z">
+        <seg>Taula H.6. Menú Opcions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table H.7. Help Menu</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162046Z" creationid="Packard Bell" creationdate="20150605T162046Z">
+        <seg>Taula H.7. Menú Ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Validation...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161911Z" creationid="Packard Bell" creationdate="20150605T161911Z">
+        <seg>Validació de les etiquetes...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161912Z" creationid="Packard Bell" creationdate="20150605T161912Z">
+        <seg>Equip...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;a5&gt;FAQ &lt;/a5&gt; is a good starting point for finding answers to questions you may have.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162432Z" creationid="Packard Bell" creationdate="20150605T162432Z">
+        <seg>L'apartat de &lt;a5&gt;PMF&lt;/a5&gt; és un bon punt de partida per trobar respostes a les preguntes que pugueu tenir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The LanguageTool in OmegaT</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T155823Z" creationid="Packard Bell" creationdate="20150605T155823Z">
+        <seg>LanguageTool en OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The LanguageTool plugin is included in OmegaT.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T155831Z" creationid="Packard Bell" creationdate="20150605T155831Z">
+        <seg>El connector LanguageTool està inclòs en OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160453Z" creationid="Packard Bell" creationdate="20150605T160453Z">
+        <seg>La finestra de Scripts us permetrà carregar un script existent en l'àrea de text i executar-lo en el projecte obert en ús.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default OmegaT shortcuts for the Mac are also available from Sourceforge, they all use "meta" instead of "ctrl": &lt;a0&gt;Default OmegaT Shortcuts for the Mac&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162131Z" creationid="Packard Bell" creationdate="20150605T162131Z">
+        <seg>Les dreceres per defecte d'OmegaT per a Mac també estan disponibles a Sourceforge: totes elles utilitzen "meta" en lloc de "ctrl": &lt;a0&gt;Dreceres per defecte d'OmegaT per a Mac&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first is the shortcut for &lt;s0&gt;Open Project&lt;/s0&gt;, the second for &lt;s1&gt;Create Glossary Entry&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161223Z" creationid="Packard Bell" creationdate="20150605T161223Z">
+        <seg>La primera és la drecera per &lt;s0&gt;Obre projecte&lt;/s0&gt;, la segona per &lt;s1&gt;Crea una entrada del glossari&lt;/s1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160737Z" creationid="Packard Bell" creationdate="20150605T160737Z">
+        <seg>El següent codi snippet en Groovy, per exemple, explora a través de tots els segments de tots els arxius del projecte en ús i, si existeix una traducció, n'imprimeix l'original i la traducció del segment:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following scripting languages have been implemented:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160600Z" creationid="Packard Bell" creationdate="20150605T160600Z">
+        <seg>Els següents llenguatges script s'han implementat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The rules applied (if any) will depend on the source and target language of the project.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160103Z" creationid="Packard Bell" creationdate="20150605T160103Z">
+        <seg>Les normes aplicades (si n'hi ha) dependran de la llengua de partida i d'arribada del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The shortcut definition file must be named &lt;c0&gt;MainMenuShortcuts.properties&lt;/c0&gt; and must contain at most one shortcut definition per line.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161055Z" creationid="Packard Bell" creationdate="20150605T161055Z">
+        <seg>L'arxiu de definició de drecera ha de ser nomenat &lt;c0&gt;MainMenuShortcuts.properties&lt;/c0&gt; i ha de contenir com a màxim una definició de drecera per línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;s1&gt;&lt;e2&gt;&lt;menu item code&gt;&lt;/e2&gt;&lt;/s1&gt; is a code taken from the tables below and &lt;s3&gt;&lt;e4&gt;&lt;shortcut&gt;&lt;/e4&gt;&lt;/s3&gt; is a combination of pressed keys specified by the user&lt;a5&gt;&lt;s6&gt;[2]&lt;/s6&gt;&lt;/a5&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161113Z" creationid="Packard Bell" creationdate="20150605T161113Z">
+        <seg>La sintaxi de definició de drecera és la següent: &lt;c0&gt;&lt;codi d'element de menú&gt;=&lt;drecera&gt;&lt;/c0&gt;, on &lt;s1&gt;&lt;e2&gt;&lt;codi d'element de menú&gt;&lt;/e2&gt;&lt;/s1&gt; és un codi pres de les taules de baix i &lt;s3&gt;&lt;e4&gt;&lt;drecera&gt;&lt;/e4&gt;&lt;/s3&gt; és una combinació de tecles especificades per l'usuari&lt;a5&gt;&lt;s6&gt;[2]&lt;/s6&gt;&lt;/a5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The&lt;a0&gt; &lt;s1&gt;OmegaT&lt;/s1&gt; web site &lt;/a0&gt;contains links to numerous &lt;s2&gt;OmegaT&lt;/s2&gt; resources.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162313Z" creationid="Packard Bell" creationdate="20150605T162313Z">
+        <seg>El &lt;a0&gt;lloc web d'&lt;s1&gt;OmegaT&lt;/s1&gt;&lt;/a0&gt; conté enllaços amb diversos recursos d'&lt;s2&gt;OmegaT&lt;/s2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then click on &lt;s0&gt;&lt;e1&gt;Search&lt;/e1&gt;&lt;/s0&gt; button to display all the corresponding occurrences.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162816Z" creationid="Packard Bell" creationdate="20150605T162816Z">
+        <seg>Després feu clic al botó &lt;s0&gt;&lt;e1&gt;Cerca&lt;/e1&gt;&lt;/s0&gt; per mostrar tots els resultats corresponents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To contribute to &lt;s0&gt;OmegaT&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162505Z" creationid="Packard Bell" creationdate="20150605T162505Z">
+        <seg>Per contribuir a &lt;s0&gt;OmegaT&lt;/s0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To customize the script feature, do the following:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160456Z" creationid="Packard Bell" creationdate="20150605T160456Z">
+        <seg>Per personalitzar la funció de script, feu el següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To get involved in the &lt;s3&gt;OmegaT&lt;/s3&gt; development effort you can join the developer group, via the web or by sending an email to &lt;a4&gt;omegat-development-request@lists.sourceforge.net&lt;/a4&gt; with "subscribe" as the subject line.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162628Z" creationid="Packard Bell" creationdate="20150605T162511Z">
+        <seg>Per participar en l'esforç de desenvolupament d'&lt;s3&gt;OmegaT&lt;/s3&gt; podeu unir-vos al grup de desenvolupadors, a través del web o mitjançant un correu electrònic a &lt;a4&gt;omegat-development-request@lists.sourceforge.net&lt;/a4&gt; amb "subscribe" en l'assumpte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T163231Z" creationid="Packard Bell" creationdate="20150605T163231Z">
+        <seg>Perquè sigui possible (encara que Cerca i substitueix funciona només en la memòria), OmegaT copiarà el segment de partida al segment d'arribada abans que realitzi l'operació de substitució. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To support the OmegaT project financially</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162520Z" creationid="Packard Bell" creationdate="20150605T162520Z">
+        <seg>Per donar suport econòmic al projecte d'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To translate &lt;s0&gt;OmegaT&lt;/s0&gt;'s user interface, user manual or other related documents:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162512Z" creationid="Packard Bell" creationdate="20150605T162512Z">
+        <seg>Per traduir la interfície d'usuari, el manual d'usuari o altres documents d'&lt;s0&gt;OmegaT&lt;/s0&gt; relacionats:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tools Menu</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160931Z" creationid="Packard Bell" creationdate="20150605T160931Z">
+        <seg>Menú Eines</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TransTips/Enable Transtips</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161847Z" creationid="Packard Bell" creationdate="20150605T161847Z">
+        <seg>Suggeriments de traducció/Habilita els suggeriments de traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TransTips/Exact Match</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161850Z" creationid="Packard Bell" creationdate="20150605T161850Z">
+        <seg>Suggeriments de traducció/Coincidència exacta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Undo Last Action</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161419Z" creationid="Packard Bell" creationdate="20150605T161419Z">
+        <seg>Desfés l'última acció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160436Z" creationid="Packard Bell" creationdate="20150605T160436Z">
+        <seg>Ús</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use TAB To Advance</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161839Z" creationid="Packard Bell" creationdate="20150605T161839Z">
+        <seg>Utilitza TAB per avançar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use as Default Translation</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161539Z" creationid="Packard Bell" creationdate="20150605T161539Z">
+        <seg>Utilitza com a traducció per defecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User Group&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162404Z" creationid="Packard Bell" creationdate="20150605T162404Z">
+        <seg>Grup usuari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User Manual...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162049Z" creationid="Packard Bell" creationdate="20150605T162049Z">
+        <seg>Manual d'usuari...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User support is provided on a volunteer basis at the &lt;a3&gt;&lt;s4&gt;OmegaT&lt;/s4&gt; Yahoo!</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162338Z" creationid="Packard Bell" creationdate="20150605T162338Z">
+        <seg>Al &lt;a3&gt;grup d'usuaris d'&lt;s4&gt;OmegaT&lt;/s4&gt; a Yahoo&lt;/a3&gt; podeu trobar assistència a l'usuari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate Tags</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161819Z" creationid="Packard Bell" creationdate="20150605T161819Z">
+        <seg>Valida les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate Tags for Current Document</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161821Z" creationid="Packard Bell" creationdate="20150605T161821Z">
+        <seg>Valida les etiquetes per al document en ús</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View Menu</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160916Z" creationid="Packard Bell" creationdate="20150605T160916Z">
+        <seg>Menú visualització</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161924Z" creationid="Packard Bell" creationdate="20150605T161924Z">
+        <seg>Visualització...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What you expected to see</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162453Z" creationid="Packard Bell" creationdate="20150605T162453Z">
+        <seg>El resultat que esperàveu obtenir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What you saw instead</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162453Z" creationid="Packard Bell" creationdate="20150605T162453Z">
+        <seg>El resultat que obteniu (en compte de l'esperat)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;s1&gt;&lt;e2&gt;also &lt;/e2&gt;&lt;/s1&gt;and &lt;s3&gt;&lt;e4&gt;I didn't do nothing&lt;/e4&gt;&lt;/s3&gt; in the picture above).</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160306Z" creationid="Packard Bell" creationdate="20150605T160306Z">
+        <seg>Quan es detecta un error, la frase corresponent se subratllarà en blau en l'Editor (vegeu &lt;s1&gt;&lt;e2&gt;also&lt;/e2&gt;&lt;/s1&gt; i &lt;s3&gt;&lt;e4&gt;I didn't do nothing&lt;/e4&gt;&lt;/s3&gt; en la imatge de dalt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When hovering the mouse over the underlined phrase, an explanation will appear.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160310Z" creationid="Packard Bell" creationdate="20150605T160310Z">
+        <seg>Al passar el ratolí sobre la frase subratllada, apareixerà una explicació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you left-click on the number, the selected script will run.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160533Z" creationid="Packard Bell" creationdate="20150605T160533Z">
+        <seg>Quan feu clic amb el botó esquerre en el nombre, l'script seleccionat s'executarà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add new scripts there, so they will appear in the list of available scripts in the Scripting window.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160544Z" creationid="Packard Bell" creationdate="20150605T160544Z">
+        <seg>Podeu afegir nous scripts allà perquè apareguin a la llista de scripts disponibles a la finestra de Scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also file &lt;a6&gt;bug reports&lt;/a6&gt; and &lt;a7&gt;requests for enhancements.&lt;/a7&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162436Z" creationid="Packard Bell" creationdate="20150605T162436Z">
+        <seg>També pot enviar &lt;a6&gt;informes d'errors&lt;/a6&gt; i &lt;a7&gt;sol·licituds de millora&lt;/a7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (see &lt;a0&gt;User files location&lt;/a0&gt;).</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161033Z" creationid="Packard Bell" creationdate="20150605T161033Z">
+        <seg>Podeu canviar les dreceres ja assignades i afegir-ne de noves si poseu un arxiu de definició de drecera a la carpeta de preferències d'OmegaT (vegeu &lt;a0&gt;Ubicació dels arxius d'usuari&lt;/a0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can start the selected macros from the main menu as well by using their entries in the &lt;s0&gt;Tools &lt;/s0&gt;menu or by pressing&lt;s1&gt;&lt;s2&gt; Ctrl+Alt+F#&lt;/s2&gt;&lt;/s1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160541Z" creationid="Packard Bell" creationdate="20150605T160541Z">
+        <seg>També podeu iniciar les macros seleccionades al menú principal mitjançant l'ús de les seves entrades al menú &lt;s0&gt;Eines&lt;/s0&gt; o premeu&lt;s1&gt;&lt;s2&gt; Ctrl + Alt + F#&gt;&lt;/s2&gt;&lt;/s1&gt; (# 1 a 12).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can think of LanguageTool as a software to detect errors that a simple spell checker cannot detect, e.g. mixing up there/their, no/now etc.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T155807Z" creationid="Packard Bell" creationdate="20150605T155320Z">
+        <seg>Podeu pensar en LanguageTool com a un programari per detectar els errors que un simple corrector ortogràfic no pot detectar, per exemple, la seu/seua, no/nou, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should add copies of files, portions of the log, screen shots, and anything else that you think will help the developers to find and fix your bug.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162501Z" creationid="Packard Bell" creationdate="20150605T162501Z">
+        <seg>Afegiu-hi còpies de fitxers, fragments del registre, captures de pantalla o qualsevol altra cosa que considereu que pugui ajudar els desenvolupadors a trobar i a solucionar l'error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your new shortcuts should now appear next to the menu items you have modified.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161234Z" creationid="Packard Bell" creationdate="20150605T161234Z">
+        <seg>Les noves dreceres han d'aparèixer ara al costat dels elements de menú que heu modificat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard&lt;a1&gt;&lt;s2&gt;[4]&lt;/s2&gt;&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161155Z" creationid="Packard Bell" creationdate="20150605T161155Z">
+        <seg>i &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; pot ser qualsevol tecla disponible en el seu teclat&lt;a1&gt;&lt;s2&gt;[4]&lt;/s2&gt;&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>first join the &lt;a0&gt;user group&lt;/a0&gt; (via web or by sending an email to &lt;a1&gt;&lt;s2&gt;OmegaT&lt;/s2&gt;-subscribe@yahoogroups.com&lt;/a1&gt;).</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162508Z" creationid="Packard Bell" creationdate="20150605T162508Z">
+        <seg>Primer subscriviu-vos al &lt;a0&gt;grup d'usuaris&lt;/a0&gt; (des de la pàgina web o enviant un missatge de correu electrònic a &lt;a1&gt;&lt;s2&gt;OmegaT&lt;/s2&gt;-subscribe@yahoogroups.com&lt;/a1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>first read the &lt;a0&gt;Localizing and Customizing &lt;s1&gt;OmegaT&lt;/s1&gt;&lt;/a0&gt; guide, and join the &lt;s2&gt;OmegaT&lt;/s2&gt; translators' group via web or by sending an email to &lt;a3&gt;omegat-l10n-request@lists.sourceforge.net&lt;/a3&gt; with subject "subscribe".</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T162518Z" creationid="Packard Bell" creationdate="20150605T162518Z">
+        <seg>Llegiu primer la &lt;a0&gt;Guia de localització i personalització d'&lt;s1&gt;OmegaT&lt;/s1&gt;&lt;/a0&gt; , i uniu-vos al grup dels traductors d'&lt;s2&gt;OmegaT&lt;/s2&gt; via web o mitjançant un correu electrònic a &lt;a3&gt;omegat-l10n-request@lists.sourceforge.net&lt;/a3&gt; amb l'assumpte "subscribe".</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>( &lt;c0&gt;OmegaT&lt;/c0&gt; and &lt;c1&gt;OmegaT SL Localization &lt;/c1&gt;in the example used here)</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T223944Z" creationid="Stephanie" creationdate="20150525T162023Z">
+        <seg>( &lt;c0&gt;OmegaT&lt;/c0&gt; i &lt;c1&gt;OmegaT SL Localization &lt;/c1&gt;en l'exemple utilitzat aquí).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T163245Z" creationid="Stephanie" creationdate="20150523T163245Z">
+        <seg>- comparatiu, nominatiu, masculí, femení, neutre, que corresponen a la forma plural de l'adjectiu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1. Generalities</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T165900Z" creationid="Stephanie" creationdate="20150523T165900Z">
+        <seg>1. Generalitats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1. Introduction</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T161245Z" creationid="Stephanie" creationdate="20150523T161245Z">
+        <seg>1. Introducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1. Version control - introduction</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T154244Z" creationid="Stephanie" creationdate="20150523T154244Z">
+        <seg>1. Control de Versió - introducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2.1. Creating a repository</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150524T230655Z" creationid="Stephanie" creationdate="20150524T230655Z">
+        <seg>2.1. Creació d'un repositori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2.2. Importing the project to SVN repository - Windows</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T164524Z" creationid="Stephanie" creationdate="20150525T164524Z">
+        <seg>2.2. Importació del projecte al repositori SVN - Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2. Languages selection</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T163346Z" creationid="Stephanie" creationdate="20150523T163346Z">
+        <seg>2. Selecció de llengües</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2. Public and private collections</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T170511Z" creationid="Stephanie" creationdate="20150523T170511Z">
+        <seg>2. Col·leccions públiques i privades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2. Sharing a project using SVN</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150524T225117Z" creationid="Stephanie" creationdate="20150524T225117Z">
+        <seg>2. Compartir un projecte usant SVN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3. Accessing the TaaS service</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T171443Z" creationid="Stephanie" creationdate="20150523T171443Z">
+        <seg>3. Accés al servei de TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3. Using the team project in OmegaT</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T181211Z" creationid="Stephanie" creationdate="20150525T181211Z">
+        <seg>3. Utilització del projecte en equip en OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Prev&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T153838Z" creationid="Stephanie" creationdate="20150523T153838Z">
+        <seg>&lt;a0&gt;Anterior&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;Browse TaaS Collections&lt;/s1&gt;&lt;/s0&gt; will allow browsing existing collections for the source and target languages of the project, and downloading them.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T221902Z" creationid="Stephanie" creationdate="20150524T180316Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Browse TaaS Collections&lt;/s1&gt;&lt;/s0&gt; permetran navegar per les col·leccions existents per als idiomes d'origen i de destinació del projecte, i descarregar-les.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;TaaS Terminology Lookup&lt;/s1&gt;&lt;/s0&gt;: when checked, will allow querying TaaS data on a segment by segment basis.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150524T182107Z" creationid="Stephanie" creationdate="20150524T182107Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;TaaS Terminology Lookup&lt;/s1&gt;&lt;/s0&gt;: quan es comprovi, permetrà la consulta de les dades TaaS d'un segment a través d'una base segmentada. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;VCS client: &lt;/s1&gt;&lt;/s0&gt;To interface with the server an SVN or Git client must be installed on computers of "project managers" involved in the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150603T105755Z" creationid="Stephanie" creationdate="20150523T160720Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Client VSC&lt;/s1&gt;&lt;/s0&gt;: per interactuar amb el servidor, un client SVN o Git ha d'instal·lar-se en els ordinadors dels "caps de projecte" que participen en el projecte OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;VCS server - &lt;/s1&gt;&lt;/s0&gt;i.e. SVN or Git server is the environment where the common material is kept and maintained on the net.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T222706Z" creationid="Stephanie" creationdate="20150523T160300Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;VSC server&lt;/s1&gt;&lt;/s0&gt;: el servidor SVN o Git és lloc a la xarxa on es guarda i es conserva el material comú.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;add the copied files to the local version of the repository:&lt;/s1&gt;&lt;/s0&gt; right-click on the local checkout folder and select &lt;s2&gt;TortoiseSVN &gt; Add.&lt;/s2&gt; In the dialog that opens, leave all options as per default and click&lt;s3&gt; OK&lt;/s3&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T175543Z" creationid="Stephanie" creationdate="20150525T175543Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Afegir els arxius copiats a la versió local del repositori:&lt;/s1&gt;&lt;/s0&gt; feu clic dret a la carpeta checkout i seleccioneu &lt;s2&gt;TortoiseSVN &gt; Add.&lt;/s2&gt; Al diàleg que s'obrirà, deixeu totes les opcions per defecte i feu clic a &lt;s3&gt; OK&lt;/s3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;administrator: &lt;/s1&gt;&lt;/s0&gt;the person responsible for the creation and maintaining of the repository, i.e. taking care of the server side of the task.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T223616Z" creationid="Stephanie" creationdate="20150524T224953Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Administrator: &lt;/s1&gt;&lt;/s0&gt; persona responsable de la creació, el manteniment del repositori i de tenir cura del costat del servidor de la tasca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;checkout:&lt;/s1&gt;&lt;/s0&gt; the operation that creates a working copy from the repository to your local computer.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T223012Z" creationid="Stephanie" creationdate="20150524T184905Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Checkout:&lt;/s1&gt;&lt;/s0&gt; operació que crea una còpia de treball del repositori en l'equip local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;commit local changes to the server: &lt;/s1&gt;&lt;/s0&gt;right-click on the local checkout folder and select &lt;s2&gt;SVN Commit....&lt;/s2&gt; The Commit window - see below opens.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T224854Z" creationid="Stephanie" creationdate="20150525T180207Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Remetre els canvis locals al servidor: &lt;/s1&gt;&lt;/s0&gt; feu clic dret a la carpeta local checkout i seleccioneu &lt;s2&gt;SVN Commit....&lt;/s2&gt; La finestra de remissió, que apareix més avall, s'obrirà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;commit: &lt;/s1&gt;&lt;/s0&gt;once a new local version of the checked-out material is ready, it can be committed to the repository and thus made available to the rest of the team.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T223417Z" creationid="Stephanie" creationdate="20150525T223417Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Commit: &lt;/s1&gt;&lt;/s0&gt; una vegada està llesta una nova versió del material constatat, es pot remetre al repositori i, per tant, fer-la accesible per a la resta de membres del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;repository: &lt;/s1&gt;&lt;/s0&gt;the place where the shared material is saved and maintained, either on a local access network or in Internet.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T222932Z" creationid="Stephanie" creationdate="20150523T160836Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Repository&lt;/s1&gt;&lt;/s0&gt;: lloc on es guarda i es conserva el material compartit, ja sigui en una xarxa d'accés local o a Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;update local files from the local repository copy&lt;/s1&gt;&lt;/s0&gt; - the changes received from the server repository reside within the .svn subfolder but not yet in the files and folders themselves.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T225146Z" creationid="Stephanie" creationdate="20150525T182545Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Actualitzeu els arxius locals des de la còpia local del repositori&lt;/s1&gt;&lt;/s0&gt; - els canvis rebuts del repositori del servidor resideixen a la subcarpeta .svn, però els arxius i les carpetes encara no ho fan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;user&lt;/s1&gt;&lt;/s0&gt;: a member of the team, collaborating on the common project.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150604T135042Z" creationid="Stephanie" creationdate="20150524T225112Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;User&lt;/s1&gt;&lt;/s0&gt;: un membre de l'equip, el qual col·labora en el projecte comú.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T162322Z" creationid="Stephanie" creationdate="20150523T162104Z">
+        <seg>Un lematitzador en anglès, per exemple, hauria d'identificar la sèrie "cats" (i possiblement també "catlike", "catty" etc.) basant-se en l'arrel "cat", i "stemmer", "stemming", "stemmed" basant-se en "stem".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A stemming algorithm reduces the words "fishing", "fished", "fish", and "fisher" to the root word, "fish".</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T162458Z" creationid="Stephanie" creationdate="20150523T162458Z">
+        <seg>Un algorisme lematitzador redueix paraules com "fishing", "fished", "fish", i "fisher" a l'arrel de la paraula, és a dir, "fish".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Accessing the TaaS service</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T165856Z" creationid="Stephanie" creationdate="20150523T165856Z">
+        <seg>Accés al servei de TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After copying the required files into the checkout folder you will notice that its icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T224523Z" creationid="Stephanie" creationdate="20150525T175140Z">
+        <seg>Després de copiar els arxius necessaris a la carpeta checkout s'adonareu que la vostra icona ha canviat: la insígnia OK verda ha passat a un signe d'exclamació vermell, la qual cosa significa el canvi en la còpia local del repositori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All collections (public and private) will be queried for the source and target language.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T221940Z" creationid="Stephanie" creationdate="20150524T182130Z">
+        <seg>Totes les col·leccions (públiques i privades) es poden consultar en l'idioma d'origen i en el de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Also &lt;c3&gt;ignored_words.txt&lt;/c3&gt; and &lt;c4&gt;learned_words.txt&lt;/c4&gt; in the &lt;c5&gt;omegat&lt;/c5&gt; folder may be worth sharing and maintaining on the team level.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T224424Z" creationid="Stephanie" creationdate="20150525T174207Z">
+        <seg>A més, també seria recomanable compartir i guardar a nivell d'equip &lt;c3&gt;ignored_words.txt&lt;/c3&gt; i &lt;c4&gt;learned_words.txt&lt;/c4&gt;  en la carpeta &lt;c5&gt;omegat&lt;/c5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternatively, to avoid this issue you can set a private SVN server, for example if you already have an Apache server that includes the software in question (e.g. VisualSVN).</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T223735Z" creationid="Stephanie" creationdate="20150524T230246Z">
+        <seg>Alternativament, per evitar aquest problema, podeu establir un servidor SVN privat, per exemple, si ja teniu un servidor Apache que inclou el programari en qüestió (p. e. VisualSVN).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix B. Keyboard shortcuts in the editor</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T153647Z" creationid="Stephanie" creationdate="20150523T153647Z">
+        <seg>Apèndix B. Dreceres de teclat en l'editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix C. OmegaT Team Projects</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T153812Z" creationid="Stephanie" creationdate="20150523T153507Z">
+        <seg>Apèndix C. Projectes en Equip OmegaT </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix D. Tokenizers</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150522T220526Z" creationid="Stephanie" creationdate="20150522T220526Z">
+        <seg>Apèndix D. Tokenizers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix E. LanguageTool plugin</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T164427Z" creationid="Stephanie" creationdate="20150523T164427Z">
+        <seg>Apèndix E. Connector LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Avoid in any case adding &lt;c6&gt;bak&lt;/c6&gt; files, &lt;c7&gt;project_stats.txt&lt;/c7&gt; and &lt;c8&gt;project_stats_match.txt&lt;/c8&gt;, in the &lt;c9&gt;omegat&lt;/c9&gt; subfolder, as they would without any need or profit just bloat the repository.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150603T105903Z" creationid="Stephanie" creationdate="20150525T174400Z">
+        <seg>Eviteu en qualsevol cas afegir arxius &lt;c6&gt;bak&lt;/c6&gt;, &lt;c7&gt;project_stats.txt&lt;/c7&gt; i &lt;c8&gt;project_stats_match.txt&lt;/c8&gt; en la subcarpeta &lt;c9&gt;omegat&lt;/c9&gt;, ja que, si no són necessàries o d'utilitat, simplement inflaran el repositori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Borrowing an example from Slovenian, here "good" in all possible grammatically correct forms:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T163022Z" creationid="Stephanie" creationdate="20150523T162924Z">
+        <seg>Prenent un exemple de l'eslovè, trobem l'adjectiu "bo" en totes les formes possibles gramaticalment correctes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 19. Glossaries</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T165728Z" creationid="Stephanie" creationdate="20150523T165728Z">
+        <seg>Capítol 19. Glossaris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 20. Using TaaS in OmegaT</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150603T105452Z" creationid="Stephanie" creationdate="20150523T165714Z">
+        <seg>Capítol 20. Utilització de TaaS en Omeg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 21. Machine Translation</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T165757Z" creationid="Stephanie" creationdate="20150523T165757Z">
+        <seg>Capítol 21. Traducció automàtica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check the changes to be made - i.e. the folders and files added in this case.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T180318Z" creationid="Stephanie" creationdate="20150525T180318Z">
+        <seg>Comproveu els canvis que cal realitzar, és a dir, en aquest cas les carpetes i els arxius afegits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check the contents of the folder to confirm that the local copy of the repository and the corresponding files and folders correspond to the latest server version:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T181050Z" creationid="Stephanie" creationdate="20150525T181050Z">
+        <seg>Comproveu el contingut de la carpeta per confirmar que la còpia local del repositori i els arxius i les carpetes corresponents corresponen a l'última versió del servidor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose&lt;s0&gt; SVN.&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T162030Z" creationid="Stephanie" creationdate="20150525T162030Z">
+        <seg>Trieu&lt;s0&gt; SVN.&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;s0&gt;Create Project&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T224013Z" creationid="Stephanie" creationdate="20150525T162116Z">
+        <seg>Feu clic a &lt;s0&gt;Create Project&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;s0&gt;&lt;s1&gt;Options, Glossary&lt;/s1&gt;&lt;/s0&gt; to display the following options:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150524T175901Z" creationid="Stephanie" creationdate="20150524T175901Z">
+        <seg>Feu clic a Opcions, Glossari per mostrar les següents opcions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conflicts - for instance alternative translations of the same segment or glossary entry - can be monitored, resolved and merged</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T222531Z" creationid="Stephanie" creationdate="20150523T155924Z">
+        <seg>Els conflictes - com, per exemple, traduccions alternatives d'un mateix segment o d'una entrada del glossari - poden ser monitoritzats, resolts i fusionats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a new project on ProjectLocker</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T223916Z" creationid="Stephanie" creationdate="20150525T161933Z">
+        <seg>Creeu un nou projecte en ProjectLocker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create an empty folder, where you will keep your project and right-click on it.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T171443Z" creationid="Stephanie" creationdate="20150525T171443Z">
+        <seg>Creeu una carpeta buida, on es guardarà el vostre projecte i feu clic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a repository</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T153956Z" creationid="Stephanie" creationdate="20150523T153956Z">
+        <seg>Creació d'un repositori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Credentials are stored, so it isn't needed to enter them each time.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T225219Z" creationid="Stephanie" creationdate="20150525T181706Z">
+        <seg>Les credencials s'emmagatzemen, per la qual cosa no serà necessari inserir-les cada vegada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter an appropriate message into the message window and press &lt;s0&gt;OK&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T180357Z" creationid="Stephanie" creationdate="20150525T180357Z">
+        <seg>Introduïu el missatge corresponent a la finestra de missatge i premeu &lt;s0&gt;OK&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the URL, provided by ProjectLocker, into the field &lt;s0&gt;&lt;s1&gt;URL of repository&lt;/s1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150603T105905Z" creationid="Stephanie" creationdate="20150525T171705Z">
+        <seg>Escriviu la URL proporcionada per ProjectLocker, en el camp &lt;s0&gt;&lt;s1&gt;URL of repository&lt;/s1&gt;&lt;/s0&gt; (URL del repositori).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Every three minutes by default, an updated version of data shared is available to the rest of the team</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T222521Z" creationid="Stephanie" creationdate="20150523T155609Z">
+        <seg>Per defecte, cada tres minuts una versió actualitzada de les dades compartides estarà disponible per a la resta de l'equip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>First, they need to use &lt;s1&gt;Project &gt; Download Team Project&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T181518Z" creationid="Stephanie" creationdate="20150525T181518Z">
+        <seg>En primer lloc, han de prémer &lt;s1&gt;Projecte&gt; Baixa un projecte en equip&lt;/s1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For Mac you can download the client for instance from &lt;a1&gt;SourceForge&lt;/a1&gt;, For Linux see &lt;a2&gt;Subversion Commands and Scripts&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T223848Z" creationid="Stephanie" creationdate="20150524T230646Z">
+        <seg>Per a Mac podeu descarregar el client de, per exemple, &lt;a1&gt;SourceForge&lt;/a1&gt;, per a Linux vegeu &lt;a2&gt;Subversion Commands and Sripts&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For Windows we recommend &lt;a0&gt;TortoiseSVN&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150524T230504Z" creationid="Stephanie" creationdate="20150524T230504Z">
+        <seg>Per a Windows recomanem &lt;a0&gt;TortoiseSVN.&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For subsequent use, all is needed is opening the project like any other &lt;s0&gt;OmegaT&lt;/s0&gt; project.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T182154Z" creationid="Stephanie" creationdate="20150525T182154Z">
+        <seg>Per als usos posteriors, tot el que es necessita és obrir el projecte com qualsevol altre projecte &lt;s0&gt;OmegaT&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the example shown here we decided for the one OmegaT project - one single repository for the simplicity reasons.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T224126Z" creationid="Stephanie" creationdate="20150525T164236Z">
+        <seg>Per l'exemple que es mostra aquí ens vam decidir per un projecte OmegaT i un únic repositori per raons de simplicitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Generalities</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T165821Z" creationid="Stephanie" creationdate="20150523T165821Z">
+        <seg>Generalitats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to https://demo.taas-project.eu/account/keys/create?system=omegaT to create your own key then give it to OmegaT with -Dtaas.user.key=xxxxx (TAAS_API_KEY_NOT_FOUND)</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150524T175837Z" creationid="Stephanie" creationdate="20150523T171323Z">
+        <seg>Aneu a https://demo.taas-project.eu/account/keys/create?system=omegaT per crear la vostra pròpia clau i després introduïu-la a OmegaT a través de -Dtaas.user.key = xxxxx (TAAS_API_KEY_NOT_FOUND)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T164258Z" creationid="Stephanie" creationdate="20150523T164258Z">
+        <seg>Inici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Importing the project to SVN repository - Windows</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T154019Z" creationid="Stephanie" creationdate="20150523T154019Z">
+        <seg>Importació del projecte al repositori SVN - Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T164021Z" creationid="Stephanie" creationdate="20150523T164021Z">
+        <seg>En cas que no hi hagi un tokenizer per a les llengües emprades, OmegaT utilitza en lloc Hunspell (en aquest cas, assegureu-vos que els diccionaris Hunspell pertinents estan instal·lats).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In that dialog, it's possible to select All domains or a specific one.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150524T182653Z" creationid="Stephanie" creationdate="20150524T182653Z">
+        <seg>En aquest diàleg, és possible seleccionar tots els dominis o un d'específic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the next step, we will add the OmegaT files to the local folder.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T173259Z" creationid="Stephanie" creationdate="20150525T173259Z">
+        <seg>En el següent pas, afegirem els arxius OmegaT a la carpeta local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Incompatibilities</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T164030Z" creationid="Stephanie" creationdate="20150523T164030Z">
+        <seg>Incompatibilitats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T161218Z" creationid="Stephanie" creationdate="20150523T161218Z">
+        <seg>Introducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It allows accessing both public and private data, where private glossaries (called "collections") can be extracted from existing documents, and the target terms partly populated automatically from various sources.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T170457Z" creationid="Stephanie" creationdate="20150523T170457Z">
+        <seg>Permet accedir tant a dades públiques com a privades, on glossaris privats (anomenats "col·leccions") es poden extreure dels documents existents i els termes de la llengua de destinació es poden ingressar parcialment de manera automàtica des de diverses fonts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is possible to select another tokenizer (Language Tokenizer) or a different version of the tokenizer (Tokenizer Behavior) from the Project Properties window.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T163752Z" creationid="Stephanie" creationdate="20150523T163752Z">
+        <seg>És possible seleccionar un altre tokenizer (Language Tokenizer) o una versió diferent (Tokenizer Behavior) des de la finestra Propietats del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will first commit the current contents to the server repository and then update the local copy of the repository - i.e. the contents of .svn subfolder - so that it is up to date with the latest repository version.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T225127Z" creationid="Stephanie" creationdate="20150525T180504Z">
+        <seg>En primer lloc, remetrà els continguts actuals al repositori del servidor i després actualitzarà la còpia local del repositori i el contingut de subcarpeta .svn, de manera que tindrà els mateixos continguts que l'última versió del repositori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Languages selection</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T161238Z" creationid="Stephanie" creationdate="20150523T161238Z">
+        <seg>Selecció de llengües</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure the field &lt;s2&gt;&lt;s3&gt;Checkout directory&lt;/s3&gt;&lt;/s2&gt; is correct, i.e. specifies the empty folder you have created, and press &lt;s4&gt;&lt;s5&gt;OK&lt;/s5&gt;&lt;/s4&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T171829Z" creationid="Stephanie" creationdate="20150525T171829Z">
+        <seg>Assegureu-vos que el camp &lt;s2&gt;&lt;s3&gt;Checkout directory&lt;/s3&gt;&lt;/s2&gt; és correcte, és a dir, que especifica la carpeta buida que heu creat, i premeu &lt;s4&gt;&lt;s5&gt;OK&lt;/s5&gt;&lt;/s4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigation footer</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T164237Z" creationid="Stephanie" creationdate="20150523T164237Z">
+        <seg>Peu de pàgina de navegació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigation header</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T153729Z" creationid="Stephanie" creationdate="20150523T153729Z">
+        <seg>Capçalera de navegació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T153852Z" creationid="Stephanie" creationdate="20150523T153852Z">
+        <seg>Següent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that the creator of the repository has implicitly the administrator rights for the repository created.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150524T231132Z" creationid="Stephanie" creationdate="20150524T231132Z">
+        <seg>Recordeu que el creador del repositori té implícitament els drets d'administrador per al repositori creat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that the team members have to be registered first, before you can add them to the project (Note: in the free version of ProjectLocker you are allowed only two users per project).</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T162854Z" creationid="Stephanie" creationdate="20150525T162817Z">
+        <seg>Recordeu que els membres de l'equip han d'estar registrats, abans de poder afegir-los al projecte (Nota: en la versió gratuïta de ProjectLocker només es permeten dos usuaris per projecte).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT 3.1 - User's Guide</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150528T174910Z" creationid="Stephanie" creationdate="20150522T220257Z">
+        <seg>OmegaT 3.1 - Manual d'usuari </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT allows accessing the public part of TaaS without any registration.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T170531Z" creationid="Stephanie" creationdate="20150523T170531Z">
+        <seg>OmegaT permet l'accés a la part pública de TaaS sense cap tipus de registre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT automatically selects a tokenizer for the source and the target language according to the language settings of the project.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T222213Z" creationid="Stephanie" creationdate="20150523T163507Z">
+        <seg>OmegaT selecciona automàticament un tokenizer per a la llengua d'origen i per a la de destinació d'acord amb la configuració de llengua del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT configuration launchers (OmegaT.l4J.ini, omegat.kaptn and OmegaT.sh) contain a template entry.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T221621Z" creationid="Stephanie" creationdate="20150523T171021Z">
+        <seg>La configuració de les interfícies d'inici d'OmegaT (OmegaT.l4J.ini, omegat.kaptn and OmegaT.sh) contenen un model d'entrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT supports two of the popular version control systems (VCS for short), &lt;a0&gt;Apache Subversion&lt;/a0&gt; (often abbreviated SVN, after the command name svn) and &lt;a1&gt;Git&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150524T183046Z" creationid="Stephanie" creationdate="20150523T154603Z">
+        <seg>OmegaT dóna suport a dos populars sistemes de control de versions (VCS per abreujar), Apache Subversion (sovint abreujat SVN, degut al nom de la comanda svn) i Git.&lt;a0&gt;&lt;/a0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T164110Z" creationid="Stephanie" creationdate="20150523T164110Z">
+        <seg>OmegaT no s'iniciarà si els tokenizers es troben a la carpeta / plugins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will recognize it is a team project, and will synchronize everything automatically, every three minutes by default.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T225257Z" creationid="Stephanie" creationdate="20150525T180553Z">
+        <seg>OmegaT reconeixerà que és un projecte en equip, i sincronitzarà, per defecte, tots els elements automàticament cada tres minuts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the SVN server is available, project managers must locally install a SVN client, in order to manage the project contents on their computers.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T223801Z" creationid="Stephanie" creationdate="20150524T230444Z">
+        <seg>Una vegada el servidor SVN estigui disponible, els administradors del projecte hauran d'instal·lar localment un client SVN, per tal d'administrar el contingut del projecte en els seus equips.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the operation has finished, you can check the said folder: it should now contain a subfolder .svn and a green OK badge on its icon will show, that the contents of the folder are up-to-date:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T173220Z" creationid="Stephanie" creationdate="20150525T172648Z">
+        <seg>Una vegada hagi acabat aquesta operació, podeu comprovar la susdita carpeta: aquesta hauria de contenir ara una subcarpeta .svn i, si hi ha una insígnia OK verda a la icona d'aquesta, voldrà dir que els continguts de la subcarpeta estan actualitzats: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the team project is setup, team members only need &lt;s0&gt;OmegaT&lt;/s0&gt; to access the team project.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T181344Z" creationid="Stephanie" creationdate="20150525T181344Z">
+        <seg>Una vegada configurat el projecte, els membres de l'equip sols necessiten &lt;s0&gt;OmegaT&lt;/s0&gt; per accedir al projecte en equip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One member of the team, the project administrator, needs to be acquainted with handling the server side, i.e. the job of setting up the environment, importing the OmegaT project, assigning the access rights for the team members, resolving the conflicts, etc.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T222752Z" creationid="Stephanie" creationdate="20150523T160405Z">
+        <seg>Un dels membres de l'equip, l'administrador del projecte, ha d'estar familiaritzat amb el maneig del costat del servidor: el treball de la configuració de l'entorn, la importació del projecte OmegaT, l'assignació dels drets d'accés per als membres de l'equip, la resolució dels conflictes, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the&lt;s0&gt;&lt;s1&gt; Projects&lt;/s1&gt;&lt;/s0&gt; view for your account.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T162223Z" creationid="Stephanie" creationdate="20150525T162223Z">
+        <seg>Obriu la vista &lt;s0&gt;&lt;s1&gt;Projects&lt;/s1&gt;&lt;/s0&gt; (Projectes) del vostre compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other operating systems (Linux, OS X) offer similar packages.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T160816Z" creationid="Stephanie" creationdate="20150523T160816Z">
+        <seg>Altres sistemes operatius (Linux, OS X) ofereixen paquets similars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Private collections are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150524T180716Z" creationid="Stephanie" creationdate="20150524T180716Z">
+        <seg>Les col·leccions privades es mostraran en negreta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project members connect with it via their VCS client.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T160900Z" creationid="Stephanie" creationdate="20150523T160900Z">
+        <seg>Els membres del projecte es connecten a aquest a través del seu client VCS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Projects can be managed according to your development style and needs.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T163033Z" creationid="Stephanie" creationdate="20150525T163033Z">
+        <seg>Els projectes poden ser gestionats d'acord al vostre estil i necessitats de desenvolupament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Public and private collections</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T165838Z" creationid="Stephanie" creationdate="20150523T165838Z">
+        <seg>2. Col·leccions públiques i privades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove all the tokenizers from the /plugin folder before starting OmegaT.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T164152Z" creationid="Stephanie" creationdate="20150523T164152Z">
+        <seg>Traieu tots els tokenizers de la carpeta / plugins abans d'iniciar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select&lt;s0&gt; TortoiseSVN &gt; Checkout.&lt;/s0&gt; The following dialog appears:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T171556Z" creationid="Stephanie" creationdate="20150525T171556Z">
+        <seg>Seleccioneu&lt;s0&gt; TortoiseSVN &gt; Checkout.&lt;/s0&gt; i apareixerà el següent diàleg:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Several team members can work on the translation project simultaneously without interfering with each other</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T222510Z" creationid="Stephanie" creationdate="20150523T155335Z">
+        <seg>Diversos membres de l'equip poden treballar en el projecte de traducció simultàniament sense interferir entre si.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sharing a project using SVN</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T222336Z" creationid="Stephanie" creationdate="20150523T153936Z">
+        <seg>Compartir un projecte utilitzant SVN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sign in to the site first or - if it is your first time on the site, register for it and note your user name and password for the future projects.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T223912Z" creationid="Stephanie" creationdate="20150525T161910Z">
+        <seg>Inicieu sessió primer en la pàgina o, si és la primera vegada, registreu-s'hi i anoteu el vostre nom d'usuari i la contrasenya per a pròxims projectes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similar as in the case of OmegaT projects, you will need to have separate repositories for different language pairs.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T163152Z" creationid="Stephanie" creationdate="20150525T163152Z">
+        <seg>De la mateixa manera que en el cas dels projectes d'OmegaT, es necessitaran repositoris separats per a diferents parells d'idiomes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Add Finished!</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T175725Z" creationid="Stephanie" creationdate="20150525T175725Z">
+        <seg>El procés d'afegiment ha finalitzat!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Commit window will open and show the progress of the commit command.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T225000Z" creationid="Stephanie" creationdate="20150525T180448Z">
+        <seg>La finestra de remissió s'obrirà i mostrarà el progrés de la comanda de remissió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TaaS service at https://demo.taas-project.eu/info provides terminology services in European languages (plus Russian).</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T170004Z" creationid="Stephanie" creationdate="20150523T170004Z">
+        <seg>El servei de TaaS en https://demo.taas-project.eu/info ofereix serveis de terminologia en les llengües europees (a més d'en rus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The URL shown under Project Services will be used by SVN to connect clients to the SVN server you have just established.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T162634Z" creationid="Stephanie" creationdate="20150525T162634Z">
+        <seg>La URL que apareix baix de Project Services (Serveis de projecte) serà utilitzada pel servidor SVN per connectar els clients al servidor SVN que acabeu d'establir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The administrator may decide to include following folders and their contents as well: &lt;c0&gt;tm&lt;/c0&gt;, &lt;c1&gt;glossary&lt;/c1&gt; and &lt;c2&gt;dictionary&lt;/c2&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T173817Z" creationid="Stephanie" creationdate="20150525T173817Z">
+        <seg>L'admistrador pot incloure les següents carpetes, així com el seu contingut: &lt;c0&gt;tm&lt;/c0&gt;, &lt;c1&gt;glossary&lt;/c1&gt; i &lt;c2&gt;dictionary&lt;/c2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The advantages of a VC system for a team of translators can be summarized as follows:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T155318Z" creationid="Stephanie" creationdate="20150523T154932Z">
+        <seg>Els avantatges d'un sistema de control de versions per a un equip de traductors es poden resumir de la següent manera:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The alternative is to have one single repository with subfolders &lt;c0&gt;Project1&lt;/c0&gt;, &lt;c1&gt;Project2&lt;/c1&gt;, etc., and share the common material via common &lt;c2&gt;tm&lt;/c2&gt;, &lt;c3&gt;glossary&lt;/c3&gt; and &lt;c4&gt;dictionary&lt;/c4&gt; folders.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T224106Z" creationid="Stephanie" creationdate="20150525T163513Z">
+        <seg>L'alternativa és tenir un únic repositori amb subcarpetes com &lt;c0&gt;Project1&lt;/c0&gt;, &lt;c1&gt;Project2&lt;/c1&gt;, etc., i compartir el material comú a través de les carpetes &lt;c2&gt;tm&lt;/c2&gt;, &lt;c3&gt;glossary&lt;/c3&gt; i &lt;c4&gt;dictionary&lt;/c4&gt; comunes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The collaborative translation offered by OmegaT is based on the functionality of version or revision control, widely used by the software community to maintain control of changes to the code of a program and allow unimpeded collaboration within the development team.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T222500Z" creationid="Stephanie" creationdate="20150523T154426Z">
+        <seg>La traducció col·laborativa oferida per OmegaT es basa en la funcionalitat d'un control de versions o revisions, àmpliament utilitzada per la comunitat de programari per mantenir el control de canvis en el codi d'un programa i permetre la col·laboració sense traves dins l'equip de desenvolupament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The collections are downloaded as TBX glossaries in the current glossary folder.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150603T105458Z" creationid="Stephanie" creationdate="20150524T180821Z">
+        <seg>Les col·leccions es descarreguen com a glossaris TBX a la carpeta glossari que s'estigui utilitzant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The contents of the checkout folder will be marked accordingly:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T224615Z" creationid="Stephanie" creationdate="20150525T175904Z">
+        <seg>Els contiguts de la carpeta checkout es marcaran de la següent manera:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following files are to be shared among the members of the team and thus have to be included in any case:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T224249Z" creationid="Stephanie" creationdate="20150525T173358Z">
+        <seg>Els següents arxius es compartiran entre els membres de l'equip i, per tant, en tot cas han d'estar inclosos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following terms, to be used in the text below, deserve a short explanation:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T160148Z" creationid="Stephanie" creationdate="20150523T160148Z">
+        <seg>Els següents termes, que s'utilitzaran en el text més endavant, mereixen una breu explicació:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following two steps will bring the server version up to date:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T175207Z" creationid="Stephanie" creationdate="20150525T175207Z">
+        <seg>Els dos passos següents actualitzaran la versió del servidor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The key must then be given to OmegaT using -Dtaas.user.key=xxxxx.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T171330Z" creationid="Stephanie" creationdate="20150523T170729Z">
+        <seg>Llavors, la clau haurà de ser introduïda a OmegaT a través de = -Dtaas.user.key xxxxx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The procedure presented here relies on the free SVN server (limited to 2 users) offered by &lt;a0&gt;ProjectLocker&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150524T231104Z" creationid="Stephanie" creationdate="20150524T231104Z">
+        <seg>El procediment que aquí es presenta es basa en el servidor SVN lliure (limitat a 2 usuaris) oferit per ProjectLocker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The repository is empty at this moment.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T164543Z" creationid="Stephanie" creationdate="20150525T164543Z">
+        <seg>El repositori estarà buit en aquest moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The server can exist in the local network but in the majority of cases it will be available on internet, i.e. via URL address.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T222735Z" creationid="Stephanie" creationdate="20150523T160317Z">
+        <seg>El servidor pot existir a la xarxa local, però en la majoria dels casos està disponible a Internet a través d'una adreça URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The server keeps the information on checkouts, so that later commits (see below) can be performed in an orderly fashion.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150524T185309Z" creationid="Stephanie" creationdate="20150524T185309Z">
+        <seg>El servidor conserva la informació en checkouts, de manera més tard es poden dur a terme commits (veure més avall) d'una manera ordenada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The server makes sure that any conflicting changes, due to two members working on the same checked-out contents, will be resolved.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T223534Z" creationid="Stephanie" creationdate="20150524T224732Z">
+        <seg>El servidor assegura que qualsevol canvi conflictiu, a causa de què dos membres que treballen en els mateixos continguts constatats, es resoldran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The system maintains versioning for data shared</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T222527Z" creationid="Stephanie" creationdate="20150523T155647Z">
+        <seg>El sistema manté el control de versions en les dades compartides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are two possibilities to run an SVN server: you can install SVN on your own server or you can use a hosted service.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T223719Z" creationid="Stephanie" creationdate="20150524T225601Z">
+        <seg>Hi ha dues possibilitats per executar un servidor SVN: podeu instal·lar SVN en el vostre propi servidor o podeu utilitzar un servei d'allotjament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They also improve glossary matching.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T161759Z" creationid="Stephanie" creationdate="20150523T161759Z">
+        <seg>Milloren, a més, les coincidències amb el glossari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They can share common material, like project translation memory and its glossary</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T222515Z" creationid="Stephanie" creationdate="20150523T155446Z">
+        <seg>Poden compartir material comú, com memòries de traducció per al projecte i els seus glossaris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is also the place to add members of the team to the project and assign them their rights.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T162748Z" creationid="Stephanie" creationdate="20150525T162748Z">
+        <seg>Aquí també s'afegiran al projecte els membres de l'equip i se'ls associaran els seus drets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is especially useful in case of languages that use pre- and postfix forms for the stem words.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T162819Z" creationid="Stephanie" creationdate="20150523T162819Z">
+        <seg>Aquest ús és especialment útil en el cas de les llengües que utilitzen prefixos i sufixos que s'uneixen a les paraules mare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will actually do a checkout of the project in a local folder.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T181607Z" creationid="Stephanie" creationdate="20150525T181607Z">
+        <seg>Esta acció, en realitat, baixarà el projecte en una carpeta local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access the private part, a user must create a key using https://demo.taas-project.eu/account/keys/create?system=omegaT.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T170545Z" creationid="Stephanie" creationdate="20150523T170545Z">
+        <seg>Per accedir a la part privada, l'usuari ha de crear una clau utilitzant https://demo.taas-project.eu/account/keys/create?system=omegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To avoid any problems, one person only should have these rights at least initially.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T223637Z" creationid="Stephanie" creationdate="20150524T225016Z">
+        <seg>Per evitar qualsevol problema, només una persona tindrà aquests drets, almenys inicialment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To limit the amount of data, it is possible to select a specific domain by selecting &lt;s0&gt;&lt;s1&gt;Select TaaS Terminology Lookup Domain&lt;/s1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150603T105503Z" creationid="Stephanie" creationdate="20150524T182244Z">
+        <seg>Per limitar la quantitat de dades, és possible seleccionar un domini específic seleccionant &lt;s0&gt;&lt;s1&gt; Select TaaS Terminology Lookup Domain&lt;/s1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To update the local files, right-click on the checkout folder and select &lt;s2&gt;SVN Update&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T181022Z" creationid="Stephanie" creationdate="20150525T181006Z">
+        <seg>Per actualitzar els arxius locals, feu clic a la carpeta checkout i seleccioneu &lt;s2&gt;SVN Update&lt;/s2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T161643Z" creationid="Stephanie" creationdate="20150523T161643Z">
+        <seg>Els tokenizers (o lematitzadors) milloren la qualitat de les coincidències mitjançant el reconeixement de paraules flexionades en les dades del text original i les memòries de traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers are included in OmegaT and active by default.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T163418Z" creationid="Stephanie" creationdate="20150523T163418Z">
+        <seg>Els tokenizers s'inclouen en OmegaT i s'activen per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type the name and description of the repository.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T223930Z" creationid="Stephanie" creationdate="20150525T161951Z">
+        <seg>Escriviu el nom i la descripció del repositori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Under Linux, if &lt;s2&gt;OmegaT&lt;/s2&gt; is still asking for your credentials, you can checking the &lt;s3&gt;Force saving password as plain text&lt;/s3&gt; checkbox.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T225245Z" creationid="Stephanie" creationdate="20150525T182055Z">
+        <seg>A Linux, si &lt;s2&gt;OmegaT&lt;/s2&gt; continua demanant-vos les vostres credencials, comproveu la casella de selecció &lt;s3&gt;Force saving password as plain text&lt;/s3&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the team project in OmegaT</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T154144Z" creationid="Stephanie" creationdate="20150523T154144Z">
+        <seg>Utilització del projecte en equip en OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version control - introduction</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T153911Z" creationid="Stephanie" creationdate="20150523T153911Z">
+        <seg>Control de Versió - Introducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Very popular clients for Windows environment are &lt;a2&gt;TortoiseSVN&lt;/a2&gt; and &lt;a3&gt;TortoiseGit&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T222843Z" creationid="Stephanie" creationdate="20150523T160808Z">
+        <seg>Alguns dels clients més populars per a Windows són TortoiseSVN i TortoiseGit.&lt;a2&gt;&lt;/a2&gt;&lt;a3&gt;&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When accessing the service without a private key, the following message will be put in the log: TaaS API key not found.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T221830Z" creationid="Stephanie" creationdate="20150523T171302Z">
+        <seg>Si s'accedeix al servei sense una clau privada, el següent missatge apareixerà en el registre: TaaS API key not found (clau TaaS API no trobada).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using an external service you must be aware of the possible implications in terms of confidentiality, since you are loading the original document on a server outside of your direct control.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150603T105801Z" creationid="Stephanie" creationdate="20150524T225935Z">
+        <seg>Quan utilitzeu un servei extern heu de ser conscients de les possibles conseqüències en termes de confidencialitat, ja que carregareu el document original a un servidor fora del vostre control directe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Within a given language pair it is best to keep different subjects and/or clients as separate repositories as well.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T224034Z" creationid="Stephanie" creationdate="20150525T163348Z">
+        <seg>Dins d'un mateix parell de llengües, s'aconsella també mantenir les diferents temàtiques o clients en repositoris separats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You create first an empty client folder on your disk.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T164653Z" creationid="Stephanie" creationdate="20150525T164653Z">
+        <seg>Primer creeu una carpeta de client buida en el disc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You might want to apply the same to the &lt;c10&gt;target&lt;/c10&gt; folder and its contents.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T224453Z" creationid="Stephanie" creationdate="20150525T174926Z">
+        <seg>És possible que vulgueu aplicar la mateixa operació a la carpeta &lt;c10&gt;target&lt;/c10&gt; i al seu contingut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lep, lepa, lepo - singular, masculine, feminine, neutral</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T163048Z" creationid="Stephanie" creationdate="20150523T163048Z">
+        <seg>lep, lepa, lepo - singular, masculí, femení, neutre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>najlepših - superlative, plural, genitive for M,F,N</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150523T163332Z" creationid="Stephanie" creationdate="20150523T163332Z">
+        <seg>najlepših - superlatiu, plural, genitiu per a masculí, femení i neutre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the contents of the source folder</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T224335Z" creationid="Stephanie" creationdate="20150525T173523Z">
+        <seg>Els continguts de la carpeta source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the omegat project file - &lt;c0&gt;omegat.project&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T224316Z" creationid="Stephanie" creationdate="20150525T173427Z">
+        <seg>La carpeta omegat del projecte- &lt;c0&gt;omegat.project&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the project-specific filters definition - &lt;c0&gt;omegat\filters.xml&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T224342Z" creationid="Stephanie" creationdate="20150525T173551Z">
+        <seg>La definició dels filtres específics del projecte - &lt;c0&gt;omegat\filters.xml&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the translation memory - &lt;c0&gt;omegat\project_save.tmx&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T224323Z" creationid="Stephanie" creationdate="20150525T173436Z">
+        <seg>La memòria de traducció - &lt;c0&gt;omegat\project_save.tmx&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>window, similar to the one below will appear:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150525T175823Z" creationid="Stephanie" creationdate="20150525T175823Z">
+        <seg>Una finestra similar a la de baix apareixerà:</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
