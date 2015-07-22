@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;TaaS Terminology Lookup&lt;/e0&gt;: when checked, will allow querying TaaS data on a segment by segment basis.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150722T194644Z" creationid="Stephanie" creationdate="20150722T194644Z">
+        <seg>&lt;e0&gt;TaaS Terminology Lookup&lt;/e0&gt;: quan es comprovi, permetrà la consulta de les dades TaaS d'un segment a través d'una base segmentada. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;VCS client: &lt;/e0&gt;To interface with the server an SVN or Git client must be installed on computers of "project managers" involved in the OmegaT project.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150722T183954Z" creationid="Stephanie" creationdate="20150722T183954Z">
@@ -5170,6 +5178,14 @@
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T154316Z" creationid="Packard Bell" creationdate="20150529T153707Z">
         <seg>Per participar en l'esforç de desenvolupament de l'&lt;s3&gt;OmegaT&lt;/s3&gt; pot unir-se al grup de desenvolupadors, a través del web o mitjançant un correu electrònic a &lt;a4&gt;omegat-development-request@lists.sourceforge.net&lt;/a4&gt; amb "subscribe" en l'assumpte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To limit the amount of data, it is possible to select a specific domain by selecting &lt;e0&gt;Select TaaS Terminology Lookup Domain&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150722T194712Z" creationid="Stephanie" creationdate="20150722T194712Z">
+        <seg>Per limitar la quantitat de dades, és possible seleccionar un domini específic seleccionant &lt;e0&gt;Select TaaS Terminology Lookup Domain&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
