@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150722T173342Z" creationid="Stephanie" creationdate="20150722T173342Z">
+        <seg>&lt;p0&gt;Connectors&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;&lt;s1&gt;Browse TaaS Collections&lt;/s1&gt;&lt;/s0&gt; will allow browsing existing collections for the source and target languages of the project, and downloading them.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150525T221902Z" creationid="Stephanie" creationdate="20150524T180316Z">
@@ -2294,6 +2302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will be used automatically by OmegaT if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150722T173615Z" creationid="Stephanie" creationdate="20150722T173615Z">
+        <seg>Serà aplicat automàticament per OmegaT si feu clic en &lt;g0&gt;Opcions&gt; Verificador lingüístic&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It will be used automatically by OmegaT if &lt;s0&gt;Options &gt; Language Checker&lt;/s0&gt; is checked.</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150530T102556Z" creationid="Packard Bell" creationdate="20150528T180558Z">
@@ -2345,6 +2361,14 @@
         <seg>LanguageTool plug-in</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T202331Z" creationid="Alexandra" creationdate="20150526T161336Z">
+        <seg>Connector LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool plugin</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150722T173357Z" creationid="Stephanie" creationdate="20150722T173357Z">
         <seg>Connector LanguageTool</seg>
       </tuv>
     </tu>
@@ -5080,8 +5104,8 @@
       <tuv lang="EN">
         <seg>You can think of LanguageTool as a software to detect errors that a simple spell checker cannot detect, e.g. mixing up there/their, no/now etc.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Packard Bell" changedate="20150528T180049Z" creationid="Packard Bell" creationdate="20150528T175929Z">
-        <seg>Vostè pot pensar en LanguageTool com a un programari per detectar els errors que un simple corrector ortogràfic no pot detectar, per exemple, la seu/seua, no/nou etc.</seg>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150722T173429Z" creationid="Packard Bell" creationdate="20150528T175929Z">
+        <seg>Podeu pensar en LanguageTool com a un programari per detectar els errors que un simple corrector ortogràfic no pot detectar, per exemple, la seu/seua, no/nou, etc.</seg>
       </tuv>
     </tu>
     <tu>
