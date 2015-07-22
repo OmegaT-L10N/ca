@@ -3062,6 +3062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, &lt;a1&gt;OmegaT&lt;/a1&gt; must be relaunched to take the new shortcuts into account.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150722T175600Z" creationid="Stephanie" creationdate="20150722T175600Z">
+        <seg>Una vegada que l'arxiu &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; es modifica, &lt;a1&gt;OmegaT&lt;/a1&gt; ha de ser rellançat per tenir les noves dreceres en compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once the SVN server is available, project managers must locally install a SVN client, in order to manage the project contents on their computers.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150525T223801Z" creationid="Stephanie" creationdate="20150524T230444Z">
@@ -4322,6 +4330,22 @@
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T095757Z" creationid="Packard Bell" creationdate="20150529T095757Z">
         <seg>L'arxiu de definició de drecera ha de ser nomenat &lt;c0&gt;MainMenuShortcuts.properties&lt;/c0&gt; i ha de contenir com a màxim una definició de drecera per línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150722T175515Z" creationid="Stephanie" creationdate="20150722T175515Z">
+        <seg>L'arxiu de definició de drecera ha de ser nomenat &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; i ha de contenir com a màxim una definició de drecera per línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150722T175751Z" creationid="Stephanie" creationdate="20150722T175751Z">
+        <seg>La sintaxi de definició de drecera és la següent: &lt;c0&gt;&lt;codi d'element de menú&gt;=&lt;drecera&gt;&lt;/c0&gt;, on &lt;e1&gt;&lt;codi d'element de menú&gt;&lt;/e1&gt; és un codi pres de les taules de baix i &lt;e2&gt;&lt;drecera&gt;&lt;/e2&gt; és una combinació de tecles especificades per l'usuari.</seg>
       </tuv>
     </tu>
     <tu>
