@@ -510,10 +510,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;administrator: &lt;/e0&gt;the person responsible for the creation and maintaining of the repository, i.e. taking care of the server side of the task.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150722T184243Z" creationid="Stephanie" creationdate="20150722T184243Z">
+        <seg>&lt;e0&gt;Administrator: &lt;/e0&gt; persona responsable de la creació, el manteniment del repositori i de tenir cura del costat del servidor de la tasca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;checkout:&lt;/e0&gt; the operation that creates a working copy from the repository to your local computer.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150722T184152Z" creationid="Stephanie" creationdate="20150722T184152Z">
+        <seg>&lt;e0&gt;Checkout:&lt;/e0&gt; operació que crea una còpia de treball del repositori en l'equip local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;commit: &lt;/e0&gt;once a new local version of the checked-out material is ready, it can be committed to the repository and thus made available to the rest of the team.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150722T184217Z" creationid="Stephanie" creationdate="20150722T184217Z">
+        <seg>&lt;e0&gt;Commit: &lt;/e0&gt; una vegada està llesta una nova versió del material constatat, es pot remetre al repositori i, per tant, fer-la accesible per a la resta de membres del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;repository: &lt;/e0&gt;the place where the shared material is saved and maintained, either on a local access network or in Internet.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150722T184119Z" creationid="Stephanie" creationdate="20150722T184119Z">
         <seg>&lt;e0&gt;Repository&lt;/e0&gt;: lloc on es guarda i es conserva el material compartit, ja sigui en una xarxa d'accés local o a Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;user&lt;/e0&gt;: a member of the team, collaborating on the common project.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Stephanie" changedate="20150722T184305Z" creationid="Stephanie" creationdate="20150722T184305Z">
+        <seg>&lt;e0&gt;User&lt;/e0&gt;: un membre de l'equip, el qual col·labora en el projecte comú.</seg>
       </tuv>
     </tu>
     <tu>
