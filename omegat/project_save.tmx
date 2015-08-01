@@ -110,9 +110,25 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Add numbers to all segments, making them all "unique"&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150801T111742Z" creationid="Packard Bell" creationdate="20150801T111742Z">
+        <seg>-Afegir números a tots els segments, fent-los tots "únics"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Add terms to a glossary whilst translating in OmegaT</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T184649Z" creationid="Alexandra" creationdate="20150526T133647Z">
+        <seg>-Afegir termes al glossari mentre s'està traduint en OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Add terms to a glossary whilst translating in OmegaT&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150801T111740Z" creationid="Packard Bell" creationdate="20150801T111740Z">
         <seg>-Afegir termes al glossari mentre s'està traduint en OmegaT</seg>
       </tuv>
     </tu>
@@ -134,9 +150,25 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Create a TMX file containing all strings, with identical source and target&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150801T111727Z" creationid="Packard Bell" creationdate="20150801T111727Z">
+        <seg>-Crear un fitxer TMX que contingui totes les cadenes, amb fragments de partida i arribada idèntics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Extract all source text from the project files into a single, large text file</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T184643Z" creationid="Alexandra" creationdate="20150526T133805Z">
+        <seg>-Extreure tot el text font des dels fitxers de projecte en un sol arxiu de text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Extract all source text from the project files into a single, large text file&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150801T111708Z" creationid="Packard Bell" creationdate="20150801T111708Z">
         <seg>-Extreure tot el text font des dels fitxers de projecte en un sol arxiu de text</seg>
       </tuv>
     </tu>
@@ -150,9 +182,25 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Remove all text except tags, or all tags except text&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150801T111808Z" creationid="Packard Bell" creationdate="20150801T111808Z">
+        <seg>-Esborrar tot el text llevat de les etiquetes o totes les etiquetes llevat del text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Skip segments containing a certain set of characters</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T184639Z" creationid="Alexandra" creationdate="20150526T133812Z">
+        <seg>-Ometre segments que continguin un cert joc de caràcters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Skip segments containing a certain set of characters&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150801T111707Z" creationid="Packard Bell" creationdate="20150801T111707Z">
         <seg>-Ometre segments que continguin un cert joc de caràcters</seg>
       </tuv>
     </tu>
@@ -1768,8 +1816,8 @@
       <tuv lang="EN">
         <seg>Descriptions of and links to Samuel Murray's scripts/procedures.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Alexandra" changedate="20150604T184630Z" creationid="Alexandra" creationdate="20150526T133904Z">
-        <seg>Descripcions de i enllaços a scripts/procediments Samuel Murray.</seg>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150801T111609Z" creationid="Alexandra" creationdate="20150526T133904Z">
+        <seg>Descripcions de i enllaços a scripts/procediments de Samuel Murray.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3126,6 +3174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most of these scripts require MS Windows, although some procedures may also work on other platforms.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150801T111655Z" creationid="Packard Bell" creationdate="20150801T111655Z">
+        <seg>La majoria d'aquests scripts requereixen Microsoft Windows, encara que alguns procediments també poden funcionar en altres plataformes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Navigation footer</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T164237Z" creationid="Stephanie" creationdate="20150523T164237Z">
@@ -4137,6 +4193,14 @@
         <seg>Scripts/procedures are available to enable you to do the following:</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T184636Z" creationid="Alexandra" creationdate="20150526T133833Z">
+        <seg>Els scripts/procediments estan disponibles i li permeten fer el següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripts/procedures are available to enable you to do the following:&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150801T111705Z" creationid="Packard Bell" creationdate="20150801T111705Z">
         <seg>Els scripts/procediments estan disponibles i li permeten fer el següent:</seg>
       </tuv>
     </tu>
