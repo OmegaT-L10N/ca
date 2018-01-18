@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10088M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6394,6 +6394,38 @@
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150525T175823Z" creationid="Stephanie" creationdate="20150525T175823Z">
         <seg>Una finestra similar a la de baix apareixerà:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} {1}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180118T125817Z" creationid="Marc Riera" creationdate="20180118T125817Z">
+        <seg>{0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180118T125819Z" creationid="Marc Riera" creationdate="20180118T125819Z">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180118T125815Z" creationid="Marc Riera" creationdate="20180118T125815Z">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}_{1}_{2}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180118T125809Z" creationid="Marc Riera" creationdate="20180118T125809Z">
+        <seg>{0}_{1}_{2}</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
