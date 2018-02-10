@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T212859Z" creationid="Marc Riera" creationdate="20180210T212859Z">
+        <seg>&amp;Afegeix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
       <tuv lang="CA" changeid="Kos Ivantsov" changedate="20170906T153824Z" creationid="Kos Ivantsov" creationdate="20170906T153824Z">
@@ -38,10 +46,114 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Edit</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213627Z" creationid="Marc Riera" creationdate="20180210T213627Z">
+        <seg>&amp;Edita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Fix All</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T212931Z" creationid="Marc Riera" creationdate="20180210T212931Z">
+        <seg>&amp;Arregla-ho tot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Glossaries</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213605Z" creationid="Marc Riera" creationdate="20180210T213605Z">
+        <seg>Glossaris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Insert</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T212927Z" creationid="Marc Riera" creationdate="20180210T212927Z">
+        <seg>&amp;Insereix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;New...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213319Z" creationid="Marc Riera" creationdate="20180210T213319Z">
+        <seg>&amp;Nou...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Open...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213308Z" creationid="Marc Riera" creationdate="20180210T213308Z">
+        <seg>&amp;Obre...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Project</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213317Z" creationid="Marc Riera" creationdate="20180210T213317Z">
+        <seg>&amp;Projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Properties...</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180118T130300Z" creationid="Marc Riera" creationdate="20180118T130300Z">
         <seg>&amp;Propietats...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Quit</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213626Z" creationid="Marc Riera" creationdate="20180210T213626Z">
+        <seg>&amp;Surt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Redo Last Action</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213631Z" creationid="Marc Riera" creationdate="20180210T213631Z">
+        <seg>&amp;Refés l'última acció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Reload</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213501Z" creationid="Marc Riera" creationdate="20180210T213501Z">
+        <seg>To&amp;rna a carregar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Save</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213510Z" creationid="Marc Riera" creationdate="20180210T213510Z">
+        <seg>&amp;Desa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Search Project...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213633Z" creationid="Marc Riera" creationdate="20180210T213633Z">
+        <seg>&amp;Cerca al projecte...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Undo Last Action</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213630Z" creationid="Marc Riera" creationdate="20180210T213630Z">
+        <seg>&amp;Desfés l'última acció</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +194,15 @@
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T161109Z" creationid="Alexandra" creationdate="20150526T161109Z">
         <seg>(En rus)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
+To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213238Z" creationid="Marc Riera" creationdate="20180210T213238Z">
+        <seg>Al manual d'usuari, vegeu «Fitxers per traduir» &gt; «Formats de fitxer» per veure una llista dels formats de fitxer compatibles. Per afegir fitxers al projecte, feu clic al botó Copia fitxers a la carpeta de fitxers de partida... de la finestra Fitxers del projecte o crideu aquesta acció des del menú Projecte i seleccioneu els fitxers de partida que voleu copiar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -246,6 +367,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1) Reduce the number of source files and translate in batches;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213254Z" creationid="Marc Riera" creationdate="20180210T213254Z">
+        <seg>1) Reduïu el nombre de fitxers de partida i traduïu-los per lots.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1.1. Search options</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T162636Z" creationid="Packard Bell" creationdate="20150529T162636Z">
@@ -298,6 +427,19 @@
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T154244Z" creationid="Stephanie" creationdate="20150523T154244Z">
         <seg>1. Control de Versió - introducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2) Increase the amount of memory available to OmegaT, by
+specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
+command line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213149Z" creationid="Marc Riera" creationdate="20180210T213149Z">
+        <seg>2) Augmenteu la quantitat de memòria disponible per a l'OmegaT
+especificant «java -Xmx&lt;mida-en-MB&gt;M -jar OmegaT.jar» a la
+línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -546,6 +688,14 @@
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T153838Z" creationid="Stephanie" creationdate="20150523T153838Z">
         <seg>&lt;a0&gt;Anterior&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213225Z" creationid="Marc Riera" creationdate="20180210T213225Z">
+        <seg>&lt;automàtic&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1034,6 +1184,14 @@
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T202036Z" creationid="Alexandra" creationdate="20150526T160028Z">
         <seg>Una guia pas a pas sobre com utilitzar les funcions d'extracció de Text i de fusió de Text des de Rainbow i el pre- i post-processament d'arxius a ser traduïts fent servir OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&amp;dd</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T212918Z" creationid="Marc Riera" creationdate="20180210T212918Z">
+        <seg>Afe&amp;geix</seg>
       </tuv>
     </tu>
     <tu>
@@ -1718,6 +1876,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cop&amp;y Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213445Z" creationid="Marc Riera" creationdate="20180210T213445Z">
+        <seg>Cop&amp;ia fitxers a la carpeta de fitxers de partida...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213447Z" creationid="Marc Riera" creationdate="20180210T213447Z">
+        <seg>Copia fitxers a la carpeta de fitxers de partida...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create &amp;Glossary Entry...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213727Z" creationid="Marc Riera" creationdate="20180210T213727Z">
+        <seg>Crea una entrada del gl&amp;ossari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create &amp;Translated Documents</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213513Z" creationid="Marc Riera" creationdate="20180210T213513Z">
+        <seg>&amp;Crea els documents traduïts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create Alternative Translation</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T112002Z" creationid="Packard Bell" creationdate="20150529T112002Z">
@@ -1786,6 +1976,14 @@
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150525T225219Z" creationid="Stephanie" creationdate="20150525T181706Z">
         <seg>Les credencials s'emmagatzemen, per la qual cosa no serà necessari inserir-les cada vegada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213220Z" creationid="Marc Riera" creationdate="20180210T213220Z">
+        <seg>Ús de memòria actual de la màquina virtual: {0} MB; memòria lliure: {1} MB; memòria màxima disponible: {2} MB;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1934,6 +2132,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download &amp;Team Project...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213312Z" creationid="Marc Riera" creationdate="20180210T213312Z">
+        <seg>Baixa un projecte en &amp;equip...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Media&amp;Wiki Page...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213449Z" creationid="Marc Riera" creationdate="20180210T213449Z">
+        <seg>Baixa una pàgina Media&amp;Wiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213452Z" creationid="Marc Riera" creationdate="20180210T213452Z">
+        <seg>Baixa una pàgina MediaWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download OmegaT</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T110130Z" creationid="Alexandra" creationdate="20150526T110130Z">
@@ -1970,6 +2192,14 @@
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T201858Z" creationid="Alexandra" creationdate="20150526T130045Z">
         <seg>Compatibilitat de Déjà Vu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E&amp;xport Selection</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213710Z" creationid="Marc Riera" creationdate="20180210T213710Z">
+        <seg>E&amp;xporta la selecció</seg>
       </tuv>
     </tu>
     <tu>
@@ -2154,6 +2384,22 @@
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150528T180353Z" creationid="Packard Bell" creationdate="20150528T180349Z">
         <seg>Figura E.1. LanguageTool en OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213553Z" creationid="Marc Riera" creationdate="20180210T213553Z">
+        <seg>&amp;Filtres de fitxers...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Copy Failed</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213459Z" creationid="Marc Riera" creationdate="20180210T213459Z">
+        <seg>Ha fallat la còpia dels fitxers</seg>
       </tuv>
     </tu>
     <tu>
@@ -2462,6 +2708,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I&amp;nsert Source</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213705Z" creationid="Marc Riera" creationdate="20180210T213705Z">
+        <seg>I&amp;nsereix el text de partida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Iceni Infix</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T130417Z" creationid="Alexandra" creationdate="20150526T130417Z">
@@ -2702,6 +2956,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Missing Source &amp;Tags</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213714Z" creationid="Marc Riera" creationdate="20180210T213714Z">
+        <seg>Insereix les e&amp;tiquetes que falten del text de partida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T110936Z" creationid="Packard Bell" creationdate="20150529T110901Z">
@@ -2726,10 +2988,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Tag {0}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213718Z" creationid="Marc Riera" creationdate="20180210T213718Z">
+        <seg>Insereix l'etiqueta {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installation and Use</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150528T175004Z" creationid="Packard Bell" creationdate="20150528T175004Z">
         <seg>2. Instal·lació i ús</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing and running OmegaT" in the User Manual.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213203Z" creationid="Marc Riera" creationdate="20180210T213203Z">
+        <seg>Instal·lació i execució de l'OmegaT» al Manual d'usuari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3502,6 +3780,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has chosen option 'Yes' automatically.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213315Z" creationid="Marc Riera" creationdate="20180210T213315Z">
+        <seg>L'OmegaT ha triat l'opció «Sí» automàticament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has the following features:</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T110122Z" creationid="Alexandra" creationdate="20150526T110122Z">
@@ -3598,6 +3884,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T212957Z" creationid="Marc Riera" creationdate="20180210T212957Z">
+        <seg>L'OmegaT no té prou memòria i es tancarà quan feu clic a D'acord.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT supports two of the popular version control systems (VCS for short), &lt;a0&gt;Apache Subversion&lt;/a0&gt; (often abbreviated SVN, after the command name svn) and &lt;a1&gt;Git&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150524T183046Z" creationid="Stephanie" creationdate="20150523T154603Z">
@@ -3650,6 +3944,14 @@
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T164110Z" creationid="Stephanie" creationdate="20150523T164110Z">
         <seg>OmegaT no s'iniciarà si els tokenizers es troben a la carpeta / plugins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will now terminate.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213206Z" creationid="Marc Riera" creationdate="20180210T213206Z">
+        <seg>L'OmegaT es tancarà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3950,6 +4252,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please type or paste the URL of the mediawiki page</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213454Z" creationid="Marc Riera" creationdate="20180210T213454Z">
+        <seg>Escriviu o enganxeu l'URL de la pàgina mediawiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preview</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T155544Z" creationid="Alexandra" creationdate="20150526T155544Z">
@@ -4038,6 +4348,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project &amp;Files...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213555Z" creationid="Marc Riera" creationdate="20180210T213555Z">
+        <seg>&amp;Fitxers del projecte...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Files ({0})</seg>
       </tuv>
       <tuv lang="CA" changeid="Kos Ivantsov" changedate="20170906T153722Z" creationid="Kos Ivantsov" creationdate="20170906T153713Z">
@@ -4058,6 +4376,14 @@
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T092204Z" creationid="Packard Bell" creationdate="20150529T092204Z">
         <seg>Menú Projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project is Empty</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213242Z" creationid="Marc Riera" creationdate="20180210T213242Z">
+        <seg>El projecte és buit</seg>
       </tuv>
     </tu>
     <tu>
@@ -4142,6 +4468,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Re&amp;place with Source</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213708Z" creationid="Marc Riera" creationdate="20180210T213708Z">
+        <seg>Reem&amp;plaça pel text de partida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Redo Last Action</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T110640Z" creationid="Packard Bell" creationdate="20150529T110640Z">
@@ -4206,6 +4540,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace with &amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213702Z" creationid="Marc Riera" creationdate="20180210T213702Z">
+        <seg>Reemplaça amb la traducció auto&amp;màtica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace with Machine Translation</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T110756Z" creationid="Packard Bell" creationdate="20150529T110756Z">
@@ -4242,6 +4584,14 @@
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T135149Z" creationid="Alexandra" creationdate="20150526T135149Z">
         <seg>Requereix tcl/TK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore De&amp;faults</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T212924Z" creationid="Marc Riera" creationdate="20180210T212924Z">
+        <seg>Restaura els valors per de&amp;fecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -4454,6 +4804,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See "Chapter 3.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213157Z" creationid="Marc Riera" creationdate="20180210T213157Z">
+        <seg>Vegeu el «Capítol 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the &lt;a0&gt;Localizing OmegaT HowTo&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150801T114142Z" creationid="Packard Bell" creationdate="20150801T114142Z">
@@ -4482,6 +4840,22 @@
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T114214Z" creationid="Packard Bell" creationdate="20150529T114214Z">
         <seg>Segmentació...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &amp;Next Match</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213733Z" creationid="Marc Riera" creationdate="20180210T213733Z">
+        <seg>Selecciona la coincidència &amp;següent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &amp;Previous Match</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213735Z" creationid="Marc Riera" creationdate="20180210T213735Z">
+        <seg>Selecciona la coincidència &amp;anterior</seg>
       </tuv>
     </tu>
     <tu>
@@ -4522,6 +4896,14 @@
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T111224Z" creationid="Packard Bell" creationdate="20150529T111224Z">
         <seg>Selecciona la coincidència núm. 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Mat&amp;ch</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213729Z" creationid="Marc Riera" creationdate="20180210T213729Z">
+        <seg>&amp;Selecciona una coincidència</seg>
       </tuv>
     </tu>
     <tu>
@@ -5974,6 +6356,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213244Z" creationid="Marc Riera" creationdate="20180210T213244Z">
+        <seg>Avís</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Well, have you considered learning?</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T184937Z" creationid="Alexandra" creationdate="20150526T111048Z">
@@ -6206,6 +6596,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213240Z" creationid="Marc Riera" creationdate="20180210T213240Z">
+        <seg>També podeu copiar els fitxers a la carpeta dels fitxers de partida del projecte (per defecte, «source») mitjançant qualsevol gestor de fitxers i tornar a carregar el projecte seleccionant Torna a carregar al menú Projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may try to solve this problem in one of the following ways:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213002Z" creationid="Marc Riera" creationdate="20180210T213002Z">
+        <seg>Podeu intentar resoldre el problema de les maneres següents:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You might want to apply the same to the &lt;c10&gt;target&lt;/c10&gt; folder and its contents.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150525T224453Z" creationid="Stephanie" creationdate="20150525T174926Z">
@@ -6234,6 +6640,14 @@
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T105617Z" creationid="Packard Bell" creationdate="20150529T105617Z">
         <seg>Les noves dreceres han d'aparèixer ara al costat dels elements de menú que heu modificat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your project does not contain any files in a supported file format.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213228Z" creationid="Marc Riera" creationdate="20180210T213228Z">
+        <seg>Aquest projecte no conté cap fitxer que tingui un format compatible.</seg>
       </tuv>
     </tu>
     <tu>
