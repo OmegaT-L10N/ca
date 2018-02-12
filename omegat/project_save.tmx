@@ -1372,6 +1372,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aaron Madlon-Kay (integration manager)</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T224057Z" creationid="Marc Riera" creationdate="20180212T224057Z">
+        <seg>Aaron Madlon-Kay (cap d'integració)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About...</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T114523Z" creationid="Packard Bell" creationdate="20150529T114523Z">
@@ -2300,6 +2308,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Didier Briel is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T224259Z" creationid="Marc Riera" creationdate="20180212T224259Z">
+        <seg>Didier Briel és el coordinador del projecte OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display Source Segments</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T112404Z" creationid="Packard Bell" creationdate="20150529T112404Z">
@@ -2764,6 +2780,16 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain
+script provided (omegat.kaptn).</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T224545Z" creationid="Marc Riera" creationdate="20180212T224545Z">
+        <seg>Si voleu executar l'OmegaT d'una manera més còmoda, podeu utilitzar l'script
+del Kaptain inclòs (omegat.kaptn).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For advocates of open-source software, this freedom is even more important than the exemption from having to pay anything.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T184807Z" creationid="Alexandra" creationdate="20150526T132546Z">
@@ -3120,6 +3146,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T185027Z" creationid="Alexandra" creationdate="20150526T110300Z">
         <seg>Si ha trobat útil OmegaT i li agradaria expressar la seva gratitud, feu una donació: aneu a la pàgina d'OmegaT a SourceForge i feu clic a "Donate" (Doneu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T224925Z" creationid="Marc Riera" creationdate="20180212T224925Z">
+        <seg>Si heu utilitzat l'script linux-install.sh, hauríeu de poder executar l'OmegaT amb:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3532,6 +3566,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jean-Christophe Helary (localization manager)</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T224035Z" creationid="Marc Riera" creationdate="20180212T224035Z">
+        <seg>Jean-Christophe Helary (cap de localització)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Key:</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221553Z" creationid="Marc Riera" creationdate="20180212T221553Z">
@@ -3600,6 +3642,36 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180212T222954Z" creationid="Marc Riera" creationdate="20180212T222954Z">
         <seg>Executeu el programa d'instal·lació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT (Linux)
+========================</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T224815Z" creationid="Marc Riera" creationdate="20180212T224815Z">
+        <seg>Execució de l'OmegaT (Linux)
+========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT (Mac)
+======================</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T224737Z" creationid="Marc Riera" creationdate="20180212T224737Z">
+        <seg>Execució de l'OmegaT (Mac)
+======================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT (Windows)
+==========================</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T224758Z" creationid="Marc Riera" creationdate="20180212T224758Z">
+        <seg>Execució de l'OmegaT (Windows)
+==========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -4292,6 +4364,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is the original work of Keith Godfrey.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T224238Z" creationid="Marc Riera" creationdate="20180212T224238Z">
+        <seg>L'OmegaT és una obra original de Keith Godfrey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is written in Java.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T184915Z" creationid="Alexandra" creationdate="20150526T130527Z">
@@ -4612,6 +4692,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other contributions by</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T224331Z" creationid="Marc Riera" creationdate="20180212T224331Z">
+        <seg>Altres contribucions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other operating systems (Linux, OS X) offer similar packages.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T160816Z" creationid="Stephanie" creationdate="20150523T160816Z">
@@ -4762,6 +4850,16 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T112208Z" creationid="Packard Bell" creationdate="20150529T112208Z">
         <seg>Segment anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous contributors include:
+(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T224316Z" creationid="Marc Riera" creationdate="20180212T224316Z">
+        <seg>Contribucions prèvies:
+(en ordre alfabètic)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6158,6 +6256,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most current info about OmegaT can be found at:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T223950Z" creationid="Marc Riera" creationdate="20180212T223950Z">
+        <seg>Podeu trobar la informació més recent sobre l'OmegaT a:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150722T181221Z" creationid="Stephanie" creationdate="20150722T181221Z">
@@ -6558,6 +6664,16 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use this script you must first install
+Kaptain.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T224605Z" creationid="Marc Riera" creationdate="20180212T224605Z">
+        <seg>Per utilitzar aquest script, heu
+d'instal·lar el Kaptain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T161643Z" creationid="Stephanie" creationdate="20150523T161643Z">
@@ -6790,6 +6906,16 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Useful links
+============</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T223925Z" creationid="Marc Riera" creationdate="20180212T223925Z">
+        <seg>Enllaços útils
+============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User Group&lt;/u3&gt;.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150722T190917Z" creationid="Stephanie" creationdate="20150722T190917Z">
@@ -7002,6 +7128,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T114352Z" creationid="Packard Bell" creationdate="20150529T114352Z">
         <seg>Visualització</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vincent Bidaux (documentation manager)</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T224358Z" creationid="Marc Riera" creationdate="20180212T224358Z">
+        <seg>Vincent Bidaux (cap de documentació)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7238,6 +7372,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T224704Z" creationid="Marc Riera" creationdate="20180212T224704Z">
+        <seg>A continuació, podeu executar l'script del Kaptain amb:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can think of LanguageTool as a software to detect errors that a simple spell checker cannot detect, e.g. mixing up there/their, no/now etc.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150722T173429Z" creationid="Packard Bell" creationdate="20150528T175929Z">
@@ -7330,6 +7472,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180212T223722Z" creationid="Marc Riera" creationdate="20180212T223722Z">
         <seg>i moltes altres persones que han aportat una ajuda inestimable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and then:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T224710Z" creationid="Marc Riera" creationdate="20180212T224710Z">
+        <seg>i després:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7434,6 +7584,22 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T163332Z" creationid="Stephanie" creationdate="20150523T163332Z">
         <seg>najlepših - superlatiu, plural, genitiu per a masculí, femení i neutre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T224508Z" creationid="Marc Riera" creationdate="20180212T224508Z">
+        <seg>omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat.kaptn</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T224405Z" creationid="Marc Riera" creationdate="20180212T224405Z">
+        <seg>omegat.kaptn</seg>
       </tuv>
     </tu>
     <tu>
