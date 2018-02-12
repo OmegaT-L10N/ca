@@ -1860,6 +1860,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comment:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221332Z" creationid="Marc Riera" creationdate="20180212T221332Z">
+        <seg>Comentari:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compatibility HowTos</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T201845Z" creationid="Alexandra" creationdate="20150526T125146Z">
@@ -1880,6 +1888,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T201954Z" creationid="Alexandra" creationdate="20150526T155715Z">
         <seg>Compilació d'OmegaT des de&lt;s0/&gt;font</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T220952Z" creationid="Marc Riera" creationdate="20180212T220952Z">
+        <seg>Confirmeu</seg>
       </tuv>
     </tu>
     <tu>
@@ -2172,6 +2188,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display all &amp;source segments in bold</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221237Z" creationid="Marc Riera" creationdate="20180212T221237Z">
+        <seg>Mostra tots els segments de &amp;partida en negreta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Document file formats include:</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T201638Z" creationid="Alexandra" creationdate="20150526T100754Z">
@@ -2316,6 +2340,22 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221147Z" creationid="Marc Riera" creationdate="20180212T221147Z">
+        <seg>Editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editor Options</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221152Z" creationid="Marc Riera" creationdate="20180212T221152Z">
+        <seg>Opcions de l'editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Empty lines are accepted and comment lines should start with "//".</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T095827Z" creationid="Packard Bell" creationdate="20150529T095827Z">
@@ -2336,6 +2376,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150801T121337Z" creationid="Alexandra" creationdate="20150526T161404Z">
         <seg>Permet que scripts externs accedeixin a les funcions d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter a source term, a target term and a comment:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221312Z" creationid="Marc Riera" creationdate="20180212T221312Z">
+        <seg>Escriviu un terme de partida, un terme d'arribada i un comentari:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2668,6 +2716,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221417Z" creationid="Marc Riera" creationdate="20180212T221417Z">
+        <seg>Coincidències parcials</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fuzzy matching</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T201620Z" creationid="Alexandra" creationdate="20150526T100714Z">
@@ -2688,6 +2744,22 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T165821Z" creationid="Stephanie" creationdate="20150523T165821Z">
         <seg>Generalitats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221423Z" creationid="Marc Riera" creationdate="20180212T221423Z">
+        <seg>Glossari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary file: {0}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221348Z" creationid="Marc Riera" creationdate="20180212T221348Z">
+        <seg>Fitxer de glossari: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4252,6 +4324,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Recent Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T220931Z" creationid="Marc Riera" creationdate="20180212T220931Z">
+        <seg>Obre un pro&amp;jecte recent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150722T193542Z" creationid="Stephanie" creationdate="20150722T193542Z">
@@ -4348,6 +4428,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Password:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221404Z" creationid="Marc Riera" creationdate="20180212T221404Z">
+        <seg>Contrasenya:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Plain text</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T201646Z" creationid="Alexandra" creationdate="20150526T100821Z">
@@ -4408,6 +4496,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213454Z" creationid="Marc Riera" creationdate="20180210T213454Z">
         <seg>Escriviu o enganxeu l'URL de la pàgina mediawiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plugins</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221053Z" creationid="Marc Riera" creationdate="20180212T221053Z">
+        <seg>Connectors</seg>
       </tuv>
     </tu>
     <tu>
@@ -5228,6 +5324,22 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skip</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221043Z" creationid="Marc Riera" creationdate="20180212T221043Z">
+        <seg>Omet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source term:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221320Z" creationid="Marc Riera" creationdate="20180212T221320Z">
+        <seg>Terme de partida:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spell checking...</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T114219Z" creationid="Packard Bell" creationdate="20150529T114219Z">
@@ -5396,10 +5508,34 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target term:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221325Z" creationid="Marc Riera" creationdate="20180212T221325Z">
+        <seg>Terme d'arribada:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tcl/tk utility providing a formatted layout preview of translated files.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T184445Z" creationid="Alexandra" creationdate="20150526T135010Z">
         <seg>Recurs de TCL/tk que ofereix una previsualització formatada dels fitxers traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221132Z" creationid="Marc Riera" creationdate="20180212T221132Z">
+        <seg>Equip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team Options</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221138Z" creationid="Marc Riera" creationdate="20180212T221138Z">
+        <seg>Opcions de l'equip</seg>
       </tuv>
     </tu>
     <tu>
@@ -6440,6 +6576,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150722T190857Z" creationid="Stephanie" creationdate="20150722T190815Z">
         <seg>Al &lt;u3&gt;grup d'usuaris d'&lt;a4&gt;OmegaT&lt;/a4&gt; a Yahoo! podeu trobar assistència a l'usuari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221400Z" creationid="Marc Riera" creationdate="20180212T221400Z">
+        <seg>Usuari:</seg>
       </tuv>
     </tu>
     <tu>
