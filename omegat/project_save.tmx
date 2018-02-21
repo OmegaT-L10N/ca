@@ -1951,6 +1951,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Analyzing strings - {0} of {1} completed</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112430Z" creationid="Marc Riera" creationdate="20180221T112430Z">
+        <seg>S'estan analitzant les cadenes: {0} de {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T184858Z" creationid="Alexandra" creationdate="20150526T130600Z">
@@ -2327,6 +2335,22 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot access glossary folder!</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112528Z" creationid="Marc Riera" creationdate="20180221T112528Z">
+        <seg>No es pot accedir a la carpeta dels glossaris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot create folder for translated files:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112529Z" creationid="Marc Riera" creationdate="20180221T112529Z">
+        <seg>No es pot crear la carpeta per als fitxers traduïts:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cannot load specified XML file!</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223819Z" creationid="Marc Riera" creationdate="20180214T223819Z">
@@ -2379,6 +2403,22 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T165757Z" creationid="Stephanie" creationdate="20150523T165757Z">
         <seg>Capítol 21. Traducció automàtica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112634Z" creationid="Marc Riera" creationdate="20180221T112634Z">
+        <seg>Caràcters (amb espais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112632Z" creationid="Marc Riera" creationdate="20180221T112632Z">
+        <seg>Caràcters (sense espais)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2789,6 +2829,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T153956Z" creationid="Stephanie" creationdate="20150523T153956Z">
         <seg>Creació d'un repositori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating translated documents: {0}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112457Z" creationid="Marc Riera" creationdate="20180221T112457Z">
+        <seg>S'estan creant els documents traduïts: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3329,6 +3377,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error creating project!</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112444Z" creationid="Marc Riera" creationdate="20180221T112444Z">
+        <seg>S'ha produït un error en crear el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error in file</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224505Z" creationid="Marc Riera" creationdate="20180214T224505Z">
@@ -3361,6 +3417,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error monitoring external command!</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112622Z" creationid="Marc Riera" creationdate="20180221T112622Z">
+        <seg>S'ha produït un error en supervisar l'ordre externa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error reading TMX level2 at line {0} column {1}</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224120Z" creationid="Marc Riera" creationdate="20180214T224120Z">
@@ -3369,10 +3433,26 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error saving project file!</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112442Z" creationid="Marc Riera" creationdate="20180221T112442Z">
+        <seg>S'ha produït un error en desar el fitxer de projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error searching directory tree!</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223616Z" creationid="Marc Riera" creationdate="20180214T223616Z">
         <seg>S'ha produït un error en cercar dins l'arbre de directoris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error starting external command: {0}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112534Z" creationid="Marc Riera" creationdate="20180221T112534Z">
+        <seg>S'ha produït un error en iniciar l'ordre externa: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3457,6 +3537,30 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Executing external command...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112533Z" creationid="Marc Riera" creationdate="20180221T112533Z">
+        <seg>S'està executant una ordre externa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exit code {0}: "{1}"</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112551Z" creationid="Marc Riera" creationdate="20180221T112551Z">
+        <seg>Codi de sortida {0}: «{1}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exit code: {0}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112537Z" creationid="Marc Riera" creationdate="20180221T112537Z">
+        <seg>Codi de sortida: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Explains how to compile OmegaT from the source code.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T201956Z" creationid="Alexandra" creationdate="20150526T155720Z">
@@ -3505,6 +3609,30 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External command completed.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112535Z" creationid="Marc Riera" creationdate="20180221T112535Z">
+        <seg>L'ordre externa ha acabat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External command failed.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112552Z" creationid="Marc Riera" creationdate="20180221T112552Z">
+        <seg>L'ordre externa ha fallat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External command was interrupted.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112619Z" creationid="Marc Riera" creationdate="20180221T112619Z">
+        <seg>L'ordre externa s'ha interromput.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External documentation</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T155807Z" creationid="Alexandra" creationdate="20150526T155807Z">
@@ -3521,6 +3649,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to create project!</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112525Z" creationid="Marc Riera" creationdate="20180221T112525Z">
+        <seg>No s'ha pogut crear el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to load specified project!</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T111726Z" creationid="Marc Riera" creationdate="20180221T111726Z">
@@ -3533,6 +3669,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T111723Z" creationid="Marc Riera" creationdate="20180221T111723Z">
         <seg>No s'ha pogut carregar la memòria de traducció {0} del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112446Z" creationid="Marc Riera" creationdate="20180221T112446Z">
+        <seg>S'ha produït un error greu. El fitxer de projecte es desarà amb l'extensió de còpia de seguretat «.recover».</seg>
       </tuv>
     </tu>
     <tu>
@@ -3609,6 +3753,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112645Z" creationid="Marc Riera" creationdate="20180221T112645Z">
+        <seg>Nom de fitxer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File locations</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223106Z" creationid="Marc Riera" creationdate="20180214T223106Z">
@@ -3621,6 +3773,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223905Z" creationid="Marc Riera" creationdate="20180214T223905Z">
         <seg>El fitxer {0} no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File {0}: {1}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112804Z" creationid="Marc Riera" creationdate="20180221T112804Z">
+        <seg>Fitxer {0}: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3791,6 +3951,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T184807Z" creationid="Alexandra" creationdate="20150526T132546Z">
         <seg>Per als defensors del programari de codi obert, aquesta llibertat és encara més important que l'exempció d'haver de pagar res.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For all files:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112813Z" creationid="Marc Riera" creationdate="20180221T112813Z">
+        <seg>Per a tots els fitxers:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4373,6 +4541,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Individual File Statistics:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112643Z" creationid="Marc Riera" creationdate="20180221T112643Z">
+        <seg>Estadístiques per fitxer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Infix</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224410Z" creationid="Marc Riera" creationdate="20180214T224410Z">
@@ -4875,10 +5051,42 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Loading TMX files...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112456Z" creationid="Marc Riera" creationdate="20180221T112456Z">
+        <seg>S'estan carregant els fitxers TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading glossaries</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112439Z" creationid="Marc Riera" creationdate="20180221T112439Z">
+        <seg>S'estan carregant els glossaris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading glossary {0}</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224121Z" creationid="Marc Riera" creationdate="20180214T224121Z">
         <seg>S'està carregant el glossari {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading project...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112436Z" creationid="Marc Riera" creationdate="20180221T112436Z">
+        <seg>S'està carregant el projecte...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading: {0}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112453Z" creationid="Marc Riera" creationdate="20180221T112453Z">
+        <seg>S'està carregant: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5459,6 +5667,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Number of unique segments</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112326Z" creationid="Marc Riera" creationdate="20180221T112326Z">
+        <seg>Nombre de segments únics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ONline DIctionary LOokup TOol.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T184439Z" creationid="Alexandra" creationdate="20150526T135100Z">
@@ -6035,6 +6251,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Orphan segments</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112531Z" creationid="Marc Riera" creationdate="20180221T112531Z">
+        <seg>Segments orfes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other HowTos</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T201952Z" creationid="Alexandra" creationdate="20150526T155700Z">
@@ -6167,6 +6391,18 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223622Z" creationid="Marc Riera" creationdate="20180214T223622Z">
         <seg>Tanqueu la finestra de cerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please consult the documentation about your recovery options and
+return the information below to the software manufacturer with
+a description of how this error was produced.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112449Z" creationid="Marc Riera" creationdate="20180221T112449Z">
+        <seg>Consulteu la documentació sobre les opcions de recuperació
+i envieu la informació següent a l'autor del programari amb
+una descripció de com s'ha produït aquest error.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6324,6 +6560,14 @@ d'arribada a la qual voleu traduir-los.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Problem encountered loading project file!</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112527Z" creationid="Marc Riera" creationdate="20180221T112527Z">
+        <seg>S'ha produït un error en carregar el fitxer de projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Procedure for configuring Microsoft Translator.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T155539Z" creationid="Alexandra" creationdate="20150526T155539Z">
@@ -6420,10 +6664,26 @@ d'arribada a la qual voleu traduir-los.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Statistics</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112623Z" creationid="Marc Riera" creationdate="20180221T112623Z">
+        <seg>Estadístiques del projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project is Empty</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213242Z" creationid="Marc Riera" creationdate="20180210T213242Z">
         <seg>El projecte és buit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project load cancelled by user</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112441Z" creationid="Marc Riera" creationdate="20180221T112441Z">
+        <seg>L'usuari ha cancel·lat la càrrega del projecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -6604,6 +6864,46 @@ d'arribada a la qual voleu traduir-los.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remaining Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112711Z" creationid="Marc Riera" creationdate="20180221T112711Z">
+        <seg>Caràcters restants (amb espais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112700Z" creationid="Marc Riera" creationdate="20180221T112700Z">
+        <seg>Caràcters restants (sense espais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Segments</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112647Z" creationid="Marc Riera" creationdate="20180221T112647Z">
+        <seg>Segments restants</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Words</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112654Z" creationid="Marc Riera" creationdate="20180221T112654Z">
+        <seg>Paraules restants</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112638Z" creationid="Marc Riera" creationdate="20180221T112638Z">
+        <seg>Restants:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remember that every good bug report needs just three things:</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T151806Z" creationid="Packard Bell" creationdate="20150529T151633Z">
@@ -6664,6 +6964,22 @@ d'arribada a la qual voleu traduir-los.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T111900Z" creationid="Marc Riera" creationdate="20180221T111900Z">
         <seg>Voleu tornar a obrir el projecte?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions from other files:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112746Z" creationid="Marc Riera" creationdate="20180221T112746Z">
+        <seg>Repeticions en altres fitxers:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions within this file:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112738Z" creationid="Marc Riera" creationdate="20180221T112738Z">
+        <seg>Repeticions en aquest fitxer:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7408,6 +7724,14 @@ d'arribada a la qual voleu traduir-los.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223114Z" creationid="Marc Riera" creationdate="20180214T223114Z">
         <seg>Carpeta dels fitxers de partida:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source file loading complete</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112455Z" creationid="Marc Riera" creationdate="20180221T112455Z">
+        <seg>S'han carregat els fitxers de partida</seg>
       </tuv>
     </tu>
     <tu>
@@ -8593,6 +8917,54 @@ d'instal·lar el Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Total Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112709Z" creationid="Marc Riera" creationdate="20180221T112709Z">
+        <seg>Caràcters totals (amb espais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112658Z" creationid="Marc Riera" creationdate="20180221T112658Z">
+        <seg>Caràcters totals (sense espais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Segments</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112646Z" creationid="Marc Riera" creationdate="20180221T112646Z">
+        <seg>Segments totals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Words</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112652Z" creationid="Marc Riera" creationdate="20180221T112652Z">
+        <seg>Paraules totals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total number of segments</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112324Z" creationid="Marc Riera" creationdate="20180221T112324Z">
+        <seg>Nombre total de segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112629Z" creationid="Marc Riera" creationdate="20180221T112629Z">
+        <seg>Total:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toxic</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T184333Z" creationid="Alexandra" creationdate="20150604T184333Z">
@@ -8713,10 +9085,34 @@ d'instal·lar el Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated document created</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112514Z" creationid="Marc Riera" creationdate="20180221T112514Z">
+        <seg>S'ha creat el document traduït</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated documents created</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112458Z" creationid="Marc Riera" creationdate="20180221T112458Z">
+        <seg>S'han creat els documents traduïts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223332Z" creationid="Marc Riera" creationdate="20180214T223332Z">
         <seg>La carpeta dels fitxers traduïts que heu especificat no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated unique segments</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112327Z" creationid="Marc Riera" creationdate="20180221T112327Z">
+        <seg>Nombre de segments únics traduïts</seg>
       </tuv>
     </tu>
     <tu>
@@ -8817,6 +9213,14 @@ d'instal·lar el Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to build new TMX file!</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112520Z" creationid="Marc Riera" creationdate="20180221T112520Z">
+        <seg>No es pot muntar el fitxer TMX nou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223812Z" creationid="Marc Riera" creationdate="20180214T223812Z">
@@ -8913,10 +9317,90 @@ d'instal·lar el Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unique Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112713Z" creationid="Marc Riera" creationdate="20180221T112713Z">
+        <seg>Caràcters únics (amb espais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112702Z" creationid="Marc Riera" creationdate="20180221T112702Z">
+        <seg>Caràcters únics (sense espais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112715Z" creationid="Marc Riera" creationdate="20180221T112715Z">
+        <seg>Caràcters únics restants (amb espais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112703Z" creationid="Marc Riera" creationdate="20180221T112703Z">
+        <seg>Caràcters únics restants (sense espais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Segments</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112652Z" creationid="Marc Riera" creationdate="20180221T112652Z">
+        <seg>Segments únics restants</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Words</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112656Z" creationid="Marc Riera" creationdate="20180221T112656Z">
+        <seg>Paraules úniques restants</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112640Z" creationid="Marc Riera" creationdate="20180221T112640Z">
+        <seg>Únics restants:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Segments</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112651Z" creationid="Marc Riera" creationdate="20180221T112651Z">
+        <seg>Segments únics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Words</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112655Z" creationid="Marc Riera" creationdate="20180221T112655Z">
+        <seg>Paraules úniques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unique segments</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112129Z" creationid="Marc Riera" creationdate="20180221T112129Z">
         <seg>Segments únics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112642Z" creationid="Marc Riera" creationdate="20180221T112642Z">
+        <seg>Únics:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9448,6 +9932,14 @@ subscriure-us-hi:</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224412Z" creationid="Marc Riera" creationdate="20180214T224412Z">
         <seg>Fitxers TXML del Wordfast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Words</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112630Z" creationid="Marc Riera" creationdate="20180221T112630Z">
+        <seg>Paraules</seg>
       </tuv>
     </tu>
     <tu>
