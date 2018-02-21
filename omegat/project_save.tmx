@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Defaults</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114820Z" creationid="Marc Riera" creationdate="20180221T114820Z">
+        <seg>Valors per &amp;defecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Edit</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213627Z" creationid="Marc Riera" creationdate="20180210T213627Z">
@@ -306,6 +314,14 @@
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224327Z" creationid="Marc Riera" creationdate="20180214T224327Z">
         <seg>&amp;Salts de línia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Make the file filter settings project specific</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114836Z" creationid="Marc Riera" creationdate="20180221T114836Z">
+        <seg>&amp;Fes que els paràmetres dels filtres siguin específics de cada projecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -1851,6 +1867,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow translating &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114038Z" creationid="Marc Riera" creationdate="20180221T114038Z">
+        <seg>Permet la traducció de segments de partida en &amp;blanc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also &lt;c3&gt;ignored_words.txt&lt;/c3&gt; and &lt;c4&gt;learned_words.txt&lt;/c4&gt; in the &lt;c5&gt;omegat&lt;/c5&gt; folder may be worth sharing and maintaining on the team level.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150525T224424Z" creationid="Stephanie" creationdate="20150525T174207Z">
@@ -2367,6 +2391,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot reset the filter to default patterns.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114817Z" creationid="Marc Riera" creationdate="20180221T114817Z">
+        <seg>No es pot restablir el filtre amb els patrons per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T113442Z" creationid="Marc Riera" creationdate="20180221T113442Z">
@@ -2611,6 +2643,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180212T220952Z" creationid="Marc Riera" creationdate="20180212T220952Z">
         <seg>Confirmeu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm removal of pattern {0}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114812Z" creationid="Marc Riera" creationdate="20180221T114812Z">
+        <seg>Confirmeu l'eliminació del patró {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3241,6 +3281,22 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit Filter</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114810Z" creationid="Marc Riera" creationdate="20180221T114810Z">
+        <seg>Edita el filtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Filter Patterns</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114847Z" creationid="Marc Riera" creationdate="20180221T114847Z">
+        <seg>Edita els patrons de filtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Menu</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T092259Z" creationid="Packard Bell" creationdate="20150529T092227Z">
@@ -3577,6 +3633,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exception occurred:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114818Z" creationid="Marc Riera" creationdate="20180221T114818Z">
+        <seg>S'ha produït una excepció:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception while parsing:</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224008Z" creationid="Marc Riera" creationdate="20180214T224008Z">
@@ -3769,6 +3833,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T113932Z" creationid="Marc Riera" creationdate="20180221T113932Z">
+        <seg>Fitxer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File &amp;Filters...</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213553Z" creationid="Marc Riera" creationdate="20180210T213553Z">
@@ -3789,6 +3861,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213459Z" creationid="Marc Riera" creationdate="20180210T213459Z">
         <seg>Ha fallat la còpia dels fitxers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Filters</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114831Z" creationid="Marc Riera" creationdate="20180221T114831Z">
+        <seg>Filtres de fitxers</seg>
       </tuv>
     </tu>
     <tu>
@@ -4075,6 +4155,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Format:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114044Z" creationid="Marc Riera" creationdate="20180221T114044Z">
+        <seg>Format:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Forward in history...</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T112253Z" creationid="Packard Bell" creationdate="20150529T112253Z">
@@ -4243,6 +4331,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114721Z" creationid="Marc Riera" creationdate="20180221T114721Z">
+        <seg>HTMLParser 1.6, per Somik Raha, Derrick Oswald i altres (llicència LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTTP(S)</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T113119Z" creationid="Marc Riera" creationdate="20180221T113119Z">
@@ -4295,6 +4391,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223232Z" creationid="Marc Riera" creationdate="20180214T223232Z">
         <seg>També podeu especificar una ubicació personalitzada de les carpetes del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114825Z" creationid="Marc Riera" creationdate="20180221T114825Z">
+        <seg>Aquí podeu configurar els patrons de noms de fitxer de partida dels fitxers que processarà cada filtre, personalitzar el nom dels fitxers traduïts i seleccionar la codificació que s'utilitzarà per carregar el fitxer i desar el respectiu fitxer traduït.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4383,6 +4487,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T130509Z" creationid="Alexandra" creationdate="20150526T130509Z">
         <seg>Si no...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the filter has any options, you may change them by clicking Options.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114846Z" creationid="Marc Riera" creationdate="20180221T114846Z">
+        <seg>Si el filtre té opcions, podeu canviar-les fent clic a Opcions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5069,6 +5181,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Last changes</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114752Z" creationid="Marc Riera" creationdate="20180221T114752Z">
+        <seg>Darrers canvis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Last modified by {0}</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112035Z" creationid="Marc Riera" creationdate="20180221T112035Z">
@@ -5231,6 +5351,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T114826Z" creationid="Packard Bell" creationdate="20150529T114826Z">
         <seg>Registre...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Log:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114800Z" creationid="Marc Riera" creationdate="20180221T114800Z">
+        <seg>Registre:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5475,6 +5603,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Open XML</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114637Z" creationid="Marc Riera" creationdate="20180221T114637Z">
+        <seg>Fitxers Microsoft Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Minimize</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221504Z" creationid="Marc Riera" creationdate="20180212T221504Z">
@@ -5511,6 +5647,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T112710Z" creationid="Packard Bell" creationdate="20150529T112710Z">
         <seg>Informació de modificació/Mostra-la al segment actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Monolingual</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114051Z" creationid="Marc Riera" creationdate="20180221T114051Z">
+        <seg>Monolingüe</seg>
       </tuv>
     </tu>
     <tu>
@@ -5723,6 +5867,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: not all filters allow you to select an encoding.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114830Z" creationid="Marc Riera" creationdate="20180221T114830Z">
+        <seg>Nota: No tots els filtres permeten seleccionar la codificació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221435Z" creationid="Marc Riera" creationdate="20180212T221435Z">
@@ -5759,6 +5911,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112326Z" creationid="Marc Riera" creationdate="20180221T112326Z">
         <seg>Nombre de segments únics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>O&amp;ptions...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114848Z" creationid="Marc Riera" creationdate="20180221T114848Z">
+        <seg>O&amp;pcions...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6019,6 +6179,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT license</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114750Z" creationid="Marc Riera" creationdate="20180221T114750Z">
+        <seg>Llicència de l'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT on the web</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150722T190424Z" creationid="Stephanie" creationdate="20150722T190424Z">
@@ -6079,6 +6247,15 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T134831Z" creationid="Alexandra" creationdate="20150526T134831Z">
         <seg>Curs de formació d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses the following libraries:
+{1}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114709Z" creationid="Marc Riera" creationdate="20180221T114709Z">
+        <seg>L'OmegaT utilitza les biblioteques següents:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6275,6 +6452,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open XML Filter Options</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114638Z" creationid="Marc Riera" creationdate="20180221T114638Z">
+        <seg>Opcions del filtre Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150722T193542Z" creationid="Stephanie" creationdate="20150722T193542Z">
@@ -6359,6 +6544,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T161113Z" creationid="Alexandra" creationdate="20150526T161113Z">
         <seg>Altres recursos d'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other contributions are detailed in the readme.txt file</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114657Z" creationid="Marc Riera" creationdate="20180221T114657Z">
+        <seg>La resta de col·laboracions es detallen al fitxer readme.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -6752,6 +6945,14 @@ d'arribada a la qual voleu traduir-los.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Specific File Filters</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114833Z" creationid="Marc Riera" creationdate="20180221T114833Z">
+        <seg>Filtres de fitxers específics del projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Statistics</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112623Z" creationid="Marc Riera" creationdate="20180221T112623Z">
@@ -7016,6 +7217,14 @@ d'arribada a la qual voleu traduir-los.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114911Z" creationid="Marc Riera" creationdate="20180221T114911Z">
+        <seg>Elimina les etiquetes &amp;inicials i finals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove LanguageTool from the /plugin folder before starting OmegaT.</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150528T181921Z" creationid="Packard Bell" creationdate="20150528T181921Z">
@@ -7036,6 +7245,14 @@ d'arribada a la qual voleu traduir-los.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T164152Z" creationid="Stephanie" creationdate="20150523T164152Z">
         <seg>Traieu tots els tokenizers de la carpeta / plugins abans d'iniciar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove pattern?</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114813Z" creationid="Marc Riera" creationdate="20180221T114813Z">
+        <seg>Voleu eliminar el patró?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7944,6 +8161,14 @@ d'arribada a la qual voleu traduir-los.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114047Z" creationid="Marc Riera" creationdate="20180221T114047Z">
+        <seg>Estàndard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T112855Z" creationid="Packard Bell" creationdate="20150529T112855Z">
@@ -8280,6 +8505,14 @@ d'arribada a la qual voleu traduir-los.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Java Resource Bundles filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114555Z" creationid="Marc Riera" creationdate="20180221T114555Z">
+        <seg>El filtre de paquets de recursos de Java ha generat una excepció:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The LanguageTool in OmegaT</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150528T180401Z" creationid="Packard Bell" creationdate="20150528T180401Z">
@@ -8292,6 +8525,14 @@ d'arribada a la qual voleu traduir-los.</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150528T180425Z" creationid="Packard Bell" creationdate="20150528T180425Z">
         <seg>El connector LanguageTool està inclòs en OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Mozilla DTD filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114454Z" creationid="Marc Riera" creationdate="20180221T114454Z">
+        <seg>El filtre DTD de Mozilla ha generat una excepció:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8859,6 +9100,22 @@ xx és el codi de llengua i YY és el codi de regió o país (opcional).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114809Z" creationid="Marc Riera" creationdate="20180221T114809Z">
+        <seg>Aquest programa es distribueix amb l'esperança que serà útil, però SENSE CAP GARANTIA; ni tan sols amb la garantia de COMERCIALITAT o APTITUD PER A PROPÒSITS DETERMINATS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114803Z" creationid="Marc Riera" creationdate="20180221T114803Z">
+        <seg>Aquest programa és programari lliure; podeu redistribuir-lo i/o modificar-lo sota els termes de la Llicència Pública General GNU tal com ha estat publicada per la Free Software Foundation; ja sigui la versió 2 de la Llicència o bé (si ho preferiu) qualsevol altra versió posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This web site</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T134432Z" creationid="Alexandra" creationdate="20150526T134432Z">
@@ -8919,6 +9176,14 @@ xx és el codi de llengua i YY és el codi de regió o país (opcional).</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150528T185302Z" creationid="Packard Bell" creationdate="20150528T185302Z">
         <seg>Per personalitzar la funció de script, feu el següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114843Z" creationid="Marc Riera" creationdate="20180221T114843Z">
+        <seg>Per editar quins fitxers i quines codificacions processarà el filtre, seleccioneu un filtre de la llista i feu clic a Edita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9928,6 +10193,14 @@ subscriure-us-hi:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>View or edit file filters.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114841Z" creationid="Marc Riera" creationdate="20180221T114841Z">
+        <seg>Aquí podeu visualitzar o editar els filtres de fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>View...</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T114352Z" creationid="Packard Bell" creationdate="20150529T114352Z">
@@ -10381,6 +10654,14 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223223Z" creationid="Marc Riera" creationdate="20180214T223223Z">
         <seg>Especifiqueu-ne la ubicació nova o 
 torneu-les a crear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>YouTube Subtitles</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114630Z" creationid="Marc Riera" creationdate="20180221T114630Z">
+        <seg>Fitxers de subtítols de YouTube</seg>
       </tuv>
     </tu>
     <tu>
