@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T115050Z" creationid="Marc Riera" creationdate="20180221T115050Z">
+        <seg>Permet que la traducció sigui &amp;igual que el text de partida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Always Confirm Quit</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T111517Z" creationid="Marc Riera" creationdate="20180221T111517Z">
@@ -302,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Leave the segment empty</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T115039Z" creationid="Marc Riera" creationdate="20180221T115039Z">
+        <seg>Deixa el segment &amp;buit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;License</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224639Z" creationid="Marc Riera" creationdate="20180214T224639Z">
@@ -338,6 +354,30 @@
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213823Z" creationid="Marc Riera" creationdate="20180210T213823Z">
         <seg>Estadístiques de &amp;coincidències</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Minimal similarity:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T115045Z" creationid="Marc Riera" creationdate="20180221T115045Z">
+        <seg>Similitud &amp;mínima:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Move Down</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T115013Z" creationid="Marc Riera" creationdate="20180221T115013Z">
+        <seg>&amp;Mou cap avall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Name/ID:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T115031Z" creationid="Marc Riera" creationdate="20180221T115031Z">
+        <seg>&amp;Nom/ID:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1803,6 +1843,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add Pattern</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114927Z" creationid="Marc Riera" creationdate="20180221T114927Z">
+        <seg>Afegeix un patró</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adds recognition of inflected forms to OmegaT glossary and fuzzy match functions.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T201945Z" creationid="Alexandra" creationdate="20150526T155633Z">
@@ -2091,6 +2139,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T092108Z" creationid="Packard Bell" creationdate="20150529T092108Z">
         <seg>Apèndix I. Avisos legals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T115018Z" creationid="Marc Riera" creationdate="20180221T115018Z">
+        <seg>Esteu segur que voleu eliminar el conjunt de regles de segmentació {0}?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3305,6 +3361,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit Pattern</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114928Z" creationid="Marc Riera" creationdate="20180221T114928Z">
+        <seg>Edita el patró</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Project</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223057Z" creationid="Marc Riera" creationdate="20180214T223057Z">
@@ -3937,6 +4001,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filename Variables:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114938Z" creationid="Marc Riera" creationdate="20180221T114938Z">
+        <seg>Variables de nom de fitxer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T201723Z" creationid="Alexandra" creationdate="20150526T102658Z">
@@ -4319,6 +4391,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T201840Z" creationid="Alexandra" creationdate="20150604T201840Z">
         <seg>Com-es-fa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML and XHTML</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114947Z" creationid="Marc Riera" creationdate="20180221T114947Z">
+        <seg>Fitxers HTML i XHTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -4805,6 +4885,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert the &amp;best fuzzy match</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T115042Z" creationid="Marc Riera" creationdate="20180221T115042Z">
+        <seg>Insereix la coincidència parcial més &amp;similar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installation and Use</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150528T175004Z" creationid="Packard Bell" creationdate="20150528T175004Z">
@@ -4909,6 +4997,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invalid HTML file</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114944Z" creationid="Marc Riera" creationdate="20180221T114944Z">
+        <seg>El fitxer HTML no és vàlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid file format</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224237Z" creationid="Marc Riera" creationdate="20180214T224237Z">
@@ -5001,6 +5097,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T163752Z" creationid="Stephanie" creationdate="20150523T163752Z">
         <seg>És possible seleccionar un altre tokenizer (Language Tokenizer) o una versió diferent (Tokenizer Behavior) des de la finestra Propietats del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is used to mark your translations.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T115030Z" creationid="Marc Riera" creationdate="20180221T115030Z">
+        <seg>S'utilitza per marcar les vostres traduccions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5715,6 +5819,22 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move Do&amp;wn</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T115009Z" creationid="Marc Riera" creationdate="20180221T115009Z">
+        <seg>Mou cap a&amp;vall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move U&amp;p</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T115008Z" creationid="Marc Riera" creationdate="20180221T115008Z">
+        <seg>Mou ca&amp;p amunt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mozilla DTD</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224243Z" creationid="Marc Riera" creationdate="20180214T224243Z">
@@ -5743,6 +5863,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T110239Z" creationid="Packard Bell" creationdate="20150529T110239Z">
         <seg>Nou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New Language and Country</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T115022Z" creationid="Marc Riera" creationdate="20180221T115022Z">
+        <seg>Llengua i país nous</seg>
       </tuv>
     </tu>
     <tu>
@@ -6732,6 +6860,14 @@ per determinar l'origen de l'error i torneu-ho a provar.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please enter your name/ID.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T115026Z" creationid="Marc Riera" creationdate="20180221T115026Z">
+        <seg>Escriviu el vostre nom/ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please select a different folder.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223345Z" creationid="Marc Riera" creationdate="20180214T223345Z">
@@ -6745,6 +6881,14 @@ per determinar l'origen de l'error i torneu-ho a provar.</seg>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223229Z" creationid="Marc Riera" creationdate="20180214T223229Z">
         <seg>Seleccioneu la llengua dels fitxers de partida i la llengua 
 d'arribada a la qual voleu traduir-los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T115035Z" creationid="Marc Riera" creationdate="20180221T115035Z">
+        <seg>Seleccioneu quin text voleu que s'insereixi en activar un segment que encara no heu traduït.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6779,6 +6923,14 @@ d'arribada a la qual voleu traduir-los.</seg>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180212T223343Z" creationid="Marc Riera" creationdate="20180212T223343Z">
         <seg>Requisits per instal·lar l'OmegaT
 ===================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preserve spaces &amp;for all tags</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114922Z" creationid="Marc Riera" creationdate="20180221T114922Z">
+        <seg>Manté e&amp;ls espais en totes les etiquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -6957,6 +7109,14 @@ d'arribada a la qual voleu traduir-los.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112623Z" creationid="Marc Riera" creationdate="20180221T112623Z">
         <seg>Estadístiques del projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project autosaved on {0}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114941Z" creationid="Marc Riera" creationdate="20180221T114941Z">
+        <seg>El projecte s'ha desat automàticament a les {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7245,6 +7405,14 @@ d'arribada a la qual voleu traduir-los.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T164152Z" creationid="Stephanie" creationdate="20150523T164152Z">
         <seg>Traieu tots els tokenizers de la carpeta / plugins abans d'iniciar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114914Z" creationid="Marc Riera" creationdate="20180221T114914Z">
+        <seg>Elimina els espais en blanc inicials i finals en projectes no segmentats</seg>
       </tuv>
     </tu>
     <tu>
@@ -7777,6 +7945,14 @@ d'arribada a la qual voleu traduir-los.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segmentation rules are applied in the following order:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T115017Z" creationid="Marc Riera" creationdate="20180221T115017Z">
+        <seg>Les regles de segmentació s'aplicaran en aquest ordre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segmentation...</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T114214Z" creationid="Packard Bell" creationdate="20150529T114214Z">
@@ -7953,6 +8129,14 @@ d'arribada a la qual voleu traduir-los.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sets of segmentation rules:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T115015Z" creationid="Marc Riera" creationdate="20180221T115015Z">
+        <seg>Conjunts de regles de segmentació:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting up a preview function for use with OmegaT.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T155550Z" creationid="Alexandra" creationdate="20150526T155550Z">
@@ -8057,10 +8241,26 @@ d'arribada a la qual voleu traduir-los.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source File Encoding:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114934Z" creationid="Marc Riera" creationdate="20180221T114934Z">
+        <seg>Codificació del fitxer de partida:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source Filename Pattern</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224201Z" creationid="Marc Riera" creationdate="20180214T224201Z">
         <seg>Patró de nom de fitxer de partida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Filename Pattern:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114929Z" creationid="Marc Riera" creationdate="20180221T114929Z">
+        <seg>Patró de nom de fitxer de partida:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9318,6 +9518,14 @@ d'instal·lar el Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Too big HTML file!</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114943Z" creationid="Marc Riera" creationdate="20180221T114943Z">
+        <seg>El fitxer HTML és massa gran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tools Menu</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T092322Z" creationid="Packard Bell" creationdate="20150529T092322Z">
@@ -9474,6 +9682,14 @@ d'instal·lar el Kaptain.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224203Z" creationid="Marc Riera" creationdate="20180214T224203Z">
         <seg>Codificació del fitxer traduït</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated File Encoding:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114936Z" creationid="Marc Riera" creationdate="20180221T114936Z">
+        <seg>Codificació del fitxer traduït:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10690,10 +10906,18 @@ torneu-les a crear.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[fuzzy]</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T115048Z" creationid="Marc Riera" creationdate="20180221T115048Z">
+        <seg>[parcial]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>all matching segments</seg>
       </tuv>
-      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T113721Z" creationid="Marc Riera" creationdate="20180221T113721Z">
-        <seg>tots els segments coincidents</seg>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T115125Z" creationid="Marc Riera" creationdate="20180221T113721Z">
+        <seg>Tots els segments coincidents</seg>
       </tuv>
     </tu>
     <tu>
@@ -10756,8 +10980,8 @@ torneu-les a crear.</seg>
       <tuv lang="EN">
         <seg>file names</seg>
       </tuv>
-      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T113726Z" creationid="Marc Riera" creationdate="20180221T113726Z">
-        <seg>noms de fitxer</seg>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20180221T115128Z" creationid="Marc Riera" creationdate="20180221T113726Z">
+        <seg>Noms de fitxer</seg>
       </tuv>
     </tu>
     <tu>
