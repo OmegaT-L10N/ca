@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4833,6 +4833,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T202018Z" creationid="Alexandra" creationdate="20150526T155815Z">
         <seg>Informació sobre procediments i funcions d'OmegaT per a usuaris avançats que es pot trobar en altres webs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initialized {0}-{1} team project.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181107T231921Z" creationid="mgalo" creationdate="20181107T231921Z">
+        <seg>Iniciat {0}-{1} projecte d'equip</seg>
       </tuv>
     </tu>
     <tu>
