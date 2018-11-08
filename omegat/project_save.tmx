@@ -3553,6 +3553,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Downloading project...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181108T154817Z" creationid="mgalo" creationdate="20181108T154817Z">
+        <seg>S'està baixant el projecte...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Duplicate segments: {0}</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T111821Z" creationid="Marc Riera" creationdate="20180221T111821Z">
@@ -4397,6 +4405,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221658Z" creationid="Marc Riera" creationdate="20180212T221658Z">
         <seg>La carpeta no existeix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Folder {0} was automatically created for team mode project</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181108T154915Z" creationid="mgalo" creationdate="20181108T154915Z">
+        <seg>S'ha creat automàticament la carpeta {0} per al mode de projecte en equip</seg>
       </tuv>
     </tu>
     <tu>
@@ -6988,6 +7004,22 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Target File</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181108T154627Z" creationid="mgalo" creationdate="20181108T154627Z">
+        <seg>Obre el fitxer d'arribada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Target File Location</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181108T154703Z" creationid="mgalo" creationdate="20181108T154703Z">
+        <seg>Obre l'ubicació del fitxer d'arribada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open XML Filter Options</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114638Z" creationid="Marc Riera" creationdate="20180221T114638Z">
@@ -7032,6 +7064,30 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181108T001421Z" creationid="mgalo" creationdate="20181108T001355Z">
         <seg>Obre els {0} fitxers de partida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Source Files' Locations</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181108T154617Z" creationid="mgalo" creationdate="20181108T154617Z">
+        <seg>Obre les ubicacions dels {0} fitxers de partida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Target Files</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181108T154646Z" creationid="mgalo" creationdate="20181108T154646Z">
+        <seg>Obre els {0} fitxers d'arribada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Target Files' Locations</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181108T154729Z" creationid="mgalo" creationdate="20181108T154729Z">
+        <seg>Obre les ubicacions dels {0} fitxers d'arribada</seg>
       </tuv>
     </tu>
     <tu>
