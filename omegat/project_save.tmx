@@ -2051,6 +2051,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Added {0} glossary entries from {1}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181109T131528Z" creationid="mgalo" creationdate="20181109T131528Z">
+        <seg>S'han afegit {0} entrades del glossari des de {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adds recognition of inflected forms to OmegaT glossary and fuzzy match functions.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T201945Z" creationid="Alexandra" creationdate="20150526T155633Z">
@@ -7316,6 +7324,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Password-protected PDF files are not supported: {0}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181109T131840Z" creationid="mgalo" creationdate="20181109T131840Z">
+        <seg>Els fitxers PDF protegits amb contrasenya no són admesos: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Password:</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221404Z" creationid="Marc Riera" creationdate="20180212T221404Z">
@@ -10414,6 +10430,16 @@ d'instal·lar el Kaptain.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112458Z" creationid="Marc Riera" creationdate="20180221T112458Z">
         <seg>S'han creat els documents traduïts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated file path cannot be identical to the source file path:
+{0}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181109T131707Z" creationid="mgalo" creationdate="20181109T131707Z">
+        <seg>La ruta d'accés al fitxer traduït no pot ser idèntica a la del fitxer de partida:
+{0}</seg>
       </tuv>
     </tu>
     <tu>
