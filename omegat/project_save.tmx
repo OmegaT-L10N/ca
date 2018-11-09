@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore file context when identifying segments with alternate translations</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181109T234204Z" creationid="mgalo" creationdate="20181109T234204Z">
+        <seg>&amp;Ignora el context del fitxer quan s'identifiquin segments amb traduccions alternatives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181108T151748Z" creationid="mgalo" creationdate="20181108T151748Z">
@@ -6721,6 +6729,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224421Z" creationid="Marc Riera" creationdate="20180214T224421Z">
         <seg>Nota: Els fitxers DocBook no només es reconeixen a partir de l'extensió del fitxer, sinó que també han de tenir una declaració DOCTYPE: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... per al DocBook 4, o bé Namespace: xmlns="http://docbook.org/ns/docbook" per al DocBook 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181109T234724Z" creationid="mgalo" creationdate="20181109T234724Z">
+        <seg>Nota: La configuració de la codificació dels arxius de partida s'aplica només als fitxers que no contenen cap declaració de codificació.</seg>
       </tuv>
     </tu>
     <tu>
