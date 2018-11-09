@@ -11385,6 +11385,14 @@ subscriure-us-hi:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When unavailable, the ID will be used as a fallback</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181109T230721Z" creationid="mgalo" creationdate="20181109T230721Z">
+        <seg>Si no està disponible, es farà servir la ID com a reserva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When using an external service you must be aware of the possible implications in terms of confidentiality, since you are loading the original document on a server outside of your direct control.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150603T105801Z" creationid="Stephanie" creationdate="20150524T225935Z">
