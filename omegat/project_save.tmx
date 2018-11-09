@@ -961,6 +961,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(X)HTML Filter Options</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181109T234918Z" creationid="mgalo" creationdate="20181109T234918Z">
+        <seg>Opcions del filtre (X)HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(close tag)</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223843Z" creationid="Marc Riera" creationdate="20180214T223843Z">
@@ -2119,6 +2127,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114927Z" creationid="Marc Riera" creationdate="20180221T114927Z">
         <seg>Afegeix un patró</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181109T234951Z" creationid="mgalo" creationdate="20181109T234951Z">
+        <seg>Afegeix o reescriu la declaració de codificació de fitxers HTML i XHTML:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5145,6 +5161,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181109T225918Z" creationid="mgalo" creationdate="20181109T225918Z">
         <seg>Identificador per a traduccions alternatives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181109T234836Z" creationid="mgalo" creationdate="20181109T234836Z">
+        <seg>Si un fitxer HTML conté una declaració de codificació, s'aplicarà aquesta codificació independentment dels valors que trieu en aquest quadre de diàleg.</seg>
       </tuv>
     </tu>
     <tu>
