@@ -7867,8 +7867,8 @@ d'arribada a la qual voleu traduir-los.</seg>
       <tuv lang="EN">
         <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181109T123131Z" creationid="mgalo" creationdate="20181109T123131Z">
-        <seg>Les cerques d'expressions regulars cerquen expressions regulars de Java, documentades al Manual d'usuari.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181109T123909Z" creationid="mgalo" creationdate="20181109T123131Z">
+        <seg>La cerca d'expressions regulars cerca expressions regulars de Java, documentades al Manual d'usuari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9263,6 +9263,16 @@ L'àmbit de cerca és per defecte el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181109T120710Z" creationid="mgalo" creationdate="20181109T120710Z">
         <seg>Reemplaçament de text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Replace:
+The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181109T124311Z" creationid="mgalo" creationdate="20181109T124311Z">
+        <seg>Reemplaçament de text:
+L'àmbit del reemplaçament de text són els segments d'arribada del projecte, ja siguin amb contingut o sense.</seg>
       </tuv>
     </tu>
     <tu>
