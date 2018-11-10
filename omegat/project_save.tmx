@@ -4115,6 +4115,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error saving segmentation rules configuration:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181110T001634Z" creationid="mgalo" creationdate="20181110T001634Z">
+        <seg>S'ha produït un error en desar la configuració de les regles de segmentació:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error searching directory tree!</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223616Z" creationid="Marc Riera" creationdate="20180214T223616Z">
@@ -4223,6 +4231,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224008Z" creationid="Marc Riera" creationdate="20180214T224008Z">
         <seg>S'ha produït una excepció en analitzar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exceptions occurred while loading segmentation rules:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181110T001555Z" creationid="mgalo" creationdate="20181110T001555Z">
+        <seg>S'ha produït una excepció en carregar les regles de segmentació:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5923,6 +5939,22 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224207Z" creationid="Marc Riera" creationdate="20180214T224207Z">
         <seg>Fitxers LaTeX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language Name</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181110T001647Z" creationid="mgalo" creationdate="20181110T001647Z">
+        <seg>Llengua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language Pattern</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181110T001716Z" creationid="mgalo" creationdate="20181110T001716Z">
+        <seg>Patró de llengua</seg>
       </tuv>
     </tu>
     <tu>
