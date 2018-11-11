@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Root</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181111T221704Z" creationid="mgalo" creationdate="20181111T221704Z">
+        <seg>A&amp;rrel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Save</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213510Z" creationid="Marc Riera" creationdate="20180210T213510Z">
@@ -3315,6 +3323,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181111T221855Z" creationid="mgalo" creationdate="20181111T221855Z">
+        <seg>No s'ha pogut crear la carpeta del projecte a {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not initialize OS look and feel!</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224127Z" creationid="Marc Riera" creationdate="20180214T224127Z">
@@ -5795,6 +5811,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213203Z" creationid="Marc Riera" creationdate="20180210T213203Z">
         <seg>Instal·lació i execució de l'OmegaT» al Manual d'usuari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181111T222018Z" creationid="mgalo" creationdate="20181111T222018Z">
+        <seg>No disposeu dels permisos per a la carpeta del projecte {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9665,6 +9689,14 @@ L'àmbit de cerca és per defecte el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224005Z" creationid="Marc Riera" creationdate="20180214T224005Z">
         <seg>Llengua de partida: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source of Selected &amp;Match</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181111T221753Z" creationid="mgalo" creationdate="20181111T221753Z">
+        <seg>&amp;Origen de la coincidència seleccionada</seg>
       </tuv>
     </tu>
     <tu>
