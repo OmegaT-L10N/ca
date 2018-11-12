@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically check the spelling of text</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T093224Z" creationid="mgalo" creationdate="20181112T093224Z">
+        <seg>Comprova l'ortografia de manera &amp;automàtica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221828Z" creationid="Marc Riera" creationdate="20180212T221828Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223145Z" creationid="Marc Riera" creationdate="20180214T223145Z">
         <seg>&amp;Navega</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Browse...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T093314Z" creationid="mgalo" creationdate="20181112T093314Z">
+        <seg>&amp;Navega...</seg>
       </tuv>
     </tu>
     <tu>
@@ -418,6 +434,14 @@
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181108T133149Z" creationid="mgalo" creationdate="20181108T133149Z">
         <seg>&amp;Insereix la coincidència o la selecció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Install new dictionary...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T093326Z" creationid="mgalo" creationdate="20181112T093326Z">
+        <seg>&amp;Instal·la un diccionari nou...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3723,10 +3747,26 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionaries already installed:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T093235Z" creationid="mgalo" creationdate="20181112T093235Z">
+        <seg>Diccionaris instal·lats:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionary</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221429Z" creationid="Marc Riera" creationdate="20180212T221429Z">
         <seg>Diccionari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary File Folder</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T093258Z" creationid="mgalo" creationdate="20181112T093258Z">
+        <seg>Carpeta del fitxer de diccionari</seg>
       </tuv>
     </tu>
     <tu>
@@ -3743,6 +3783,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223129Z" creationid="Marc Riera" creationdate="20180214T223129Z">
         <seg>Carpeta dels diccionaris:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary file folder:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T093254Z" creationid="mgalo" creationdate="20181112T093254Z">
+        <seg>Carpeta del fitxer de diccionari:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10173,6 +10221,22 @@ L'àmbit de cerca és per defecte el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spellchecker</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T093205Z" creationid="mgalo" creationdate="20181112T093205Z">
+        <seg>Corrector ortogràfic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellchecker Setup</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T093142Z" creationid="mgalo" creationdate="20181112T093142Z">
+        <seg>Configuració del corrector ortogràfic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spellchecking</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T155440Z" creationid="Alexandra" creationdate="20150526T155440Z">
@@ -11816,6 +11880,14 @@ La cerca exacta cerca coincidències de tot el text.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>URL of online dictionaries:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T093335Z" creationid="mgalo" creationdate="20181112T093335Z">
+        <seg>URL de diccionaris en línia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to build new TMX file!</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112520Z" creationid="Marc Riera" creationdate="20180221T112520Z">
@@ -12801,6 +12873,14 @@ Tant la cerca exacta com la cerca per paraules clau admeten els caràcters comod
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181109T120729Z" creationid="mgalo" creationdate="20181109T120729Z">
         <seg>Aquesta acció modificarà {0} segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T093449Z" creationid="mgalo" creationdate="20181112T093449Z">
+        <seg>Esteu intentant desinstal·lar el diccionari actiu del projecte.</seg>
       </tuv>
     </tu>
     <tu>
