@@ -1662,6 +1662,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;&amp;br&gt; (breaks)</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T221225Z" creationid="mgalo" creationdate="20181112T221225Z">
+        <seg>&lt;&amp;br&gt; (salts de línia)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T101758Z" creationid="mgalo" creationdate="20181112T101758Z">
@@ -3774,6 +3782,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T201954Z" creationid="Alexandra" creationdate="20150526T155715Z">
         <seg>Compilació d'OmegaT des de&lt;s0/&gt;font</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Compress whitespace in translated document</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T221157Z" creationid="mgalo" creationdate="20181112T221157Z">
+        <seg>Comprimeix els espais en blanc en el document traduït</seg>
       </tuv>
     </tu>
     <tu>
@@ -10445,6 +10461,14 @@ d'arribada a la qual voleu traduir-los.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove HTML comments in translated document</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T221209Z" creationid="mgalo" creationdate="20181112T221209Z">
+        <seg>Elimina els comentaris HTML en el document traduït</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove LanguageTool from the /plugin folder before starting OmegaT.</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150528T181921Z" creationid="Packard Bell" creationdate="20150528T181921Z">
@@ -11873,6 +11897,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T102535Z" creationid="mgalo" creationdate="20181112T102535Z">
         <seg>Inicia l'OmegaT i continua la traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start a new paragraph on:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T221217Z" creationid="mgalo" creationdate="20181112T221217Z">
+        <seg>Comença un nou paràgraf amb:</seg>
       </tuv>
     </tu>
     <tu>
