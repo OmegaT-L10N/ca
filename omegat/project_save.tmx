@@ -2259,6 +2259,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow translated tags to be in a di&amp;fferent order</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T085853Z" creationid="mgalo" creationdate="20181112T085853Z">
+        <seg>Permet que les etiquetes del text traduït estiguin en un ordre diferent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow translating &amp;blank source segments</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114038Z" creationid="Marc Riera" creationdate="20180221T114038Z">
@@ -3783,6 +3791,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180212T223633Z" creationid="Marc Riera" creationdate="20180212T223633Z">
         <seg>Dmitri Gabinski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not allow creating translated documents with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T090046Z" creationid="mgalo" creationdate="20181112T090046Z">
+        <seg>No permetis que es generin documents traduïts amb problemes d'etiquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -12287,6 +12303,14 @@ subscriure-us-hi:</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224041Z" creationid="Marc Riera" creationdate="20180214T224041Z">
         <seg>S'ha produït un avís a la línia {0}, columna {1} en l'anàlisi de:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning: Changing tag order may break the translated document!</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T090154Z" creationid="mgalo" creationdate="20181112T090001Z">
+        <seg>Avís: El canvi d'ordre de les etiquetes podria originar errors en el document traduït.</seg>
       </tuv>
     </tu>
     <tu>
