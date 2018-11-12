@@ -2261,8 +2261,8 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       <tuv lang="EN">
         <seg>Allow translated tags to be in a di&amp;fferent order</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181112T085853Z" creationid="mgalo" creationdate="20181112T085853Z">
-        <seg>Permet que les etiquetes del text traduït estiguin en un ordre diferent</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T090227Z" creationid="mgalo" creationdate="20181112T085853Z">
+        <seg>Permet que les etiquetes del text traduït estiguin en un ordre di&amp;ferent</seg>
       </tuv>
     </tu>
     <tu>
@@ -3797,8 +3797,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="EN">
         <seg>Do not allow creating translated documents with tag &amp;issues</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181112T090046Z" creationid="mgalo" creationdate="20181112T090046Z">
-        <seg>No permetis que es generin documents traduïts amb problemes d'etiquetes</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T090214Z" creationid="mgalo" creationdate="20181112T090046Z">
+        <seg>&amp;No permetis que es generin documents traduïts amb problemes d'etiquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -8751,6 +8751,22 @@ d'arribada a la qual voleu traduir-los.</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T112044Z" creationid="Packard Bell" creationdate="20150529T112044Z">
         <seg>Regista una traducció idèntica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expression for custom tags:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T090246Z" creationid="mgalo" creationdate="20181112T090246Z">
+        <seg>Expressió regular per a etiquetes personalitzades:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expression for fragments that should be removed from translation:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T090334Z" creationid="mgalo" creationdate="20181112T090334Z">
+        <seg>Expressió regular per a fragments que no han d'aparèixer a la traducció:</seg>
       </tuv>
     </tu>
     <tu>
