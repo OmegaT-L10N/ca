@@ -2203,6 +2203,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>API Key:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T100730Z" creationid="mgalo" creationdate="20181112T100730Z">
+        <seg>Clau API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aaron Madlon-Kay (integration manager)</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180212T224057Z" creationid="Marc Riera" creationdate="20180212T224057Z">
@@ -2551,6 +2559,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apertium</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T100518Z" creationid="mgalo" creationdate="20181112T100518Z">
+        <seg>Apertium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apertium Plugin</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T202348Z" creationid="Alexandra" creationdate="20150526T161514Z">
@@ -2803,6 +2819,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150528T210256Z" creationid="Packard Bell" creationdate="20150528T210256Z">
         <seg>És el llenguatge que hi ha darrere de programaris populars com Firefox i una eina de programació coneguda i preferida en el domini de codi obert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Belazar</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T100516Z" creationid="mgalo" creationdate="20181112T100516Z">
+        <seg>Belazar</seg>
       </tuv>
     </tu>
     <tu>
@@ -3771,6 +3795,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DeepL</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T100651Z" creationid="mgalo" creationdate="20181112T100651Z">
+        <seg>DeepL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181110T001903Z" creationid="mgalo" creationdate="20181110T001903Z">
@@ -4403,6 +4435,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Email:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T100726Z" creationid="mgalo" creationdate="20181112T100726Z">
+        <seg>Correu electrònic:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Empty lines are accepted and comment lines should start with "//".</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T095827Z" creationid="Packard Bell" creationdate="20150529T095827Z">
@@ -4667,10 +4707,26 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error while reading MT results</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T100711Z" creationid="mgalo" creationdate="20181112T100711Z">
+        <seg>S'ha produït un error en llegir els resultats del traductor automàtic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error while trying to edit the project!</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T111858Z" creationid="Marc Riera" creationdate="20180221T111858Z">
         <seg>S'ha produït un error en editar el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error {0}: {1}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T100736Z" creationid="mgalo" creationdate="20181112T100736Z">
+        <seg>Error {0}: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5521,6 +5577,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150524T175837Z" creationid="Stephanie" creationdate="20150523T171323Z">
         <seg>Aneu a https://demo.taas-project.eu/account/keys/create?system=omegaT per crear la vostra pròpia clau i després introduïu-la a OmegaT a través de -Dtaas.user.key = xxxxx (TAAS_API_KEY_NOT_FOUND)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Google Api key not available.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T100800Z" creationid="mgalo" creationdate="20181112T100800Z">
+        <seg>La clau API de Google no està disponible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7313,6 +7377,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150722T191353Z" creationid="Stephanie" creationdate="20150722T191353Z">
         <seg>Podeu trobar més informació a l'article &lt;u0&gt;Painless Bug Tracking&lt;/u0&gt; d'en Joel Spolsky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moses</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T100649Z" creationid="mgalo" creationdate="20181112T100649Z">
+        <seg>Moses</seg>
       </tuv>
     </tu>
     <tu>
