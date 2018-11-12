@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow only unique characters</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103802Z" creationid="mgalo" creationdate="20181112T103802Z">
+        <seg>&amp;Permet només els caràcters únics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T115050Z" creationid="Marc Riera" creationdate="20180221T115050Z">
@@ -2363,6 +2371,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103621Z" creationid="mgalo" creationdate="20181112T103621Z">
+        <seg>Podeu afegir caràcters a la taula personalitzada fent doble clic o seleccionant un element i prement la tecla Insert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181109T234951Z" creationid="mgalo" creationdate="20181109T234951Z">
@@ -2825,16 +2841,16 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="EN">
         <seg>Auto-text file (*.autotext)</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181112T103336Z" creationid="mgalo" creationdate="20181112T103336Z">
-        <seg>Fitxer d'autotext (*.autotext)</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103530Z" creationid="mgalo" creationdate="20181112T103336Z">
+        <seg>Fitxer de text automàtic (*.autotext)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Autotext</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181112T103411Z" creationid="mgalo" creationdate="20181112T103411Z">
-        <seg>Autotext</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103539Z" creationid="mgalo" creationdate="20181112T103411Z">
+        <seg>Text automàtic</seg>
       </tuv>
     </tu>
     <tu>
@@ -3243,6 +3259,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T165757Z" creationid="Stephanie" creationdate="20150523T165757Z">
         <seg>Capítol 21. Traducció automàtica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character Table</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103816Z" creationid="mgalo" creationdate="20181112T103816Z">
+        <seg>Taula de caràcters</seg>
       </tuv>
     </tu>
     <tu>
@@ -3903,6 +3927,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181108T154125Z" creationid="mgalo" creationdate="20181108T154125Z">
         <seg>Cursor bloquejat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom table</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103750Z" creationid="mgalo" creationdate="20181112T103750Z">
+        <seg>Taula personalitzada</seg>
       </tuv>
     </tu>
     <tu>
@@ -5641,6 +5673,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T160143Z" creationid="Alexandra" creationdate="20150526T160143Z">
         <seg>De la sèrie de YouTube OmegaT per Miguel Navarro (en castellà).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full table</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103722Z" creationid="mgalo" creationdate="20181112T103722Z">
+        <seg>Taula completa</seg>
       </tuv>
     </tu>
     <tu>
@@ -13407,6 +13447,14 @@ subscriure-us-hi:</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224041Z" creationid="Marc Riera" creationdate="20180214T224041Z">
         <seg>S'ha produït un avís a la línia {0}, columna {1} en l'anàlisi de:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning!</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103826Z" creationid="mgalo" creationdate="20181112T103826Z">
+        <seg>Avís:</seg>
       </tuv>
     </tu>
     <tu>
