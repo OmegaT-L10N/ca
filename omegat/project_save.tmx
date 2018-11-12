@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable TaaS terminology lookup</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T104523Z" creationid="mgalo" creationdate="20181112T104523Z">
+        <seg>&amp;Habilita la cerca de terminologia amb TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable autotext</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T103512Z" creationid="mgalo" creationdate="20181112T103113Z">
@@ -2363,6 +2371,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Active segment source</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T104733Z" creationid="mgalo" creationdate="20181112T104733Z">
+        <seg>Segment de partida actiu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223258Z" creationid="Marc Riera" creationdate="20180214T223258Z">
@@ -2939,6 +2955,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181111T223134Z" creationid="mgalo" creationdate="20181111T223134Z">
         <seg>S'han restaurat les preferències a {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T104629Z" creationid="mgalo" creationdate="20181112T104629Z">
+        <seg>Fons</seg>
       </tuv>
     </tu>
     <tu>
@@ -3959,6 +3983,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181108T154125Z" creationid="mgalo" creationdate="20181108T154125Z">
         <seg>Cursor bloquejat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom Colours</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T104627Z" creationid="mgalo" creationdate="20181112T104627Z">
+        <seg>Colors personalitzats</seg>
       </tuv>
     </tu>
     <tu>
@@ -5067,6 +5099,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclusion Patterns</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T104531Z" creationid="mgalo" creationdate="20181112T104531Z">
+        <seg>Patrons d'exclusió</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112533Z" creationid="Marc Riera" creationdate="20180221T112533Z">
@@ -5775,8 +5815,8 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Get API Key</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181112T104333Z" creationid="mgalo" creationdate="20181112T104333Z">
-        <seg>Obtingues una clau API</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T104437Z" creationid="mgalo" creationdate="20181112T104333Z">
+        <seg>Obtingues una API</seg>
       </tuv>
     </tu>
     <tu>
@@ -11261,6 +11301,14 @@ L'àmbit de cerca és per defecte el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TaaS Terminology</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T104500Z" creationid="mgalo" creationdate="20181112T104500Z">
+        <seg>Terminologia TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table H.1. Project Menu</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T110106Z" creationid="Packard Bell" creationdate="20150529T110106Z">
@@ -11407,8 +11455,8 @@ L'àmbit de cerca és per defecte el projecte i es pot configurar per tal de can
       <tuv lang="EN">
         <seg>Text</seg>
       </tuv>
-      <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224259Z" creationid="Marc Riera" creationdate="20180214T224259Z">
-        <seg>Fitxers de text</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T104721Z" creationid="Marc Riera" creationdate="20180214T224259Z">
+        <seg>Text</seg>
       </tuv>
     </tu>
     <tu>
