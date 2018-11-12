@@ -1057,6 +1057,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Leave the Password empty if you are using an API Key.)</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T101314Z" creationid="mgalo" creationdate="20181112T101314Z">
+        <seg>(Deixeu el camp Contrasenya buit si feu servir una clau API)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150801T121400Z" creationid="Alexandra" creationdate="20150526T161442Z">
@@ -3805,8 +3813,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="EN">
         <seg>DeepL Api key not available.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181112T101116Z" creationid="mgalo" creationdate="20181112T101116Z">
-        <seg>La clau API del DeepL no està disponible.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T101126Z" creationid="mgalo" creationdate="20181112T101116Z">
+        <seg>La clau API de DeepL no està disponible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6399,6 +6407,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invalid API key</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T101409Z" creationid="mgalo" creationdate="20181112T101409Z">
+        <seg>La clau API és invàlida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid HTML file</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114944Z" creationid="Marc Riera" creationdate="20180221T114944Z">
@@ -7505,6 +7521,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T153729Z" creationid="Stephanie" creationdate="20150523T153729Z">
         <seg>Capçalera de navegació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Neural machine translation</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T101359Z" creationid="mgalo" creationdate="20181112T101359Z">
+        <seg>Traducció automàtica neural</seg>
       </tuv>
     </tu>
     <tu>
@@ -10725,6 +10749,14 @@ L'àmbit de cerca és per defecte el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subscription Key:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T101321Z" creationid="mgalo" creationdate="20181112T101321Z">
+        <seg>Clau de subscripció:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Subversion</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T113114Z" creationid="Marc Riera" creationdate="20180221T113114Z">
@@ -12821,6 +12853,14 @@ subscriure-us-hi:</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221400Z" creationid="Marc Riera" creationdate="20180212T221400Z">
         <seg>Usuari:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username or API Key:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T101144Z" creationid="mgalo" creationdate="20181112T101144Z">
+        <seg>Nom d'usuari o clau API:</seg>
       </tuv>
     </tu>
     <tu>
