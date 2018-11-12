@@ -6783,8 +6783,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181112T090807Z" creationid="mgalo" creationdate="20181112T090807Z">
-        <seg>Les coincidències poden provenir tant de la memòria generada amb el projecte com dels fitxers TMX de la carpeta /tm/.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T091006Z" creationid="mgalo" creationdate="20181112T090807Z">
+        <seg>Les coincidències poden provenir tant de la memòria generada amb el projecte com dels fitxers TMX ubicats a la carpeta /tm/.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7233,6 +7233,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181111T230524Z" creationid="mgalo" creationdate="20181111T230524Z">
         <seg>Avisa'm quan hi hagi coincidències del diccionari per a un segment concret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T090851Z" creationid="mgalo" creationdate="20181112T090851Z">
+        <seg>Avisa'm quan es detecti una coincidència parcial d'un segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -12715,6 +12723,14 @@ des del camp de cerca de l'Spotlight.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150722T175435Z" creationid="Stephanie" creationdate="20150722T175435Z">
         <seg>Podeu canviar les dreceres ja assignades i afegir-ne de noves si poseu un arxiu de definició de drecera a la carpeta de preferències d'OmegaT (vegeu &lt;l0&gt;Ubicació dels arxius d'usuari&lt;/l0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T091253Z" creationid="mgalo" creationdate="20181112T091253Z">
+        <seg>Podeu crear entrades del glossari a partir de l'opció Crea una entrada del glossari del menú Edita. </seg>
       </tuv>
     </tu>
     <tu>
