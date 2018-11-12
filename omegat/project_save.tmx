@@ -782,14 +782,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&amp;Replace</seg>
-      </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181107T232502Z" creationid="mgalo" creationdate="20181107T232502Z">
-        <seg>&amp;Substitueix</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&amp;Replace Next</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181107T232605Z" creationid="mgalo" creationdate="20181107T232605Z">
@@ -2671,6 +2663,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T093831Z" creationid="mgalo" creationdate="20181112T093831Z">
         <seg>S'ha produït un error en baixar el diccionari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while opening the item.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112431Z" creationid="mgalo" creationdate="20181112T112431Z">
+        <seg>S'ha produït un error en obrir aquest element.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7263,6 +7263,22 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep Mine</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112628Z" creationid="mgalo" creationdate="20181112T112628Z">
+        <seg>Mantingues la meva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep Other</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112635Z" creationid="mgalo" creationdate="20181112T112635Z">
+        <seg>Mantingues l'altra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Key:</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221553Z" creationid="Marc Riera" creationdate="20180212T221553Z">
@@ -7969,6 +7985,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114637Z" creationid="Marc Riera" creationdate="20180221T114637Z">
         <seg>Fitxers Microsoft Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mine</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112622Z" creationid="mgalo" creationdate="20181112T112622Z">
+        <seg>La meva</seg>
       </tuv>
     </tu>
     <tu>
@@ -9278,6 +9302,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112623Z" creationid="mgalo" creationdate="20181112T112623Z">
+        <seg>Una altra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other HowTos</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T201952Z" creationid="Alexandra" creationdate="20150526T155700Z">
@@ -9653,6 +9685,14 @@ d'arribada a la qual voleu traduir-los.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T155544Z" creationid="Alexandra" creationdate="20150526T155544Z">
         <seg>Visualització prèvia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112620Z" creationid="mgalo" creationdate="20181112T112620Z">
+        <seg>L'anterior</seg>
       </tuv>
     </tu>
     <tu>
@@ -10475,6 +10515,14 @@ d'arribada a la qual voleu traduir-los.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Resolve Conflicts</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112445Z" creationid="mgalo" creationdate="20181112T112445Z">
+        <seg>Resol els conflictes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T092142Z" creationid="mgalo" creationdate="20181112T092142Z">
@@ -10929,6 +10977,14 @@ L'àmbit de cerca és per defecte el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181111T231802Z" creationid="mgalo" creationdate="20181111T231802Z">
         <seg>Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment Properties</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112645Z" creationid="mgalo" creationdate="20181112T112645Z">
+        <seg>Propietats del segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -14255,6 +14311,14 @@ subscriure-us-hi:</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150528T185908Z" creationid="Packard Bell" creationdate="20150528T185908Z">
         <seg>Quan feu clic amb el botó esquerre en el nombre, l'script seleccionat s'executarà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Which version do you want to keep?</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112617Z" creationid="mgalo" creationdate="20181112T112617Z">
+        <seg>Quina versió voleu mantenir?</seg>
       </tuv>
     </tu>
     <tu>
