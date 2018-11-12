@@ -374,14 +374,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&amp;Finish</seg>
-      </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181107T232650Z" creationid="mgalo" creationdate="20181107T232650Z">
-        <seg>&amp;Fet</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&amp;Fix All</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180210T212931Z" creationid="Marc Riera" creationdate="20180210T212931Z">
@@ -840,8 +832,8 @@
       <tuv lang="EN">
         <seg>&amp;Save As...</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181107T232743Z" creationid="mgalo" creationdate="20181107T232743Z">
-        <seg>Anomena i de&amp;sa</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T210024Z" creationid="mgalo" creationdate="20181107T232743Z">
+        <seg>Anomena i de&amp;sa...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3784,6 +3776,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>"Confirmeu" o "confirma"? La màquina parla a l'usuari, o l'usuari a la màquina?</note>
       <tuv lang="EN">
         <seg>Confirm</seg>
       </tuv>
