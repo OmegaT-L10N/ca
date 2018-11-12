@@ -296,8 +296,16 @@
       <tuv lang="EN">
         <seg>&amp;Enable autotext</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181112T103113Z" creationid="mgalo" creationdate="20181112T103113Z">
-        <seg>&amp;Habilita l'autotext</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103512Z" creationid="mgalo" creationdate="20181112T103113Z">
+        <seg>&amp;Habilita el text automàtic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Enable character table</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103422Z" creationid="mgalo" creationdate="20181112T103422Z">
+        <seg>&amp;Habilita la taula de caràcters</seg>
       </tuv>
     </tu>
     <tu>
@@ -506,6 +514,14 @@
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224327Z" creationid="Marc Riera" creationdate="20180214T224327Z">
         <seg>&amp;Salts de línia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Load...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103316Z" creationid="mgalo" creationdate="20181112T103316Z">
+        <seg>&amp;Puja...</seg>
       </tuv>
     </tu>
     <tu>
@@ -802,6 +818,14 @@
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181107T232743Z" creationid="mgalo" creationdate="20181107T232743Z">
         <seg>Anomena i de&amp;sa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103322Z" creationid="mgalo" creationdate="20181112T103322Z">
+        <seg>&amp;Desa...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2791,6 +2815,30 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-text configuration</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103522Z" creationid="mgalo" creationdate="20181112T103231Z">
+        <seg>Configuració del text automàtic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-text file (*.autotext)</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103336Z" creationid="mgalo" creationdate="20181112T103336Z">
+        <seg>Fitxer d'autotext (*.autotext)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Autotext</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103411Z" creationid="mgalo" creationdate="20181112T103411Z">
+        <seg>Autotext</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Available dictionaries:</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221735Z" creationid="Marc Riera" creationdate="20180212T221735Z">
@@ -3199,6 +3247,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Character table auto-completer options</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103445Z" creationid="mgalo" creationdate="20181112T103445Z">
+        <seg>Opcions de l'emplenament automàtic amb caràcters de la taula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Characters (including spaces)</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112634Z" creationid="Marc Riera" creationdate="20180221T112634Z">
@@ -3397,6 +3453,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181109T231557Z" creationid="mgalo" creationdate="20181109T231511Z">
         <seg>C&amp;omentaris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103409Z" creationid="mgalo" creationdate="20181112T103409Z">
+        <seg>Comentari</seg>
       </tuv>
     </tu>
     <tu>
@@ -3843,6 +3907,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customize character &amp;table</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103452Z" creationid="mgalo" creationdate="20181112T103452Z">
+        <seg>Personalitza la &amp;taula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cut</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T100427Z" creationid="mgalo" creationdate="20181112T100427Z">
@@ -4039,6 +4111,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180212T224259Z" creationid="Marc Riera" creationdate="20180212T224259Z">
         <seg>Didier Briel és el coordinador del projecte OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103259Z" creationid="mgalo" creationdate="20181112T103259Z">
+        <seg>Mostra</seg>
       </tuv>
     </tu>
     <tu>
@@ -4671,6 +4751,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T111808Z" creationid="Marc Riera" creationdate="20180221T111808Z">
         <seg>Escriviu el número de segment:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entries</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103302Z" creationid="mgalo" creationdate="20181112T103302Z">
+        <seg>Entrades</seg>
       </tuv>
     </tu>
     <tu>
@@ -5553,6 +5641,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T160143Z" creationid="Alexandra" creationdate="20150526T160143Z">
         <seg>De la sèrie de YouTube OmegaT per Miguel Navarro (en castellà).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full text</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103405Z" creationid="mgalo" creationdate="20181112T103405Z">
+        <seg>Text sencer</seg>
       </tuv>
     </tu>
     <tu>
@@ -10573,6 +10669,14 @@ L'àmbit de cerca és per defecte el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103401Z" creationid="mgalo" creationdate="20181112T103401Z">
+        <seg>Drecera de teclat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shortcuts customization</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T092133Z" creationid="Packard Bell" creationdate="20150529T092133Z">
@@ -12652,6 +12756,14 @@ La cerca exacta cerca coincidències de tot el text.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223241Z" creationid="Marc Riera" creationdate="20180214T223241Z">
         <seg>No es pot llegir el fitxer de projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to save data.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103354Z" creationid="mgalo" creationdate="20181112T103354Z">
+        <seg>No s'han pogut desar els canvis.</seg>
       </tuv>
     </tu>
     <tu>
