@@ -2711,6 +2711,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An item named "{0}" already exists in this location.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112332Z" creationid="mgalo" creationdate="20181112T112332Z">
+        <seg>Ja existex un element amb el nom «{0}» en aquesta ubicació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An online dictionary management tool that integrates with Omegat.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T184617Z" creationid="Alexandra" creationdate="20150526T134109Z">
@@ -4675,10 +4683,34 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drop TMX files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112133Z" creationid="mgalo" creationdate="20181112T112133Z">
+        <seg>Arrossega fitxers de memòries aquí per afegir-los al projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop a project here to open it.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112158Z" creationid="mgalo" creationdate="20181112T112158Z">
+        <seg>Arrossega un projecte aquí per obrir-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drop files here to add them to the project.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181112T112058Z" creationid="mgalo" creationdate="20181112T112058Z">
-        <seg>Arrossega fitxer aquí per afegir-los al projecte.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112144Z" creationid="mgalo" creationdate="20181112T112058Z">
+        <seg>Arrossega fitxers aquí per afegir-los al projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop glossary files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112137Z" creationid="mgalo" creationdate="20181112T112115Z">
+        <seg>Arrossega fitxers de glossaris aquí per afegir-los al projecte.</seg>
       </tuv>
     </tu>
     <tu>
