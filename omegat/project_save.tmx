@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Find...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T101849Z" creationid="mgalo" creationdate="20181112T101849Z">
+        <seg>&amp;Cerca...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Finish</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181107T232650Z" creationid="mgalo" creationdate="20181107T232650Z">
@@ -738,6 +746,14 @@
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181107T232605Z" creationid="mgalo" creationdate="20181107T232605Z">
         <seg>Substitueix següe&amp;nt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T101855Z" creationid="mgalo" creationdate="20181112T101855Z">
+        <seg>&amp;Substitueix</seg>
       </tuv>
     </tu>
     <tu>
@@ -1562,6 +1578,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223040Z" creationid="Marc Riera" creationdate="20180214T223040Z">
         <seg>95%-100%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;EMPTY&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T101758Z" creationid="mgalo" creationdate="20181112T101758Z">
+        <seg>&lt;BUIDA&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2479,6 +2503,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T201807Z" creationid="Alexandra" creationdate="20150526T124519Z">
         <seg>Una guía d'Inici ràpid, que us guiarà a través dels principals procediments i funcions d'OmegaT, es mostrarà a la interfície d'usuari OmegaT per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T101819Z" creationid="mgalo" creationdate="20181112T101819Z">
+        <seg>S'ha produït un error</seg>
       </tuv>
     </tu>
     <tu>
@@ -5621,6 +5653,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Goto &amp;Line...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T101924Z" creationid="mgalo" creationdate="20181112T101924Z">
+        <seg>Ves a la &amp;línia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Group {0} does not exist in search expression</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181111T223042Z" creationid="mgalo" creationdate="20181111T223042Z">
@@ -7777,6 +7817,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181111T230448Z" creationid="mgalo" creationdate="20181111T230448Z">
         <seg>Avisa'm quan hi hagi coincidències del glossari per a un segment concret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Multiple Translations</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T101744Z" creationid="mgalo" creationdate="20181112T101744Z">
+        <seg>Avisa'm quan hi hagi múltiples traduccions d'un mateix segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -10473,6 +10521,22 @@ L'àmbit de cerca és per defecte el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T113417Z" creationid="Marc Riera" creationdate="20180221T113417Z">
         <seg>Mostra les &amp;opcions avançades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Find Search Bar</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T101939Z" creationid="mgalo" creationdate="20181112T101939Z">
+        <seg>Mostra la barra de cerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Replace Search Bar</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T101953Z" creationid="mgalo" creationdate="20181112T101953Z">
+        <seg>Mostra la barra de substitució</seg>
       </tuv>
     </tu>
     <tu>
@@ -13754,6 +13818,14 @@ torneu-les a crear.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T201854Z" creationid="Alexandra" creationdate="20150526T125258Z">
         <seg>Compatibilitat de docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>extensions:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T101841Z" creationid="mgalo" creationdate="20181112T101841Z">
+        <seg>extensions:</seg>
       </tuv>
     </tu>
     <tu>
