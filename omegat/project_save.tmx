@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Go To Downloads</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T105518Z" creationid="mgalo" creationdate="20181112T105518Z">
+        <seg>&amp;Ves a les baixades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Help</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T111534Z" creationid="Marc Riera" creationdate="20180221T111534Z">
@@ -768,8 +776,8 @@
       <tuv lang="EN">
         <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181109T132009Z" creationid="mgalo" creationdate="20181109T132009Z">
-        <seg>&amp;Elimina les cadenes no traduïdes en els fitxers d'arribada</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T105354Z" creationid="mgalo" creationdate="20181109T132009Z">
+        <seg>&amp;Elimina les cadenes sense traduir en els fitxers d'arribada</seg>
       </tuv>
     </tu>
     <tu>
@@ -5203,6 +5211,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Search</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T105619Z" creationid="mgalo" creationdate="20181112T105619Z">
+        <seg>Cerca externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Search...</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181108T155348Z" creationid="mgalo" creationdate="20181108T155348Z">
@@ -5287,6 +5303,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T112525Z" creationid="Marc Riera" creationdate="20180221T112525Z">
         <seg>No s'ha pogut crear el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to fetch latest version info: {0}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T105545Z" creationid="mgalo" creationdate="20181112T105545Z">
+        <seg>S'ha produït un error en cercar informació de la darrera versió: {0}</seg>
       </tuv>
     </tu>
     <tu>
