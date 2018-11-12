@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable autotext</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103113Z" creationid="mgalo" creationdate="20181112T103113Z">
+        <seg>&amp;Habilita l'autotext</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable history completion</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181108T153034Z" creationid="mgalo" creationdate="20181108T153034Z">
@@ -1586,6 +1594,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T101758Z" creationid="mgalo" creationdate="20181112T101758Z">
         <seg>&lt;BUIDA&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;No suggestions&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T102949Z" creationid="mgalo" creationdate="20181112T102949Z">
+        <seg>&lt;No hi ha suggerències&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5617,6 +5633,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223117Z" creationid="Marc Riera" creationdate="20180214T223117Z">
         <seg>Carpeta dels glossaris:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary entries</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103000Z" creationid="mgalo" creationdate="20181112T103000Z">
+        <seg>Entrades del glossari</seg>
       </tuv>
     </tu>
     <tu>
@@ -10657,6 +10681,30 @@ L'àmbit de cerca és per defecte el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223219Z" creationid="Marc Riera" creationdate="20180214T223219Z">
         <seg>Sembla que algunes carpetes del projecte s'han mogut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103203Z" creationid="mgalo" creationdate="20181112T103203Z">
+        <seg>Mostra per ordre &amp;alfabètic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by &amp;full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103225Z" creationid="mgalo" creationdate="20181112T103225Z">
+        <seg>Mostra el &amp;text sencer, no la drecera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by len&amp;gth</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T103151Z" creationid="mgalo" creationdate="20181112T103151Z">
+        <seg>Mostra segons la &amp;llargada</seg>
       </tuv>
     </tu>
     <tu>
