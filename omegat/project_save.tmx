@@ -2531,6 +2531,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align Files</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112829Z" creationid="mgalo" creationdate="20181112T112829Z">
+        <seg>Alineació de fitxers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T102027Z" creationid="mgalo" creationdate="20181112T102027Z">
@@ -2655,6 +2663,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T101819Z" creationid="mgalo" creationdate="20181112T101819Z">
         <seg>S'ha produït un error</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred when loading the source files.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112947Z" creationid="mgalo" creationdate="20181112T112947Z">
+        <seg>S'ha produït un error en carregar els fitxers de partida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3147,6 +3163,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223152Z" creationid="Marc Riera" creationdate="20180214T223152Z">
         <seg>Navega</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112846Z" creationid="mgalo" creationdate="20181112T112846Z">
+        <seg>Navega...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9438,6 +9462,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Path</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112751Z" creationid="mgalo" creationdate="20181112T112751Z">
+        <seg>Ruta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Path:</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T092001Z" creationid="mgalo" creationdate="20181112T092001Z">
@@ -11469,6 +11501,14 @@ L'àmbit de cerca és per defecte el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112837Z" creationid="mgalo" creationdate="20181112T112837Z">
+        <seg>Fitxer de partida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source File Encoding</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224202Z" creationid="Marc Riera" creationdate="20180214T224202Z">
@@ -11965,6 +12005,14 @@ L'àmbit de cerca és per defecte el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112841Z" creationid="mgalo" creationdate="20181112T112841Z">
+        <seg>Fitxer d'arribada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target files committed</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181108T153919Z" creationid="mgalo" creationdate="20181108T153919Z">
@@ -12368,6 +12416,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The file "{0}" is not supported.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112928Z" creationid="mgalo" creationdate="20181112T112910Z">
+        <seg>El fitxer «{0}» no és admès.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The files of this site, in a convenient package for those wishing to localize it.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T184535Z" creationid="Alexandra" creationdate="20150526T134427Z">
@@ -12606,6 +12662,14 @@ xx és el codi de llengua i YY és el codi de regió o país (opcional).</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223325Z" creationid="Marc Riera" creationdate="20180214T223325Z">
         <seg>La llengua dels fitxers de partida que heu especificat no és vàlida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified files are not supported.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112930Z" creationid="mgalo" creationdate="20181112T112925Z">
+        <seg>Els fitxers seleccionats no són admesos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13306,6 +13370,14 @@ d'instal·lar el Kaptain.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T155857Z" creationid="Alexandra" creationdate="20150526T155857Z">
         <seg>Traduir amb Rainbow i OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T112704Z" creationid="mgalo" creationdate="20181112T112704Z">
+        <seg>Traducció</seg>
       </tuv>
     </tu>
     <tu>
