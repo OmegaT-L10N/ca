@@ -7463,8 +7463,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Untranslated Segments</seg>
       </tuv>
-      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213835Z" creationid="Marc Riera" creationdate="20180210T213835Z">
-        <seg>Marca els segments &amp;no traduïts</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T105306Z" creationid="Marc Riera" creationdate="20180210T213835Z">
+        <seg>Marca els segments se&amp;nse traduir</seg>
       </tuv>
     </tu>
     <tu>
@@ -7535,8 +7535,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>Mark Untranslated Segments</seg>
       </tuv>
-      <tuv lang="CA" changeid="Packard Bell" changedate="20150529T112359Z" creationid="Packard Bell" creationdate="20150529T112359Z">
-        <seg>Marca els segments no traduïts</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T105244Z" creationid="Packard Bell" creationdate="20150529T112359Z">
+        <seg>Marca els segments sense traduir</seg>
       </tuv>
     </tu>
     <tu>
@@ -10621,6 +10621,22 @@ L'àmbit de cerca és per defecte el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segments with notes</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T105036Z" creationid="mgalo" creationdate="20181112T105036Z">
+        <seg>Segments amb notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segments with notes text</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T105057Z" creationid="mgalo" creationdate="20181112T105057Z">
+        <seg>Text dels segments amb notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221833Z" creationid="Marc Riera" creationdate="20180212T221833Z">
@@ -13176,6 +13192,22 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223916Z" creationid="Marc Riera" creationdate="20180214T223916Z">
         <seg>La versió del fitxer de projecte ({0}) és incompatible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T105126Z" creationid="mgalo" creationdate="20181112T105126Z">
+        <seg>Segments sense traduir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments text</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T105204Z" creationid="mgalo" creationdate="20181112T105204Z">
+        <seg>Text dels segments sense traduir</seg>
       </tuv>
     </tu>
     <tu>
