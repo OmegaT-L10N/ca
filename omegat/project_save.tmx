@@ -3403,6 +3403,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Count &amp;protected text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T090551Z" creationid="mgalo" creationdate="20181112T090551Z">
+        <seg>Incloure el text &amp;protegit i les etiquetes personalitzades en les estadístiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213727Z" creationid="Marc Riera" creationdate="20180210T213727Z">
@@ -3775,6 +3783,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T113615Z" creationid="Marc Riera" creationdate="20180221T113615Z">
         <seg>Mostra:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the translation memories segments that match the source segment.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T090634Z" creationid="mgalo" creationdate="20181112T090634Z">
+        <seg>Mostra segments de les memòries de traducció que coincideixen amb el segment de partida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6761,6 +6777,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150801T114936Z" creationid="Alexandra" creationdate="20150526T100723Z">
         <seg>Propagació de coincidències</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T090807Z" creationid="mgalo" creationdate="20181112T090807Z">
+        <seg>Les coincidències poden provenir tant de la memòria generada amb el projecte com dels fitxers TMX de la carpeta /tm/.</seg>
       </tuv>
     </tu>
     <tu>
