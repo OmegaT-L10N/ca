@@ -2395,6 +2395,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align project against {0}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T102027Z" creationid="mgalo" creationdate="20181112T102027Z">
+        <seg>Alinea el projecte amb {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All collections (public and private) will be queried for the source and target language.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150525T221940Z" creationid="Stephanie" creationdate="20150524T182130Z">
@@ -5621,6 +5629,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T102159Z" creationid="mgalo" creationdate="20181112T102159Z">
+        <seg>La carpeta del glossari {0} no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181108T154017Z" creationid="Marc Riera" creationdate="20180221T111809Z">
@@ -6921,6 +6937,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150528T185400Z" creationid="Packard Bell" creationdate="20150528T185400Z">
         <seg>Carregueu un script en l'editor fent clic en el seu nom, en la llista del panell esquerre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading Project</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T102032Z" creationid="mgalo" creationdate="20181112T102032Z">
+        <seg>S'està carregant el projecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -10701,6 +10725,14 @@ L'àmbit de cerca és per defecte el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T102206Z" creationid="mgalo" creationdate="20181112T102113Z">
+        <seg>La carpeta dels fitxers de partida {0} no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source language: {0}</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224005Z" creationid="Marc Riera" creationdate="20180214T224005Z">
@@ -11057,6 +11089,14 @@ L'àmbit de cerca és per defecte el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181108T153919Z" creationid="mgalo" creationdate="20181108T153919Z">
         <seg>S'han enviat els fitxers d'arribada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T102204Z" creationid="mgalo" creationdate="20181112T102124Z">
+        <seg>La carpeta dels fitxers d'arribada {0} no existeix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11586,6 +11626,14 @@ xx és el codi de llengua i YY és el codi de regió o país (opcional).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project cannot be verified</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T102041Z" creationid="mgalo" creationdate="20181112T102041Z">
+        <seg>No s'ha pogut verificar el projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The repository is empty at this moment.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150525T164543Z" creationid="Stephanie" creationdate="20150525T164543Z">
@@ -11694,6 +11742,14 @@ xx és el codi de llengua i YY és el codi de regió o país (opcional).</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T201817Z" creationid="Alexandra" creationdate="20150526T124701Z">
         <seg>Manual d'usuari d'OmegaT en format PDF (versió d'OmegaT 3.1.9 actualització 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The writeable glossary file is not in the glossary folder.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T102257Z" creationid="mgalo" creationdate="20181112T102232Z">
+        <seg>El fitxer del glossari modificable no és a la carpeta de glossaris.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12378,6 +12434,14 @@ d'instal·lar el Kaptain.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223336Z" creationid="Marc Riera" creationdate="20180214T223336Z">
         <seg>La carpeta dels fitxers de memòria de traducció que heu especificat no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memory folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181112T102219Z" creationid="mgalo" creationdate="20181112T102219Z">
+        <seg>La carpeta de la memòria de traducció {0} no existeix.</seg>
       </tuv>
     </tu>
     <tu>
