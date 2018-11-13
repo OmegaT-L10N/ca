@@ -8729,8 +8729,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181113T091606Z" creationid="mgalo" creationdate="20181113T091606Z">
-        <seg>Nota: </seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181113T091836Z" creationid="mgalo" creationdate="20181113T091606Z">
+        <seg>Nota: Tots els conjunts de regles de segmentació que coincideixin amb un patró de llengua s'aplicaran en l'ordre establert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13344,6 +13344,14 @@ xx és el codi de llengua i YY és el codi de regió o país (opcional).</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T115402Z" creationid="mgalo" creationdate="20181112T115402Z">
         <seg>Aquesta acció descartarà tots els canvis que heu fet fins ara.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181113T092010Z" creationid="mgalo" creationdate="20181113T092010Z">
+        <seg>Per exemple, les regles per al francès de Canadà (FR-CA) haurien de prevaler sobre les regles del francès (FR.*) i per sobre de les predeterminades (.*).</seg>
       </tuv>
     </tu>
     <tu>
