@@ -8440,6 +8440,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moses Server URL:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181113T095532Z" creationid="mgalo" creationdate="20181113T095532Z">
+        <seg>URL del servidor de Moses:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T092624Z" creationid="Packard Bell" creationdate="20150529T092624Z">
@@ -12754,6 +12762,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Moses server URL is not set</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181113T095717Z" creationid="mgalo" creationdate="20181113T095717Z">
+        <seg>No s'ha definit cap URL de servidor de Moses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114454Z" creationid="Marc Riera" creationdate="20180221T114454Z">
@@ -13205,10 +13221,34 @@ xx és el codi de llengua i YY és el codi de regió o país (opcional).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The specified translation direction is not supported</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181113T095524Z" creationid="mgalo" creationdate="20181113T095524Z">
+        <seg>La direcció que heu especificat per a la vostra traducció no és admesa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The system maintains versioning for data shared</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150525T222527Z" creationid="Stephanie" creationdate="20150523T155647Z">
         <seg>El sistema manté el control de versions en les dades compartides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The text could not be translated</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181113T095416Z" creationid="mgalo" creationdate="20181113T095416Z">
+        <seg>No s'ha pogut traduir el text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The text size exceeds the maximum</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181113T095410Z" creationid="mgalo" creationdate="20181113T095410Z">
+        <seg>La llargada del text sobrepassa el límit màxim</seg>
       </tuv>
     </tu>
     <tu>
@@ -15338,6 +15378,22 @@ des del camp de cerca de l'Spotlight.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T110817Z" creationid="mgalo" creationdate="20181112T110817Z">
         <seg>Teniu la versió {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have reached the daily limit for requests</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181113T095316Z" creationid="mgalo" creationdate="20181113T095316Z">
+        <seg>Heu arribat al límit de consultes diàries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have reached the daily limit for the volume of translated text</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181113T095342Z" creationid="mgalo" creationdate="20181113T095342Z">
+        <seg>Heu arribat al límit diari de volum de text traduït</seg>
       </tuv>
     </tu>
     <tu>
