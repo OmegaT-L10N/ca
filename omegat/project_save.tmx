@@ -6392,6 +6392,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>GoTo Menu</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160914Z" creationid="Packard Bell" creationdate="20150605T160914Z">
+        <seg>Menú Vés a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Google Api key not available.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T100800Z" creationid="mgalo" creationdate="20181112T100800Z">
@@ -8652,6 +8660,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T102636Z" creationid="mgalo" creationdate="20181112T102636Z">
         <seg>Nova carpeta de projecte local:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Packard Bell" changedate="20150605T155125Z" creationid="Packard Bell" creationdate="20150605T155125Z">
+        <seg>Següent</seg>
       </tuv>
     </tu>
     <tu>
@@ -15976,5 +15992,16 @@ torneu-les a crear.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">doc_src/InstantStartGuide.xml</prop>
+      <prop type="prev"></prop>
+      <prop type="next">&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</prop>
+      <tuv lang="EN">
+        <seg>Learn to use OmegaT in 5 minutes!</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181113T173950Z" creationid="mgalo" creationdate="20181113T173950Z">
+        <seg>Apreneu a fer servir l'OmegaT en 5 minuts.</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
