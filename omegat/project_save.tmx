@@ -589,6 +589,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>Informació / dades de modificació: triar-ne una i fer-la servir igual en tot el projecte.</note>
       <tuv lang="EN">
         <seg>&amp;Modification Info</seg>
       </tuv>
@@ -4015,8 +4016,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="EN">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181111T221855Z" creationid="mgalo" creationdate="20181111T221855Z">
-        <seg>No s'ha pogut crear la carpeta del projecte a {0}</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181113T094257Z" creationid="mgalo" creationdate="20181111T221855Z">
+        <seg>No s'ha pogut crear el directori del projecte a {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7179,8 +7180,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>Insufficient permissions for project dir {0}</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181111T222018Z" creationid="mgalo" creationdate="20181111T222018Z">
-        <seg>No disposeu dels permisos per a la carpeta del projecte {0}</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181113T094306Z" creationid="mgalo" creationdate="20181111T222018Z">
+        <seg>No disposeu dels permisos per al directori del projecte {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7629,6 +7630,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224057Z" creationid="Marc Riera" creationdate="20180214T224057Z">
         <seg>La variant d'unitat de traducció no té cap llengua especificada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181113T094053Z" creationid="mgalo" creationdate="20181113T094053Z">
+        <seg>LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
