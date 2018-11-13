@@ -8727,6 +8727,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181113T091606Z" creationid="mgalo" creationdate="20181113T091606Z">
+        <seg>Nota: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224421Z" creationid="Marc Riera" creationdate="20180214T224421Z">
@@ -12539,8 +12547,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="EN">
         <seg>Text files segmentation</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181110T001924Z" creationid="mgalo" creationdate="20181110T001924Z">
-        <seg>Segmentació dels fitxers de text</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181113T091449Z" creationid="mgalo" creationdate="20181110T001924Z">
+        <seg>Segmentació de fitxers de text</seg>
       </tuv>
     </tu>
     <tu>
