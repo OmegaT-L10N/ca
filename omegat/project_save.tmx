@@ -1047,6 +1047,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Untranslated Segments Only</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181113T094614Z" creationid="mgalo" creationdate="20181113T094614Z">
+        <seg>Només els segments &amp;sense traduir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Upper Case</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T094744Z" creationid="mgalo" creationdate="20181112T094744Z">
@@ -15324,6 +15332,14 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T111857Z" creationid="Marc Riera" creationdate="20180221T111857Z">
         <seg>Escriviu un número de l'1 al {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181113T094551Z" creationid="mgalo" creationdate="20181113T094551Z">
+        <seg>Proveu d'actualitzar el vostre JDK 1.6 a la darrera versió o simplement elimineu el fitxer jaxb-*.jar del directori OmegaT /lib</seg>
       </tuv>
     </tu>
     <tu>
