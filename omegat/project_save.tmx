@@ -2984,6 +2984,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181114T123008Z" creationid="mgalo" creationdate="20181114T123008Z">
+        <seg>Acabada la traducció, l'OmegaT exporta tres memòries de traducció amb els noms &lt;f0&gt;level 1&lt;/f0&gt;, &lt;f1&gt;level 2&lt;/f1&gt; i &lt;f2&gt;omegat&lt;/f2&gt; a la carpeta del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"File" changed to plural.</note>
       <tuv lang="EN">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
@@ -6928,6 +6936,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T185027Z" creationid="Alexandra" creationdate="20150526T110300Z">
         <seg>Si ha trobat útil OmegaT i li agradaria expressar la seva gratitud, feu una donació: aneu a la pàgina d'OmegaT a SourceForge i feu clic a "Donate" (Doneu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181114T123557Z" creationid="mgalo" creationdate="20181114T123557Z">
+        <seg>Si col·loqueu aquestes memòries de traducció dins la subcarpeta &lt;f6&gt;/tm/&lt;/f6&gt; d'un projecte, l'OmegaT cercarà automàticament en aquestes memòries segments similars als del projecte («coincidències parcials»).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12917,6 +12933,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181114T123107Z" creationid="mgalo" creationdate="20181114T123057Z">
+        <seg>Les memòries &lt;f3&gt;level 1&lt;/f3&gt; i &lt;f4&gt;level 2&lt;/f4&gt; es poden compartir amb els usuaris d'altres programes de traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;u5&gt;FAQ &lt;/u5&gt; is a good starting point for finding answers to questions you may have.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150722T190938Z" creationid="Stephanie" creationdate="20150722T190938Z">
@@ -13284,6 +13308,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223328Z" creationid="Marc Riera" creationdate="20180214T223328Z">
         <seg>El codi de llengua ha de tenir el format xx-YY, xxx-YY, xx_YY o xxx_YY, on 
 xx és el codi de llengua i YY és el codi de regió o país (opcional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181114T123142Z" creationid="mgalo" creationdate="20181114T123142Z">
+        <seg>La memòria &lt;f5&gt;omegat&lt;/f5&gt; es pot fer servir en el mateix OmegaT, per a futurs projectes que creeu.</seg>
       </tuv>
     </tu>
     <tu>
