@@ -2293,6 +2293,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A source sentence might look like:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181114T121522Z" creationid="mgalo" creationdate="20181114T121522Z">
+        <seg>Una oració determinada podria tenir l'aspecte següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T162322Z" creationid="Stephanie" creationdate="20150523T162104Z">
@@ -6352,6 +6360,15 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>"File" changed to plural.</note>
+      <tuv lang="EN">
+        <seg>Generate the translated file</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181114T121443Z" creationid="mgalo" creationdate="20181114T121443Z">
+        <seg>Genereu els fitxers traduïts</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>German</seg>
       </tuv>
@@ -9598,6 +9615,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150525T181344Z" creationid="Stephanie" creationdate="20150525T181344Z">
         <seg>Una vegada configurat el projecte, els membres de l'equip sols necessiten &lt;s0&gt;OmegaT&lt;/s0&gt; per accedir al projecte en equip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181114T121649Z" creationid="mgalo" creationdate="20181114T121649Z">
+        <seg>Un cop us hagueu assegurat que a la vostra traducció no hi ha errors relacionats amb les etiquetes, premeu &lt;k0&gt;Ctrl + D&lt;/k0&gt; per generar els fitxers d'arribada. Els fitxers es crearan dins la subcarpeta &lt;f1&gt;/folder/&lt;/f1&gt; del projecte.</seg>
       </tuv>
     </tu>
     <tu>
