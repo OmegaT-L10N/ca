@@ -2541,6 +2541,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181114T114705Z" creationid="mgalo" creationdate="20181114T114705Z">
+        <seg>Un cop s'hagin carregat els fitxers de partida al panell de l'Editor, podeu tancar el diàleg Fitxers del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181114T114239Z" creationid="mgalo" creationdate="20181113T180652Z">
@@ -9435,8 +9443,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181113T182628Z" creationid="mgalo" creationdate="20181113T182628Z">
-        <seg>D'aquesta manera, l'OmegaT copiarà els fitxers seleccionats a la subcarpeta &lt;f2&gt;/source/&lt;/f2&gt;, la qual s'haurà acabat de crear.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181114T114620Z" creationid="mgalo" creationdate="20181113T182628Z">
+        <seg>D'aquesta manera, l'OmegaT copiarà els fitxers seleccionats a la subcarpeta &lt;f2&gt;/source/&lt;/f2&gt;del nou projecte.</seg>
       </tuv>
     </tu>
     <tu>
