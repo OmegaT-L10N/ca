@@ -2968,11 +2968,12 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>"File" changed to plural.</note>
       <tuv lang="EN">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181114T114243Z" creationid="mgalo" creationdate="20181113T181107Z">
-        <seg>A la part superior d'aquest diàleg, seleccioneu la llengua del fitxer de partida i la llengua a la qual traduireu i feu clic a &lt;g1&gt;D'acord&lt;/g1&gt; per continuar.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181114T115249Z" creationid="mgalo" creationdate="20181113T181107Z">
+        <seg>A la part superior d'aquest diàleg, seleccioneu la llengua dels fitxers de partida i la llengua a la qual traduireu i feu clic a &lt;g1&gt;D'acord&lt;/g1&gt; per continuar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11912,6 +11913,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>Machine addressing the user, ergo we use "creeu" instead of "crea".</note>
       <tuv lang="EN">
         <seg>Set up a new project</seg>
       </tuv>
@@ -13732,11 +13734,12 @@ xx és el codi de llengua i YY és el codi de regió o país (opcional).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Changed "file" to "files" ("fitxers") for consistency with other segments, where there is reference to "files" in plural.</note>
       <tuv lang="EN">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181114T113305Z" creationid="mgalo" creationdate="20181113T175942Z">
-        <seg>Per començar a fer servir l'OmegaT, primer heu de crear un projecte, el qual contindrà tots els vostres fitxers (com el fitxer de partida, les memòries de traducció, els glossaris i, al final del procés, el fitxer d'arribada).</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181114T115038Z" creationid="mgalo" creationdate="20181113T175942Z">
+        <seg>Per començar a fer servir l'OmegaT, primer heu de crear un projecte, el qual contindrà tots els vostres fitxers (com els fitxers de partida, les memòries de traducció, els glossaris i, al final del procés, els fitxers d'arribada).</seg>
       </tuv>
     </tu>
     <tu>
