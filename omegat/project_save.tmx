@@ -2557,6 +2557,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181114T115619Z" creationid="mgalo" creationdate="20181114T115619Z">
+        <seg>Un cop traduït un segment, premeu &lt;k0&gt;Ctrl + U&lt;/k0&gt; per moure-us al següent segment sense traduir (o &lt;k1&gt;Ctrl + Shift + U&lt;/k1&gt; per moure-us al següent segment traduït).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T095954Z" creationid="mgalo" creationdate="20181112T095954Z">
@@ -9426,6 +9434,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will present one segment at a time for you to translate.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181114T115433Z" creationid="mgalo" creationdate="20181114T115433Z">
+        <seg>L'OmegaT mostrarà d'un en un els segments que s'han de traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will recognize it is a team project, and will synchronize everything automatically, every three minutes by default.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150525T225257Z" creationid="Stephanie" creationdate="20150525T180553Z">
@@ -13969,7 +13985,8 @@ d'instal·lar el Kaptain.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Changed to plural under the assumption that there may be more than one file.</note>
+      <note>"File" changed to plural.
+"Traduïu" because it's the machine addressing the user.</note>
       <tuv lang="EN">
         <seg>Translate the file</seg>
       </tuv>
