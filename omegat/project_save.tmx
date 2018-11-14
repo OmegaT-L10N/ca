@@ -13863,6 +13863,14 @@ xx és el codi de llengua i YY és el codi de regió o país (opcional).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>To see a list of files in the project, open the &lt;g1&gt;Project Files&lt;/g1&gt; dialog by pressing &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181114T122907Z" creationid="mgalo" creationdate="20181114T122907Z">
+        <seg>Per veure una llista amb els fitxers del projecte, obriu el diàleg &lt;g1&gt;Fitxers del projecte&lt;/g1&gt; amb la drecera &lt;k2&gt;Ctrl + L&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Changed "file" to "files" ("fitxers") for consistency with other segments, where there is reference to "files" in plural.</note>
       <tuv lang="EN">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
@@ -15581,6 +15589,14 @@ des del camp de cerca de l'Spotlight.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150722T175435Z" creationid="Stephanie" creationdate="20150722T175435Z">
         <seg>Podeu canviar les dreceres ja assignades i afegir-ne de noves si poseu un arxiu de definició de drecera a la carpeta de preferències d'OmegaT (vegeu &lt;l0&gt;Ubicació dels arxius d'usuari&lt;/l0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181114T122709Z" creationid="mgalo" creationdate="20181114T122709Z">
+        <seg>Podeu crear un projecte nou per a cada nova tasca o també podeu afegir nous fitxers de partida a un projecte existent en qualsevol moment.</seg>
       </tuv>
     </tu>
     <tu>
