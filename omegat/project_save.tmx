@@ -2251,8 +2251,8 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       <tuv lang="EN">
         <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt; is an Open Source style and grammar proofreading software for English, French, German, Polish, Dutch, Romanian, and a number of other languages - see the &lt;u1&gt;list of supported languages&lt;/u1&gt;.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181115T124444Z" creationid="Stephanie" creationdate="20150722T173308Z">
-        <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt; és un programari de codi obert de correcció gramatical per a l'anglès, el francès, l'alemany, el polonès, l'holandès, el romanès, entre d'altres idiomes. Vegeu la &lt;u1&gt;llista d'idiomes&lt;/u1&gt;.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T124805Z" creationid="Stephanie" creationdate="20150722T173308Z">
+        <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt; és un programari de codi obert de correcció gramatical i d'estil per a l'anglès, el francès, l'alemany, el polonès, l'holandès, el romanès, entre d'altres idiomes. Vegeu la &lt;u1&gt;llista d'idiomes&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7512,8 +7512,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>It can also detect some grammar mistakes.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Packard Bell" changedate="20150528T180057Z" creationid="Packard Bell" creationdate="20150528T180057Z">
-        <seg>Pot també detectar alguns errors gramaticals.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T124924Z" creationid="Packard Bell" creationdate="20150528T180057Z">
+        <seg>També pot detectar alguns errors gramaticals.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7528,8 +7528,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>It does not include spell checking.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Packard Bell" changedate="20150528T180103Z" creationid="Packard Bell" creationdate="20150528T180103Z">
-        <seg>No inclou la correcció ortogràfica.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T125031Z" creationid="Packard Bell" creationdate="20150528T180103Z">
+        <seg>No inclou correcció ortogràfica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7904,8 +7904,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>LanguageTool will find errors for which a rule has been defined in its language-specific configuration files.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Packard Bell" changedate="20150528T180321Z" creationid="Packard Bell" creationdate="20150528T180321Z">
-        <seg>LanguageTool trobarà errors per als quals s'ha definit una regla general en els seus fitxers de configuració específics de l'idioma.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T125140Z" creationid="Packard Bell" creationdate="20150528T180321Z">
+        <seg>LanguageTool detectarà errades per a les quals s'ha definit una regla general a partir dels fitxers de configuració específics de l'idioma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15759,11 +15759,13 @@ des del camp de cerca de l'Spotlight.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Propose example that apply in Catalan?
+"Simple spell checker": suggested translation: "corrector clàssic".</note>
       <tuv lang="EN">
         <seg>You can think of LanguageTool as a software to detect errors that a simple spell checker cannot detect, e.g. mixing up there/their, no/now etc.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181115T124744Z" creationid="Packard Bell" creationdate="20150528T175929Z">
-        <seg>LanguageTool es pot definir com un programa que detecta errades que un simple corrector ortogràfic no pot detectar, per exemple, la seu/seua, no/nou, etc.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T125021Z" creationid="Packard Bell" creationdate="20150528T175929Z">
+        <seg>LanguageTool es pot definir com un programa que detecta errades que un corrector clàssic no pot detectar.</seg>
       </tuv>
     </tu>
     <tu>
