@@ -3110,6 +3110,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Attribute:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T225343Z" creationid="mgalo" creationdate="20181115T225343Z">
+        <seg>Atribut:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aut&amp;hor:</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223416Z" creationid="Marc Riera" creationdate="20180214T223416Z">
@@ -6191,6 +6199,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181111T231843Z" creationid="mgalo" creationdate="20181111T231843Z">
         <seg>Filtres...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Finished</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T225627Z" creationid="mgalo" creationdate="20181115T225627Z">
+        <seg>Operació acabada</seg>
       </tuv>
     </tu>
     <tu>
@@ -13076,6 +13092,15 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>The word "tag" was omitted, as it could be "etiqueta" or "etiquetes" depending on whether it's singular or plural (how many tags were checked?), and this avoids problems in the Catalan version.</note>
+      <tuv lang="EN">
+        <seg>Tag validation failed</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T225528Z" creationid="mgalo" creationdate="20181115T225528Z">
+        <seg>Ha fallat la validació</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Tag:</seg>
       </tuv>
@@ -14617,6 +14642,14 @@ d'instal·lar el Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translating Project</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T225600Z" creationid="mgalo" creationdate="20181115T225600Z">
+        <seg>S'està traduint el projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translating with Rainbow and OmegaT</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T155857Z" creationid="Alexandra" creationdate="20150526T155857Z">
@@ -15379,6 +15412,14 @@ subscriure-us-hi:</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181114T115901Z" creationid="mgalo" creationdate="20181114T115901Z">
         <seg>Valideu les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validating tags</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T225622Z" creationid="mgalo" creationdate="20181115T225622Z">
+        <seg>S'estan validant les etiquetes</seg>
       </tuv>
     </tu>
     <tu>
