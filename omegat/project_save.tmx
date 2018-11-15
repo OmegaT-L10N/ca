@@ -1103,6 +1103,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>Random example in Catalan was used. Any other suggestions will be appreciated.</note>
       <tuv lang="EN">
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
@@ -9373,6 +9374,15 @@ is to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Alternative for "reciclatge de traduccions" will be appreciated.</note>
+      <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T221130Z" creationid="mgalo" creationdate="20181115T221130Z">
+        <seg>L'OmegaT és una eina de traducció assistida multiplataforma, lliure i de codi obert, que fa servir coincidències parcials, memòries de traducció, cerca per paraules clau, glossaris i reciclatge de traduccions en els projectes.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>OmegaT is a free translation memory application written in Java.</seg>
       </tuv>
@@ -12943,6 +12953,16 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T215423Z" creationid="mgalo" creationdate="20181109T120710Z">
         <seg>Substitució de text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Replace:
+The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T220713Z" creationid="mgalo" creationdate="20181115T220713Z">
+        <seg>Substitució de text:
+L'àmbit de la substitució de text són els segments d'arribada del projecte, independentment de si ja tenen contingut o no.</seg>
       </tuv>
     </tu>
     <tu>
