@@ -13429,8 +13429,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The rules applied (if any) will depend on the source and target language of the project.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Packard Bell" changedate="20150528T181235Z" creationid="Packard Bell" creationdate="20150528T181235Z">
-        <seg>Les normes aplicades (si n'hi ha) dependran de la llengua de partida i d'arribada del projecte.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T125531Z" creationid="Packard Bell" creationdate="20150528T181235Z">
+        <seg>Les regles aplicades (si és el cas) dependran de la llengua de partida i d'arribada del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15295,11 +15295,12 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>The manual in Catalan does not contain screen captures. Check</note>
       <tuv lang="EN">
         <seg>When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;e1&gt;also &lt;/e1&gt;and &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in the picture above).</seg>
       </tuv>
-      <tuv lang="CA" changeid="Stephanie" changedate="20150722T174016Z" creationid="Stephanie" creationdate="20150722T173830Z">
-        <seg>Quan es detecta un error, la frase corresponent se subratllarà en blau en l'Editor (vegeu &lt;e1&gt;also&lt;/e1&gt; i &lt;e2&gt;I didn't do nothing&lt;/e2&gt; en la imatge de dalt).</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T125818Z" creationid="Stephanie" creationdate="20150722T173830Z">
+        <seg>Sempre que es detecti una errada, la frase corresponent se subratllarà en blau a l'Editor.</seg>
       </tuv>
     </tu>
     <tu>
