@@ -984,6 +984,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source (segment {0}):</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T224405Z" creationid="mgalo" creationdate="20181115T224405Z">
+        <seg>&amp;Origen (segment {0}):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Source Files</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181108T000413Z" creationid="mgalo" creationdate="20181108T000413Z">
@@ -1119,6 +1127,14 @@
       <tuv lang="CA" changeid="mgalo" changedate="20181115T220557Z" creationid="mgalo" creationdate="20181115T220557Z">
         <seg>«*» correspon a zero o més caràcters («car*» coincidiria amb «car», «cars», «cares», etc.).
 «?» correspon només a un sol caràcter («car?» coincidiria amb «cara» o «cars», però no amb «car» ni «cares»).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'{0}' menu selected</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T224252Z" creationid="mgalo" creationdate="20181115T224252Z">
+        <seg>Heu seleccionat el menú «{0}».</seg>
       </tuv>
     </tu>
     <tu>
@@ -3730,6 +3746,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T162547Z" creationid="Packard Bell" creationdate="20150529T162441Z">
         <seg>Feu clic a &lt;s4&gt;&lt;e5&gt;Substitueix següent&lt;/e5&gt;&lt;/s4&gt; o a &lt;s6&gt;&lt;e7&gt;Omet&lt;/e7&gt;&lt;/s6&gt; i acabeu el procés de substitució amb &lt;s8&gt;&lt;e9&gt;Finalitza&lt;/e9&gt;&lt;/s8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on '{0}' menu item</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T224232Z" creationid="mgalo" creationdate="20181115T224232Z">
+        <seg>Feu clic al menú «{0}».</seg>
       </tuv>
     </tu>
     <tu>
