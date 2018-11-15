@@ -1926,8 +1926,8 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       <tuv lang="EN">
         <seg>&lt;e0&gt;add the copied files to the local version of the repository:&lt;/e0&gt; right-click on the local checkout folder and select &lt;g1&gt;TortoiseSVN &gt; Add.&lt;/g1&gt; In the dialog that opens, leave all options as per default and click&lt;g2&gt; OK&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="CA" changeid="Stephanie" changedate="20150722T185539Z" creationid="Stephanie" creationdate="20150722T185539Z">
-        <seg>&lt;e0&gt;Afegir els arxius copiats a la versió local del repositori:&lt;/e0&gt; feu clic dret a la carpeta checkout i seleccioneu &lt;g1&gt;TortoiseSVN &gt; Add.&lt;/g1&gt; Al diàleg que s'obrirà, deixeu totes les opcions per defecte i feu clic a &lt;g2&gt; OK&lt;/g2&gt;.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T222246Z" creationid="Stephanie" creationdate="20150722T185539Z">
+        <seg>&lt;e0&gt;Afegir els arxius copiats a la versió local del repositori:&lt;/e0&gt; feu clic dret a la carpeta checkout i seleccioneu &lt;g1&gt;TortoiseSVN &gt; Add.&lt;/g1&gt; Al quadre de diàleg que s'obrirà, deixeu totes les opcions per defecte i feu clic a &lt;g2&gt; OK&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2579,16 +2579,16 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       <tuv lang="EN">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181114T121946Z" creationid="mgalo" creationdate="20181114T114705Z">
-        <seg>Un cop s'hagin carregat els fitxers de partida al panell de l'&lt;g3&gt;Editor&lt;/g3&gt;, podeu tancar el diàleg &lt;g4&gt;Fitxers del projecte&lt;/g4&gt;.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T222320Z" creationid="mgalo" creationdate="20181114T114705Z">
+        <seg>Un cop s'hagin carregat els fitxers de partida al panell de l'&lt;g3&gt;Editor&lt;/g3&gt;, podeu tancar el quadre de diàleg &lt;g4&gt;Fitxers del projecte&lt;/g4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181115T130510Z" creationid="mgalo" creationdate="20181113T180652Z">
-        <seg>Un cop hàgiu donat nom al projecte, s'obrirà el diàleg &lt;g0&gt;Crea un projecte nou&lt;/g0&gt;.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T222303Z" creationid="mgalo" creationdate="20181113T180652Z">
+        <seg>Un cop hàgiu donat nom al projecte, s'obrirà el quadre de diàleg &lt;g0&gt;Crea un projecte nou&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3024,8 +3024,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="EN">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181114T115249Z" creationid="mgalo" creationdate="20181113T181107Z">
-        <seg>A la part superior d'aquest diàleg, seleccioneu la llengua dels fitxers de partida i la llengua a la qual traduireu i feu clic a &lt;g1&gt;D'acord&lt;/g1&gt; per continuar.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T222307Z" creationid="mgalo" creationdate="20181113T181107Z">
+        <seg>A la part superior d'aquest quadre de diàleg, seleccioneu la llengua dels fitxers de partida i la llengua a la qual traduireu i feu clic a &lt;g1&gt;D'acord&lt;/g1&gt; per continuar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6921,8 +6921,8 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181113T181206Z" creationid="mgalo" creationdate="20181113T181206Z">
-        <seg>Si voleu ajustar altres paràmetres d'aquest diàleg, podeu tornar a accedir-hi en qualsevol moment amb la drecera de teclat &lt;k0&gt;Ctrl + E&lt;/k0&gt;.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T222312Z" creationid="mgalo" creationdate="20181113T181206Z">
+        <seg>Si voleu ajustar altres paràmetres d'aquest quadre de diàleg, podeu tornar a accedir-hi en qualsevol moment amb la drecera de teclat &lt;k0&gt;Ctrl + E&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8945,8 +8945,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181113T181232Z" creationid="mgalo" creationdate="20181113T181232Z">
-        <seg>A continuació, s'obrirà el diàleg &lt;g0&gt;Fitxers del projecte&lt;/g0&gt;.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T222316Z" creationid="mgalo" creationdate="20181113T181232Z">
+        <seg>A continuació, s'obrirà el quadre de diàleg &lt;g0&gt;Fitxers del projecte&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12101,8 +12101,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="EN">
         <seg>Select&lt;g0&gt; TortoiseSVN &gt; Checkout.&lt;/g0&gt; The following dialog appears:</seg>
       </tuv>
-      <tuv lang="CA" changeid="Stephanie" changedate="20150722T184959Z" creationid="Stephanie" creationdate="20150722T184959Z">
-        <seg>Seleccioneu&lt;g0&gt; TortoiseSVN &gt; Checkout.&lt;/g0&gt; i apareixerà el següent diàleg:</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T222242Z" creationid="Stephanie" creationdate="20150722T184959Z">
+        <seg>Seleccioneu&lt;g0&gt; TortoiseSVN &gt; Checkout.&lt;/g0&gt; i apareixerà el següent quadre de diàleg:</seg>
       </tuv>
     </tu>
     <tu>
