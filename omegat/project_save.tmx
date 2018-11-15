@@ -656,6 +656,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;New Script</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T225232Z" creationid="mgalo" creationdate="20181115T225232Z">
+        <seg>&amp;Nou script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;New...</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180210T213319Z" creationid="Marc Riera" creationdate="20180210T213319Z">
@@ -876,6 +884,14 @@
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181111T221704Z" creationid="mgalo" creationdate="20181111T221704Z">
         <seg>A&amp;rrel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Run</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T225123Z" creationid="mgalo" creationdate="20181115T225123Z">
+        <seg>&amp;Executa</seg>
       </tuv>
     </tu>
     <tu>
@@ -2817,6 +2833,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when loading the script: {0}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T225218Z" creationid="mgalo" creationdate="20181115T225218Z">
+        <seg>S'ha produït un error en carregar l'script: «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when loading the source files.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T112947Z" creationid="mgalo" creationdate="20181112T112947Z">
@@ -3474,6 +3498,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224356Z" creationid="Marc Riera" creationdate="20180214T224356Z">
         <seg>Fitxers del Camtasia per al Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T225129Z" creationid="mgalo" creationdate="20181115T225129Z">
+        <seg>Cancel·la</seg>
       </tuv>
     </tu>
     <tu>
@@ -5863,6 +5895,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T155807Z" creationid="Alexandra" creationdate="20150526T155807Z">
         <seg>Documentació externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extracted comments:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T225320Z" creationid="mgalo" creationdate="20181115T225320Z">
+        <seg>Comentaris extrets:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11056,6 +11096,14 @@ per determinar l'origen de l'error i torneu-ho a provar.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>References:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T225332Z" creationid="mgalo" creationdate="20181115T225332Z">
+        <seg>Referències:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T112044Z" creationid="Packard Bell" creationdate="20150529T112044Z">
@@ -11476,6 +11524,14 @@ per determinar l'origen de l'error i torneu-ho a provar.</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T114434Z" creationid="Packard Bell" creationdate="20150529T114434Z">
         <seg>Restaura la finestra principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Result:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T225138Z" creationid="mgalo" creationdate="20181115T225138Z">
+        <seg>Resultat:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13021,6 +13077,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T225339Z" creationid="mgalo" creationdate="20181115T225339Z">
+        <seg>Etiqueta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T112841Z" creationid="mgalo" creationdate="20181112T112841Z">
@@ -13646,6 +13710,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181115T125531Z" creationid="Packard Bell" creationdate="20150528T181235Z">
         <seg>Les regles aplicades (si és el cas) dependran de la llengua de partida i d'arribada del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The script "{0}" is running...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T225156Z" creationid="mgalo" creationdate="20181115T225156Z">
+        <seg>S'està executant l'script «{0}»...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14613,6 +14685,14 @@ d'instal·lar el Kaptain.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221447Z" creationid="Marc Riera" creationdate="20180212T221447Z">
         <seg>Traducció:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translator comments:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T225316Z" creationid="mgalo" creationdate="20181115T225316Z">
+        <seg>Comentaris de traducció:</seg>
       </tuv>
     </tu>
     <tu>
