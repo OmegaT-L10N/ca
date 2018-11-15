@@ -152,8 +152,8 @@
       <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
-      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221828Z" creationid="Marc Riera" creationdate="20180212T221828Z">
-        <seg>&amp;Enrere</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T114011Z" creationid="Marc Riera" creationdate="20180212T221828Z">
+        <seg>En&amp;rere</seg>
       </tuv>
     </tu>
     <tu>
@@ -216,8 +216,8 @@
       <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
-      <tuv lang="CA" changeid="Kos Ivantsov" changedate="20170906T153824Z" creationid="Kos Ivantsov" creationdate="20170906T153824Z">
-        <seg>Tan&amp;ca</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T113936Z" creationid="Kos Ivantsov" creationdate="20170906T153824Z">
+        <seg>&amp;Tanca</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,10 +374,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T114127Z" creationid="mgalo" creationdate="20181115T114127Z">
+        <seg>&amp;Finalitza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Fix All</seg>
       </tuv>
-      <tuv lang="CA" changeid="Marc Riera" changedate="20180210T212931Z" creationid="Marc Riera" creationdate="20180210T212931Z">
-        <seg>&amp;Arregla-ho tot</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T114049Z" creationid="Marc Riera" creationdate="20180210T212931Z">
+        <seg>A&amp;rregla-ho tot</seg>
       </tuv>
     </tu>
     <tu>
@@ -787,6 +795,14 @@
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T205905Z" creationid="mgalo" creationdate="20181112T205905Z">
         <seg>&amp;Substitueix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace Next</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T114112Z" creationid="mgalo" creationdate="20181115T114112Z">
+        <seg>Substitueix següe&amp;nt</seg>
       </tuv>
     </tu>
     <tu>
@@ -3894,8 +3910,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="EN">
         <seg>Con&amp;tents</seg>
       </tuv>
-      <tuv lang="CA" changeid="Marc Riera" changedate="20180212T221825Z" creationid="Marc Riera" creationdate="20180212T221825Z">
-        <seg>Con&amp;tingut</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T113955Z" creationid="Marc Riera" creationdate="20180212T221825Z">
+        <seg>Contin&amp;gut</seg>
       </tuv>
     </tu>
     <tu>
@@ -7184,6 +7200,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T202018Z" creationid="Alexandra" creationdate="20150526T155815Z">
         <seg>Informació sobre procediments i funcions d'OmegaT per a usuaris avançats que es pot trobar en altres webs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initialized {0}-{1} team project.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T113917Z" creationid="mgalo" creationdate="20181115T113917Z">
+        <seg>S'ha iniciat el projecte en equip {0}-{1}</seg>
       </tuv>
     </tu>
     <tu>
