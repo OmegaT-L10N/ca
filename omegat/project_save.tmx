@@ -4747,6 +4747,22 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T224019Z" creationid="mgalo" creationdate="20181115T224019Z">
+        <seg>Mostra les entrades de diccionari que apareixen en els fitxers de diccionari de la carpeta /dictionary/ si estan presents en el segment de partida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T223949Z" creationid="mgalo" creationdate="20181115T223949Z">
+        <seg>Mostra les entrades de glossari que apareixen en els fitxers de glossari de la carpeta /glossary/ si estan presents en el segment de partida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the translation memories segments that match the source segment.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T090634Z" creationid="mgalo" creationdate="20181112T090634Z">
