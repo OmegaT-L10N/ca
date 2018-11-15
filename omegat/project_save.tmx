@@ -9063,6 +9063,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T221815Z" creationid="mgalo" creationdate="20181115T221815Z">
+        <seg>Nota: Els paràmetres de codificació dels fitxers de partida afecten només els fitxers HHC i HHK que no contenen cap declaració de codificació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181109T234724Z" creationid="mgalo" creationdate="20181109T234724Z">
