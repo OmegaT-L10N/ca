@@ -6855,6 +6855,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T222010Z" creationid="mgalo" creationdate="20181115T222010Z">
+        <seg>Si un fitxer HHC o HHK conté una declaració de codificació, s'aplicarà aquesta codificació independentment dels valors que trieu en aquest quadre de diàleg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181114T122226Z" creationid="mgalo" creationdate="20181114T121817Z">
@@ -9073,8 +9081,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181109T234724Z" creationid="mgalo" creationdate="20181109T234724Z">
-        <seg>Nota: La configuració de la codificació dels arxius de partida s'aplica només als fitxers que no contenen cap declaració de codificació.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181115T221934Z" creationid="mgalo" creationdate="20181109T234724Z">
+        <seg>Nota: Els paràmetres de codificació dels arxius de partida afecten només als fitxers que no contenen cap declaració de codificació.</seg>
       </tuv>
     </tu>
     <tu>
