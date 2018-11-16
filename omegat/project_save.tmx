@@ -7143,14 +7143,6 @@ del Kaptain inclòs (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>If you are supplied with previously created translation memories , for example by your translation agency or your client, OmegaT is able to use these as reference memories.</seg>
-      </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181116T165647Z" creationid="mgalo" creationdate="20181116T165647Z">
-        <seg>.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181115T115357Z" creationid="mgalo" creationdate="20181113T093233Z">
@@ -9798,6 +9790,15 @@ is to use Java Web Start.</seg>
       <tuv lang="CA" changeid="mgalo" changedate="20181115T122504Z" creationid="Marc Riera" creationdate="20180221T114709Z">
         <seg>L'OmegaT utilitza les biblioteques següents:
 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>"Translation materials" was simply translated as "materials".</note>
+      <tuv lang="EN">
+        <seg>OmegaT uses the standard tmx file format to store and access translation memories, which guarantees that you can exchange your translation material with other CAT applications supporting this file format.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181116T170011Z" creationid="mgalo" creationdate="20181116T170011Z">
+        <seg>L'OmegaT fa servir el format estàndard TMX per enregistrar memòries i per accedir a memòries, cosa que garanteix l'intercanvi de materials amb altres aplicacions de traducció assistida que admetin aquest format de fitxer.</seg>
       </tuv>
     </tu>
     <tu>
