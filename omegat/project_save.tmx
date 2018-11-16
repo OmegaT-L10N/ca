@@ -1980,6 +1980,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Translation memory:&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; stores your translations in a translation memory file.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181116T164151Z" creationid="mgalo" creationdate="20181116T164151Z">
+        <seg>&lt;e0&gt;Memòria de traducció:&lt;/e0&gt;&lt;a1&gt;L'OmegaT&lt;/a1&gt; desa les traduccions en un fitxer amb una memòria de traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;VCS client: &lt;/e0&gt;To interface with the server an SVN or Git client must be installed on computers of "project managers" involved in the OmegaT project.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150722T183954Z" creationid="Stephanie" creationdate="20150722T183954Z">
@@ -3097,6 +3105,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181114T123008Z" creationid="mgalo" creationdate="20181114T123008Z">
         <seg>Acabada la traducció, l'OmegaT exporta tres memòries de traducció amb els noms &lt;f0&gt;level 1&lt;/f0&gt;, &lt;f1&gt;level 2&lt;/f1&gt; i &lt;f2&gt;omegat&lt;/f2&gt; a la carpeta del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the same time, it can use memories files from previous translations for reference.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181116T164429Z" creationid="mgalo" creationdate="20181116T164429Z">
+        <seg>A més a més, </seg>
       </tuv>
     </tu>
     <tu>
