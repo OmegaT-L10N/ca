@@ -1982,8 +1982,8 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       <tuv lang="EN">
         <seg>&lt;e0&gt;Terminology management&lt;/e0&gt;: Terminology management is important for translation consistency.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181116T170037Z" creationid="mgalo" creationdate="20181116T170037Z">
-        <seg>&lt;e0&gt;Gestió de terminologia&lt;/e0&gt;: La gestió de terminologia és important per la consistència de les traduccions.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181116T170046Z" creationid="mgalo" creationdate="20181116T170037Z">
+        <seg>&lt;e0&gt;Gestió de terminologia&lt;/e0&gt;: La gestió de terminologia és important per a la consistència de les traduccions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6454,6 +6454,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181116T170511Z" creationid="mgalo" creationdate="20181116T170511Z">
+        <seg>L'OmegaT mostra, com a referència, la traducció de tota paraula que aparegui en un segment que també estigui registrada en el glossari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Format:</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114044Z" creationid="Marc Riera" creationdate="20180221T114044Z">
@@ -9788,6 +9796,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T134831Z" creationid="Alexandra" creationdate="20150526T134831Z">
         <seg>Curs de formació d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses glossaries containing translations of single words or small phrases: a simplified bilingual dictionary for a specific domain.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181116T170305Z" creationid="mgalo" creationdate="20181116T170305Z">
+        <seg>L'OmegaT fa servir glossaris que contenen traduccions de paraules soltes o expressions curtes; és a dir diccionaris bilingües senzills per a temàtiques específiques.</seg>
       </tuv>
     </tu>
     <tu>
