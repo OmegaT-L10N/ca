@@ -1940,6 +1940,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Editing field behavior:&lt;/e0&gt; a short chapter describing how to set up the editing behavior of the segment being translated.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181117T005000Z" creationid="mgalo" creationdate="20181117T005000Z">
+        <seg>&lt;e0&gt;Comportament del camp d'edició&lt;/e0&gt;: És un capítol breu que explica com es configura el comportament de l'edició del segment que s'està traduint.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): is a dynamic language for the Java Virtual machine.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150722T174839Z" creationid="Stephanie" creationdate="20150722T174839Z">
@@ -14251,11 +14259,12 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
     </tu>
     <tu>
+      <note>"This chapter" was replaced by the title of the chapter, as it is a bit confusing to say "this capter" when first referring to TWO chapters.</note>
       <tuv lang="EN">
         <seg>This chapter describes the project properties, such as the source and target languages.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181117T004642Z" creationid="mgalo" creationdate="20181117T004642Z">
-        <seg>Aquest capítol descriu les propietats dels projectes, com poden ser les llengües de partida i d'arribada.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181117T004844Z" creationid="mgalo" creationdate="20181117T004642Z">
+        <seg>«Propietats del projecte» descriu les propietats dels projectes, com poden ser les llengües de partida i d'arribada.</seg>
       </tuv>
     </tu>
     <tu>
