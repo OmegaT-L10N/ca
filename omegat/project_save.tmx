@@ -1998,8 +1998,8 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       <tuv lang="EN">
         <seg>&lt;e0&gt;Translation process:&lt;/e0&gt; Imagine having to translate something; from a single file to a folder containing subfolders each with a number of files in a variety of formats.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181117T001541Z" creationid="mgalo" creationdate="20181117T001541Z">
-        <seg>&lt;e0&gt;Procés de traducció:&lt;/e0&gt; Imagineu que heu de traduir alguna cosa; ja sigui només un sol fitxer o tota una carpeta que contingui subcarpetes amb una sèrie de fitxers en diversos formats diferents.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181117T001732Z" creationid="mgalo" creationdate="20181117T001541Z">
+        <seg>&lt;e0&gt;Procés de traducció:&lt;/e0&gt; Imagineu que heu de traduir alguna cosa; ja sigui només un sol fitxer o tota una carpeta que conté subcarpetes amb una sèrie de fitxers en diversos formats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9776,6 +9776,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181117T001909Z" creationid="mgalo" creationdate="20181117T001909Z">
+        <seg>L'OmegaT desa les vostres traduccions i proposa possibles traduccions a partir de segments similars registrats en els fitxers de les memòries.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT supports two of the popular version control systems (VCS for short), &lt;a0&gt;Apache Subversion&lt;/a0&gt; (often abbreviated SVN, after the command name svn) and &lt;a1&gt;Git&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150524T183046Z" creationid="Stephanie" creationdate="20150523T154603Z">
@@ -15878,6 +15886,14 @@ subscriure-us-hi:</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T220148Z" creationid="mgalo" creationdate="20181111T222806Z">
         <seg>En utilitzar expressions regulars, la cadena de substitució admet referències a grups definits en la cadena de cerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you are ready to view the final product, you can export the translated files, open them in the appropriate application and view the translation in the final format...</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181117T002148Z" creationid="mgalo" creationdate="20181117T002148Z">
+        <seg>Una vegada tot estigui llest i vulgueu veure el resultat, podeu exportar els fitxers traduïts, obrir-los amb l'apliació que correspongui i veure la traducció en el format final.</seg>
       </tuv>
     </tu>
     <tu>
