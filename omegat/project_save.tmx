@@ -1996,6 +1996,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Segmentation&lt;/e0&gt;:translation memory tools work with textual units called segments.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181117T005642Z" creationid="mgalo" creationdate="20181117T005642Z">
+        <seg>&lt;e0&gt;Segmentació&lt;/e0&gt;: Les eines que utilitzen memòries de traducció funcionen en base a unes unitats que s'anomenen «segments».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;TaaS Terminology Lookup&lt;/e0&gt;: when checked, will allow querying TaaS data on a segment by segment basis.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150722T194644Z" creationid="Stephanie" creationdate="20150722T194644Z">
@@ -7401,6 +7409,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181117T005733Z" creationid="mgalo" creationdate="20181117T005733Z">
+        <seg>A l'OmegaT, els segments poden estar constituïts per paràgrafs o segons unes regles de segmentació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150523T164021Z" creationid="Stephanie" creationdate="20150523T164021Z">
@@ -10423,6 +10439,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224211Z" creationid="Marc Riera" creationdate="20180214T224211Z">
         <seg>Opcions del filtre PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph segmentation is less frequently used, but can be useful in cases of so-called "creative" texts.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181117T010005Z" creationid="mgalo" creationdate="20181117T010005Z">
+        <seg>La segmentació per paràgrafs és menys freqüent, però pot ser útil quan es treballa amb els textos coneguts com «textos creatius».</seg>
       </tuv>
     </tu>
     <tu>
