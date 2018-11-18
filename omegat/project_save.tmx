@@ -2510,8 +2510,8 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       <tuv lang="EN">
         <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt; is an Open Source style and grammar proofreading software for English, French, German, Polish, Dutch, Romanian, and a number of other languages - see the &lt;u1&gt;list of supported languages&lt;/u1&gt;.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181115T124805Z" creationid="Stephanie" creationdate="20150722T173308Z">
-        <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt; és un programari de codi obert de correcció gramatical i d'estil per a l'anglès, el francès, l'alemany, el polonès, l'holandès, el romanès, entre d'altres idiomes. Vegeu la &lt;u1&gt;llista d'idiomes&lt;/u1&gt;.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181118T173107Z" creationid="Stephanie" creationdate="20150722T173308Z">
+        <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt; és un programari de codi obert de correcció gramatical i d'estil per a l'anglès, el francès, l'alemany, el polonès, l'holandès, el romanès i una àmplia varietat d'altres llengües. Vegeu la &lt;u1&gt;llista de llengües&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8061,6 +8061,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T213206Z" creationid="Marc Riera" creationdate="20180221T111739Z">
         <seg>No s'han pogut crear els documents traduïts perquè hi ha etiquetes que falten o que estan malmeses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will be used automatically by OmegaT if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181118T173257Z" creationid="mgalo" creationdate="20181118T173257Z">
+        <seg>L'OmegaT l'activarà de manera automàtica si la funció &lt;g0&gt;Opcions &gt; Corrector ortogràfic&lt;/g0&gt; està marcada.</seg>
       </tuv>
     </tu>
     <tu>
