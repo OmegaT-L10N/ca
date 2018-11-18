@@ -1990,8 +1990,8 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       <tuv lang="EN">
         <seg>&lt;e0&gt;Editing field behavior:&lt;/e0&gt; a short chapter describing how to set up the editing behavior of the segment being translated.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181118T171423Z" creationid="mgalo" creationdate="20181117T005000Z">
-        <seg>&lt;e0&gt;Comportament del camp d'edició&lt;/e0&gt;: És un capítol breu que explica com es configura el comportament de l'edició del segment que s'està traduint.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181118T172318Z" creationid="mgalo" creationdate="20181117T005000Z">
+        <seg>&lt;e0&gt;Comportament del camp d'edició:&lt;/e0&gt; És un capítol breu que explica com es configura el comportament de l'edició del segment que s'està traduint.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2022,16 +2022,16 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       <tuv lang="EN">
         <seg>&lt;e0&gt;Keyboard shortcuts in the editor&lt;/e0&gt;: the list of shortcuts used in the editor</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181118T001001Z" creationid="mgalo" creationdate="20181118T001001Z">
-        <seg>«&lt;e0&gt;Dreceres de teclat a l'Editor&lt;/e0&gt;»: És un llistat de les dreceres que es poden utilitzar a l'Editor.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181118T172608Z" creationid="mgalo" creationdate="20181118T001001Z">
+        <seg>&lt;e0&gt;Dreceres de teclat a l'Editor:&lt;/e0&gt; És un llistat de les dreceres que es poden utilitzar a l'Editor.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Languages:&lt;/e0&gt; the ISO list of languages and language codes is provided</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181118T000920Z" creationid="mgalo" creationdate="20181118T000920Z">
-        <seg>«&lt;e0&gt;Llengües&lt;/e0&gt;»: Ofereix un llistat de llengües i codis de llengua segons l'estàndard ISO.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181118T172559Z" creationid="mgalo" creationdate="20181118T000920Z">
+        <seg>&lt;e0&gt;Llengües:&lt;/e0&gt; Ofereix un llistat de llengües i codis de llengua segons l'estàndard ISO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2040,6 +2040,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181118T172256Z" creationid="mgalo" creationdate="20181117T002522Z">
         <seg>&lt;e0&gt;Apreneu a fer servir l'OmegaT en 5 minuts:&lt;/e0&gt; Aquest capítol pretén servir com a tutorial ràpid per a principiants així com per a totes aquelles persones que ja coneguin les eines de traducció assistida, i mostra el procediment complet, des del moment d'iniciar una nova traducció fins al moment de completar-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;OmegaT on the web:&lt;/e0&gt; information regarding on-line OmegaT resources</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181118T172545Z" creationid="mgalo" creationdate="20181118T172545Z">
+        <seg>&lt;e0&gt;L'OmegaT al web:&lt;/e0&gt; Conté informació sobre els recursos en línia de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2062,16 +2070,16 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       <tuv lang="EN">
         <seg>&lt;e0&gt;Searches&lt;/e0&gt; and&lt;e1&gt; &lt;/e1&gt;&lt;e2&gt;Regular expressions&lt;/e2&gt;: Searches in OmegaT can be as simple as "&lt;e3&gt;list segments with &lt;/e3&gt;&lt;e4&gt;the word 'kangaroo' ".</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181118T172008Z" creationid="mgalo" creationdate="20181117T235513Z">
-        <seg>&lt;e0&gt;Cerques&lt;/e0&gt; i &lt;e1&gt;&lt;/e1&gt;Expressions regulars&lt;e2&gt;: Les cerques amb l'OmegaT poden ser tan simples com «&lt;e3&gt;mostra una llista de segments amb &lt;/e3&gt;&lt;e4&gt;la paraula "cangur"».</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181118T172444Z" creationid="mgalo" creationdate="20181117T235513Z">
+        <seg>&lt;e0&gt;Cerques&lt;/e0&gt; i &lt;e1&gt;&lt;/e1&gt;Expressions regulars:&lt;e2&gt; Les cerques amb l'OmegaT poden ser tan simples com &lt;e3&gt;«mostra una llista de segments amb &lt;/e3&gt;&lt;e4&gt;la paraula "cangur"».</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Segmentation&lt;/e0&gt;:translation memory tools work with textual units called segments.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181117T005642Z" creationid="mgalo" creationdate="20181117T005642Z">
-        <seg>&lt;e0&gt;Segmentació&lt;/e0&gt;: Les eines que utilitzen memòries de traducció funcionen en base a unes unitats que s'anomenen «segments».</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181118T172344Z" creationid="mgalo" creationdate="20181117T005642Z">
+        <seg>&lt;e0&gt;Segmentació:&lt;/e0&gt; Les eines que utilitzen memòries de traducció funcionen en base a unes unitats que s'anomenen «segments».</seg>
       </tuv>
     </tu>
     <tu>
@@ -2102,8 +2110,8 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       <tuv lang="EN">
         <seg>&lt;e0&gt;Translation memories: &lt;/e0&gt; explains the role of the various subfolders containing translation memories, and provides information on other important aspects relating to translation memories.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181117T005504Z" creationid="mgalo" creationdate="20181117T005504Z">
-        <seg>&lt;e0&gt;Memòries de traducció&lt;/e0&gt;: Explica la funció de les diferents subcarpetes que contenen memòries de traducció i brinda informació sobre altres aspectes importants relacionats amb les memòries de traducció.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181118T172339Z" creationid="mgalo" creationdate="20181117T005504Z">
+        <seg>&lt;e0&gt;Memòries de traducció:&lt;/e0&gt; Explica la funció de les diferents subcarpetes que contenen memòries de traducció i brinda informació sobre altres aspectes importants relacionats amb les memòries de traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2142,8 +2150,8 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       <tuv lang="EN">
         <seg>&lt;e0&gt;Working with plain text&lt;/e0&gt; and &lt;e1&gt;Working with formatted text&lt;/e1&gt;: these two chapters explain certain important points concerning texts to be translated, such as the encoding set (in the case of plain text files) and tag handling (in the case of formatted text).</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181118T171916Z" creationid="mgalo" creationdate="20181118T171610Z">
-        <seg>&lt;e0&gt;Tractament del text sense format&lt;/e0&gt; i &lt;e1&gt;Tractament del text amb format&lt;/e1&gt;: Aquests dos capítols expliquen una sèrie de punts importants pel que fa a la traducció de textos, com ara els jocs de codificació (en el cas dels fitxers de text sense format) o la gestió d'etiquetes (en el cas de fitxers de text amb format).</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181118T172327Z" creationid="mgalo" creationdate="20181118T171610Z">
+        <seg>&lt;e0&gt;Tractament del text sense format&lt;/e0&gt; i &lt;e1&gt;Tractament del text amb format:&lt;/e1&gt; Aquests dos capítols expliquen una sèrie de punts importants pel que fa a la traducció de textos, com ara els jocs de codificació (en el cas dels fitxers de text sense format) o la gestió d'etiquetes (en el cas de fitxers de text amb format).</seg>
       </tuv>
     </tu>
     <tu>
