@@ -1773,8 +1773,8 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       <tuv lang="EN">
         <seg>&lt;/e4&gt; They can also be complex, allowing for instance to search for segments with two or more consecutive spaces.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181117T235545Z" creationid="mgalo" creationdate="20181117T235545Z">
-        <seg>&lt;/e4&gt;També poden ser cerques complexes, les quals permeten cercar, per exemple, segments amb dos espais consecutius o més.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181117T235619Z" creationid="mgalo" creationdate="20181117T235545Z">
+        <seg>&lt;/e4&gt; També poden ser cerques complexes, les quals permeten cercar, per exemple, segments amb dos o més espais consecutius.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7521,6 +7521,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case the regular expression ^s^s+ would be used to find and list the offending segments.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181117T235726Z" creationid="mgalo" creationdate="20181117T235726Z">
+        <seg>En aquest cas, s'utilitzaria l'expressió regular «^s^s+» per identificar els segments que incloguin el contingut de la cerca i fer-ne una llista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Include Pattern</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181108T160134Z" creationid="mgalo" creationdate="20181108T160134Z">
@@ -11389,6 +11397,14 @@ per determinar l'origen de l'error i torneu-ho a provar.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181109T123909Z" creationid="mgalo" creationdate="20181109T123131Z">
         <seg>La cerca d'expressions regulars cerca expressions regulars de Java, documentades al Manual d'usuari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expressions are also used extensively in the segmentation rules.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181117T235801Z" creationid="mgalo" creationdate="20181117T235801Z">
+        <seg>Les expressions regulars també s'utilitzen molt sovint per a les regles de segmentació.</seg>
       </tuv>
     </tu>
     <tu>
