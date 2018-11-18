@@ -1982,8 +1982,8 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       <tuv lang="EN">
         <seg>&lt;e0&gt;Editing field behavior:&lt;/e0&gt; a short chapter describing how to set up the editing behavior of the segment being translated.</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181117T233853Z" creationid="mgalo" creationdate="20181117T005000Z">
-        <seg>«&lt;e0&gt;Comportament del camp d'edició&lt;/e0&gt;»: És un capítol breu que explica com es configura el comportament de l'edició del segment que s'està traduint.</seg>
+      <tuv lang="CA" changeid="mgalo" changedate="20181118T171423Z" creationid="mgalo" creationdate="20181117T005000Z">
+        <seg>&lt;e0&gt;Comportament del camp d'edició&lt;/e0&gt;: És un capítol breu que explica com es configura el comportament de l'edició del segment que s'està traduint.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2128,6 +2128,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150722T183848Z" creationid="Stephanie" creationdate="20150722T183848Z">
         <seg>&lt;e0&gt;VSC server - &lt;/e0&gt;: el servidor SVN o Git és el lloc a la xarxa on es guarda i es conserva el material comú.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Working with plain text&lt;/e0&gt; and &lt;e1&gt;Working with formatted text&lt;/e1&gt;: these two chapters explain certain important points concerning texts to be translated, such as the encoding set (in the case of plain text files) and tag handling (in the case of formatted text).</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181118T171916Z" creationid="mgalo" creationdate="20181118T171610Z">
+        <seg>&lt;e0&gt;Tractament del text sense format&lt;/e0&gt; i &lt;e1&gt;Tractament del text amb format&lt;/e1&gt;: Aquests dos capítols expliquen una sèrie de punts importants pel que fa a la traducció de textos, com ara els jocs de codificació (en el cas dels fitxers de text sense format) o la gestió d'etiquetes (en el cas de fitxers de text amb format).</seg>
       </tuv>
     </tu>
     <tu>
