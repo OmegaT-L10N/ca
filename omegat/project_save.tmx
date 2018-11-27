@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13588,6 +13588,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150529T114323Z" creationid="Packard Bell" creationdate="20150529T114323Z">
         <seg>Equip...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Template variables:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20181127T134512Z" creationid="Marc Riera" creationdate="20181127T134512Z">
+        <seg>Variables de plantilla:</seg>
       </tuv>
     </tu>
     <tu>
