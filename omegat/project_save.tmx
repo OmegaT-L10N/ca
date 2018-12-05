@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1804,6 +1804,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt; &lt;t2&gt;Editing behavior...&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="eumeu" changedate="20181205T224450Z" creationid="eumeu" creationdate="20181205T224450Z">
+        <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt; &lt;t2&gt;Editing behavior...&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Contributing to OmegaT&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150722T191527Z" creationid="Stephanie" creationdate="20150722T191410Z">
@@ -1904,6 +1912,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150722T184601Z" creationid="Stephanie" creationdate="20150722T184444Z">
         <seg>&lt;p0&gt;Projectes en equip&lt;/p0&gt; &lt;s1&gt;Subversió&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Glossary pane&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="eumeu" changedate="20181205T225311Z" creationid="eumeu" creationdate="20181205T225311Z">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Glossary pane&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8690,6 +8706,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has an inline spelling checker.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="eumeu" changedate="20181205T225532Z" creationid="eumeu" creationdate="20181205T225532Z">
+        <seg>OmegaT has an inline spelling checker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T102655Z" creationid="Alexandra" creationdate="20150526T102655Z">
@@ -11652,6 +11676,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T224508Z" creationid="Marc Riera" creationdate="20180214T224508Z">
         <seg>Indiqueu el comportament de la gestió d'etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spell checker</seg>
+      </tuv>
+      <tuv lang="CA" changeid="eumeu" changedate="20181205T225426Z" creationid="eumeu" creationdate="20181205T225426Z">
+        <seg>Spell checker</seg>
       </tuv>
     </tu>
     <tu>
