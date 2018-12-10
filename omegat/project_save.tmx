@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6323,16 +6323,6 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181114T122226Z" creationid="mgalo" creationdate="20181114T121817Z">
         <seg>Si un fitxer no es carrega en el panell de l'&lt;g0&gt;Editor&lt;/g0&gt;, podria ser que estigui en un format no compatible amb l'OmegaT.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>If invoked in a git working tree or svn checkout, the results
-		will be staged/added.</seg>
-      </tuv>
-      <tuv lang="CA" changeid="apujo" changedate="20181203T113812Z" creationid="apujo" creationdate="20181203T113812Z">
-        <seg>If invoked in a git working tree or svn checkout, the results
-		will be staged/added.</seg>
       </tuv>
     </tu>
     <tu>
