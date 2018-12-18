@@ -1350,6 +1350,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>---- Localization Notes ----</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181218T202930Z" creationid="mgalo" creationdate="20181218T202930Z">
+        <seg>---- Notes de localització ----</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--/--</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181108T154140Z" creationid="mgalo" creationdate="20181108T154140Z">
@@ -1920,6 +1928,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150605T161123Z" creationid="Packard Bell" creationdate="20150605T161123Z">
         <seg>&lt;drecera&gt; ha de ser de la següent manera: 0 o més &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; seguit de 0 o 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; seguit d'1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, on:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181218T203051Z" creationid="mgalo" creationdate="20181218T203051Z">
+        <seg>Atribut &amp;resname de &lt;trans-unit&gt; si està disponible</seg>
       </tuv>
     </tu>
     <tu>
@@ -8050,6 +8066,22 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moodle PHP</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181218T202735Z" creationid="mgalo" creationdate="20181218T202735Z">
+        <seg>Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181218T202750Z" creationid="mgalo" creationdate="20181218T202750Z">
+        <seg>Opcions del filtre de fitxers Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181108T154026Z" creationid="mgalo" creationdate="20181108T154026Z">
@@ -12289,6 +12321,14 @@ L'àmbit de la substitució de text són els segments d'arribada del projecte, i
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181115T125224Z" creationid="Packard Bell" creationdate="20150528T180425Z">
         <seg>El connector LanguageTool està integrat a l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moodle PHP filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="mgalo" changedate="20181218T202821Z" creationid="mgalo" creationdate="20181218T202821Z">
+        <seg>El filtre de fitxers Moodle PHP ha generat una excepció:</seg>
       </tuv>
     </tu>
     <tu>
