@@ -7051,6 +7051,30 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Issues</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T122557Z" creationid="Marc Riera" creationdate="20190520T122557Z">
+        <seg>Errors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T122614Z" creationid="Marc Riera" creationdate="20190520T122614Z">
+        <seg>Errors ({0} de {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0})</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T122605Z" creationid="Marc Riera" creationdate="20190520T122605Z">
+        <seg>Errors ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Issues/bugs tracking system</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T132957Z" creationid="Alexandra" creationdate="20150526T132945Z">
@@ -7440,6 +7464,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181113T090447Z" creationid="mgalo" creationdate="20181113T090447Z">
         <seg>LanguageTool (Llicència LGPL i d'altres)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool Issues</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T122643Z" creationid="Marc Riera" creationdate="20190520T122643Z">
+        <seg>Errors del LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -8502,6 +8534,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181115T222316Z" creationid="mgalo" creationdate="20181113T181232Z">
         <seg>A continuació, s'obrirà el quadre de diàleg &lt;g0&gt;Fitxers del projecte&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No Issues Found</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T122552Z" creationid="Marc Riera" creationdate="20190520T122552Z">
+        <seg>No s'han trobat errors</seg>
       </tuv>
     </tu>
     <tu>
@@ -11503,6 +11543,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a Category</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T122843Z" creationid="Marc Riera" creationdate="20190520T122843Z">
+        <seg>Selecciona una categoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select&lt;g0&gt; TortoiseSVN &gt; Checkout.&lt;/g0&gt; The following dialog appears:</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181115T222242Z" creationid="Stephanie" creationdate="20150722T184959Z">
@@ -11531,6 +11579,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181118T170107Z" creationid="mgalo" creationdate="20181118T170107Z">
         <seg>Tipus de servei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set a master password to protect your private data.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T122721Z" creationid="Marc Riera" creationdate="20190520T122721Z">
+        <seg>Definiu una contrasenya mestra per protegir les vostres dades provades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11952,6 +12008,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spelling Issues</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T122629Z" creationid="Marc Riera" creationdate="20190520T122629Z">
+        <seg>Errors ortogràfics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spelling dictionaries</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150526T134347Z" creationid="Alexandra" creationdate="20150526T134347Z">
@@ -12209,6 +12273,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag Issues</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T122636Z" creationid="Marc Riera" creationdate="20190520T122636Z">
+        <seg>Errors d'etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag Processing</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181111T230242Z" creationid="mgalo" creationdate="20181111T230242Z">
@@ -12334,6 +12406,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T111636Z" creationid="mgalo" creationdate="20181112T111636Z">
         <seg>Terminologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terminology Issues</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T122649Z" creationid="Marc Riera" creationdate="20190520T122649Z">
+        <seg>Errors de terminologia</seg>
       </tuv>
     </tu>
     <tu>
@@ -12811,6 +12891,22 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181118T000459Z" creationid="mgalo" creationdate="20181118T000459Z">
         <seg>El component de programari lliure LanguageTool es pot fer servir per corregir errors gramàticals i estilístics freqüents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password you entered did not match.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T122804Z" creationid="Marc Riera" creationdate="20190520T122804Z">
+        <seg>La contrasenya introduïda no és correcta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The passwords don't match.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T122821Z" creationid="Marc Riera" creationdate="20190520T122821Z">
+        <seg>Les contrasenyes no coincideixen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15246,6 +15342,14 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181115T121400Z" creationid="Marc Riera" creationdate="20180214T223223Z">
         <seg>Especifiqueu-ne la ubicació nova o torneu-les a crear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T122742Z" creationid="Marc Riera" creationdate="20190520T122742Z">
+        <seg>Se us demanarà que introduïu aquesta contrasenya cada vegada que inicieu l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
