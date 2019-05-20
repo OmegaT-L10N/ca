@@ -14189,6 +14189,22 @@ a la línia {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T120824Z" creationid="Marc Riera" creationdate="20190520T120824Z">
+        <seg>Ús: java -jar OmegaT.jar [&lt;opcions&gt;] [&lt;ruta del projecte&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar team &lt;command&gt; [&lt;options&gt;]]</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T120918Z" creationid="Marc Riera" creationdate="20190520T120918Z">
+        <seg>Ús: java -jar OmegaT.jar team &lt;ordre&gt; [&lt;opcions&gt;]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use</seg>
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150605T160436Z" creationid="Packard Bell" creationdate="20150605T160436Z">
