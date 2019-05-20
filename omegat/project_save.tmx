@@ -3280,10 +3280,26 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check LanguageTools rules</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T124250Z" creationid="Marc Riera" creationdate="20190520T124250Z">
+        <seg>Comprova les regles del LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check Now</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T110937Z" creationid="mgalo" creationdate="20181112T110937Z">
         <seg>Cerca ara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for doubled blanks</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T124216Z" creationid="Marc Riera" creationdate="20190520T124216Z">
+        <seg>Comprova els dobles espais</seg>
       </tuv>
     </tu>
     <tu>
@@ -3308,6 +3324,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150525T181050Z" creationid="Stephanie" creationdate="20150525T181050Z">
         <seg>Comproveu el contingut de la carpeta per confirmar que la còpia local del repositori i els arxius i les carpetes corresponents corresponen a l'última versió del servidor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check whole project</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T124506Z" creationid="Marc Riera" creationdate="20190520T124506Z">
+        <seg>Comprova a tot el projecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -4263,6 +4287,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Different punctuation</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T124356Z" creationid="Marc Riera" creationdate="20190520T124356Z">
+        <seg>Puntuació diferent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Disable rule “{0}”</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20190520T120615Z" creationid="Marc Riera" creationdate="20190520T120615Z">
@@ -4531,6 +4563,22 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180212T232305Z" creationid="Marc Riera" creationdate="20180212T231721Z">
         <seg>Feu doble clic a l'aplicació de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Doubled blanks</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T124228Z" creationid="Marc Riera" creationdate="20190520T124228Z">
+        <seg>Dobles espais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Doubled words</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T124347Z" creationid="Marc Riera" creationdate="20190520T124347Z">
+        <seg>Paraules duplicades</seg>
       </tuv>
     </tu>
     <tu>
@@ -7572,6 +7620,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181118T201754Z" creationid="Packard Bell" creationdate="20150528T181752Z">
         <seg>LanguageTool no funcionarà correctament si a la carpeta /plugin hi ha una versió antiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTools Rules</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T124236Z" creationid="Marc Riera" creationdate="20190520T124236Z">
+        <seg>Regles del LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -10992,6 +11048,14 @@ per determinar l'origen de l'error i torneu-ho a provar.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rule</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T124324Z" creationid="Marc Riera" creationdate="20190520T124324Z">
+        <seg>Regla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T094350Z" creationid="mgalo" creationdate="20181112T094350Z">
@@ -12108,6 +12172,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spelling errors(s)</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T124449Z" creationid="Marc Riera" creationdate="20190520T124449Z">
+        <seg>Error ortogràfic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Standard</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114047Z" creationid="Marc Riera" creationdate="20180221T114047Z">
@@ -12402,6 +12474,30 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181115T225339Z" creationid="mgalo" creationdate="20181115T225339Z">
         <seg>Etiqueta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags - number</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T124417Z" creationid="Marc Riera" creationdate="20190520T124417Z">
+        <seg>Etiquetes - nombre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags - order</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T124429Z" creationid="Marc Riera" creationdate="20190520T124429Z">
+        <seg>Etiquetes - ordre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags - spaces</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T124423Z" creationid="Marc Riera" creationdate="20190520T124423Z">
+        <seg>Etiquetes - espais</seg>
       </tuv>
     </tu>
     <tu>
@@ -14385,6 +14481,14 @@ a la línia {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Untranslated segment</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T124411Z" creationid="Marc Riera" creationdate="20190520T124411Z">
+        <seg>Segment sense traduir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Untranslated segments</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T105126Z" creationid="mgalo" creationdate="20181112T105126Z">
@@ -15022,6 +15126,22 @@ subscriure-us-hi:</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T112617Z" creationid="mgalo" creationdate="20181112T112617Z">
         <seg>Quina versió voleu mantenir?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace - leading</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T124335Z" creationid="Marc Riera" creationdate="20190520T124335Z">
+        <seg>Espai en blanc inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace - trailing</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190520T124340Z" creationid="Marc Riera" creationdate="20190520T124340Z">
+        <seg>Espai en blanc final</seg>
       </tuv>
     </tu>
     <tu>
