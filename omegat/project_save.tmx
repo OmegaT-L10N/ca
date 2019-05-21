@@ -1280,8 +1280,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>(Leave the Password empty if you are using an API Key.)</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181112T101314Z" creationid="mgalo" creationdate="20181112T101314Z">
-        <seg>(Deixeu el camp Contrasenya buit si feu servir una clau API)</seg>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105220Z" creationid="mgalo" creationdate="20181112T101314Z">
+        <seg>(Deixeu el camp de contrasenya buit si feu servir una clau API)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6253,8 +6253,8 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Go To Segment Source</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181115T224649Z" creationid="mgalo" creationdate="20181115T224649Z">
-        <seg>Ves a l'origen del segment</seg>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105407Z" creationid="mgalo" creationdate="20181115T224649Z">
+        <seg>Vés a l'origen del segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -6279,6 +6279,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T201924Z" creationid="Alexandra" creationdate="20150604T201924Z">
         <seg>Interfície a Google&lt;s0/&gt;Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Google Translate v2</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T104955Z" creationid="Marc Riera" creationdate="20190521T104955Z">
+        <seg>Google Translate v2</seg>
       </tuv>
     </tu>
     <tu>
@@ -7177,8 +7185,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>Invalid API key</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181112T101409Z" creationid="mgalo" creationdate="20181112T101409Z">
-        <seg>La clau API és invàlida</seg>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105235Z" creationid="mgalo" creationdate="20181112T101409Z">
+        <seg>La clau API no és vàlida</seg>
       </tuv>
     </tu>
     <tu>
@@ -8432,6 +8440,22 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Translator</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T104927Z" creationid="Marc Riera" creationdate="20190521T104927Z">
+        <seg>Microsoft Translator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Translator Subscription Key not available.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105118Z" creationid="Marc Riera" creationdate="20190521T105118Z">
+        <seg>La clau de subscripció a Microsoft Translation no està disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mine</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T112622Z" creationid="mgalo" creationdate="20181112T112622Z">
@@ -8452,6 +8476,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CA" changeid="Alexandra" changedate="20150604T184504Z" creationid="Alexandra" creationdate="20150526T134836Z">
         <seg>Miscel·lània de recursos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Model Id:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105050Z" creationid="Marc Riera" creationdate="20190521T105050Z">
+        <seg>Identificador del model:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8698,8 +8730,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>Neural machine translation</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181112T101359Z" creationid="mgalo" creationdate="20181112T101359Z">
-        <seg>Traducció automàtica neural</seg>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105134Z" creationid="mgalo" creationdate="20181112T101359Z">
+        <seg>Traducció automàtica neuronal</seg>
       </tuv>
     </tu>
     <tu>
@@ -11007,6 +11039,14 @@ per determinar l'origen de l'error i torneu-ho a provar.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T100154Z" creationid="mgalo" creationdate="20181112T100154Z">
         <seg>Reemplaça la traducció amb la coincidència o la selecció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace Translation with Text</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105326Z" creationid="Marc Riera" creationdate="20190521T105326Z">
+        <seg>Reemplaça la traducció amb el text</seg>
       </tuv>
     </tu>
     <tu>
@@ -15505,8 +15545,8 @@ Tant la cerca exacta com la cerca per paraules clau admeten els caràcters comod
       <tuv lang="EN">
         <seg>Wrong response from engine</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181113T095036Z" creationid="mgalo" creationdate="20181113T095036Z">
-        <seg>El motor ha retornat una resposta invàlida</seg>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105205Z" creationid="mgalo" creationdate="20181113T095036Z">
+        <seg>El motor ha retornat una resposta no vàlida</seg>
       </tuv>
     </tu>
     <tu>
