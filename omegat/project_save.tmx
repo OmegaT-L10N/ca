@@ -1485,8 +1485,8 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       <tuv lang="EN">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
-      <tuv lang="CA" changeid="mgalo" changedate="20181112T101758Z" creationid="mgalo" creationdate="20181112T101758Z">
-        <seg>&lt;BUIDA&gt;</seg>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105546Z" creationid="mgalo" creationdate="20181112T101758Z">
+        <seg>&lt;TRADUCCIÓ BUIDA&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1856,6 +1856,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20190520T120249Z" creationid="Marc Riera" creationdate="20190520T120249Z">
         <seg>&lt;html&gt;Canal d'actualitzacions: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;none&gt;</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105814Z" creationid="Marc Riera" creationdate="20190521T105814Z">
+        <seg>&lt;cap&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2263,6 +2271,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114927Z" creationid="Marc Riera" creationdate="20180221T114927Z">
         <seg>Afegeix un patró</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add Script</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105808Z" creationid="Marc Riera" creationdate="20190521T105744Z">
+        <seg>Afegeix l'script</seg>
       </tuv>
     </tu>
     <tu>
@@ -2848,6 +2864,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Available script engines:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105615Z" creationid="Marc Riera" creationdate="20190521T105615Z">
+        <seg>Motors de scripts disponibles:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Avoid in any case adding &lt;f6&gt;bak&lt;/f6&gt; files, &lt;f7&gt;project_stats.txt&lt;/f7&gt; and &lt;f8&gt;project_stats_match.txt&lt;/f8&gt;, in the &lt;f9&gt;omegat&lt;/f9&gt; subfolder, as they would without any need or profit just bloat the repository.</seg>
       </tuv>
       <tuv lang="CA" changeid="Stephanie" changedate="20150722T185439Z" creationid="Stephanie" creationdate="20150722T185439Z">
@@ -3180,6 +3204,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223819Z" creationid="Marc Riera" creationdate="20180214T223819Z">
         <seg>No es pot carregar el fitxer XML especificat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot read selected script file.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105649Z" creationid="Marc Riera" creationdate="20190521T105649Z">
+        <seg>No es pot llegir l'script seleccionat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5259,6 +5291,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T111858Z" creationid="Marc Riera" creationdate="20180221T111858Z">
         <seg>S'ha produït un error en editar el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error while trying to save script.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105716Z" creationid="Marc Riera" creationdate="20190521T105716Z">
+        <seg>S'ha produït un error en desar l'script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8896,6 +8936,22 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No script selected.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105638Z" creationid="Marc Riera" creationdate="20190521T105638Z">
+        <seg>No hi ha cap script seleccionat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No script set.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105736Z" creationid="Marc Riera" creationdate="20190521T105736Z">
+        <seg>No hi ha cap script definit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No tags and no numbers</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181111T225946Z" creationid="mgalo" creationdate="20181111T225946Z">
@@ -10939,6 +10995,14 @@ per determinar l'origen de l'error i torneu-ho a provar.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove Script</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105749Z" creationid="Marc Riera" creationdate="20190521T105749Z">
+        <seg>Elimina l'script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223132Z" creationid="Marc Riera" creationdate="20180214T223132Z">
@@ -11428,6 +11492,14 @@ per determinar l'origen de l'error i torneu-ho a provar.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save Script</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105705Z" creationid="Marc Riera" creationdate="20190521T105705Z">
+        <seg>Desa l'script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save TMX...</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T113236Z" creationid="mgalo" creationdate="20181112T113236Z">
@@ -11486,10 +11558,26 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Script "{0}" saved.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105727Z" creationid="Marc Riera" creationdate="20190521T105727Z">
+        <seg>S'ha desat l'script «{0}».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Script &amp;Language</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181115T225120Z" creationid="mgalo" creationdate="20181115T225120Z">
         <seg>&amp;Llenguatge de l'script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script Result</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105700Z" creationid="Marc Riera" creationdate="20190521T105700Z">
+        <seg>Resultat de l'script</seg>
       </tuv>
     </tu>
     <tu>
@@ -11538,6 +11626,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="CA" changeid="Packard Bell" changedate="20150801T121224Z" creationid="Alexandra" creationdate="20150526T161350Z">
         <seg>Connector de llenguatge script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripts Folder:</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105625Z" creationid="Marc Riera" creationdate="20190521T105625Z">
+        <seg>Carpeta de scripts:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11914,6 +12010,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181115T222242Z" creationid="Stephanie" creationdate="20150722T184959Z">
         <seg>Seleccioneu&lt;g0&gt; TortoiseSVN &gt; Checkout.&lt;/g0&gt; i apareixerà el següent quadre de diàleg:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selected Engine: {0}</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105655Z" creationid="Marc Riera" creationdate="20190521T105655Z">
+        <seg>Motor seleccionat: {0}</seg>
       </tuv>
     </tu>
     <tu>
