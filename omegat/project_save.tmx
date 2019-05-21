@@ -2171,6 +2171,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aborted.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105900Z" creationid="Marc Riera" creationdate="20190521T105900Z">
+        <seg>S'ha avortat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
       </tuv>
       <tuv lang="CA" changeid="MoiTrad" changedate="20181204T165909Z" creationid="mgalo" creationdate="20181113T172043Z">
@@ -2463,6 +2471,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181110T002718Z" creationid="mgalo" creationdate="20181110T002718Z">
         <seg>Permet l'edició d'eti&amp;quetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allow to save password as plain text</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T110342Z" creationid="Marc Riera" creationdate="20190521T110342Z">
+        <seg>Permet desar la contrasenya com a text pla</seg>
       </tuv>
     </tu>
     <tu>
@@ -3480,6 +3496,16 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Close the current OmegaT instance
+3.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T110029Z" creationid="Marc Riera" creationdate="20190521T110029Z">
+        <seg>Tancar la instància actual de l'OmegaT
+3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Co&amp;mments</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181109T231033Z" creationid="mgalo" creationdate="20181109T231033Z">
@@ -3833,6 +3859,16 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T100429Z" creationid="mgalo" creationdate="20181112T100429Z">
         <seg>Copia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy &lt;project&gt;/omegat/project_save.tmx file into a safe location
+2.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T110012Z" creationid="Marc Riera" creationdate="20190521T110012Z">
+        <seg>Copiar el fitxer &lt;projecte&gt;/omegat/project_save.tmx a un lloc segur
+2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10771,6 +10807,14 @@ per determinar l'origen de l'error i torneu-ho a provar.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Read-only</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T110329Z" creationid="Marc Riera" creationdate="20190521T110329Z">
+        <seg>Només de lectura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reading TMX file {0}</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180214T223918Z" creationid="Marc Riera" creationdate="20180214T223918Z">
@@ -11039,6 +11083,14 @@ per determinar l'origen de l'error i torneu-ho a provar.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20180221T114813Z" creationid="Marc Riera" creationdate="20180221T114813Z">
         <seg>Voleu eliminar el patró?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove the project folder manually.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T110040Z" creationid="Marc Riera" creationdate="20190521T110040Z">
+        <seg>Eliminar la carpeta del projecte manualment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12527,6 +12579,16 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start OmegaT again, download the team project, close OmegaT
+5.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T110231Z" creationid="Marc Riera" creationdate="20190521T110231Z">
+        <seg>Tornar a iniciar l'OmegaT, baixar el projecte d'equip i tancar l'OmegaT
+5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start OmegaT and continue to translate</seg>
       </tuv>
       <tuv lang="CA" changeid="mgalo" changedate="20181112T102535Z" creationid="mgalo" creationdate="20181112T102535Z">
@@ -13919,6 +13981,16 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To be sure that no translation will be lost, you need to:
+1.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T105943Z" creationid="Marc Riera" creationdate="20190521T105943Z">
+        <seg>Per assegurar-vos que no es perdrà cap traducció, heu de:
+1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20190520T125432Z" creationid="Alexandra" creationdate="20150526T124305Z">
@@ -15304,6 +15376,16 @@ subscriure-us-hi:</seg>
       </tuv>
       <tuv lang="CA" changeid="Marc Riera" changedate="20190520T120655Z" creationid="Marc Riera" creationdate="20190520T120655Z">
         <seg>Viterbi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WARNING: all unsaved data will be lost
+4.</seg>
+      </tuv>
+      <tuv lang="CA" changeid="Marc Riera" changedate="20190521T110105Z" creationid="Marc Riera" creationdate="20190521T110105Z">
+        <seg>AVÍS: es perdran totes les dades sense desar
+4.</seg>
       </tuv>
     </tu>
     <tu>
