@@ -2348,11 +2348,12 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Actions &amp; Settings</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T092154Z" creationid="mgalo" creationdate="20181112T092154Z">
-        <seg>Accions i configuració</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T153314Z" creationid="mgalo" creationdate="20181112T092154Z">
+        <seg>Accions i paràmetres</seg>
       </tuv>
     </tu>
     <tu>
@@ -2422,6 +2423,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Add To Dictionary</seg>
       </tuv>
@@ -3407,6 +3409,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Cannot install</seg>
       </tuv>
@@ -3910,6 +3913,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Comments</seg>
       </tuv>
@@ -4052,8 +4056,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Confirm uninstalling</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T093511Z" creationid="mgalo" creationdate="20181112T093511Z">
-        <seg>Confirma i desinstal·la</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T153617Z" creationid="mgalo" creationdate="20181112T093511Z">
+        <seg>Confirmeu la desinstal·lació</seg>
       </tuv>
     </tu>
     <tu>
@@ -4264,6 +4268,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Could not create the specified folder.</seg>
       </tuv>
@@ -4727,11 +4732,12 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Dictionaries already installed:</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T093235Z" creationid="mgalo" creationdate="20181112T093235Z">
-        <seg>Diccionaris instal·lats:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T153526Z" creationid="mgalo" creationdate="20181112T093235Z">
+        <seg>Diccionaris ja instal·lats:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5011,6 +5017,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Do you want to create it?</seg>
       </tuv>
@@ -6390,6 +6397,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Folder does not exist</seg>
       </tuv>
@@ -7409,6 +7417,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Ignore All</seg>
       </tuv>
@@ -7585,6 +7594,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Info</seg>
       </tuv>
@@ -8254,6 +8264,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Key:</seg>
       </tuv>
@@ -8393,6 +8404,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>LanguageTool is misconfigured.</seg>
       </tuv>
@@ -8425,6 +8437,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>LanguageTool server started</seg>
       </tuv>
@@ -8433,6 +8446,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>LanguageTool server terminated</seg>
       </tuv>
@@ -8446,6 +8460,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T104514Z" creationid="Marc Riera" creationdate="20190521T104514Z">
         <seg>Paràmetres del LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool will be disabled until the project is closed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T153818Z" creationid="Marc Riera" creationdate="20190924T153818Z">
+        <seg>S'inhabilitarà el LanguageTool fins que es tanqui el projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8470,6 +8492,22 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T104734Z" creationid="Marc Riera" creationdate="20190521T104734Z">
         <seg>LanguageTool: s'ha produït un error durant la comprovació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool: Bad URL</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T153759Z" creationid="Marc Riera" creationdate="20190924T153759Z">
+        <seg>LanguageTool: l'URL és incorrecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool: bad local path</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T153742Z" creationid="Marc Riera" creationdate="20190924T153742Z">
+        <seg>LanguageTool: el camí local és incorrecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -8881,6 +8919,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Machine Translation</seg>
       </tuv>
@@ -8892,8 +8931,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Machine Translation Options</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181111T230638Z" creationid="mgalo" creationdate="20181111T230638Z">
-        <seg>Opcions dels motors de traducció automàtica</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T153203Z" creationid="mgalo" creationdate="20181111T230638Z">
+        <seg>Paràmetres de la traducció automàtica</seg>
       </tuv>
     </tu>
     <tu>
@@ -9902,6 +9941,7 @@ com ara la carpeta Aplicacions.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Notes</seg>
       </tuv>
@@ -9910,6 +9950,7 @@ com ara la carpeta Aplicacions.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Comments</seg>
       </tuv>
@@ -9950,6 +9991,7 @@ com ara la carpeta Aplicacions.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Notes</seg>
       </tuv>
@@ -11160,6 +11202,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Please try again.</seg>
       </tuv>
@@ -11382,6 +11425,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Proceed?</seg>
       </tuv>
@@ -13626,6 +13670,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Spellchecker</seg>
       </tuv>
@@ -13864,6 +13909,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Switching to built-in version.</seg>
       </tuv>
@@ -15792,6 +15838,7 @@ d'instal·lar el Kaptain.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translation:</seg>
       </tuv>
@@ -15990,6 +16037,7 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unable to uninstall the selected dictionary</seg>
       </tuv>
@@ -16054,6 +16102,7 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Uninstalling failed</seg>
       </tuv>
