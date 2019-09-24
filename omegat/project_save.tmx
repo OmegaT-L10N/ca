@@ -3522,8 +3522,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Check whole project</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T124506Z" creationid="Marc Riera" creationdate="20190520T124506Z">
-        <seg>Comprova a tot el projecte</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T132855Z" creationid="Marc Riera" creationdate="20190520T124506Z">
+        <seg>Comprova tot el projecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -4883,6 +4883,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Doubled blanks</seg>
       </tuv>
@@ -4891,6 +4892,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Doubled words</seg>
       </tuv>
@@ -7217,6 +7219,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Inconsistent numbers</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T132744Z" creationid="Marc Riera" creationdate="20190924T132744Z">
+        <seg>Xifres incoherents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Individual File Statistics:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112643Z" creationid="Marc Riera" creationdate="20180221T112643Z">
@@ -8065,6 +8075,7 @@ is to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>LanguageTools Rules</seg>
       </tuv>
@@ -9260,6 +9271,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T111312Z" creationid="mgalo" creationdate="20181112T111312Z">
         <seg>Espais no separables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-breaking space</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T132939Z" creationid="Marc Riera" creationdate="20190924T132939Z">
+        <seg>Espai no separable</seg>
       </tuv>
     </tu>
     <tu>
@@ -11210,6 +11229,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T132927Z" creationid="Marc Riera" creationdate="20190924T132927Z">
+        <seg>Actualitza</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Register Identical Translation</seg>
@@ -11520,6 +11547,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T133009Z" creationid="Marc Riera" creationdate="20190924T133009Z">
+        <seg>Reemplaça els espais amb espais no separables on calgui en francès</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181218T202419Z" creationid="Marc Riera" creationdate="20180210T213702Z">
@@ -11735,6 +11770,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Rule</seg>
       </tuv>
@@ -12205,11 +12241,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segment</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T114704Z" creationid="mgalo" creationdate="20181111T231802Z">
-        <seg>Segmenta</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T132523Z" creationid="mgalo" creationdate="20181111T231802Z">
+        <seg>Segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -12751,11 +12788,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Source</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T112837Z" creationid="mgalo" creationdate="20181112T112837Z">
-        <seg>Fitxer de partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T132636Z" creationid="mgalo" creationdate="20181112T112837Z">
+        <seg>Text d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -13306,32 +13344,33 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Tags - number</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T124417Z" creationid="Marc Riera" creationdate="20190520T124417Z">
-        <seg>Etiquetes - nombre</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T132805Z" creationid="Marc Riera" creationdate="20190520T124417Z">
+        <seg>Nombre d'etiquetes</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Tags - order</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T124429Z" creationid="Marc Riera" creationdate="20190520T124429Z">
-        <seg>Etiquetes - ordre</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T132832Z" creationid="Marc Riera" creationdate="20190520T124429Z">
+        <seg>Ordre de les etiquetes</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Tags - spaces</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T124423Z" creationid="Marc Riera" creationdate="20190520T124423Z">
-        <seg>Etiquetes - espais</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T132825Z" creationid="Marc Riera" creationdate="20190520T124423Z">
+        <seg>Espais de les etiquetes</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Target</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T112841Z" creationid="mgalo" creationdate="20181112T112841Z">
-        <seg>Fitxer d'arribada</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T132632Z" creationid="mgalo" creationdate="20181112T112841Z">
+        <seg>Text de destinació</seg>
       </tuv>
     </tu>
     <tu>
@@ -13348,6 +13387,22 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T225753Z" creationid="mgalo" creationdate="20181115T225753Z">
         <seg>La carpeta de fitxers d'arribada {0} no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target longer</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T132723Z" creationid="Marc Riera" creationdate="20190924T132723Z">
+        <seg>Text de destinació més llarg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target shorter</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T132728Z" creationid="Marc Riera" creationdate="20190924T132709Z">
+        <seg>Text de destinació més curt</seg>
       </tuv>
     </tu>
     <tu>
@@ -16038,6 +16093,7 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Whitespace - leading</seg>
       </tuv>
@@ -16046,6 +16102,7 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Whitespace - trailing</seg>
       </tuv>
