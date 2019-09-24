@@ -1897,6 +1897,7 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
@@ -5231,8 +5232,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223144Z" creationid="Marc Riera" creationdate="20180214T223144Z">
-        <seg>Habiliteu-les a &lt;b&gt;Opcions &gt; Desament i sortida...&lt;/b&gt;&lt;/html&gt;</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T112946Z" creationid="Marc Riera" creationdate="20180214T223144Z">
+        <seg>Habiliteu-les a &lt;b&gt;Preferències &gt; Desament i sortida...&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5681,16 +5682,16 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>External Post-processing Command (Disabled):</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223138Z" creationid="Marc Riera" creationdate="20180214T223138Z">
-        <seg>Ordre de postprocessament externa (inhabilitada):</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T112909Z" creationid="Marc Riera" creationdate="20180214T223138Z">
+        <seg>Ordre de postprocessament extern (inhabilitat):</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>External Post-processing Command:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223133Z" creationid="Marc Riera" creationdate="20180214T223133Z">
-        <seg>Ordre de postprocessament externa:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T112838Z" creationid="Marc Riera" creationdate="20180214T223133Z">
+        <seg>Ordre de postprocessament extern:</seg>
       </tuv>
     </tu>
     <tu>
