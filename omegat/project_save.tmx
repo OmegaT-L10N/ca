@@ -37,6 +37,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>$</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145958Z" creationid="Marc Riera" creationdate="20190924T145958Z">
+        <seg>$</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&amp;About...</seg>
       </tuv>
@@ -1343,6 +1352,15 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>(XY)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150032Z" creationid="Marc Riera" creationdate="20190924T150032Z">
+        <seg>(XY)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>(close tag)</seg>
       </tuv>
@@ -1452,6 +1470,15 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T101740Z" creationid="Marc Riera" creationdate="20190924T101740Z">
         <seg>-h, --help
 		Mostra la informació d'ús.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145933Z" creationid="Marc Riera" creationdate="20190924T145933Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2853,6 +2880,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Appendices</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150337Z" creationid="Marc Riera" creationdate="20190924T150337Z">
+        <seg>Annexos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T115018Z" creationid="Marc Riera" creationdate="20180221T115018Z">
@@ -3824,6 +3859,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Common glossary problems</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145643Z" creationid="Marc Riera" creationdate="20190924T145643Z">
+        <seg>Problemes habituals amb els glossaris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comparison Mode:</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T114552Z" creationid="mgalo" creationdate="20181112T114552Z">
@@ -4579,6 +4622,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181108T151804Z" creationid="mgalo" creationdate="20181108T151804Z">
         <seg>Diccionar&amp;i</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionaries</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145401Z" creationid="Marc Riera" creationdate="20190924T145401Z">
+        <seg>Diccionaris</seg>
       </tuv>
     </tu>
     <tu>
@@ -6071,6 +6122,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>File format</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145528Z" creationid="Marc Riera" creationdate="20190924T145528Z">
+        <seg>Format dels fitxers</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>File locations</seg>
@@ -6578,6 +6637,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Glossaries</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145459Z" creationid="Marc Riera" creationdate="20190924T145459Z">
+        <seg>Glossaris</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Glossary</seg>
@@ -6907,6 +6974,22 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181108T152742Z" creationid="mgalo" creationdate="20181108T152742Z">
         <seg>Predicció a partir de l'historial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How to create glossaries</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145618Z" creationid="Marc Riera" creationdate="20190924T145618Z">
+        <seg>Com crear glossaris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How to download and install dictionaries</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145410Z" creationid="Marc Riera" creationdate="20190924T145410Z">
+        <seg>Com baixar i instal·lar diccionaris</seg>
       </tuv>
     </tu>
     <tu>
@@ -11120,6 +11203,15 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Problems with dictionaries</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145438Z" creationid="Marc Riera" creationdate="20190924T145438Z">
+        <seg>Problemes amb els diccionaris</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Procedure for configuring Microsoft Translator.</seg>
       </tuv>
@@ -11650,6 +11742,15 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181109T123909Z" creationid="mgalo" creationdate="20181109T123131Z">
         <seg>La cerca d'expressions regulars cerca expressions regulars de Java, documentades al Manual d'usuari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Regular expressions</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145738Z" creationid="Marc Riera" creationdate="20190924T145738Z">
+        <seg>Expressions regulars</seg>
       </tuv>
     </tu>
     <tu>
@@ -14360,6 +14461,22 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The glossary file does not have the correct extension (.tab, .utf8 or .txt).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145714Z" creationid="Marc Riera" creationdate="20190924T145714Z">
+        <seg>El fitxer del glossari no té l'extensió correcta (.tab, .utf8 o .txt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The glossary file is empty.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145651Z" creationid="Marc Riera" creationdate="20190924T145651Z">
+        <seg>El fitxer del glossari és buit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The install program can create shortcuts for you in the start menu, on the
 desktop and in the quick launch area.</seg>
       </tuv>
@@ -14644,6 +14761,14 @@ a /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181117T001600Z" creationid="mgalo" creationdate="20181113T095410Z">
         <seg>La llargada del text sobrepassa el límit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The third column can be used for additional information.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145547Z" creationid="Marc Riera" creationdate="20190924T145547Z">
+        <seg>La tercera columna es pot utilitzar per a informació addicional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15967,6 +16092,14 @@ a la línia {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Usage</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145507Z" creationid="Marc Riera" creationdate="20190924T145507Z">
+        <seg>Ús</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T101644Z" creationid="Marc Riera" creationdate="20190520T120824Z">
@@ -16829,6 +16962,60 @@ Tant la cerca exacta com la cerca per paraules clau admeten els caràcters comod
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>X*?</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150020Z" creationid="Marc Riera" creationdate="20190924T150020Z">
+        <seg>X*?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>X+?</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150022Z" creationid="Marc Riera" creationdate="20190924T150022Z">
+        <seg>X+?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>X&lt;e0&gt;*&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150011Z" creationid="Marc Riera" creationdate="20190924T150011Z">
+        <seg>X&lt;e0&gt;*&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>X&lt;e0&gt;+&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150014Z" creationid="Marc Riera" creationdate="20190924T150014Z">
+        <seg>X&lt;e0&gt;+&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150009Z" creationid="Marc Riera" creationdate="20190924T150009Z">
+        <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>X??</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150018Z" creationid="Marc Riera" creationdate="20190924T150018Z">
+        <seg>X??</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>XHTML</seg>
       </tuv>
@@ -16866,6 +17053,24 @@ Tant la cerca exacta com la cerca per paraules clau admeten els caràcters comod
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224506Z" creationid="Marc Riera" creationdate="20180214T224506Z">
         <seg>Opcions del filtre XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>XY</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150027Z" creationid="Marc Riera" creationdate="20190924T150027Z">
+        <seg>XY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>X|Y</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150029Z" creationid="Marc Riera" creationdate="20190924T150029Z">
+        <seg>X|Y</seg>
       </tuv>
     </tu>
     <tu>
@@ -17214,11 +17419,299 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>[\.,]\s*[\.,]+</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150056Z" creationid="Marc Riera" creationdate="20190924T150056Z">
+        <seg>[\.,]\s*[\.,]+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>[^abc]</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145926Z" creationid="Marc Riera" creationdate="20190924T145926Z">
+        <seg>[^abc]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>[a-zA-Z]</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145928Z" creationid="Marc Riera" creationdate="20190924T145928Z">
+        <seg>[a-zA-Z]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>[abc]</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145924Z" creationid="Marc Riera" creationdate="20190924T145924Z">
+        <seg>[abc]</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>[fuzzy]</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T115048Z" creationid="Marc Riera" creationdate="20180221T115048Z">
         <seg>[parcial]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145844Z" creationid="Marc Riera" creationdate="20190924T145844Z">
+        <seg>\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150058Z" creationid="Marc Riera" creationdate="20190924T150058Z">
+        <seg>\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\.[A-Z]</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150110Z" creationid="Marc Riera" creationdate="20190924T150110Z">
+        <seg>\.[A-Z]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\0mnn</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145834Z" creationid="Marc Riera" creationdate="20190924T145834Z">
+        <seg>\0mnn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\0n</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145827Z" creationid="Marc Riera" creationdate="20190924T145827Z">
+        <seg>\0n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\0nn</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145831Z" creationid="Marc Riera" creationdate="20190924T145831Z">
+        <seg>\0nn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\B</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150002Z" creationid="Marc Riera" creationdate="20190924T150002Z">
+        <seg>\B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\D</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145938Z" creationid="Marc Riera" creationdate="20190924T145938Z">
+        <seg>\D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\E</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145851Z" creationid="Marc Riera" creationdate="20190924T145851Z">
+        <seg>\E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\Q</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145849Z" creationid="Marc Riera" creationdate="20190924T145849Z">
+        <seg>\Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\S</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145945Z" creationid="Marc Riera" creationdate="20190924T145945Z">
+        <seg>\S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\W</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145951Z" creationid="Marc Riera" creationdate="20190924T145951Z">
+        <seg>\W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\\</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145847Z" creationid="Marc Riera" creationdate="20190924T145847Z">
+        <seg>\\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\a</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145818Z" creationid="Marc Riera" creationdate="20190924T145818Z">
+        <seg>\a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\b</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150000Z" creationid="Marc Riera" creationdate="20190924T150000Z">
+        <seg>\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\cx</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145825Z" creationid="Marc Riera" creationdate="20190924T145825Z">
+        <seg>\cx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\d</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145935Z" creationid="Marc Riera" creationdate="20190924T145935Z">
+        <seg>\d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\e</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145821Z" creationid="Marc Riera" creationdate="20190924T145821Z">
+        <seg>\e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\f</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145815Z" creationid="Marc Riera" creationdate="20190924T145815Z">
+        <seg>\f</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\n</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145811Z" creationid="Marc Riera" creationdate="20190924T145811Z">
+        <seg>\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\r</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145813Z" creationid="Marc Riera" creationdate="20190924T145813Z">
+        <seg>\r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\s</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145941Z" creationid="Marc Riera" creationdate="20190924T145941Z">
+        <seg>\s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\s+$</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150100Z" creationid="Marc Riera" creationdate="20190924T150100Z">
+        <seg>\s+$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\t</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145809Z" creationid="Marc Riera" creationdate="20190924T145809Z">
+        <seg>\t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\uhhhh</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145806Z" creationid="Marc Riera" creationdate="20190924T145806Z">
+        <seg>\uhhhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\w</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145948Z" creationid="Marc Riera" creationdate="20190924T145948Z">
+        <seg>\w</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>\xhh</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145838Z" creationid="Marc Riera" creationdate="20190924T145838Z">
+        <seg>\xhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>^</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145956Z" creationid="Marc Riera" creationdate="20190924T145956Z">
+        <seg>^</seg>
       </tuv>
     </tu>
     <tu>
@@ -17328,10 +17821,37 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145742Z" creationid="Marc Riera" creationdate="20190924T145742Z">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145859Z" creationid="Marc Riera" creationdate="20190924T145859Z">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T135109Z" creationid="Marc Riera" creationdate="20190924T135109Z">
         <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>http://weitz.de/regex-coach/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150047Z" creationid="Marc Riera" creationdate="20190924T150047Z">
+        <seg>http://weitz.de/regex-coach/</seg>
       </tuv>
     </tu>
     <tu>
@@ -17356,6 +17876,15 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T124658Z" creationid="mgalo" creationdate="20181115T124658Z">
         <seg>http://www.languagetool.org/languages/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>http://www.microsoft.com/Language/en-US/Terminology.aspx</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145608Z" creationid="Marc Riera" creationdate="20190924T145608Z">
+        <seg>http://www.microsoft.com/Language/en-US/Terminology.aspx</seg>
       </tuv>
     </tu>
     <tu>
@@ -17400,6 +17929,15 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180212T223300Z" creationid="Marc Riera" creationdate="20180212T223300Z">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145417Z" creationid="Marc Riera" creationdate="20190924T145417Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
       </tuv>
     </tu>
     <tu>
@@ -17570,6 +18108,15 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150525T175823Z" creationid="Stephanie" creationdate="20150525T175823Z">
         <seg>Una finestra similar a la de baix apareixerà:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>x</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145756Z" creationid="Marc Riera" creationdate="20190924T145756Z">
+        <seg>x</seg>
       </tuv>
     </tu>
     <tu>
