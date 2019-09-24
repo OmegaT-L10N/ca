@@ -45,6 +45,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Access Project Contents</seg>
       </tuv>
@@ -280,6 +281,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Dictionaries</seg>
       </tuv>
@@ -304,6 +306,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Edit</seg>
       </tuv>
@@ -449,6 +452,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Glossaries</seg>
       </tuv>
@@ -1077,11 +1081,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Source Files</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181108T000413Z" creationid="mgalo" creationdate="20181108T000413Z">
-        <seg>Fitxers de &amp;partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T110723Z" creationid="mgalo" creationdate="20181108T000413Z">
+        <seg>Fitxer&amp;s d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -1117,11 +1122,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Target Files</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181111T214756Z" creationid="mgalo" creationdate="20181111T214731Z">
-        <seg>Fi&amp;txers d'arribada</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T110714Z" creationid="mgalo" creationdate="20181111T214731Z">
+        <seg>Fi&amp;txers de destinació</seg>
       </tuv>
     </tu>
     <tu>
@@ -3726,8 +3732,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Commit Target Files</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T213535Z" creationid="mgalo" creationdate="20181112T213535Z">
-        <seg>Envia els fitxers d'arribada</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T110612Z" creationid="mgalo" creationdate="20181112T213535Z">
+        <seg>Envia els fitxers de destinació</seg>
       </tuv>
     </tu>
     <tu>
@@ -5011,6 +5017,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>E&amp;xport Selection</seg>
       </tuv>
@@ -6760,11 +6767,12 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>I&amp;nsert Source</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213705Z" creationid="Marc Riera" creationdate="20180210T213705Z">
-        <seg>I&amp;nsereix el text de partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T110933Z" creationid="Marc Riera" creationdate="20180210T213705Z">
+        <seg>I&amp;nsereix el text d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -11974,6 +11982,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Search and Replace...</seg>
       </tuv>
