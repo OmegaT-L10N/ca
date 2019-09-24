@@ -1398,6 +1398,36 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Specify a mode other than default (GUI).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T101934Z" creationid="Marc Riera" creationdate="20190924T101805Z">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Especifica un mode diferent del mode per defecte (GUI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--tag-validation=[abort|warn]
+		Validate tags.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T102007Z" creationid="Marc Riera" creationdate="20190924T102007Z">
+        <seg>--tag-validation=[abort|warn]
+		Valida les etiquetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T101740Z" creationid="Marc Riera" creationdate="20190924T101740Z">
+        <seg>-h, --help
+		Mostra la informació d'ús.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>...and around 30 other file formats</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150801T115109Z" creationid="Alexandra" creationdate="20150526T100826Z">
@@ -3632,6 +3662,18 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T110530Z" creationid="mgalo" creationdate="20181112T110530Z">
         <seg>Ordres:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Commands:
+	-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T102145Z" creationid="Marc Riera" creationdate="20190924T102145Z">
+        <seg>Ordres:
+	-h, --help
+		Mostra la informació d'ús.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7403,6 +7445,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Invoke `team -h` for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T101714Z" creationid="Marc Riera" creationdate="20190924T101714Z">
+        <seg>Invoqueu "team -h" per conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Is default translation</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110844Z" creationid="Marc Riera" creationdate="20190521T110844Z">
@@ -9387,6 +9437,7 @@ is to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT</seg>
       </tuv>
@@ -12008,6 +12059,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181114T122610Z" creationid="mgalo" creationdate="20181114T122433Z">
         <seg>Consulteu &lt;l1&gt;Filtres de fitxers&lt;/l1&gt; per veure la llista de formats de fitxers que admet l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Help &gt; User's Manual for more information.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T102119Z" creationid="Marc Riera" creationdate="20190924T102119Z">
+        <seg>Vegeu Ajuda &gt; Manual d'usuari per obtenir més informació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15192,8 +15251,8 @@ a la línia {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T120824Z" creationid="Marc Riera" creationdate="20190520T120824Z">
-        <seg>Ús: java -jar OmegaT.jar [&lt;opcions&gt;] [&lt;ruta del projecte&gt;]</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T101644Z" creationid="Marc Riera" creationdate="20190520T120824Z">
+        <seg>Ús: java -jar OmegaT.jar [&lt;opcions&gt;] [&lt;camí del projecte&gt;]</seg>
       </tuv>
     </tu>
     <tu>
@@ -16756,6 +16815,7 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>{0} {1}</seg>
       </tuv>
@@ -16764,6 +16824,7 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>{0} {1}_{2}</seg>
       </tuv>
@@ -16772,6 +16833,7 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>{0}-{1}_{2}_{3}</seg>
       </tuv>
@@ -16796,6 +16858,7 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>{0}_{1}</seg>
       </tuv>
@@ -16804,6 +16867,7 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>{0}_{1}_{2}</seg>
       </tuv>
