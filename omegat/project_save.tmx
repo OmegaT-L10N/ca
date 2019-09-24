@@ -1328,6 +1328,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T144954Z" creationid="Marc Riera" creationdate="20190924T144954Z">
+        <seg>(El fitxer executable del Java és el fitxer "java" al Linux i "java.exe" al Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(X)HTML Filter Options</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181109T234918Z" creationid="mgalo" creationdate="20181109T234918Z">
@@ -6348,6 +6356,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For this purpose download the following file and then execute it:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T144718Z" creationid="Marc Riera" creationdate="20190924T144718Z">
+        <seg>Per fer-ho, baixeu el fitxer següent i executeu-lo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181116T170511Z" creationid="mgalo" creationdate="20181116T170511Z">
@@ -6976,6 +6992,16 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181109T234836Z" creationid="mgalo" creationdate="20181109T234836Z">
         <seg>Si un fitxer HTML conté una declaració de codificació, s'aplicarà aquesta codificació independentment dels valors que trieu en aquest quadre de diàleg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If Java is installed at system level and is in the command path, the full path
+need not be entered.)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T144923Z" creationid="Marc Riera" creationdate="20190924T144923Z">
+        <seg>Si el Java està instal·lat per a tot el sistema i es troba al camí d'ordres,
+no cal introduir el camí complet.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8294,6 +8320,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Later calls do not need to be online.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T144742Z" creationid="Marc Riera" creationdate="20190924T144742Z">
+        <seg>Posteriorment no caldrà que estigueu en línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Latest</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T110925Z" creationid="mgalo" creationdate="20181112T110925Z">
@@ -8340,6 +8374,16 @@ durant la primera execució.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180212T224758Z" creationid="Marc Riera" creationdate="20180212T224758Z">
         <seg>Execució de l'OmegaT (Windows)
 ==========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launching OmegaT from the command line (all systems)
+====================================================</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T144811Z" creationid="Marc Riera" creationdate="20190924T144811Z">
+        <seg>Execució de l'OmegaT des de la línia d'ordres (tots els sistemes operatius)
+====================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -10712,6 +10756,14 @@ everything.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T113648Z" creationid="mgalo" creationdate="20181115T113648Z">
         <seg>Col·loqueu els fitxers de partida a ./source i els materials auxiliars a ./tm, ./glossary i ./dictionary segons correspongui i envieu-ho tot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the archive in any suitable folder and unpack it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T144542Z" creationid="Marc Riera" creationdate="20190924T144542Z">
+        <seg>Col·loqueu l'arxiu en qualsevol carpeta adequada i descomprimiu-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16948,6 +17000,15 @@ al menú d'inici, a l'escriptori o a la zona d'accés ràpid per enllaçar-lo de
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T123130Z" creationid="Marc Riera" creationdate="20190520T123130Z">
         <seg>Podeu anar a la &lt;a0&gt;pàgina d'inici&lt;/a0&gt; i potser hi trobareu la informació que necessiteu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can however obtain a neater and more user-friendly installation by using
+the installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T144644Z" creationid="Marc Riera" creationdate="20190924T144644Z">
+        <seg>Tanmateix, podeu obtenir una instal·lació més ordenada i amigable utilitzant l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
