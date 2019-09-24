@@ -3570,10 +3570,90 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check for doubled words</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150606Z" creationid="Marc Riera" creationdate="20190924T150606Z">
+        <seg>Comprova les paraules duplicades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for inconsistent numbers</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150714Z" creationid="Marc Riera" creationdate="20190924T150714Z">
+        <seg>Comprova les xifres incoherents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for leading whitespace</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150821Z" creationid="Marc Riera" creationdate="20190924T150810Z">
+        <seg>Comprova els espais en blanc inicials</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for segments with spelling errors</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150725Z" creationid="Marc Riera" creationdate="20190924T150725Z">
+        <seg>Comprova els segments amb errors ortogràfics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for trailing whitespace</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150827Z" creationid="Marc Riera" creationdate="20190924T150827Z">
+        <seg>Comprova els espais en blanc finals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for untranslated segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150747Z" creationid="Marc Riera" creationdate="20190924T150747Z">
+        <seg>Comprova els segments sense traduir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check number of tags</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150636Z" creationid="Marc Riera" creationdate="20190924T150636Z">
+        <seg>Comprova el nombre d'etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check punctuation at segment end</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150623Z" creationid="Marc Riera" creationdate="20190924T150623Z">
+        <seg>Comprova la puntuació al final del segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check sequence of tags</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150705Z" creationid="Marc Riera" creationdate="20190924T150705Z">
+        <seg>Comprova l'ordre de les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0})</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T223846Z" creationid="mgalo" creationdate="20181115T223846Z">
         <seg>Comprova els patrons MessageFormat de &amp;java simples (ex.: {0}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check spaces around tags</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150646Z" creationid="Marc Riera" creationdate="20190924T150646Z">
+        <seg>Comprova els espais al voltant de les etiquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -11020,6 +11100,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T221629Z" creationid="mgalo" creationdate="20181112T221629Z">
         <seg>Seleccioneu el comportament que voleu aplicar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please try again after you open a project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150854Z" creationid="Marc Riera" creationdate="20190924T150854Z">
+        <seg>Torneu-ho a provar després d'obrir un projecte.</seg>
       </tuv>
     </tu>
     <tu>
