@@ -153,6 +153,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Automatically Fetch Translations</seg>
       </tuv>
@@ -675,7 +676,8 @@
       </tuv>
     </tu>
     <tu>
-      <note>Informació / dades de modificació: triar-ne una i fer-la servir igual en tot el projecte.</note>
+      <note>&lt;status:approved&gt;
+Informació / dades de modificació: triar-ne una i fer-la servir igual en tot el projecte.</note>
       <tuv lang="en">
         <seg>&amp;Modification Info</seg>
       </tuv>
@@ -1225,6 +1227,15 @@
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181111T225433Z" creationid="mgalo" creationdate="20181111T225433Z">
         <seg>&amp;Valida les etiquetes en sortir d'un segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>&amp;View</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T154138Z" creationid="Marc Riera" creationdate="20190924T154138Z">
+        <seg>&amp;Visualització</seg>
       </tuv>
     </tu>
     <tu>
@@ -2257,6 +2268,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>API Key:</seg>
       </tuv>
@@ -2864,6 +2876,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Apertium</seg>
       </tuv>
@@ -3059,6 +3072,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Available dictionaries:</seg>
       </tuv>
@@ -3157,6 +3171,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Belazar</seg>
       </tuv>
@@ -4217,6 +4232,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Copy</seg>
       </tuv>
@@ -4554,6 +4570,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Cut</seg>
       </tuv>
@@ -4579,6 +4596,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>DeepL</seg>
       </tuv>
@@ -4587,6 +4605,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>DeepL Api key not available.</seg>
       </tuv>
@@ -4773,6 +4792,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Dictionary Installer</seg>
       </tuv>
@@ -4846,6 +4866,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Display &amp;None</seg>
       </tuv>
@@ -4911,6 +4932,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Display for &amp;All Segments</seg>
       </tuv>
@@ -4919,11 +4941,12 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Display for Current &amp;Segment</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T095823Z" creationid="mgalo" creationdate="20181112T095545Z">
-        <seg>Mostra per al se&amp;gment actual</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T154219Z" creationid="mgalo" creationdate="20181112T095545Z">
+        <seg>Mostra per al &amp;segment actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -5763,8 +5786,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Error while reading MT results</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T100711Z" creationid="mgalo" creationdate="20181112T100711Z">
-        <seg>S'ha produït un error en llegir els resultats del traductor automàtic</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T154452Z" creationid="mgalo" creationdate="20181112T100711Z">
+        <seg>S'ha produït un error en llegir els resultats de la traducció automàtica</seg>
       </tuv>
     </tu>
     <tu>
@@ -5784,6 +5807,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error {0}: {1}</seg>
       </tuv>
@@ -6570,6 +6594,7 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Found in:</seg>
       </tuv>
@@ -6850,6 +6875,7 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Google Api key not available.</seg>
       </tuv>
@@ -6866,6 +6892,7 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Google Translate v2</seg>
       </tuv>
@@ -7715,6 +7742,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Install</seg>
       </tuv>
@@ -7847,6 +7875,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Invalid API key</seg>
       </tuv>
@@ -8099,6 +8128,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>JAR files</seg>
       </tuv>
@@ -8371,6 +8401,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>LanguageTool</seg>
       </tuv>
@@ -8413,11 +8444,12 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>LanguageTool is not available for your target language.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181113T093948Z" creationid="mgalo" creationdate="20181113T093948Z">
-        <seg>LanguageTool no està disponible per a la vostra llengua d'arribada.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T154025Z" creationid="mgalo" creationdate="20181113T093948Z">
+        <seg>El LanguageTool no està disponible per a la vostra llengua de destinació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8968,6 +9000,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Manually defined rules</seg>
       </tuv>
@@ -9291,6 +9324,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Microsoft Translator</seg>
       </tuv>
@@ -9427,6 +9461,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Moses</seg>
       </tuv>
@@ -9435,6 +9470,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Moses Server URL:</seg>
       </tuv>
@@ -9557,6 +9593,7 @@ com ara la carpeta Aplicacions.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Multiple Translations</seg>
       </tuv>
@@ -9605,6 +9642,7 @@ com ara la carpeta Aplicacions.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Neural machine translation</seg>
       </tuv>
@@ -10041,6 +10079,7 @@ com ara la carpeta Aplicacions.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OK</seg>
       </tuv>
@@ -10948,6 +10987,7 @@ to be launched.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Paste</seg>
       </tuv>
@@ -12464,6 +12504,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Rules</seg>
       </tuv>
@@ -12910,8 +12951,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>See OmegaT manual for instructions.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T101054Z" creationid="mgalo" creationdate="20181112T101054Z">
-        <seg>Vegeu el Manual de l'OmegaT per a obtenir instruccions.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T154545Z" creationid="mgalo" creationdate="20181112T101054Z">
+        <seg>Vegeu el manual de l'OmegaT per a obtenir instruccions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14204,6 +14245,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Test</seg>
       </tuv>
@@ -14945,6 +14987,7 @@ a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The text could not be translated</seg>
       </tuv>
@@ -15041,11 +15084,12 @@ a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>There was an error initializing LanguageTool.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181113T094003Z" creationid="mgalo" creationdate="20181113T094003Z">
-        <seg>S'ha produït un error en iniciar LanguageTool.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T154035Z" creationid="mgalo" creationdate="20181113T094003Z">
+        <seg>S'ha produït un error en inicialitzar el LanguageTool.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15242,6 +15286,7 @@ a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This project</seg>
       </tuv>
@@ -16500,6 +16545,7 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Username or API Key:</seg>
       </tuv>
@@ -17279,6 +17325,7 @@ Tant la cerca exacta com la cerca per paraules clau admeten els caràcters comod
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Yandex Translate</seg>
       </tuv>
@@ -17616,6 +17663,7 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>[Fuzzy]</seg>
       </tuv>
