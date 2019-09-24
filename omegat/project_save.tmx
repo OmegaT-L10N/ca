@@ -2218,6 +2218,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ASCII Only</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T114241Z" creationid="Marc Riera" creationdate="20190924T114241Z">
+        <seg>Només ASCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aaron Madlon-Kay</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T123143Z" creationid="Marc Riera" creationdate="20190520T123143Z">
@@ -2806,6 +2814,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Appearance</seg>
       </tuv>
@@ -5249,8 +5258,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Enabled</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224158Z" creationid="Marc Riera" creationdate="20180214T224158Z">
-        <seg>Activat</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T114608Z" creationid="Marc Riera" creationdate="20180214T224158Z">
+        <seg>Habilitat</seg>
       </tuv>
     </tu>
     <tu>
@@ -6405,6 +6414,7 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>General</seg>
       </tuv>
@@ -8628,6 +8638,7 @@ is to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Master Password</seg>
       </tuv>
@@ -9269,10 +9280,26 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T114247Z" creationid="Marc Riera" creationdate="20190924T114247Z">
+        <seg>Cap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Normal</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T120700Z" creationid="Marc Riera" creationdate="20190520T120700Z">
         <seg>Normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not Set</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T114344Z" creationid="Marc Riera" creationdate="20190924T114344Z">
+        <seg>Sense definir</seg>
       </tuv>
     </tu>
     <tu>
@@ -9585,6 +9612,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T114540Z" creationid="Marc Riera" creationdate="20190924T114540Z">
+        <seg>L'OmegaT xifra les contrasenyes i claus API sensibles amb una contrasenya mestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT for Beginners tutorial</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150604T201830Z" creationid="Alexandra" creationdate="20150526T124839Z">
@@ -9870,6 +9905,7 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT {0} is now available.</seg>
       </tuv>
@@ -10271,6 +10307,7 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Password:</seg>
       </tuv>
@@ -11613,8 +11650,8 @@ si cal fer res més.</seg>
       <tuv lang="en">
         <seg>Reset Master Password</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T111359Z" creationid="Marc Riera" creationdate="20190521T111359Z">
-        <seg>Reinicialitza la contrasenya mestra</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T114324Z" creationid="Marc Riera" creationdate="20190521T111359Z">
+        <seg>Restableix la contrasenya mestra</seg>
       </tuv>
     </tu>
     <tu>
@@ -12113,6 +12150,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Secure Store</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T114556Z" creationid="Marc Riera" creationdate="20190924T114556Z">
+        <seg>Emmagatzematge segur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See "Chapter 3.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213157Z" creationid="Marc Riera" creationdate="20180210T213157Z">
@@ -12445,6 +12490,22 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181118T170107Z" creationid="mgalo" creationdate="20181118T170107Z">
         <seg>Tipus de servei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T114341Z" creationid="Marc Riera" creationdate="20190924T114341Z">
+        <seg>Definida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set &amp; Stored</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T114339Z" creationid="Marc Riera" creationdate="20190924T114339Z">
+        <seg>Definida i emmagatzemada</seg>
       </tuv>
     </tu>
     <tu>
@@ -13839,6 +13900,7 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The password you entered did not match.</seg>
       </tuv>
