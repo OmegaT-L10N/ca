@@ -7063,11 +7063,12 @@ is to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T124111Z" creationid="Marc Riera" creationdate="20190520T124111Z">
-        <seg>Si voleu fer servir a l'OmegaT la mateixa llengua que la utilitzada durant la instal·lació, marqueu la casella següent.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T134524Z" creationid="Marc Riera" creationdate="20190520T124111Z">
+        <seg>Si voleu utilitzar l'OmegaT en la mateixa llengua que vau utilitzar durant la instal·lació, marqueu la casella següent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10350,6 +10351,15 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150801T121702Z" creationid="Packard Bell" creationdate="20150801T121702Z">
         <seg>S'aconsella que la resta d'usuaris utilitzen &lt;a0&gt;Okapi Filters Plugin&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Otherwise, OmegaT will use the language of the operating system.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T134452Z" creationid="Marc Riera" creationdate="20190924T134452Z">
+        <seg>En cas contrari, l'OmegaT utilitzarà la llengua del sistema operatiu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15698,6 +15708,7 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Use the installation language in OmegaT</seg>
       </tuv>
