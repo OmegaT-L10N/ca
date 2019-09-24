@@ -2623,6 +2623,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Allow translated tags to be in a di&amp;fferent order</seg>
       </tuv>
@@ -3128,6 +3129,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Bad regular expression</seg>
       </tuv>
@@ -3899,6 +3901,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Comment:</seg>
       </tuv>
@@ -4856,11 +4859,12 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Display &amp;active source segment in bold</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181111T230045Z" creationid="mgalo" creationdate="20181111T230045Z">
-        <seg>Mostra el segment de partida actiu en negreta</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T152701Z" creationid="mgalo" creationdate="20181111T230045Z">
+        <seg>Mostra el segment d'origen &amp;actiu en negreta</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Display &amp;tags</seg>
       </tuv>
@@ -4888,8 +4892,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Display all &amp;source segments in bold</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180212T221237Z" creationid="Marc Riera" creationdate="20180212T221237Z">
-        <seg>Mostra tots els segments de &amp;partida en negreta</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T152651Z" creationid="Marc Riera" creationdate="20180212T221237Z">
+        <seg>Mostra tots els &amp;segments d'origen en negreta</seg>
       </tuv>
     </tu>
     <tu>
@@ -4952,8 +4956,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Displays the translation memories segments that match the source segment.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T090634Z" creationid="mgalo" creationdate="20181112T090634Z">
-        <seg>Mostra segments de les memòries de traducció que coincideixen amb el segment de partida.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T153021Z" creationid="mgalo" creationdate="20181112T090634Z">
+        <seg>Mostra els segments de les memòries de traducció que coincideixen amb el segment d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5978,8 +5982,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>External TMX Options</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181111T225644Z" creationid="mgalo" creationdate="20181111T225644Z">
-        <seg>Opcions per a memòries TMX externes</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T152439Z" creationid="mgalo" creationdate="20181111T225644Z">
+        <seg>Paràmetres de les memòries TMX externes</seg>
       </tuv>
     </tu>
     <tu>
@@ -6663,6 +6667,7 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Fuzzy Matches</seg>
       </tuv>
@@ -6792,8 +6797,8 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossary file: {0}</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180212T221348Z" creationid="Marc Riera" creationdate="20180212T221348Z">
-        <seg>Fitxer de glossari: {0}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T152815Z" creationid="Marc Riera" creationdate="20180212T221348Z">
+        <seg>Fitxer del glossari: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -10950,6 +10955,14 @@ to be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Penalty for matches in other languages:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T152503Z" creationid="Marc Riera" creationdate="20190924T152503Z">
+        <seg>Penalització de les coincidències en altres llengües:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Perhaps it is already opened in another OmegaT instance</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T225906Z" creationid="mgalo" creationdate="20181115T225906Z">
@@ -11684,6 +11697,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Proxy User and Password</seg>
       </tuv>
@@ -11846,6 +11860,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Regular expression for custom tags:</seg>
       </tuv>
@@ -11854,6 +11869,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Regular expression for fragments that should be removed from translation:</seg>
       </tuv>
@@ -13429,6 +13445,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Sort fuzzy matches by:</seg>
       </tuv>
@@ -13571,8 +13588,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Source term:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180212T221320Z" creationid="Marc Riera" creationdate="20180212T221320Z">
-        <seg>Terme de partida:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T152801Z" creationid="Marc Riera" creationdate="20180212T221320Z">
+        <seg>Terme d'origen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13952,6 +13969,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Tag Processing</seg>
       </tuv>
@@ -14061,8 +14079,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Target term:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180212T221325Z" creationid="Marc Riera" creationdate="20180212T221325Z">
-        <seg>Terme d'arribada:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T152806Z" creationid="Marc Riera" creationdate="20180212T221325Z">
+        <seg>Terme de destinació:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16424,6 +16442,7 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>User:</seg>
       </tuv>
@@ -16632,8 +16651,8 @@ subscriure-us-hi:</seg>
       <tuv lang="en">
         <seg>View Options</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181111T230016Z" creationid="mgalo" creationdate="20181111T230016Z">
-        <seg>Mostra les opcions</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T152636Z" creationid="mgalo" creationdate="20181111T230016Z">
+        <seg>Paràmetres de visualització</seg>
       </tuv>
     </tu>
     <tu>
