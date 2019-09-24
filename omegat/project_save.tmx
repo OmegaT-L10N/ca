@@ -7020,6 +7020,16 @@ del Kaptain inclòs (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager
+(Windows Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T141646Z" creationid="Marc Riera" creationdate="20190924T141646Z">
+        <seg>Si podeu veure el fitxer OmegaT però no OmegaT.exe al vostre gestor de fitxers
+(Explorador de Windows), canvieu la configuració perquè es mostrin les extensions dels fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150801T120705Z" creationid="Alexandra" creationdate="20150526T105347Z">
@@ -7099,6 +7109,16 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181114T120542Z" creationid="mgalo" creationdate="20181114T120359Z">
         <seg>Si els fitxers de partida són fitxers amb format, com, per exemple, de Microsoft Word, LibreOffice Writer o HTML, l'OmegaT convertirà els elements de format en etiquetes que envolten el text a traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If, during installation, you have created a shortcut on the desktop, double-
+click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T141355Z" creationid="Marc Riera" creationdate="20190924T141355Z">
+        <seg>En cas que hàgiu creat una drecera a l'escriptori durant la instal·lació,
+feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7728,6 +7748,16 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150525T225127Z" creationid="Stephanie" creationdate="20150525T180504Z">
         <seg>En primer lloc, remetrà els continguts actuals al repositori del servidor i després actualitzarà la còpia local del repositori i el contingut de subcarpeta .svn, de manera que tindrà els mateixos continguts que l'última versió del repositori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will install the correct environment for your computer and the application
+itself on the first run.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T141310Z" creationid="Marc Riera" creationdate="20190924T141310Z">
+        <seg>Això instal·larà l'entorn correcte per al vostre ordinador i l'aplicació en si
+durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9836,6 +9866,15 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180212T224238Z" creationid="Marc Riera" creationdate="20180212T224238Z">
         <seg>L'OmegaT és una obra original de Keith Godfrey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is then ready
+to be launched.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T141222Z" creationid="Marc Riera" creationdate="20190924T141222Z">
+        <seg>L'OmegaT està llest per executar-se.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14079,6 +14118,16 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The install program can create shortcuts for you in the start menu, on the
+desktop and in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T141431Z" creationid="Marc Riera" creationdate="20190924T141431Z">
+        <seg>El programa d'instal·lació pot crear dreceres al menú d'inici, a l'escriptori
+i a la zona d'accés ràpid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The key must then be given to OmegaT using -Dtaas.user.key=xxxxx.</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150523T171330Z" creationid="Stephanie" creationdate="20150523T170729Z">
@@ -14092,6 +14141,16 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T121453Z" creationid="Marc Riera" creationdate="20180214T223328Z">
         <seg>El codi de llengua ha de tenir el format xx-YY, xxx-YY, xx_YY o xxx_YY, on xx és el codi de llengua i YY és el codi de regió o país (opcional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The license of each library is mentionned
+in /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T141151Z" creationid="Marc Riera" creationdate="20190924T141133Z">
+        <seg>La llicència de cada biblioteca s'indica
+a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16644,6 +16703,17 @@ it from the Spotlight search field.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180212T232433Z" creationid="Marc Riera" creationdate="20180212T232418Z">
         <seg>També la podeu executar
 des del camp de cerca de l'Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also manually drag the file
+OmegaT.exe to the start menu, the desktop or the quick launch area to link it
+from there.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T141514Z" creationid="Marc Riera" creationdate="20190924T141514Z">
+        <seg>També podeu arrossegar manualment el fitxer OmegaT.exe
+al menú d'inici, a l'escriptori o a la zona d'accés ràpid per enllaçar-lo des d'allà.</seg>
       </tuv>
     </tu>
     <tu>
