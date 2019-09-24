@@ -2082,6 +2082,7 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>===============</seg>
       </tuv>
@@ -2093,8 +2094,8 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       <tuv lang="en">
         <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T123702Z" creationid="Marc Riera" creationdate="20180212T225930Z">
-        <seg>Aquesta traducció és obra de Marc Riera Irigoyen, basant-se en la traducció anterior
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T134829Z" creationid="Marc Riera" creationdate="20180212T225930Z">
+        <seg>Aquesta traducció és obra de Marc Riera Irigoyen i es basa en la traducció anterior
 de Jordi Serratosa Quintana, copyright © 2019.
 Han participat en la localització de l'OmegaT al català:
 Mikel Forcada Zubizarreta (versió 1.4)
@@ -2604,6 +2605,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Alt+F2</seg>
       </tuv>
@@ -4895,11 +4897,12 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Double-click on the OmegaT application.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180212T232305Z" creationid="Marc Riera" creationdate="20180212T231721Z">
-        <seg>Feu doble clic a l'aplicació de l'OmegaT.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T135129Z" creationid="Marc Riera" creationdate="20180212T231721Z">
+        <seg>Feu doble clic a l'aplicació OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7408,6 +7411,7 @@ is to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Installing OmegaT (Linux)
 =========================</seg>
@@ -7418,6 +7422,7 @@ is to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Installing OmegaT (Mac)
 =======================</seg>
@@ -7428,6 +7433,7 @@ is to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Installing OmegaT (Solaris, FreeBSD, ...)
 =========================================</seg>
@@ -7438,6 +7444,7 @@ is to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
@@ -8173,6 +8180,7 @@ is to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Launch the installation program.</seg>
       </tuv>
@@ -8181,6 +8189,7 @@ is to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Launching OmegaT (Linux)
 ========================</seg>
@@ -8191,6 +8200,7 @@ is to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Launching OmegaT (Mac)
 ======================</seg>
@@ -8201,6 +8211,7 @@ is to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Launching OmegaT (Windows)
 ==========================</seg>
@@ -8243,6 +8254,7 @@ is to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Licensing information
 =====================</seg>
@@ -9048,6 +9060,16 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T111057Z" creationid="mgalo" creationdate="20181112T111057Z">
         <seg>Mou cap amunt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move the folder to an
+appropriate location such as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T135029Z" creationid="Marc Riera" creationdate="20190924T135029Z">
+        <seg>Moveu la carpeta a una ubicació adequada,
+com ara la carpeta Aplicacions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9890,6 +9912,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150526T134831Z" creationid="Alexandra" creationdate="20150526T134831Z">
         <seg>Curs de formació d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT uses a number of librairies.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T134921Z" creationid="Marc Riera" creationdate="20190924T134921Z">
+        <seg>L'OmegaT utilitza diverses biblioteques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10742,8 +10772,8 @@ si cal fer res més.</seg>
         <seg>Prerequisites for installing OmegaT
 ===================================</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180212T223343Z" creationid="Marc Riera" creationdate="20180212T223343Z">
-        <seg>Requisits per instal·lar l'OmegaT
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T134934Z" creationid="Marc Riera" creationdate="20180212T223343Z">
+        <seg>Requisits per a instal·lar l'OmegaT
 ===================================</seg>
       </tuv>
     </tu>
@@ -16162,6 +16192,7 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>What is OmegaT?</seg>
       </tuv>
@@ -16636,6 +16667,7 @@ des del camp de cerca de l'Spotlight.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You can find the text of the license in
 /docs/OmegaT-license.txt.</seg>
@@ -16937,6 +16969,15 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181109T235311Z" creationid="mgalo" creationdate="20181109T235311Z">
         <seg>href (URL d'en&amp;llaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T135109Z" creationid="Marc Riera" creationdate="20190924T135109Z">
+        <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
