@@ -2317,8 +2317,8 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>Aborted.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T105900Z" creationid="Marc Riera" creationdate="20190521T105900Z">
-        <seg>S'ha avortat.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T071155Z" creationid="Marc Riera" creationdate="20190521T105900Z">
+        <seg>S'ha interromput.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2352,6 +2352,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181108T153150Z" creationid="mgalo" creationdate="20181108T153150Z">
         <seg>Accedeix a la carpe&amp;ta de configuració</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Scripts Folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T070931Z" creationid="Marc Riera" creationdate="20190925T070931Z">
+        <seg>Accedeix a la carpeta de scripts</seg>
       </tuv>
     </tu>
     <tu>
@@ -2784,6 +2792,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223347Z" creationid="Marc Riera" creationdate="20180214T223347Z">
         <seg>S'ha produït un error en crear una carpeta nova</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while trying to run console process: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T071438Z" creationid="Marc Riera" creationdate="20190925T071438Z">
+        <seg>S'ha produït un error en intentar executar el procés de la consola: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4428,6 +4444,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create pseudo-translate TMX</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T071214Z" creationid="Marc Riera" creationdate="20190925T071214Z">
+        <seg>Crea un fitxer TMX amb una pseudotraducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create your own key then input it below.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T104255Z" creationid="mgalo" creationdate="20181112T104255Z">
@@ -5933,6 +5957,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112533Z" creationid="Marc Riera" creationdate="20180221T112533Z">
         <seg>S'està executant una ordre externa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Executing script {0} (event {1})</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T071501Z" creationid="Marc Riera" creationdate="20190925T071501Z">
+        <seg>S'està executant l'script {0} (esdeveniment {1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -10154,6 +10186,14 @@ com ara la carpeta Aplicacions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Javadoc...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T071102Z" creationid="Marc Riera" creationdate="20190925T071102Z">
+        <seg>Javadoc de l'OmegaT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Project Files</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223238Z" creationid="Marc Riera" creationdate="20180214T223238Z">
@@ -13273,6 +13313,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T114339Z" creationid="Marc Riera" creationdate="20190924T114339Z">
         <seg>Definida i emmagatzemada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set Scripts Folder...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T070922Z" creationid="Marc Riera" creationdate="20190925T070922Z">
+        <seg>Defineix la carpeta de scripts...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17064,6 +17112,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T215930Z" creationid="mgalo" creationdate="20181109T123816Z">
         <seg>Caràcters comodí:
 Tant la cerca exacta com la cerca per paraules clau admeten els caràcters comodí «*» i «?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Will be synchronized next time.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T071546Z" creationid="Marc Riera" creationdate="20190925T071546Z">
+        <seg>Se sincronitzarà la pròxima vegada.</seg>
       </tuv>
     </tu>
     <tu>
