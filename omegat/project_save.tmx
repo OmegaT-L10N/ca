@@ -1376,6 +1376,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(You will still able to use OmegaT
+3.6 to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T073657Z" creationid="Marc Riera" creationdate="20190925T073657Z">
+        <seg>(Encara podreu utilitzar l'OmegaT 3.6
+per a editar-lo com un projecte en equip.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(close tag)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223843Z" creationid="Marc Riera" creationdate="20180214T223843Z">
@@ -1960,8 +1970,8 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       <tuv lang="en">
         <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110508Z" creationid="Marc Riera" creationdate="20190521T110508Z">
-        <seg>&lt;html&gt;URL del repositori:&lt;/html&gt;</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T073822Z" creationid="Marc Riera" creationdate="20190521T110508Z">
+        <seg>&lt;html&gt;URL del dipòsit:&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3529,6 +3539,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Character table</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074240Z" creationid="Marc Riera" creationdate="20190925T074240Z">
+        <seg>Taula de caràcters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Character table auto-completer options</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T103445Z" creationid="mgalo" creationdate="20181112T103445Z">
@@ -4333,8 +4351,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Could not save credentials to text file</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T113127Z" creationid="Marc Riera" creationdate="20190521T113127Z">
-        <seg>No s'han pogut desar les credencials a un fitxer de text</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T073858Z" creationid="Marc Riera" creationdate="20190521T113127Z">
+        <seg>No s'han pogut desar les credencials en un fitxer de text</seg>
       </tuv>
     </tu>
     <tu>
@@ -4756,6 +4774,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Detecting...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T073909Z" creationid="Marc Riera" creationdate="20190925T073909Z">
+        <seg>S'està detectant...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Developers</seg>
@@ -5009,6 +5035,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T224019Z" creationid="mgalo" creationdate="20181115T224019Z">
         <seg>Mostra les entrades de diccionari que apareixen en els fitxers de diccionari de la carpeta /dictionary/ si estan presents en el segment de partida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074359Z" creationid="Marc Riera" creationdate="20190925T074359Z">
+        <seg>Mostra les entrades com a "&lt;destinació&gt; → &lt;origen&gt;"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5822,6 +5856,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error updating repository.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074034Z" creationid="Marc Riera" creationdate="20190925T074034Z">
+        <seg>S'ha produït un error en actualitzar el dipòsit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while reading MT results</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T154452Z" creationid="mgalo" creationdate="20181112T100711Z">
@@ -5851,6 +5893,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T100736Z" creationid="mgalo" creationdate="20181112T100736Z">
         <seg>Error {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074040Z" creationid="Marc Riera" creationdate="20190925T074040Z">
+        <seg>Error: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6021,6 +6071,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181109T231847Z" creationid="mgalo" creationdate="20181109T231847Z">
         <seg>En&amp;llaços externs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Post-processing Command</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074101Z" creationid="Marc Riera" creationdate="20190925T074101Z">
+        <seg>Ordre de postprocessament extern</seg>
       </tuv>
     </tu>
     <tu>
@@ -6866,6 +6924,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary auto-completer options</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074334Z" creationid="Marc Riera" creationdate="20190925T074334Z">
+        <seg>Paràmetres de l'emplenament automàtic del glossari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary entries</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T103000Z" creationid="mgalo" creationdate="20181112T103000Z">
@@ -7161,9 +7227,25 @@ del Kaptain inclòs (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>History Completions</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074302Z" creationid="Marc Riera" creationdate="20190925T074302Z">
+        <seg>Emplenament a partir de l'historial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>History Prediction</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181108T152742Z" creationid="mgalo" creationdate="20181108T152742Z">
+        <seg>Predicció a partir de l'historial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History Predictions</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074305Z" creationid="Marc Riera" creationdate="20190925T074305Z">
         <seg>Predicció a partir de l'historial</seg>
       </tuv>
     </tu>
@@ -9898,6 +9980,14 @@ com ara la carpeta Aplicacions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-breakable space</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074124Z" creationid="Marc Riera" creationdate="20190925T074124Z">
+        <seg>Espai no separables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-breakable spaces</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T111312Z" creationid="mgalo" creationdate="20181112T111312Z">
@@ -10919,6 +11009,14 @@ to be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Orphaned</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074202Z" creationid="Marc Riera" creationdate="20190925T074202Z">
+        <seg>Orfe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T112623Z" creationid="mgalo" creationdate="20181112T112623Z">
@@ -11232,10 +11330,26 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please enter username/password</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T073750Z" creationid="Marc Riera" creationdate="20190925T073750Z">
+        <seg>Introduïu l'usuari i la contrasenya</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter your name/ID.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T115026Z" creationid="Marc Riera" creationdate="20180221T115026Z">
         <seg>Escriviu el vostre nom/ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please redo tag validation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074225Z" creationid="Marc Riera" creationdate="20190925T074225Z">
+        <seg>Torneu a validar les etiquetes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12389,6 +12503,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T113209Z" creationid="mgalo" creationdate="20181218T201543Z">
         <seg>Dipòsit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository Credentials</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T073940Z" creationid="Marc Riera" creationdate="20190925T073940Z">
+        <seg>Credencials del dipòsit</seg>
       </tuv>
     </tu>
     <tu>
@@ -14058,6 +14180,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Synchronisation of repositories</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T073951Z" creationid="Marc Riera" creationdate="20190925T073951Z">
+        <seg>Sincronització de dipòsits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Synchronization error</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T102754Z" creationid="mgalo" creationdate="20181112T102754Z">
@@ -14143,6 +14273,22 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T104500Z" creationid="mgalo" creationdate="20181112T104500Z">
         <seg>Terminologia TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074141Z" creationid="Marc Riera" creationdate="20190925T074141Z">
+        <seg>Tabulació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074144Z" creationid="Marc Riera" creationdate="20190925T074144Z">
+        <seg>Etiqueta</seg>
       </tuv>
     </tu>
     <tu>
@@ -14944,8 +15090,8 @@ a /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The project was converted successfully.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T112120Z" creationid="Marc Riera" creationdate="20190521T112120Z">
-        <seg>S'ha convertit el projecte amb èxit.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T073707Z" creationid="Marc Riera" creationdate="20190521T112120Z">
+        <seg>S'ha convertit el projecte correctament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15116,6 +15262,14 @@ a /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223329Z" creationid="Marc Riera" creationdate="20180214T223329Z">
         <seg>La llengua dels fitxers traduïts que heu especificat no és vàlida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translation has changed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074216Z" creationid="Marc Riera" creationdate="20190925T074216Z">
+        <seg>La traducció ha canviat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15294,6 +15448,14 @@ a /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150801T121616Z" creationid="Alexandra" creationdate="20150526T140249Z">
         <seg>Aquesta col·lecció de scripts pot ser útil per scripters amb coneixement de tcl/tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This command will be executed after Creating Translated Documents.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074115Z" creationid="Marc Riera" creationdate="20190925T074115Z">
+        <seg>S'executarà aquesta ordre després de crear els documents traduïts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16381,6 +16543,14 @@ a la línia {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unspecified</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074206Z" creationid="Marc Riera" creationdate="20190925T074206Z">
+        <seg>No especificat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unsupported XML version {0}!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223815Z" creationid="Marc Riera" creationdate="20180214T223815Z">
@@ -17122,6 +17292,14 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Whitespace</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074200Z" creationid="Marc Riera" creationdate="20190925T074200Z">
+        <seg>Espai en blanc</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Whitespace - leading</seg>
@@ -17308,6 +17486,14 @@ Tant la cerca exacta com la cerca per paraules clau admeten els caràcters comod
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150526T140623Z" creationid="Alexandra" creationdate="20150526T140623Z">
         <seg>Escrit en Python/Perl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong authentication</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T073813Z" creationid="Marc Riera" creationdate="20190925T073813Z">
+        <seg>L'autenticació és incorrecta</seg>
       </tuv>
     </tu>
     <tu>
