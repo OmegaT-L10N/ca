@@ -2281,6 +2281,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>API Key (optional)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="marc" changedate="20191030T211110Z" creationid="marc" creationdate="20191030T211110Z">
+        <seg>Clau API (opcional)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>API Key:</seg>
@@ -4168,6 +4176,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Connect to custom server instead of apertium.org</seg>
+      </tuv>
+      <tuv lang="ca" changeid="marc" changedate="20191030T211204Z" creationid="marc" creationdate="20191030T211204Z">
+        <seg>Connecta't a un servidor personalitzat en comptes d'apertium.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190925T072732Z" creationid="Marc Riera" creationdate="20190925T072732Z">
@@ -4651,6 +4667,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T111147Z" creationid="mgalo" creationdate="20181112T111147Z">
         <seg>Selecció dels colors personalitzats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom server URL</seg>
+      </tuv>
+      <tuv lang="ca" changeid="marc" changedate="20191030T211105Z" creationid="marc" creationdate="20191030T211105Z">
+        <seg>URL del servidor personalitzat</seg>
       </tuv>
     </tu>
     <tu>
@@ -5239,6 +5263,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Domains</seg>
+      </tuv>
+      <tuv lang="ca" changeid="marc" changedate="20191030T211517Z" creationid="marc" creationdate="20191030T211517Z">
+        <seg>Àmbits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Donations</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150526T110310Z" creationid="Alexandra" creationdate="20150526T110310Z">
@@ -5711,6 +5743,22 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T143123Z" creationid="Marc Riera" creationdate="20190924T143123Z">
         <seg>Traductors de la versió en anglès</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure the URL is correct.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="marc" changedate="20191030T211252Z" creationid="marc" creationdate="20191030T211252Z">
+        <seg>Assegureu-vos que l'URL és correcte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure the server URL is correct.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="marc" changedate="20191030T211219Z" creationid="marc" creationdate="20191030T211219Z">
+        <seg>Assegureu-vos que l'URL del servidor és correcte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7449,6 +7497,16 @@ no cal introduir el camí complet.)</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181114T122226Z" creationid="mgalo" creationdate="20181114T121817Z">
         <seg>Si un fitxer no es carrega en el panell de l'&lt;g0&gt;Editor&lt;/g0&gt;, podria ser que estigui en un format no compatible amb l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If invoked in a git working tree or svn checkout, the results
+		will be staged/added.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="apujo" changedate="20181203T113812Z" creationid="apujo" creationdate="20181203T113812Z">
+        <seg>If invoked in a git working tree or svn checkout, the results
+		will be staged/added.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9597,6 +9655,22 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modification info</seg>
+      </tuv>
+      <tuv lang="ca" changeid="marc" changedate="20191030T211709Z" creationid="marc" creationdate="20191030T211709Z">
+        <seg>Informació de modificació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modification info text</seg>
+      </tuv>
+      <tuv lang="ca" changeid="marc" changedate="20191030T211718Z" creationid="marc" creationdate="20191030T211718Z">
+        <seg>Text de la informació de modificació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modifications to the original document are thus handled with greater ease.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181116T165421Z" creationid="mgalo" creationdate="20181116T165421Z">
@@ -11393,6 +11467,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="marc" changedate="20191030T211413Z" creationid="marc" creationdate="20191030T211413Z">
+        <seg>Introduïu el nom d'aquest conjunt:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter username/password</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190925T073750Z" creationid="Marc Riera" creationdate="20190925T073750Z">
@@ -12948,6 +13030,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save Current Set...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="marc" changedate="20191030T211403Z" creationid="marc" creationdate="20191030T211403Z">
+        <seg>Desa el conjunt actual...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save Script</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T105705Z" creationid="Marc Riera" creationdate="20190521T105705Z">
@@ -13553,6 +13643,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Server does not understand the "translate" method</seg>
+      </tuv>
+      <tuv lang="ca" changeid="marc" changedate="20191030T211328Z" creationid="marc" creationdate="20191030T211328Z">
+        <seg>El servidor no entén el mètode «translate»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Service type</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181118T170107Z" creationid="mgalo" creationdate="20181118T170107Z">
@@ -13606,6 +13704,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181114T114822Z" creationid="mgalo" creationdate="20181113T174338Z">
         <seg>Creeu un projecte nou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sets</seg>
+      </tuv>
+      <tuv lang="ca" changeid="marc" changedate="20191030T211356Z" creationid="marc" creationdate="20191030T211356Z">
+        <seg>Conjunts</seg>
       </tuv>
     </tu>
     <tu>
@@ -13909,6 +14015,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T112606Z" creationid="Marc Riera" creationdate="20180214T223114Z">
         <seg>Carpeta dels fitxers d'origen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source count</seg>
+      </tuv>
+      <tuv lang="ca" changeid="marc" changedate="20191030T211524Z" creationid="marc" creationdate="20191030T211524Z">
+        <seg>Recompte d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -14438,6 +14552,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tags</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191030T211752Z" creationid="marc" creationdate="20191030T211600Z">
+        <seg>Etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tags - number</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T132805Z" creationid="Marc Riera" creationdate="20190520T124417Z">
@@ -14467,6 +14589,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T132632Z" creationid="mgalo" creationdate="20181112T112841Z">
         <seg>Text de destinació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target count</seg>
+      </tuv>
+      <tuv lang="ca" changeid="marc" changedate="20191030T211530Z" creationid="marc" creationdate="20191030T211530Z">
+        <seg>Recompte de destinació</seg>
       </tuv>
     </tu>
     <tu>
@@ -15236,6 +15366,14 @@ a /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181116T162119Z" creationid="Stephanie" creationdate="20150523T160317Z">
         <seg>El servidor pot existir a la xarxa local, però en la majoria dels casos està disponible a Internet a través d'un localitzador URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The server is not a valid Apertium server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="marc" changedate="20191030T211233Z" creationid="marc" creationdate="20191030T211233Z">
+        <seg>El servidor no és un servidor d'Apertium vàlid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16379,6 +16517,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112520Z" creationid="Marc Riera" creationdate="20180221T112520Z">
         <seg>No es pot muntar el fitxer TMX nou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to connect to server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="marc" changedate="20191030T211143Z" creationid="marc" creationdate="20191030T211143Z">
+        <seg>No s'ha pogut connectar al servidor.</seg>
       </tuv>
     </tu>
     <tu>
