@@ -2164,10 +2164,8 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       <tuv lang="en">
         <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T134829Z" creationid="Marc Riera" creationdate="20180212T225930Z">
-        <seg>Aquesta traducció és obra de Marc Riera Irigoyen i es basa en la traducció anterior
-de Jordi Serratosa Quintana, copyright © 2019.
-Han participat en la localització de l'OmegaT al català:
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T190337Z" creationid="Marc Riera" creationdate="20180212T225930Z">
+        <seg>Han participat en la localització de l'OmegaT al català:
 Mikel Forcada Zubizarreta (versió 1.4)
 Jordi Serratosa Quintana (versió 1.6 a 3.0)
 Mariona Galofré Pujol (versió 4.1)
@@ -2337,6 +2335,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190925T071155Z" creationid="Marc Riera" creationdate="20190521T105900Z">
         <seg>S'ha interromput.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T184832Z" creationid="Marc Riera" creationdate="20191110T184832Z">
+        <seg>Quant a</seg>
       </tuv>
     </tu>
     <tu>
@@ -5310,6 +5316,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T124347Z" creationid="Marc Riera" creationdate="20190520T124347Z">
         <seg>Paraules duplicades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T184837Z" creationid="Marc Riera" creationdate="20191110T184837Z">
+        <seg>Baixa</seg>
       </tuv>
     </tu>
     <tu>
@@ -10378,6 +10392,22 @@ com ara la carpeta Aplicacions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OS X Signed</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T184733Z" creationid="Marc Riera" creationdate="20191110T184723Z">
+        <seg>OS X signat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OS X Unsigned</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T184730Z" creationid="Marc Riera" creationdate="20191110T184730Z">
+        <seg>OS X sense signar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181114T120556Z" creationid="mgalo" creationdate="20181114T120459Z">
@@ -10573,8 +10603,11 @@ com ara la carpeta Aplicacions.</seg>
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T144029Z" creationid="Marc Riera" creationdate="20190924T144029Z">
-        <seg>L'OmegaT és una eina gratuïta, de codi obert i multiplataforma de traducció assistida per ordinador, amb coincidències parcials, memòria de traducció, cerca de paraules clau, glossaris i aprofitament de traduccions en projectes actualitzats.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T190258Z" creationid="Marc Riera" creationdate="20190924T144029Z">
+        <seg>L'OmegaT és una eina gratuïta, de codi obert i multiplataforma de traducció
+assistida per ordinador, amb coincidències parcials, memòria de traducció,
+cerca de paraules clau, glossaris i aprofitament de traduccions en projectes
+actualitzats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10687,6 +10720,15 @@ to be launched.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180210T212957Z" creationid="Marc Riera" creationdate="20180210T212957Z">
         <seg>L'OmegaT no té prou memòria i es tancarà quan feu clic a D'acord.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
+installed on your system.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T185053Z" creationid="Marc Riera" creationdate="20191110T185053Z">
+        <seg>L'OmegaT requereix que tingueu instal·lada la versió 1.8 o posterior del Java Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11248,6 +11290,14 @@ to be launched.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224211Z" creationid="Marc Riera" creationdate="20180214T224211Z">
         <seg>Opcions del filtre PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Page Not Found</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T184854Z" creationid="Marc Riera" creationdate="20191110T184854Z">
+        <seg>No s'ha trobat la pàgina</seg>
       </tuv>
     </tu>
     <tu>
@@ -14027,6 +14077,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source code</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T184710Z" creationid="Marc Riera" creationdate="20191110T184710Z">
+        <seg>Codi font</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source count</seg>
       </tuv>
       <tuv lang="ca" changeid="marc" changedate="20191030T211524Z" creationid="marc" creationdate="20191030T211524Z">
@@ -14923,6 +14981,14 @@ L'àmbit de la substitució de text són els segments d'arribada del projecte, i
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114454Z" creationid="Marc Riera" creationdate="20180221T114454Z">
         <seg>El filtre DTD de Mozilla ha generat una excepció:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT Project</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T184844Z" creationid="Marc Riera" creationdate="20191110T184844Z">
+        <seg>El projecte OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -15995,6 +16061,20 @@ d'instal·lar el Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use this script, open a
+terminal window (console), change folder to the folder containing OmegaT.jar
+and the linux-install.sh script, and execute the script with ./linux-
+install.sh.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T185543Z" creationid="Marc Riera" creationdate="20191110T185423Z">
+        <seg>Per utilitzar aquest script,
+obriu una finestra del terminal (consola), canvieu la carpeta de treball
+a la carpeta que conté els fitxers OmegaT.jar i linux-install.sh
+i executeu l'script amb «./linux-install.sh».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150523T161643Z" creationid="Stephanie" creationdate="20150523T161643Z">
@@ -16788,6 +16868,15 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a
+documentation file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T185226Z" creationid="Marc Riera" creationdate="20191110T185226Z">
+        <seg>Descomprimiu l'arxiu .zip de l'OmegaT per obtenir una carpeta que conté un fitxer de documentació i l'aplicació OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unrecoverable error while parsing TMX file
 {0}
 on line {1}, column {2}.</seg>
@@ -17019,6 +17108,7 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>User interface language for OmegaT</seg>
       </tuv>
@@ -17392,6 +17482,24 @@ subscriure-us-hi:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T123036Z" creationid="Marc Riera" creationdate="20190520T123036Z">
         <seg>No hem pogut trobar la pàgina que cercàveu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the
+trouble of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T185717Z" creationid="Marc Riera" creationdate="20191110T185143Z">
+        <seg>Us recomanem que utilitzeu els paquets de l'OmegaT que inclouen el JRE,
+per estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Web Start</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T184716Z" creationid="Marc Riera" creationdate="20191110T184716Z">
+        <seg>Inici web</seg>
       </tuv>
     </tu>
     <tu>
@@ -18043,8 +18151,9 @@ al menú d'inici, a l'escriptori o a la zona d'accés ràpid per enllaçar-lo de
         <seg>You can however obtain a neater and more user-friendly installation by using
 the installation script (linux-install.sh).</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T144644Z" creationid="Marc Riera" creationdate="20190924T144644Z">
-        <seg>Tanmateix, podeu obtenir una instal·lació més ordenada i amigable utilitzant l'script d'instal·lació (linux-install.sh).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T185522Z" creationid="Marc Riera" creationdate="20190924T144644Z">
+        <seg>Tanmateix, podeu obtenir una instal·lació més ordenada i amigable utilitzant
+l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
