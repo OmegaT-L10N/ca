@@ -265,8 +265,8 @@
       <tuv lang="en">
         <seg>&amp;Close</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T113936Z" creationid="Kos Ivantsov" creationdate="20170906T153824Z">
-        <seg>&amp;Tanca</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T220139Z" creationid="Kos Ivantsov" creationdate="20170906T153824Z">
+        <seg>Tan&amp;ca</seg>
       </tuv>
     </tu>
     <tu>
@@ -513,8 +513,8 @@
       <tuv lang="en">
         <seg>&amp;Go To Downloads</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T105518Z" creationid="mgalo" creationdate="20181112T105518Z">
-        <seg>&amp;Ves a les baixades</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T220159Z" creationid="mgalo" creationdate="20181112T105518Z">
+        <seg>&amp;Vés a les baixades</seg>
       </tuv>
     </tu>
     <tu>
@@ -3673,6 +3673,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check &amp;automatically</seg>
       </tuv>
@@ -17091,6 +17092,7 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Updates</seg>
       </tuv>
@@ -18358,6 +18360,7 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You currently have {1}.</seg>
       </tuv>
