@@ -2478,7 +2478,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>Active segment source</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T225214Z" creationid="mgalo" creationdate="20181112T104733Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T230133Z" creationid="mgalo" creationdate="20181112T104733Z">
         <seg>Segment d'origen actiu</seg>
       </tuv>
     </tu>
@@ -2486,7 +2486,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>Active segment source text</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T225223Z" creationid="mgalo" creationdate="20181112T104739Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T230146Z" creationid="mgalo" creationdate="20181112T104739Z">
         <seg>Text del segment d'origen actiu</seg>
       </tuv>
     </tu>
@@ -2494,7 +2494,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>Active segment target</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T225232Z" creationid="mgalo" creationdate="20181112T104802Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T230153Z" creationid="mgalo" creationdate="20181112T104802Z">
         <seg>Segment de destinació actiu</seg>
       </tuv>
     </tu>
@@ -2502,8 +2502,8 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>Active segment target text</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T104808Z" creationid="mgalo" creationdate="20181112T104808Z">
-        <seg>Text del segment d'arribada actiu</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T230208Z" creationid="mgalo" creationdate="20181112T104808Z">
+        <seg>Text del segment de destinació actiu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3358,6 +3358,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150604T184820Z" creationid="Alexandra" creationdate="20150526T132305Z">
         <seg>A continuació es mostra una llista dels àmbits en què els voluntaris serien més que benvinguts!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bidirectional control characters</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T230232Z" creationid="Marc Riera" creationdate="20191110T230232Z">
+        <seg>Caràcters de control bidireccional</seg>
       </tuv>
     </tu>
     <tu>
@@ -14564,16 +14572,16 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Source segments</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T105025Z" creationid="mgalo" creationdate="20181112T105025Z">
-        <seg>Segments de partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T225853Z" creationid="mgalo" creationdate="20181112T105025Z">
+        <seg>Segments d'origen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Source segments text</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T105033Z" creationid="mgalo" creationdate="20181112T105033Z">
-        <seg>Text dels segments de partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T225858Z" creationid="mgalo" creationdate="20181112T105033Z">
+        <seg>Text dels segments d'origen</seg>
       </tuv>
     </tu>
     <tu>
