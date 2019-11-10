@@ -11630,6 +11630,14 @@ Runtime Environment (JRE) al sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paragraph delimitation</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T230317Z" creationid="Marc Riera" creationdate="20191110T230317Z">
+        <seg>Separació de paràgrafs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paragraph segmentation is less frequently used, but can be useful in cases of so-called "creative" texts.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181117T010005Z" creationid="mgalo" creationdate="20181117T010005Z">
@@ -14623,6 +14631,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161907Z" creationid="Packard Bell" creationdate="20150605T161907Z">
         <seg>Verificació ortogràfica...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spellcheck</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T230359Z" creationid="Marc Riera" creationdate="20191110T230359Z">
+        <seg>Corrector ortogràfic</seg>
       </tuv>
     </tu>
     <tu>
@@ -19746,6 +19762,16 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">COLOR_REPLACE</prop>
+      <tuv lang="en">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T230345Z" creationid="Marc Riera" creationdate="20191110T230345Z">
+        <seg>Substitució</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">doc_src/InstantStartGuide.xml</prop>
       <prop type="prev"></prop>
