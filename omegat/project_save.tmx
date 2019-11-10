@@ -3326,6 +3326,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Both</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T222717Z" creationid="Marc Riera" creationdate="20191110T222717Z">
+        <seg>Tots dos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Break/Exception</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181110T001744Z" creationid="mgalo" creationdate="20181110T001744Z">
@@ -3992,10 +4000,26 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Command delimiter is empty</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T222650Z" creationid="Marc Riera" creationdate="20191110T222650Z">
+        <seg>El delimitador de l'ordre està buit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Command does not contain "{0}"</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T111331Z" creationid="Marc Riera" creationdate="20190521T111331Z">
         <seg>L'ordre no conté «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command is missing delimiter</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T222652Z" creationid="Marc Riera" creationdate="20191110T222604Z">
+        <seg>L'ordre no conté el delimitador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10221,6 +10245,14 @@ adequada, com ara la carpeta Aplicacions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-ASCII Only</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T222712Z" creationid="Marc Riera" creationdate="20191110T222712Z">
+        <seg>Només no ASCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-breakable space</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T202044Z" creationid="Marc Riera" creationdate="20190925T074124Z">
@@ -12097,6 +12129,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T222747Z" creationid="Marc Riera" creationdate="20191110T222747Z">
+        <seg>Les ordres de projecte estan inhabilitades per raons de seguretat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project compiling end</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T221935Z" creationid="mgalo" creationdate="20181112T221935Z">
@@ -13129,8 +13169,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Sample Output</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T110740Z" creationid="mgalo" creationdate="20181112T110740Z">
-        <seg>Mostra d'exemple</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T222301Z" creationid="mgalo" creationdate="20181112T110740Z">
+        <seg>Exemple de resultat</seg>
       </tuv>
     </tu>
     <tu>
@@ -15226,8 +15266,8 @@ Proveu de corregir l'error i torneu a carregar el projecte.</seg>
       <tuv lang="en">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T221705Z" creationid="Marc Riera" creationdate="20191110T221705Z">
-        <seg>L'URL ha d'incloure «{target}», que se substituirà pel text de cerca.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T221827Z" creationid="Marc Riera" creationdate="20191110T221705Z">
+        <seg>L'URL ha d'incloure «{target}», que es reemplaçarà amb el text de cerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15276,6 +15316,14 @@ Proveu de corregir l'error i torneu a carregar el projecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150603T105458Z" creationid="Stephanie" creationdate="20150524T180821Z">
         <seg>Les col·leccions es descarreguen com a glossaris TBX a la carpeta glossari que s'estigui utilitzant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The command must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T222217Z" creationid="Marc Riera" creationdate="20191110T222217Z">
+        <seg>L'ordre ha d'incloure «{target}», que es reemplaçarà amb el text de cerca.</seg>
       </tuv>
     </tu>
     <tu>
