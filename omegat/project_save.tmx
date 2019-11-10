@@ -3136,6 +3136,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Attribute:</seg>
       </tuv>
@@ -5326,6 +5327,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T232315Z" creationid="Marc Riera" creationdate="20191110T232315Z">
+        <seg>Mostra comentaris al segment actiu si n'hi ha al fitxer d'origen i el filtre del fitxer és compatible (per exemple, el filtre per a fitxers PO).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T224019Z" creationid="mgalo" creationdate="20181115T224019Z">
@@ -6853,8 +6862,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Finished</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T225627Z" creationid="mgalo" creationdate="20181115T225627Z">
-        <seg>Operació acabada</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T231821Z" creationid="mgalo" creationdate="20181115T225627Z">
+        <seg>Ha acabat l'operació</seg>
       </tuv>
     </tu>
     <tu>
@@ -7718,6 +7727,22 @@ del Kaptain inclòs (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>IBM Watson</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T232013Z" creationid="Marc Riera" creationdate="20191110T232013Z">
+        <seg>IBM Watson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IBM Watson not available.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T232028Z" creationid="Marc Riera" creationdate="20191110T232028Z">
+        <seg>L'IBM Watson no està disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ID</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T111115Z" creationid="mgalo" creationdate="20181112T111115Z">
@@ -8127,6 +8152,14 @@ feu clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181108T160134Z" creationid="mgalo" creationdate="20181108T160134Z">
         <seg>Inclou el patró</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include matches from &amp;other languages</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T232433Z" creationid="Marc Riera" creationdate="20191110T232417Z">
+        <seg>Inclou les c&amp;oincidències en altres llengües</seg>
       </tuv>
     </tu>
     <tu>
@@ -8599,6 +8632,14 @@ feu clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T115030Z" creationid="Marc Riera" creationdate="20180221T115030Z">
         <seg>S'utilitza per marcar les vostres traduccions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T231537Z" creationid="Marc Riera" creationdate="20191110T231521Z">
+        <seg>S'ha de convertir en un projecte en equip nou, però això no es pot fer en el mode de consola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10001,6 +10042,22 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modification info template</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T232333Z" creationid="Marc Riera" creationdate="20191110T232333Z">
+        <seg>Plantilla de la informació de modificació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modification info template for segments without date</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T232352Z" creationid="Marc Riera" creationdate="20191110T232352Z">
+        <seg>Plantilla de la informació de segmentació per a segments sense data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modification info text</seg>
       </tuv>
       <tuv lang="ca" changeid="marc" changedate="20191030T211718Z" creationid="marc" creationdate="20191030T211718Z">
@@ -10431,6 +10488,14 @@ adequada, com ara la carpeta Aplicacions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No script bound in slot #{0}.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T231935Z" creationid="Marc Riera" creationdate="20191110T231935Z">
+        <seg>No s'ha enllaçat cap script a la ranura #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No script selected.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T105638Z" creationid="Marc Riera" creationdate="20190521T105638Z">
@@ -10441,8 +10506,8 @@ adequada, com ara la carpeta Aplicacions.</seg>
       <tuv lang="en">
         <seg>No script set.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T105736Z" creationid="Marc Riera" creationdate="20190521T105736Z">
-        <seg>No hi ha cap script definit.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T231918Z" creationid="Marc Riera" creationdate="20190521T105736Z">
+        <seg>No s'ha definit cap script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12004,6 +12069,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T221629Z" creationid="mgalo" creationdate="20181112T221629Z">
         <seg>Seleccioneu el comportament que voleu aplicar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please translate this plural as plural form #{0}.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T231641Z" creationid="Marc Riera" creationdate="20191110T231641Z">
+        <seg>Traduïu aquest plural com la forma de plural #{0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14111,6 +14184,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select languagetool-server.jar</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T232106Z" creationid="Marc Riera" creationdate="20191110T232106Z">
+        <seg>Seleccioneu el fitxer languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select&lt;g0&gt; TortoiseSVN &gt; Checkout.&lt;/g0&gt; The following dialog appears:</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T222242Z" creationid="Stephanie" creationdate="20150722T184959Z">
@@ -15166,11 +15247,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Tag validation failed</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T225528Z" creationid="mgalo" creationdate="20181115T225528Z">
-        <seg>Ha fallat la validació</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T231813Z" creationid="mgalo" creationdate="20181115T225528Z">
+        <seg>Ha fallat la validació de les etiquetes</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Tag:</seg>
       </tuv>
@@ -16574,8 +16656,8 @@ des del servidor.</seg>
       <tuv lang="en">
         <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T073442Z" creationid="Marc Riera" creationdate="20190925T073442Z">
-        <seg>Per convertirlo en un projecte en equip nou, obriu-lo a la GUI de l'OmegaT.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T231525Z" creationid="Marc Riera" creationdate="20190925T073442Z">
+        <seg>Per convertir-lo en un projecte en equip nou, obriu-lo a la GUI de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17029,7 +17111,7 @@ que conté els fitxers OmegaT.jar i linux-install.sh i executeu l'script amb
       <tuv lang="en">
         <seg>Translating Project</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T225600Z" creationid="mgalo" creationdate="20181115T225600Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T231818Z" creationid="mgalo" creationdate="20181115T225600Z">
         <seg>S'està traduint el projecte</seg>
       </tuv>
     </tu>
@@ -17625,6 +17707,14 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224111Z" creationid="Marc Riera" creationdate="20180214T224111Z">
         <seg>S'està actualitzant...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upload disabled because repository in read-only mode</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T231604Z" creationid="Marc Riera" creationdate="20191110T231604Z">
+        <seg>S'ha inhabilitat la càrrega perquè el respositori es troba en mode de només lectura.</seg>
       </tuv>
     </tu>
     <tu>
