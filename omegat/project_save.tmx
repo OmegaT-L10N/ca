@@ -4011,8 +4011,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Commands</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T110530Z" creationid="mgalo" creationdate="20181112T110530Z">
-        <seg>Ordres:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T221454Z" creationid="mgalo" creationdate="20181112T110530Z">
+        <seg>Ordres</seg>
       </tuv>
     </tu>
     <tu>
@@ -13347,6 +13347,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Se&amp;t</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T221448Z" creationid="Marc Riera" creationdate="20191110T221448Z">
+        <seg>&amp;Defineix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T143708Z" creationid="Stephanie" creationdate="20150722T193219Z">
@@ -14839,6 +14847,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Target:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T221617Z" creationid="Marc Riera" creationdate="20191110T221617Z">
+        <seg>Destinació:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tcl/tk utility providing a formatted layout preview of translated files.</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150604T184445Z" creationid="Alexandra" creationdate="20150526T135010Z">
@@ -15204,6 +15220,14 @@ Proveu de corregir l'error i torneu a carregar el projecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150523T170004Z" creationid="Stephanie" creationdate="20150523T170004Z">
         <seg>El servei de TaaS en https://demo.taas-project.eu/info ofereix serveis de terminologia en les llengües europees (a més d'en rus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T221705Z" creationid="Marc Riera" creationdate="20191110T221705Z">
+        <seg>L'URL ha d'incloure «{target}», que se substituirà pel text de cerca.</seg>
       </tuv>
     </tu>
     <tu>
