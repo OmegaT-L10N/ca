@@ -54,6 +54,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;About...</seg>
       </tuv>
@@ -129,11 +130,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Always Confirm Quit</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T111517Z" creationid="Marc Riera" creationdate="20180221T111517Z">
-        <seg>&amp;Confirma sempre en sortir</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T205501Z" creationid="Marc Riera" creationdate="20180221T111517Z">
+        <seg>Confirm&amp;a sempre en sortir</seg>
       </tuv>
     </tu>
     <tu>
@@ -243,11 +245,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Check for Updates...</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T213138Z" creationid="mgalo" creationdate="20181108T153303Z">
-        <seg>&amp;Cerca actualitzacions...</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T205809Z" creationid="mgalo" creationdate="20181108T153303Z">
+        <seg>&amp;Comprova si hi ha actualitzacions...</seg>
       </tuv>
     </tu>
     <tu>
@@ -390,11 +393,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Enable history completion</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181108T153034Z" creationid="mgalo" creationdate="20181108T153034Z">
-        <seg>&amp;Habilita l'emplenament a partir de l'historial</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T205432Z" creationid="mgalo" creationdate="20181108T153034Z">
+        <seg>Habilita l'&amp;emplenament a partir de l'historial</seg>
       </tuv>
     </tu>
     <tu>
@@ -604,6 +608,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Last Changes...</seg>
       </tuv>
@@ -2414,8 +2419,8 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181108T153150Z" creationid="mgalo" creationdate="20181108T153150Z">
-        <seg>Accedeix a la carpe&amp;ta de configuració</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T205641Z" creationid="mgalo" creationdate="20181108T153150Z">
+        <seg>Accede&amp;ix a la carpeta de configuració</seg>
       </tuv>
     </tu>
     <tu>
@@ -3094,6 +3099,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Auto-Completion</seg>
       </tuv>
@@ -4073,16 +4079,16 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Committing source files</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181108T153744Z" creationid="mgalo" creationdate="20181108T153744Z">
-        <seg>S'estan enviant els fitxers de partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T210049Z" creationid="mgalo" creationdate="20181108T153744Z">
+        <seg>S'estan enviant els fitxers d'origen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Committing target files</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181108T153820Z" creationid="mgalo" creationdate="20181108T153820Z">
-        <seg>S'estan enviant els fitxers d'arribada</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T210037Z" creationid="mgalo" creationdate="20181108T153820Z">
+        <seg>S'estan enviant els fitxers de destinació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5709,6 +5715,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Enable history &amp;prediction</seg>
       </tuv>
@@ -5857,8 +5864,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T111808Z" creationid="Marc Riera" creationdate="20180221T111808Z">
-        <seg>Escriviu el número de segment:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T210113Z" creationid="Marc Riera" creationdate="20180221T111808Z">
+        <seg>Escriviu el número del segment:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6362,16 +6369,16 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T213215Z" creationid="mgalo" creationdate="20181108T153418Z">
-        <seg>No s'han pogut enviar els fitxers de partida.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T210005Z" creationid="mgalo" creationdate="20181108T153418Z">
+        <seg>No s'han pogut enviar els fitxers d'origen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Failed to commit target files!</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T213224Z" creationid="mgalo" creationdate="20181108T153502Z">
-        <seg>No s'han pogut enviar els fitxers d'arribada.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T210013Z" creationid="mgalo" creationdate="20181108T153502Z">
+        <seg>No s'han pogut enviar els fitxers de destinació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6419,8 +6426,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Failed to update project properties</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T213243Z" creationid="mgalo" creationdate="20181108T153955Z">
-        <seg>No s'han pogut actualitzar les propietats del projecte</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T210104Z" creationid="mgalo" creationdate="20181108T153955Z">
+        <seg>No s'han pogut actualitzar les propietats del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7138,8 +7145,8 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Go To Segment</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181108T154017Z" creationid="Marc Riera" creationdate="20180221T111809Z">
-        <seg>Ves al segment</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T210122Z" creationid="Marc Riera" creationdate="20180221T111809Z">
+        <seg>Vés al segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -7391,6 +7398,7 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>History Completion</seg>
       </tuv>
@@ -7407,6 +7415,7 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>History Prediction</seg>
       </tuv>
@@ -7832,8 +7841,8 @@ feu clic en la drecera.</seg>
       <tuv lang="en">
         <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T111652Z" creationid="Marc Riera" creationdate="20180221T111652Z">
-        <seg>Per tal d'aplicar els canvis, l'OmegaT ha de tancar i tornar a obrir el projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T205847Z" creationid="Marc Riera" creationdate="20180221T111652Z">
+        <seg>Per tal que els canvis tinguin efecte, l'OmegaT ha de tancar i tornar a obrir el projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8658,6 +8667,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>L&amp;og...</seg>
       </tuv>
@@ -11584,8 +11594,8 @@ si cal fer res més.</seg>
       <tuv lang="en">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181117T232857Z" creationid="Marc Riera" creationdate="20180221T111753Z">
-        <seg>Corregiu les errades d'etiquetes abans de tornar a utilitzar Crea els documents traduïts.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T205929Z" creationid="Marc Riera" creationdate="20180221T111753Z">
+        <seg>Corregiu els errors d'etiquetes abans de tornar a utilitzar «Crea els documents traduïts».</seg>
       </tuv>
     </tu>
     <tu>
@@ -14221,8 +14231,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Source files committed</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181108T153759Z" creationid="mgalo" creationdate="20181108T153759Z">
-        <seg>S'han enviat els fitxers de partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T210057Z" creationid="mgalo" creationdate="20181108T153759Z">
+        <seg>S'han enviat els fitxers d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14786,8 +14796,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Target files committed</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181108T153919Z" creationid="mgalo" creationdate="20181108T153919Z">
-        <seg>S'han enviat els fitxers d'arribada</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T210045Z" creationid="mgalo" creationdate="20181108T153919Z">
+        <seg>S'han enviat els fitxers de destinació.</seg>
       </tuv>
     </tu>
     <tu>
