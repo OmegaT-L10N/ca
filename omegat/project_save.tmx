@@ -1984,6 +1984,7 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
@@ -2018,6 +2019,7 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
@@ -3161,8 +3163,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Automatically check for updates</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T110932Z" creationid="mgalo" creationdate="20181112T110932Z">
-        <seg>Cerca actualitzacions automàticament</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T215702Z" creationid="mgalo" creationdate="20181112T110932Z">
+        <seg>Comprova si hi ha actualitzacions automàticament</seg>
       </tuv>
     </tu>
     <tu>
@@ -3706,8 +3708,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Check Now</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T110937Z" creationid="mgalo" creationdate="20181112T110937Z">
-        <seg>Cerca ara</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T215709Z" creationid="mgalo" creationdate="20181112T110937Z">
+        <seg>Comprova-ho ara</seg>
       </tuv>
     </tu>
     <tu>
@@ -8935,8 +8937,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Latest</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T110925Z" creationid="mgalo" creationdate="20181112T110925Z">
-        <seg>Darrera</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T215650Z" creationid="mgalo" creationdate="20181112T110925Z">
+        <seg>Més recent</seg>
       </tuv>
     </tu>
     <tu>
@@ -14399,6 +14401,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Standard</seg>
       </tuv>
