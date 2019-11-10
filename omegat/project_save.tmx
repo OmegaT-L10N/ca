@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-5.0.0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-5.1.0" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13780,6 +13780,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show English Version</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T184621Z" creationid="Marc Riera" creationdate="20191110T184546Z">
+        <seg>Mostra la versió en anglèsA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show Find Search Bar</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T101939Z" creationid="mgalo" creationdate="20181112T101939Z">
@@ -15786,6 +15794,14 @@ a /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T100237Z" creationid="mgalo" creationdate="20181112T100237Z">
         <seg>Aquest projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This site is also available in English!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T184638Z" creationid="Marc Riera" creationdate="20191110T184607Z">
+        <seg>Aquest lloc també està disponible en català!</seg>
       </tuv>
     </tu>
     <tu>
