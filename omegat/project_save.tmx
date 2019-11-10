@@ -47,6 +47,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T191110Z" creationid="Marc Riera" creationdate="20191110T191110Z">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;About...</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T111537Z" creationid="Marc Riera" creationdate="20180221T111537Z">
@@ -2156,8 +2164,8 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       <tuv lang="en">
         <seg>===============</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180212T222731Z" creationid="Marc Riera" creationdate="20180212T222731Z">
-        <seg>===============</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T191625Z" creationid="Marc Riera" creationdate="20180212T222731Z">
+        <seg>================</seg>
       </tuv>
     </tu>
     <tu>
@@ -8027,9 +8035,9 @@ feu clic en la drecera.</seg>
         <seg>Installing OmegaT (Linux)
 =========================</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180212T223130Z" creationid="Marc Riera" creationdate="20180212T223112Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T191742Z" creationid="Marc Riera" creationdate="20180212T223112Z">
         <seg>Instal·lació de l'OmegaT (Linux)
-=========================</seg>
+==============================</seg>
       </tuv>
     </tu>
     <tu>
@@ -8038,9 +8046,9 @@ feu clic en la drecera.</seg>
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180212T223016Z" creationid="Marc Riera" creationdate="20180212T223016Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T191731Z" creationid="Marc Riera" creationdate="20180212T223016Z">
         <seg>Instal·lació de l'OmegaT (Mac)
-=======================</seg>
+============================</seg>
       </tuv>
     </tu>
     <tu>
@@ -8049,9 +8057,9 @@ feu clic en la drecera.</seg>
         <seg>Installing OmegaT (Solaris, FreeBSD, ...)
 =========================================</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180212T223219Z" creationid="Marc Riera" creationdate="20180212T223219Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T191952Z" creationid="Marc Riera" creationdate="20180212T223219Z">
         <seg>Instal·lació de l'OmegaT (Solaris, FreeBSD, etc.)
-=========================================</seg>
+===============================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -8060,9 +8068,9 @@ feu clic en la drecera.</seg>
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180212T223038Z" creationid="Marc Riera" creationdate="20180212T223038Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T191718Z" creationid="Marc Riera" creationdate="20180212T223038Z">
         <seg>Instal·lació de l'OmegaT (Windows)
-===========================</seg>
+================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -8969,9 +8977,9 @@ durant la primera execució.</seg>
         <seg>Licensing information
 =====================</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T103143Z" creationid="Marc Riera" creationdate="20190521T103143Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T191652Z" creationid="Marc Riera" creationdate="20190521T103143Z">
         <seg>Informació sobre la llicència
-=====================</seg>
+=============================</seg>
       </tuv>
     </tu>
     <tu>
@@ -8988,6 +8996,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224502Z" creationid="Marc Riera" creationdate="20180214T224502Z">
         <seg>Enllaços (&amp;URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linux</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T191053Z" creationid="Marc Riera" creationdate="20191110T191053Z">
+        <seg>Linux</seg>
       </tuv>
     </tu>
     <tu>
@@ -9195,6 +9211,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150604T201930Z" creationid="Alexandra" creationdate="20150526T155537Z">
         <seg>Traductor MS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mac OS X</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T191052Z" creationid="Marc Riera" creationdate="20191110T191052Z">
+        <seg>Mac OS X</seg>
       </tuv>
     </tu>
     <tu>
@@ -9842,9 +9866,9 @@ durant la primera execució.</seg>
         <seg>Move the folder to an
 appropriate location such as the Applications folder.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T135029Z" creationid="Marc Riera" creationdate="20190924T135029Z">
-        <seg>Moveu la carpeta a una ubicació adequada,
-com ara la carpeta Aplicacions.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T190731Z" creationid="Marc Riera" creationdate="20190924T135029Z">
+        <seg>Moveu la carpeta a una ubicació
+adequada, com ara la carpeta Aplicacions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10677,8 +10701,9 @@ de la llicència o bé (si ho preferiu) qualsevol altra versió posterior.</seg>
         <seg>OmegaT is then ready
 to be launched.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T141222Z" creationid="Marc Riera" creationdate="20190924T141222Z">
-        <seg>L'OmegaT està llest per executar-se.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T190810Z" creationid="Marc Riera" creationdate="20190924T141222Z">
+        <seg>L'OmegaT
+està llest per a executar-se.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10727,8 +10752,9 @@ to be launched.</seg>
         <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
 installed on your system.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T185053Z" creationid="Marc Riera" creationdate="20191110T185053Z">
-        <seg>L'OmegaT requereix que tingueu instal·lada la versió 1.8 o posterior del Java Runtime Environment (JRE) al sistema.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T190612Z" creationid="Marc Riera" creationdate="20191110T185053Z">
+        <seg>L'OmegaT requereix que tingueu instal·lada la versió 1.8 o posterior del Java
+Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11707,9 +11733,9 @@ si cal fer res més.</seg>
         <seg>Prerequisites for installing OmegaT
 ===================================</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T134934Z" creationid="Marc Riera" creationdate="20180212T223343Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T191704Z" creationid="Marc Riera" creationdate="20180212T223343Z">
         <seg>Requisits per a instal·lar l'OmegaT
-===================================</seg>
+=================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -15289,9 +15315,9 @@ xx or xxx is the language code and YY is the region or country code (optional).<
         <seg>The license of each library is mentionned
 in /lib/licenses/Licenses.txt.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T141151Z" creationid="Marc Riera" creationdate="20190924T141133Z">
-        <seg>La llicència de cada biblioteca s'indica
-a /lib/licenses/Licenses.txt.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T190550Z" creationid="Marc Riera" creationdate="20190924T141133Z">
+        <seg>La llicència de cada biblioteca
+s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16066,11 +16092,11 @@ terminal window (console), change folder to the folder containing OmegaT.jar
 and the linux-install.sh script, and execute the script with ./linux-
 install.sh.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T185543Z" creationid="Marc Riera" creationdate="20191110T185423Z">
-        <seg>Per utilitzar aquest script,
-obriu una finestra del terminal (consola), canvieu la carpeta de treball
-a la carpeta que conté els fitxers OmegaT.jar i linux-install.sh
-i executeu l'script amb «./linux-install.sh».</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T190948Z" creationid="Marc Riera" creationdate="20191110T185423Z">
+        <seg>Per utilitzar aquest script, obriu
+una finestra del terminal (consola), canvieu la carpeta de treball a la carpeta
+que conté els fitxers OmegaT.jar i linux-install.sh i executeu l'script amb
+«./linux-install.sh».</seg>
       </tuv>
     </tu>
     <tu>
@@ -16871,8 +16897,9 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
         <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a
 documentation file and the OmegaT application.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T185226Z" creationid="Marc Riera" creationdate="20191110T185226Z">
-        <seg>Descomprimiu l'arxiu .zip de l'OmegaT per obtenir una carpeta que conté un fitxer de documentació i l'aplicació OmegaT.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T190705Z" creationid="Marc Riera" creationdate="20191110T185226Z">
+        <seg>Descomprimiu l'arxiu .zip de l'OmegaT per obtenir una carpeta que conté un
+fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17489,17 +17516,17 @@ subscriure-us-hi:</seg>
         <seg>We recommend using OmegaT packages that include the JRE, to save you the
 trouble of selecting, obtaining and installing it.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T185717Z" creationid="Marc Riera" creationdate="20191110T185143Z">
-        <seg>Us recomanem que utilitzeu els paquets de l'OmegaT que inclouen el JRE,
-per estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T190644Z" creationid="Marc Riera" creationdate="20191110T185143Z">
+        <seg>Us recomanem que utilitzeu els paquets de l'OmegaT que inclouen el JRE, per
+estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Web Start</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T184716Z" creationid="Marc Riera" creationdate="20191110T184716Z">
-        <seg>Inici web</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T191045Z" creationid="Marc Riera" creationdate="20191110T184716Z">
+        <seg>Web Start</seg>
       </tuv>
     </tu>
     <tu>
@@ -17714,6 +17741,14 @@ Tant la cerca exacta com la cerca per paraules clau admeten els caràcters comod
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190925T071546Z" creationid="Marc Riera" creationdate="20190925T071546Z">
         <seg>Se sincronitzarà la pròxima vegada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T191051Z" creationid="Marc Riera" creationdate="20191110T191051Z">
+        <seg>Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -18132,9 +18167,9 @@ al menú d'inici, a l'escriptori o a la zona d'accés ràpid per enllaçar-lo de
         <seg>You can find the text of the license in
 /docs/OmegaT-license.txt.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180212T231527Z" creationid="Marc Riera" creationdate="20180212T231527Z">
-        <seg>Podeu trobar el text de la llicència a
-/docs/OmegaT-license.txt</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T190512Z" creationid="Marc Riera" creationdate="20180212T231527Z">
+        <seg>Podeu
+trobar el text de la llicència a /docs/OmegaT-license.txt</seg>
       </tuv>
     </tu>
     <tu>
