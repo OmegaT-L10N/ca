@@ -1362,8 +1362,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T200117Z" creationid="Marc Riera" creationdate="20190924T144954Z">
-        <seg>(El fitxer executable del Java és el fitxer "java" al Linux i "java.exe" al Windows.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T201541Z" creationid="Marc Riera" creationdate="20190924T144954Z">
+        <seg>(El fitxer executable del Java és el fitxer «java» al Linux i «java.exe» al Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1388,9 +1388,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>(You will still able to use OmegaT
 3.6 to edit this project as a team project.)</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T073657Z" creationid="Marc Riera" creationdate="20190925T073657Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T201929Z" creationid="Marc Riera" creationdate="20190925T073657Z">
         <seg>(Encara podreu utilitzar l'OmegaT 3.6
-per a editar-lo com un projecte en equip.)</seg>
+per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1976,6 +1976,7 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
       </tuv>
@@ -3047,6 +3048,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Authentication</seg>
       </tuv>
@@ -5381,6 +5383,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Download Team Project</seg>
       </tuv>
@@ -6034,6 +6037,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error: {0}</seg>
       </tuv>
@@ -9653,6 +9657,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Minutes:</seg>
       </tuv>
@@ -10166,8 +10171,8 @@ adequada, com ara la carpeta Aplicacions.</seg>
       <tuv lang="en">
         <seg>Non-breakable space</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074124Z" creationid="Marc Riera" creationdate="20190925T074124Z">
-        <seg>Espai no separables</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T202044Z" creationid="Marc Riera" creationdate="20190925T074124Z">
+        <seg>Espai no separable</seg>
       </tuv>
     </tu>
     <tu>
@@ -10612,6 +10617,14 @@ adequada, com ara la carpeta Aplicacions.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213315Z" creationid="Marc Riera" creationdate="20180210T213315Z">
         <seg>L'OmegaT ha triat l'opció «Sí» automàticament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has detected a 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T201803Z" creationid="Marc Riera" creationdate="20191110T201803Z">
+        <seg>L'OmegaT ha detectat un projecte en equip de la versió 3.6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11763,16 +11776,16 @@ si cal fer res més.</seg>
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T073614Z" creationid="Marc Riera" creationdate="20190925T073614Z">
-        <seg>Feu clic a "Cancel·la" per a no modificar el projecte i carregar-lo com un projecte local sense funcionalitats d'equip.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T201911Z" creationid="Marc Riera" creationdate="20190925T073614Z">
+        <seg>Feu clic a «Cancel·la» per a no modificar el projecte i carregar-lo com un projecte local sense funcionalitats d'equip.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Press 'OK' to convert the project into a 4.x-style team project.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T073522Z" creationid="Marc Riera" creationdate="20190925T073522Z">
-        <seg>Feu clic a "D'acord" per convertir-lo en un projecte en equip de l'estil 4.x.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T201745Z" creationid="Marc Riera" creationdate="20190925T073522Z">
+        <seg>Feu clic a «D'acord» per convertir-lo en un projecte en equip de la versió 4.x.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13371,6 +13384,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Seconds:</seg>
       </tuv>
@@ -15763,6 +15777,18 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150526T134351Z" creationid="Alexandra" creationdate="20150526T134351Z">
         <seg>Programari de tercers per al seu ús amb OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This
+will delete your local data and re-download the project contents from
+the server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T201856Z" creationid="Marc Riera" creationdate="20191110T201826Z">
+        <seg>Això
+suprimirà les dades locals i tornarà a baixar els continguts del projecte
+des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18729,6 +18755,7 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>cd &lt;folder where the file OmegaT.jar is located&gt;</seg>
       </tuv>
