@@ -1291,6 +1291,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>(If you think you have significantly contributed to the OmegaT Project but you
 (don't see your name on the lists, feel free to contact us.)</seg>
@@ -1361,7 +1362,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T144954Z" creationid="Marc Riera" creationdate="20190924T144954Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T200117Z" creationid="Marc Riera" creationdate="20190924T144954Z">
         <seg>(El fitxer executable del Java és el fitxer "java" al Linux i "java.exe" al Windows.</seg>
       </tuv>
     </tu>
@@ -2169,6 +2170,7 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
@@ -2592,6 +2594,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Alex Buloichik (lead developer)</seg>
       </tuv>
@@ -2911,6 +2914,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Anthony Baldwin (localisation manager)</seg>
       </tuv>
@@ -3349,6 +3353,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Bug reports (in English), at the SourceForge site:</seg>
       </tuv>
@@ -4964,6 +4969,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Didier Briel (project manager)</seg>
       </tuv>
@@ -7286,6 +7292,7 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Henry Pijffers (release manager)</seg>
       </tuv>
@@ -8931,6 +8938,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Launching OmegaT from the command line (all systems)
 ====================================================</seg>
@@ -10623,6 +10631,7 @@ adequada, com ara la carpeta Aplicacions.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
@@ -10799,6 +10808,7 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT uses a number of librairies.</seg>
       </tuv>
@@ -11730,6 +11740,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Prerequisites for installing OmegaT
 ===================================</seg>
@@ -11813,6 +11824,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Previous contributors include:
 (alphabetical order)</seg>
@@ -12784,6 +12796,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Requests for Enhancements (in English), at the SourceForge site:</seg>
       </tuv>
@@ -15312,6 +15325,7 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The license of each library is mentionned
 in /lib/licenses/Licenses.txt.</seg>
@@ -17206,6 +17220,7 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Using Java Web Start for installing OmegaT (all platforms)
 ===========================================================</seg>
@@ -18112,9 +18127,9 @@ Tant la cerca exacta com la cerca per paraules clau admeten els caràcters comod
         <seg>You can also launch
 it from the Spotlight search field.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180212T232433Z" creationid="Marc Riera" creationdate="20180212T232418Z">
-        <seg>També la podeu executar
-des del camp de cerca de l'Spotlight.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T195953Z" creationid="Marc Riera" creationdate="20180212T232418Z">
+        <seg>També la
+podeu executar des del camp de cerca de l'Spotlight.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18688,14 +18703,16 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>and many, many more very helpful people</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180212T223722Z" creationid="Marc Riera" creationdate="20180212T223722Z">
-        <seg>i moltes altres persones que han aportat una ajuda inestimable</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T200846Z" creationid="Marc Riera" creationdate="20180212T223722Z">
+        <seg>i moltes altres persones que han aportat una ajuda inestimable.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>and then:</seg>
       </tuv>
