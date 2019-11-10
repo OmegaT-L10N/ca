@@ -1487,6 +1487,16 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--no-team
+		Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T204046Z" creationid="Marc Riera" creationdate="20191110T204046Z">
+        <seg>--no-team
+		Inhabilita la funcionalitat de projecte en equip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
       </tuv>
@@ -1500,9 +1510,9 @@ per a editar-lo com a projecte en equip.)</seg>
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T101740Z" creationid="Marc Riera" creationdate="20190924T101740Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T203921Z" creationid="Marc Riera" creationdate="20190924T101740Z">
         <seg>-h, --help
-		Mostra la informació d'ús.</seg>
+		Mostra informació sobre l'ús.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8191,6 +8201,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
@@ -13439,6 +13450,22 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T154545Z" creationid="mgalo" creationdate="20181112T101054Z">
         <seg>Vegeu el manual de l'OmegaT per a obtenir instruccions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T204204Z" creationid="Marc Riera" creationdate="20191110T204204Z">
+        <seg>Vegeu OmegaT.jar/META-INF/MANIFEST.MF per conèixer els valors vàlids.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See below for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T204018Z" creationid="Marc Riera" creationdate="20191110T203951Z">
+        <seg>Vegeu-ne els detalls a continuació.</seg>
       </tuv>
     </tu>
     <tu>
