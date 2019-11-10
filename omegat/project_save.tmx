@@ -14252,6 +14252,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Source language: {0}</seg>
       </tuv>
@@ -15175,12 +15176,14 @@ L'àmbit de la substitució de text són els segments d'arribada del projecte, i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The TMX file will not be loaded
 Please try to correct the error and reload the project.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224050Z" creationid="Marc Riera" creationdate="20180214T224050Z">
-        <seg>El fitxer TMX no es carregarà. Intenteu corregir l'error i torneu a carregar el projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T215452Z" creationid="Marc Riera" creationdate="20180214T224050Z">
+        <seg>No es carregarà el fitxer TMX.
+Proveu de corregir l'error i torneu a carregar el projecte.</seg>
       </tuv>
     </tu>
     <tu>
