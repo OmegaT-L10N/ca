@@ -179,6 +179,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T204824Z" creationid="Marc Riera" creationdate="20191110T204824Z">
+        <seg>Cerca &amp;automàticament el text del segment al diccionari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T114011Z" creationid="Marc Riera" creationdate="20180212T221828Z">
@@ -1058,6 +1066,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Show Relevant Suggestions Automatically</seg>
       </tuv>
@@ -1074,6 +1083,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
@@ -2283,6 +2293,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>A&amp;uto-completion</seg>
       </tuv>
@@ -2348,6 +2359,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T141942Z" creationid="Marc Riera" creationdate="20190521T103432Z">
         <seg>Aaron Madlon-Kay és el gestor del projecte OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Abort: Exit with an error if tags invalid.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T204334Z" creationid="Marc Riera" creationdate="20191110T204334Z">
+        <seg>Abort: surt amb un error si les etiquetes no són vàlides.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9396,6 +9415,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T204753Z" creationid="Marc Riera" creationdate="20191110T204753Z">
+        <seg>Marca els límits dels &amp;paràgrafs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark &amp;Translated Segments</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213833Z" creationid="Marc Riera" creationdate="20180210T213833Z">
@@ -13323,6 +13350,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T204832Z" creationid="Marc Riera" creationdate="20191110T204832Z">
+        <seg>Cerca als diccionaris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search Project...</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161514Z" creationid="Packard Bell" creationdate="20150605T161514Z">
@@ -13440,8 +13475,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T102119Z" creationid="Marc Riera" creationdate="20190924T102119Z">
-        <seg>Vegeu Ajuda &gt; Manual d'usuari per obtenir més informació.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T204616Z" creationid="Marc Riera" creationdate="20190924T102119Z">
+        <seg>Vegeu «Ajuda &gt; Manual d'usuari» per obtenir més informació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17072,6 +17107,7 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Usage: java -jar OmegaT.jar team &lt;command&gt; [&lt;options&gt;]]</seg>
       </tuv>
@@ -17539,6 +17575,14 @@ subscriure-us-hi:</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110105Z" creationid="Marc Riera" creationdate="20190521T110105Z">
         <seg>AVÍS: es perdran totes les dades sense desar
 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warn: Report invalid tags to stdout.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T204546Z" creationid="Marc Riera" creationdate="20191110T204546Z">
+        <seg>Warn: informa de les etiquetes no vàlides a la sortida estàndard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19151,6 +19195,7 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>{0}</seg>
       </tuv>
