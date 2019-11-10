@@ -2672,6 +2672,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Align</seg>
       </tuv>
@@ -3234,6 +3235,15 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Average Score: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T224050Z" creationid="Marc Riera" creationdate="20191110T224050Z">
+        <seg>Puntuació mitjana: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Avoid in any case adding &lt;f6&gt;bak&lt;/f6&gt; files, &lt;f7&gt;project_stats.txt&lt;/f7&gt; and &lt;f8&gt;project_stats_match.txt&lt;/f8&gt;, in the &lt;f9&gt;omegat&lt;/f9&gt; subfolder, as they would without any need or profit just bloat the repository.</seg>
       </tuv>
@@ -3535,6 +3545,15 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181111T214900Z" creationid="mgalo" creationdate="20181111T214829Z">
         <seg>Fitxer d'arribada a&amp;ctual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Calculator:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T224036Z" creationid="Marc Riera" creationdate="20191110T224004Z">
+        <seg>Calculadora:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3908,6 +3927,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose Source File</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T224733Z" creationid="Marc Riera" creationdate="20191110T224733Z">
+        <seg>Seleccioneu un fitxer d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose&lt;g0&gt; SVN.&lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150722T184752Z" creationid="Stephanie" creationdate="20150722T184752Z">
@@ -4191,11 +4218,12 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Comparison Mode:</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T114552Z" creationid="mgalo" creationdate="20181112T114552Z">
-        <seg>Mode de comparació</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T224157Z" creationid="mgalo" creationdate="20181112T114552Z">
+        <seg>Mode de comparació:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4362,6 +4390,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Continue</seg>
       </tuv>
@@ -4563,6 +4592,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Counter:</seg>
       </tuv>
@@ -4886,6 +4916,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Default</seg>
       </tuv>
@@ -5658,6 +5689,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Edit</seg>
       </tuv>
@@ -6612,6 +6644,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>File Filters...</seg>
       </tuv>
@@ -6745,6 +6778,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Filters...</seg>
       </tuv>
@@ -9780,6 +9814,15 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Merge</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T224236Z" creationid="Marc Riera" creationdate="20191110T224236Z">
+        <seg>Uneix</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Microsoft Open XML</seg>
       </tuv>
@@ -10380,6 +10423,7 @@ adequada, com ara la carpeta Aplicacions.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>None</seg>
       </tuv>
@@ -10396,6 +10440,7 @@ adequada, com ara la carpeta Aplicacions.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Not Set</seg>
       </tuv>
@@ -11985,6 +12030,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Press the keyboard shortcut you wish to assign, then click OK.</seg>
       </tuv>
@@ -12803,6 +12849,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remove Tags</seg>
       </tuv>
@@ -13089,8 +13136,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Reset Master Password</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T114324Z" creationid="Marc Riera" creationdate="20190521T111359Z">
-        <seg>Restableix la contrasenya mestra</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T223835Z" creationid="Marc Riera" creationdate="20190521T111359Z">
+        <seg>Reinicialitza la contrasenya mestra</seg>
       </tuv>
     </tu>
     <tu>
@@ -13209,6 +13256,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Rules...</seg>
       </tuv>
@@ -13774,6 +13822,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segmentation Rules...</seg>
       </tuv>
@@ -14014,6 +14063,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Set</seg>
       </tuv>
@@ -14022,6 +14072,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Set &amp; Stored</seg>
       </tuv>
@@ -14119,6 +14170,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Shortcut:</seg>
       </tuv>
@@ -14575,6 +14627,15 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T124449Z" creationid="Marc Riera" creationdate="20190520T124449Z">
         <seg>Error ortogràfic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Split</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T224233Z" creationid="Marc Riera" creationdate="20191110T224233Z">
+        <seg>Divideix</seg>
       </tuv>
     </tu>
     <tu>
@@ -17742,6 +17803,7 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>View</seg>
       </tuv>
@@ -19604,6 +19666,7 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>▲</seg>
       </tuv>
@@ -19612,6 +19675,7 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>▼</seg>
       </tuv>
