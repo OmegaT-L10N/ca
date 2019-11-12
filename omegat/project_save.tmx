@@ -840,8 +840,8 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       <tuv lang="en">
         <seg>&amp;Preserve spaces for all tags</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181109T232020Z" creationid="mgalo" creationdate="20181109T232020Z">
-        <seg>&amp;Mantenir els espais per a totes les etiquetes</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214324Z" creationid="mgalo" creationdate="20181109T232020Z">
+        <seg>Conserva els es&amp;pais per a totes les etiquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -2329,8 +2329,8 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>A&amp;ggregate Tags</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181109T232008Z" creationid="mgalo" creationdate="20181109T232008Z">
-        <seg>A&amp;glutinar etiquetes</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214332Z" creationid="mgalo" creationdate="20181109T232008Z">
+        <seg>A&amp;glutina les etiquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -4191,11 +4191,12 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Comme&amp;nts</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181109T231557Z" creationid="mgalo" creationdate="20181109T231511Z">
-        <seg>C&amp;omentaris</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214218Z" creationid="mgalo" creationdate="20181109T231511Z">
+        <seg>Come&amp;ntaris</seg>
       </tuv>
     </tu>
     <tu>
@@ -4939,6 +4940,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>D&amp;iagrams</seg>
       </tuv>
@@ -5442,6 +5444,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Doc&amp;ument properties</seg>
       </tuv>
@@ -10586,6 +10589,14 @@ adequada, com ara la carpeta Aplicacions.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Non-visible Instruction Te&amp;xt</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214120Z" creationid="Marc Riera" creationdate="20191112T214120Z">
+        <seg>Te&amp;xt d'instruccions invisible</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>None</seg>
@@ -11493,16 +11504,16 @@ Runtime Environment (JRE) al sistema.</seg>
       <tuv lang="en">
         <seg>Open Source File</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181108T001340Z" creationid="mgalo" creationdate="20181108T001340Z">
-        <seg>Obre el fitxer de partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214645Z" creationid="mgalo" creationdate="20181108T001340Z">
+        <seg>Obre el fitxer d'origen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Open Source File Location</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T121301Z" creationid="mgalo" creationdate="20181108T154541Z">
-        <seg>Obre la ubicació del fitxer de partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214721Z" creationid="mgalo" creationdate="20181108T154541Z">
+        <seg>Obre la ubicació del fitxer d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -11557,8 +11568,8 @@ Runtime Environment (JRE) al sistema.</seg>
       <tuv lang="en">
         <seg>Open {0} Source Files</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T121958Z" creationid="Marc Riera" creationdate="20190520T121958Z">
-        <seg>Obre {0} fitxers de partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214650Z" creationid="Marc Riera" creationdate="20190520T121958Z">
+        <seg>Obre {0} fitxers d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -14066,8 +14077,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Segmentation rules are applied in the following order:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T115017Z" creationid="Marc Riera" creationdate="20180221T115017Z">
-        <seg>Les regles de segmentació s'aplicaran en aquest ordre:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T213806Z" creationid="Marc Riera" creationdate="20180221T115017Z">
+        <seg>Les regles de segmentació s'apliquen en aquest ordre:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14541,6 +14552,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Sli&amp;de Masters</seg>
       </tuv>
@@ -14952,6 +14964,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T102535Z" creationid="mgalo" creationdate="20181112T102535Z">
         <seg>Inicia l'OmegaT i continua la traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214105Z" creationid="Marc Riera" creationdate="20191112T214105Z">
+        <seg>Inicia un paràgraf n&amp;ou als salts de línia suaus del Word</seg>
       </tuv>
     </tu>
     <tu>
@@ -18623,6 +18643,7 @@ Tant la cerca exacta com la cerca per paraules clau admeten els caràcters comod
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>WordAr&amp;t</seg>
       </tuv>
