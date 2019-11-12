@@ -417,6 +417,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Enable glossary suggestions</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231125Z" creationid="Marc Riera" creationdate="20191112T231125Z">
+        <seg>Habilita &amp;els suggeriments del glossari</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Enable history completion</seg>
@@ -3604,6 +3612,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>C&amp;lear</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231141Z" creationid="Marc Riera" creationdate="20191112T231141Z">
+        <seg>N&amp;eteja</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>C&amp;opy All Data to Clipboard</seg>
@@ -5053,6 +5069,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deleted</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231302Z" creationid="Marc Riera" creationdate="20191112T231302Z">
+        <seg>Eliminada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delimiter</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225050Z" creationid="mgalo" creationdate="20181112T110236Z">
@@ -5137,6 +5161,22 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150801T111609Z" creationid="Alexandra" creationdate="20150526T133904Z">
         <seg>Descripcions de i enllaços a scripts/procediments de Samuel Murray.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Detail View</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231327Z" creationid="Marc Riera" creationdate="20191112T231327Z">
+        <seg>Visualització detallada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Details unavailable</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231249Z" creationid="Marc Riera" creationdate="20191112T231249Z">
+        <seg>Detalls no disponibles</seg>
       </tuv>
     </tu>
     <tu>
@@ -5286,6 +5326,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T120615Z" creationid="Marc Riera" creationdate="20190520T120615Z">
         <seg>Desactiva la regla “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displa&amp;y source terms</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230951Z" creationid="Marc Riera" creationdate="20191112T230951Z">
+        <seg>Mostra els termes d'ori&amp;gen</seg>
       </tuv>
     </tu>
     <tu>
@@ -5529,6 +5577,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Do you want to replace it with the one you're moving?</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231724Z" creationid="Marc Riera" creationdate="20191112T231724Z">
+        <seg>Voleu substituir-lo per l'element que esteu desplaçant?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Doc&amp;ument properties</seg>
@@ -5756,6 +5812,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T112137Z" creationid="mgalo" creationdate="20181112T112115Z">
         <seg>Arrossega fitxers de glossaris aquí per afegir-los al projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Duplicate</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230826Z" creationid="Marc Riera" creationdate="20191112T230826Z">
+        <seg>Duplicada</seg>
       </tuv>
     </tu>
     <tu>
@@ -6225,6 +6289,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181113T094955Z" creationid="mgalo" creationdate="20181113T094955Z">
         <seg>S'ha produït un error en extreure resultats de TA de MyMemory. Resposta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error fixing tags</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230924Z" creationid="Marc Riera" creationdate="20191112T230924Z">
+        <seg>Error en corregir les etiquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -7981,6 +8053,22 @@ no cal introduir el camí complet.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, the entries are sorted alphabetically.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231106Z" creationid="Marc Riera" creationdate="20191112T231106Z">
+        <seg>Si es marca, les entrades s'ordenen alfabèticament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, the longer entries are placed on the list first.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231054Z" creationid="Marc Riera" creationdate="20191112T231054Z">
+        <seg>Si es marca, les entrades més llargues es col·loquen abans a la llista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If invoked in a git working tree or svn checkout, the results
 		will be staged/added.</seg>
       </tuv>
@@ -9559,6 +9647,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>List View</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231320Z" creationid="Marc Riera" creationdate="20191112T231320Z">
+        <seg>Visualització de llista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Load a project to configure rules for that project's languages.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181113T094039Z" creationid="mgalo" creationdate="20181113T094039Z">
@@ -10831,6 +10927,14 @@ adequada, com ara la carpeta Aplicacions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not present</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231311Z" creationid="Marc Riera" creationdate="20191112T231311Z">
+        <seg>Inexistent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110818Z" creationid="Marc Riera" creationdate="20190521T110818Z">
@@ -11884,8 +11988,8 @@ Runtime Environment (JRE) al sistema.</seg>
       <tuv lang="en">
         <seg>Orphaned</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074202Z" creationid="Marc Riera" creationdate="20190925T074202Z">
-        <seg>Orfe</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230908Z" creationid="Marc Riera" creationdate="20190925T074202Z">
+        <seg>Òrfena</seg>
       </tuv>
     </tu>
     <tu>
@@ -11952,6 +12056,14 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T134452Z" creationid="Marc Riera" creationdate="20190924T134452Z">
         <seg>En cas contrari, l'OmegaT utilitzarà la llengua del sistema operatiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Out-of-order</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230850Z" creationid="Marc Riera" creationdate="20191112T230850Z">
+        <seg>Ordre incorrecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -13368,6 +13480,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove text target</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231620Z" creationid="Marc Riera" creationdate="20191112T231620Z">
+        <seg>Text de destinació eliminat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove the project folder manually.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110040Z" creationid="Marc Riera" creationdate="20190521T110040Z">
@@ -13550,6 +13670,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T113331Z" creationid="Marc Riera" creationdate="20180221T113331Z">
         <seg>El repositori {0} és desconegut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Request error: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231413Z" creationid="Marc Riera" creationdate="20191112T231413Z">
+        <seg>Error de sol·licitud: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Request to TaaS: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231342Z" creationid="Marc Riera" creationdate="20191112T231342Z">
+        <seg>Sol·licitud a TaaS: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -14522,6 +14658,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161517Z" creationid="Packard Bell" creationdate="20150605T161517Z">
         <seg>Selecciona la coincidència anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select TaaS domain</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231357Z" creationid="Marc Riera" creationdate="20191112T231357Z">
+        <seg>Seleccioneu un àmbit de TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -15897,6 +16041,14 @@ L'àmbit de la substitució de text són els segments de destinació del project
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181113T091449Z" creationid="mgalo" creationdate="20181110T001924Z">
         <seg>Segmentació de fitxers de text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text to be removed</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230807Z" creationid="Marc Riera" creationdate="20191112T230807Z">
+        <seg>Text que se suprimirà</seg>
       </tuv>
     </tu>
     <tu>
@@ -18819,6 +18971,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231034Z" creationid="Marc Riera" creationdate="20191112T231034Z">
+        <seg>Si es marca, els elements de la visualització d'emplenament automàtic del glossari també contindran el text d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When hovering the mouse over the underlined phrase, an explanation will appear.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T125920Z" creationid="Packard Bell" creationdate="20150528T181646Z">
@@ -19113,6 +19273,14 @@ Tant la cerca exacta com la cerca per paraules clau admeten els caràcters comod
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Wrong response format from TaaS service</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231456Z" creationid="Marc Riera" creationdate="20191112T231441Z">
+        <seg>El format de la resposta del servei de TaaS és incorrecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wrong response from engine</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T105205Z" creationid="mgalo" creationdate="20181113T095036Z">
@@ -19287,6 +19455,14 @@ Tant la cerca exacta com la cerca per paraules clau admeten els caràcters comod
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181109T120729Z" creationid="mgalo" creationdate="20181109T120729Z">
         <seg>Aquesta acció modificarà {0} segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231228Z" creationid="Marc Riera" creationdate="20191112T231228Z">
+        <seg>Esteu intentant utilitzar el tokenitzador del Hunspell amb la llengua «{0}», però no hi ha cap diccionari ortogràfic instal·lat per a aquesta llengua.</seg>
       </tuv>
     </tu>
     <tu>
