@@ -1516,6 +1516,26 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--disable-location-save
+		Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215938Z" creationid="Marc Riera" creationdate="20191112T215938Z">
+        <seg>--disable-location-save
+		No recordis el darrer directori obert al selector de fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-project-locking
+		Do not attempt to lock the project's omegat.project file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215900Z" creationid="Marc Riera" creationdate="20191112T215900Z">
+        <seg>--disable-project-locking
+		No intentis blocar el fitxer omegat.project del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
@@ -4877,6 +4897,22 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181108T154125Z" creationid="mgalo" creationdate="20181108T154125Z">
         <seg>Cursor bloquejat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cursor locked</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T220131Z" creationid="Marc Riera" creationdate="20191112T220131Z">
+        <seg>Cursor blocat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T220137Z" creationid="Marc Riera" creationdate="20191112T220137Z">
+        <seg>Cursor desblocat</seg>
       </tuv>
     </tu>
     <tu>
@@ -8794,6 +8830,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Jar used for plugins: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T220419Z" creationid="Marc Riera" creationdate="20191112T220419Z">
+        <seg>Jar utilitzat per als connectors: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java Properties XML</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T232759Z" creationid="mgalo" creationdate="20181111T223312Z">
@@ -8981,6 +9025,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T111614Z" creationid="Marc Riera" creationdate="20180221T111614Z">
         <seg>&amp;Registre...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LCK</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T220217Z" creationid="Marc Riera" creationdate="20191112T220157Z">
+        <seg>BLC</seg>
       </tuv>
     </tu>
     <tu>
@@ -10870,6 +10922,14 @@ adequada, com ara la carpeta Aplicacions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OVR</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T220234Z" creationid="Marc Riera" creationdate="20191112T220234Z">
+        <seg>SBR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181114T120459Z">
@@ -11742,6 +11802,14 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T134452Z" creationid="Marc Riera" creationdate="20190924T134452Z">
         <seg>En cas contrari, l'OmegaT utilitzarà la llengua del sistema operatiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite Mode</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T220122Z" creationid="Marc Riera" creationdate="20191112T220122Z">
+        <seg>Mode de sobreescriptura</seg>
       </tuv>
     </tu>
     <tu>
@@ -14569,6 +14637,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T223854Z" creationid="Marc Riera" creationdate="20191112T223854Z">
+        <seg>S'està ometent el connector carregat anteriorment de la classe «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Sli&amp;de Masters</seg>
@@ -17359,6 +17435,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>UNL</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T220224Z" creationid="Marc Riera" creationdate="20191112T220202Z">
+        <seg>DESBLC</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>URL</seg>
@@ -17825,6 +17909,14 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T160436Z" creationid="Packard Bell" creationdate="20150605T160436Z">
         <seg>Ús</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T220356Z" creationid="Marc Riera" creationdate="20191112T220356Z">
+        <seg>Utilitzeu $n per fer referència al grup núm. n.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19760,6 +19852,16 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145417Z" creationid="Marc Riera" creationdate="20190924T145417Z">
         <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>init &lt;source language&gt; &lt;target language&gt;
+		Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T220055Z" creationid="Marc Riera" creationdate="20191112T220055Z">
+        <seg>init &lt;llengua d'origen&gt; &lt;llengua de destinació&gt;
+		Inicialitza un projecte en equip mínim amb les llengües especificades.</seg>
       </tuv>
     </tu>
     <tu>
