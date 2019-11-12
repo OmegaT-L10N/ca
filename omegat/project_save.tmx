@@ -297,8 +297,8 @@
       <tuv lang="en">
         <seg>&amp;Copy Support Info</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181118T101143Z" creationid="mgalo" creationdate="20181118T101143Z">
-        <seg>&amp;Copia les dades de suport</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T224321Z" creationid="mgalo" creationdate="20181118T101143Z">
+        <seg>&amp;Copia la informació d'assistència</seg>
       </tuv>
     </tu>
     <tu>
@@ -564,6 +564,14 @@
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T212411Z" creationid="mgalo" creationdate="20181108T151748Z">
         <seg>&amp;Ignora les coincidències amb majúscules i minúscules molt diferents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T224148Z" creationid="Marc Riera" creationdate="20191112T224132Z">
+        <seg>&amp;Ignora els atributs «type» i «ctype» en crear etiquetes reduïdes &lt;ph&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5446,6 +5454,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T224738Z" creationid="Marc Riera" creationdate="20191112T224738Z">
+        <seg>No tradueixis l'atribut de contingut de les metaetiquetes amb els parells de clau-valor d'atribut següents (separats per comes):</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Do you really want to quit?</seg>
@@ -7488,11 +7504,12 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Groovy (Apache Licence 2.0)</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181113T090516Z" creationid="mgalo" creationdate="20181113T090516Z">
-        <seg>Groovy (Llicència Apache 2.0)</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T224229Z" creationid="mgalo" creationdate="20181113T090516Z">
+        <seg>Groovy (llicència Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8091,6 +8108,14 @@ feu clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T104328Z" creationid="Marc Riera" creationdate="20190521T104328Z">
         <seg>Ignora-ho tot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T224202Z" creationid="Marc Riera" creationdate="20191112T224202Z">
+        <seg>&amp;Ignora els atributs «type» i «ctype» en crear etiquetes reduïdes &lt;&amp;bpt&gt; i &lt;ept&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9268,6 +9293,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Last changes</seg>
       </tuv>
@@ -10743,8 +10769,8 @@ adequada, com ara la carpeta Aplicacions.</seg>
       <tuv lang="en">
         <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224421Z" creationid="Marc Riera" creationdate="20180214T224421Z">
-        <seg>Nota: Els fitxers DocBook no només es reconeixen a partir de l'extensió del fitxer, sinó que també han de tenir una declaració DOCTYPE: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... per al DocBook 4, o bé Namespace: xmlns="http://docbook.org/ns/docbook" per al DocBook 5</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T224020Z" creationid="Marc Riera" creationdate="20180214T224421Z">
+        <seg>Nota: Els fitxers DocBook no només es reconeixen a partir de l'extensió del fitxer, sinó que també han de tenir una declaració DOCTYPE: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... per al DocBook 4, o bé un espai de noms: xmlns="http://docbook.org/ns/docbook" per al DocBook 5</seg>
       </tuv>
     </tu>
     <tu>
@@ -10767,8 +10793,8 @@ adequada, com ara la carpeta Aplicacions.</seg>
       <tuv lang="en">
         <seg>Note: not all filters allow you to select an encoding.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114830Z" creationid="Marc Riera" creationdate="20180221T114830Z">
-        <seg>Nota: No tots els filtres permeten seleccionar la codificació.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T224445Z" creationid="Marc Riera" creationdate="20180221T114830Z">
+        <seg>Nota: no tots els filtres permeten seleccionar una codificació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10883,7 +10909,7 @@ adequada, com ara la carpeta Aplicacions.</seg>
       <tuv lang="en">
         <seg>O&amp;ptions...</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T151531Z" creationid="Marc Riera" creationdate="20180221T114848Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T224544Z" creationid="Marc Riera" creationdate="20180221T114848Z">
         <seg>&amp;Paràmetres...</seg>
       </tuv>
     </tu>
@@ -13616,6 +13642,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T151243Z" creationid="mgalo" creationdate="20181113T090239Z">
         <seg>SQLJet (llicència GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SVG Image and Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T223931Z" creationid="Marc Riera" creationdate="20191112T223931Z">
+        <seg>Imatge SVG i exportació de l'Adobe Illustrator</seg>
       </tuv>
     </tu>
     <tu>
@@ -19876,8 +19910,8 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       <tuv lang="en">
         <seg>juniversalchardet (GPL)</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181118T101050Z" creationid="mgalo" creationdate="20181118T101050Z">
-        <seg>juniversalchardet (Llicència GPL)</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T224238Z" creationid="mgalo" creationdate="20181118T101050Z">
+        <seg>juniversalchardet (llicència GPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20005,8 +20039,8 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       <tuv lang="en">
         <seg>trie4j (Apache License 2.0)</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181118T101132Z" creationid="mgalo" creationdate="20181118T101132Z">
-        <seg>trie4j (Llicència Apache 2.0)</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T224300Z" creationid="mgalo" creationdate="20181118T101132Z">
+        <seg>trie4j (llicència Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20227,6 +20261,7 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
     <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">OpenXML_WORD</prop>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Word</seg>
       </tuv>
