@@ -310,6 +310,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Cycle</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225952Z" creationid="Marc Riera" creationdate="20191112T225952Z">
+        <seg>&amp;Canvia cíclicament</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Defaults</seg>
@@ -1333,8 +1341,8 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       <tuv lang="en">
         <seg>(+{0} more)</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T100248Z" creationid="mgalo" creationdate="20181112T100248Z">
-        <seg>(+{0} més)</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230026Z" creationid="mgalo" creationdate="20181112T100248Z">
+        <seg>(i {0} més)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3967,6 +3975,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Checking out the project...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230454Z" creationid="Marc Riera" creationdate="20191112T230454Z">
+        <seg>S'està recuperant el projecte...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Checks for language errors (style, grammar, etc.).</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150801T121205Z" creationid="Alexandra" creationdate="20150526T161346Z">
@@ -4268,6 +4284,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T110612Z" creationid="mgalo" creationdate="20181112T213535Z">
         <seg>Envia els fitxers de destinació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Commit not possible because somebody else changed remote translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230324Z" creationid="Marc Riera" creationdate="20191112T230324Z">
+        <seg>No s'ha pogut publicar perquè algú altre ha canviat la traducció remota.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6086,6 +6110,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="marc" changedate="20191030T211219Z" creationid="marc" creationdate="20191030T211219Z">
         <seg>Assegureu-vos que l'URL del servidor és correcte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225834Z" creationid="Marc Riera" creationdate="20191112T225834Z">
+        <seg>Assegureu-vos que esteu indicant la versió de l'API correcta (l'URL ha d'incloure «/v2/»).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9284,6 +9316,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LanguageTool: Server start timeout</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225859Z" creationid="Marc Riera" creationdate="20191112T225859Z">
+        <seg>LanguageTool: s'ha esgotat el temps d'espera d'inici del servidor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LanguageTool: bad local path</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T153742Z" creationid="Marc Riera" creationdate="20190924T153742Z">
@@ -9599,6 +9639,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T222239Z" creationid="mgalo" creationdate="20181112T222239Z">
         <seg>Ruta d'instal·lació local:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local translation not synchronized with remote repository.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230515Z" creationid="Marc Riera" creationdate="20191112T230515Z">
+        <seg>La traducció local no està sincronitzada amb el dispòsit remot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10663,8 +10711,8 @@ adequada, com ara la carpeta Aplicacions.</seg>
       <tuv lang="en">
         <seg>No script bound in slot #{0}.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T231935Z" creationid="Marc Riera" creationdate="20191110T231935Z">
-        <seg>No s'ha enllaçat cap script a la ranura #{0}.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230143Z" creationid="Marc Riera" creationdate="20191110T231935Z">
+        <seg>No s'ha enllaçat cap script a la ranura núm. {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11784,6 +11832,14 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Opening team project</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230631Z" creationid="Marc Riera" creationdate="20191112T230631Z">
+        <seg>S'està obrint el projecte en equip</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Options</seg>
@@ -12265,6 +12321,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T094656Z" creationid="mgalo" creationdate="20181112T094656Z">
         <seg>Seleccioneu els diccionaris que voleu instal·lar i premeu el botó Instal·la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please select the interval at which the project should be saved automatically, in minutes and seconds.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230744Z" creationid="Marc Riera" creationdate="20191112T230744Z">
+        <seg>Seleccioneu l'interval en què es desarà automàticament el projecte, en minuts i segons.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12918,6 +12982,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Push failed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230417Z" creationid="Marc Riera" creationdate="20191112T230417Z">
+        <seg>Ha fallat l'enviament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>QuarkXPress CopyFlow Gold</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224258Z" creationid="Marc Riera" creationdate="20180214T224258Z">
@@ -13051,6 +13123,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T132927Z" creationid="Marc Riera" creationdate="20190924T132927Z">
         <seg>Actualitza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refreshing script folder "{0}"</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230116Z" creationid="Marc Riera" creationdate="20191112T230116Z">
+        <seg>S'està actualitzant la carpeta d'scripts «{0}»</seg>
       </tuv>
     </tu>
     <tu>
@@ -13671,6 +13751,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run script on slot #{0}.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230135Z" creationid="Marc Riera" creationdate="20191112T230135Z">
+        <seg>Executa l'script a la ranura núm. {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Running on Java {0} ({1}-bit)</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181118T100227Z" creationid="mgalo" creationdate="20181107T233920Z">
@@ -13854,6 +13942,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Saving and Output Options</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230715Z" creationid="Marc Riera" creationdate="20191112T230715Z">
+        <seg>Opcions de desament i sortida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Saving and Output...</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T162039Z" creationid="Packard Bell" creationdate="20150605T162039Z">
@@ -13896,10 +13992,26 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Script "{0}" bound to slot #{1}.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230224Z" creationid="Marc Riera" creationdate="20191112T230224Z">
+        <seg>S'ha enllaçat l'script «{0}» a la ranura núm. {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Script "{0}" saved.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T105727Z" creationid="Marc Riera" creationdate="20190521T105727Z">
         <seg>S'ha desat l'script «{0}».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Script "{0}" unbound from slot #{1}.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230235Z" creationid="Marc Riera" creationdate="20191112T230235Z">
+        <seg>S'ha desenllaçat l'script «{0}» de la ranura núm. {1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14760,6 +14872,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T223854Z" creationid="Marc Riera" creationdate="20191112T223854Z">
         <seg>S'està ometent el connector carregat anteriorment de la classe «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipping.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230639Z" creationid="Marc Riera" creationdate="20191112T230639Z">
+        <seg>S'omet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16338,6 +16458,14 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project folder {0} is missing and could not be created.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230550Z" creationid="Marc Riera" creationdate="20191112T230550Z">
+        <seg>Falta la carpeta del projecte «{0}» i no s'ha pogut crear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project was converted successfully.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190925T073707Z" creationid="Marc Riera" creationdate="20190521T112120Z">
@@ -16717,6 +16845,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T094408Z" creationid="mgalo" creationdate="20181112T094408Z">
         <seg>Aquesta ID ja està en ús.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This URL appears to be invalid.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230602Z" creationid="Marc Riera" creationdate="20191112T230602Z">
+        <seg>Sembla que l'URL no és vàlid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17905,6 +18041,14 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074206Z" creationid="Marc Riera" creationdate="20190925T074206Z">
         <seg>No especificat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unsupported SVN error</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230344Z" creationid="Marc Riera" creationdate="20191112T230344Z">
+        <seg>Error de l'SVN no suportat</seg>
       </tuv>
     </tu>
     <tu>
