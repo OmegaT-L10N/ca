@@ -2605,6 +2605,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add To Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T232433Z" creationid="Marc Riera" creationdate="20191112T232433Z">
+        <seg>Afegeix al diccionari: «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T103621Z" creationid="mgalo" creationdate="20181112T103621Z">
@@ -5324,8 +5332,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Disable rule “{0}”</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T120615Z" creationid="Marc Riera" creationdate="20190520T120615Z">
-        <seg>Desactiva la regla “{0}”</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T232516Z" creationid="Marc Riera" creationdate="20190520T120615Z">
+        <seg>Inhabilita la regla «{0}»</seg>
       </tuv>
     </tu>
     <tu>
@@ -5580,8 +5588,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Do you want to replace it with the one you're moving?</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231724Z" creationid="Marc Riera" creationdate="20191112T231724Z">
-        <seg>Voleu substituir-lo per l'element que esteu desplaçant?</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231806Z" creationid="Marc Riera" creationdate="20191112T231724Z">
+        <seg>Voleu reemplaçar-lo per l'element que esteu desplaçant?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7742,6 +7750,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Has note</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T232021Z" creationid="Marc Riera" creationdate="20191112T232021Z">
+        <seg>Té una nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Have you considered writing some user documentation yourself?</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150604T184829Z" creationid="Alexandra" creationdate="20150526T132111Z">
@@ -8280,6 +8296,14 @@ feu clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore: “{0}”</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T232441Z" creationid="Marc Riera" creationdate="20191112T232441Z">
+        <seg>Ignora: «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Important: in order to use the plug-ins, you may need to install a more recent version of OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150801T121534Z" creationid="Alexandra" creationdate="20150526T155351Z">
@@ -8760,10 +8784,26 @@ feu clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Is alternative</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T232029Z" creationid="Marc Riera" creationdate="20191112T232029Z">
+        <seg>És una traducció alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Is default translation</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110844Z" creationid="Marc Riera" creationdate="20190521T110844Z">
         <seg>És la traducció per defecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is duplicate</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T232003Z" creationid="Marc Riera" creationdate="20191112T232003Z">
+        <seg>És un duplicat</seg>
       </tuv>
     </tu>
     <tu>
@@ -10180,6 +10220,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match type</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T232051Z" creationid="Marc Riera" creationdate="20191112T232051Z">
+        <seg>Tipus de coincidència</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T091006Z" creationid="mgalo" creationdate="20181112T090807Z">
@@ -11028,6 +11076,14 @@ adequada, com ara la carpeta Aplicacions.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T224917Z" creationid="Marc Riera" creationdate="20191110T224917Z">
         <seg>Notificació (fixa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me When a Segment Has "{0}"</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231925Z" creationid="Marc Riera" creationdate="20191112T231925Z">
+        <seg>Notifica'm que un segment té «{0}»</seg>
       </tuv>
     </tu>
     <tu>
@@ -13771,6 +13827,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Resource name</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231957Z" creationid="Marc Riera" creationdate="20191112T231957Z">
+        <seg>Nom del recurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Resources</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T125820Z" creationid="Marc Riera" creationdate="20190520T125820Z">
@@ -14058,6 +14122,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181111T225457Z" creationid="mgalo" creationdate="20181111T225457Z">
         <seg>Desa l'estat d'aut&amp;opropagat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save changes to filter settings?</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T232137Z" creationid="Marc Riera" creationdate="20191112T232137Z">
+        <seg>Voleu desar els canvis als paràmetres del filtre?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save changes to segmentation rules?</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T232126Z" creationid="Marc Riera" creationdate="20191112T232126Z">
+        <seg>Voleu desar els canvis a les regles de segmentació?</seg>
       </tuv>
     </tu>
     <tu>
@@ -14591,6 +14671,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Select Issue Types</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T232530Z" creationid="Marc Riera" creationdate="20191112T232530Z">
+        <seg>Seleccioneu el tipus d'errors</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Select Mat&amp;ch</seg>
@@ -14674,6 +14762,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T122843Z" creationid="Marc Riera" creationdate="20190520T122843Z">
         <seg>Selecciona una categoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select issue types to check.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T232544Z" creationid="Marc Riera" creationdate="20191112T232544Z">
+        <seg>Seleccioneu el tipus d'errors que es comprovaran.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15730,6 +15826,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Table View</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231849Z" creationid="Marc Riera" creationdate="20191112T231849Z">
+        <seg>Visualització de taula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tag</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074144Z" creationid="Marc Riera" creationdate="20190925T074144Z">
@@ -16548,6 +16652,14 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181118T000459Z" creationid="mgalo" creationdate="20181118T000459Z">
         <seg>El component de programari lliure LanguageTool es pot fer servir per corregir errors gramàticals i estilístics freqüents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The password cannot be empty.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T232611Z" creationid="Marc Riera" creationdate="20191112T232611Z">
+        <seg>La contrasenya no pot estar buida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17697,6 +17809,14 @@ que conté els fitxers OmegaT.jar i linux-install.sh i executeu l'script amb
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223122Z" creationid="Marc Riera" creationdate="20180214T223122Z">
         <seg>Carpeta de les memòries de traducció:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation is fuzzy</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231947Z" creationid="Marc Riera" creationdate="20191112T231947Z">
+        <seg>La traducció és una coincidència parcial</seg>
       </tuv>
     </tu>
     <tu>
