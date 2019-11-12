@@ -117,8 +117,8 @@
       <tuv lang="en">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T115050Z" creationid="Marc Riera" creationdate="20180221T115050Z">
-        <seg>Permet que la traducció sigui &amp;igual que el text de partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215016Z" creationid="Marc Riera" creationdate="20180221T115050Z">
+        <seg>Permet que la traducció sigui &amp;igual que el text d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -305,8 +305,8 @@
       <tuv lang="en">
         <seg>&amp;Current Source Document</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181108T133109Z" creationid="mgalo" creationdate="20181108T133109Z">
-        <seg>Fitxer de partida &amp;actual</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214828Z" creationid="mgalo" creationdate="20181108T133109Z">
+        <seg>Fitxer d'origen &amp;actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -920,8 +920,8 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       <tuv lang="en">
         <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T105354Z" creationid="mgalo" creationdate="20181109T132009Z">
-        <seg>&amp;Elimina les cadenes sense traduir en els fitxers d'arribada</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181109T132009Z">
+        <seg>&amp;Elimina les cadenes sense traduir en els fitxers de destinació</seg>
       </tuv>
     </tu>
     <tu>
@@ -1158,8 +1158,8 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       <tuv lang="en">
         <seg>&amp;Source Language Tokenizer:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223126Z" creationid="Marc Riera" creationdate="20180214T223126Z">
-        <seg>Analit&amp;zador lèxic de la llengua de partida:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215005Z" creationid="Marc Riera" creationdate="20180214T223126Z">
+        <seg>Analit&amp;zador lèxic de la llengua d'origen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1191,8 +1191,8 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       <tuv lang="en">
         <seg>&amp;Target Language Tokenizer:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223127Z" creationid="Marc Riera" creationdate="20180214T223127Z">
-        <seg>Analitzador lè&amp;xic de la llengua d'arribada:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="Marc Riera" creationdate="20180214T223127Z">
+        <seg>Analitzador lè&amp;xic de la llengua de destinació:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1369,8 +1369,8 @@ nom no apareix a la llista, no dubteu a posar-vos en contacte amb nosaltres.)</s
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181107T234451Z" creationid="Marc Riera" creationdate="20180210T213238Z">
-        <seg>(Al manual d'usuari, vegeu «Fitxers per traduir» &gt; «Formats de fitxer» per veure una llista dels formats de fitxer compatibles). Per afegir fitxers al projecte, feu clic al botó Copia fitxers a la carpeta de fitxers de partida... de la finestra Fitxers del projecte o crideu aquesta acció des del menú Projecte i seleccioneu els fitxers de partida que voleu copiar.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215004Z" creationid="Marc Riera" creationdate="20180210T213238Z">
+        <seg>(Al manual d'usuari, vegeu «Fitxers per traduir» &gt; «Formats de fitxer» per veure una llista dels formats de fitxer compatibles). Per afegir fitxers al projecte, feu clic al botó Copia fitxers a la carpeta de fitxers d'origen... de la finestra Fitxers del projecte o crideu aquesta acció des del menú Projecte i seleccioneu els fitxers d'origen que voleu copiar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2627,8 +2627,8 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T222320Z" creationid="mgalo" creationdate="20181114T114705Z">
-        <seg>Un cop s'hagin carregat els fitxers de partida al panell de l'&lt;g3&gt;Editor&lt;/g3&gt;, podeu tancar el quadre de diàleg &lt;g4&gt;Fitxers del projecte&lt;/g4&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215021Z" creationid="mgalo" creationdate="20181114T114705Z">
+        <seg>Un cop s'hagin carregat els fitxers d'origen al panell de l'&lt;g3&gt;Editor&lt;/g3&gt;, podeu tancar el quadre de diàleg &lt;g4&gt;Fitxers del projecte&lt;/g4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2799,8 +2799,8 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>Allow translating &amp;blank source segments</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114038Z" creationid="Marc Riera" creationdate="20180221T114038Z">
-        <seg>Permet la traducció de segments de partida en &amp;blanc</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215013Z" creationid="Marc Riera" creationdate="20180221T114038Z">
+        <seg>Permet la traducció de segments d'origen en &amp;blanc</seg>
       </tuv>
     </tu>
     <tu>
@@ -3123,8 +3123,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T222307Z" creationid="mgalo" creationdate="20181113T181107Z">
-        <seg>A la part superior d'aquest quadre de diàleg, seleccioneu la llengua dels fitxers de partida i la llengua a la qual traduireu i feu clic a &lt;g1&gt;D'acord&lt;/g1&gt; per continuar.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215020Z" creationid="mgalo" creationdate="20181113T181107Z">
+        <seg>A la part superior d'aquest quadre de diàleg, seleccioneu la llengua dels fitxers d'origen i la llengua a la qual traduireu i feu clic a &lt;g1&gt;D'acord&lt;/g1&gt; per continuar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3580,8 +3580,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>C&amp;urrent Target Document</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181111T214900Z" creationid="mgalo" creationdate="20181111T214829Z">
-        <seg>Fitxer d'arribada a&amp;ctual</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181111T214829Z">
+        <seg>Fitxer de destinació a&amp;ctual</seg>
       </tuv>
     </tu>
     <tu>
@@ -4040,8 +4040,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181113T181304Z" creationid="mgalo" creationdate="20181113T181304Z">
-        <seg>Feu clic a &lt;g1&gt;Copia fitxers a la carpeta de fitxers de partida...&lt;/g1&gt; per seleccionar els fitxers de partida.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215021Z" creationid="mgalo" creationdate="20181113T181304Z">
+        <seg>Feu clic a &lt;g1&gt;Copia fitxers a la carpeta de fitxers d'origen...&lt;/g1&gt; per seleccionar els fitxers d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4551,8 +4551,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213445Z" creationid="Marc Riera" creationdate="20180210T213445Z">
-        <seg>Cop&amp;ia fitxers a la carpeta de fitxers de partida...</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214819Z" creationid="Marc Riera" creationdate="20180210T213445Z">
+        <seg>Cop&amp;ia fitxers a la carpeta de fitxers d'origen...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4578,8 +4578,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213447Z" creationid="Marc Riera" creationdate="20180210T213447Z">
-        <seg>Copia fitxers a la carpeta de fitxers de partida...</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214823Z" creationid="Marc Riera" creationdate="20180210T213447Z">
+        <seg>Copia fitxers a la carpeta de fitxers d'origen...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5274,8 +5274,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Display Source Segments</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161804Z" creationid="Packard Bell" creationdate="20150605T161804Z">
-        <seg>Mostra els segments de partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214949Z" creationid="Packard Bell" creationdate="20150605T161804Z">
+        <seg>Mostra els segments d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -5340,8 +5340,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T224019Z" creationid="mgalo" creationdate="20181115T224019Z">
-        <seg>Mostra les entrades de diccionari que apareixen en els fitxers de diccionari de la carpeta /dictionary/ si estan presents en el segment de partida.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215017Z" creationid="mgalo" creationdate="20181115T224019Z">
+        <seg>Mostra les entrades de diccionari que apareixen en els fitxers de diccionari de la carpeta /dictionary/ si estan presents en el segment d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5364,8 +5364,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T223949Z" creationid="mgalo" creationdate="20181115T223949Z">
-        <seg>Mostra les entrades de glossari que apareixen en els fitxers de glossari de la carpeta /glossary/ si estan presents en el segment de partida.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215016Z" creationid="mgalo" creationdate="20181115T223949Z">
+        <seg>Mostra les entrades de glossari que apareixen en els fitxers de glossari de la carpeta /glossary/ si estan presents en el segment d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5380,8 +5380,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T123413Z" creationid="mgalo" creationdate="20181111T230625Z">
-        <seg>Mostra la traducció del segment de partida feta pels motors de traducció automàtica que hàgiu seleccionat en el menú Preferències &gt; Traducció automàtica, sempre que aquests motors estiguin disponibles.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215017Z" creationid="mgalo" creationdate="20181111T230625Z">
+        <seg>Mostra la traducció del segment d'origen feta pels motors de traducció automàtica que hàgiu seleccionat en el menú Preferències &gt; Traducció automàtica, sempre que aquests motors estiguin disponibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5410,6 +5410,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Do you really want to quit?</seg>
       </tuv>
@@ -6031,8 +6032,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180212T221312Z" creationid="Marc Riera" creationdate="20180212T221312Z">
-        <seg>Escriviu un terme de partida, un terme d'arribada i un comentari:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="Marc Riera" creationdate="20180212T221312Z">
+        <seg>Escriviu un terme d'origen, un terme de destinació i un comentari:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6801,8 +6802,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181108T154310Z" creationid="mgalo" creationdate="20181108T154310Z">
-        <seg>Fitxer: únics traduïts % (únics sense traduir) / projecte: únics traduïts % (únics sense traduir), nombre total de segments</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215644Z" creationid="mgalo" creationdate="20181108T154310Z">
+        <seg>Fitxer: % de segments únics traduïts (segments únics restants) / projecte: % de segments únics traduïts (segments únics restants), nombre total de segments</seg>
       </tuv>
     </tu>
     <tu>
@@ -7611,8 +7612,8 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114825Z" creationid="Marc Riera" creationdate="20180221T114825Z">
-        <seg>Aquí podeu configurar els patrons de noms de fitxer de partida dels fitxers que processarà cada filtre, personalitzar el nom dels fitxers traduïts i seleccionar la codificació que s'utilitzarà per carregar el fitxer i desar el respectiu fitxer traduït.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215014Z" creationid="Marc Riera" creationdate="20180221T114825Z">
+        <seg>Aquí podeu configurar els patrons de noms de fitxer d'origen dels fitxers que processarà cada filtre, personalitzar el nom dels fitxers traduïts i seleccionar la codificació que s'utilitzarà per carregar el fitxer i desar el respectiu fitxer traduït.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7718,8 +7719,8 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181114T121305Z" creationid="mgalo" creationdate="20181114T121305Z">
-        <seg>Teniu en compte, però, que si les etiquetes de format s'introdueixen manualment de manera errònia, es podrien produir errors a l'hora d'intentar obrir els fitxers d'arribada.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181114T121305Z">
+        <seg>Teniu en compte, però, que si les etiquetes de format s'introdueixen manualment de manera errònia, es podrien produir errors a l'hora d'intentar obrir els fitxers de destinació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7777,6 +7778,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181111T223949Z" creationid="mgalo" creationdate="20181111T223949Z">
         <seg>Fitxer de llengua ILIAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>INS</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215254Z" creationid="Marc Riera" creationdate="20191112T215254Z">
+        <seg>INS</seg>
       </tuv>
     </tu>
     <tu>
@@ -7859,8 +7868,8 @@ no cal introduir el camí complet.)</seg>
       <tuv lang="en">
         <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150722T194033Z" creationid="Packard Bell" creationdate="20150529T164034Z">
-        <seg>Si no es fa cap substitució en el segment determinat, el segment d'arribada "es buidarà", és a dir, es mantindrà sense traduir.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="Packard Bell" creationdate="20150529T164034Z">
+        <seg>Si no es fa cap substitució en el segment determinat, el segment de destinació "es buidarà", és a dir, es mantindrà sense traduir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8025,8 +8034,8 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       <tuv lang="en">
         <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181114T120542Z" creationid="mgalo" creationdate="20181114T120359Z">
-        <seg>Si els fitxers de partida són fitxers amb format, com, per exemple, de Microsoft Word, LibreOffice Writer o HTML, l'OmegaT convertirà els elements de format en etiquetes que envolten el text a traduir.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215021Z" creationid="mgalo" creationdate="20181114T120359Z">
+        <seg>Si els fitxers d'origen són fitxers amb format, com, per exemple, de Microsoft Word, LibreOffice Writer o HTML, l'OmegaT convertirà els elements de format en etiquetes que envolten el text a traduir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8277,8 +8286,16 @@ feu clic en la drecera.</seg>
       <tuv lang="en">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213714Z" creationid="Marc Riera" creationdate="20180210T213714Z">
-        <seg>Insereix les e&amp;tiquetes que falten del text de partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214838Z" creationid="Marc Riera" creationdate="20180210T213714Z">
+        <seg>Insereix les e&amp;tiquetes que falten del text d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Mode</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215249Z" creationid="Marc Riera" creationdate="20191112T215249Z">
+        <seg>Mode d'inserció</seg>
       </tuv>
     </tu>
     <tu>
@@ -8301,8 +8318,8 @@ feu clic en la drecera.</seg>
       <tuv lang="en">
         <seg>Insert Source</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161449Z" creationid="Packard Bell" creationdate="20150605T161449Z">
-        <seg>Insereix el text de partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214946Z" creationid="Packard Bell" creationdate="20150605T161449Z">
+        <seg>Insereix el text d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -8341,8 +8358,8 @@ feu clic en la drecera.</seg>
       <tuv lang="en">
         <seg>Insert the &amp;source text</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181110T002347Z" creationid="mgalo" creationdate="20181110T002347Z">
-        <seg>In&amp;sereix el text de partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215016Z" creationid="mgalo" creationdate="20181110T002347Z">
+        <seg>In&amp;sereix el text d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -8636,8 +8653,8 @@ feu clic en la drecera.</seg>
       <tuv lang="en">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181117T234459Z" creationid="mgalo" creationdate="20181114T124011Z">
-        <seg>De vegades pot ser útil de cercar paraules o expressions tant en el text de partida com en el d'arribada. Per fer això, en qualsevol moment podeu prémer &lt;k0&gt;Ctrl+F&lt;/k0&gt; per obrir el quadre de diàleg de &lt;g1&gt;Cerca de text&lt;/g1&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181114T124011Z">
+        <seg>De vegades pot ser útil de cercar paraules o expressions tant en el text d'origen com en el de destinació. Per fer això, en qualsevol moment podeu prémer &lt;k0&gt;Ctrl+F&lt;/k0&gt; per obrir el quadre de diàleg de &lt;g1&gt;Cerca de text&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8803,8 +8820,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Java command-line script for removing "superfluous" translation units from a TMX file: deletes all TUs without target segment or in which the target segment is identical to the source segment.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150604T184326Z" creationid="Alexandra" creationdate="20150526T140423Z">
-        <seg>Script de línies d'ordres de Java per eliminar unitats de traducció "supèrflues" d'un fitxer TMX: suprimeix totes les unitats de traducció sense segment d'arribada o en què el segment d'arribada sigui idèntic al segment de partida.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="Alexandra" creationdate="20150526T140423Z">
+        <seg>Script de línies d'ordres de Java per eliminar unitats de traducció "supèrflues" d'un fitxer TMX: suprimeix totes les unitats de traducció sense segment de destinació o en què el segment de destinació sigui idèntic al segment d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10682,16 +10699,16 @@ adequada, com ara la carpeta Aplicacions.</seg>
       <tuv lang="en">
         <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T221815Z" creationid="mgalo" creationdate="20181115T221815Z">
-        <seg>Nota: Els paràmetres de codificació dels fitxers de partida afecten només els fitxers HHC i HHK que no contenen cap declaració de codificació.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215015Z" creationid="mgalo" creationdate="20181115T221815Z">
+        <seg>Nota: Els paràmetres de codificació dels fitxers d'origen afecten només els fitxers HHC i HHK que no contenen cap declaració de codificació.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T221934Z" creationid="mgalo" creationdate="20181109T234724Z">
-        <seg>Nota: Els paràmetres de codificació dels arxius de partida afecten només als fitxers que no contenen cap declaració de codificació.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215015Z" creationid="mgalo" creationdate="20181109T234724Z">
+        <seg>Nota: Els paràmetres de codificació dels arxius d'origen afecten només als fitxers que no contenen cap declaració de codificació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10855,8 +10872,8 @@ adequada, com ara la carpeta Aplicacions.</seg>
       <tuv lang="en">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181114T120556Z" creationid="mgalo" creationdate="20181114T120459Z">
-        <seg>També pot ser que els documents incloguin etiquetes que no tenen a veure amb el format, però que també són importants en els fitxers de partida (i en els fitxers d'arribada).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181114T120459Z">
+        <seg>També pot ser que els documents incloguin etiquetes que no tenen a veure amb el format, però que també són importants en els fitxers d'origen (i en els fitxers de destinació).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11416,8 +11433,8 @@ Runtime Environment (JRE) al sistema.</seg>
       <tuv lang="en">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181117T234455Z" creationid="mgalo" creationdate="20181114T121649Z">
-        <seg>Un cop us hàgiu assegurat que a la vostra traducció no hi ha errors relacionats amb les etiquetes, premeu &lt;k0&gt;Ctrl+D&lt;/k0&gt; per generar els fitxers d'arribada. Els fitxers es crearan dins la subcarpeta &lt;f1&gt;/folder/&lt;/f1&gt; del projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181114T121649Z">
+        <seg>Un cop us hàgiu assegurat que a la vostra traducció no hi ha errors relacionats amb les etiquetes, premeu &lt;k0&gt;Ctrl+D&lt;/k0&gt; per generar els fitxers de destinació. Els fitxers es crearan dins la subcarpeta &lt;f1&gt;/folder/&lt;/f1&gt; del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11520,16 +11537,16 @@ Runtime Environment (JRE) al sistema.</seg>
       <tuv lang="en">
         <seg>Open Target File</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181108T154627Z" creationid="mgalo" creationdate="20181108T154627Z">
-        <seg>Obre el fitxer d'arribada</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181108T154627Z">
+        <seg>Obre el fitxer de destinació</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Open Target File Location</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T121308Z" creationid="mgalo" creationdate="20181108T154703Z">
-        <seg>Obre la ubicació del fitxer d'arribada</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181108T154703Z">
+        <seg>Obre la ubicació del fitxer de destinació</seg>
       </tuv>
     </tu>
     <tu>
@@ -11576,24 +11593,24 @@ Runtime Environment (JRE) al sistema.</seg>
       <tuv lang="en">
         <seg>Open {0} Source Files' Locations</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T122029Z" creationid="Marc Riera" creationdate="20190520T122029Z">
-        <seg>Obre les ubicacions de {0} fitxers de partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215005Z" creationid="Marc Riera" creationdate="20190520T122029Z">
+        <seg>Obre les ubicacions de {0} fitxers d'origen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Open {0} Target Files</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T122046Z" creationid="Marc Riera" creationdate="20190520T122046Z">
-        <seg>Obre {0} fitxers d'arribada</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="Marc Riera" creationdate="20190520T122046Z">
+        <seg>Obre {0} fitxers de destinació</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Open {0} Target Files' Locations</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T122058Z" creationid="Marc Riera" creationdate="20190520T122058Z">
-        <seg>Obre les ubicacions de {0} fitxers d'arribada</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="Marc Riera" creationdate="20190520T122058Z">
+        <seg>Obre les ubicacions de {0} fitxers de destinació</seg>
       </tuv>
     </tu>
     <tu>
@@ -11633,8 +11650,8 @@ Runtime Environment (JRE) al sistema.</seg>
       <tuv lang="en">
         <seg>Options to set the line length in target documents (0 = no limit)</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T125148Z" creationid="mgalo" creationdate="20181109T223906Z">
-        <seg>Opcions per determinar la longitud de línia en els documents d'arribada (0 = sense límit)</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181109T223906Z">
+        <seg>Opcions per determinar la longitud de línia en els documents de destinació (0 = sense límit)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11888,8 +11905,8 @@ Runtime Environment (JRE) al sistema.</seg>
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T113648Z" creationid="mgalo" creationdate="20181115T113648Z">
-        <seg>Col·loqueu els fitxers de partida a ./source i els materials auxiliars a ./tm, ./glossary i ./dictionary segons correspongui i envieu-ho tot.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215002Z" creationid="mgalo" creationdate="20181115T113648Z">
+        <seg>Col·loqueu els fitxers d'origen a ./source i els materials auxiliars a ./tm, ./glossary i ./dictionary segons correspongui i envieu-ho tot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12084,8 +12101,8 @@ si cal fer res més.</seg>
       <tuv lang="en">
         <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T121406Z" creationid="Marc Riera" creationdate="20180214T223229Z">
-        <seg>Seleccioneu la llengua dels fitxers de partida i la llengua d'arribada a la qual voleu traduir-los.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="Marc Riera" creationdate="20180214T223229Z">
+        <seg>Seleccioneu la llengua dels fitxers d'origen i la llengua de destinació a la qual voleu traduir-los.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12636,8 +12653,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181109T121403Z" creationid="mgalo" creationdate="20181109T121403Z">
-        <seg>Les cerques del projecte s'apliquen per defecte als segments de partida i d'arribada, a les memòries de referència, als glossaris, a les notes i als comentaris del projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181109T121403Z">
+        <seg>Les cerques del projecte s'apliquen per defecte als segments d'origen i de destinació, a les memòries de referència, als glossaris, a les notes i als comentaris del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13167,8 +13184,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181218T202603Z" creationid="mgalo" creationdate="20181108T151550Z">
-        <seg>Reemplaça coincidències del &amp;glossari en inserir el text de partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214853Z" creationid="mgalo" creationdate="20181108T151550Z">
+        <seg>Reemplaça coincidències del &amp;glossari en inserir el text d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -13201,8 +13218,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Replace With Source</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161445Z" creationid="Packard Bell" creationdate="20150605T161445Z">
-        <seg>Reemplaça pel text de partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215018Z" creationid="Packard Bell" creationdate="20150605T161445Z">
+        <seg>Reemplaça pel text d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -14036,8 +14053,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Segment source text into paragraphs on:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224326Z" creationid="Marc Riera" creationdate="20180214T224326Z">
-        <seg>Segmenta el text de partida per paràgrafs en:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215013Z" creationid="Marc Riera" creationdate="20180214T224326Z">
+        <seg>Segmenta el text d'origen per paràgrafs en:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14681,40 +14698,40 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Source File Encoding</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224202Z" creationid="Marc Riera" creationdate="20180214T224202Z">
-        <seg>Codificació del fitxer de partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215013Z" creationid="Marc Riera" creationdate="20180214T224202Z">
+        <seg>Codificació del fitxer d'origen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Source File Encoding:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114934Z" creationid="Marc Riera" creationdate="20180221T114934Z">
-        <seg>Codificació del fitxer de partida:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215015Z" creationid="Marc Riera" creationdate="20180221T114934Z">
+        <seg>Codificació del fitxer d'origen:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Source Filename Pattern</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181113T083455Z" creationid="Marc Riera" creationdate="20180214T224201Z">
-        <seg>Patró de nom del fitxer de partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215012Z" creationid="Marc Riera" creationdate="20180214T224201Z">
+        <seg>Patró de nom del fitxer d'origen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Source Filename Pattern:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114929Z" creationid="Marc Riera" creationdate="20180221T114929Z">
-        <seg>Patró de nom de fitxer de partida:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215014Z" creationid="Marc Riera" creationdate="20180221T114929Z">
+        <seg>Patró de nom de fitxer d'origen:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Source Files Folder</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223156Z" creationid="Marc Riera" creationdate="20180214T223156Z">
-        <seg>Carpeta dels fitxers de partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215007Z" creationid="Marc Riera" creationdate="20180214T223156Z">
+        <seg>Carpeta dels fitxers d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -14763,16 +14780,16 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223331Z" creationid="Marc Riera" creationdate="20180214T223331Z">
-        <seg>La carpeta dels fitxers de partida que heu especificat no existeix.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215009Z" creationid="Marc Riera" creationdate="20180214T223331Z">
+        <seg>La carpeta dels fitxers d'origen que heu especificat no existeix.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Source folder {0} does not exist.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T225744Z" creationid="mgalo" creationdate="20181115T225744Z">
-        <seg>La carpeta de fitxers de partida {0} no existeix.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215017Z" creationid="mgalo" creationdate="20181115T225744Z">
+        <seg>La carpeta de fitxers d'origen {0} no existeix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14796,8 +14813,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Source segment could not be located for certain translation units.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224105Z" creationid="Marc Riera" creationdate="20180214T224105Z">
-        <seg>No s'han trobat els segments de partida d'algunes unitats de traducció.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215010Z" creationid="Marc Riera" creationdate="20180214T224105Z">
+        <seg>No s'han trobat els segments d'origen d'algunes unitats de traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14828,8 +14845,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Source/translation lengths (characters)</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181118T164628Z" creationid="Marc Riera" creationdate="20180221T111910Z">
-        <seg>Longitud (caràcters) del segment de partida / traduït</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214905Z" creationid="Marc Riera" creationdate="20180221T111910Z">
+        <seg>Longitud (caràcters) del segment d'origen / traduït</seg>
       </tuv>
     </tu>
     <tu>
@@ -15373,8 +15390,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Target folder {0} does not exist.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T225753Z" creationid="mgalo" creationdate="20181115T225753Z">
-        <seg>La carpeta de fitxers d'arribada {0} no existeix.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181115T225753Z">
+        <seg>La carpeta de fitxers de destinació {0} no existeix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15547,9 +15564,9 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
         <seg>Text Replace:
 The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T220713Z" creationid="mgalo" creationdate="20181115T220713Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181115T220713Z">
         <seg>Substitució de text:
-L'àmbit de la substitució de text són els segments d'arribada del projecte, independentment de si ja tenen contingut o no.</seg>
+L'àmbit de la substitució de text són els segments de destinació del projecte, independentment de si ja tenen contingut o no.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15775,8 +15792,8 @@ Proveu de corregir l'error i torneu a carregar el projecte.</seg>
       <tuv lang="en">
         <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224108Z" creationid="Marc Riera" creationdate="20180214T224108Z">
-        <seg>La llengua de partida del fitxer TMX ({0}) és diferent de la llengua de partida del projecte ({1}).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215011Z" creationid="Marc Riera" creationdate="20180214T224108Z">
+        <seg>La llengua d'origen del fitxer TMX ({0}) és diferent de la llengua d'origen del projecte ({1}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16234,8 +16251,8 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223325Z" creationid="Marc Riera" creationdate="20180214T223325Z">
-        <seg>La llengua dels fitxers de partida que heu especificat no és vàlida.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215008Z" creationid="Marc Riera" creationdate="20180214T223325Z">
+        <seg>La llengua dels fitxers d'origen que heu especificat no és vàlida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16379,8 +16396,8 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181113T092601Z" creationid="mgalo" creationdate="20181113T092330Z">
-        <seg>Per tant, si en un projecte la llengua de partida és el francès de Canadà, s'aplicaran totes les regles de la cadena de llengües en l'ordre corresponent.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215015Z" creationid="mgalo" creationdate="20181113T092330Z">
+        <seg>Per tant, si en un projecte la llengua d'origen és el francès de Canadà, s'aplicaran totes les regles de la cadena de llengües en l'ordre corresponent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16452,8 +16469,8 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T130528Z" creationid="mgalo" creationdate="20181114T121135Z">
-        <seg>Estan protegides per tal que no se'n pugui modificar el contingut. Tot i així, podeu eliminar-les, introduir-les manualment o moure-les com vulgueu dins del text d'arribada.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181114T121135Z">
+        <seg>Estan protegides per tal que no se'n pugui modificar el contingut. Tot i així, podeu eliminar-les, introduir-les manualment o moure-les com vulgueu dins del text de destinació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16756,8 +16773,8 @@ des del servidor.</seg>
       <tuv lang="en">
         <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T124820Z" creationid="Packard Bell" creationdate="20150529T163754Z">
-        <seg>Perquè sigui possible (encara que Cerca i reemplaça funciona només en la memòria), OmegaT copiarà el segment d'origen al segment d'arribada abans que ocorri l'operació de substitució.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="Packard Bell" creationdate="20150529T163754Z">
+        <seg>Perquè sigui possible (encara que Cerca i reemplaça funciona només en la memòria), OmegaT copiarà el segment d'origen al segment de destinació abans que ocorri l'operació de substitució.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16789,8 +16806,8 @@ des del servidor.</seg>
       <tuv lang="en">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181114T115038Z" creationid="mgalo" creationdate="20181113T175942Z">
-        <seg>Per començar a fer servir l'OmegaT, primer heu de crear un projecte, el qual contindrà tots els vostres fitxers (com els fitxers de partida, les memòries de traducció, els glossaris i, al final del procés, els fitxers d'arribada).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181113T175942Z">
+        <seg>Per començar a fer servir l'OmegaT, primer heu de crear un projecte, el qual contindrà tots els vostres fitxers (com els fitxers d'origen, les memòries de traducció, els glossaris i, al final del procés, els fitxers de destinació).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17106,8 +17123,8 @@ que conté els fitxers OmegaT.jar i linux-install.sh i executeu l'script amb
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181109T131707Z" creationid="mgalo" creationdate="20181109T131707Z">
-        <seg>La ruta d'accés al fitxer traduït no pot ser idèntica a la del fitxer de partida:
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215011Z" creationid="mgalo" creationdate="20181109T131707Z">
+        <seg>La ruta d'accés al fitxer traduït no pot ser idèntica a la del fitxer d'origen:
 {0}</seg>
       </tuv>
     </tu>
@@ -17894,8 +17911,8 @@ a la línia {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181108T151132Z" creationid="mgalo" creationdate="20181108T151132Z">
-        <seg>Fes servir termes que &amp;apareixen separats en el text de partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214847Z" creationid="mgalo" creationdate="20181108T151132Z">
+        <seg>Fes servir termes que &amp;apareixen separats en el text d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -18984,8 +19001,8 @@ d'allà.</seg>
       <tuv lang="en">
         <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181114T122709Z" creationid="mgalo" creationdate="20181114T122709Z">
-        <seg>Podeu crear un projecte nou per a cada nova tasca o també podeu afegir nous fitxers de partida a un projecte existent en qualsevol moment.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215023Z" creationid="mgalo" creationdate="20181114T122709Z">
+        <seg>Podeu crear un projecte nou per a cada nova tasca o també podeu afegir nous fitxers d'origen a un projecte existent en qualsevol moment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19099,8 +19116,8 @@ l'script d'instal·lació (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213240Z" creationid="Marc Riera" creationdate="20180210T213240Z">
-        <seg>També podeu copiar els fitxers a la carpeta dels fitxers de partida del projecte (per defecte, «source») mitjançant qualsevol gestor de fitxers i tornar a carregar el projecte seleccionant Torna a carregar al menú Projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214815Z" creationid="Marc Riera" creationdate="20180210T213240Z">
+        <seg>També podeu copiar els fitxers a la carpeta dels fitxers d'origen del projecte (per defecte, «source») mitjançant qualsevol gestor de fitxers i tornar a carregar el projecte seleccionant Torna a carregar al menú Projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19937,8 +19954,8 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       <tuv lang="en">
         <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112008Z" creationid="Marc Riera" creationdate="20180221T112008Z">
-        <seg>{0} (queden {1}) / {2} (queden {3}), {4}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215345Z" creationid="Marc Riera" creationdate="20180221T112008Z">
+        <seg>{0} ({1} restants) / {2} ({3} restants), {4}</seg>
       </tuv>
     </tu>
     <tu>
