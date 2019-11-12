@@ -4153,8 +4153,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Command delimiter is empty</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T222650Z" creationid="Marc Riera" creationdate="20191110T222650Z">
-        <seg>El delimitador de l'ordre està buit.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225118Z" creationid="Marc Riera" creationdate="20191110T222650Z">
+        <seg>El separador de l'ordre està buit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4169,8 +4169,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Command is missing delimiter</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T222652Z" creationid="Marc Riera" creationdate="20191110T222604Z">
-        <seg>L'ordre no conté el delimitador.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225122Z" creationid="Marc Riera" creationdate="20191110T222604Z">
+        <seg>L'ordre no conté el separador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5031,16 +5031,16 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Delimiter</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T110236Z" creationid="mgalo" creationdate="20181112T110236Z">
-        <seg>Delimitador</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225050Z" creationid="mgalo" creationdate="20181112T110236Z">
+        <seg>Separador</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Delimiter:</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T110722Z" creationid="mgalo" creationdate="20181112T110722Z">
-        <seg>Delimitador:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225101Z" creationid="mgalo" creationdate="20181112T110722Z">
+        <seg>Separador:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5459,6 +5459,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T224738Z" creationid="Marc Riera" creationdate="20191112T224738Z">
         <seg>No tradueixis l'atribut de contingut de les metaetiquetes amb els parells de clau-valor d'atribut següents (separats per comes):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not translate the content of tags with the following attribute key-value pairs (separate with commas):</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T224750Z" creationid="Marc Riera" creationdate="20191112T224750Z">
+        <seg>No tradueixis l'atribut de contingut de les etiquetes amb els parells de clau-valor d'atribut següents (separats per comes):</seg>
       </tuv>
     </tu>
     <tu>
@@ -6367,6 +6375,22 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Event: application shutdown</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225658Z" creationid="Marc Riera" creationdate="20191112T225658Z">
+        <seg>Esdeveniment: tancament de l'aplicació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Event: application startup</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225631Z" creationid="Marc Riera" creationdate="20191112T225631Z">
+        <seg>Esdeveniment: inici de l'aplicació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Every three minutes by default, an updated version of data shared is available to the rest of the team</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150525T222521Z" creationid="Stephanie" creationdate="20150523T155609Z">
@@ -6413,6 +6437,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114818Z" creationid="Marc Riera" creationdate="20180221T114818Z">
         <seg>S'ha produït una excepció:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exception while editing options:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T224900Z" creationid="Marc Riera" creationdate="20191112T224900Z">
+        <seg>S'ha produït una excepció en editar els paràmetres:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7543,6 +7575,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150604T201840Z" creationid="Alexandra" creationdate="20150604T201840Z">
         <seg>Com-es-fa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HTML Help Compiler</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T224930Z" creationid="Marc Riera" creationdate="20191112T224930Z">
+        <seg>HTML Help Compiler</seg>
       </tuv>
     </tu>
     <tu>
@@ -9259,6 +9299,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>LanguageTool: server returned XML when JSON was expected.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225804Z" creationid="Marc Riera" creationdate="20191112T225804Z">
+        <seg>LanguageTool: el servidor ha retornat un fitxer XML quan s'esperava un fitxer JSON.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>LanguageTools Rules</seg>
@@ -9968,6 +10016,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161824Z" creationid="Packard Bell" creationdate="20150605T161824Z">
         <seg>Estadístiques de coincidències per fitxer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match display template</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225240Z" creationid="Marc Riera" creationdate="20191112T225240Z">
+        <seg>Plantilla de la visualització de coincidències</seg>
       </tuv>
     </tu>
     <tu>
@@ -11223,6 +11279,18 @@ de la llicència o bé (si ho preferiu) qualsevol altra versió posterior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225507Z" creationid="Marc Riera" creationdate="20191112T225507Z">
+        <seg>S'ha blocat l'accés de l'OmegaT a la propietat del sistema que conté
+el nom del sistema operatiu o a la propietat del sistema que conté
+la carpeta d'inici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is supplied with a comprehensive user manual.</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150604T201803Z" creationid="Alexandra" creationdate="20150526T124257Z">
@@ -11885,6 +11953,14 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T230317Z" creationid="Marc Riera" creationdate="20191110T230317Z">
         <seg>Separació de paràgrafs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph delimitation format:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225151Z" creationid="Marc Riera" creationdate="20191112T225151Z">
+        <seg>Format dels límits dels paràgrafs:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14619,6 +14695,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T143804Z" creationid="Marc Riera" creationdate="20190924T143804Z">
         <seg>Script senzill per cercar i reemplaçar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simplify &amp;tooltips on protected parts</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225330Z" creationid="Marc Riera" creationdate="20191112T225330Z">
+        <seg>Simplifica els indicadors de funció a les par&amp;ts protegides</seg>
       </tuv>
     </tu>
     <tu>
@@ -18035,6 +18119,14 @@ a la línia {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use custom templates for modification &amp;info</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225347Z" creationid="Marc Riera" creationdate="20191112T225347Z">
+        <seg>Utilitza plantilles personalitzades per a la &amp;informació de modificació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214847Z" creationid="mgalo" creationdate="20181108T151132Z">
@@ -20195,6 +20287,14 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180118T125809Z" creationid="Marc Riera" creationdate="20180118T125809Z">
         <seg>{0}_{1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{1}, executed from '{2}'</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225618Z" creationid="Marc Riera" creationdate="20191112T225618Z">
+        <seg>{1}, executat des de «{2}»</seg>
       </tuv>
     </tu>
     <tu>
