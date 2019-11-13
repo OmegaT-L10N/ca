@@ -910,6 +910,14 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Refresh</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072955Z" creationid="Marc Riera" creationdate="20191113T072955Z">
+        <seg>Actualit&amp;za</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Regular expressions</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223355Z" creationid="Marc Riera" creationdate="20180214T223355Z">
@@ -1108,6 +1116,14 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224504Z" creationid="Marc Riera" creationdate="20180214T224504Z">
         <seg>Noms dels f&amp;ulls</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show All</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072948Z" creationid="Marc Riera" creationdate="20191113T072948Z">
+        <seg>Mo&amp;stra'ls tots</seg>
       </tuv>
     </tu>
     <tu>
@@ -1576,6 +1592,16 @@ per a editar-lo com a projecte en equip.)</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T204046Z" creationid="Marc Riera" creationdate="20191110T204046Z">
         <seg>--no-team
 		Inhabilita la funcionalitat de projecte en equip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--script=&lt;path&gt;
+		A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T073237Z" creationid="Marc Riera" creationdate="20191113T073237Z">
+        <seg>--script=&lt;path&gt;
+		Un fitxer d'script que s'executarà en esdeveniments del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2980,6 +3006,66 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred while processing a font changed event:
+{0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072458Z" creationid="Marc Riera" creationdate="20191113T072458Z">
+        <seg>S'ha produït un error en processar un esdeveniment de canvi de tipus de lletra:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while processing a new file event:
+{0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072336Z" creationid="Marc Riera" creationdate="20191113T072336Z">
+        <seg>S'ha produït un error en processar un esdeveniment de fitxer nou:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while processing a project change event:
+{0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072247Z" creationid="Marc Riera" creationdate="20191113T072247Z">
+        <seg>S'ha produït un error en processar un esdeveniment de canvi de projecte:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while processing an application shutdown event:
+{0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072308Z" creationid="Marc Riera" creationdate="20191113T072308Z">
+        <seg>S'ha produït un error en processar un esdeveniment de tancament de l'aplicació:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while processing an application startup event:
+{0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072259Z" creationid="Marc Riera" creationdate="20191113T072259Z">
+        <seg>S'ha produït un error en processar un esdeveniment d'inici de l'aplicació:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while processing an entry activated event:
+{0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072420Z" creationid="Marc Riera" creationdate="20191113T072420Z">
+        <seg>S'ha produït un error en processar un esdeveniment d'activació d'entrada nova:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223347Z" creationid="Marc Riera" creationdate="20180214T223347Z">
@@ -3124,6 +3210,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Apply &amp;Fix</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T073037Z" creationid="Marc Riera" creationdate="20191113T073037Z">
+        <seg>Corre&amp;geix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T115018Z" creationid="Marc Riera" creationdate="20180221T115018Z">
@@ -3152,6 +3246,19 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223053Z" creationid="Marc Riera" creationdate="20180214T223053Z">
         <seg>Les matrius no poden ser nul·les</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As a result of this,
+all settings will be at their defaults, due to which you
+may experience unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072018Z" creationid="Marc Riera" creationdate="20191113T072018Z">
+        <seg>Arran d'això,
+tots els paràmetres tindran els valors per defecte,
+de manera que pot ser que experimenteu un comportament
+inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3999,6 +4106,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T073022Z" creationid="Marc Riera" creationdate="20191113T073022Z">
+        <seg>Comprova {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Checking out the project...</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230454Z" creationid="Marc Riera" creationdate="20191112T230454Z">
@@ -4203,6 +4318,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T111331Z" creationid="Marc Riera" creationdate="20190521T111331Z">
         <seg>L'ordre no conté «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command is missing command string</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T071354Z" creationid="Marc Riera" creationdate="20191113T071354Z">
+        <seg>L'ordre no té la cadena d'ordre</seg>
       </tuv>
     </tu>
     <tu>
@@ -5667,6 +5790,22 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Don't Ask What to Check First</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T073136Z" creationid="Marc Riera" creationdate="20191113T073136Z">
+        <seg>No preguntis què s'ha de comprovar abans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Don't ask before checking issues</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T073125Z" creationid="Marc Riera" creationdate="20191113T073125Z">
+        <seg>No preguntis abans de comprovar els errors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Donations</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150526T110310Z" creationid="Alexandra" creationdate="20150526T110310Z">
@@ -6152,6 +6291,14 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>End rebase</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072753Z" creationid="Marc Riera" creationdate="20191113T072753Z">
+        <seg>Finalitza el canvi de base</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>English</seg>
@@ -6365,6 +6512,14 @@ El fitxer TMX no es carregarà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error retrieve {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072833Z" creationid="Marc Riera" creationdate="20191113T072833Z">
+        <seg>S'ha produït un error en recuperar {0} com a fitxer del projecte remot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error saving project file!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T214708Z" creationid="Marc Riera" creationdate="20180221T112442Z">
@@ -6499,6 +6654,38 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225631Z" creationid="Marc Riera" creationdate="20191112T225631Z">
         <seg>Esdeveniment: inici de l'aplicació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Event: font changed</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072432Z" creationid="Marc Riera" creationdate="20191113T072432Z">
+        <seg>Esdeveniment: s'ha canviat el tipus de lletra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Event: new entry activated</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072353Z" creationid="Marc Riera" creationdate="20191113T072353Z">
+        <seg>Esdeveniment: s'ha activat una entrada nova</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Event: new file activated ({0})</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072322Z" creationid="Marc Riera" creationdate="20191113T072322Z">
+        <seg>Esdeveniment: s'ha activat un fitxer nou ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Event: project change - "{0}"</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072223Z" creationid="Marc Riera" creationdate="20191113T072223Z">
+        <seg>Esdeveniment: canvi de projecte - «{0}»</seg>
       </tuv>
     </tu>
     <tu>
@@ -6815,8 +7002,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Failed to fetch latest version info: {0}</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T105545Z" creationid="mgalo" creationdate="20181112T105545Z">
-        <seg>S'ha produït un error en cercar informació de la darrera versió: {0}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T071515Z" creationid="mgalo" creationdate="20181112T105545Z">
+        <seg>S'ha produït un error en recuperar la informació de la darrera versió: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8095,6 +8282,14 @@ no cal introduir el camí complet.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T073116Z" creationid="Marc Riera" creationdate="20191113T073116Z">
+        <seg>Si la comprovació d'errors és lenta, proveu d'inhabilitar algunes de les comprovacions opcionals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="Packard Bell" creationdate="20150529T164034Z">
@@ -8944,6 +9139,16 @@ feu clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It was not possible to create the script folder
+inside the configuration folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072146Z" creationid="Marc Riera" creationdate="20191113T072146Z">
+        <seg>No s'ha pogut crear la carpeta d'scripts
+a la carpeta de configuració.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T213206Z" creationid="Marc Riera" creationdate="20180221T111739Z">
@@ -8992,6 +9197,22 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181110T001827Z" creationid="mgalo" creationdate="20181110T001827Z">
         <seg>Italià</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Item has neither URLs nor commands.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T071321Z" creationid="Marc Riera" creationdate="20191113T071321Z">
+        <seg>L'URL no té ni adreces URL ni ordres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Item name is empty or missing</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T071307Z" creationid="Marc Riera" creationdate="20191113T071307Z">
+        <seg>El nom de l'element està buit o no s'ha definit</seg>
       </tuv>
     </tu>
     <tu>
@@ -10515,8 +10736,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Most of these scripts require MS Windows, although some procedures may also work on other platforms.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150801T111655Z" creationid="Packard Bell" creationdate="20150801T111655Z">
-        <seg>La majoria d'aquests scripts requereixen Microsoft Windows, encara que alguns procediments també poden funcionar en altres plataformes.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T075430Z" creationid="Packard Bell" creationdate="20150801T111655Z">
+        <seg>La majoria d'aquests scripts requereixen Microsoft Windows, encara que alguns procediments també poden funcionar en altres plataformes.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12295,6 +12516,14 @@ Runtime Environment (JRE) al sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pinpoint Align: Select corresponding cell</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T071806Z" creationid="Marc Riera" creationdate="20191113T071642Z">
+        <seg>Alineació amb el ratolí: seleccioneu la cel·la corresponent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place source files in ./source and supplemental
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
@@ -12972,6 +13201,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project file should be on http protocol.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072730Z" creationid="Marc Riera" creationdate="20191113T072730Z">
+        <seg>El fitxer del projecte ha d'estar en el protocol http.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project is Empty</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213242Z" creationid="Marc Riera" creationdate="20180210T213242Z">
@@ -13451,6 +13688,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T113144Z" creationid="Marc Riera" creationdate="20180221T113138Z">
         <seg>Dipòsits remots</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote repository network communication error: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072905Z" creationid="Marc Riera" creationdate="20191113T072905Z">
+        <seg>S'ha produït un error de comunicació amb la xarxa del dipòsit remot: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -14750,6 +14995,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select Scripts Folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072524Z" creationid="Marc Riera" creationdate="20191113T072524Z">
+        <seg>Seleccioneu una carpeta d'scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select TaaS domain</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231357Z" creationid="Marc Riera" creationdate="20191112T231357Z">
@@ -14762,6 +15015,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T122843Z" creationid="Marc Riera" creationdate="20190520T122843Z">
         <seg>Selecciona una categoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a Script File</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072533Z" creationid="Marc Riera" creationdate="20191113T072533Z">
+        <seg>Seleccioneu un fitxer d'script</seg>
       </tuv>
     </tu>
     <tu>
@@ -15414,6 +15675,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T071455Z" creationid="Marc Riera" creationdate="20191113T071455Z">
+        <seg>Indiqueu una drecera amb «&amp;»: «F&amp;oobar» per a utilitzar O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224508Z" creationid="Marc Riera" creationdate="20180214T224508Z">
@@ -15551,6 +15820,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T221217Z" creationid="mgalo" creationdate="20181112T221217Z">
         <seg>Comença un nou paràgraf amb:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start rebase</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072741Z" creationid="Marc Riera" creationdate="20191113T072741Z">
+        <seg>Inicia un canvi de base</seg>
       </tuv>
     </tu>
     <tu>
@@ -16023,6 +16300,30 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Team synchronization</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072610Z" creationid="Marc Riera" creationdate="20191113T072610Z">
+        <seg>Sincronització del projecte en equip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Team synchronization...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072613Z" creationid="Marc Riera" creationdate="20191113T072613Z">
+        <seg>Sincronització del projecte en equip...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Team synchronization: Waiting for you to finish this segment...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072643Z" creationid="Marc Riera" creationdate="20191113T072643Z">
+        <seg>Sincronització del projecte en equip: s'està esperant que acabeu aquest segment...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Team...</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161912Z" creationid="Packard Bell" creationdate="20150605T161912Z">
@@ -16185,6 +16486,16 @@ L'àmbit de la substitució de text són els segments de destinació del project
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150801T114011Z" creationid="Alexandra" creationdate="20150526T131943Z">
         <seg>Això significa que només en queden uns quants milers per traduir!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The
+current folder will be used instead.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T071920Z" creationid="Marc Riera" creationdate="20191113T071920Z">
+        <seg>S'utilitzarà
+la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16449,10 +16760,30 @@ Proveu de corregir l'error i torneu a carregar el projecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The configuration folder will be used
+instead.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072202Z" creationid="Marc Riera" creationdate="20191113T072202Z">
+        <seg>S'utilitzarà la carpeta de configuració
+en el seu lloc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contents of the checkout folder will be marked accordingly:</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150525T224615Z" creationid="Stephanie" creationdate="20150525T175904Z">
         <seg>Els contiguts de la carpeta checkout es marcaran de la següent manera:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The current folder will be used
+instead.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072057Z" creationid="Marc Riera" creationdate="20191113T072057Z">
+        <seg>S'utilitzarà la carpeta actual
+en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17017,6 +17348,16 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181117T234528Z" creationid="mgalo" creationdate="20181114T121421Z">
         <seg>Per tant, premeu &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; abans de generar els fitxers traduïts per comprovar que les etiquetes siguin correctes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, the location of OmegaT's
+configuration folder cannot be reliably determined.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T071905Z" creationid="Marc Riera" creationdate="20191113T071905Z">
+        <seg>Per tant, no es pot determinar amb certesa
+la ubicació de la carpeta de configuració de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17983,6 +18324,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T111312Z" creationid="Marc Riera" creationdate="20190521T111312Z">
         <seg>L'URL no conté «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL is missing URL string</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T071342Z" creationid="Marc Riera" creationdate="20191113T071342Z">
+        <seg>L'URL no té la cadena d'URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -19871,6 +20220,16 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Your operating system refused to let OmegaT
+create its configuration folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072044Z" creationid="Marc Riera" creationdate="20191113T072044Z">
+        <seg>El sistema operatiu no ha permès que l'OmegaT
+creï la carpeta de configuració.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your project does not contain any files in a supported file format.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213228Z" creationid="Marc Riera" creationdate="20180210T213228Z">
@@ -20649,6 +21008,14 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T103856Z" creationid="mgalo" creationdate="20181112T103856Z">
         <seg>{0} conflictes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} loaded.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072513Z" creationid="Marc Riera" creationdate="20191113T072513Z">
+        <seg>S'ha carregat {0}.</seg>
       </tuv>
     </tu>
     <tu>
