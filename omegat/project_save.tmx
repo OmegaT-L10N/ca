@@ -29,11 +29,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>#Files</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181108T154947Z" creationid="mgalo" creationdate="20181108T154947Z">
-        <seg>#Fitxers</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T225802Z" creationid="mgalo" creationdate="20181108T154947Z">
+        <seg>Fitxers</seg>
       </tuv>
     </tu>
     <tu>
@@ -1430,12 +1431,14 @@ nom no apareix a la llista, no dubteu a posar-vos en contacte amb nosaltres.)</s
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215004Z" creationid="Marc Riera" creationdate="20180210T213238Z">
-        <seg>(Al manual d'usuari, vegeu «Fitxers per traduir» &gt; «Formats de fitxer» per veure una llista dels formats de fitxer compatibles). Per afegir fitxers al projecte, feu clic al botó Copia fitxers a la carpeta de fitxers d'origen... de la finestra Fitxers del projecte o crideu aquesta acció des del menú Projecte i seleccioneu els fitxers d'origen que voleu copiar.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T230326Z" creationid="Marc Riera" creationdate="20180210T213238Z">
+        <seg>(Al manual d'usuari, vegeu «Fitxers per traduir &gt; Formats de fitxer» per veure una llista dels formats de fitxer compatibles).
+Per afegir fitxers al projecte, feu clic al botó «Copia fitxers a la carpeta de fitxers d'origen...» de la finestra «Fitxers del projecte» o crideu aquesta acció des del menú «Projecte» i seleccioneu els fitxers d'origen que voleu copiar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6676,6 +6679,7 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error monitoring external command!</seg>
       </tuv>
@@ -6732,6 +6736,7 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error starting external command: {0}</seg>
       </tuv>
@@ -6886,6 +6891,7 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Exact match:</seg>
       </tuv>
@@ -6977,6 +6983,7 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Executing external command...</seg>
       </tuv>
@@ -6993,6 +7000,7 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Exit code {0}: "{1}"</seg>
       </tuv>
@@ -7001,6 +7009,7 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Exit code: {0}</seg>
       </tuv>
@@ -7097,14 +7106,16 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>External command completed.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112535Z" creationid="Marc Riera" creationdate="20180221T112535Z">
-        <seg>L'ordre externa ha acabat.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T225603Z" creationid="Marc Riera" creationdate="20180221T112535Z">
+        <seg>L'ordre externa ha finalitzat.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>External command failed.</seg>
       </tuv>
@@ -7113,6 +7124,7 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>External command was interrupted.</seg>
       </tuv>
@@ -8892,6 +8904,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Individual File Statistics:</seg>
       </tuv>
@@ -10635,6 +10648,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Match Statistics</seg>
       </tuv>
@@ -10651,6 +10665,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Match Statistics per File</seg>
       </tuv>
@@ -11293,11 +11308,12 @@ adequada, com ara la carpeta Aplicacions.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>No match:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223045Z" creationid="Marc Riera" creationdate="20180214T223045Z">
-        <seg>Cap coincidència:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T225955Z" creationid="Marc Riera" creationdate="20180214T223045Z">
+        <seg>Sense coincidència:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13443,6 +13459,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Project Statistics</seg>
       </tuv>
@@ -13942,6 +13959,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remaining:</seg>
       </tuv>
@@ -14127,6 +14145,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Repetitions from other files:</seg>
       </tuv>
@@ -14135,6 +14154,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Repetitions within this file:</seg>
       </tuv>
@@ -14143,6 +14163,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Repetitions:</seg>
       </tuv>
@@ -18961,6 +18982,7 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unique Remaining:</seg>
       </tuv>
@@ -18996,6 +19018,7 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unique:</seg>
       </tuv>
@@ -20507,11 +20530,12 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214815Z" creationid="Marc Riera" creationdate="20180210T213240Z">
-        <seg>També podeu copiar els fitxers a la carpeta dels fitxers d'origen del projecte (per defecte, «source») mitjançant qualsevol gestor de fitxers i tornar a carregar el projecte seleccionant Torna a carregar al menú Projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T230514Z" creationid="Marc Riera" creationdate="20180210T213240Z">
+        <seg>També podeu copiar els fitxers a la carpeta dels fitxers d'origen del projecte (per defecte, «source») amb el vostre gestor de fitxers preferit i tornar a carregar el projecte seleccionant «Torna a carregar» al menú «Projecte».</seg>
       </tuv>
     </tu>
     <tu>
@@ -20616,11 +20640,12 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Your project does not contain any files in a supported file format.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213228Z" creationid="Marc Riera" creationdate="20180210T213228Z">
-        <seg>Aquest projecte no conté cap fitxer que tingui un format compatible.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T230209Z" creationid="Marc Riera" creationdate="20180210T213228Z">
+        <seg>Aquest projecte no conté cap fitxer amb un format compatible.</seg>
       </tuv>
     </tu>
     <tu>
