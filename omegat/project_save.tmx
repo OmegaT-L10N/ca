@@ -812,6 +812,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;OK</seg>
       </tuv>
@@ -4728,6 +4729,7 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
@@ -13747,8 +13749,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Re&amp;place All</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181107T232546Z" creationid="mgalo" creationdate="20181107T232546Z">
-        <seg>Su&amp;bstitueix-ho tot</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T223758Z" creationid="mgalo" creationdate="20181107T232546Z">
+        <seg>Reem&amp;plaça-ho tot</seg>
       </tuv>
     </tu>
     <tu>
@@ -15029,6 +15031,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
