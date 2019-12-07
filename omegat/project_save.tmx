@@ -7222,11 +7222,12 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Failed to fetch latest version info: {0}</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T071515Z" creationid="mgalo" creationdate="20181112T105545Z">
-        <seg>S'ha produït un error en recuperar la informació de la darrera versió: {0}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T234828Z" creationid="mgalo" creationdate="20181112T105545Z">
+        <seg>S'ha produït un error en recuperar la informació de l'última versió: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9633,8 +9634,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T213511Z" creationid="mgalo" creationdate="20181112T213511Z">
-        <seg>Saltant al darrer segment editat...</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T234654Z" creationid="mgalo" creationdate="20181112T213511Z">
+        <seg>S'està saltant a l'últim segment editat...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9998,8 +9999,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Last Changes...</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T162053Z" creationid="Packard Bell" creationdate="20150605T162053Z">
-        <seg>Darrers Canvis...</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T234844Z" creationid="Packard Bell" creationdate="20150605T162053Z">
+        <seg>Últims Canvis...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10007,16 +10008,17 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Last changes</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114752Z" creationid="Marc Riera" creationdate="20180221T114752Z">
-        <seg>Darrers canvis</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T234726Z" creationid="Marc Riera" creationdate="20180221T114752Z">
+        <seg>Últims canvis</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Last modified by {0}</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T172345Z" creationid="Marc Riera" creationdate="20180221T112035Z">
-        <seg>Darrera modificació: {0}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T234718Z" creationid="Marc Riera" creationdate="20180221T112035Z">
+        <seg>Última modificació: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18588,11 +18590,12 @@ que conté els fitxers OmegaT.jar i linux-install.sh i executeu l'script amb
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translation last modified by {0} on {1} at {2}</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T172351Z" creationid="Marc Riera" creationdate="20180221T112033Z">
-        <seg>Darrera modificació de la traducció: {0}, el {1} a les {2}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T234709Z" creationid="Marc Riera" creationdate="20180221T112033Z">
+        <seg>Última modificació de la traducció: {0}, el {1} a les {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -20344,11 +20347,12 @@ Tant la cerca exacta com la cerca per paraules clau admeten els caràcters comod
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You already have the latest version.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T110753Z" creationid="mgalo" creationdate="20181112T110753Z">
-        <seg>Ja teniu instal·lada la darrera versió.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T234815Z" creationid="mgalo" creationdate="20181112T110753Z">
+        <seg>Ja teniu instal·lada l'última versió.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20608,8 +20612,8 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       <tuv lang="en">
         <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T124007Z" creationid="mgalo" creationdate="20181113T094551Z">
-        <seg>Cal que actualitzeu el vostre JDK 1.6 a la darrera versió. Si no, simplement elimineu el fitxer jaxb-*.jar del directori OmegaT /lib</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T234806Z" creationid="mgalo" creationdate="20181113T094551Z">
+        <seg>Cal que actualitzeu el JDK 1.6 a l'últim versió. Si no, simplement elimineu el fitxer jaxb-*.jar del directori OmegaT /lib</seg>
       </tuv>
     </tu>
     <tu>
