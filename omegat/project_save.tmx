@@ -1578,16 +1578,18 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T173112Z" creationid="Marc Riera" creationdate="20191113T173112Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T221056Z" creationid="Marc Riera" creationdate="20191113T173112Z">
         <seg>--config-file=&lt;camí&gt;
-		Un fitxer .properties del Java des d'on carregar els paràmetres per defecte.</seg>
+		Un fitxer .properties del Java des d'on es carregaran els paràmetres per defecte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
@@ -1598,6 +1600,7 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
@@ -1608,6 +1611,7 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
@@ -1618,6 +1622,7 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--no-team
 		Disable team project functionality.</seg>
@@ -1638,6 +1643,7 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
@@ -1650,20 +1656,22 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--resource-bundle=&lt;path&gt;
 		A Java .properties file to use for interface text
 	--config-dir=&lt;path&gt;
 		The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T173315Z" creationid="Marc Riera" creationdate="20191113T173315Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T221043Z" creationid="Marc Riera" creationdate="20191113T173315Z">
         <seg>--resource-bundle=&lt;path&gt;
-		Un fitxer .properties del Java per utilitzar per al text de la intefície.
+		Un fitxer .properties del Java que s'utilitzarà per al text de la intefície.
 	--config-dir=&lt;path&gt;
-		El directori per llegir i escriure els fitxers de configuració de l'OmegaT.</seg>
+		El directori on llegir i escriure els fitxers de configuració de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
@@ -1674,6 +1682,7 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
@@ -1684,6 +1693,7 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>-h, --help
 		Show usage information.</seg>
@@ -2542,6 +2552,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
@@ -4471,6 +4482,7 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Commands:
 	-h, --help
@@ -8476,6 +8488,16 @@ no cal introduir el camí complet.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If invoked in a git working tree or svn checkout, the results
+		will be staged/added.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T222108Z" creationid="Marc Riera" creationdate="20191207T222108Z">
+        <seg>Si s'invoca en un arbre de treball del Git o una baixada del SVN,
+		els resultats s'afegiran com a canvis sense confirmar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191113T073116Z" creationid="Marc Riera" creationdate="20191113T073116Z">
@@ -11336,6 +11358,7 @@ adequada, com ara la carpeta Aplicacions.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Non-GUI mode options:
 	--quiet
@@ -12481,6 +12504,7 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Options:
 	None: Launch GUI
@@ -15019,6 +15043,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
       </tuv>
@@ -15027,6 +15052,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>See below for details.</seg>
       </tuv>
@@ -19111,6 +19137,7 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
@@ -19639,6 +19666,7 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
@@ -21145,6 +21173,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>init &lt;source language&gt; &lt;target language&gt;
 		Initialize a minimal team project with the specified languages.</seg>
