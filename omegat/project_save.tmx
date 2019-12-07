@@ -278,6 +278,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Close</seg>
       </tuv>
@@ -8919,6 +8920,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
@@ -12803,8 +12805,8 @@ Runtime Environment (JRE) al sistema.</seg>
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215002Z" creationid="mgalo" creationdate="20181115T113648Z">
-        <seg>Col·loqueu els fitxers d'origen a ./source i els materials auxiliars a ./tm, ./glossary i ./dictionary segons correspongui i envieu-ho tot.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T222252Z" creationid="mgalo" creationdate="20181115T113648Z">
+        <seg>Col·loqueu els fitxers d'origen a ./source i el material addicional a ./tm, ./glossary i ./dictionary segons correspongui, i publiqueu-ho tot.</seg>
       </tuv>
     </tu>
     <tu>
