@@ -3900,14 +3900,16 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112528Z" creationid="Marc Riera" creationdate="20180221T112528Z">
-        <seg>No es pot accedir a la carpeta dels glossaris.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T225528Z" creationid="Marc Riera" creationdate="20180221T112528Z">
+        <seg>No es pot accedir a la carpeta de glossaris.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Cannot create folder for translated files:</seg>
       </tuv>
@@ -4954,8 +4956,8 @@ inesperat però correcte.</seg>
       <tuv lang="en">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181113T094257Z" creationid="mgalo" creationdate="20181111T221855Z">
-        <seg>No s'ha pogut crear el directori del projecte a {0}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T225057Z" creationid="mgalo" creationdate="20181111T221855Z">
+        <seg>No s'ha pogut crear el directori del projecte a {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6701,16 +6703,16 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       <tuv lang="en">
         <seg>Error retrieve {0} as remote project file</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072833Z" creationid="Marc Riera" creationdate="20191113T072833Z">
-        <seg>S'ha produït un error en recuperar {0} com a fitxer del projecte remot</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T225436Z" creationid="Marc Riera" creationdate="20191113T072833Z">
+        <seg>S'ha produït un error en recuperar {0} com a fitxer de projecte remot</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Error saving project file!</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T214708Z" creationid="Marc Riera" creationdate="20180221T112442Z">
-        <seg>S'ha produït un error en desar el fitxer del projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T225329Z" creationid="Marc Riera" creationdate="20180221T112442Z">
+        <seg>S'ha produït un error en desar el fitxer de projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7221,8 +7223,8 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       <tuv lang="en">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T214722Z" creationid="Marc Riera" creationdate="20180221T112446Z">
-        <seg>S'ha produït un error greu. El fitxer del projecte es desarà amb l'extensió de còpia de seguretat «.recover».</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T225336Z" creationid="Marc Riera" creationdate="20180221T112446Z">
+        <seg>S'ha produït un error greu. El fitxer de projecte es desarà amb l'extensió de còpia de seguretat «.recover».</seg>
       </tuv>
     </tu>
     <tu>
@@ -7502,6 +7504,7 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Folder {0} was automatically created for team mode project</seg>
       </tuv>
@@ -9115,8 +9118,8 @@ feu clic en la drecera.</seg>
       <tuv lang="en">
         <seg>Insufficient permissions for project dir {0}</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181113T094306Z" creationid="mgalo" creationdate="20181111T222018Z">
-        <seg>No disposeu dels permisos per al directori del projecte {0}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T225136Z" creationid="mgalo" creationdate="20181111T222018Z">
+        <seg>No disposeu dels permisos suficients per al directori del projecte {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12533,6 +12536,7 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Orphan segments</seg>
       </tuv>
@@ -13286,8 +13290,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Problem encountered loading project file!</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T214945Z" creationid="Marc Riera" creationdate="20180221T112527Z">
-        <seg>S'ha produït un error en carregar el fitxer del projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T225342Z" creationid="Marc Riera" creationdate="20180221T112527Z">
+        <seg>Hi ha hagut un problema en carregar el fitxer de projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13506,8 +13510,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Project file should be on http protocol.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072730Z" creationid="Marc Riera" creationdate="20191113T072730Z">
-        <seg>El fitxer del projecte ha d'estar en el protocol http.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T225416Z" creationid="Marc Riera" creationdate="20191113T072730Z">
+        <seg>El fitxer de projecte ha d'estar en el protocol http.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18748,11 +18752,12 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unable to build new TMX file!</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T215036Z" creationid="Marc Riera" creationdate="20180221T112520Z">
-        <seg>No s'ha pogut crear el nou fitxer TMX.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T225050Z" creationid="Marc Riera" creationdate="20180221T112520Z">
+        <seg>No s'ha pogut crear el fitxer TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18807,8 +18812,8 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       <tuv lang="en">
         <seg>Unable to read project file!</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T215025Z" creationid="Marc Riera" creationdate="20180214T223241Z">
-        <seg>No s'ha pogut llegir el fitxer del projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T225356Z" creationid="Marc Riera" creationdate="20180214T223241Z">
+        <seg>No s'ha pogut llegir el fitxer de projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19064,8 +19069,8 @@ a la línia {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Unsupported project file version ({0})!</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T215216Z" creationid="Marc Riera" creationdate="20180214T223916Z">
-        <seg>La versió del fitxer del projecte ({0}) és incompatible.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T225407Z" creationid="Marc Riera" creationdate="20180214T223916Z">
+        <seg>La versió del fitxer de projecte ({0}) és incompatible.</seg>
       </tuv>
     </tu>
     <tu>
