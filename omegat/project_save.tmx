@@ -545,6 +545,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Go To</seg>
       </tuv>
@@ -801,6 +802,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Next Segment</seg>
       </tuv>
@@ -884,6 +886,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Previous Segment</seg>
       </tuv>
@@ -1102,6 +1105,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Segment Number...</seg>
       </tuv>
@@ -5024,11 +5028,12 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213727Z" creationid="Marc Riera" creationdate="20180210T213727Z">
-        <seg>Crea una entrada del gl&amp;ossari</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191208T153604Z" creationid="Marc Riera" creationdate="20180210T213727Z">
+        <seg>Crea una entrada del &amp;glossari</seg>
       </tuv>
     </tu>
     <tu>
@@ -8999,6 +9004,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
@@ -9015,6 +9021,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
@@ -9047,6 +9054,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Insert Tag {0}</seg>
       </tuv>
@@ -10109,6 +10117,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Left-to-Right Mark (LRM U+200E)</seg>
       </tuv>
@@ -11233,22 +11242,25 @@ adequada, com ara la carpeta Aplicacions.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213802Z" creationid="Marc Riera" creationdate="20180210T213802Z">
-        <seg>Segment següent tra&amp;duït</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191208T153826Z" creationid="Marc Riera" creationdate="20180210T213802Z">
+        <seg>Segment tra&amp;duït següent</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Next &amp;Untranslated Segment</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213801Z" creationid="Marc Riera" creationdate="20180210T213801Z">
-        <seg>Segment següent sense &amp;traduir</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191208T153809Z" creationid="Marc Riera" creationdate="20180210T213801Z">
+        <seg>Segment sense &amp;traduir següent</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Next N&amp;ote</seg>
       </tuv>
@@ -13276,6 +13288,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Previous No&amp;te</seg>
       </tuv>
@@ -13810,11 +13823,12 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Re&amp;place with Source</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181218T202419Z" creationid="Marc Riera" creationdate="20180210T213708Z">
-        <seg>Reemplaça pel text de &amp;partida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191208T152939Z" creationid="Marc Riera" creationdate="20180210T213708Z">
+        <seg>Reem&amp;plaça pel text d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -14156,11 +14170,12 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remove translation</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180212T220905Z" creationid="Marc Riera" creationdate="20180212T220905Z">
-        <seg>Elimina la traducció</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191208T153529Z" creationid="Marc Riera" creationdate="20180212T220905Z">
+        <seg>Suprimeix la traducció</seg>
       </tuv>
     </tu>
     <tu>
@@ -14508,6 +14523,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Right-to-Left Mark (RLM U+200F)</seg>
       </tuv>
@@ -15283,6 +15299,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Select &amp;Next Match</seg>
       </tuv>
@@ -15291,6 +15308,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Select &amp;Previous Match</seg>
       </tuv>
@@ -15548,11 +15566,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Set empty translation</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181108T133405Z" creationid="mgalo" creationdate="20181108T133405Z">
-        <seg>Estableix una traducció buida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191208T153541Z" creationid="mgalo" creationdate="20181108T133405Z">
+        <seg>Defineix una traducció buida</seg>
       </tuv>
     </tu>
     <tu>
