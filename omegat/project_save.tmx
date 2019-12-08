@@ -91,6 +91,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Align Files...</seg>
       </tuv>
@@ -737,6 +738,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Match Statistics</seg>
       </tuv>
@@ -847,6 +849,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Options</seg>
       </tuv>
@@ -1232,6 +1235,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Statistics</seg>
       </tuv>
@@ -1607,12 +1611,27 @@ per a editar-lo com a projecte en equip.)</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+		Source- or target-language tokenizer to use (overrides project
+		settings).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191208T155420Z" creationid="Marc Riera" creationdate="20191208T155420Z">
+        <seg>--ITokenizer=&lt;nom de la classe&gt;
+	--ITokenizerTarget=&lt;nom de la classe&gt;
+		Tokenitzador de la llengua d'origen o de destinació que s'utilitzarà
+		(substitueix els paràmetres del projecte).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T221056Z" creationid="Marc Riera" creationdate="20191113T173112Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191208T155616Z" creationid="Marc Riera" creationdate="20191113T173112Z">
         <seg>--config-file=&lt;camí&gt;
-		Un fitxer .properties del Java des d'on es carregaran els paràmetres per defecte.</seg>
+		Fitxer .properties del Java des d'on es carregaran els paràmetres per defecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1660,6 +1679,7 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--pseudotranslatetype=[equal|empty]
 		What to fill the pseudotranslated TMX with.</seg>
@@ -1690,11 +1710,11 @@ per a editar-lo com a projecte en equip.)</seg>
 	--config-dir=&lt;path&gt;
 		The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T221043Z" creationid="Marc Riera" creationdate="20191113T173315Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191208T155607Z" creationid="Marc Riera" creationdate="20191113T173315Z">
         <seg>--resource-bundle=&lt;path&gt;
-		Un fitxer .properties del Java que s'utilitzarà per al text de la intefície.
+		Fitxer .properties del Java que s'utilitzarà per al text de la intefície.
 	--config-dir=&lt;path&gt;
-		El directori on llegir i escriure els fitxers de configuració de l'OmegaT.</seg>
+		Directori on llegir i escriure els fitxers de configuració de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1703,9 +1723,9 @@ per a editar-lo com a projecte en equip.)</seg>
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T073237Z" creationid="Marc Riera" creationdate="20191113T073237Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191208T155544Z" creationid="Marc Riera" creationdate="20191113T073237Z">
         <seg>--script=&lt;path&gt;
-		Un fitxer d'script que s'executarà en esdeveniments del projecte.</seg>
+		Fitxer d'script que s'executarà en esdeveniments del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4070,11 +4090,12 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check &amp;Issues...</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T122521Z" creationid="mgalo" creationdate="20181108T150419Z">
-        <seg>Compro&amp;va errades...</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191208T155214Z" creationid="mgalo" creationdate="20181108T150419Z">
+        <seg>Comprova s&amp;i hi ha errors...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4103,11 +4124,12 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T122524Z" creationid="mgalo" creationdate="20181108T150454Z">
-        <seg>Comprov&amp;a errades per al document actual</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191208T155229Z" creationid="mgalo" creationdate="20181108T150454Z">
+        <seg>Comprova si hi ha errors al document a&amp;ctual</seg>
       </tuv>
     </tu>
     <tu>
@@ -4763,34 +4785,37 @@ inesperat però correcte.</seg>
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T174119Z" creationid="Marc Riera" creationdate="20191113T174119Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191208T155536Z" creationid="Marc Riera" creationdate="20191113T174119Z">
         <seg>Mode console-align:
 	--alignDir=&lt;camí&gt;
-		Un directori amb els fitxers traduïts.</seg>
+		Directori amb els fitxers traduïts.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Console-pseudotranslatetmx mode:
 	--pseudotranslatetmx=&lt;path&gt;
 		The output pseudotranslated TMX file.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T173924Z" creationid="Marc Riera" creationdate="20191113T173924Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191208T155526Z" creationid="Marc Riera" creationdate="20191113T173924Z">
         <seg>Mode console-pseudotranslatetmx:
 	--pseudotranslatetmx=&lt;camí&gt;
-		El fitxer TMX pseudotraduït de sortida.</seg>
+		Fitxer TMX pseudotraduït de sortida.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Console-translate mode:
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T173830Z" creationid="Marc Riera" creationdate="20191113T173830Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20191208T155552Z" creationid="Marc Riera" creationdate="20191113T173830Z">
         <seg>Mode console-translate:
 	--source-pattern=&lt;patró&gt;
-		Una llista blanca d'expressions regulars de fitxers d'origen per processar.</seg>
+		Llista blanca d'expressions regulars de fitxers d'origen
+		que es processaran.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10698,6 +10723,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Match Statistics per &amp;File</seg>
       </tuv>
@@ -12869,6 +12895,7 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Place source files in ./source and supplemental
 material in ./tm, ./glossary, and ./dictionary as required, then commit
@@ -14916,6 +14943,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
