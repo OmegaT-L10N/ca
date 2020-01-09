@@ -717,8 +717,8 @@
       <tuv lang="en">
         <seg>&amp;Lower Case</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T094740Z" creationid="mgalo" creationdate="20181112T094740Z">
-        <seg>M&amp;inúscula</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200109T085625Z" creationid="mgalo" creationdate="20181112T094740Z">
+        <seg>M&amp;inúscules</seg>
       </tuv>
     </tu>
     <tu>
@@ -1280,8 +1280,8 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       <tuv lang="en">
         <seg>&amp;Title Case</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T094950Z" creationid="mgalo" creationdate="20181112T094938Z">
-        <seg>Estil &amp;títol anglès</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200109T085647Z" creationid="mgalo" creationdate="20181112T094938Z">
+        <seg>Cada paraula en majúscula &amp;inicial</seg>
       </tuv>
     </tu>
     <tu>
@@ -1339,8 +1339,8 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       <tuv lang="en">
         <seg>&amp;Upper Case</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T094744Z" creationid="mgalo" creationdate="20181112T094744Z">
-        <seg>M&amp;ajúscula</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200109T085629Z" creationid="mgalo" creationdate="20181112T094744Z">
+        <seg>M&amp;ajúscules</seg>
       </tuv>
     </tu>
     <tu>
@@ -5953,6 +5953,7 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Dock</seg>
       </tuv>
@@ -6402,6 +6403,7 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Editor - {0}</seg>
       </tuv>
@@ -9928,6 +9930,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>LanguageTool settings</seg>
       </tuv>
@@ -9936,6 +9939,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>LanguageTool will be disabled until the project is closed.</seg>
       </tuv>
@@ -9960,6 +9964,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>LanguageTool: An error occurred during check.</seg>
       </tuv>
@@ -9968,6 +9973,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>LanguageTool: Bad URL</seg>
       </tuv>
@@ -9976,6 +9982,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>LanguageTool: Server start timeout</seg>
       </tuv>
@@ -10232,8 +10239,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Load a project to configure rules for that project's languages.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181113T094039Z" creationid="mgalo" creationdate="20181113T094039Z">
-        <seg>Carrega un projecte per configurar-ne les regles de la combinació de llengües.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200109T084735Z" creationid="mgalo" creationdate="20181113T094039Z">
+        <seg>Carregueu un projecte per configurar les regles de les llengües del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10789,6 +10796,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Maximize</seg>
       </tuv>
@@ -10895,6 +10903,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Minimize</seg>
       </tuv>
@@ -14072,11 +14081,12 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remote &amp;server</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T094115Z" creationid="mgalo" creationdate="20181112T094115Z">
-        <seg>Servidor &amp;remot</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200109T084619Z" creationid="mgalo" creationdate="20181112T094115Z">
+        <seg>&amp;Servidor remot</seg>
       </tuv>
     </tu>
     <tu>
@@ -14651,8 +14661,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>S&amp;witch Case To</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T094943Z" creationid="mgalo" creationdate="20181112T094727Z">
-        <seg>Canvia el tipus de &amp;lletra a</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200109T085621Z" creationid="mgalo" creationdate="20181112T094727Z">
+        <seg>C&amp;anvia les majúscules i minúscules a</seg>
       </tuv>
     </tu>
     <tu>
@@ -15483,6 +15493,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Select languagetool-server.jar</seg>
       </tuv>
@@ -15548,6 +15559,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Service type</seg>
       </tuv>
@@ -18984,6 +18996,7 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Undock</seg>
       </tuv>
