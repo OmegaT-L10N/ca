@@ -21846,6 +21846,16 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <prop type="file">Bundle.properties</prop>
+      <prop type="id">ALIGNER_MENU_VIEW_HIGHLIGHTPATTERN</prop>
+      <tuv lang="en">
+        <seg>Highlight Pattern...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T214448Z" creationid="Marc Riera" creationdate="20200121T214448Z">
+        <seg>Patró de ressaltat...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">COLOR_REPLACE</prop>
       <tuv lang="en">
         <seg>Replace</seg>
