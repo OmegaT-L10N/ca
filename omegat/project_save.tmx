@@ -21845,6 +21845,16 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <prop type="file">Bundle.properties</prop>
+      <prop type="id">EXTERNALFINDER_ENCODING_ESCAPE</prop>
+      <tuv lang="en">
+        <seg>Escape</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T210518Z" creationid="Marc Riera" creationdate="20200121T210518Z">
+        <seg>Escapament</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">OpenXML_WORD</prop>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
@@ -21856,6 +21866,38 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <prop type="file">Bundle.properties</prop>
+      <prop type="id">PREFS_PLUGINS_BROWSE_ONLINE</prop>
+      <tuv lang="en">
+        <seg>&amp;Browse Online</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T210612Z" creationid="Marc Riera" creationdate="20200121T210612Z">
+        <seg>&amp;Explora en línia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">PREFS_VERSION_CHECK_AUTO_CHECK</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Automatically check for updates</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T192158Z" creationid="Marc Riera" creationdate="20200121T192158Z">
+        <seg>Comprova si hi ha actualitzacions automàticament</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">PREFS_VERSION_CHECK_CHECK_NOW</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T192203Z" creationid="Marc Riera" creationdate="20200121T192203Z">
+        <seg>Comprova-ho ara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">STM_MERGE_WINDOW_TITLE</prop>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
@@ -21863,6 +21905,17 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T230917Z" creationid="Marc Riera" creationdate="20191110T230917Z">
         <seg>Fusiona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">VERSION_CHECK_GO_TO_DOWNLOADS</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>&amp;Go To Downloads</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T192226Z" creationid="Marc Riera" creationdate="20200121T192226Z">
+        <seg>&amp;Vés a Baixades</seg>
       </tuv>
     </tu>
     <tu>
