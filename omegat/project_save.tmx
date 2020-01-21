@@ -21962,6 +21962,17 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <prop type="file">Bundle.properties</prop>
+      <prop type="id">ISSUES_TERMINOLOGY_ORIGIN_DETAIL_DELIMITER</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T211539Z" creationid="Marc Riera" creationdate="20200121T211539Z">
+        <seg>&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">ISSUES_TERMINOLOGY_ORIGIN_DETAIL_TEMPLATE</prop>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
@@ -22024,6 +22035,50 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200121T211349Z" creationid="Marc Riera" creationdate="20200121T211349Z">
         <seg>«{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">ISSUE_PROVIDERS_SELECTOR_DONT_ASK_CHECKBOX</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Don't ask before checking issues</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T211708Z" creationid="Marc Riera" creationdate="20200121T211708Z">
+        <seg>No ho preguntis abans de comprovar els errors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">ISSUE_PROVIDERS_SELECTOR_MESSAGE</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T211622Z" creationid="Marc Riera" creationdate="20200121T211622Z">
+        <seg>Si la comprovació d'errors és lenta, proveu d'inhabilitar algunes de les comprovacions opcionals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">ISSUE_PROVIDERS_SELECTOR_MESSAGE</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Select issue types to check.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T211613Z" creationid="Marc Riera" creationdate="20200121T211613Z">
+        <seg>Seleccioneu els tipus d'errors que es comprovaran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">ISSUE_PROVIDERS_SELECTOR_TITLE</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Select Issue Types</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T211609Z" creationid="Marc Riera" creationdate="20200121T211609Z">
+        <seg>Seleccioneu els tipus d'errors</seg>
       </tuv>
     </tu>
     <tu>
