@@ -361,8 +361,8 @@
       <tuv lang="en">
         <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181109T225654Z" creationid="mgalo" creationdate="20181109T225654Z">
-        <seg>&amp;No eliminis l'escapament de literals d'Unicode (\uXXXX)</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T221052Z" creationid="mgalo" creationdate="20181109T225654Z">
+        <seg>&amp;No suprimeixis l'escapament de literals d'Unicode (\uXXXX)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3021,8 +3021,8 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181111T230655Z" creationid="mgalo" creationdate="20181111T230655Z">
-        <seg>Permet veure, afegir, eliminar o editar notes del segment actiu.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220939Z" creationid="mgalo" creationdate="20181111T230655Z">
+        <seg>Permet veure, afegir, suprimir o editar notes del segment actiu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3285,6 +3285,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Android Resources</seg>
       </tuv>
@@ -3364,8 +3365,8 @@ El fitxer TMX no es carregarà.</seg>
       <tuv lang="en">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T115018Z" creationid="Marc Riera" creationdate="20180221T115018Z">
-        <seg>Esteu segur que voleu eliminar el conjunt de regles de segmentació {0}?</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T221001Z" creationid="Marc Riera" creationdate="20180221T115018Z">
+        <seg>Esteu segur que voleu suprimir el conjunt de regles de segmentació «{0}»?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3926,6 +3927,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Camtasia for Windows</seg>
       </tuv>
@@ -5960,6 +5962,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>DocBook</seg>
       </tuv>
@@ -6009,6 +6012,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>DokuWiki</seg>
       </tuv>
@@ -7036,8 +7040,8 @@ ningú no sent els vostres crits.</seg>
       <tuv lang="en">
         <seg>Exception while editing options:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T224900Z" creationid="Marc Riera" creationdate="20191112T224900Z">
-        <seg>S'ha produït una excepció en editar els paràmetres:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T221718Z" creationid="Marc Riera" creationdate="20191112T224900Z">
+        <seg>S'ha produït una excepció en editar les opcions:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7204,8 +7208,8 @@ els fils de teranyina t'aparten.
       <tuv lang="en">
         <seg>External TMX Options</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T152439Z" creationid="mgalo" creationdate="20181111T225644Z">
-        <seg>Paràmetres de les memòries TMX externes</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T221755Z" creationid="mgalo" creationdate="20181111T225644Z">
+        <seg>Opcions de les memòries TMX externes</seg>
       </tuv>
     </tu>
     <tu>
@@ -8027,6 +8031,7 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Global</seg>
       </tuv>
@@ -8316,6 +8321,7 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Help &amp; Manual</seg>
       </tuv>
@@ -9040,6 +9046,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Infix</seg>
       </tuv>
@@ -9662,6 +9669,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Java Properties XML</seg>
       </tuv>
@@ -10937,6 +10945,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Microsoft Open XML</seg>
       </tuv>
@@ -12586,7 +12595,7 @@ Runtime Environment (JRE) al sistema.</seg>
       <tuv lang="en">
         <seg>Open XML Filter Options</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114638Z" creationid="Marc Riera" creationdate="20180221T114638Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T221700Z" creationid="Marc Riera" creationdate="20180221T114638Z">
         <seg>Opcions del filtre Open XML</seg>
       </tuv>
     </tu>
@@ -12639,6 +12648,7 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OpenDocument</seg>
       </tuv>
@@ -12650,7 +12660,7 @@ Runtime Environment (JRE) al sistema.</seg>
       <tuv lang="en">
         <seg>OpenDocument Filter Options</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224447Z" creationid="Marc Riera" creationdate="20180214T224447Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T221651Z" creationid="Marc Riera" creationdate="20180214T224447Z">
         <seg>Opcions del filtre OpenDocument</seg>
       </tuv>
     </tu>
@@ -12667,8 +12677,8 @@ Runtime Environment (JRE) al sistema.</seg>
       <tuv lang="en">
         <seg>Options</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T112414Z" creationid="Marc Riera" creationdate="20180118T130310Z">
-        <seg>Paràmetres</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T221612Z" creationid="Marc Riera" creationdate="20180118T130310Z">
+        <seg>Opcions</seg>
       </tuv>
     </tu>
     <tu>
@@ -12696,8 +12706,8 @@ Runtime Environment (JRE) al sistema.</seg>
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T172546Z" creationid="Marc Riera" creationdate="20191113T172546Z">
-        <seg>Options:
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T221551Z" creationid="Marc Riera" creationdate="20191113T172546Z">
+        <seg>Opcions:
 	Cap: inicia la GUI
 	Només camí d'un projecte: inicia la GUI i carrega el projecte especificat
 	team
@@ -13929,6 +13939,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>RELAX NG</seg>
       </tuv>
@@ -14237,11 +14248,12 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T221209Z" creationid="mgalo" creationdate="20181112T221209Z">
-        <seg>Elimina els comentaris HTML en el document traduït</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T221021Z" creationid="mgalo" creationdate="20181112T221209Z">
+        <seg>Suprimeix els comentaris HTML en el document traduït</seg>
       </tuv>
     </tu>
     <tu>
@@ -14563,6 +14575,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>ResX</seg>
       </tuv>
@@ -14787,6 +14800,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>SVG Image and Adobe Illustrator Export</seg>
       </tuv>
@@ -14984,6 +14998,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Schematron</seg>
       </tuv>
@@ -15002,6 +15017,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Scribus</seg>
       </tuv>
@@ -16402,6 +16418,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Start a new paragraph on:</seg>
       </tuv>
@@ -16459,6 +16476,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>SubRip Subtitles</seg>
       </tuv>
@@ -16874,8 +16892,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Team Options</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T152331Z" creationid="Marc Riera" creationdate="20180212T221138Z">
-        <seg>Paràmetres de l'equip</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T221738Z" creationid="Marc Riera" creationdate="20180212T221138Z">
+        <seg>Opcions de l'equip</seg>
       </tuv>
     </tu>
     <tu>
@@ -18625,6 +18643,7 @@ que conté els fitxers OmegaT.jar i linux-install.sh i executeu l'script amb
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translate the following elements:</seg>
       </tuv>
@@ -18917,6 +18936,7 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Typo3 LocManager</seg>
       </tuv>
@@ -18925,6 +18945,7 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Typo3 l10nmgr</seg>
       </tuv>
@@ -19907,6 +19928,7 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Visio</seg>
       </tuv>
@@ -20012,6 +20034,7 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>WebVTT Subtitles</seg>
       </tuv>
@@ -20208,6 +20231,7 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>WiX Localization</seg>
       </tuv>
@@ -20335,6 +20359,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Wordfast TXML</seg>
       </tuv>
@@ -20343,6 +20368,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Wordpress</seg>
       </tuv>
@@ -20511,6 +20537,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>XLIFF</seg>
       </tuv>
@@ -20835,8 +20862,8 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       <tuv lang="en">
         <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T234806Z" creationid="mgalo" creationdate="20181113T094551Z">
-        <seg>Cal que actualitzeu el JDK 1.6 a l'últim versió. Si no, simplement elimineu el fitxer jaxb-*.jar del directori OmegaT /lib</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220913Z" creationid="mgalo" creationdate="20181113T094551Z">
+        <seg>Cal que actualitzeu el JDK 1.6 a l'última versió, o simplement suprimiu el fitxer «jaxb-*.jar» del directori «/lib» de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20864,6 +20891,7 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>YouTube Subtitles</seg>
       </tuv>
