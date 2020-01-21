@@ -2904,6 +2904,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Align Files</seg>
       </tuv>
@@ -3226,6 +3227,14 @@ The TMX file will not be loaded.</seg>
         <seg>S'ha produït una excepció en analitzar el fitxer TMX
 {0}
 El fitxer TMX no es carregarà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An existing translation was changed to something different from what you chose.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T223358Z" creationid="Marc Riera" creationdate="20200121T223358Z">
+        <seg>S'ha canviat una traducció existent a una de diferent de la que heu triat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3946,6 +3955,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cancel Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T223200Z" creationid="Marc Riera" creationdate="20200121T223200Z">
+        <seg>Cancel·la l'alineació per clics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191113T175703Z" creationid="Marc Riera" creationdate="20191113T175703Z">
@@ -4043,6 +4060,22 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T113403Z" creationid="Marc Riera" creationdate="20180221T113441Z">
         <seg>Modificat després del:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changed by</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T223252Z" creationid="Marc Riera" creationdate="20200121T223252Z">
+        <seg>Modificat per</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changed on</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T223257Z" creationid="Marc Riera" creationdate="20200121T223257Z">
+        <seg>Data de modificació</seg>
       </tuv>
     </tu>
     <tu>
@@ -5189,12 +5222,28 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Created by</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T223302Z" creationid="Marc Riera" creationdate="20200121T223302Z">
+        <seg>Creat per</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Created by: {0}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223922Z" creationid="Marc Riera" creationdate="20180214T223922Z">
         <seg>Creat per: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Created on</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T223307Z" creationid="Marc Riera" creationdate="20200121T223307Z">
+        <seg>Data de creació</seg>
       </tuv>
     </tu>
     <tu>
@@ -6547,6 +6596,14 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224336Z" creationid="Marc Riera" creationdate="20180214T224336Z">
         <seg>S'ha trobat una seqüència \u incorrecta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>End Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T223149Z" creationid="Marc Riera" creationdate="20200121T223149Z">
+        <seg>Finalitza l'alineació per clics</seg>
       </tuv>
     </tu>
     <tu>
@@ -8290,6 +8347,7 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Has note</seg>
       </tuv>
@@ -9365,6 +9423,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Is alternative</seg>
       </tuv>
@@ -9381,6 +9440,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Is duplicate</seg>
       </tuv>
@@ -9769,11 +9829,12 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Keep Mine</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T112628Z" creationid="mgalo" creationdate="20181112T112628Z">
-        <seg>Mantingues la meva</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T223517Z" creationid="mgalo" creationdate="20181112T112628Z">
+        <seg>Mantén la meva</seg>
       </tuv>
     </tu>
     <tu>
@@ -9785,11 +9846,12 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Keep Other</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T112635Z" creationid="mgalo" creationdate="20181112T112635Z">
-        <seg>Mantingues l'altra</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T223523Z" creationid="mgalo" creationdate="20181112T112635Z">
+        <seg>Mantén l'altra</seg>
       </tuv>
     </tu>
     <tu>
@@ -10303,6 +10365,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>List View</seg>
       </tuv>
@@ -10840,6 +10903,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Match type</seg>
       </tuv>
@@ -10972,6 +11036,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:needs-revision&gt;</note>
       <tuv lang="en">
         <seg>Mine</seg>
       </tuv>
@@ -11296,6 +11361,7 @@ adequada, com ara la carpeta Aplicacions.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Name</seg>
       </tuv>
@@ -11361,6 +11427,7 @@ adequada, com ara la carpeta Aplicacions.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Next</seg>
       </tuv>
@@ -11653,6 +11720,7 @@ adequada, com ara la carpeta Aplicacions.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Note</seg>
       </tuv>
@@ -11753,8 +11821,8 @@ adequada, com ara la carpeta Aplicacions.</seg>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has "{0}"</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231925Z" creationid="Marc Riera" creationdate="20191112T231925Z">
-        <seg>Notifica'm que un segment té «{0}»</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T223634Z" creationid="Marc Riera" creationdate="20191112T231925Z">
+        <seg>Notifica'm quan un segment té «{0}»</seg>
       </tuv>
     </tu>
     <tu>
@@ -12741,11 +12809,12 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Other</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T112623Z" creationid="mgalo" creationdate="20181112T112623Z">
-        <seg>Una altra</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T223550Z" creationid="mgalo" creationdate="20181112T112623Z">
+        <seg>L'altra</seg>
       </tuv>
     </tu>
     <tu>
@@ -12934,6 +13003,7 @@ s'esvaeix com la boira.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Path</seg>
       </tuv>
@@ -13422,6 +13492,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Previous</seg>
       </tuv>
@@ -15332,6 +15403,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segment Properties</seg>
       </tuv>
@@ -16716,6 +16788,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Table View</seg>
       </tuv>
@@ -17434,6 +17507,7 @@ en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The file "{0}" is not supported.</seg>
       </tuv>
@@ -17832,6 +17906,7 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The specified files are not supported.</seg>
       </tuv>
@@ -18794,6 +18869,7 @@ que conté els fitxers OmegaT.jar i linux-install.sh i executeu l'script amb
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translation</seg>
       </tuv>
@@ -18819,6 +18895,7 @@ que conté els fitxers OmegaT.jar i linux-install.sh i executeu l'script amb
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translation is fuzzy</seg>
       </tuv>
@@ -19812,6 +19889,7 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Value</seg>
       </tuv>
@@ -20198,6 +20276,7 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Which version do you want to keep?</seg>
       </tuv>
