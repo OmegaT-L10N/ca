@@ -21835,6 +21835,17 @@ creï la carpeta de configuració.</seg>
 <!-- Alternative translations -->
     <tu>
       <prop type="file">Bundle.properties</prop>
+      <prop type="id">ALIGNER_MENU_OPTIONS_REMOVETAGS</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Remove Tags</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T213202Z" creationid="Marc Riera" creationdate="20200121T213202Z">
+        <seg>Suprimeix les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">COLOR_REPLACE</prop>
       <tuv lang="en">
         <seg>Replace</seg>
