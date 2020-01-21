@@ -980,8 +980,8 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       <tuv lang="en">
         <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181109T132009Z">
-        <seg>&amp;Elimina les cadenes sense traduir en els fitxers de destinació</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220055Z" creationid="mgalo" creationdate="20181109T132009Z">
+        <seg>Sup&amp;rimeix les cadenes sense traduir en els fitxers de destinació</seg>
       </tuv>
     </tu>
     <tu>
@@ -2992,6 +2992,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Allow to save password locally as plain text</seg>
       </tuv>
@@ -4359,8 +4360,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Clear Mark</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T113524Z" creationid="mgalo" creationdate="20181112T113524Z">
-        <seg>Elimina la marca</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220320Z" creationid="mgalo" creationdate="20181112T113524Z">
+        <seg>Suprimeix la marca</seg>
       </tuv>
     </tu>
     <tu>
@@ -4432,8 +4433,8 @@ Demana una altra copa!</seg>
         <seg>Close the current OmegaT instance
 3.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110029Z" creationid="Marc Riera" creationdate="20190521T110029Z">
-        <seg>Tancar la instància actual de l'OmegaT
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220513Z" creationid="Marc Riera" creationdate="20190521T110029Z">
+        <seg>Tancar la instància actual de l'OmegaT.
 3.</seg>
       </tuv>
     </tu>
@@ -4722,16 +4723,16 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Confirm</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180212T220952Z" creationid="Marc Riera" creationdate="20180212T220952Z">
-        <seg>Confirmeu</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T215830Z" creationid="Marc Riera" creationdate="20180212T220952Z">
+        <seg>Confirmació</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Confirm removal of pattern {0}</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114812Z" creationid="Marc Riera" creationdate="20180221T114812Z">
-        <seg>Confirmeu l'eliminació del patró {0}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220138Z" creationid="Marc Riera" creationdate="20180221T114812Z">
+        <seg>Confirmeu la supressió del patró «{0}»</seg>
       </tuv>
     </tu>
     <tu>
@@ -4982,12 +4983,13 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Copy &lt;project&gt;/omegat/project_save.tmx file into a safe location
 2.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110012Z" creationid="Marc Riera" creationdate="20190521T110012Z">
-        <seg>Copiar el fitxer &lt;projecte&gt;/omegat/project_save.tmx a un lloc segur
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220503Z" creationid="Marc Riera" creationdate="20190521T110012Z">
+        <seg>Copiar el fitxer &lt;projecte&gt;/omegat/project_save.tmx a un lloc segur.
 2.</seg>
       </tuv>
     </tu>
@@ -5425,8 +5427,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Deleted</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231302Z" creationid="Marc Riera" creationdate="20191112T231302Z">
-        <seg>Eliminada</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220354Z" creationid="Marc Riera" creationdate="20191112T231302Z">
+        <seg>Suprimida</seg>
       </tuv>
     </tu>
     <tu>
@@ -9337,6 +9339,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Invalid repository type: {0}</seg>
       </tuv>
@@ -10367,11 +10370,12 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Local File/Folder</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T123758Z" creationid="mgalo" creationdate="20181108T155727Z">
-        <seg>Arxiu/Carpeta local</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T215945Z" creationid="mgalo" creationdate="20181108T155727Z">
+        <seg>Fitxer o carpeta local</seg>
       </tuv>
     </tu>
     <tu>
@@ -14189,14 +14193,16 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remote File/Folder</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T123802Z" creationid="mgalo" creationdate="20181108T160116Z">
-        <seg>Arxiu/Carpeta remots</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T215959Z" creationid="mgalo" creationdate="20181108T160116Z">
+        <seg>Fitxer o carpeta remota</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remote Repositories</seg>
       </tuv>
@@ -14213,19 +14219,21 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remove</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223302Z" creationid="Marc Riera" creationdate="20180214T223302Z">
-        <seg>Elimina</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T215847Z" creationid="Marc Riera" creationdate="20180214T223302Z">
+        <seg>Suprimeix</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remove &amp;leading and trailing tags</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T151543Z" creationid="Marc Riera" creationdate="20180221T114911Z">
-        <seg>Elimina &amp;les etiquetes inicials i finals</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220219Z" creationid="Marc Riera" creationdate="20180221T114911Z">
+        <seg>Suprimeix &amp;les etiquetes inicials i finals</seg>
       </tuv>
     </tu>
     <tu>
@@ -14248,8 +14256,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Remove Script</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T105749Z" creationid="Marc Riera" creationdate="20190521T105749Z">
-        <seg>Elimina l'script</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220755Z" creationid="Marc Riera" creationdate="20190521T105749Z">
+        <seg>Suprimeix l'script</seg>
       </tuv>
     </tu>
     <tu>
@@ -14278,35 +14286,38 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114914Z" creationid="Marc Riera" creationdate="20180221T114914Z">
-        <seg>Elimina els espais en blanc inicials i finals en projectes no segmentats</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220229Z" creationid="Marc Riera" creationdate="20180221T114914Z">
+        <seg>Suprimeix els espais en blanc inicials i finals en projectes no segmentats</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remove pattern?</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114813Z" creationid="Marc Riera" creationdate="20180221T114813Z">
-        <seg>Voleu eliminar el patró?</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220151Z" creationid="Marc Riera" creationdate="20180221T114813Z">
+        <seg>Voleu suprimir el patró?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Remove text target</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231620Z" creationid="Marc Riera" creationdate="20191112T231620Z">
-        <seg>Text de destinació eliminat</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220336Z" creationid="Marc Riera" creationdate="20191112T231620Z">
+        <seg>Text de destinació suprimit</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remove the project folder manually.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110040Z" creationid="Marc Riera" creationdate="20190521T110040Z">
-        <seg>Eliminar la carpeta del projecte manualment.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220435Z" creationid="Marc Riera" creationdate="20190521T110040Z">
+        <seg>Suprimir la carpeta del projecte manualment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14378,12 +14389,13 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Replace &lt;project&gt;/omegat/project_save.tmx in the newly downloaded project with the file saved in a safe location
 6.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T071939Z" creationid="Marc Riera" creationdate="20190925T071939Z">
-        <seg>Substituïu el fitxer &lt;projecte&gt;/omegat/project_save.tmx al projecte acabat de baixar pel fitxer desat en una ubicació segura
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220715Z" creationid="Marc Riera" creationdate="20190925T071939Z">
+        <seg>Reemplaçar el fitxer &lt;projecte&gt;/omegat/project_save.tmx al projecte acabat de baixar pel fitxer desat en una ubicació segura.
 6.</seg>
       </tuv>
     </tu>
@@ -14445,6 +14457,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Repository</seg>
       </tuv>
@@ -16361,21 +16374,23 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110231Z" creationid="Marc Riera" creationdate="20190521T110231Z">
-        <seg>Tornar a iniciar l'OmegaT, baixar el projecte d'equip i tancar l'OmegaT
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220539Z" creationid="Marc Riera" creationdate="20190521T110231Z">
+        <seg>Tornar a iniciar l'OmegaT, baixar el projecte en equip i tancar l'OmegaT
 5.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Start OmegaT and continue to translate</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T102535Z" creationid="mgalo" creationdate="20181112T102535Z">
-        <seg>Inicia l'OmegaT i continua la traducció</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220727Z" creationid="mgalo" creationdate="20181112T102535Z">
+        <seg>Iniciar l'OmegaT i continuar la traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18245,6 +18260,7 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>To be sure that no translation will be lost, you need to:
 1.</seg>
@@ -19916,12 +19932,13 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>WARNING: all unsaved data will be lost
 4.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110105Z" creationid="Marc Riera" creationdate="20190521T110105Z">
-        <seg>AVÍS: es perdran totes les dades sense desar
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220517Z" creationid="Marc Riera" creationdate="20190521T110105Z">
+        <seg>AVÍS: es perdran totes les dades sense desar.
 4.</seg>
       </tuv>
     </tu>
