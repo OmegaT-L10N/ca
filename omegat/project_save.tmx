@@ -125,6 +125,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T221813Z" creationid="Marc Riera" creationdate="20200122T221813Z">
+        <seg>&amp;Permet també les ordres externes per a cada projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Always</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181109T235039Z" creationid="mgalo" creationdate="20181109T235039Z">
@@ -519,6 +527,14 @@
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181109T231149Z" creationid="mgalo" creationdate="20181109T231048Z">
         <seg>&amp;Notes al peu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T222401Z" creationid="Marc Riera" creationdate="20200122T222401Z">
+        <seg>&amp;Força la drecera a «f» per a les etiquetes &lt;it pos="end"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2206,6 +2222,22 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230158Z" creationid="Marc Riera" creationdate="20200122T225913Z">
+        <seg>&lt;html&gt;&lt;i&gt;Preferències&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Utilitza Tab per a avançar&lt;/i&gt; està marcat&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T225750Z" creationid="Marc Riera" creationdate="20200122T225526Z">
+        <seg>&lt;html&gt;Afegiu patrons mitjançant comodins (estil de l'Apache Ant): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Exemple: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
@@ -2938,6 +2970,22 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner Highlight</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T225645Z" creationid="Marc Riera" creationdate="20200122T225645Z">
+        <seg>Ressaltat de l'alineador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner Table Row Highlight</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T225656Z" creationid="Marc Riera" creationdate="20200122T225656Z">
+        <seg>Ressaltat de les files de la taula de l'alineador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T120627Z" creationid="Marc Riera" creationdate="20190520T120627Z">
@@ -3556,6 +3604,14 @@ inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T103539Z" creationid="mgalo" creationdate="20181112T103411Z">
         <seg>Text automàtic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Autotext entries</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T222503Z" creationid="Marc Riera" creationdate="20200122T222503Z">
+        <seg>Entrades de text automàtic</seg>
       </tuv>
     </tu>
     <tu>
@@ -6200,8 +6256,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Download collection {0}</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T230515Z" creationid="Marc Riera" creationdate="20191110T230515Z">
-        <seg>Baixa la col·lecció {0}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T225323Z" creationid="Marc Riera" creationdate="20191110T230515Z">
+        <seg>S'està baixant la col·lecció {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7322,6 +7378,14 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Extraneous</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T221847Z" creationid="Marc Riera" creationdate="20200122T221847Z">
+        <seg>Aliena</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Facebook group</seg>
@@ -7920,6 +7984,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T111548Z" creationid="mgalo" creationdate="20181112T111548Z">
         <seg>De la memòria «auto»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From enforced memory</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T225604Z" creationid="Marc Riera" creationdate="20200122T225604Z">
+        <seg>De la memòria imposada</seg>
       </tuv>
     </tu>
     <tu>
@@ -9666,8 +9738,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Item:</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T111820Z" creationid="mgalo" creationdate="20181112T111820Z">
-        <seg>Elements:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T225705Z" creationid="mgalo" creationdate="20181112T111820Z">
+        <seg>Element:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10843,6 +10915,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Mask</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T225359Z" creationid="Marc Riera" creationdate="20200122T225359Z">
+        <seg>Màscara</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Master Password</seg>
@@ -11068,6 +11148,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150604T184504Z" creationid="Alexandra" creationdate="20150526T134836Z">
         <seg>Miscel·lània de recursos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Missing</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T221831Z" creationid="Marc Riera" creationdate="20200122T221831Z">
+        <seg>Suprimida</seg>
       </tuv>
     </tu>
     <tu>
@@ -13392,6 +13480,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Predefined credentials was not passed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T222429Z" creationid="Marc Riera" creationdate="20200122T222429Z">
+        <seg>No s'han enviat les credencials predefinides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preferences</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T111511Z" creationid="Marc Riera" creationdate="20190521T111511Z">
@@ -14746,6 +14842,22 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Retrieve collection list...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T225310Z" creationid="Marc Riera" creationdate="20200122T225234Z">
+        <seg>S'està recuperant la llista de col·leccions...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Retrieve domain list...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T225317Z" creationid="Marc Riera" creationdate="20200122T225245Z">
+        <seg>S'està recuperant la llista de dominis...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T160532Z" creationid="Packard Bell" creationdate="20150605T160532Z">
@@ -15236,10 +15348,26 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search Found Mark</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T225627Z" creationid="Marc Riera" creationdate="20200122T225627Z">
+        <seg>Marca de cerca trobada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search Project...</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161514Z" creationid="Packard Bell" creationdate="20150605T161514Z">
         <seg>Cerca al projecte...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search Replaced Mark</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T225634Z" creationid="Marc Riera" creationdate="20200122T225634Z">
+        <seg>Marca de cerca reemplaçada</seg>
       </tuv>
     </tu>
     <tu>
@@ -18191,6 +18319,22 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>This call MUST NOT be in swing thread</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T222236Z" creationid="Marc Riera" creationdate="20200122T222236Z">
+        <seg>Aquesta trucada no ha d'estar al fil del Swing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This call MUST be in swing thread</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T222220Z" creationid="Marc Riera" creationdate="20200122T222220Z">
+        <seg>Aquesta trucada ha d'estar al fil del Swing</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"This chapter" was replaced by the title of the chapter, as it is a bit confusing to say "this capter" when first referring to TWO chapters.</note>
       <tuv lang="en">
         <seg>This chapter describes the project properties, such as the source and target languages.</seg>
@@ -19213,6 +19357,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unauthorized request to TaaS service.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T225211Z" creationid="Marc Riera" creationdate="20200122T225211Z">
+        <seg>Sol·licitud no autoritzada al servei de TaaS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unchanged sentences are automatically translated, while updated sentences are shown with the translation of the most similar, older sentence.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181116T165206Z" creationid="mgalo" creationdate="20181116T165150Z">
@@ -19683,6 +19835,14 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T162049Z" creationid="Packard Bell" creationdate="20150605T162049Z">
         <seg>Manual d'usuari...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User denied credentials</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T222054Z" creationid="Marc Riera" creationdate="20200122T222054Z">
+        <seg>S'han denegat les credencials de l'usuari</seg>
       </tuv>
     </tu>
     <tu>
