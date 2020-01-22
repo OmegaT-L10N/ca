@@ -7857,6 +7857,16 @@ del Kaptain inclòs (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
+provided (omegat.kaptn).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230944Z" creationid="Marc Riera" creationdate="20200122T230944Z">
+        <seg>Si voleu executar l'OmegaT d'una manera més còmoda, podeu utilitzar l'script
+del Kaptain inclòs (omegat.kaptn).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For advanced users, the chapter describes the command line mode and its possibilities.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181117T003825Z" creationid="mgalo" creationdate="20181117T003808Z">
@@ -8751,6 +8761,17 @@ l'hivern ja és aquí.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If
+Java is installed at system level and is in the command path, the full path need
+not be entered.)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T231024Z" creationid="Marc Riera" creationdate="20200122T231024Z">
+        <seg>Si el Java està instal·lat per a tot el sistema i es troba al camí d'ordres,
+no cal introduir el camí complet.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181109T234836Z" creationid="mgalo" creationdate="20181109T234836Z">
@@ -8922,6 +8943,17 @@ extensions dels fitxers.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
+Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230932Z" creationid="Marc Riera" creationdate="20200122T230932Z">
+        <seg>Si podeu veure el fitxer OmegaT però no OmegaT.exe al vostre gestor de fitxers
+(Explorador de Windows), canvieu la configuració perquè es mostrin les
+extensions dels fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150801T120705Z" creationid="Alexandra" creationdate="20150526T105347Z">
@@ -8934,6 +8966,16 @@ extensions dels fitxers.</seg>
 is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T192257Z" creationid="Marc Riera" creationdate="20180212T231922Z">
+        <seg>Si ja teniu el Java instal·lat al vostre ordinador, una manera d'instal·lar
+l'OmegaT és utilitzar Java Web Start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have already Java installed on your system, one way to install OmegaT is
+to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230851Z" creationid="Marc Riera" creationdate="20200122T230851Z">
         <seg>Si ja teniu el Java instal·lat al vostre ordinador, una manera d'instal·lar
 l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
@@ -9001,6 +9043,16 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215021Z" creationid="mgalo" creationdate="20181114T120359Z">
         <seg>Si els fitxers d'origen són fitxers amb format, com, per exemple, de Microsoft Word, LibreOffice Writer o HTML, l'OmegaT convertirà els elements de format en etiquetes que envolten el text a traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If, during installation, you have created a shortcut on the desktop,
+double-click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230921Z" creationid="Marc Riera" creationdate="20200122T230921Z">
+        <seg>En cas que hàgiu creat una drecera a l'escriptori durant la instal·lació,
+feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9396,6 +9448,16 @@ feu clic en la drecera.</seg>
 =========================================</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T191952Z" creationid="Marc Riera" creationdate="20180212T223219Z">
+        <seg>Instal·lació de l'OmegaT (Solaris, FreeBSD, etc.)
+===============================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
+=========================================</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230825Z" creationid="Marc Riera" creationdate="20200122T230825Z">
         <seg>Instal·lació de l'OmegaT (Solaris, FreeBSD, etc.)
 ===============================================</seg>
       </tuv>
@@ -11449,6 +11511,16 @@ adequada, com ara la carpeta Aplicacions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Move the folder to an appropriate location such
+as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230757Z" creationid="Marc Riera" creationdate="20200122T230757Z">
+        <seg>Moveu la carpeta a una ubicació
+adequada, com ara la carpeta Aplicacions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mozilla DTD</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224243Z" creationid="Marc Riera" creationdate="20180214T224243Z">
@@ -12395,6 +12467,16 @@ la carpeta d'inici.</seg>
 to be launched.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T190810Z" creationid="Marc Riera" creationdate="20190924T141222Z">
+        <seg>L'OmegaT
+està llest per a executar-se.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is then ready to
+be launched.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230804Z" creationid="Marc Riera" creationdate="20200122T230804Z">
         <seg>L'OmegaT
 està llest per a executar-se.</seg>
       </tuv>
@@ -17819,6 +17901,16 @@ a la zona d'accés ràpid.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The installer can create shortcuts for you in the start menu, on the desktop and
+in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230927Z" creationid="Marc Riera" creationdate="20200122T230927Z">
+        <seg>El programa d'instal·lació pot crear dreceres al menú d'inici, a l'escriptori i
+a la zona d'accés ràpid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The key must then be given to OmegaT using -Dtaas.user.key=xxxxx.</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150523T171330Z" creationid="Stephanie" creationdate="20150523T170729Z">
@@ -17832,6 +17924,16 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T121453Z" creationid="Marc Riera" creationdate="20180214T223328Z">
         <seg>El codi de llengua ha de tenir el format xx-YY, xxx-YY, xx_YY o xxx_YY, on xx és el codi de llengua i YY és el codi de regió o país (opcional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The license of each library is mentioned in
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230721Z" creationid="Marc Riera" creationdate="20200122T230721Z">
+        <seg>La llicència de cada biblioteca
+s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18713,12 +18815,34 @@ d'instal·lar el Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use this script you must first install Kaptain.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230959Z" creationid="Marc Riera" creationdate="20200122T230959Z">
+        <seg>Per utilitzar aquest script, primer heu
+d'instal·lar el Kaptain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To use this script, open a
 terminal window (console), change folder to the folder containing OmegaT.jar
 and the linux-install.sh script, and execute the script with ./linux-
 install.sh.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T190948Z" creationid="Marc Riera" creationdate="20191110T185423Z">
+        <seg>Per utilitzar aquest script, obriu
+una finestra del terminal (consola), canvieu la carpeta de treball a la carpeta
+que conté els fitxers OmegaT.jar i linux-install.sh i executeu l'script amb
+«./linux-install.sh».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use this script, open a terminal
+window (console), change folder to the folder containing OmegaT.jar and the
+linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230819Z" creationid="Marc Riera" creationdate="20200122T230819Z">
         <seg>Per utilitzar aquest script, obriu
 una finestra del terminal (consola), canvieu la carpeta de treball a la carpeta
 que conté els fitxers OmegaT.jar i linux-install.sh i executeu l'script amb
@@ -19604,6 +19728,16 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
+file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230748Z" creationid="Marc Riera" creationdate="20200122T230748Z">
+        <seg>Descomprimiu l'arxiu .zip de l'OmegaT per obtenir una carpeta que conté un
+fitxer de documentació i l'aplicació OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unrecoverable error while parsing TMX file
 {0}
 on line {1}, column {2}.</seg>
@@ -20338,6 +20472,16 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
+of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230743Z" creationid="Marc Riera" creationdate="20200122T230743Z">
+        <seg>Us recomanem que utilitzeu els paquets de l'OmegaT que inclouen el JRE, per
+estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Web Start</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T191045Z" creationid="Marc Riera" creationdate="20191110T184716Z">
@@ -20909,6 +21053,15 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>You
+can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T231018Z" creationid="Marc Riera" creationdate="20200122T231018Z">
+        <seg>Llavors podeu executar l'script del Kaptain amb:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You already have the latest version.</seg>
@@ -20993,11 +21146,32 @@ podeu executar des del camp de cerca de l'Spotlight.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also launch it from
+the Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230939Z" creationid="Marc Riera" creationdate="20200122T230939Z">
+        <seg>També la
+podeu executar des del camp de cerca de l'Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also manually drag the file
 OmegaT.exe to the start menu, the desktop or the quick launch area to link it
 from there.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T192345Z" creationid="Marc Riera" creationdate="20190924T141514Z">
+        <seg>També podeu arrossegar manualment el fitxer OmegaT.exe
+al menú d'inici, a l'escriptori o a la zona d'accés ràpid per enllaçar-lo des
+d'allà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also manually drag the file OmegaT.exe to the
+start menu, the desktop or the quick launch area to link it from there.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230929Z" creationid="Marc Riera" creationdate="20200122T230929Z">
         <seg>També podeu arrossegar manualment el fitxer OmegaT.exe
 al menú d'inici, a l'escriptori o a la zona d'accés ràpid per enllaçar-lo des
 d'allà.</seg>
@@ -21063,6 +21237,16 @@ trobar el text de la llicència a /docs/OmegaT-license.txt</seg>
 the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T185522Z" creationid="Marc Riera" creationdate="20190924T144644Z">
+        <seg>Tanmateix, podeu obtenir una instal·lació més ordenada i amigable utilitzant
+l'script d'instal·lació (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can however obtain a neater and more user-friendly installation by using the
+installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230807Z" creationid="Marc Riera" creationdate="20200122T230807Z">
         <seg>Tanmateix, podeu obtenir una instal·lació més ordenada i amigable utilitzant
 l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
@@ -21141,6 +21325,16 @@ l'script d'instal·lació (linux-install.sh).</seg>
 Finder window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180212T232557Z" creationid="Marc Riera" creationdate="20180212T232557Z">
+        <seg>Podeu arrossegar l'aplicació de l'OmegaT al vostre dock o a la barra d'eines
+d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may drag the OmegaT application to your dock or to the toolbar of a Finder
+window to be able to launch it from any location.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230937Z" creationid="Marc Riera" creationdate="20200122T230937Z">
         <seg>Podeu arrossegar l'aplicació de l'OmegaT al vostre dock o a la barra d'eines
 d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
@@ -21772,10 +21966,34 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T231035Z" creationid="Marc Riera" creationdate="20200122T231035Z">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T115737Z" creationid="mgalo" creationdate="20181115T115737Z">
         <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.org/support</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T231039Z" creationid="Marc Riera" creationdate="20200122T231039Z">
+        <seg>https://omegat.org/support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230900Z" creationid="Marc Riera" creationdate="20200122T230900Z">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
