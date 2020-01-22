@@ -665,6 +665,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Jump To Segment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230441Z" creationid="Marc Riera" creationdate="20200122T230441Z">
+        <seg>&amp;Salta al segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Keyword search</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223353Z" creationid="Marc Riera" creationdate="20180214T223353Z">
@@ -2253,6 +2261,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T214315Z" creationid="Marc Riera" creationdate="20180214T223142Z">
         <seg>&lt;html&gt;Les ordres externes específiques per a cada projecte estan inhabilitades i no s'executaran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;html&gt;Place the caret at the location where you want to split the text.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230401Z" creationid="Marc Riera" creationdate="20200122T230401Z">
+        <seg>&lt;html&gt;Situeu el cursor on vulgueu dividir el text.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6469,6 +6485,14 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit Highlight Pattern</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230416Z" creationid="Marc Riera" creationdate="20200122T230416Z">
+        <seg>Edita el patró de ressaltat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit Menu</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T160911Z" creationid="Packard Bell" creationdate="20150605T160911Z">
@@ -7934,6 +7958,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161703Z" creationid="Packard Bell" creationdate="20150605T161703Z">
         <seg>Endavant en l'historial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Forward-Backward</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230431Z" creationid="Marc Riera" creationdate="20200122T230431Z">
+        <seg>Endavant-endarrere</seg>
       </tuv>
     </tu>
     <tu>
@@ -9542,6 +9574,22 @@ feu clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T122605Z" creationid="Marc Riera" creationdate="20190520T122605Z">
         <seg>Errors ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Issues for {0} ({1} of {2})</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230525Z" creationid="Marc Riera" creationdate="20200122T230525Z">
+        <seg>Errors per a {0} ({1} de {2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Issues for {0} ({1})</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230514Z" creationid="Marc Riera" creationdate="20200122T230514Z">
+        <seg>Errors per a {0} ({1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -16575,6 +16623,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Split Text</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230408Z" creationid="Marc Riera" creationdate="20200122T230408Z">
+        <seg>Divideix el text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sponsorship</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T130105Z" creationid="Marc Riera" creationdate="20190520T130105Z">
@@ -19717,8 +19773,8 @@ a la línia {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213832Z" creationid="Marc Riera" creationdate="20180210T213832Z">
-        <seg>Utilitza &amp;TAB per avançar</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230310Z" creationid="Marc Riera" creationdate="20180210T213832Z">
+        <seg>Utilitza &amp;Tab per a avançar</seg>
       </tuv>
     </tu>
     <tu>
@@ -19749,8 +19805,16 @@ a la línia {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use TAB To Advance</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161839Z" creationid="Packard Bell" creationdate="20150605T161839Z">
-        <seg>Utilitza TAB per avançar</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230225Z" creationid="Packard Bell" creationdate="20150605T161839Z">
+        <seg>Utilitza Tab per a avançar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use TAB to Advance</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230251Z" creationid="Marc Riera" creationdate="20200122T230251Z">
+        <seg>Utilitza Tab per a avançar</seg>
       </tuv>
     </tu>
     <tu>
