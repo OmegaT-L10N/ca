@@ -5050,9 +5050,9 @@ Demana una altra copa!</seg>
         <seg>Contributors
 ============</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180212T230533Z" creationid="Marc Riera" creationdate="20180212T230533Z">
-        <seg>Col·laboradors
-============</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T160437Z" creationid="Marc Riera" creationdate="20180212T230533Z">
+        <seg>Contribucions
+==============</seg>
       </tuv>
     </tu>
     <tu>
@@ -9425,9 +9425,9 @@ feu clic en la drecera.</seg>
         <seg>Installing OmegaT (Linux)
 =========================</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T191742Z" creationid="Marc Riera" creationdate="20180212T223112Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T160351Z" creationid="Marc Riera" creationdate="20180212T223112Z">
         <seg>Instal·lació de l'OmegaT (Linux)
-==============================</seg>
+================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -9436,9 +9436,9 @@ feu clic en la drecera.</seg>
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T191731Z" creationid="Marc Riera" creationdate="20180212T223016Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T160339Z" creationid="Marc Riera" creationdate="20180212T223016Z">
         <seg>Instal·lació de l'OmegaT (Mac)
-============================</seg>
+==============================</seg>
       </tuv>
     </tu>
     <tu>
@@ -9453,13 +9453,14 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
 =========================================</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230825Z" creationid="Marc Riera" creationdate="20200122T230825Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T160400Z" creationid="Marc Riera" creationdate="20200122T230825Z">
         <seg>Instal·lació de l'OmegaT (Solaris, FreeBSD, etc.)
-===============================================</seg>
+=================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -9468,9 +9469,9 @@ feu clic en la drecera.</seg>
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T191718Z" creationid="Marc Riera" creationdate="20180212T223038Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T160336Z" creationid="Marc Riera" creationdate="20180212T223038Z">
         <seg>Instal·lació de l'OmegaT (Windows)
-================================</seg>
+==================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -13654,9 +13655,9 @@ si cal fer res més.</seg>
         <seg>Prerequisites for installing OmegaT
 ===================================</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T191704Z" creationid="Marc Riera" creationdate="20180212T223343Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T160324Z" creationid="Marc Riera" creationdate="20180212T223343Z">
         <seg>Requisits per a instal·lar l'OmegaT
-=================================</seg>
+===================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -20102,6 +20103,14 @@ a la línia {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User support resources:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T160454Z" creationid="Marc Riera" creationdate="20200123T160454Z">
+        <seg>Recursos d'ajuda a l'usuari:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User support, at the Yahoo user group (multilingual), where the archives are
 searchable without subscription:</seg>
       </tuv>
@@ -20143,9 +20152,9 @@ subscriure-us-hi:</seg>
         <seg>Using Java Web Start for installing OmegaT (all platforms)
 ===========================================================</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T192029Z" creationid="Marc Riera" creationdate="20180212T231833Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T160410Z" creationid="Marc Riera" creationdate="20180212T231833Z">
         <seg>Instal·lació de l'OmegaT amb Java Web Start (tots els sistemes operatius)
-=======================================================================</seg>
+=========================================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -22091,6 +22100,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>omegat</seg>
       </tuv>
