@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-5.1.0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_54fc30ee" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4389,11 +4389,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check {0}</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T073022Z" creationid="Marc Riera" creationdate="20191113T073022Z">
-        <seg>Comprova {0}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T164353Z" creationid="Marc Riera" creationdate="20191113T073022Z">
+        <seg>Comprova els {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5990,6 +5991,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Distance</seg>
       </tuv>
@@ -9999,8 +10001,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Keep</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181118T170546Z" creationid="mgalo" creationdate="20181118T170546Z">
-        <seg>Manté</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T164104Z" creationid="mgalo" creationdate="20181118T170546Z">
+        <seg>Mantén</seg>
       </tuv>
     </tu>
     <tu>
@@ -10189,11 +10191,12 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>LanguageTool Issues</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T122643Z" creationid="Marc Riera" creationdate="20190520T122643Z">
-        <seg>Errors del LanguageTool</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T164334Z" creationid="Marc Riera" creationdate="20190520T122643Z">
+        <seg>errors del LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -13290,8 +13293,8 @@ s'esvaeix com la boira.</seg>
       <tuv lang="en">
         <seg>Pinpoint Align: Select corresponding cell</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T071806Z" creationid="Marc Riera" creationdate="20191113T071642Z">
-        <seg>Alineació amb el ratolí: seleccioneu la cel·la corresponent</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T164140Z" creationid="Marc Riera" creationdate="20191113T071642Z">
+        <seg>Alineació per clics: seleccioneu la cel·la corresponent</seg>
       </tuv>
     </tu>
     <tu>
@@ -15013,6 +15016,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Row</seg>
       </tuv>
@@ -16672,11 +16676,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Spelling Issues</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T122629Z" creationid="Marc Riera" creationdate="20190520T122629Z">
-        <seg>Errors ortogràfics</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T164344Z" creationid="Marc Riera" creationdate="20190520T122629Z">
+        <seg>errors ortogràfics</seg>
       </tuv>
     </tu>
     <tu>
@@ -17072,11 +17077,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Tag Issues</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T122636Z" creationid="Marc Riera" creationdate="20190520T122636Z">
-        <seg>Errors d'etiquetes</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T164340Z" creationid="Marc Riera" creationdate="20190520T122636Z">
+        <seg>errors d'etiquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -17319,11 +17325,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Terminology Issues</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T122649Z" creationid="Marc Riera" creationdate="20190520T122649Z">
-        <seg>Errors de terminologia</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T164329Z" creationid="Marc Riera" creationdate="20190520T122649Z">
+        <seg>errors de terminologia</seg>
       </tuv>
     </tu>
     <tu>
@@ -22450,6 +22457,28 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <prop type="file">Bundle.properties</prop>
+      <prop type="id">ALIGNER_FILEPICKER_SOURCE</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T164018Z" creationid="Marc Riera" creationdate="20200123T164018Z">
+        <seg>Origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">ALIGNER_FILEPICKER_TARGET</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Target</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T164025Z" creationid="Marc Riera" creationdate="20200123T164025Z">
+        <seg>Destinació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">ALIGNER_MENU_OPTIONS_REMOVETAGS</prop>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
@@ -22620,8 +22649,8 @@ creï la carpeta de configuració.</seg>
       <tuv lang="en">
         <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T211339Z" creationid="Marc Riera" creationdate="20200121T211339Z">
-        <seg>[{0}] «{1}» al text d'origen; s'esperava «{2}» al text de destinació</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T164622Z" creationid="Marc Riera" creationdate="20200121T211339Z">
+        <seg>[{0}] S'ha trobat el terme «{1}» al text d'origen; s'esperava el terme «{2}» al text de destinació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22630,8 +22659,8 @@ creï la carpeta de configuració.</seg>
       <tuv lang="en">
         <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T211506Z" creationid="Marc Riera" creationdate="20200121T211506Z">
-        <seg>[{0}] «{1}» al text d'origen; s'esperava un dels termes «{2}» al text de destinació</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T164613Z" creationid="Marc Riera" creationdate="20200121T211506Z">
+        <seg>[{0}] S'ha trobat el terme «{1}» al text d'origen; s'esperava un dels termes «{2}» al text de destinació.</seg>
       </tuv>
     </tu>
     <tu>
