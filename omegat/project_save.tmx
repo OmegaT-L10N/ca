@@ -986,6 +986,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Remove</seg>
       </tuv>
@@ -1193,11 +1194,12 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Show in Editor context menu</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T110427Z" creationid="mgalo" creationdate="20181112T110427Z">
-        <seg>&amp;Mostra al menú contextual de l'Editor</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T222037Z" creationid="mgalo" creationdate="20181112T110427Z">
+        <seg>&amp;Mostra al menú contextual de l'editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -1811,6 +1813,7 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
@@ -1819,6 +1822,7 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>2) Increase the amount of memory available to OmegaT, by
 specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
@@ -4583,6 +4587,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Command</seg>
       </tuv>
@@ -4648,6 +4653,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Commands</seg>
       </tuv>
@@ -5559,6 +5565,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Delimiter</seg>
       </tuv>
@@ -6436,6 +6443,7 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Ed&amp;it</seg>
       </tuv>
@@ -6453,6 +6461,7 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Edit External Search Command</seg>
       </tuv>
@@ -6464,11 +6473,12 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       <tuv lang="en">
         <seg>Edit External Search Item</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T110157Z" creationid="mgalo" creationdate="20181112T110157Z">
-        <seg>Edició de l'element de cerca externa</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T221923Z" creationid="mgalo" creationdate="20181112T110157Z">
+        <seg>Edita l'element de cerca externa</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Edit External Search URL</seg>
       </tuv>
@@ -6664,6 +6674,7 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Encoding</seg>
       </tuv>
@@ -8831,6 +8842,7 @@ no cal introduir el camí complet.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If invoked in a git working tree or svn checkout, the results
 		will be staged/added.</seg>
@@ -9129,8 +9141,8 @@ feu clic en la drecera.</seg>
       <tuv lang="en">
         <seg>In Editor</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T105731Z" creationid="mgalo" creationdate="20181112T105731Z">
-        <seg>A l'Editor</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T222055Z" creationid="mgalo" creationdate="20181112T105731Z">
+        <seg>A l'editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -11590,6 +11602,7 @@ adequada, com ara la carpeta Aplicacions.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Name:</seg>
       </tuv>
@@ -12527,11 +12540,12 @@ està llest per a executar-se.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180210T212957Z" creationid="Marc Riera" creationdate="20180210T212957Z">
-        <seg>L'OmegaT no té prou memòria i es tancarà quan feu clic a D'acord.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T221521Z" creationid="Marc Riera" creationdate="20180210T212957Z">
+        <seg>L'OmegaT no té prou memòria i es tancarà quan feu clic a «D'acord».</seg>
       </tuv>
     </tu>
     <tu>
@@ -14275,8 +14289,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Re&amp;move Filter</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T102450Z" creationid="Marc Riera" creationdate="20180212T221814Z">
-        <seg>Eli&amp;mina el filtre</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T221720Z" creationid="Marc Riera" creationdate="20180212T221814Z">
+        <seg>Supri&amp;meix el filtre</seg>
       </tuv>
     </tu>
     <tu>
@@ -14498,11 +14512,12 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remo&amp;ve</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T110647Z" creationid="mgalo" creationdate="20181112T110647Z">
-        <seg>Elimi&amp;na</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T221838Z" creationid="mgalo" creationdate="20181112T110647Z">
+        <seg>Suprimei&amp;x</seg>
       </tuv>
     </tu>
     <tu>
@@ -15460,6 +15475,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Se&amp;t</seg>
       </tuv>
@@ -16625,8 +16641,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T071455Z" creationid="Marc Riera" creationdate="20191113T071455Z">
-        <seg>Indiqueu una drecera amb «&amp;»: «F&amp;oobar» per a utilitzar O</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T222024Z" creationid="Marc Riera" creationdate="20191113T071455Z">
+        <seg>Indiqueu una drecera amb «&amp;»: «F&amp;oobar» per a utilitzar «O»</seg>
       </tuv>
     </tu>
     <tu>
@@ -19458,6 +19474,7 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>URLs</seg>
       </tuv>
