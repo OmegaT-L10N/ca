@@ -10195,8 +10195,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>LanguageTool Issues</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T164334Z" creationid="Marc Riera" creationdate="20190520T122643Z">
-        <seg>errors del LanguageTool</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T165144Z" creationid="Marc Riera" creationdate="20190520T122643Z">
+        <seg>Errors del LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -16680,8 +16680,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Spelling Issues</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T164344Z" creationid="Marc Riera" creationdate="20190520T122629Z">
-        <seg>errors ortogràfics</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T165136Z" creationid="Marc Riera" creationdate="20190520T122629Z">
+        <seg>Errors ortogràfics</seg>
       </tuv>
     </tu>
     <tu>
@@ -17081,8 +17081,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Tag Issues</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T164340Z" creationid="Marc Riera" creationdate="20190520T122636Z">
-        <seg>errors d'etiquetes</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T165140Z" creationid="Marc Riera" creationdate="20190520T122636Z">
+        <seg>Errors d'etiquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -17329,8 +17329,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Terminology Issues</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T164329Z" creationid="Marc Riera" creationdate="20190520T122649Z">
-        <seg>errors de terminologia</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T165147Z" creationid="Marc Riera" creationdate="20190520T122649Z">
+        <seg>Errors de terminologia</seg>
       </tuv>
     </tu>
     <tu>
@@ -22462,8 +22462,8 @@ creï la carpeta de configuració.</seg>
       <tuv lang="en">
         <seg>Source</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T164018Z" creationid="Marc Riera" creationdate="20200123T164018Z">
-        <seg>Origen</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T165246Z" creationid="Marc Riera" creationdate="20200123T164018Z">
+        <seg>Llengua d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -22473,8 +22473,8 @@ creï la carpeta de configuració.</seg>
       <tuv lang="en">
         <seg>Target</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T164025Z" creationid="Marc Riera" creationdate="20200123T164025Z">
-        <seg>Destinació</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T165257Z" creationid="Marc Riera" creationdate="20200123T164025Z">
+        <seg>Llengua de destinació</seg>
       </tuv>
     </tu>
     <tu>
@@ -22646,6 +22646,7 @@ creï la carpeta de configuració.</seg>
     <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">ISSUES_TERMINOLOGY_DESCRIPTION</prop>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
       </tuv>
@@ -22656,6 +22657,7 @@ creï la carpeta de configuració.</seg>
     <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">ISSUES_TERMINOLOGY_DESCRIPTION_MULTI</prop>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
       </tuv>
