@@ -2705,6 +2705,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
@@ -7468,6 +7469,7 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Failed to compile project files!</seg>
       </tuv>
@@ -7494,6 +7496,7 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Failed to load specified project!</seg>
       </tuv>
@@ -7505,8 +7508,8 @@ els fils de teranyina t'aparten.
       <tuv lang="en">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T111723Z" creationid="Marc Riera" creationdate="20180221T111723Z">
-        <seg>No s'ha pogut carregar la memòria de traducció {0} del projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T225912Z" creationid="Marc Riera" creationdate="20180221T111723Z">
+        <seg>No s'ha pogut carregar la memòria de traducció «{0}» del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9181,6 +9184,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
       </tuv>
@@ -9803,6 +9807,7 @@ a la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
       </tuv>
@@ -14674,6 +14679,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Reopen the project now?</seg>
       </tuv>
