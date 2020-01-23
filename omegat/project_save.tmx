@@ -22420,6 +22420,36 @@ creï la carpeta de configuració.</seg>
 <!-- Alternative translations -->
     <tu>
       <prop type="file">Bundle.properties</prop>
+      <prop type="id">AC_TAG_VIEW</prop>
+      <tuv lang="en">
+        <seg>Missing tags</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T162122Z" creationid="Marc Riera" creationdate="20200123T162122Z">
+        <seg>Etiquetes que falten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">ALIGNER_ENUM_COMPARISON_MODE_HEAPWISE</prop>
+      <tuv lang="en">
+        <seg>Heapwise</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T162426Z" creationid="Marc Riera" creationdate="20200123T162412Z">
+        <seg>Per conjunt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">ALIGNER_ENUM_COMPARISON_MODE_PARSEWISE</prop>
+      <tuv lang="en">
+        <seg>Parsewise</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T162420Z" creationid="Marc Riera" creationdate="20200123T162420Z">
+        <seg>Per processament</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">ALIGNER_MENU_OPTIONS_REMOVETAGS</prop>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
@@ -22441,12 +22471,62 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <prop type="file">Bundle.properties</prop>
+      <prop type="id">COLOR_MATCHES_DEL_ACTIVE</prop>
+      <tuv lang="en">
+        <seg>Matches Deleted Active</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T162230Z" creationid="Marc Riera" creationdate="20200123T162230Z">
+        <seg>Coincidències suprimides actives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">COLOR_MATCHES_DEL_INACTIVE</prop>
+      <tuv lang="en">
+        <seg>Matches Deleted Inactive</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T162241Z" creationid="Marc Riera" creationdate="20200123T162241Z">
+        <seg>Coincidències suprimides inactives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">COLOR_MATCHES_INS_ACTIVE</prop>
+      <tuv lang="en">
+        <seg>Matches Inserted Active</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T162219Z" creationid="Marc Riera" creationdate="20200123T162219Z">
+        <seg>Coincidències inserides actives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">COLOR_MATCHES_INS_INACTIVE</prop>
+      <tuv lang="en">
+        <seg>Matches Inserted Inactive</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T162224Z" creationid="Marc Riera" creationdate="20200123T162224Z">
+        <seg>Coincidències inserides inactives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">COLOR_REPLACE</prop>
       <tuv lang="en">
         <seg>Replace</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T230345Z" creationid="Marc Riera" creationdate="20191110T230345Z">
         <seg>Substitució</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">ETA_INFO_TOGGLE_LTR_RTL</prop>
+      <tuv lang="en">
+        <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T162313Z" creationid="Marc Riera" creationdate="20200123T162313Z">
+        <seg>{0} canvia l'orientació entre esquerra a dreta, dreta a esquerra i en funció de la llengua</seg>
       </tuv>
     </tu>
     <tu>
@@ -22522,6 +22602,16 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200121T210820Z" creationid="Marc Riera" creationdate="20200121T210820Z">
         <seg>Tots dos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">ISSUES_LOADING</prop>
+      <tuv lang="en">
+        <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T162925Z" creationid="Marc Riera" creationdate="20200123T162925Z">
+        <seg>&lt;html&gt;&lt;center&gt;S'està carregant...&lt;br&gt;&lt;br&gt;Consell: habiliteu o inhabiliteu les comprovacions en qualsevol moment des del menú «Opcions».&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23029,6 +23119,16 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <prop type="file">Bundle.properties</prop>
+      <prop type="id">SCW_BEAN_ERROR</prop>
+      <tuv lang="en">
+        <seg>ERROR: (declaring bean)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T161925Z" creationid="Marc Riera" creationdate="20200123T161925Z">
+        <seg>ERROR: (declaració de Bean)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">STM_MERGE_WINDOW_TITLE</prop>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
@@ -23078,16 +23178,16 @@ creï la carpeta de configuració.</seg>
 - Marc Prior (project co-ordinator, webmaster)
 - Vito Smolej (documentation manager)</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T161644Z" creationid="Marc Riera" creationdate="20200123T161644Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T161724Z" creationid="Marc Riera" creationdate="20200123T161644Z">
         <seg>- Anthony Baldwin (gestor de la localització)
 - Didier Briel (gestor del projecte)
 - Alex Buloichik (desenvolupador principal)
 - Sabine Cretella
 - Dmitri Gabinski
-- Jean-Christophe Helary (support group owner, localisation manager)
+- Jean-Christophe Helary (propietari del grup d'assistència, gestor de la localització)
 - Maxym Mykhalchuk (desenvolupador principal)
 - Samuel Murray
-- Henry Pijffers (release manager)
+- Henry Pijffers (gestor dels llançaments)
 - Marc Prior (coordinador del projecte, administrador de la web)
 - Vito Smolej (gestor de la documentació)</seg>
       </tuv>
