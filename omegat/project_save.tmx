@@ -165,11 +165,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223130Z" creationid="Marc Riera" creationdate="20180214T223130Z">
-        <seg>Propagació a&amp;utomàtica de les traduccions</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T220945Z" creationid="Marc Riera" creationdate="20180214T223130Z">
+        <seg>Propaga les traduccions a&amp;utomàticament</seg>
       </tuv>
     </tu>
     <tu>
@@ -757,8 +758,8 @@
       <tuv lang="en">
         <seg>&amp;Make the segmentation rules project specific</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223110Z" creationid="Marc Riera" creationdate="20180214T223110Z">
-        <seg>&amp;Fes que les regles de segmentació siguin específiques de cada projecte</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T221310Z" creationid="Marc Riera" creationdate="20180214T223110Z">
+        <seg>&amp;Fes que les regles de segmentació siguin específiques per a cada projecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -1398,8 +1399,8 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       <tuv lang="en">
         <seg>&amp;Writeable Glossary</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181108T133134Z" creationid="mgalo" creationdate="20181108T133134Z">
-        <seg>Glossari &amp;modificable</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T221457Z" creationid="mgalo" creationdate="20181108T133134Z">
+        <seg>Glossari m&amp;odificable</seg>
       </tuv>
     </tu>
     <tu>
@@ -4704,6 +4705,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Commit Source Files</seg>
       </tuv>
@@ -4712,6 +4714,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Commit Target Files</seg>
       </tuv>
@@ -5242,8 +5245,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Create New Project</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223111Z" creationid="Marc Riera" creationdate="20180214T223111Z">
-        <seg>Crea un projecte nou</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T221258Z" creationid="Marc Riera" creationdate="20180214T223111Z">
+        <seg>Crea un projecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -5745,6 +5748,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Dictionary Folder:</seg>
       </tuv>
@@ -6389,6 +6393,7 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>E&amp;nable Sentence-level Segmenting</seg>
       </tuv>
@@ -6530,6 +6535,7 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Edit project properties here.</seg>
       </tuv>
@@ -12828,6 +12834,7 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Open Project</seg>
       </tuv>
@@ -14577,11 +14584,12 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223132Z" creationid="Marc Riera" creationdate="20180214T223132Z">
-        <seg>Eli&amp;mina les etiquetes</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T221016Z" creationid="Marc Riera" creationdate="20180214T223132Z">
+        <seg>Supri&amp;meix les etiquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -20870,6 +20878,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Writeable Glossary File:</seg>
       </tuv>
