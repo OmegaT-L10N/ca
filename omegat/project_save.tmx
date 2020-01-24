@@ -2516,8 +2516,8 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T091732Z" creationid="mgalo" creationdate="20181112T091732Z">
-        <seg>Una nota és senzillament un comentari referent al conjunt d'aquest fragment i la corresponent traducció.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T222950Z" creationid="mgalo" creationdate="20181112T091732Z">
+        <seg>Una nota és senzillament un comentari referent a aquest conjunt de text d'origen i traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3095,8 +3095,8 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220939Z" creationid="mgalo" creationdate="20181111T230655Z">
-        <seg>Permet veure, afegir, suprimir o editar notes del segment actiu.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T222912Z" creationid="mgalo" creationdate="20181111T230655Z">
+        <seg>Permet veure, afegir, suprimir o editar una nota al segment actiu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5963,8 +5963,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215017Z" creationid="mgalo" creationdate="20181115T224019Z">
-        <seg>Mostra les entrades de diccionari que apareixen en els fitxers de diccionari de la carpeta /dictionary/ si estan presents en el segment d'origen.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T222752Z" creationid="mgalo" creationdate="20181115T224019Z">
+        <seg>Mostra les entrades del diccionari que apareixen en els fitxers de diccionari de la carpeta «/dictionary/» si estan presents en el segment d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5987,8 +5987,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215016Z" creationid="mgalo" creationdate="20181115T223949Z">
-        <seg>Mostra les entrades de glossari que apareixen en els fitxers de glossari de la carpeta /glossary/ si estan presents en el segment d'origen.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T222411Z" creationid="mgalo" creationdate="20181115T223949Z">
+        <seg>Mostra les entrades del glossari que apareixen en els fitxers de glossari de la carpeta «/glossary/» si estan presents en el segment d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6003,8 +6003,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215017Z" creationid="mgalo" creationdate="20181111T230625Z">
-        <seg>Mostra la traducció del segment d'origen feta pels motors de traducció automàtica que hàgiu seleccionat en el menú Preferències &gt; Traducció automàtica, sempre que aquests motors estiguin disponibles.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T222828Z" creationid="mgalo" creationdate="20181111T230625Z">
+        <seg>Mostra la traducció del segment d'origen feta pels serveis de traducció automàtica que hàgiu seleccionat en el menú «Preferències &gt; Traducció automàtica», sempre que aquests serveis estiguin disponibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6826,6 +6826,7 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
@@ -9144,6 +9145,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>In Editor</seg>
       </tuv>
@@ -9512,6 +9514,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Instant Start</seg>
       </tuv>
@@ -10813,6 +10816,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Machine Translation Options</seg>
       </tuv>
@@ -11153,8 +11157,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T091006Z" creationid="mgalo" creationdate="20181112T090807Z">
-        <seg>Les coincidències poden provenir tant de la memòria generada amb el projecte com dels fitxers TMX ubicats a la carpeta /tm/.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T222438Z" creationid="mgalo" creationdate="20181112T090807Z">
+        <seg>Les coincidències poden provenir tant de la memòria generada amb el projecte com dels fitxers TMX ubicats a la carpeta «/tm/».</seg>
       </tuv>
     </tu>
     <tu>
@@ -12087,8 +12091,8 @@ adequada, com ara la carpeta Aplicacions.</seg>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T090851Z" creationid="mgalo" creationdate="20181112T090851Z">
-        <seg>Avisa'm quan es detecti una coincidència parcial d'un segment</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T222505Z" creationid="mgalo" creationdate="20181112T090851Z">
+        <seg>Avisa'm quan un segment tingui coincidències parcials</seg>
       </tuv>
     </tu>
     <tu>
@@ -12906,6 +12910,7 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Open Writable Glossary File</seg>
       </tuv>
@@ -14970,6 +14975,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Restore</seg>
       </tuv>
@@ -21255,8 +21261,8 @@ d'allà.</seg>
       <tuv lang="en">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T124809Z" creationid="mgalo" creationdate="20181112T091253Z">
-        <seg>Podeu crear entrades del glossari a partir de l'opció Crea una entrada del glossari del menú Edita.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T222553Z" creationid="mgalo" creationdate="20181112T091253Z">
+        <seg>Podeu crear entrades del glossari amb l'opció «Crea una entrada del glossari» del menú «Edita».</seg>
       </tuv>
     </tu>
     <tu>
