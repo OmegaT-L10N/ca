@@ -1521,6 +1521,7 @@ Per afegir fitxers al projecte, feu clic al botó «Copia fitxers a la carpeta d
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
@@ -2305,6 +2306,7 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
@@ -7884,13 +7886,14 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
 provided (omegat.kaptn).</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230944Z" creationid="Marc Riera" creationdate="20200122T230944Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T232324Z" creationid="Marc Riera" creationdate="20200122T230944Z">
         <seg>Si voleu executar l'OmegaT d'una manera més còmoda, podeu utilitzar l'script
-del Kaptain inclòs (omegat.kaptn).</seg>
+del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8789,6 +8792,7 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If
 Java is installed at system level and is in the command path, the full path need
@@ -8972,12 +8976,13 @@ extensions dels fitxers.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
 Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230932Z" creationid="Marc Riera" creationdate="20200122T230932Z">
-        <seg>Si podeu veure el fitxer OmegaT però no OmegaT.exe al vostre gestor de fitxers
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T232215Z" creationid="Marc Riera" creationdate="20200122T230932Z">
+        <seg>Si podeu veure el fitxer «OmegaT» però no «OmegaT.exe» al vostre gestor de fitxers
 (Explorador de Windows), canvieu la configuració perquè es mostrin les
 extensions dels fitxers.</seg>
       </tuv>
@@ -9028,11 +9033,12 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180212T231607Z" creationid="Marc Riera" creationdate="20180212T224925Z">
-        <seg>Si heu utilitzat l'script linux-install.sh, podeu executar l'OmegaT amb:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T232248Z" creationid="Marc Riera" creationdate="20180212T224925Z">
+        <seg>Si heu utilitzat l'script «linux-install.sh», podeu executar l'OmegaT amb:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9077,6 +9083,7 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If, during installation, you have created a shortcut on the desktop,
 double-click on that shortcut.</seg>
@@ -17965,13 +17972,14 @@ a la zona d'accés ràpid.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The installer can create shortcuts for you in the start menu, on the desktop and
 in the quick launch area.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230927Z" creationid="Marc Riera" creationdate="20200122T230927Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T232126Z" creationid="Marc Riera" creationdate="20200122T230927Z">
         <seg>El programa d'instal·lació pot crear dreceres al menú d'inici, a l'escriptori i
-a la zona d'accés ràpid.</seg>
+a l'àrea d'accés ràpid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18882,6 +18890,7 @@ d'instal·lar el Kaptain.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>To use this script you must first install Kaptain.</seg>
       </tuv>
@@ -21135,6 +21144,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You
 can then launch the Kaptain launch script with:</seg>
@@ -21227,6 +21237,7 @@ podeu executar des del camp de cerca de l'Spotlight.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You can also launch it from
 the Spotlight search field.</seg>
@@ -21249,13 +21260,14 @@ d'allà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You can also manually drag the file OmegaT.exe to the
 start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230929Z" creationid="Marc Riera" creationdate="20200122T230929Z">
-        <seg>També podeu arrossegar manualment el fitxer OmegaT.exe
-al menú d'inici, a l'escriptori o a la zona d'accés ràpid per enllaçar-lo des
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T232148Z" creationid="Marc Riera" creationdate="20200122T230929Z">
+        <seg>També podeu arrossegar manualment el fitxer «OmegaT.exe»
+al menú d'inici, a l'escriptori o a l'àrea d'accés ràpid per enllaçar-lo des
 d'allà.</seg>
       </tuv>
     </tu>
@@ -21413,12 +21425,13 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You may drag the OmegaT application to your dock or to the toolbar of a Finder
 window to be able to launch it from any location.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230937Z" creationid="Marc Riera" creationdate="20200122T230937Z">
-        <seg>Podeu arrossegar l'aplicació de l'OmegaT al vostre dock o a la barra d'eines
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T232232Z" creationid="Marc Riera" creationdate="20200122T230937Z">
+        <seg>Podeu arrossegar l'aplicació OmegaT al vostre dock o a la barra d'eines
 d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
     </tu>
@@ -23300,6 +23313,7 @@ creï la carpeta de configuració.</seg>
       <prop type="prev">Current team:
 (alphabetical order)</prop>
       <prop type="next">Contributions to the code are documented in /docs/contributors.txt.</prop>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>- Vincent Bidaux (documentation manager)
 - Marco Cevoli (Telegram community manager)
