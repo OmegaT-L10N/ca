@@ -2540,8 +2540,8 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>A source sentence might look like:</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181114T121522Z" creationid="mgalo" creationdate="20181114T121522Z">
-        <seg>Una oració determinada podria tenir l'aspecte següent:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T224510Z" creationid="mgalo" creationdate="20181114T121522Z">
+        <seg>Una oració d'origen podria tenir l'aspecte següent:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2905,8 +2905,8 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T222303Z" creationid="mgalo" creationdate="20181113T180652Z">
-        <seg>Un cop hàgiu donat nom al projecte, s'obrirà el quadre de diàleg &lt;g0&gt;Crea un projecte nou&lt;/g0&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T224340Z" creationid="mgalo" creationdate="20181113T180652Z">
+        <seg>Un cop hàgiu donat un nom al projecte, s'obrirà el quadre de diàleg &lt;g0&gt;Crea un projecte nou&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7967,6 +7967,7 @@ del Kaptain inclòs (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>For this purpose download the following file and then execute it:</seg>
       </tuv>
@@ -8686,8 +8687,8 @@ l'hivern ja és aquí.</seg>
       <tuv lang="en">
         <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181114T121305Z">
-        <seg>Teniu en compte, però, que si les etiquetes de format s'introdueixen manualment de manera errònia, es podrien produir errors a l'hora d'intentar obrir els fitxers de destinació.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T224601Z" creationid="mgalo" creationdate="20181114T121305Z">
+        <seg>Tingueu en compte, però, que si les etiquetes de format s'introdueixen manualment de manera errònia, es podrien produir errors a l'hora d'intentar obrir els fitxers de destinació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8923,8 +8924,8 @@ als valors per defecte com a resultat el canvi d'ubicació.</seg>
       <tuv lang="en">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181117T234448Z" creationid="mgalo" creationdate="20181113T181206Z">
-        <seg>Si voleu ajustar altres paràmetres d'aquest quadre de diàleg, podeu tornar a accedir-hi en qualsevol moment amb la drecera de teclat &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T224417Z" creationid="mgalo" creationdate="20181113T181206Z">
+        <seg>Si us interessen altres paràmetres d'aquest quadre de diàleg, podeu tornar-hi en qualsevol moment prement &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9000,6 +9001,7 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you have already Java installed on your system, one way to install OmegaT is
 to use Java Web Start.</seg>
@@ -9211,11 +9213,12 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181114T114232Z" creationid="mgalo" creationdate="20181113T180019Z">
-        <seg>En el menú &lt;g0&gt;Projecte&lt;/g0&gt;, seleccioneu &lt;m1&gt;&lt;g2&gt;Nou...&lt;/g2&gt;&lt;/m1&gt; i escriviu un nom per al vostre projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T224250Z" creationid="mgalo" creationdate="20181113T180019Z">
+        <seg>En el menú &lt;g0&gt;Projecte&lt;/g0&gt;, seleccioneu &lt;m1&gt;&lt;g2&gt;Crea...&lt;/g2&gt;&lt;/m1&gt; i escriviu un nom per al vostre projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9836,6 +9839,7 @@ a la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>It will install the correct environment for your computer and the application
 itself on the first run.</seg>
@@ -10420,6 +10424,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Later calls do not need to be online.</seg>
       </tuv>
@@ -11546,13 +11551,14 @@ adequada, com ara la carpeta Aplicacions.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Move the folder to an appropriate location such
 as the Applications folder.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230757Z" creationid="Marc Riera" creationdate="20200122T230757Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T225024Z" creationid="Marc Riera" creationdate="20200122T230757Z">
         <seg>Moveu la carpeta a una ubicació
-adequada, com ara la carpeta Aplicacions.</seg>
+adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
@@ -12509,6 +12515,7 @@ està llest per a executar-se.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT is then ready to
 be launched.</seg>
@@ -12698,6 +12705,7 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT will present one segment at a time for you to translate.</seg>
       </tuv>
@@ -12739,6 +12747,7 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
       </tuv>
@@ -13345,6 +13354,7 @@ everything.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Place the archive in any suitable folder and unpack it.</seg>
       </tuv>
@@ -14522,8 +14532,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Remember where you are creating the project, because you will need to return to it later.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T130500Z" creationid="mgalo" creationdate="20181113T180609Z">
-        <seg>Recordeu la ubicació en què heu desat el projecte perquè hi haureu de tornar més endavant.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T224314Z" creationid="mgalo" creationdate="20181113T180609Z">
+        <seg>Recordeu la ubicació on creeu el projecte, perquè hi haureu de tornar més endavant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18401,6 +18411,7 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
       </tuv>
@@ -18463,6 +18474,7 @@ en sou víctima d'una.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
       </tuv>
@@ -18891,15 +18903,16 @@ que conté els fitxers OmegaT.jar i linux-install.sh i executeu l'script amb
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>To use this script, open a terminal
 window (console), change folder to the folder containing OmegaT.jar and the
 linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230819Z" creationid="Marc Riera" creationdate="20200122T230819Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T225109Z" creationid="Marc Riera" creationdate="20200122T230819Z">
         <seg>Per utilitzar aquest script, obriu
 una finestra del terminal (consola), canvieu la carpeta de treball a la carpeta
-que conté els fitxers OmegaT.jar i linux-install.sh i executeu l'script amb
+que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script amb
 «./linux-install.sh».</seg>
       </tuv>
     </tu>
@@ -19782,6 +19795,7 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
 file and the OmegaT application.</seg>
@@ -20156,6 +20170,7 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>User support resources:</seg>
       </tuv>
@@ -21306,6 +21321,7 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You can however obtain a neater and more user-friendly installation by using the
 installation script (linux-install.sh).</seg>
@@ -22029,6 +22045,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>https://omegat.org/</seg>
       </tuv>
@@ -22037,6 +22054,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
       </tuv>
@@ -22045,6 +22063,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>https://omegat.org/support</seg>
       </tuv>
@@ -22053,6 +22072,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
