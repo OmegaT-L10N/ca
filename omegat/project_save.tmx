@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_54fc30ee" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-5.2.0" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7410,8 +7410,8 @@ els fils de teranyina t'aparten.
       <tuv lang="en">
         <seg>External command failed.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112552Z" creationid="Marc Riera" creationdate="20180221T112552Z">
-        <seg>L'ordre externa ha fallat.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200325T083214Z" creationid="Marc Riera" creationdate="20180221T112552Z">
+        <seg>Error en l'ordre externa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7605,8 +7605,8 @@ els fils de teranyina t'aparten.
       <tuv lang="en">
         <seg>File Copy Failed</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213459Z" creationid="Marc Riera" creationdate="20180210T213459Z">
-        <seg>Ha fallat la còpia dels fitxers</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200325T083149Z" creationid="Marc Riera" creationdate="20180210T213459Z">
+        <seg>Error en copiar els fitxers</seg>
       </tuv>
     </tu>
     <tu>
@@ -9153,8 +9153,8 @@ feu clic en la drecera.</seg>
       <tuv lang="en">
         <seg>Importing Wiki Page Failed</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181107T234722Z" creationid="mgalo" creationdate="20181107T234722Z">
-        <seg>Ha fallat la importació de la pàgina Wiki</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200325T083139Z" creationid="mgalo" creationdate="20181107T234722Z">
+        <seg>Error en importar la pàgina Wiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -13712,8 +13712,8 @@ si cal fer res més.</seg>
       <tuv lang="en">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223906Z" creationid="Marc Riera" creationdate="20180214T223906Z">
-        <seg>Ha fallat l'operació de desar les preferències del sistema.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200325T083237Z" creationid="Marc Riera" creationdate="20180214T223906Z">
+        <seg>Error en l'operació per desar les preferències del sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14275,8 +14275,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Push failed.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230417Z" creationid="Marc Riera" creationdate="20191112T230417Z">
-        <seg>Ha fallat l'enviament.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200325T083403Z" creationid="Marc Riera" creationdate="20191112T230417Z">
+        <seg>Error en l'enviament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16462,11 +16462,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T230544Z" creationid="Marc Riera" creationdate="20191110T230544Z">
-        <seg>Alguna cosa ha fallat; visiteu Tilde Terminology per obtenir més detalls.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200325T083431Z" creationid="Marc Riera" creationdate="20191110T230544Z">
+        <seg>Alguna cosa no ha funcionat; visiteu Tilde Terminology per obtenir més detalls.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17202,12 +17203,11 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
-      <note>The word "tag" was omitted, as it could be "etiqueta" or "etiquetes" depending on whether it's singular or plural (how many tags were checked?), and this avoids problems in the Catalan version.</note>
       <tuv lang="en">
         <seg>Tag validation failed</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T231813Z" creationid="mgalo" creationdate="20181115T225528Z">
-        <seg>Ha fallat la validació de les etiquetes</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200325T083324Z" creationid="mgalo" creationdate="20181115T225528Z">
+        <seg>Error en validar les etiquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -19712,8 +19712,8 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       <tuv lang="en">
         <seg>Uninstalling failed</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181113T093838Z" creationid="mgalo" creationdate="20181112T093529Z">
-        <seg>Ha fallat la desinstal·lació</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200325T083256Z" creationid="mgalo" creationdate="20181112T093529Z">
+        <seg>Error de desinstal·lació</seg>
       </tuv>
     </tu>
     <tu>
