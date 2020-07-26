@@ -3559,6 +3559,14 @@ inesperat però correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T103051Z" creationid="Marc Riera" creationdate="20200726T103051Z">
+        <seg>Autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181218T202643Z" creationid="Marc Riera" creationdate="20180214T224225Z">
@@ -4473,6 +4481,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150722T184752Z" creationid="Stephanie" creationdate="20150722T184752Z">
         <seg>Trieu &lt;g0&gt; SVN.&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T103043Z" creationid="Marc Riera" creationdate="20200726T103043Z">
+        <seg>Classe</seg>
       </tuv>
     </tu>
     <tu>
@@ -7804,6 +7820,14 @@ els fils de teranyina t'aparten.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Folder ID</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T102726Z" creationid="Marc Riera" creationdate="20200726T102726Z">
+        <seg>ID de la carpeta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Folder already exists and is not empty.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223343Z" creationid="Marc Riera" creationdate="20180214T223343Z">
@@ -9470,6 +9494,14 @@ feu clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T125210Z" creationid="Packard Bell" creationdate="20150528T175004Z">
         <seg>Instal·lació i ús</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installed plugins:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T103040Z" creationid="Marc Riera" creationdate="20200726T103040Z">
+        <seg>Connectors instal·lats:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11298,6 +11330,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Minimal threshold to show a fuzzy match:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T103440Z" creationid="Marc Riera" creationdate="20200726T103440Z">
+        <seg>Llindar mínim per mostrar una coincidència parcial:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Minimize</seg>
@@ -11431,8 +11471,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Moodle PHP Filter Options</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181218T202750Z" creationid="mgalo" creationdate="20181218T202750Z">
-        <seg>Opcions del filtre de fitxers Moodle PHP</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T103259Z" creationid="mgalo" creationdate="20181218T202750Z">
+        <seg>Opcions del filtre Moodle PHP</seg>
       </tuv>
     </tu>
     <tu>
@@ -11595,8 +11635,24 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       <tuv lang="en">
         <seg>Mozilla DTD Filter Options</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181109T131858Z" creationid="mgalo" creationdate="20181109T131858Z">
-        <seg>Opcions del filtre Mozilla DTD</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T103241Z" creationid="mgalo" creationdate="20181109T131858Z">
+        <seg>Opcions del filtre DTD de Mozilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T103147Z" creationid="Marc Riera" creationdate="20200726T103147Z">
+        <seg>FTL de Mozilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL Filter Options</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T103200Z" creationid="Marc Riera" creationdate="20200726T103200Z">
+        <seg>Opcions del filtre FTL de Mozilla</seg>
       </tuv>
     </tu>
     <tu>
@@ -11802,6 +11858,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No OAuth token specified</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T102755Z" creationid="Marc Riera" creationdate="20200726T102755Z">
+        <seg>No s'ha especificat cap testimoni d'OAuth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T123503Z" creationid="mgalo" creationdate="20181112T093113Z">
@@ -11814,6 +11878,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190925T072135Z" creationid="Marc Riera" creationdate="20190925T072135Z">
         <seg>No hi ha cap connexió disponible, el projecte està en mode fora de línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No folder ID specified</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T102806Z" creationid="Marc Riera" creationdate="20200726T102806Z">
+        <seg>No s'ha especificat cap ID de carpeta</seg>
       </tuv>
     </tu>
     <tu>
@@ -12187,6 +12259,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T224544Z" creationid="Marc Riera" creationdate="20180221T114848Z">
         <seg>&amp;Paràmetres...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OAuth token</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T102734Z" creationid="Marc Riera" creationdate="20200726T102734Z">
+        <seg>Testimoni d'OAuth</seg>
       </tuv>
     </tu>
     <tu>
@@ -17636,8 +17716,8 @@ la carpeta actual en el seu lloc.</seg>
       <tuv lang="en">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181218T202821Z" creationid="mgalo" creationdate="20181218T202821Z">
-        <seg>El filtre de fitxers Moodle PHP ha generat una excepció:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T103249Z" creationid="mgalo" creationdate="20181218T202821Z">
+        <seg>El filtre PHP de Moodle ha generat una excepció:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17654,6 +17734,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114454Z" creationid="Marc Riera" creationdate="20180221T114454Z">
         <seg>El filtre DTD de Mozilla ha generat una excepció:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mozilla FTL filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T103334Z" creationid="Marc Riera" creationdate="20200726T103334Z">
+        <seg>El filtre FTL de Mozilla ha generat una excepció:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19595,10 +19683,34 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to parse IAM service response</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T103011Z" creationid="Marc Riera" creationdate="20200726T103011Z">
+        <seg>No s'ha pogut analitzar la resposta del servei d'IAM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224142Z" creationid="Marc Riera" creationdate="20180214T224142Z">
         <seg>No s'ha pogut analitzar el fitxer de configuració de filtres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse service error report</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T102845Z" creationid="Marc Riera" creationdate="20200726T102845Z">
+        <seg>No s'ha pogut analitzar l'informe d'errors del servei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse translate service response</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T102830Z" creationid="Marc Riera" creationdate="20200726T102830Z">
+        <seg>No s'ha pogut analitzar la resposta del servei de traducció</seg>
       </tuv>
     </tu>
     <tu>
@@ -20102,6 +20214,14 @@ a la línia {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use glossary terms</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T102743Z" creationid="Marc Riera" creationdate="20200726T102743Z">
+        <seg>Utilitza els termes del glossari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214847Z" creationid="mgalo" creationdate="20181108T151132Z">
@@ -20387,6 +20507,14 @@ subscriure-us-hi:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224006Z" creationid="Marc Riera" creationdate="20180214T224006Z">
         <seg>Es mostraran les variants de les llengües següents: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T103048Z" creationid="Marc Riera" creationdate="20200726T103048Z">
+        <seg>Versió</seg>
       </tuv>
     </tu>
     <tu>
@@ -21170,6 +21298,15 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181113T095253Z" creationid="mgalo" creationdate="20181113T095253Z">
         <seg>No heu especificat cap clau API per a Yandex Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Yandex.Cloud</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T102713Z" creationid="Marc Riera" creationdate="20200726T102713Z">
+        <seg>Yandex.Cloud</seg>
       </tuv>
     </tu>
     <tu>
