@@ -207,6 +207,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Back</seg>
       </tuv>
@@ -509,6 +510,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Finish</seg>
       </tuv>
@@ -517,11 +519,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Fix All</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T114147Z" creationid="Marc Riera" creationdate="20180210T212931Z">
-        <seg>Arregla-ho &amp;tot</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T122828Z" creationid="Marc Riera" creationdate="20180210T212931Z">
+        <seg>Corregeix-ho &amp;tot</seg>
       </tuv>
     </tu>
     <tu>
@@ -999,6 +1002,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Remove Filter</seg>
       </tuv>
@@ -1024,11 +1028,12 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Replace Next</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181218T202416Z" creationid="mgalo" creationdate="20181115T114112Z">
-        <seg>Reemplaça següe&amp;nt</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T122839Z" creationid="mgalo" creationdate="20181115T114112Z">
+        <seg>Reemplaça le següe&amp;nt</seg>
       </tuv>
     </tu>
     <tu>
@@ -1220,6 +1225,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Skip</seg>
       </tuv>
@@ -1939,7 +1945,7 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
     </tu>
     <tu>
-      <note>"auto"???</note>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;auto&gt;</seg>
       </tuv>
@@ -5432,6 +5438,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
@@ -9456,6 +9463,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Insert Unicode Control Character</seg>
       </tuv>
@@ -9560,6 +9568,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
@@ -10554,11 +10563,12 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181111T220442Z" creationid="mgalo" creationdate="20181111T220442Z">
-        <seg>Inclusió d'esquerra a dreta (LRE U+202A)</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T123214Z" creationid="mgalo" creationdate="20181111T220442Z">
+        <seg>Incrustació d'esquerra a dreta (LRE U+202A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12801,11 +12811,12 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT will now terminate.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213206Z" creationid="Marc Riera" creationdate="20180210T213206Z">
-        <seg>L'OmegaT es tancarà.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T122953Z" creationid="Marc Riera" creationdate="20180210T213206Z">
+        <seg>L'OmegaT ara es tancarà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13748,6 +13759,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Pop Directional Formatting (PDF U+202C)</seg>
       </tuv>
@@ -15160,11 +15172,12 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181111T220502Z" creationid="mgalo" creationdate="20181111T220502Z">
-        <seg>Inclusió de dreta a esquerra (RLE U+202B)</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T123222Z" creationid="mgalo" creationdate="20181111T220502Z">
+        <seg>Incrustació de dreta a esquerra (RLE U+202B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15229,11 +15242,12 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Running on Java {0} ({1}-bit)</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181118T100227Z" creationid="mgalo" creationdate="20181107T233920Z">
-        <seg>S'està executant en Java {0} ({1}-bit)</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T123008Z" creationid="mgalo" creationdate="20181107T233920Z">
+        <seg>S'està executant en Java {0} ({1} bits)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15755,11 +15769,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>See "Chapter 3.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213157Z" creationid="Marc Riera" creationdate="20180210T213157Z">
-        <seg>Vegeu el «Capítol 3.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T122938Z" creationid="Marc Riera" creationdate="20180210T213157Z">
+        <seg>Vegeu el «Capítol 3:</seg>
       </tuv>
     </tu>
     <tu>
