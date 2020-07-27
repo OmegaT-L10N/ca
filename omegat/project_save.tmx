@@ -3374,11 +3374,12 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Analyzing strings - {0} of {1} completed</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112430Z" creationid="Marc Riera" creationdate="20180221T112430Z">
-        <seg>S'estan analitzant les cadenes: {0} de {1}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T145104Z" creationid="Marc Riera" creationdate="20180221T112430Z">
+        <seg>S'estan analitzant les cadenes: s'han completat {0} de {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3780,6 +3781,7 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Bartender yells loud:
 Your page cannot be found, boy
@@ -5183,6 +5185,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
@@ -6652,6 +6655,7 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Emptiness of soul
 Forever aching blackness
@@ -6887,6 +6891,7 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Ephemeral page
 I am the Blue Screen of Death
@@ -7030,6 +7035,7 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error saving project file!</seg>
       </tuv>
@@ -7277,6 +7283,7 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Exciting help page
 Gossamer threads hold you back
@@ -7579,6 +7586,7 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
@@ -8613,6 +8621,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Help you are seeking
 From your path it is fleeing
@@ -9616,6 +9625,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Insufficient permissions for project dir {0}</seg>
       </tuv>
@@ -10726,8 +10736,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Loading glossaries</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112439Z" creationid="Marc Riera" creationdate="20180221T112439Z">
-        <seg>S'estan carregant els glossaris</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T145125Z" creationid="Marc Riera" creationdate="20180221T112439Z">
+        <seg>S'estan carregant els glossaris...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11573,6 +11583,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mourning and sorrow
 404 not with us now
@@ -12296,6 +12307,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Number of unique segments</seg>
       </tuv>
@@ -13366,6 +13378,7 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Page slips through fingers
 Pulse pounding hard and frantic
@@ -13562,6 +13575,7 @@ everything.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Please consult the documentation about your recovery options and
 return the information below to the software manufacturer with
@@ -14467,6 +14481,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Rather than beep
 Or a rude error message
@@ -18143,15 +18158,16 @@ en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The help page you seek
 Lies beyond our perception
 But others await</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T175511Z" creationid="Marc Riera" creationdate="20200121T175511Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T144414Z" creationid="Marc Riera" creationdate="20200121T175511Z">
         <seg>La pàgina d'ajuda que cerqueu
 cau més enllà de la nostra percepció,
-però altres us esperen.</seg>
+però d'altres us esperen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18634,6 +18650,7 @@ la ubicació de la carpeta de configuració de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>These three are certain:
 Death, taxes, and page not found
@@ -19208,6 +19225,7 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Total number of segments</seg>
       </tuv>
@@ -19434,6 +19452,7 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translated unique segments</seg>
       </tuv>
@@ -21046,6 +21065,7 @@ Tant la cerca exacta com la cerca per paraules clau admeten els caràcters comod
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Wind catches lily
 Scatt'ring petals to the wind:
