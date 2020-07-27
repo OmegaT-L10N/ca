@@ -1610,11 +1610,12 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>+{0} more</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223727Z" creationid="Marc Riera" creationdate="20180214T223644Z">
-        <seg>+ {0} més</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T154017Z" creationid="Marc Riera" creationdate="20180214T223644Z">
+        <seg>i {0} més</seg>
       </tuv>
     </tu>
     <tu>
@@ -3736,11 +3737,12 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Back to the initial segment on close</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181111T222907Z" creationid="mgalo" creationdate="20181111T222907Z">
-        <seg>Torna al segment inicial després de tancar</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T153758Z" creationid="mgalo" creationdate="20181111T222907Z">
+        <seg>Torna al segment inicial després de tancar la finestra</seg>
       </tuv>
     </tu>
     <tu>
@@ -3761,6 +3763,7 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Bad folder name {0}</seg>
       </tuv>
@@ -6973,6 +6976,7 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error during regular expression replacement:</seg>
       </tuv>
@@ -7005,6 +7009,7 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error in file {0}, line {1}</seg>
       </tuv>
@@ -7079,6 +7084,7 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error searching directory tree!</seg>
       </tuv>
@@ -7874,6 +7880,7 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Flash XML Export</seg>
       </tuv>
@@ -8387,6 +8394,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Glossary Matches</seg>
       </tuv>
@@ -8514,6 +8522,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Group {0} does not exist in search expression</seg>
       </tuv>
@@ -10103,8 +10112,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Java Resource Bundles Filter Options</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181109T224848Z" creationid="mgalo" creationdate="20181109T224848Z">
-        <seg>Opcions per a filtres de paquets de recursos de Java</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T154347Z" creationid="mgalo" creationdate="20181109T224848Z">
+        <seg>Opcions del filtre de paquets de recursos del Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -10243,6 +10252,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Keyword searches are not available in the search string.</seg>
       </tuv>
@@ -10312,6 +10322,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Language Checker</seg>
       </tuv>
@@ -11337,6 +11348,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Maximum number of finds has been reached ({0})</seg>
       </tuv>
@@ -12003,11 +12015,12 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>No matches returned by search.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223624Z" creationid="Marc Riera" creationdate="20180214T223624Z">
-        <seg>No s'ha trobat cap resultat.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T153919Z" creationid="Marc Riera" creationdate="20180214T223624Z">
+        <seg>La cerca no ha proporcionat cap resultat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12335,11 +12348,12 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Nr of matching segments: {0}</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223628Z" creationid="Marc Riera" creationdate="20180214T223628Z">
-        <seg>Nre. de resultats: {0}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T153936Z" creationid="Marc Riera" creationdate="20180214T223628Z">
+        <seg>Núm. de segments coincidents: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -14684,8 +14698,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181109T123909Z" creationid="mgalo" creationdate="20181109T123131Z">
-        <seg>La cerca d'expressions regulars cerca expressions regulars de Java, documentades al Manual d'usuari.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T154324Z" creationid="mgalo" creationdate="20181109T123131Z">
+        <seg>La cerca d'expressions regulars cerca expressions regulars del Java, documentades al Manual d'usuari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15866,6 +15880,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Search thread died unexpectedly!</seg>
       </tuv>
@@ -16960,6 +16975,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Spellcheck</seg>
       </tuv>
@@ -17716,18 +17732,19 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Text Replace</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T215423Z" creationid="mgalo" creationdate="20181109T120710Z">
-        <seg>Substitució de text</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T153704Z" creationid="mgalo" creationdate="20181109T120710Z">
+        <seg>Reemplaçament de text</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Text Replace:
 The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181115T220713Z">
-        <seg>Substitució de text:
-L'àmbit de la substitució de text són els segments de destinació del projecte, independentment de si ja tenen contingut o no.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T154059Z" creationid="mgalo" creationdate="20181115T220713Z">
+        <seg>Reemplaçament de text:
+L'àmbit d'un reemplaçament de text són els segments de destinació del projecte, independentment de si ja tenen contingut o no.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17846,11 +17863,12 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114555Z" creationid="Marc Riera" creationdate="20180221T114555Z">
-        <seg>El filtre de paquets de recursos de Java ha generat una excepció:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T154356Z" creationid="Marc Riera" creationdate="20180221T114555Z">
+        <seg>El filtre de paquets de recursosl de Java ha generat una excepció:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21036,11 +21054,12 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T220148Z" creationid="mgalo" creationdate="20181111T222806Z">
-        <seg>En utilitzar expressions regulars, la cadena de substitució admet referències a grups definits en la cadena de cerca.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T153734Z" creationid="mgalo" creationdate="20181111T222806Z">
+        <seg>En utilitzar expressions regulars, la cadena de reemplaçament admet referències a grups definits en la cadena de cerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21447,6 +21466,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>XML Spreadsheet 2003</seg>
       </tuv>
@@ -22718,11 +22738,12 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>{0} +{1} more</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223718Z" creationid="Marc Riera" creationdate="20180214T223718Z">
-        <seg>{0} + {1} més</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T154025Z" creationid="Marc Riera" creationdate="20180214T223718Z">
+        <seg>{0} i {1} més</seg>
       </tuv>
     </tu>
     <tu>
@@ -22995,11 +23016,12 @@ creï la carpeta de configuració.</seg>
     <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">COLOR_REPLACE</prop>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Replace</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T230345Z" creationid="Marc Riera" creationdate="20191110T230345Z">
-        <seg>Substitució</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T154202Z" creationid="Marc Riera" creationdate="20191110T230345Z">
+        <seg>Reemplaçament</seg>
       </tuv>
     </tu>
     <tu>
