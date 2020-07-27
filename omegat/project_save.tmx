@@ -1587,6 +1587,7 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>(close tag)</seg>
       </tuv>
@@ -1595,6 +1596,7 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>(comment tag)</seg>
       </tuv>
@@ -1603,6 +1605,7 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>(empty tag)</seg>
       </tuv>
@@ -6800,11 +6803,12 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>End of stream encountered without finding close block!</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223855Z" creationid="Marc Riera" creationdate="20180214T223855Z">
-        <seg>S'ha trobat el final d'una seqüència de dades sense haver trobat el bloc de tancament.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T162500Z" creationid="Marc Riera" creationdate="20180214T223855Z">
+        <seg>S'ha trobat el final d'una seqüència de dades sense trobar un bloc de tancament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7172,27 +7176,30 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Escaped binary char contains malformed data ({0})!</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223859Z" creationid="Marc Riera" creationdate="20180214T223859Z">
-        <seg>El caràcter d'escapada binari conté dades amb format incorrecte ({0}).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T162600Z" creationid="Marc Riera" creationdate="20180214T223859Z">
+        <seg>El caràcter binari amb escapament conté dades mal formades ({0}).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Escaped character never terminated!</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223857Z" creationid="Marc Riera" creationdate="20180214T223857Z">
-        <seg>No s'ha finalitzat el caràcter d'escapada.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T162536Z" creationid="Marc Riera" creationdate="20180214T223857Z">
+        <seg>No s'ha finalitzat el caràcter amb escapament.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Escaped decimal char contains malformed data ({0})!</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223903Z" creationid="Marc Riera" creationdate="20180214T223903Z">
-        <seg>El caràcter d'escapada decimal conté dades amb format incorrecte ({0}).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T162618Z" creationid="Marc Riera" creationdate="20180214T223903Z">
+        <seg>El caràcter decimal amb escapament conté dades mal formades ({0}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7755,6 +7762,7 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>File {0} does not exist!</seg>
       </tuv>
@@ -7892,6 +7900,7 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Floating '?' character not tied to '&gt;'!</seg>
       </tuv>
@@ -13935,8 +13944,8 @@ si cal fer res més.</seg>
       <tuv lang="en">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T110254Z" creationid="Marc Riera" creationdate="20180214T223906Z">
-        <seg>Error en l'operació per a desar les preferències del sistema.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T165152Z" creationid="Marc Riera" creationdate="20180214T223906Z">
+        <seg>S'ha produït en l'operació per a desar les preferències del sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17451,6 +17460,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Tag name:</seg>
       </tuv>
@@ -22273,6 +22283,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>attributes.</seg>
       </tuv>
@@ -22559,6 +22570,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>loaded</seg>
       </tuv>
