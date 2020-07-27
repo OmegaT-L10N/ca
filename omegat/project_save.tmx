@@ -1509,11 +1509,12 @@ Per a afegir fitxers al projecte, feu clic al botó «Copia fitxers a la carpeta
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>(Leave the Password empty if you are using an API Key.)</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T105220Z" creationid="mgalo" creationdate="20181112T101314Z">
-        <seg>(Deixeu el camp de contrasenya buit si feu servir una clau API)</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T083819Z" creationid="mgalo" creationdate="20181112T101314Z">
+        <seg>(Deixeu el camp de contrasenya buit si utilitzeu una clau API.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8992,11 +8993,12 @@ als valors per defecte com a resultat el canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T115357Z" creationid="mgalo" creationdate="20181113T093233Z">
-        <seg>Si feu servir un servidor intermediari que requereix autenticació, inseriu aquí el vostre usuari i contrasenya.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T083929Z" creationid="mgalo" creationdate="20181113T093233Z">
+        <seg>Si utilitzeu un servidor intermediari que requereix autenticació, introduïu aquí el vostre usuari i contrasenya.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17025,6 +17027,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Subscription Key:</seg>
       </tuv>
@@ -18381,11 +18384,12 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The specified dictionary folder cannot be used.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T222135Z" creationid="mgalo" creationdate="20181112T222041Z">
-        <seg>No es pot fer servir la carpeta dels diccionaris que heu especificat.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T083845Z" creationid="mgalo" creationdate="20181112T222041Z">
+        <seg>No es pot utilitzar la carpeta de diccionaris que heu especificat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20139,6 +20143,7 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
@@ -20166,8 +20171,8 @@ a la línia {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use &amp;stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181108T151506Z" creationid="mgalo" creationdate="20181108T151506Z">
-        <seg>Fes servir la &amp;lematització per a entrades del glossari</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T084023Z" creationid="mgalo" creationdate="20181108T151506Z">
+        <seg>Utilitza la &amp;lematització per a les entrades del glossari</seg>
       </tuv>
     </tu>
     <tu>
@@ -20239,8 +20244,8 @@ a la línia {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214847Z" creationid="mgalo" creationdate="20181108T151132Z">
-        <seg>Fes servir termes que &amp;apareixen separats en el text d'origen</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T084011Z" creationid="mgalo" creationdate="20181108T151132Z">
+        <seg>Utilitza els termes que &amp;apareixen separats en el text d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -20853,8 +20858,8 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       <tuv lang="en">
         <seg>When unavailable, the ID will be used as a fallback</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181109T230721Z" creationid="mgalo" creationdate="20181109T230721Z">
-        <seg>Si no està disponible, es farà servir la ID com a reserva</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T083956Z" creationid="mgalo" creationdate="20181109T230721Z">
+        <seg>Si no està disponible, s'utilitzarà l'ID com a reserva</seg>
       </tuv>
     </tu>
     <tu>
