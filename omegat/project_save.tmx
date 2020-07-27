@@ -2876,11 +2876,12 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181109T131528Z" creationid="mgalo" creationdate="20181109T131528Z">
-        <seg>S'han afegit {0} entrades del glossari des de {1}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T171141Z" creationid="mgalo" creationdate="20181109T131528Z">
+        <seg>S'han afegit {0} entrades del glossari de {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5233,11 +5234,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Could not initialize OS look and feel!</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224127Z" creationid="Marc Riera" creationdate="20180214T224127Z">
-        <seg>No s'ha pogut inicialitzar l'aspecte i comportament del sistema operatiu.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T171158Z" creationid="Marc Riera" creationdate="20180214T224127Z">
+        <seg>No s'han pogut inicialitzar l'aspecte i el comportament del sistema operatiu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6747,6 +6749,7 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Enabled</seg>
       </tuv>
@@ -7035,6 +7038,7 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error load plugin from class '{0}': {1}: {2}</seg>
       </tuv>
@@ -7060,11 +7064,12 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error reading TMX level2 at line {0} column {1}</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224120Z" creationid="Marc Riera" creationdate="20180214T224120Z">
-        <seg>S'ha produït un error en llegir el fitxer TMX de nivell 2 a la línia {0}, columna {1}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T171121Z" creationid="Marc Riera" creationdate="20180214T224120Z">
+        <seg>S'ha produït un error en llegir el fitxer TMX de nivell 2 a la línia {0}, columna {1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7111,6 +7116,7 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
@@ -7732,6 +7738,7 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>File Format</seg>
       </tuv>
@@ -10109,6 +10116,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Jar used for plugins: {0}</seg>
       </tuv>
@@ -10364,11 +10372,12 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Language not specified for translation unit variant.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224057Z" creationid="Marc Riera" creationdate="20180214T224057Z">
-        <seg>La variant d'unitat de traducció no té cap llengua especificada.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T170536Z" creationid="Marc Riera" creationdate="20180214T224057Z">
+        <seg>No s'ha especificat cap llengua per a la variant de la unitat de traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10811,6 +10820,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Loading glossary {0}</seg>
       </tuv>
@@ -12976,6 +12986,7 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT will try to resegment the TMX file...</seg>
       </tuv>
@@ -13872,11 +13883,12 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181113T083406Z" creationid="mgalo" creationdate="20181113T083406Z">
-        <seg>El connector s'ha carregat correctament des de la classe «{0}»</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T171355Z" creationid="mgalo" creationdate="20181113T083406Z">
+        <seg>S'ha carregat correctament el connector de la classe «{0}».</seg>
       </tuv>
     </tu>
     <tu>
@@ -16024,11 +16036,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segment encountered outside translation unit variant.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224102Z" creationid="Marc Riera" creationdate="20180214T224102Z">
-        <seg>S'ha trobat un segment fora de la variant d'unitat de traducció.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T170601Z" creationid="Marc Riera" creationdate="20180214T224102Z">
+        <seg>S'ha trobat un segment fora de la variant d'una unitat de traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16056,11 +16069,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segment skipped.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224104Z" creationid="Marc Riera" creationdate="20180214T224104Z">
-        <seg>El segment s'ometrà.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T170611Z" creationid="Marc Riera" creationdate="20180214T224104Z">
+        <seg>S'ha omès el segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16662,11 +16676,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T223854Z" creationid="Marc Riera" creationdate="20191112T223854Z">
-        <seg>S'està ometent el connector carregat anteriorment de la classe «{0}»</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T171359Z" creationid="Marc Riera" creationdate="20191112T223854Z">
+        <seg>S'està ometent el connector carregat anteriorment de la classe «{0}».</seg>
       </tuv>
     </tu>
     <tu>
@@ -16925,6 +16940,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Source segment could not be located for certain translation units.</seg>
       </tuv>
@@ -17370,11 +17386,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224110Z" creationid="Marc Riera" creationdate="20180214T224110Z">
-        <seg>El fitxer TMX es va crear mitjançant l'OmegaT 1.4.x o anterior.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T171046Z" creationid="Marc Riera" creationdate="20180214T224110Z">
+        <seg>El fitxer TMX s'ha creat amb l'OmegaT 1.4.x o una versió anterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18001,11 +18018,12 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The TMX file will continue to be loaded.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224109Z" creationid="Marc Riera" creationdate="20180214T224109Z">
-        <seg>El fitxer TMX se seguirà carregant.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T171028Z" creationid="Marc Riera" creationdate="20180214T224109Z">
+        <seg>El fitxer TMX es carregarà igualment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18020,6 +18038,7 @@ Proveu de corregir l'error i torneu a carregar el projecte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
       </tuv>
@@ -18784,11 +18803,12 @@ en sou víctima d'una.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>These units have been skipped.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224106Z" creationid="Marc Riera" creationdate="20180214T224106Z">
-        <seg>Aquestes unitats s'ometran.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T171000Z" creationid="Marc Riera" creationdate="20180214T224106Z">
+        <seg>S'han omès aquestes unitats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19671,19 +19691,21 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translation unit encountered before TMX header.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224051Z" creationid="Marc Riera" creationdate="20180214T224051Z">
-        <seg>S'ha trobat una unitat de traducció abans de la capçalera TMX.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T170450Z" creationid="Marc Riera" creationdate="20180214T224051Z">
+        <seg>S'ha trobat una unitat de traducció abans de la capçalera del fitxer TMX.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translation unit variant encountered outside translation unit.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224053Z" creationid="Marc Riera" creationdate="20180214T224053Z">
-        <seg>S'ha trobat una variant d'unitat de traducció fora de la unitat de traducció.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T170500Z" creationid="Marc Riera" creationdate="20180214T224053Z">
+        <seg>S'ha trobat una variant d'una unitat de traducció fora de la unitat de traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20153,11 +20175,12 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unknown plugin type '{0}' in '{1}'</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181113T085614Z" creationid="mgalo" creationdate="20181113T085614Z">
-        <seg>S'ha detectat un connector desconegut del tipus «{0}» a «{1}»</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T171216Z" creationid="mgalo" creationdate="20181113T085614Z">
+        <seg>S'ha detectat un connector desconegut del tipus «{0}» a «{1}».</seg>
       </tuv>
     </tu>
     <tu>
@@ -20182,13 +20205,14 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unrecoverable error while parsing TMX file
 {0}
 on line {1}, column {2}.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224048Z" creationid="Marc Riera" creationdate="20180214T224048Z">
-        <seg>S'ha produït un error irrecuperable en l'anàlisi del fitxer TMX
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T170425Z" creationid="Marc Riera" creationdate="20180214T224048Z">
+        <seg>S'ha produït un error irrecuperable en analitzar del fitxer TMX
 {0}
 a la línia {1}, columna {2}.</seg>
       </tuv>
@@ -20286,6 +20310,7 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Upgrading...</seg>
       </tuv>
@@ -20728,11 +20753,12 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Variant skipped.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224055Z" creationid="Marc Riera" creationdate="20180214T224055Z">
-        <seg>La variant s'ometrà.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T170516Z" creationid="Marc Riera" creationdate="20180214T224055Z">
+        <seg>S'ha omès la variant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21914,11 +21940,12 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224115Z" creationid="Marc Riera" creationdate="20180214T224115Z">
-        <seg>El projecte actual utilitza la segmentació per frases, però el fitxer TMX es va crear amb una segmentació per paràgrafs.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T171103Z" creationid="Marc Riera" creationdate="20180214T224115Z">
+        <seg>El projecte actual utilitza la segmentació per frases, però el fitxer TMX s'ha creat amb una segmentació per paràgrafs.</seg>
       </tuv>
     </tu>
     <tu>
