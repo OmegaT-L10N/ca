@@ -235,6 +235,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Browse</seg>
       </tuv>
@@ -1275,11 +1276,12 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Source Language Tokenizer:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215005Z" creationid="Marc Riera" creationdate="20180214T223126Z">
-        <seg>Analit&amp;zador lèxic de la llengua d'origen:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T145705Z" creationid="Marc Riera" creationdate="20180214T223126Z">
+        <seg>Lematit&amp;zador de la llengua d'origen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1317,11 +1319,12 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Target Language Tokenizer:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="Marc Riera" creationdate="20180214T223127Z">
-        <seg>Analitzador lè&amp;xic de la llengua de destinació:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T145656Z" creationid="Marc Riera" creationdate="20180214T223127Z">
+        <seg>Lematitza&amp;dor de la llengua de destinació:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3708,6 +3711,7 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>B&amp;rowse</seg>
       </tuv>
@@ -3895,6 +3899,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Bro&amp;wse</seg>
       </tuv>
@@ -3903,6 +3908,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Brows&amp;e</seg>
       </tuv>
@@ -4467,11 +4473,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Choose MED project</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181111T222423Z" creationid="mgalo" creationdate="20181111T222423Z">
-        <seg>Tria un projecte MED</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T150228Z" creationid="mgalo" creationdate="20181111T222423Z">
+        <seg>Trieu un projecte MED</seg>
       </tuv>
     </tu>
     <tu>
@@ -5316,11 +5323,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Create a New Project</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223234Z" creationid="Marc Riera" creationdate="20180214T223234Z">
-        <seg>Crea un projecte nou</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T150248Z" creationid="Marc Riera" creationdate="20180214T223234Z">
+        <seg>Crea un projecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -5804,6 +5812,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Dictionary Files Folder</seg>
       </tuv>
@@ -6470,6 +6479,7 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>E&amp;xclusions...</seg>
       </tuv>
@@ -6704,11 +6714,12 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T112946Z" creationid="Marc Riera" creationdate="20180214T223144Z">
-        <seg>Habiliteu-les a &lt;b&gt;Preferències &gt; Desament i sortida...&lt;/b&gt;&lt;/html&gt;</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T145922Z" creationid="Marc Riera" creationdate="20180214T223144Z">
+        <seg>Habiliteu-les a &lt;b&gt;Preferències &gt; Desament i sortida&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7399,19 +7410,21 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>External Post-processing Command (Disabled):</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T112909Z" creationid="Marc Riera" creationdate="20180214T223138Z">
-        <seg>Ordre de postprocessament extern (inhabilitat):</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T145852Z" creationid="Marc Riera" creationdate="20180214T223138Z">
+        <seg>Ordre externa de postprocessament (inhabilitat):</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>External Post-processing Command:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T112838Z" creationid="Marc Riera" creationdate="20180214T223133Z">
-        <seg>Ordre de postprocessament extern:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T145846Z" creationid="Marc Riera" creationdate="20180214T223133Z">
+        <seg>Ordre externa de postprocessament:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7423,6 +7436,7 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>External Search...</seg>
       </tuv>
@@ -8339,6 +8353,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Glossary Files Folder</seg>
       </tuv>
@@ -12437,6 +12452,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT Project Files</seg>
       </tuv>
@@ -15032,19 +15048,21 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Repository Mapping</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181218T201331Z" creationid="mgalo" creationdate="20181218T201331Z">
-        <seg>Mapatge del repositori</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T150310Z" creationid="mgalo" creationdate="20181218T201331Z">
+        <seg>Assignació de dipòsits</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Repository Mapping...</seg>
       </tuv>
-      <tuv lang="ca" changeid="Mariona" changedate="20181218T200853Z" creationid="Mariona" creationdate="20181218T200853Z">
-        <seg>Mapatge del repositori...</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T150021Z" creationid="Mariona" creationdate="20181218T200853Z">
+        <seg>Assignació de dipòsits...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16625,11 +16643,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Mariona" changedate="20181218T200917Z" creationid="Mariona" creationdate="20181218T200917Z">
-        <seg>Sembla que algunes carpetes del projecte s'han mogut.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T150107Z" creationid="Mariona" creationdate="20181218T200917Z">
+        <seg>Sembla que algunes carpetes del projecte han canviat d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16741,6 +16760,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Source Files Folder</seg>
       </tuv>
@@ -19379,6 +19399,7 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translated Files Folder</seg>
       </tuv>
@@ -19498,6 +19519,7 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translation Memory Files Folder</seg>
       </tuv>
@@ -19761,6 +19783,7 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unable to convert project!</seg>
       </tuv>
@@ -19769,6 +19792,7 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unable to download team project!</seg>
       </tuv>
@@ -19825,6 +19849,7 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unable to read project file!</seg>
       </tuv>
@@ -21198,6 +21223,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Writeable Glossary File</seg>
       </tuv>
@@ -21754,6 +21780,7 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You should specify their new location or recreate them.</seg>
       </tuv>
@@ -21814,6 +21841,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>ZIP files</seg>
       </tuv>
