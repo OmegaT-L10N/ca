@@ -765,6 +765,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Make the segmentation rules project specific</seg>
       </tuv>
@@ -3492,6 +3493,7 @@ El fitxer TMX no es carregarà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Arrays must not be null</seg>
       </tuv>
@@ -4114,8 +4116,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Cannot install</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T093535Z" creationid="mgalo" creationdate="20181112T093535Z">
-        <seg>No s'ha pogut instal·lar</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T145345Z" creationid="mgalo" creationdate="20181112T093535Z">
+        <seg>No es pot instal·lar</seg>
       </tuv>
     </tu>
     <tu>
@@ -5297,6 +5299,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Create New Project</seg>
       </tuv>
@@ -14020,6 +14023,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Problem encountered loading project file!</seg>
       </tuv>
@@ -18333,8 +18337,8 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The project cannot be verified</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T102041Z" creationid="mgalo" creationdate="20181112T102041Z">
-        <seg>No s'ha pogut verificar el projecte</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T145404Z" creationid="mgalo" creationdate="20181112T102041Z">
+        <seg>No es pot verificar el projecte</seg>
       </tuv>
     </tu>
     <tu>
