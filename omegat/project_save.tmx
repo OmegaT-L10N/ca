@@ -489,6 +489,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Files</seg>
       </tuv>
@@ -1443,7 +1444,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
-      <note>Random example in Catalan was used. Any other suggestions will be appreciated.</note>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
@@ -10250,11 +10251,12 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181109T123857Z" creationid="mgalo" creationdate="20181109T121956Z">
-        <seg>La cerca per paraules clau cerca totes les paraules clau separades per espais independentment de llur ordre.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T153137Z" creationid="mgalo" creationdate="20181109T121956Z">
+        <seg>La cerca per paraules clau cerca totes les paraules clau separades per espais independentment de l'ordre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12341,6 +12343,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Number of matching segments:</seg>
       </tuv>
@@ -14056,6 +14059,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Pro&amp;ject</seg>
       </tuv>
@@ -14378,11 +14382,12 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181109T121403Z">
-        <seg>Les cerques del projecte s'apliquen per defecte als segments d'origen i de destinació, a les memòries de referència, als glossaris, a les notes i als comentaris del projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T153112Z" creationid="mgalo" creationdate="20181109T121403Z">
+        <seg>Les cerques del projecte s'apliquen per defecte als segments d'origen i de destinació, a les memòries de traducció de referència, als glossaris, a les notes i als comentaris del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14606,6 +14611,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Recursi&amp;ve search</seg>
       </tuv>
@@ -14674,6 +14680,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
       </tuv>
@@ -15622,13 +15629,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T215643Z" creationid="mgalo" creationdate="20181109T121238Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T153052Z" creationid="mgalo" creationdate="20181109T121238Z">
         <seg>Àmbit:
-L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de canviar-lo a qualsevol fitxer d'una determinada estructura de carpetes.</seg>
+L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de canviar-lo a qualsevol fitxer d'una determinada jerarquia de carpetes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16128,11 +16136,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Select Fol&amp;der</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223521Z" creationid="Marc Riera" creationdate="20180214T223521Z">
-        <seg>&amp;Seleccioneu una carpeta</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T152943Z" creationid="Marc Riera" creationdate="20180214T223521Z">
+        <seg>&amp;Selecciona una carpeta</seg>
       </tuv>
     </tu>
     <tu>
@@ -17722,6 +17731,7 @@ L'àmbit de la substitució de text són els segments de destinació del project
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Text Search</seg>
       </tuv>
@@ -19693,6 +19703,7 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Types:
 Exact searches match the whole search string.</seg>
@@ -20276,11 +20287,12 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Use $n to refer to the nth group.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T110244Z" creationid="Marc Riera" creationdate="20191112T220356Z">
-        <seg>Utilitzeu $n per a fer referència al grup núm. n.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T153324Z" creationid="Marc Riera" creationdate="20191112T220356Z">
+        <seg>Utilitzeu «$n» per a fer referència al grup núm. «n».</seg>
       </tuv>
     </tu>
     <tu>
@@ -21116,6 +21128,7 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Wildcards:
 Both exact and keyword searches support the wildcard characters * and ?.</seg>
@@ -21513,11 +21526,12 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You are going to modify {0} segments.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181109T120729Z" creationid="mgalo" creationdate="20181109T120729Z">
-        <seg>Aquesta acció modificarà {0} segments</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T153006Z" creationid="mgalo" creationdate="20181109T120729Z">
+        <seg>Aquesta acció modificarà {0} segments.</seg>
       </tuv>
     </tu>
     <tu>
