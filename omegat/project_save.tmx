@@ -6689,11 +6689,12 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Empty repository URL in the mapping</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181218T201621Z" creationid="mgalo" creationdate="20181218T201621Z">
-        <seg>Esborra l'adreça URL del repositori en el mapatge</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T151242Z" creationid="mgalo" creationdate="20181218T201621Z">
+        <seg>L'adreça URL del dipòsit a l'assignació és buida</seg>
       </tuv>
     </tu>
     <tu>
@@ -7310,11 +7311,12 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Exclude Pattern</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181108T160130Z" creationid="mgalo" creationdate="20181108T160130Z">
-        <seg>Exclou el patró</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T151119Z" creationid="mgalo" creationdate="20181108T160130Z">
+        <seg>Patró d'exclusió</seg>
       </tuv>
     </tu>
     <tu>
@@ -8669,11 +8671,12 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Here you may also specify custom location of project folders.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223232Z" creationid="Marc Riera" creationdate="20180214T223232Z">
-        <seg>També podeu especificar una ubicació personalitzada de les carpetes del projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T150903Z" creationid="Marc Riera" creationdate="20180214T223232Z">
+        <seg>També podeu especificar una ubicació personalitzada per a les carpetes del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9352,11 +9355,12 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Include Pattern</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181108T160134Z" creationid="mgalo" creationdate="20181108T160134Z">
-        <seg>Inclou el patró</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T151129Z" creationid="mgalo" creationdate="20181108T160134Z">
+        <seg>Patró d'inclusió</seg>
       </tuv>
     </tu>
     <tu>
@@ -9729,8 +9733,8 @@ feu clic en la drecera.</seg>
       <tuv lang="en">
         <seg>Invalid repository type: {0}</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T113249Z" creationid="Marc Riera" creationdate="20180221T113249Z">
-        <seg>El tipus de repositori no és vàlid: {0}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T151156Z" creationid="Marc Riera" creationdate="20180221T113249Z">
+        <seg>El tipus de dipòsit no és vàlid: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11001,11 +11005,12 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T113153Z" creationid="mgalo" creationdate="20181218T201533Z">
-        <seg>Mapatge de carpetes locals a carpetes remotes en dipòsits</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T150916Z" creationid="mgalo" creationdate="20181218T201533Z">
+        <seg>Assignació de carpetes locals a carpetes remotes en dipòsits</seg>
       </tuv>
     </tu>
     <tu>
@@ -13752,6 +13757,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
       </tuv>
@@ -15066,19 +15072,21 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Repository {0} is already present</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T113310Z" creationid="Marc Riera" creationdate="20180221T113310Z">
-        <seg>El repositori {0} ja existeix</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T151148Z" creationid="Marc Riera" creationdate="20180221T113310Z">
+        <seg>El dispòsit {0} ja existeix</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Repository {0} unknown</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T113331Z" creationid="Marc Riera" creationdate="20180221T113331Z">
-        <seg>El repositori {0} és desconegut</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T151206Z" creationid="Marc Riera" creationdate="20180221T113331Z">
+        <seg>El dipòsit {0} és desconegut</seg>
       </tuv>
     </tu>
     <tu>
@@ -18475,6 +18483,7 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
