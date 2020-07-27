@@ -3330,15 +3330,16 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>An exception occurred while parsing the TMX file
 {0}
 The TMX file will not be loaded.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224012Z" creationid="Marc Riera" creationdate="20180214T224012Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T165328Z" creationid="Marc Riera" creationdate="20180214T224012Z">
         <seg>S'ha produït una excepció en analitzar el fitxer TMX
 {0}
-El fitxer TMX no es carregarà.</seg>
+No es carregarà el fitxer TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3750,6 +3751,7 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Backed up preferences to {0}</seg>
       </tuv>
@@ -7310,6 +7312,7 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Exception while parsing:</seg>
       </tuv>
@@ -7642,11 +7645,12 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Fatal error on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224046Z" creationid="Marc Riera" creationdate="20180214T224046Z">
-        <seg>S'ha produït un error greu a la línia {0}, columna {1} en l'anàlisi de:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T165412Z" creationid="Marc Riera" creationdate="20180214T224046Z">
+        <seg>S'ha produït un error greu a la línia {0}, columna {1} en analitzar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13489,6 +13493,7 @@ s'esvaeix com la boira.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
@@ -13662,6 +13667,7 @@ una descripció de com s'ha produït aquest error.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Please consult the log
 ({1})
@@ -14607,6 +14613,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Reading TMX file {0}</seg>
       </tuv>
@@ -14615,6 +14622,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Reading of TMX file complete</seg>
       </tuv>
@@ -14631,11 +14639,12 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224044Z" creationid="Marc Riera" creationdate="20180214T224044Z">
-        <seg>S'ha produït un error recuperable a la línia {0}, columna {1} en l'anàlisi de:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T165402Z" creationid="Marc Riera" creationdate="20180214T224044Z">
+        <seg>S'ha produït un error recuperable a la línia {0}, columna {1} en analitzar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16089,6 +16098,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segmentation method: {0}</seg>
       </tuv>
@@ -19926,6 +19936,7 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unable to read file</seg>
       </tuv>
@@ -20208,6 +20219,7 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unsupported file encoding</seg>
       </tuv>
@@ -20216,6 +20228,7 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unsupported project file version ({0})!</seg>
       </tuv>
@@ -20723,6 +20736,7 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Variants in the following languages will be displayed: {0}</seg>
       </tuv>
@@ -20895,11 +20909,12 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Warning on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224041Z" creationid="Marc Riera" creationdate="20180214T224041Z">
-        <seg>S'ha produït un avís a la línia {0}, columna {1} en l'anàlisi de:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T165349Z" creationid="Marc Riera" creationdate="20180214T224041Z">
+        <seg>S'ha produït un avís a la línia {0}, columna {1} en analitzar:</seg>
       </tuv>
     </tu>
     <tu>
