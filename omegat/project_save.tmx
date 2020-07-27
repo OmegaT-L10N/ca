@@ -1066,11 +1066,12 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Reset Options</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181109T234050Z" creationid="mgalo" creationdate="20181109T131153Z">
-        <seg>&amp;Restableix les opcions</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T155919Z" creationid="mgalo" creationdate="20181109T131153Z">
+        <seg>&amp;Reinicialitza les opcions</seg>
       </tuv>
     </tu>
     <tu>
@@ -4139,6 +4140,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Cannot load specified XML file!</seg>
       </tuv>
@@ -4955,6 +4957,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Confused by false start of comment tag!</seg>
       </tuv>
@@ -8886,6 +8889,7 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>IOException encountered:</seg>
       </tuv>
@@ -12167,6 +12171,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Not a valid XML file!</seg>
       </tuv>
@@ -19870,6 +19875,7 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
@@ -20001,6 +20007,7 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unexpected char {0} ({1})!</seg>
       </tuv>
@@ -20182,6 +20189,7 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unsupported XML version {0}!</seg>
       </tuv>
