@@ -606,11 +606,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T221334Z" creationid="mgalo" creationdate="20181112T221334Z">
-        <seg>&amp;Ves al segment següent sense traduir s'atura si hi ha com a mínim una traducció alternativa</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T165531Z" creationid="mgalo" creationdate="20181112T221334Z">
+        <seg>&amp;Vés al segment següent sense traduir s'atura si hi ha com a mínim una traducció alternativa</seg>
       </tuv>
     </tu>
     <tu>
@@ -8315,11 +8316,12 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Full text, including tags and numbers</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181111T225957Z" creationid="mgalo" creationdate="20181111T225957Z">
-        <seg>Text complet, amb etiquetes i números</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T154655Z" creationid="mgalo" creationdate="20181111T225957Z">
+        <seg>Text complet, amb etiquetes i xifres</seg>
       </tuv>
     </tu>
     <tu>
@@ -9494,6 +9496,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Include matches from &amp;other languages</seg>
       </tuv>
@@ -11403,6 +11406,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Match display template</seg>
       </tuv>
@@ -11564,6 +11568,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Minimal threshold to show a fuzzy match:</seg>
       </tuv>
@@ -12197,11 +12202,12 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>No tags and no numbers</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181111T225946Z" creationid="mgalo" creationdate="20181111T225946Z">
-        <seg>Sense etiquetes ni números</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T154645Z" creationid="mgalo" creationdate="20181111T225946Z">
+        <seg>Sense etiquetes ni xifres</seg>
       </tuv>
     </tu>
     <tu>
@@ -13705,6 +13711,7 @@ s'esvaeix com la boira.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Penalty for matches in other languages:</seg>
       </tuv>
@@ -13926,11 +13933,12 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181111T225749Z" creationid="mgalo" creationdate="20181111T225749Z">
-        <seg>Seleccioneu la manera en què es mostraran les etiquetes de TMX d'altres aplicacions.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T154601Z" creationid="mgalo" creationdate="20181111T225749Z">
+        <seg>Seleccioneu la manera com es mostraran les etiquetes dels fitxers TMX d'altres aplicacions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17325,11 +17333,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Stemming, no tags and no numbers</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181111T225940Z" creationid="mgalo" creationdate="20181111T225940Z">
-        <seg>Lematització, sense etiquetes ni números</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T154649Z" creationid="mgalo" creationdate="20181111T225940Z">
+        <seg>Lematització, sense etiquetes ni xifres</seg>
       </tuv>
     </tu>
     <tu>
@@ -20554,6 +20563,7 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
       </tuv>
@@ -21003,6 +21013,7 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>View Options</seg>
       </tuv>
