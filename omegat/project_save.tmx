@@ -117,6 +117,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
@@ -1439,6 +1440,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Validate tags when leaving a segment</seg>
       </tuv>
@@ -3124,11 +3126,12 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181110T002718Z" creationid="mgalo" creationdate="20181110T002718Z">
-        <seg>Permet l'edició d'eti&amp;quetes</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T153604Z" creationid="mgalo" creationdate="20181110T002718Z">
+        <seg>Permet l'edició de les eti&amp;quetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -3594,11 +3597,12 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181110T002636Z" creationid="mgalo" creationdate="20181110T002636Z">
-        <seg>Intenta convertir &amp;xifres en inserir coincidències parcials</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T153558Z" creationid="mgalo" creationdate="20181110T002636Z">
+        <seg>Intenta convertir les &amp;xifres en inserir coincidències parcials</seg>
       </tuv>
     </tu>
     <tu>
@@ -6572,6 +6576,7 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>E&amp;xport the segment to text files</seg>
       </tuv>
@@ -9573,11 +9578,12 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Initially load this many segments:</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181111T225531Z" creationid="mgalo" creationdate="20181111T225531Z">
-        <seg>Carrega aquest nombre de segments en iniciar:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T153701Z" creationid="mgalo" creationdate="20181111T225531Z">
+        <seg>Carrega inicialment aquest nombre de segments:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13603,6 +13609,7 @@ s'esvaeix com la boira.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Paragraph delimitation format:</seg>
       </tuv>
@@ -13956,8 +13963,8 @@ si cal fer res més.</seg>
       <tuv lang="en">
         <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T153225Z" creationid="Marc Riera" creationdate="20180221T115035Z">
-        <seg>Seleccioneu quin text voleu que s'insereixi en obrir un segment que encara no heu traduït.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T153622Z" creationid="Marc Riera" creationdate="20180221T115035Z">
+        <seg>Seleccioneu quin text voleu que s'insereixi en accedir a un segment que encara no heu traduït.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15731,11 +15738,12 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Save aut&amp;o-populated status</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181111T225457Z" creationid="mgalo" creationdate="20181111T225457Z">
-        <seg>Desa l'estat d'aut&amp;opropagat</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T153646Z" creationid="mgalo" creationdate="20181111T225457Z">
+        <seg>Desa l'estat de pr&amp;opagació automàtica</seg>
       </tuv>
     </tu>
     <tu>
@@ -21231,11 +21239,12 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181111T225618Z" creationid="mgalo" creationdate="20181111T225618Z">
-        <seg>Si un sol fitxer té un nombre de segments superior, els segments sobrants es carregaran a mesura que avanceu cap avall.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T154535Z" creationid="mgalo" creationdate="20181111T225618Z">
+        <seg>Si un sol fitxer té un nombre de segments superior, els segments addicionals es carregaran a mesura que us desplaceu avall.</seg>
       </tuv>
     </tu>
     <tu>
