@@ -100,6 +100,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
@@ -132,6 +133,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Always</seg>
       </tuv>
@@ -227,6 +229,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Bookmarks</seg>
       </tuv>
@@ -304,22 +307,25 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Comments</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224500Z" creationid="Marc Riera" creationdate="20180214T224500Z">
-        <seg>C&amp;omentaris</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T091139Z" creationid="Marc Riera" creationdate="20180214T224500Z">
+        <seg>&amp;Comentaris</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Compatibility with OmegaT 2.6</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224509Z" creationid="Marc Riera" creationdate="20180214T224509Z">
-        <seg>C&amp;ompatibilitat amb l'OmegaT 2.6</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T091213Z" creationid="Marc Riera" creationdate="20180214T224509Z">
+        <seg>&amp;Compatibilitat amb l'OmegaT 2.6</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Copy Support Info</seg>
       </tuv>
@@ -371,11 +377,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T221052Z" creationid="mgalo" creationdate="20181109T225654Z">
-        <seg>&amp;No suprimeixis l'escapament de literals d'Unicode (\uXXXX)</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T075111Z" creationid="mgalo" creationdate="20181109T225654Z">
+        <seg>&amp;No suprimeixis l'escapament dels literals d'Unicode (\uXXXX)</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,6 +421,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Empty lines</seg>
       </tuv>
@@ -463,6 +471,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Endnotes</seg>
       </tuv>
@@ -534,6 +543,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Footnotes</seg>
       </tuv>
@@ -542,6 +552,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
       </tuv>
@@ -611,6 +622,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Ignore file context when identifying segments with alternate translations</seg>
       </tuv>
@@ -628,11 +640,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T224148Z" creationid="Marc Riera" creationdate="20191112T224132Z">
-        <seg>&amp;Ignora els atributs «type» i «ctype» en crear etiquetes reduïdes &lt;ph&gt;</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T143718Z" creationid="Marc Riera" creationdate="20191112T224132Z">
+        <seg>&amp;Ignora els atributs «type» i «ctype» en crear etiquetes &lt;ph&gt; reduïdes</seg>
       </tuv>
     </tu>
     <tu>
@@ -645,6 +658,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Index entries</seg>
       </tuv>
@@ -738,6 +752,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Line breaks</seg>
       </tuv>
@@ -762,11 +777,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Make the file filter settings project specific</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114836Z" creationid="Marc Riera" creationdate="20180221T114836Z">
-        <seg>&amp;Fes que els paràmetres dels filtres siguin específics de cada projecte</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T145252Z" creationid="Marc Riera" creationdate="20180221T114836Z">
+        <seg>&amp;Fes que els paràmetres dels filtres siguin específics per a cada projecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,14 +822,16 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Move Down</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T115013Z" creationid="Marc Riera" creationdate="20180221T115013Z">
-        <seg>&amp;Mou cap avall</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T150831Z" creationid="Marc Riera" creationdate="20180221T115013Z">
+        <seg>&amp;Mou avall</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Name/ID:</seg>
       </tuv>
@@ -822,6 +840,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Never</seg>
       </tuv>
@@ -857,6 +876,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Notes</seg>
       </tuv>
@@ -918,6 +938,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Presentation notes</seg>
       </tuv>
@@ -926,6 +947,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Preserve spaces for all tags</seg>
       </tuv>
@@ -1023,6 +1045,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
@@ -1196,6 +1219,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Sheet Names</seg>
       </tuv>
@@ -1248,11 +1272,12 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Skip PO header</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224221Z" creationid="Marc Riera" creationdate="20180214T224221Z">
-        <seg>&amp;Omet la capçalera del PO</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T141152Z" creationid="Marc Riera" creationdate="20180214T224221Z">
+        <seg>&amp;Omet la capçalera del fitxer PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -1560,6 +1585,7 @@ Per a afegir fitxers al projecte, feu clic al botó «Copia fitxers a la carpeta
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>(X)HTML Filter Options</seg>
       </tuv>
@@ -1647,6 +1673,7 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>---- Localization Notes ----</seg>
       </tuv>
@@ -2478,19 +2505,21 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181218T203051Z" creationid="mgalo" creationdate="20181218T203051Z">
-        <seg>Atribut &amp;resname de &lt;trans-unit&gt; si està disponible</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T091520Z" creationid="mgalo" creationdate="20181218T203051Z">
+        <seg>Atribut &amp;resname de l'element &lt;trans-unit&gt; si està disponible</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;trans-unit&gt; I&amp;D</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181118T165647Z" creationid="mgalo" creationdate="20181118T165647Z">
-        <seg>I&amp;D de la unitat de traducció («&lt;trans-unit&gt;»)</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T091508Z" creationid="mgalo" creationdate="20181118T165647Z">
+        <seg>I&amp;D de l'element &lt;trans-unit&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2614,6 +2643,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>A&amp;ggregate Tags</seg>
       </tuv>
@@ -2868,6 +2898,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
@@ -3123,6 +3154,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Allow translating &amp;blank source segments</seg>
       </tuv>
@@ -3486,11 +3518,12 @@ No es carregarà el fitxer TMX.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T221001Z" creationid="Marc Riera" creationdate="20180221T115018Z">
-        <seg>Esteu segur que voleu suprimir el conjunt de regles de segmentació «{0}»?</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T150859Z" creationid="Marc Riera" creationdate="20180221T115018Z">
+        <seg>Segur que voleu suprimir el conjunt de regles de segmentació «{0}»?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3600,6 +3633,7 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
@@ -3859,6 +3893,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Bookmark &amp;references</seg>
       </tuv>
@@ -3891,11 +3926,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Break/Exception</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181110T001744Z" creationid="mgalo" creationdate="20181110T001744Z">
-        <seg>Salt/excepció</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T150707Z" creationid="mgalo" creationdate="20181110T001744Z">
+        <seg>Divisió/excepció</seg>
       </tuv>
     </tu>
     <tu>
@@ -4034,6 +4070,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>C&amp;harts</seg>
       </tuv>
@@ -4163,11 +4200,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Cannot reset the filter to default patterns.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114817Z" creationid="Marc Riera" creationdate="20180221T114817Z">
-        <seg>No es pot restablir el filtre amb els patrons per defecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T150227Z" creationid="Marc Riera" creationdate="20180221T114817Z">
+        <seg>No es pot restablir el filtre als patrons per defecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4637,6 +4675,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Code has been contributed by:
 {0}</seg>
@@ -4655,6 +4694,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Column Index must be equal to 1</seg>
       </tuv>
@@ -4923,6 +4963,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Confirm removal of pattern {0}</seg>
       </tuv>
@@ -6395,6 +6436,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Dra&amp;wings</seg>
       </tuv>
@@ -6443,6 +6485,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Duplicate Fallbac&amp;k Text</seg>
       </tuv>
@@ -6561,16 +6604,16 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       <tuv lang="en">
         <seg>Edit External Search Command</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T191845Z" creationid="mgalo" creationdate="20181112T110711Z">
-        <seg>Edita l'ordre de cerca externa</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T145157Z" creationid="mgalo" creationdate="20181112T110711Z">
+        <seg>Edició de l'ordre de cerca externa</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Edit External Search Item</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T221923Z" creationid="mgalo" creationdate="20181112T110157Z">
-        <seg>Edita l'element de cerca externa</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T145146Z" creationid="mgalo" creationdate="20181112T110157Z">
+        <seg>Edició de l'element de cerca externa</seg>
       </tuv>
     </tu>
     <tu>
@@ -6578,32 +6621,34 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       <tuv lang="en">
         <seg>Edit External Search URL</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T191852Z" creationid="mgalo" creationdate="20181112T110702Z">
-        <seg>Edita l'URL de cerca externa</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T145151Z" creationid="mgalo" creationdate="20181112T110702Z">
+        <seg>Edició de l'URL de cerca externa</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Edit Filter</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114810Z" creationid="Marc Riera" creationdate="20180221T114810Z">
-        <seg>Edita el filtre</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T144537Z" creationid="Marc Riera" creationdate="20180221T114810Z">
+        <seg>Edició del filtre</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Edit Filter Patterns</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T151519Z" creationid="Marc Riera" creationdate="20180221T114847Z">
-        <seg>Edita els patrons del filtre</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T144004Z" creationid="Marc Riera" creationdate="20180221T114847Z">
+        <seg>Editeu els patrons del filtre</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Edit Highlight Pattern</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230416Z" creationid="Marc Riera" creationdate="20200122T230416Z">
-        <seg>Edita el patró de ressaltat</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T144958Z" creationid="Marc Riera" creationdate="20200122T230416Z">
+        <seg>Edició del patró de ressaltat</seg>
       </tuv>
     </tu>
     <tu>
@@ -6619,8 +6664,8 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       <tuv lang="en">
         <seg>Edit Pattern</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114928Z" creationid="Marc Riera" creationdate="20180221T114928Z">
-        <seg>Edita el patró</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T144602Z" creationid="Marc Riera" creationdate="20180221T114928Z">
+        <seg>Edició del patró</seg>
       </tuv>
     </tu>
     <tu>
@@ -6628,16 +6673,16 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       <tuv lang="en">
         <seg>Edit Project</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223057Z" creationid="Marc Riera" creationdate="20180214T223057Z">
-        <seg>Edita el projecte</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T144554Z" creationid="Marc Riera" creationdate="20180214T223057Z">
+        <seg>Edició del projecte</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Edit Text</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T115436Z" creationid="mgalo" creationdate="20181112T115436Z">
-        <seg>Edita el text</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T144950Z" creationid="mgalo" creationdate="20181112T115436Z">
+        <seg>Edició del text</seg>
       </tuv>
     </tu>
     <tu>
@@ -6792,11 +6837,12 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Encountered illegal \u sequence</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224336Z" creationid="Marc Riera" creationdate="20180214T224336Z">
-        <seg>S'ha trobat una seqüència \u incorrecta</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T075155Z" creationid="Marc Riera" creationdate="20180214T224336Z">
+        <seg>S'ha trobat una seqüència \u no permesa</seg>
       </tuv>
     </tu>
     <tu>
@@ -7013,11 +7059,12 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error in file</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224505Z" creationid="Marc Riera" creationdate="20180214T224505Z">
-        <seg>Error al fitxer</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T091153Z" creationid="Marc Riera" creationdate="20180214T224505Z">
+        <seg>Error en el fitxer</seg>
       </tuv>
     </tu>
     <tu>
@@ -7030,6 +7077,7 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error initializing marker '{0}'</seg>
       </tuv>
@@ -7042,8 +7090,8 @@ ningú no sent els vostres crits.</seg>
       <tuv lang="en">
         <seg>Error load plugin from class '{0}': {1}: {2}</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224137Z" creationid="Marc Riera" creationdate="20180214T224137Z">
-        <seg>S'ha produït un error en carregar el connector des de la classe «{0}»: {1}: {2}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T074830Z" creationid="Marc Riera" creationdate="20180214T224137Z">
+        <seg>S'ha produït un error en carregar el connector de la classe «{0}»: {1}: {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7090,6 +7138,7 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error saving segmentation rules configuration:</seg>
       </tuv>
@@ -7120,8 +7169,8 @@ ningú no sent els vostres crits.</seg>
       <tuv lang="en">
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224139Z" creationid="Marc Riera" creationdate="20180214T224139Z">
-        <seg>S'ha produït un error en descarregar el connector des de la classe «{0}»: {1}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T074834Z" creationid="Marc Riera" creationdate="20180214T224139Z">
+        <seg>S'ha produït un error en descarregar el connector de la classe «{0}»: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7327,11 +7376,12 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Exceptions occurred while loading segmentation rules:</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181110T001555Z" creationid="mgalo" creationdate="20181110T001555Z">
-        <seg>S'ha produït una excepció en carregar les regles de segmentació:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T091958Z" creationid="mgalo" creationdate="20181110T001555Z">
+        <seg>S'han produït excepcions en carregar les regles de segmentació:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7433,6 +7483,7 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>External Lin&amp;ks</seg>
       </tuv>
@@ -7818,6 +7869,7 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Filename Variables:</seg>
       </tuv>
@@ -7851,11 +7903,12 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Filter '{0}' could not be loaded from '{1}'</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224146Z" creationid="Marc Riera" creationdate="20180214T224146Z">
-        <seg>No s'ha pogut carregar el filtre «{0}» des de «{1}»</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T141033Z" creationid="Marc Riera" creationdate="20180214T224146Z">
+        <seg>No s'ha pogut carregar el filtre «{0}» de «{1}»</seg>
       </tuv>
     </tu>
     <tu>
@@ -7980,6 +8033,7 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Foote&amp;rs</seg>
       </tuv>
@@ -8124,6 +8178,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Format:</seg>
       </tuv>
@@ -8591,8 +8646,8 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       <tuv lang="en">
         <seg>HTML and XHTML</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114947Z" creationid="Marc Riera" creationdate="20180221T114947Z">
-        <seg>Fitxers HTML i XHTML</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T092027Z" creationid="Marc Riera" creationdate="20180221T114947Z">
+        <seg>HTML i XHTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -8604,6 +8659,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>HTML, XHTML, ODF and Infix segmentation</seg>
       </tuv>
@@ -8663,6 +8719,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>He&amp;aders</seg>
       </tuv>
@@ -8727,11 +8784,12 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T110330Z" creationid="Marc Riera" creationdate="20180221T114825Z">
-        <seg>Aquí podeu configurar els patrons de noms de fitxer d'origen dels fitxers que processarà cada filtre, personalitzar el nom dels fitxers traduïts i seleccionar la codificació que s'utilitzarà per a carregar el fitxer i desar el respectiu fitxer traduït.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T151329Z" creationid="Marc Riera" creationdate="20180221T114825Z">
+        <seg>Aquí podeu configurar els patrons de noms de fitxer d'origen dels fitxers que processarà cada filtre, personalitzar el nom dels fitxers traduïts i seleccionar la codificació que s'utilitzarà per a carregar el fitxer i desar el fitxer traduït respectiu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8892,6 +8950,7 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>ILIAS Language File</seg>
       </tuv>
@@ -8934,11 +8993,12 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Identifier used for alternative translations</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181109T225918Z" creationid="mgalo" creationdate="20181109T225918Z">
-        <seg>Identificador per a traduccions alternatives</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T091222Z" creationid="mgalo" creationdate="20181109T225918Z">
+        <seg>Identificador per a les traduccions alternatives</seg>
       </tuv>
     </tu>
     <tu>
@@ -8954,6 +9014,7 @@ no cal introduir el camí complet.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
@@ -9059,11 +9120,12 @@ als valors per defecte com a resultat el canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If the filter has any options, you may change them by clicking Options.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114846Z" creationid="Marc Riera" creationdate="20180221T114846Z">
-        <seg>Si el filtre té opcions, podeu canviar-les fent clic a Opcions.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T144026Z" creationid="Marc Riera" creationdate="20180221T114846Z">
+        <seg>Si el filtre té opcions, podeu canviar-les fent clic a «Opcions».</seg>
       </tuv>
     </tu>
     <tu>
@@ -9264,11 +9326,12 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T224202Z" creationid="Marc Riera" creationdate="20191112T224202Z">
-        <seg>&amp;Ignora els atributs «type» i «ctype» en crear etiquetes reduïdes &lt;&amp;bpt&gt; i &lt;ept&gt;</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T143728Z" creationid="Marc Riera" creationdate="20191112T224202Z">
+        <seg>&amp;Ignora els atributs «type» i «ctype» en crear etiquetes &lt;&amp;bpt&gt; i &lt;ept&gt; reduïdes</seg>
       </tuv>
     </tu>
     <tu>
@@ -9765,6 +9828,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Invalid HTML file</seg>
       </tuv>
@@ -9773,6 +9837,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Invalid file format</seg>
       </tuv>
@@ -9961,6 +10026,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>It is used to mark your translations.</seg>
       </tuv>
@@ -10090,11 +10156,12 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>JGit (Eclipse Distribution License)</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181113T090255Z" creationid="mgalo" creationdate="20181113T090255Z">
-        <seg>JGit (Llicència Eclipse Distribution)</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T091832Z" creationid="mgalo" creationdate="20181113T090255Z">
+        <seg>JGit (Llicència de distribució d'Eclipse)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10134,6 +10201,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Java Resource Bundles Filter Options</seg>
       </tuv>
@@ -10158,11 +10226,12 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Java(TM) Resource Bundles</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224334Z" creationid="Marc Riera" creationdate="20180214T224334Z">
-        <seg>Paquets de recursos Java(TM)</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T075146Z" creationid="Marc Riera" creationdate="20180214T224334Z">
+        <seg>Paquets de recursos del Java(TM)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10269,6 +10338,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Key=Value Text</seg>
       </tuv>
@@ -10339,11 +10409,12 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>LaTeX</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224207Z" creationid="Marc Riera" creationdate="20180214T224207Z">
-        <seg>Fitxers LaTeX</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T141133Z" creationid="Marc Riera" creationdate="20180214T224207Z">
+        <seg>LaTeX</seg>
       </tuv>
     </tu>
     <tu>
@@ -10356,19 +10427,21 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Language Name</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181110T001647Z" creationid="mgalo" creationdate="20181110T001647Z">
-        <seg>Llengua</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T150346Z" creationid="mgalo" creationdate="20181110T001647Z">
+        <seg>Nom de la llengua</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Language Pattern</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181110T001716Z" creationid="mgalo" creationdate="20181110T001716Z">
-        <seg>Patró de llengua</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T150403Z" creationid="mgalo" creationdate="20181110T001716Z">
+        <seg>Patró de la llengua</seg>
       </tuv>
     </tu>
     <tu>
@@ -10721,14 +10794,16 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Line length:</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181109T224700Z" creationid="mgalo" creationdate="20181109T224700Z">
-        <seg>Llargada de línia:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T075131Z" creationid="mgalo" creationdate="20181109T224700Z">
+        <seg>Longitud de línia:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Links (&amp;URL)</seg>
       </tuv>
@@ -11015,6 +11090,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Magento CE Locale CSV</seg>
       </tuv>
@@ -11367,11 +11443,12 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Maximum line length:</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181109T224722Z" creationid="mgalo" creationdate="20181109T224722Z">
-        <seg>Llargada de línia màxima</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T075136Z" creationid="mgalo" creationdate="20181109T224722Z">
+        <seg>Longitud de línia màxima</seg>
       </tuv>
     </tu>
     <tu>
@@ -11460,7 +11537,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>&lt;status:needs-revision&gt;</note>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mine</seg>
       </tuv>
@@ -11591,6 +11668,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Monolingual</seg>
       </tuv>
@@ -11599,19 +11677,21 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Moodle PHP</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181218T202735Z" creationid="mgalo" creationdate="20181218T202735Z">
-        <seg>Moodle PHP</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T075348Z" creationid="mgalo" creationdate="20181218T202735Z">
+        <seg>PHP del Moodle</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Moodle PHP Filter Options</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T103259Z" creationid="mgalo" creationdate="20181218T202750Z">
-        <seg>Opcions del filtre Moodle PHP</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T075356Z" creationid="mgalo" creationdate="20181218T202750Z">
+        <seg>Opcions del filtre PHP del Moodle</seg>
       </tuv>
     </tu>
     <tu>
@@ -11715,11 +11795,12 @@ s'ha perdut al paradís.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Move Do&amp;wn</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T115009Z" creationid="Marc Riera" creationdate="20180221T115009Z">
-        <seg>Mou cap a&amp;vall</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T150823Z" creationid="Marc Riera" creationdate="20180221T115009Z">
+        <seg>Mou a&amp;vall</seg>
       </tuv>
     </tu>
     <tu>
@@ -11731,11 +11812,12 @@ s'ha perdut al paradís.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Move U&amp;p</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T115008Z" creationid="Marc Riera" creationdate="20180221T115008Z">
-        <seg>Mou ca&amp;p amunt</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T150819Z" creationid="Marc Riera" creationdate="20180221T115008Z">
+        <seg>Mou a&amp;munt</seg>
       </tuv>
     </tu>
     <tu>
@@ -11768,14 +11850,16 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mozilla DTD</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224243Z" creationid="Marc Riera" creationdate="20180214T224243Z">
-        <seg>Fitxers DTD de Mozilla</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T075309Z" creationid="Marc Riera" creationdate="20180214T224243Z">
+        <seg>DTD de Mozilla</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mozilla DTD Filter Options</seg>
       </tuv>
@@ -11784,6 +11868,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mozilla FTL</seg>
       </tuv>
@@ -11792,6 +11877,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mozilla FTL Filter Options</seg>
       </tuv>
@@ -11800,11 +11886,12 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mozilla Lang</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181110T001218Z" creationid="mgalo" creationdate="20181110T001218Z">
-        <seg>Mozilla Lang</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T142310Z" creationid="mgalo" creationdate="20181110T001218Z">
+        <seg>Lang de Mozilla</seg>
       </tuv>
     </tu>
     <tu>
@@ -11876,6 +11963,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>New Language and Country</seg>
       </tuv>
@@ -12160,6 +12248,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Non-visible Instruction Te&amp;xt</seg>
       </tuv>
@@ -12252,11 +12341,12 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T224020Z" creationid="Marc Riera" creationdate="20180214T224421Z">
-        <seg>Nota: Els fitxers DocBook no només es reconeixen a partir de l'extensió del fitxer, sinó que també han de tenir una declaració DOCTYPE: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... per al DocBook 4, o bé un espai de noms: xmlns="http://docbook.org/ns/docbook" per al DocBook 5</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T143119Z" creationid="Marc Riera" creationdate="20180214T224421Z">
+        <seg>Nota: Els fitxers DocBook es reconeixen no només per l'extensió del fitxer, sinó que també han de tenir una declaració DOCTYPE: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... per al DocBook 4, o bé una declaració Namespace: xmlns="http://docbook.org/ns/docbook" per al DocBook 5</seg>
       </tuv>
     </tu>
     <tu>
@@ -12276,6 +12366,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Note: not all filters allow you to select an encoding.</seg>
       </tuv>
@@ -12403,11 +12494,12 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>O&amp;ptions...</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T224544Z" creationid="Marc Riera" creationdate="20180221T114848Z">
-        <seg>&amp;Paràmetres...</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T143913Z" creationid="Marc Riera" creationdate="20180221T114848Z">
+        <seg>O&amp;pcions...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13085,11 +13177,12 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181109T235102Z" creationid="mgalo" creationdate="20181109T235102Z">
-        <seg>Només si el fitxer (X)HTML inclou una &amp;capçalera</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T151934Z" creationid="mgalo" creationdate="20181109T235102Z">
+        <seg>Només si el fitxer (X)HTML té una &amp;capçalera</seg>
       </tuv>
     </tu>
     <tu>
@@ -13259,6 +13352,7 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OpenDocument Filter Options</seg>
       </tuv>
@@ -13292,11 +13386,12 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Options to set the line length in target documents (0 = no limit)</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T110326Z" creationid="mgalo" creationdate="20181109T223906Z">
-        <seg>Opcions per a determinar la longitud de línia en els documents de destinació (0 = sense límit)</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T075227Z" creationid="mgalo" creationdate="20181109T223906Z">
+        <seg>Opcions per a determinar la longitud de línia en els documents de destinació (0=sense límit)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13367,6 +13462,7 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Other Options:</seg>
       </tuv>
@@ -13426,6 +13522,7 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>PDF Input</seg>
       </tuv>
@@ -13443,14 +13540,16 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>PO</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224208Z" creationid="Marc Riera" creationdate="20180214T224208Z">
-        <seg>Fitxers PO</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T141135Z" creationid="Marc Riera" creationdate="20180214T224208Z">
+        <seg>PO</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>PO Filter Options</seg>
       </tuv>
@@ -13513,11 +13612,12 @@ s'esvaeix com la boira.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Password-protected PDF files are not supported: {0}</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181109T131840Z" creationid="mgalo" creationdate="20181109T131840Z">
-        <seg>Els fitxers PDF protegits amb contrasenya no són admesos: {0}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T075531Z" creationid="mgalo" creationdate="20181109T131840Z">
+        <seg>Els fitxers PDF protegits amb contrasenya no són compatibles: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -13556,14 +13656,16 @@ s'esvaeix com la boira.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Pattern After</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181110T001759Z" creationid="mgalo" creationdate="20181110T001759Z">
-        <seg>Patró següent</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T150738Z" creationid="mgalo" creationdate="20181110T001759Z">
+        <seg>Patró posterior</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Pattern Before</seg>
       </tuv>
@@ -13751,6 +13853,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Please enter your name/ID.</seg>
       </tuv>
@@ -13986,11 +14089,12 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Preserve spaces &amp;for all tags</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T151555Z" creationid="Marc Riera" creationdate="20180221T114922Z">
-        <seg>Mantén e&amp;ls espais en totes les etiquetes</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T150239Z" creationid="Marc Riera" creationdate="20180221T114922Z">
+        <seg>Conserva e&amp;ls espais en totes les etiquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -14078,6 +14182,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Previous and &amp;next paragraphs</seg>
       </tuv>
@@ -14256,6 +14361,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Project Specific File Filters</seg>
       </tuv>
@@ -14264,6 +14370,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Project Specific Segmentation Setup</seg>
       </tuv>
@@ -14281,11 +14388,12 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Project autosaved on {0}</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114941Z" creationid="Marc Riera" creationdate="20180221T114941Z">
-        <seg>El projecte s'ha desat automàticament a les {0}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T150309Z" creationid="Marc Riera" creationdate="20180221T114941Z">
+        <seg>El projecte s'ha desat automàticament a les {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14534,11 +14642,12 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>QuarkXPress CopyFlow Gold</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224258Z" creationid="Marc Riera" creationdate="20180214T224258Z">
-        <seg>Fitxers del QuarkXPress CopyFlow Gold</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T075437Z" creationid="Marc Riera" creationdate="20180214T224258Z">
+        <seg>QuarkXPress CopyFlow Gold</seg>
       </tuv>
     </tu>
     <tu>
@@ -15435,11 +15544,12 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>S&amp;lide Comments</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181109T231624Z" creationid="mgalo" creationdate="20181109T231624Z">
-        <seg>Comentari&amp;s de diapositives</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T143758Z" creationid="mgalo" creationdate="20181109T231624Z">
+        <seg>Comentari&amp;s de les diapositives</seg>
       </tuv>
     </tu>
     <tu>
@@ -16078,6 +16188,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segment source text into paragraphs on:</seg>
       </tuv>
@@ -16104,6 +16215,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segmentation Setup</seg>
       </tuv>
@@ -16121,11 +16233,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segmentation rules are applied in the following order:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T213806Z" creationid="Marc Riera" creationdate="20180221T115017Z">
-        <seg>Les regles de segmentació s'apliquen en aquest ordre:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T151049Z" creationid="Marc Riera" creationdate="20180221T115017Z">
+        <seg>Les regles de segmentació s'apliquen en l'ordre següent:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16362,8 +16475,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Sequence Library (Sequence Library License)</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T151234Z" creationid="mgalo" creationdate="20181113T090223Z">
-        <seg>Sequence Library (llicència Sequence Library)</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T091838Z" creationid="mgalo" creationdate="20181113T090223Z">
+        <seg>Sequence Library (llicència de Sequence Library)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16471,6 +16584,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Sets of segmentation rules:</seg>
       </tuv>
@@ -16668,6 +16782,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Skip text matching regular expression:</seg>
       </tuv>
@@ -16702,11 +16817,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Slide La&amp;youts</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181109T231827Z" creationid="mgalo" creationdate="20181109T231827Z">
-        <seg>Dissen&amp;ys de diapositives</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T143809Z" creationid="mgalo" creationdate="20181109T231827Z">
+        <seg>Dissen&amp;ys de les diapositives</seg>
       </tuv>
     </tu>
     <tu>
@@ -16821,6 +16937,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Source File Encoding</seg>
       </tuv>
@@ -16829,6 +16946,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Source File Encoding:</seg>
       </tuv>
@@ -16837,6 +16955,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Source Filename Pattern</seg>
       </tuv>
@@ -16845,6 +16964,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Source Filename Pattern:</seg>
       </tuv>
@@ -16999,11 +17119,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224508Z" creationid="Marc Riera" creationdate="20180214T224508Z">
-        <seg>Indiqueu el comportament de la gestió d'etiquetes</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T091206Z" creationid="Marc Riera" creationdate="20180214T224508Z">
+        <seg>Indiqueu el comportament de la gestió de les etiquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -17094,8 +17215,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Split Text</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230408Z" creationid="Marc Riera" creationdate="20200122T230408Z">
-        <seg>Divideix el text</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T145125Z" creationid="Marc Riera" creationdate="20200122T230408Z">
+        <seg>Divisió del text</seg>
       </tuv>
     </tu>
     <tu>
@@ -17144,11 +17265,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214105Z" creationid="Marc Riera" creationdate="20191112T214105Z">
-        <seg>Inicia un paràgraf n&amp;ou als salts de línia suaus del Word</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T143836Z" creationid="Marc Riera" creationdate="20191112T214105Z">
+        <seg>Inicia un paràgraf n&amp;ou en els salts de línia suaus del Word</seg>
       </tuv>
     </tu>
     <tu>
@@ -17629,6 +17751,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Team Options</seg>
       </tuv>
@@ -17762,6 +17885,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Text Filter Options</seg>
       </tuv>
@@ -17799,6 +17923,7 @@ L'àmbit d'un reemplaçament de text són els segments de destinació del projec
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Text files segmentation</seg>
       </tuv>
@@ -17909,8 +18034,8 @@ la carpeta actual en el seu lloc.</seg>
       <tuv lang="en">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T154356Z" creationid="Marc Riera" creationdate="20180221T114555Z">
-        <seg>El filtre de paquets de recursosl de Java ha generat una excepció:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T075120Z" creationid="Marc Riera" creationdate="20180221T114555Z">
+        <seg>El filtre de paquets de recursos del Java ha generat una excepció:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17930,11 +18055,12 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T103249Z" creationid="mgalo" creationdate="20181218T202821Z">
-        <seg>El filtre PHP de Moodle ha generat una excepció:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T075404Z" creationid="mgalo" creationdate="20181218T202821Z">
+        <seg>El filtre PHP del Moodle ha generat una excepció:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17946,6 +18072,7 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
@@ -17954,6 +18081,7 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The Mozilla FTL filter threw an exception:</seg>
       </tuv>
@@ -18002,6 +18130,7 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
@@ -18221,11 +18350,12 @@ en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181111T224553Z" creationid="mgalo" creationdate="20181109T230905Z">
-        <seg>Les opcions següents no s'aplicaran si «Compatibilitat amb l'OmegaT 2.6» està activat</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T091554Z" creationid="mgalo" creationdate="20181109T230905Z">
+        <seg>Les opcions següents no s'aplicaran si s'ha marcat «Compatibilitat amb l'OmegaT 2.6»</seg>
       </tuv>
     </tu>
     <tu>
@@ -19019,6 +19149,7 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
       </tuv>
@@ -19099,8 +19230,8 @@ des del servidor.</seg>
       <tuv lang="en">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T125432Z" creationid="Alexandra" creationdate="20150526T124305Z">
-        <seg>Per obrir el manual des de l'OmegaT, només cal que seleccioneu Ajuda &gt; Manual d'usuari o premeu la tecla F1.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T144204Z" creationid="Alexandra" creationdate="20150526T124305Z">
+        <seg>Per obrir el manual des de l'OmegaT, només cal que seleccioneu «Ajuda &gt; Manual d'usuari» o premeu la tecla F1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19128,11 +19259,12 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T110339Z" creationid="Marc Riera" creationdate="20180221T114843Z">
-        <seg>Per a editar quins fitxers i quines codificacions processarà el filtre, seleccioneu un filtre de la llista i feu clic a Edita.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T145225Z" creationid="Marc Riera" creationdate="20180221T114843Z">
+        <seg>Per a editar quins fitxers i quines codificacions processarà el filtre, seleccioneu un filtre de la llista i feu clic a «Edita».</seg>
       </tuv>
     </tu>
     <tu>
@@ -19485,6 +19617,7 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translated File Encoding</seg>
       </tuv>
@@ -19493,6 +19626,7 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translated File Encoding:</seg>
       </tuv>
@@ -19501,6 +19635,7 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translated Filename Pattern</seg>
       </tuv>
@@ -19545,12 +19680,13 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215011Z" creationid="mgalo" creationdate="20181109T131707Z">
-        <seg>La ruta d'accés al fitxer traduït no pot ser idèntica a la del fitxer d'origen:
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T141112Z" creationid="mgalo" creationdate="20181109T131707Z">
+        <seg>El camí del fitxer traduït no pot ser idèntic al del fitxer d'origen:
 {0}</seg>
       </tuv>
     </tu>
@@ -19934,6 +20070,7 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
@@ -19984,6 +20121,7 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unable to save filters configuration file</seg>
       </tuv>
@@ -21097,6 +21235,7 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>When unavailable, the ID will be used as a fallback</seg>
       </tuv>
@@ -21246,11 +21385,12 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Windows Resources</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224241Z" creationid="Marc Riera" creationdate="20180214T224241Z">
-        <seg>Fitxers de recursos del Windows</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T075537Z" creationid="Marc Riera" creationdate="20180214T224241Z">
+        <seg>Recursos del Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -21492,11 +21632,12 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>XHTML Filter Options</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181110T001506Z" creationid="mgalo" creationdate="20181110T001506Z">
-        <seg>Opcions del filtre d'XHTML</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T091941Z" creationid="mgalo" creationdate="20181110T001506Z">
+        <seg>Opcions del filtre XHTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -21517,6 +21658,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>XLIFF Filter Options</seg>
       </tuv>
