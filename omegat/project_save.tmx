@@ -735,6 +735,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Leave the segment empty</seg>
       </tuv>
@@ -804,6 +805,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Minimal similarity:</seg>
       </tuv>
@@ -930,6 +932,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Prefix:</seg>
       </tuv>
@@ -1462,11 +1465,12 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;value (of form input, including button, submit and reset)</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T175037Z" creationid="Marc Riera" creationdate="20191113T175037Z">
-        <seg>&amp;value (en les entrades de tipus input, button, submit i reset dels formularis)</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T153036Z" creationid="Marc Riera" creationdate="20191113T175037Z">
+        <seg>&amp;value (en les entrades del tipus button, submit i reset dels formularis)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4920,6 +4924,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
@@ -6165,6 +6170,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
@@ -6173,11 +6179,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Do not translate the content of tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T224750Z" creationid="Marc Riera" creationdate="20191112T224750Z">
-        <seg>No tradueixis l'atribut de contingut de les etiquetes amb els parells de clau-valor d'atribut següents (separats per comes):</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T152617Z" creationid="Marc Riera" creationdate="20191112T224750Z">
+        <seg>No tradueixis el contingut de les etiquetes amb els parells de clau-valor d'atribut següents (separats per comes):</seg>
       </tuv>
     </tu>
     <tu>
@@ -7359,6 +7366,7 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Exception while editing options:</seg>
       </tuv>
@@ -8634,6 +8642,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>HTML Help Compiler</seg>
       </tuv>
@@ -9033,6 +9042,7 @@ no cal introduir el camí complet.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
       </tuv>
@@ -9648,6 +9658,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Insert the &amp;best fuzzy match</seg>
       </tuv>
@@ -9656,6 +9667,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Insert the &amp;source text</seg>
       </tuv>
@@ -12333,11 +12345,12 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181113T091836Z" creationid="mgalo" creationdate="20181113T091606Z">
-        <seg>Nota: Tots els conjunts de regles de segmentació que coincideixin amb un patró de llengua s'aplicaran en l'ordre establert.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T153122Z" creationid="mgalo" creationdate="20181113T091606Z">
+        <seg>Nota: tots els conjunts de regles de segmentació que coincideixin amb un patró de llengua s'aplicaran en l'ordre establert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12350,19 +12363,21 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215015Z" creationid="mgalo" creationdate="20181115T221815Z">
-        <seg>Nota: Els paràmetres de codificació dels fitxers d'origen afecten només els fitxers HHC i HHK que no contenen cap declaració de codificació.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T152406Z" creationid="mgalo" creationdate="20181115T221815Z">
+        <seg>Nota: els paràmetres de codificació dels fitxers d'origen afecten només els fitxers HHC i HHK que no contenen cap declaració de codificació.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215015Z" creationid="mgalo" creationdate="20181109T234724Z">
-        <seg>Nota: Els paràmetres de codificació dels arxius d'origen afecten només als fitxers que no contenen cap declaració de codificació.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T152506Z" creationid="mgalo" creationdate="20181109T234724Z">
+        <seg>Nota: els paràmetres de codificació dels fitxers d'origen afecten només els fitxers HTML que no contenen cap declaració de codificació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13186,6 +13201,7 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
       </tuv>
@@ -13936,11 +13952,12 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T115035Z" creationid="Marc Riera" creationdate="20180221T115035Z">
-        <seg>Seleccioneu quin text voleu que s'insereixi en activar un segment que encara no heu traduït.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T153225Z" creationid="Marc Riera" creationdate="20180221T115035Z">
+        <seg>Seleccioneu quin text voleu que s'insereixi en obrir un segment que encara no heu traduït.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18860,11 +18877,12 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T175343Z" creationid="mgalo" creationdate="20181113T092330Z">
-        <seg>Per tant, si en un projecte la llengua d'origen és el francès del Canadà, s'aplicaran totes les regles definides per a la cadena de llengües en l'ordre corresponent.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T153205Z" creationid="mgalo" creationdate="20181113T092330Z">
+        <seg>Per tant, si en un projecte la llengua d'origen és el francès del Canadà, s'aplicaran totes les regles definides per a la cadena de llengües en l'ordre correcte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19200,11 +19218,12 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T175312Z" creationid="mgalo" creationdate="20181113T092010Z">
-        <seg>Així doncs, per exemple, les regles per al francès del Canadà (FR-CA) haurien de prevaldre per sobre de les regles del francès (FR.*) i per sobre de les predeterminades (.*).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T153140Z" creationid="mgalo" creationdate="20181113T092010Z">
+        <seg>Així doncs, per exemple, les regles per al francès del Canadà (FR-CA) haurien de prevaldre per sobre de les regles del francès (FR.*) i per sobre de les regles per defecte (.*).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19600,6 +19619,7 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translate the following attributes:</seg>
       </tuv>
@@ -22172,6 +22192,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>[fuzzy]</seg>
       </tuv>
@@ -22543,6 +22564,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>h&amp;reflang (language of links)</seg>
       </tuv>
@@ -22551,6 +22573,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>href (URL of &amp;links)</seg>
       </tuv>
@@ -22738,6 +22761,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>lan&amp;g (language attribute)</seg>
       </tuv>
@@ -22816,6 +22840,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>src (URL of &amp;images)</seg>
       </tuv>
@@ -22891,11 +22916,12 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>value (of button, &amp;submit and reset input)</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T175107Z" creationid="Marc Riera" creationdate="20191113T175107Z">
-        <seg>value (en les entrades de tipus button, &amp;submit i reset)</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T153012Z" creationid="Marc Riera" creationdate="20191113T175107Z">
+        <seg>value (en les entrades del tipus button, &amp;submit i reset)</seg>
       </tuv>
     </tu>
     <tu>
