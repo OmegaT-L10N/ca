@@ -195,6 +195,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Automatically fetch translations</seg>
       </tuv>
@@ -1657,6 +1658,7 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>,</seg>
       </tuv>
@@ -2696,6 +2698,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>ASCII Only</seg>
       </tuv>
@@ -4588,11 +4591,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Clear</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T223218Z" creationid="Marc Riera" creationdate="20191110T223218Z">
-        <seg>Neteja</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T173355Z" creationid="Marc Riera" creationdate="20191110T223218Z">
+        <seg>Esborra</seg>
       </tuv>
     </tu>
     <tu>
@@ -4725,38 +4729,43 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Command delimiter is empty</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225118Z" creationid="Marc Riera" creationdate="20191110T222650Z">
-        <seg>El separador de l'ordre està buit.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T173635Z" creationid="Marc Riera" creationdate="20191110T222650Z">
+        <seg>El separador de l'ordre és buit.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Command does not contain "{0}"</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T111331Z" creationid="Marc Riera" creationdate="20190521T111331Z">
-        <seg>L'ordre no conté «{0}»</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T173533Z" creationid="Marc Riera" creationdate="20190521T111331Z">
+        <seg>L'ordre no conté «{0}».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Command is missing command string</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T071354Z" creationid="Marc Riera" creationdate="20191113T071354Z">
-        <seg>L'ordre no té la cadena d'ordre</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T173503Z" creationid="Marc Riera" creationdate="20191113T071354Z">
+        <seg>L'ordre no té la cadena d'ordre.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Command is missing delimiter</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225122Z" creationid="Marc Riera" creationdate="20191110T222604Z">
-        <seg>L'ordre no conté el separador.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T173550Z" creationid="Marc Riera" creationdate="20191110T222604Z">
+        <seg>L'ordre no té el separador.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Command is missing encoding</seg>
       </tuv>
@@ -4765,11 +4774,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Command is missing target</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T223033Z" creationid="Marc Riera" creationdate="20191110T223033Z">
-        <seg>L'ordre no conté la destinació.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T173541Z" creationid="Marc Riera" creationdate="20191110T223033Z">
+        <seg>L'ordre no té la destinació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5099,11 +5109,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Context Menu Priority:</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T110309Z" creationid="mgalo" creationdate="20181112T110127Z">
-        <seg>Prioritat en el menú contextual</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T173824Z" creationid="mgalo" creationdate="20181112T110127Z">
+        <seg>Prioritat en el menú contextual:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6800,11 +6811,12 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Enable project-specific commands</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T105922Z" creationid="mgalo" creationdate="20181112T105802Z">
-        <seg>Habilita les ordres per a projectes concrets</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T173819Z" creationid="mgalo" creationdate="20181112T105802Z">
+        <seg>Habilita les ordres específiques dels projectes</seg>
       </tuv>
     </tu>
     <tu>
@@ -7544,6 +7556,7 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>External Search</seg>
       </tuv>
@@ -10167,6 +10180,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Items</seg>
       </tuv>
@@ -12228,6 +12242,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Non-ASCII Only</seg>
       </tuv>
@@ -12749,11 +12764,12 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T114540Z" creationid="Marc Riera" creationdate="20190924T114540Z">
-        <seg>L'OmegaT xifra les contrasenyes i claus API sensibles amb una contrasenya mestra.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T173329Z" creationid="Marc Riera" creationdate="20190924T114540Z">
+        <seg>L'OmegaT xifra les contrasenyes i les claus API confidencials amb una contrasenya mestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14402,6 +14418,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Project Specific External Search</seg>
       </tuv>
@@ -14454,6 +14471,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Project commands are disabled for security reasons.</seg>
       </tuv>
@@ -15448,6 +15466,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Restore &amp;Defaults</seg>
       </tuv>
@@ -16668,11 +16687,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Shortcut</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T103401Z" creationid="mgalo" creationdate="20181112T103401Z">
-        <seg>Drecera de teclat</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T173758Z" creationid="mgalo" creationdate="20181112T103401Z">
+        <seg>Drecera del teclat</seg>
       </tuv>
     </tu>
     <tu>
@@ -17164,6 +17184,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
@@ -17413,6 +17434,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Summary</seg>
       </tuv>
@@ -20024,22 +20046,25 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>URL does not contain "{0}"</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T111312Z" creationid="Marc Riera" creationdate="20190521T111312Z">
-        <seg>L'URL no conté «{0}»</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T173449Z" creationid="Marc Riera" creationdate="20190521T111312Z">
+        <seg>L'URL no conté «{0}».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>URL is missing URL string</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T071342Z" creationid="Marc Riera" creationdate="20191113T071342Z">
-        <seg>L'URL no té la cadena d'URL</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T173447Z" creationid="Marc Riera" creationdate="20191113T071342Z">
+        <seg>L'URL no té la cadena d'URL.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>URL is missing encoding</seg>
       </tuv>
@@ -20048,11 +20073,12 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>URL is missing target</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T223039Z" creationid="Marc Riera" creationdate="20191110T222905Z">
-        <seg>L'URL no conté la destinació.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T173518Z" creationid="Marc Riera" creationdate="20191110T222905Z">
+        <seg>L'URL no té la destinació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20479,6 +20505,7 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Untranslated segments &amp;only</seg>
       </tuv>
@@ -23053,6 +23080,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>{0} x{1}</seg>
       </tuv>
@@ -23317,6 +23345,7 @@ creï la carpeta de configuració.</seg>
     <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">EXTERNALFINDER_ENCODING_ESCAPE</prop>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Escape</seg>
       </tuv>
@@ -23353,18 +23382,19 @@ creï la carpeta de configuració.</seg>
       <tuv lang="en">
         <seg>Item name is empty or missing</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T210838Z" creationid="Marc Riera" creationdate="20200121T210838Z">
-        <seg>El nom de l'element està buit o no s'ha definit</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T173722Z" creationid="Marc Riera" creationdate="20200121T210838Z">
+        <seg>El nom de l'element és buit o no s'ha definit</seg>
       </tuv>
     </tu>
     <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">EXTERNALFINDER_ITEM_ERROR_NOSCOPE</prop>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Item is missing scope</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T210945Z" creationid="Marc Riera" creationdate="20200121T210945Z">
-        <seg>L'element no té cap àmbit</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T173446Z" creationid="Marc Riera" creationdate="20200121T210945Z">
+        <seg>L'element no té cap àmbit.</seg>
       </tuv>
     </tu>
     <tu>
