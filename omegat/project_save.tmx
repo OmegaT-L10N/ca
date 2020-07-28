@@ -5302,6 +5302,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
       </tuv>
@@ -6170,11 +6171,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Do not allow creating translated documents with tag &amp;issues</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T122619Z" creationid="mgalo" creationdate="20181112T090046Z">
-        <seg>&amp;No permetis que es generin documents traduïts amb errades d'etiquetes</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T170634Z" creationid="mgalo" creationdate="20181112T090046Z">
+        <seg>&amp;No permetis la creació de documents traduïts amb errors d'etiquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -6625,6 +6627,7 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Edit External Search Item</seg>
       </tuv>
@@ -18234,6 +18237,7 @@ Proveu de corregir l'error i torneu a carregar el projecte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
@@ -18290,6 +18294,7 @@ Proveu de corregir l'error i torneu a carregar el projecte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
@@ -21146,11 +21151,12 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Warning: Changing tag order may break the translated document!</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T090154Z" creationid="mgalo" creationdate="20181112T090001Z">
-        <seg>Avís: El canvi d'ordre de les etiquetes podria originar errors en el document traduït.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T170612Z" creationid="mgalo" creationdate="20181112T090001Z">
+        <seg>Avís: el canvi d'ordre de les etiquetes podria generar errors en el document traduït!</seg>
       </tuv>
     </tu>
     <tu>
