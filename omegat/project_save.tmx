@@ -371,11 +371,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Do not check printf-variables</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T223547Z" creationid="mgalo" creationdate="20181115T223547Z">
-        <seg>&amp;No comprovis les variables del tipus «printf».</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200729T161835Z" creationid="mgalo" creationdate="20181115T223547Z">
+        <seg>&amp;No comprovis les variables de «printf».</seg>
       </tuv>
     </tu>
     <tu>
@@ -4343,11 +4344,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T223718Z" creationid="mgalo" creationdate="20181115T223718Z">
-        <seg>Comprova &amp;totes les variables «printf» (ex.: «%s», «%-s»).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200729T161928Z" creationid="mgalo" creationdate="20181115T223718Z">
+        <seg>Comprova &amp;totes les variables de «printf» (p. ex.: «%s», «%-s»).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4360,11 +4362,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T223641Z" creationid="mgalo" creationdate="20181115T223641Z">
-        <seg>Comprova les variables «printf» &amp;simples (ex.: «%s», «%d»).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200729T161910Z" creationid="mgalo" creationdate="20181115T223641Z">
+        <seg>Comprova les variables de «printf» &amp;senzilles (p. ex.: «%s», «%d»).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4473,11 +4476,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0})</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T223846Z" creationid="mgalo" creationdate="20181115T223846Z">
-        <seg>Comprova els patrons MessageFormat de &amp;java simples (ex.: {0}).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200729T162010Z" creationid="mgalo" creationdate="20181115T223846Z">
+        <seg>Comprova els patrons de MessageFormat del &amp;Java senzills (p. ex.: {0}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6152,6 +6156,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Displays the translation memories segments that match the source segment.</seg>
       </tuv>
@@ -8316,6 +8321,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Full checking can lead to false positives in normal texts.</seg>
       </tuv>
@@ -14010,6 +14016,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Please select which behaviour is appropriate.</seg>
       </tuv>
