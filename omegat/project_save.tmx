@@ -701,6 +701,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Jump To Segment</seg>
       </tuv>
@@ -1014,6 +1015,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Refresh</seg>
       </tuv>
@@ -1242,6 +1244,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Show All</seg>
       </tuv>
@@ -2356,6 +2359,7 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;html&gt;Place the caret at the location where you want to split the text.&lt;/html&gt;</seg>
       </tuv>
@@ -3288,11 +3292,12 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>An error occurred when saving the TMX.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T115331Z" creationid="mgalo" creationdate="20181112T115331Z">
-        <seg>S'ha produït un error en guardar la memòria en TMX.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T152433Z" creationid="mgalo" creationdate="20181112T115331Z">
+        <seg>S'ha produït un error en desar el fitxerTMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3459,11 +3464,12 @@ No es carregarà el fitxer TMX.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>An item of the name "{0}" already exists at this location.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T115253Z" creationid="mgalo" creationdate="20181112T115253Z">
-        <seg>Ja existex un element amb el nom «{0}» en aquesta ubicació.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T152412Z" creationid="mgalo" creationdate="20181112T115253Z">
+        <seg>Ja existeix un element amb el nom «{0}» en aquesta ubicació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3553,6 +3559,7 @@ No es carregarà el fitxer TMX.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Apply &amp;Fix</seg>
       </tuv>
@@ -4182,6 +4189,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Cancel Pinpoint Align</seg>
       </tuv>
@@ -4323,6 +4331,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Character</seg>
       </tuv>
@@ -4645,6 +4654,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Clear Mark</seg>
       </tuv>
@@ -5178,6 +5188,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Continue anyway?</seg>
       </tuv>
@@ -5186,6 +5197,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Continue?</seg>
       </tuv>
@@ -6306,6 +6318,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Do you want to overwrite it?</seg>
       </tuv>
@@ -6746,6 +6759,7 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Edit Highlight Pattern</seg>
       </tuv>
@@ -6780,6 +6794,7 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Edit Text</seg>
       </tuv>
@@ -6949,6 +6964,7 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>End Pinpoint Align</seg>
       </tuv>
@@ -8322,6 +8338,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Forward-Backward</seg>
       </tuv>
@@ -8947,6 +8964,7 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Highlight</seg>
       </tuv>
@@ -10040,6 +10058,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Issues</seg>
       </tuv>
@@ -10048,6 +10067,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Issues ({0} of {1})</seg>
       </tuv>
@@ -10056,6 +10076,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Issues ({0})</seg>
       </tuv>
@@ -10064,6 +10085,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Issues for {0} ({1} of {2})</seg>
       </tuv>
@@ -10072,6 +10094,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Issues for {0} ({1})</seg>
       </tuv>
@@ -10432,19 +10455,21 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Keep</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T164104Z" creationid="mgalo" creationdate="20181118T170546Z">
-        <seg>Mantén</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T152401Z" creationid="mgalo" creationdate="20181118T170546Z">
+        <seg>Conserva</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Keep All</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T113607Z" creationid="mgalo" creationdate="20181112T113607Z">
-        <seg>Mantingues-los tots</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T152148Z" creationid="mgalo" creationdate="20181112T113607Z">
+        <seg>Conserva'ls tots</seg>
       </tuv>
     </tu>
     <tu>
@@ -10457,11 +10482,12 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Keep None</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T113612Z" creationid="mgalo" creationdate="20181112T113612Z">
-        <seg>No en mantinguis cap</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T152155Z" creationid="mgalo" creationdate="20181112T113612Z">
+        <seg>No en conservis cap</seg>
       </tuv>
     </tu>
     <tu>
@@ -11396,6 +11422,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mark Accepted</seg>
       </tuv>
@@ -11420,6 +11447,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mark Needs Review</seg>
       </tuv>
@@ -12252,11 +12280,12 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>No Issues Found</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T122552Z" creationid="Marc Riera" creationdate="20190520T122552Z">
-        <seg>No s'han trobat errors</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T152546Z" creationid="Marc Riera" creationdate="20190520T122552Z">
+        <seg>No s'ha trobat cap error</seg>
       </tuv>
     </tu>
     <tu>
@@ -12448,6 +12477,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Normal</seg>
       </tuv>
@@ -13874,6 +13904,7 @@ s'esvaeix com la boira.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Pattern...</seg>
       </tuv>
@@ -13908,6 +13939,7 @@ s'esvaeix com la boira.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Pinpoint Align: Select corresponding cell</seg>
       </tuv>
@@ -14214,6 +14246,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Poisson</seg>
       </tuv>
@@ -14977,6 +15010,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Realign Pending</seg>
       </tuv>
@@ -15918,6 +15952,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Save Alignment Results</seg>
       </tuv>
@@ -15962,6 +15997,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Save changes to filter settings?</seg>
       </tuv>
@@ -15970,6 +16006,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Save changes to segmentation rules?</seg>
       </tuv>
@@ -17099,6 +17136,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Some alignments still need review.</seg>
       </tuv>
@@ -17471,6 +17509,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Split Text</seg>
       </tuv>
@@ -17516,6 +17555,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Start Pinpoint Align</seg>
       </tuv>
@@ -17569,19 +17609,21 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Step 1: Adjust alignment parameters</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T115208Z" creationid="mgalo" creationdate="20181112T115208Z">
-        <seg>Pas 1: Ajusteu els paràmetres de l'alineació</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T152347Z" creationid="mgalo" creationdate="20181112T115208Z">
+        <seg>Pas 1: ajusteu els paràmetres de l'alineació</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Step 2: Make manual corrections</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T115220Z" creationid="mgalo" creationdate="20181112T115220Z">
-        <seg>Pas 2: Feu les correccions manuals necessàries</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T152352Z" creationid="mgalo" creationdate="20181112T115220Z">
+        <seg>Pas 2: feu les correccions manuals necessàries</seg>
       </tuv>
     </tu>
     <tu>
@@ -17905,6 +17947,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Tags</seg>
       </tuv>
@@ -19496,6 +19539,7 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This will discard all changes you have made so far.</seg>
       </tuv>
@@ -19711,11 +19755,12 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Toggle Selected</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T181018Z" creationid="Marc Riera" creationdate="20191113T181018Z">
-        <seg>Commuta la selecció</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T152201Z" creationid="Marc Riera" creationdate="20191113T181018Z">
+        <seg>Canvia la selecció</seg>
       </tuv>
     </tu>
     <tu>
@@ -21358,6 +21403,7 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Viterbi</seg>
       </tuv>
@@ -21777,6 +21823,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Word</seg>
       </tuv>
@@ -23469,6 +23516,7 @@ creï la carpeta de configuració.</seg>
     <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">ALIGNER_ENUM_COMPARISON_MODE_HEAPWISE</prop>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Heapwise</seg>
       </tuv>
@@ -23479,6 +23527,7 @@ creï la carpeta de configuració.</seg>
     <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">ALIGNER_ENUM_COMPARISON_MODE_PARSEWISE</prop>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Parsewise</seg>
       </tuv>
@@ -23522,6 +23571,7 @@ creï la carpeta de configuració.</seg>
     <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">ALIGNER_MENU_VIEW_HIGHLIGHTPATTERN</prop>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Highlight Pattern...</seg>
       </tuv>
