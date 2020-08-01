@@ -187,6 +187,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Automatically check the spelling of text</seg>
       </tuv>
@@ -690,6 +691,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Install new dictionary...</seg>
       </tuv>
@@ -1289,6 +1291,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Source (segment {0}):</seg>
       </tuv>
@@ -3290,6 +3293,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>An error occurred while downloading the dictionary.</seg>
       </tuv>
@@ -5014,11 +5018,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Confirm uninstalling</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T153617Z" creationid="mgalo" creationdate="20181112T093511Z">
-        <seg>Confirmeu la desinstal·lació</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T082112Z" creationid="mgalo" creationdate="20181112T093511Z">
+        <seg>Confirmació de la desinstal·lació</seg>
       </tuv>
     </tu>
     <tu>
@@ -5913,6 +5918,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Dictionary File Folder</seg>
       </tuv>
@@ -5948,6 +5954,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Dictionary file folder:</seg>
       </tuv>
@@ -6962,11 +6969,12 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225834Z" creationid="Marc Riera" creationdate="20191112T225834Z">
-        <seg>Assegureu-vos que esteu indicant la versió de l'API correcta (l'URL ha d'incloure «/v2/»).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T082352Z" creationid="Marc Riera" creationdate="20191112T225834Z">
+        <seg>Assegureu-vos d'indicar la versió de l'API correcta (l'URL ha d'incloure «/v2/»).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10556,6 +10564,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>LanguageTool API version mismatch</seg>
       </tuv>
@@ -10686,6 +10695,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>LanguageTool: bad local path</seg>
       </tuv>
@@ -10694,6 +10704,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>LanguageTool: local port is unavailable</seg>
       </tuv>
@@ -10702,6 +10713,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>LanguageTool: server returned XML when JSON was expected.</seg>
       </tuv>
@@ -12187,6 +12199,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>No Suggestions</seg>
       </tuv>
@@ -12229,11 +12242,12 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>No need to save project, because no changes were made</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T092903Z" creationid="mgalo" creationdate="20181112T092903Z">
-        <seg>No cal desar el projecte perquè no s'hi ha produït cap canvi</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T082235Z" creationid="mgalo" creationdate="20181112T092903Z">
+        <seg>No cal desar el projecte perquè no s'hi ha fet cap canvi</seg>
       </tuv>
     </tu>
     <tu>
@@ -14506,6 +14520,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Project closed</seg>
       </tuv>
@@ -17271,6 +17286,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Spellchecker Setup</seg>
       </tuv>
@@ -18857,11 +18873,12 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The specified dictionary folder does not exist.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T222126Z" creationid="mgalo" creationdate="20181112T222054Z">
-        <seg>La carpeta dels diccionaris que heu especificat no existeix.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T082302Z" creationid="mgalo" creationdate="20181112T222054Z">
+        <seg>La carpeta de diccionaris que heu especificat no existeix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20131,11 +20148,12 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>URL of online dictionaries:</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T093335Z" creationid="mgalo" creationdate="20181112T093335Z">
-        <seg>URL de diccionaris en línia:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T082019Z" creationid="mgalo" creationdate="20181112T093335Z">
+        <seg>URL dels diccionaris en línia:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21910,11 +21928,12 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T093449Z" creationid="mgalo" creationdate="20181112T093449Z">
-        <seg>Esteu intentant desinstal·lar el diccionari actiu del projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T082057Z" creationid="mgalo" creationdate="20181112T093449Z">
+        <seg>Esteu intentant desinstal·lar el diccionari de correcció ortogràfica que utilitza el projecte actual.</seg>
       </tuv>
     </tu>
     <tu>
