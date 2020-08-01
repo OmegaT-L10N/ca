@@ -209,8 +209,8 @@
       <tuv lang="en">
         <seg>&amp;Automatically search segment text in dictionary</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T204824Z" creationid="Marc Riera" creationdate="20191110T204824Z">
-        <seg>Cerca &amp;automàticament el text del segment al diccionari</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083511Z" creationid="Marc Riera" creationdate="20191110T204824Z">
+        <seg>Cerca &amp;automàticament el text del segment en el diccionari</seg>
       </tuv>
     </tu>
     <tu>
@@ -267,6 +267,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Built-in (LanguageTool {0})</seg>
       </tuv>
@@ -734,11 +735,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Launch local server</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181118T170153Z" creationid="mgalo" creationdate="20181118T170153Z">
-        <seg>&amp;Executa el servidor local</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T082912Z" creationid="mgalo" creationdate="20181118T170153Z">
+        <seg>&amp;Executa un servidor local</seg>
       </tuv>
     </tu>
     <tu>
@@ -1134,6 +1136,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Run</seg>
       </tuv>
@@ -1747,9 +1750,9 @@ per a editar-lo com a projecte en equip.)</seg>
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T234534Z" creationid="Marc Riera" creationdate="20191112T215938Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083214Z" creationid="Marc Riera" creationdate="20191112T215938Z">
         <seg>--disable-location-save
-		No recordis l'últim directori obert al selector de fitxers.</seg>
+		No recordis l'últim directori obert en el selector de fitxers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4173,11 +4176,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T175703Z" creationid="Marc Riera" creationdate="20191113T175703Z">
-        <seg>«Cancel·la» només funciona als scripts que comproven explícitament una cancel·lació.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083128Z" creationid="Marc Riera" creationdate="20191113T175703Z">
+        <seg>«Cancel·la» només funciona en els scripts que comproven explícitament la cancel·lació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4392,8 +4396,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191208T155229Z" creationid="mgalo" creationdate="20181108T150454Z">
-        <seg>Comprova si hi ha errors al document a&amp;ctual</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083523Z" creationid="mgalo" creationdate="20181108T150454Z">
+        <seg>Comprova si hi ha errors en el document a&amp;ctual</seg>
       </tuv>
     </tu>
     <tu>
@@ -7140,8 +7144,8 @@ ningú no sent els vostres crits.</seg>
       <tuv lang="en">
         <seg>Error in file {0}, line {1}</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224418Z" creationid="Marc Riera" creationdate="20180214T224418Z">
-        <seg>Error al fitxer {0}, línia {1}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083606Z" creationid="Marc Riera" creationdate="20180214T224418Z">
+        <seg>Error en el fitxer {0}, línia {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9837,8 +9841,8 @@ feu clic en la drecera.</seg>
       <tuv lang="en">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213203Z" creationid="Marc Riera" creationdate="20180210T213203Z">
-        <seg>Instal·lació i execució de l'OmegaT» al Manual d'usuari.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083224Z" creationid="Marc Riera" creationdate="20180210T213203Z">
+        <seg>Instal·lació i execució de l'OmegaT» en el Manual d'usuari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11854,10 +11858,10 @@ durant la primera execució.</seg>
 404 not with us now
 Lost to paradise</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T191644Z" creationid="Marc Riera" creationdate="20200121T191644Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083436Z" creationid="Marc Riera" creationdate="20200121T191644Z">
         <seg>Dol i malenconia,
 404, ens ha deixat;
-s'ha perdut al paradís.</seg>
+s'ha perdut en el paradís.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12074,11 +12078,12 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>New LanguageTool rule</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T224454Z" creationid="mgalo" creationdate="20181115T224454Z">
-        <seg>Nova regla del LanguageTool</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T082822Z" creationid="mgalo" creationdate="20181115T224454Z">
+        <seg>Regla nova del LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -13591,8 +13596,8 @@ Runtime Environment (JRE) al sistema.</seg>
       <tuv lang="en">
         <seg>Other contributions are detailed in the readme.txt file</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181118T100716Z" creationid="Marc Riera" creationdate="20180221T114657Z">
-        <seg>La resta de col·laboracions es detallen al fitxer «readme.txt».</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083622Z" creationid="Marc Riera" creationdate="20180221T114657Z">
+        <seg>La resta de col·laboracions es detallen en el fitxer «readme.txt».</seg>
       </tuv>
     </tu>
     <tu>
@@ -15619,11 +15624,12 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T094350Z" creationid="mgalo" creationdate="20181112T094350Z">
-        <seg>La ID només pot contenir lletres de l'alfabet llatí, barres baixes o punts.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083023Z" creationid="mgalo" creationdate="20181112T094350Z">
+        <seg>L'ID només pot contenir lletres de l'alfabet llatí, guions baixos i punts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15962,6 +15968,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Script &amp;Language</seg>
       </tuv>
@@ -19159,11 +19166,12 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This ID is already being used.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T094408Z" creationid="mgalo" creationdate="20181112T094408Z">
-        <seg>Aquesta ID ja està en ús.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T082947Z" creationid="mgalo" creationdate="20181112T094408Z">
+        <seg>Aquest ID ja està en ús.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20040,11 +20048,12 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Type in new rule ID</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T094102Z" creationid="mgalo" creationdate="20181112T094102Z">
-        <seg>Teclegeu la ID de la nova regla</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T082748Z" creationid="mgalo" creationdate="20181112T094102Z">
+        <seg>Escriviu l'ID de la regla nova</seg>
       </tuv>
     </tu>
     <tu>
@@ -22044,8 +22053,8 @@ d'allà.</seg>
         <seg>You can find detailed statistic information in the file:
 {0}</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T144034Z" creationid="Marc Riera" creationdate="20180221T112131Z">
-        <seg>Podeu veure informació estadística detallada al fitxer:
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083451Z" creationid="Marc Riera" creationdate="20180221T112131Z">
+        <seg>Podeu veure informació estadística detallada en el fitxer:
 {0}</seg>
       </tuv>
     </tu>
