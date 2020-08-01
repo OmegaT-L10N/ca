@@ -163,6 +163,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Apply to all</seg>
       </tuv>
@@ -2345,6 +2346,7 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
@@ -2849,6 +2851,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Active segment source</seg>
       </tuv>
@@ -2857,6 +2860,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Active segment source text</seg>
       </tuv>
@@ -2865,6 +2869,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Active segment target</seg>
       </tuv>
@@ -2873,6 +2878,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Active segment target text</seg>
       </tuv>
@@ -3336,6 +3342,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>An error occurred while opening the item.</seg>
       </tuv>
@@ -3441,11 +3448,12 @@ No es carregarà el fitxer TMX.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>An existing translation was changed to something different from what you chose.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T223358Z" creationid="Marc Riera" creationdate="20200121T223358Z">
-        <seg>S'ha canviat una traducció existent a una de diferent de la que heu triat.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T162046Z" creationid="Marc Riera" creationdate="20200121T223358Z">
+        <seg>S'ha canviat una traducció existent per una de diferent a la que heu triat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3473,6 +3481,7 @@ No es carregarà el fitxer TMX.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
@@ -3951,6 +3960,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Bidirectional control characters</seg>
       </tuv>
@@ -5711,6 +5721,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Custom Colours Selection</seg>
       </tuv>
@@ -6361,6 +6372,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Do you want to replace it with the one you're moving?</seg>
       </tuv>
@@ -8415,6 +8427,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>From 100% memory</seg>
       </tuv>
@@ -8423,22 +8436,25 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>From ICE memory</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T111453Z" creationid="mgalo" creationdate="20181112T111453Z">
-        <seg>De la memòria i amb coincidència de context</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T162251Z" creationid="mgalo" creationdate="20181112T111453Z">
+        <seg>De la memòria amb coincidència de context</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>From auto memory</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T111548Z" creationid="mgalo" creationdate="20181112T111548Z">
-        <seg>De la memòria «auto»</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T162300Z" creationid="mgalo" creationdate="20181112T111548Z">
+        <seg>De la memòria automàtica</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>From enforced memory</seg>
       </tuv>
@@ -8447,6 +8463,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>From memory</seg>
       </tuv>
@@ -11863,6 +11880,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Modification info</seg>
       </tuv>
@@ -11889,6 +11907,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Modification info text</seg>
       </tuv>
@@ -12478,6 +12497,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Non-breakable spaces</seg>
       </tuv>
@@ -12494,6 +12514,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Non-unique segments</seg>
       </tuv>
@@ -12502,6 +12523,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Non-unique segments background</seg>
       </tuv>
@@ -13859,6 +13881,7 @@ s'esvaeix com la boira.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Paragraph delimitation</seg>
       </tuv>
@@ -15381,6 +15404,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remove text target</seg>
       </tuv>
@@ -15685,11 +15709,12 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Resolve Conflicts</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T112445Z" creationid="mgalo" creationdate="20181112T112445Z">
-        <seg>Resol els conflictes</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T162024Z" creationid="mgalo" creationdate="20181112T112445Z">
+        <seg>Resolució dels conflictes</seg>
       </tuv>
     </tu>
     <tu>
@@ -16496,6 +16521,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segment marker background</seg>
       </tuv>
@@ -16504,6 +16530,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segment marker text</seg>
       </tuv>
@@ -16600,6 +16627,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segments with notes</seg>
       </tuv>
@@ -16608,6 +16636,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segments with notes text</seg>
       </tuv>
@@ -17433,6 +17462,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Source segments</seg>
       </tuv>
@@ -17441,6 +17471,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Source segments text</seg>
       </tuv>
@@ -20138,6 +20169,7 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translated segments</seg>
       </tuv>
@@ -20146,6 +20178,7 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translated segments text</seg>
       </tuv>
@@ -20853,6 +20886,7 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Untranslated segments</seg>
       </tuv>
@@ -20870,6 +20904,7 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Untranslated segments text</seg>
       </tuv>
@@ -21793,6 +21828,7 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Whitespaces</seg>
       </tuv>
