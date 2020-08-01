@@ -1982,6 +1982,7 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;No suggestions&gt;</seg>
       </tuv>
@@ -3293,6 +3294,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
@@ -3760,6 +3762,7 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Autotext entries</seg>
       </tuv>
@@ -3856,6 +3859,7 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Bad nesting</seg>
       </tuv>
@@ -4192,11 +4196,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Cancelled creating new team project</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T102836Z" creationid="mgalo" creationdate="20181112T102836Z">
-        <seg>S'ha cancel·lat la creació del nou projecte en equip</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T145636Z" creationid="mgalo" creationdate="20181112T102836Z">
+        <seg>S'ha cancel·lat la creació del nou projecte en equip.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4330,6 +4335,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Character table</seg>
       </tuv>
@@ -5349,11 +5355,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Could not save credentials to text file</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T073858Z" creationid="Marc Riera" creationdate="20190521T113127Z">
-        <seg>No s'han pogut desar les credencials en un fitxer de text</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T145626Z" creationid="Marc Riera" creationdate="20190521T113127Z">
+        <seg>No s'han pogut desar les credencials en un fitxer de text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5867,6 +5874,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Detecting...</seg>
       </tuv>
@@ -6557,6 +6565,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Duplicate</seg>
       </tuv>
@@ -6947,6 +6956,7 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>End rebase</seg>
       </tuv>
@@ -7140,6 +7150,7 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error fixing tags</seg>
       </tuv>
@@ -7210,11 +7221,12 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error retrieve {0} as remote project file</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T225436Z" creationid="Marc Riera" creationdate="20191113T072833Z">
-        <seg>S'ha produït un error en recuperar {0} com a fitxer de projecte remot</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T145807Z" creationid="Marc Riera" creationdate="20191113T072833Z">
+        <seg>S'ha produït un error en recuperar {0} com a fitxer de projecte remot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7271,6 +7283,7 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error updating repository.</seg>
       </tuv>
@@ -7590,11 +7603,12 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>External Post-processing Command</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074101Z" creationid="Marc Riera" creationdate="20190925T074101Z">
-        <seg>Ordre de postprocessament extern</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T145857Z" creationid="Marc Riera" creationdate="20190925T074101Z">
+        <seg>Ordre externa de postprocessament</seg>
       </tuv>
     </tu>
     <tu>
@@ -7695,6 +7709,7 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Extraneous</seg>
       </tuv>
@@ -8594,6 +8609,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Glossary entries</seg>
       </tuv>
@@ -8944,6 +8960,7 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>History Completions</seg>
       </tuv>
@@ -11712,6 +11729,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Missing</seg>
       </tuv>
@@ -12352,6 +12370,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Non-breakable space</seg>
       </tuv>
@@ -13516,6 +13535,7 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Opening team project</seg>
       </tuv>
@@ -13584,6 +13604,7 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Orphaned</seg>
       </tuv>
@@ -13660,6 +13681,7 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Out-of-order</seg>
       </tuv>
@@ -13980,11 +14002,12 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Please double-check it.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110707Z" creationid="Marc Riera" creationdate="20190521T110707Z">
-        <seg>Torneu a comprovar-la.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T145745Z" creationid="Marc Riera" creationdate="20190521T110707Z">
+        <seg>Torneu a comprovar-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14031,6 +14054,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Please redo tag validation.</seg>
       </tuv>
@@ -14081,6 +14105,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Please select the interval at which the project should be saved automatically, in minutes and seconds.</seg>
       </tuv>
@@ -14203,6 +14228,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Predefined credentials was not passed.</seg>
       </tuv>
@@ -14282,6 +14308,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
@@ -14290,6 +14317,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
@@ -14615,6 +14643,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Project file should be on http protocol.</seg>
       </tuv>
@@ -15145,6 +15174,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
@@ -15407,6 +15437,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Repository Credentials</seg>
       </tuv>
@@ -15928,6 +15959,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Saving and Output</seg>
       </tuv>
@@ -15936,6 +15968,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Saving and Output Options</seg>
       </tuv>
@@ -16992,6 +17025,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Skipping.</seg>
       </tuv>
@@ -17479,6 +17513,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Start rebase</seg>
       </tuv>
@@ -17649,6 +17684,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Synchronisation of repositories</seg>
       </tuv>
@@ -17657,6 +17693,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Synchronization error</seg>
       </tuv>
@@ -17757,6 +17794,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Tab</seg>
       </tuv>
@@ -17774,6 +17812,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Tag</seg>
       </tuv>
@@ -17971,6 +18010,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Team synchronization</seg>
       </tuv>
@@ -17979,6 +18019,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Team synchronization...</seg>
       </tuv>
@@ -17987,6 +18028,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Team synchronization: Saving translation in {0} s</seg>
       </tuv>
@@ -17995,6 +18037,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Team synchronization: Waiting for you to finish this segment...</seg>
       </tuv>
@@ -18136,6 +18179,7 @@ L'àmbit d'un reemplaçament de text són els segments de destinació del projec
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Text to be removed</seg>
       </tuv>
@@ -18808,6 +18852,7 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The project folder {0} is missing and could not be created.</seg>
       </tuv>
@@ -19026,6 +19071,7 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The translation has changed.</seg>
       </tuv>
@@ -19239,6 +19285,7 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This URL appears to be invalid.</seg>
       </tuv>
@@ -19298,22 +19345,25 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This is a Git repository.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110650Z" creationid="Marc Riera" creationdate="20190521T110607Z">
-        <seg>Això és un repositori de Git.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T145728Z" creationid="Marc Riera" creationdate="20190521T110607Z">
+        <seg>Això és un dipòsit del Git.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This is a Subversion repository.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110645Z" creationid="Marc Riera" creationdate="20190521T110645Z">
-        <seg>Això és un repositori de Subversion.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T145723Z" creationid="Marc Riera" creationdate="20190521T110645Z">
+        <seg>Això és un dipòsit del Subversion.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This is a valid project file.</seg>
       </tuv>
@@ -20591,6 +20641,7 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unspecified</seg>
       </tuv>
@@ -20902,11 +20953,12 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>User denied credentials</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T222054Z" creationid="Marc Riera" creationdate="20200122T222054Z">
-        <seg>S'han denegat les credencials de l'usuari</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T145641Z" creationid="Marc Riera" creationdate="20200122T222054Z">
+        <seg>S'han denegat les credencials de l'usuari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21547,6 +21599,7 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Whitespace</seg>
       </tuv>
@@ -23369,6 +23422,7 @@ creï la carpeta de configuració.</seg>
     <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">AC_TAG_VIEW</prop>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Missing tags</seg>
       </tuv>
