@@ -3391,6 +3391,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>An error occurred while trying to run console process: {0}</seg>
       </tuv>
@@ -4704,6 +4705,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Close the current OmegaT instance
 3.</seg>
@@ -5471,6 +5473,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
@@ -7518,6 +7521,7 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Executing script {0} (event {1})</seg>
       </tuv>
@@ -8605,6 +8609,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Glossary folder {0} does not exist.</seg>
       </tuv>
@@ -10978,6 +10983,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Loading Project</seg>
       </tuv>
@@ -13826,6 +13832,7 @@ s'esvaeix com la boira.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Perhaps it is already opened in another OmegaT instance</seg>
       </tuv>
@@ -14630,6 +14637,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Project locked.</seg>
       </tuv>
@@ -15303,8 +15311,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
         <seg>Replace &lt;project&gt;/omegat/project_save.tmx in the newly downloaded project with the file saved in a safe location
 6.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220715Z" creationid="Marc Riera" creationdate="20190925T071939Z">
-        <seg>Reemplaçar el fitxer &lt;projecte&gt;/omegat/project_save.tmx al projecte acabat de baixar pel fitxer desat en una ubicació segura.
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T084815Z" creationid="Marc Riera" creationdate="20190925T071939Z">
+        <seg>Reemplaçar el fitxer &lt;projecte&gt;/omegat/project_save.tmx en el projecte acabat de baixar pel fitxer desat en una ubicació segura.
 6.</seg>
       </tuv>
     </tu>
@@ -15736,6 +15744,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>SVN '{0}' error: {1}</seg>
       </tuv>
@@ -17194,6 +17203,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Source folder {0} does not exist.</seg>
       </tuv>
@@ -17785,6 +17795,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Tag validation failed</seg>
       </tuv>
@@ -17860,6 +17871,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Target folder {0} does not exist.</seg>
       </tuv>
@@ -18764,6 +18776,7 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The project cannot be verified</seg>
       </tuv>
@@ -19003,11 +19016,12 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T225841Z" creationid="mgalo" creationdate="20181115T225841Z">
-        <seg>El fitxer de glossari modificable no és a la carpeta dels glossaris.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T084708Z" creationid="mgalo" creationdate="20181115T225841Z">
+        <seg>El fitxer de glossari modificable no és a la carpeta de glossaris.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19883,6 +19897,7 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translated files location not defined</seg>
       </tuv>
@@ -20003,6 +20018,7 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translation memory folder {0} does not exist.</seg>
       </tuv>
