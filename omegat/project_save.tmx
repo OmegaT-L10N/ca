@@ -1123,11 +1123,12 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Reset This Colour</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T111844Z" creationid="mgalo" creationdate="20181112T111844Z">
-        <seg>&amp;Restableix aquest color</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T162435Z" creationid="mgalo" creationdate="20181112T111844Z">
+        <seg>&amp;Reinicialitza aquest color</seg>
       </tuv>
     </tu>
     <tu>
@@ -2338,6 +2339,7 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
@@ -3103,6 +3105,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
@@ -3111,6 +3114,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Aligner "Needs Review" Group</seg>
       </tuv>
@@ -3119,6 +3123,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Aligner Highlight</seg>
       </tuv>
@@ -3127,6 +3132,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Aligner Table Row Highlight</seg>
       </tuv>
@@ -3603,11 +3609,12 @@ No es carregarà el fitxer TMX.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Are you sure you want to reset all custom colours?</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T111432Z" creationid="mgalo" creationdate="20181112T111908Z">
-        <seg>Esteu segur que voleu reinicialitzar tots els colors personalitzats?</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T162452Z" creationid="mgalo" creationdate="20181112T111908Z">
+        <seg>Segur que voleu reinicialitzar tots els colors personalitzats?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4793,6 +4800,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Colours</seg>
       </tuv>
@@ -6606,35 +6614,39 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Drop TMX files here to add them to the project.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T112133Z" creationid="mgalo" creationdate="20181112T112133Z">
-        <seg>Arrossega fitxers de memòries aquí per afegir-los al projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T162620Z" creationid="mgalo" creationdate="20181112T112133Z">
+        <seg>Arrossegueu fitxers TMX aquí per afegir-los al projecte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Drop a project here to open it.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T112158Z" creationid="mgalo" creationdate="20181112T112158Z">
-        <seg>Arrossega un projecte aquí per obrir-lo.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T162625Z" creationid="mgalo" creationdate="20181112T112158Z">
+        <seg>Arrossegueu un projecte aquí per obrir-lo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Drop files here to add them to the project.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T112144Z" creationid="mgalo" creationdate="20181112T112058Z">
-        <seg>Arrossega fitxers aquí per afegir-los al projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T162601Z" creationid="mgalo" creationdate="20181112T112058Z">
+        <seg>Arrossegueu fitxers aquí per afegir-los al projecte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Drop glossary files here to add them to the project.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T112137Z" creationid="mgalo" creationdate="20181112T112115Z">
-        <seg>Arrossega fitxers de glossaris aquí per afegir-los al projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T162610Z" creationid="mgalo" creationdate="20181112T112115Z">
+        <seg>Arrossegueu fitxers de glossari aquí per afegir-los al projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9120,6 +9132,7 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Hyperlinks</seg>
       </tuv>
@@ -10364,6 +10377,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Item:</seg>
       </tuv>
@@ -11667,6 +11681,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Matches Changed</seg>
       </tuv>
@@ -11675,6 +11690,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Matches Unchanged</seg>
       </tuv>
@@ -12673,6 +12689,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Notification (flash)</seg>
       </tuv>
@@ -12681,6 +12698,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Notification (steady)</seg>
       </tuv>
@@ -14200,11 +14218,12 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Please restart the application to correctly display the new colours.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T112010Z" creationid="mgalo" creationdate="20181112T112010Z">
-        <seg>Reinicieu l'aplicació per tal que es mostrin els colors nous.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T162511Z" creationid="mgalo" creationdate="20181112T112010Z">
+        <seg>Reinicieu l'aplicació per mostrar correctament els colors nous.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15693,11 +15712,12 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Reset &amp;All Colours</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T111851Z" creationid="mgalo" creationdate="20181112T111851Z">
-        <seg>Restableix &amp;tots els colors</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T162442Z" creationid="mgalo" creationdate="20181112T111851Z">
+        <seg>Reinicialitza &amp;tots els colors</seg>
       </tuv>
     </tu>
     <tu>
@@ -16316,6 +16336,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Search Found Mark</seg>
       </tuv>
@@ -16332,6 +16353,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Search Replaced Mark</seg>
       </tuv>
@@ -18943,6 +18965,7 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The new colours have been saved.</seg>
       </tuv>
@@ -23708,6 +23731,7 @@ creï la carpeta de configuració.</seg>
     <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">COLOR_MATCHES_DEL_ACTIVE</prop>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Matches Deleted Active</seg>
       </tuv>
@@ -23718,6 +23742,7 @@ creï la carpeta de configuració.</seg>
     <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">COLOR_MATCHES_DEL_INACTIVE</prop>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Matches Deleted Inactive</seg>
       </tuv>
@@ -23728,6 +23753,7 @@ creï la carpeta de configuració.</seg>
     <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">COLOR_MATCHES_INS_ACTIVE</prop>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Matches Inserted Active</seg>
       </tuv>
@@ -23738,6 +23764,7 @@ creï la carpeta de configuració.</seg>
     <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">COLOR_MATCHES_INS_INACTIVE</prop>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Matches Inserted Inactive</seg>
       </tuv>
@@ -23759,6 +23786,7 @@ creï la carpeta de configuració.</seg>
     <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">ETA_INFO_TOGGLE_LTR_RTL</prop>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
       </tuv>
