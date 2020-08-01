@@ -252,6 +252,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Browse TaaS Collections...</seg>
       </tuv>
@@ -394,6 +395,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Download</seg>
       </tuv>
@@ -438,6 +440,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Enable TaaS terminology lookup</seg>
       </tuv>
@@ -1226,6 +1229,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Select</seg>
       </tuv>
@@ -1359,6 +1363,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;TaaS Terminology Lookup</seg>
       </tuv>
@@ -2957,11 +2962,12 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Added: {1}, Deleted: {2}, Modified: {3} (Conflicts: {0})</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T180652Z" creationid="Marc Riera" creationdate="20191113T180652Z">
-        <seg>Afegits: {1}, Suprimits: {2}, Modificats: {3} (Conflictes: {0})</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T160852Z" creationid="Marc Riera" creationdate="20191113T180652Z">
+        <seg>Afegides: {1}, Suprimides: {2}, Modificades: {3} (Conflictes: {0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -3140,6 +3146,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>All domains</seg>
       </tuv>
@@ -5530,6 +5537,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Create your own key then input it below.</seg>
       </tuv>
@@ -6429,6 +6437,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Domains</seg>
       </tuv>
@@ -6558,6 +6567,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Download collection {0}</seg>
       </tuv>
@@ -7329,11 +7339,12 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error updating glossary file</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T075030Z" creationid="Marc Riera" creationdate="20190925T075030Z">
-        <seg>S'ha produït un error en actualitzar el fitxer del glossari</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T160949Z" creationid="Marc Riera" creationdate="20190925T075030Z">
+        <seg>S'ha produït un error en actualitzar el fitxer de glossari</seg>
       </tuv>
     </tu>
     <tu>
@@ -7580,6 +7591,7 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Exclusion Patterns</seg>
       </tuv>
@@ -8556,6 +8568,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Get API Key</seg>
       </tuv>
@@ -11558,6 +11571,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mask</seg>
       </tuv>
@@ -15578,6 +15592,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Request error: {0}</seg>
       </tuv>
@@ -15586,6 +15601,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Request to TaaS: {0}</seg>
       </tuv>
@@ -15738,6 +15754,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Retrieve collection list...</seg>
       </tuv>
@@ -15746,11 +15763,12 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Retrieve domain list...</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T225317Z" creationid="Marc Riera" creationdate="20200122T225245Z">
-        <seg>S'està recuperant la llista de dominis...</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T160930Z" creationid="Marc Riera" creationdate="20200122T225245Z">
+        <seg>S'està recuperant la llista d'àmbits...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16721,6 +16739,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Select TaaS Terminology &amp;Lookup Domain...</seg>
       </tuv>
@@ -16729,6 +16748,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Select TaaS domain</seg>
       </tuv>
@@ -17341,6 +17361,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Source count</seg>
       </tuv>
@@ -17892,6 +17913,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>TaaS API key not set.</seg>
       </tuv>
@@ -17900,6 +17922,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>TaaS Collections</seg>
       </tuv>
@@ -17908,11 +17931,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>TaaS Terminology</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T104500Z" creationid="mgalo" creationdate="20181112T104500Z">
-        <seg>Terminologia TaaS</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T161002Z" creationid="mgalo" creationdate="20181112T104500Z">
+        <seg>Terminologia de TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -18039,6 +18063,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Target count</seg>
       </tuv>
@@ -20557,6 +20582,7 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unauthorized request to TaaS service.</seg>
       </tuv>
@@ -20852,6 +20878,7 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Updated</seg>
       </tuv>
@@ -21986,6 +22013,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Wrong response format from TaaS service</seg>
       </tuv>
@@ -22198,11 +22226,12 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231228Z" creationid="Marc Riera" creationdate="20191112T231228Z">
-        <seg>Esteu intentant utilitzar el tokenitzador del Hunspell amb la llengua «{0}», però no hi ha cap diccionari ortogràfic instal·lat per a aquesta llengua.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T160834Z" creationid="Marc Riera" creationdate="20191112T231228Z">
+        <seg>Esteu intentant utilitzar el lematitzador del Hunspell amb la llengua «{0}», però no hi ha cap diccionari ortogràfic instal·lat per a aquesta llengua.</seg>
       </tuv>
     </tu>
     <tu>
