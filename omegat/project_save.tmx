@@ -109,6 +109,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Allow only unique characters</seg>
       </tuv>
@@ -126,6 +127,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Also allow per-project external commands</seg>
       </tuv>
@@ -444,6 +446,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Enable autotext</seg>
       </tuv>
@@ -452,6 +455,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Enable character table</seg>
       </tuv>
@@ -460,6 +464,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
@@ -773,11 +778,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Load...</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T103316Z" creationid="mgalo" creationdate="20181112T103316Z">
-        <seg>&amp;Puja...</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T155119Z" creationid="mgalo" creationdate="20181112T103316Z">
+        <seg>&amp;Carrega...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1166,6 +1172,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Save...</seg>
       </tuv>
@@ -2923,6 +2930,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
@@ -3739,6 +3747,7 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Auto-text configuration</seg>
       </tuv>
@@ -4141,8 +4150,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>C&amp;lear</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231141Z" creationid="Marc Riera" creationdate="20191112T231141Z">
-        <seg>N&amp;eteja</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T155243Z" creationid="Marc Riera" creationdate="20191112T231141Z">
+        <seg>Es&amp;borra</seg>
       </tuv>
     </tu>
     <tu>
@@ -4360,11 +4369,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Character table auto-completer options</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T103445Z" creationid="mgalo" creationdate="20181112T103445Z">
-        <seg>Opcions de l'emplenament automàtic amb caràcters de la taula</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T155205Z" creationid="mgalo" creationdate="20181112T103445Z">
+        <seg>Opcions de l'emplenament automàtic amb la taula de caràcters</seg>
       </tuv>
     </tu>
     <tu>
@@ -5711,6 +5721,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Customize character &amp;table</seg>
       </tuv>
@@ -6072,6 +6083,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Display</seg>
       </tuv>
@@ -6205,6 +6217,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
       </tuv>
@@ -6213,11 +6226,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074359Z" creationid="Marc Riera" creationdate="20190925T074359Z">
-        <seg>Mostra les entrades com a "&lt;destinació&gt; → &lt;origen&gt;"</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T155026Z" creationid="Marc Riera" creationdate="20190925T074359Z">
+        <seg>Mostra les entrades com a «&lt;destinació&gt; → &lt;origen&gt;»</seg>
       </tuv>
     </tu>
     <tu>
@@ -8154,6 +8168,7 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Follow capitalization of the typed text</seg>
       </tuv>
@@ -8259,11 +8274,12 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T110424Z" creationid="Marc Riera" creationdate="20191110T230844Z">
-        <seg>Per a obtenir uns resultats òptims, instal·leu els diccionaris apropiats mitjançant «Preferències &gt; Corrector ortogràfic».</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T155314Z" creationid="Marc Riera" creationdate="20191110T230844Z">
+        <seg>Per a obtenir uns resultats òptims, instal·leu els diccionaris adequats mitjançant «Preferències &gt; Corrector ortogràfic».</seg>
       </tuv>
     </tu>
     <tu>
@@ -8442,11 +8458,12 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Full text</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T103405Z" creationid="mgalo" creationdate="20181112T103405Z">
-        <seg>Text sencer</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T155134Z" creationid="mgalo" creationdate="20181112T103405Z">
+        <seg>Text complet</seg>
       </tuv>
     </tu>
     <tu>
@@ -8634,6 +8651,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Glossary auto-completer options</seg>
       </tuv>
@@ -9211,6 +9229,7 @@ no cal introduir el camí complet.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
@@ -9219,11 +9238,12 @@ no cal introduir el camí complet.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If checked, the longer entries are placed on the list first.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231054Z" creationid="Marc Riera" creationdate="20191112T231054Z">
-        <seg>Si es marca, les entrades més llargues es col·loquen abans a la llista.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T154645Z" creationid="Marc Riera" creationdate="20191112T231054Z">
+        <seg>Si es marca, les entrades més llargues apareixen abans a la llista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16934,6 +16954,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
@@ -16942,6 +16963,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Show &amp;source term first</seg>
       </tuv>
@@ -16950,6 +16972,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Show &amp;target term first</seg>
       </tuv>
@@ -17176,6 +17199,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Sort &amp;alphabetically</seg>
       </tuv>
@@ -17184,22 +17208,25 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Sort by &amp;full text, not shortcut</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T103225Z" creationid="mgalo" creationdate="20181112T103225Z">
-        <seg>Mostra el &amp;text sencer, no la drecera</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T155104Z" creationid="mgalo" creationdate="20181112T103225Z">
+        <seg>Mostra el &amp;text complet, no la drecera</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Sort by len&amp;gth</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T103151Z" creationid="mgalo" creationdate="20181112T103151Z">
-        <seg>Mostra segons la &amp;llargada</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T155049Z" creationid="mgalo" creationdate="20181112T103151Z">
+        <seg>Mostra segons la &amp;longitud</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Sort by source term &amp;alphabetically</seg>
       </tuv>
@@ -17217,6 +17244,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Sort tar&amp;get terms alphabetically</seg>
       </tuv>
@@ -18168,6 +18196,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Terms with multiple targets</seg>
       </tuv>
@@ -19409,6 +19438,7 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This command will be executed after Creating Translated Documents.</seg>
       </tuv>
@@ -20483,11 +20513,12 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unable to save data.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T103354Z" creationid="mgalo" creationdate="20181112T103354Z">
-        <seg>No s'han pogut desar els canvis.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T155129Z" creationid="mgalo" creationdate="20181112T103354Z">
+        <seg>No s'han pogut desar les dades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21464,11 +21495,12 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Warning!</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T103826Z" creationid="mgalo" creationdate="20181112T103826Z">
-        <seg>Avís:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T155300Z" creationid="mgalo" creationdate="20181112T103826Z">
+        <seg>Avís!</seg>
       </tuv>
     </tu>
     <tu>
@@ -21603,6 +21635,7 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
