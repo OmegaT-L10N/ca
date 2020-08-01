@@ -1621,6 +1621,7 @@ Per a afegir fitxers al projecte, feu clic al botó «Copia fitxers a la carpeta
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>(You will still able to use OmegaT
 3.6 to edit this project as a team project.)</seg>
@@ -4554,6 +4555,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Checking out the project...</seg>
       </tuv>
@@ -5081,11 +5083,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T072732Z" creationid="Marc Riera" creationdate="20190925T072732Z">
-        <seg>Hi ha una connexió disponible, el projecte està en mode de projecte en equip.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T144120Z" creationid="Marc Riera" creationdate="20190925T072732Z">
+        <seg>Hi ha una connexió disponible, el projecte està en el mode de projecte en equip.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5247,6 +5250,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Convert Old Team Project</seg>
       </tuv>
@@ -7083,6 +7087,7 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error checking out the project from remote repository:</seg>
       </tuv>
@@ -7091,6 +7096,7 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error checking out the project from remote repository: {0}</seg>
       </tuv>
@@ -10147,6 +10153,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
       </tuv>
@@ -11060,6 +11067,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
@@ -12107,11 +12115,12 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>New Local Project Folder:</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T102636Z" creationid="mgalo" creationdate="20181112T102636Z">
-        <seg>Nova carpeta de projecte local:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T144251Z" creationid="mgalo" creationdate="20181112T102636Z">
+        <seg>Carpeta de projecte local nova:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12237,8 +12246,8 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       <tuv lang="en">
         <seg>No connection available, the project is in offline mode.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T072135Z" creationid="Marc Riera" creationdate="20190925T072135Z">
-        <seg>No hi ha cap connexió disponible, el projecte està en mode fora de línia.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T144115Z" creationid="Marc Riera" creationdate="20190925T072135Z">
+        <seg>No hi ha cap connexió disponible, el projecte està en el mode fora de línia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12881,6 +12890,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT has detected a 3.6-style team project.</seg>
       </tuv>
@@ -13942,12 +13952,13 @@ per a determinar l'origen de l'error i torneu-ho a provar.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Please contact your project administrator to find out if any
 additional steps need to be taken.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T112210Z" creationid="Marc Riera" creationdate="20190521T112210Z">
-        <seg>Contacteu amb l'administrador del projecte per saber
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T144229Z" creationid="Marc Riera" creationdate="20190521T112210Z">
+        <seg>Poseu-vos en contacte amb l'administrador del projecte per saber
 si cal fer res més.</seg>
       </tuv>
     </tu>
@@ -13994,6 +14005,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Please enter username/password</seg>
       </tuv>
@@ -14251,6 +14263,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
@@ -14260,6 +14273,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Press 'OK' to convert the project into a 4.x-style team project.</seg>
       </tuv>
@@ -14702,6 +14716,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Project will not be updated.</seg>
       </tuv>
@@ -18801,14 +18816,16 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The project was converted successfully.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T073707Z" creationid="Marc Riera" creationdate="20190521T112120Z">
-        <seg>S'ha convertit el projecte correctament.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T144220Z" creationid="Marc Riera" creationdate="20190521T112120Z">
+        <seg>El projecte s'ha convertit correctament.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The project will be loaded as a local project without team functionality.</seg>
       </tuv>
@@ -18942,6 +18959,7 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The specified project is an OmegaT 3.6-style team project.</seg>
       </tuv>
@@ -19191,6 +19209,7 @@ en sou víctima d'una.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This
 will delete your local data and re-download the project contents from
@@ -19447,6 +19466,7 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
       </tuv>
@@ -21763,6 +21783,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Wrong authentication</seg>
       </tuv>
@@ -21787,6 +21808,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Wrong username/password</seg>
       </tuv>
