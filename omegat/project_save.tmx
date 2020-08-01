@@ -2752,6 +2752,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Aborted.</seg>
       </tuv>
@@ -2873,7 +2874,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>Add Glossary Entry</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T074808Z" creationid="mgalo" creationdate="20181112T091403Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083717Z" creationid="mgalo" creationdate="20181112T091403Z">
         <seg>Afegeix una entrada al glossari</seg>
       </tuv>
     </tu>
@@ -3064,6 +3065,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Align project against {0}</seg>
       </tuv>
@@ -3263,6 +3265,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>An error occurred when loading the script: {0}</seg>
       </tuv>
@@ -3771,6 +3774,7 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Available script engines:</seg>
       </tuv>
@@ -4229,6 +4233,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Cannot read selected script file.</seg>
       </tuv>
@@ -5366,8 +5371,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T074950Z" creationid="Marc Riera" creationdate="20180210T213727Z">
-        <seg>Crea una entrada al &amp;glossari...</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083742Z" creationid="Marc Riera" creationdate="20180210T213727Z">
+        <seg>Crea una entrada en el &amp;glossari...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5410,8 +5415,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Create Glossary Entry</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T074712Z" creationid="Packard Bell" creationdate="20150605T161513Z">
-        <seg>Creació d'una entrada al glossari</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083634Z" creationid="Packard Bell" creationdate="20150605T161513Z">
+        <seg>Creació d'una entrada en el glossari</seg>
       </tuv>
     </tu>
     <tu>
@@ -7279,6 +7284,7 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error while trying to save script.</seg>
       </tuv>
@@ -7667,6 +7673,7 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Extracted comments:</seg>
       </tuv>
@@ -8010,11 +8017,12 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Finished</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T231821Z" creationid="mgalo" creationdate="20181115T225627Z">
-        <seg>Ha acabat l'operació</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T084306Z" creationid="mgalo" creationdate="20181115T225627Z">
+        <seg>L'operació ha finalitzat</seg>
       </tuv>
     </tu>
     <tu>
@@ -9643,6 +9651,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Initializing</seg>
       </tuv>
@@ -12264,6 +12273,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>No script bound in slot #{0}.</seg>
       </tuv>
@@ -12272,6 +12282,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>No script selected.</seg>
       </tuv>
@@ -12280,6 +12291,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>No script set.</seg>
       </tuv>
@@ -14079,6 +14091,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Please translate this plural as plural form #{0}.</seg>
       </tuv>
@@ -14735,8 +14748,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Proxy Login</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T165955Z" creationid="mgalo" creationdate="20181113T093135Z">
-        <seg>Inici de sessió al servidor intermediari</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083641Z" creationid="mgalo" creationdate="20181113T093135Z">
+        <seg>Inici de sessió en el servidor intermediari</seg>
       </tuv>
     </tu>
     <tu>
@@ -14934,11 +14947,12 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Refreshing script folder "{0}"</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230116Z" creationid="Marc Riera" creationdate="20191112T230116Z">
-        <seg>S'està actualitzant la carpeta d'scripts «{0}»</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083925Z" creationid="Marc Riera" creationdate="20191112T230116Z">
+        <seg>S'està actualitzant la carpeta de scripts «{0}»</seg>
       </tuv>
     </tu>
     <tu>
@@ -15651,6 +15665,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
@@ -15831,6 +15846,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Save Script</seg>
       </tuv>
@@ -15951,6 +15967,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Script "{0}" saved.</seg>
       </tuv>
@@ -15977,6 +15994,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Script Result</seg>
       </tuv>
@@ -16035,6 +16053,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Scripts Folder:</seg>
       </tuv>
@@ -16524,11 +16543,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Select Scripts Folder</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072524Z" creationid="Marc Riera" creationdate="20191113T072524Z">
-        <seg>Seleccioneu una carpeta d'scripts</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083856Z" creationid="Marc Riera" creationdate="20191113T072524Z">
+        <seg>Selecció d'una carpeta de scripts</seg>
       </tuv>
     </tu>
     <tu>
@@ -16557,11 +16577,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Select a Script File</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072533Z" creationid="Marc Riera" creationdate="20191113T072533Z">
-        <seg>Seleccioneu un fitxer d'script</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083906Z" creationid="Marc Riera" creationdate="20191113T072533Z">
+        <seg>Selecció d'un fitxer de script</seg>
       </tuv>
     </tu>
     <tu>
@@ -16590,6 +16611,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Selected Engine: {0}</seg>
       </tuv>
@@ -16837,11 +16859,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Show Replace Search Bar</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T101953Z" creationid="mgalo" creationdate="20181112T101953Z">
-        <seg>Mostra la barra de substitució</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T084158Z" creationid="mgalo" creationdate="20181112T101953Z">
+        <seg>Mostra la barra de reemplaçament</seg>
       </tuv>
     </tu>
     <tu>
@@ -17765,8 +17788,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Tag validation failed</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200325T083324Z" creationid="mgalo" creationdate="20181115T225528Z">
-        <seg>Error en validar les etiquetes</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T084237Z" creationid="mgalo" creationdate="20181115T225528Z">
+        <seg>S'ha produït un error en validar les etiquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -19901,6 +19924,7 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translating Project</seg>
       </tuv>
@@ -20014,11 +20038,12 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translator comments:</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T225316Z" creationid="mgalo" creationdate="20181115T225316Z">
-        <seg>Comentaris de traducció:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T084210Z" creationid="mgalo" creationdate="20181115T225316Z">
+        <seg>Comentaris de la traducció:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21043,6 +21068,7 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Validating tags</seg>
       </tuv>
@@ -22043,8 +22069,8 @@ d'allà.</seg>
       <tuv lang="en">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T075005Z" creationid="mgalo" creationdate="20181112T091253Z">
-        <seg>Podeu crear entrades del glossari amb l'opció «Crea una entrada al glossari...» al menú «Edita».</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083655Z" creationid="mgalo" creationdate="20181112T091253Z">
+        <seg>Podeu crear entrades del glossari amb l'opció «Crea una entrada en el glossari...» del menú «Edita».</seg>
       </tuv>
     </tu>
     <tu>
@@ -22653,6 +22679,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>canceled ({0} ms elapsed)</seg>
       </tuv>
@@ -22678,6 +22705,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>done ({0} ms elapsed)</seg>
       </tuv>
@@ -23142,6 +23170,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>{0} loaded.</seg>
       </tuv>
@@ -24018,6 +24047,7 @@ creï la carpeta de configuració.</seg>
     <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">SCW_BEAN_ERROR</prop>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>ERROR: (declaring bean)</seg>
       </tuv>
