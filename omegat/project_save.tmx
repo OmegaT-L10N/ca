@@ -3155,6 +3155,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Allow to save password as plain text</seg>
       </tuv>
@@ -4901,6 +4902,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Commit not possible because somebody else changed remote translation.</seg>
       </tuv>
@@ -6577,6 +6579,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>During SVN error({0}),
 project_save.tmx was not really uploaded and SVN switched to unstable status.</seg>
@@ -8490,11 +8493,12 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Git '{0}' did nothing because there were no changes</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T175939Z" creationid="Marc Riera" creationdate="20191113T175939Z">
-        <seg>El Git «{0}» no ha fet res perquè no hi havia canvis</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T143718Z" creationid="Marc Riera" creationdate="20191113T175939Z">
+        <seg>El Git «{0}» no ha fet res perquè no hi havia canvis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8506,11 +8510,12 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Git '{0}' execution finished successfully</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T180028Z" creationid="Marc Riera" creationdate="20191113T180028Z">
-        <seg>L'execució del Git «{0}» ha finalitzat correctament</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T143712Z" creationid="Marc Riera" creationdate="20191113T180028Z">
+        <seg>L'execució del Git «{0}» ha finalitzat correctament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12228,6 +12233,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>No connection available, the project is in offline mode.</seg>
       </tuv>
@@ -14786,11 +14792,12 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Push failed.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200325T083403Z" creationid="Marc Riera" creationdate="20191112T230417Z">
-        <seg>Error en l'enviament.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T143733Z" creationid="Marc Riera" creationdate="20191112T230417Z">
+        <seg>S'ha produït un error en l'enviament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14878,6 +14885,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Read-only</seg>
       </tuv>
@@ -20571,11 +20579,12 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unsupported SVN error</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230344Z" creationid="Marc Riera" creationdate="20191112T230344Z">
-        <seg>Error de l'SVN no suportat</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T143652Z" creationid="Marc Riera" creationdate="20191112T230344Z">
+        <seg>Error de l'SVN no admès</seg>
       </tuv>
     </tu>
     <tu>
@@ -20665,11 +20674,12 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Upload disabled because repository in read-only mode</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T231604Z" creationid="Marc Riera" creationdate="20191110T231604Z">
-        <seg>S'ha inhabilitat la càrrega perquè el respositori es troba en mode de només lectura.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T143641Z" creationid="Marc Riera" creationdate="20191110T231604Z">
+        <seg>S'ha inhabilitat la càrrega perquè el dipòsit es troba en mode de només lectura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21571,6 +21581,7 @@ Tant la cerca exacta com la cerca per paraules clau admeten els caràcters comod
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Will be synchronized next time.</seg>
       </tuv>
