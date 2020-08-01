@@ -718,6 +718,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Language Checker</seg>
       </tuv>
@@ -1339,6 +1340,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Store for this session only</seg>
       </tuv>
@@ -6041,6 +6043,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
@@ -6155,6 +6158,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
       </tuv>
@@ -8089,6 +8093,7 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Folder ID</seg>
       </tuv>
@@ -8523,6 +8528,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Git '{0}' error: {1}</seg>
       </tuv>
@@ -8540,6 +8546,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Git '{0}' execution start</seg>
       </tuv>
@@ -8978,11 +8985,12 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>History Predictions</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074305Z" creationid="Marc Riera" creationdate="20190925T074305Z">
-        <seg>Predicció a partir de l'historial</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T150102Z" creationid="Marc Riera" creationdate="20190925T074305Z">
+        <seg>Prediccions a partir de l'historial</seg>
       </tuv>
     </tu>
     <tu>
@@ -11877,8 +11885,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Moses Server URL:</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181113T095532Z" creationid="mgalo" creationdate="20181113T095532Z">
-        <seg>URL del servidor de Moses:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T150838Z" creationid="mgalo" creationdate="20181113T095532Z">
+        <seg>URL del servidor del Moses:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12243,6 +12251,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>No OAuth token specified</seg>
       </tuv>
@@ -12269,6 +12278,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>No folder ID specified</seg>
       </tuv>
@@ -12672,6 +12682,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OAuth token</seg>
       </tuv>
@@ -15807,6 +15818,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>SVN '{0}' execution finished successfully</seg>
       </tuv>
@@ -15815,6 +15827,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>SVN '{0}' execution start</seg>
       </tuv>
@@ -16719,6 +16732,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Server does not understand the "translate" method</seg>
       </tuv>
@@ -18115,11 +18129,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Testing...</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T224727Z" creationid="mgalo" creationdate="20181115T224727Z">
-        <seg>Prova en curs...</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T150817Z" creationid="mgalo" creationdate="20181115T224727Z">
+        <seg>S'està provant...</seg>
       </tuv>
     </tu>
     <tu>
@@ -18313,11 +18328,12 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The Moses server URL is not set</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181113T095717Z" creationid="mgalo" creationdate="20181113T095717Z">
-        <seg>No s'ha definit cap URL de servidor de Moses</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T150829Z" creationid="mgalo" creationdate="20181113T095717Z">
+        <seg>No s'ha definit cap URL de servidor del Moses</seg>
       </tuv>
     </tu>
     <tu>
@@ -20347,6 +20363,7 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unable to parse IAM service response</seg>
       </tuv>
@@ -20364,6 +20381,7 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unable to parse service error report</seg>
       </tuv>
@@ -20372,6 +20390,7 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unable to parse translate service response</seg>
       </tuv>
@@ -20900,6 +20919,7 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Use glossary terms</seg>
       </tuv>
