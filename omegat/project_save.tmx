@@ -257,6 +257,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Browse...</seg>
       </tuv>
@@ -1491,11 +1492,12 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>'{0}' menu selected</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T224252Z" creationid="mgalo" creationdate="20181115T224252Z">
-        <seg>Heu seleccionat el menú «{0}».</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T075439Z" creationid="mgalo" creationdate="20181115T224252Z">
+        <seg>S'ha seleccionat el menú «{0}».</seg>
       </tuv>
     </tu>
     <tu>
@@ -2589,6 +2591,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
@@ -2860,11 +2863,12 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Add Glossary Entry</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T091403Z" creationid="mgalo" creationdate="20181112T091403Z">
-        <seg>Afegeix al glossari</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T074808Z" creationid="mgalo" creationdate="20181112T091403Z">
+        <seg>Afegeix una entrada al glossari</seg>
       </tuv>
     </tu>
     <tu>
@@ -3178,11 +3182,12 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T222912Z" creationid="mgalo" creationdate="20181111T230655Z">
-        <seg>Permet veure, afegir, suprimir o editar una nota al segment actiu.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T075104Z" creationid="mgalo" creationdate="20181111T230655Z">
+        <seg>Permet veure, afegir, suprimir o editar una nota en el segment actiu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3301,6 +3306,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>An error occurred while processing a font changed event:
 {0}</seg>
@@ -3311,6 +3317,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>An error occurred while processing a new file event:
 {0}</seg>
@@ -3321,6 +3328,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>An error occurred while processing a project change event:
 {0}</seg>
@@ -3331,6 +3339,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>An error occurred while processing an application shutdown event:
 {0}</seg>
@@ -3341,6 +3350,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>An error occurred while processing an application startup event:
 {0}</seg>
@@ -3351,6 +3361,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>An error occurred while processing an entry activated event:
 {0}</seg>
@@ -3567,6 +3578,7 @@ No es carregarà el fitxer TMX.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>As a result of this,
 all settings will be at their defaults, due to which you
@@ -4629,11 +4641,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T224232Z" creationid="mgalo" creationdate="20181115T224232Z">
-        <seg>Feu clic al menú «{0}».</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T075429Z" creationid="mgalo" creationdate="20181115T224232Z">
+        <seg>S'ha fet clic a l'element del menú «{0}».</seg>
       </tuv>
     </tu>
     <tu>
@@ -5344,8 +5357,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191208T153604Z" creationid="Marc Riera" creationdate="20180210T213727Z">
-        <seg>Crea una entrada del &amp;glossari</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T074950Z" creationid="Marc Riera" creationdate="20180210T213727Z">
+        <seg>Crea una entrada al &amp;glossari...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5388,7 +5401,7 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Create Glossary Entry</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T165910Z" creationid="Packard Bell" creationdate="20150605T161513Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T074712Z" creationid="Packard Bell" creationdate="20150605T161513Z">
         <seg>Creació d'una entrada al glossari</seg>
       </tuv>
     </tu>
@@ -6117,14 +6130,16 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T232315Z" creationid="Marc Riera" creationdate="20191110T232315Z">
-        <seg>Mostra comentaris al segment actiu si n'hi ha al fitxer d'origen i el filtre del fitxer és compatible (per exemple, el filtre per a fitxers PO).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T075148Z" creationid="Marc Riera" creationdate="20191110T232315Z">
+        <seg>Mostra comentaris al segment actiu si n'hi ha al fitxer d'origen i el filtre del fitxer és compatible (per exemple, el filtre PO).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
@@ -6149,6 +6164,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
@@ -6166,11 +6182,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T222828Z" creationid="mgalo" creationdate="20181111T230625Z">
-        <seg>Mostra la traducció del segment d'origen feta pels serveis de traducció automàtica que hàgiu seleccionat en el menú «Preferències &gt; Traducció automàtica», sempre que aquests serveis estiguin disponibles.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T075051Z" creationid="mgalo" creationdate="20181111T230625Z">
+        <seg>Mostra la traducció del segment d'origen feta pels serveis de traducció automàtica que hàgiu seleccionat a «Preferències &gt; Traducció automàtica», sempre que els serveis estiguin disponibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7303,6 +7320,7 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Event: application shutdown</seg>
       </tuv>
@@ -7311,6 +7329,7 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Event: application startup</seg>
       </tuv>
@@ -7319,6 +7338,7 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Event: font changed</seg>
       </tuv>
@@ -7327,6 +7347,7 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Event: new entry activated</seg>
       </tuv>
@@ -7335,6 +7356,7 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Event: new file activated ({0})</seg>
       </tuv>
@@ -7343,11 +7365,12 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Event: project change - "{0}"</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072223Z" creationid="Marc Riera" creationdate="20191113T072223Z">
-        <seg>Esdeveniment: canvi de projecte - «{0}»</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T075457Z" creationid="Marc Riera" creationdate="20191113T072223Z">
+        <seg>Esdeveniment: canvi de projecte - «{0}».</seg>
       </tuv>
     </tu>
     <tu>
@@ -9134,15 +9157,16 @@ no cal introduir el camí complet.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If later access to the desired location is granted
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T175541Z" creationid="Marc Riera" creationdate="20191113T175541Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T075339Z" creationid="Marc Riera" creationdate="20191113T175541Z">
         <seg>Si més endavant es concedeix accés a la ubicació desitjada,
-s'utilitzarà aquesta ubicació i tots els paràmetres tornaran
-als valors per defecte com a resultat el canvi d'ubicació.</seg>
+s'utilitzarà aquesta ubicació i tots els paràmetres es reinicialitzaran
+als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9659,6 +9683,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Insert Selection</seg>
       </tuv>
@@ -10099,12 +10124,13 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072146Z" creationid="Marc Riera" creationdate="20191113T072146Z">
-        <seg>No s'ha pogut crear la carpeta d'scripts
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T075350Z" creationid="Marc Riera" creationdate="20191113T072146Z">
+        <seg>No s'ha pogut crear la carpeta de scripts
 a la carpeta de configuració.</seg>
       </tuv>
     </tu>
@@ -10292,6 +10318,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Java: {0} ver.</seg>
       </tuv>
@@ -10988,11 +11015,12 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T222239Z" creationid="mgalo" creationdate="20181112T222239Z">
-        <seg>Ruta d'instal·lació local:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T075209Z" creationid="mgalo" creationdate="20181112T222239Z">
+        <seg>Camí d'instal·lació local:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11484,11 +11512,12 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T222438Z" creationid="mgalo" creationdate="20181112T090807Z">
-        <seg>Les coincidències poden provenir tant de la memòria generada amb el projecte com dels fitxers TMX ubicats a la carpeta «/tm/».</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T074429Z" creationid="mgalo" creationdate="20181112T090807Z">
+        <seg>Les coincidències poden provenir tant de la traducció actual com dels fitxers TMX ubicats a la carpeta «/tm/».</seg>
       </tuv>
     </tu>
     <tu>
@@ -12483,14 +12512,16 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Dictionary Entries</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181111T230524Z" creationid="mgalo" creationdate="20181111T230524Z">
-        <seg>Avisa'm quan hi hagi coincidències del diccionari per a un segment concret</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T074916Z" creationid="mgalo" creationdate="20181111T230524Z">
+        <seg>Avisa'm quan hi hagi coincidències al diccionari per a un segment</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
       </tuv>
@@ -12499,11 +12530,12 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Glossary Hits</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181111T230448Z" creationid="mgalo" creationdate="20181111T230448Z">
-        <seg>Avisa'm quan hi hagi coincidències del glossari per a un segment concret</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T074922Z" creationid="mgalo" creationdate="20181111T230448Z">
+        <seg>Avisa'm quan hi hagi coincidències al glossari per a un segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -12890,6 +12922,7 @@ de la llicència o bé (si ho preferiu) qualsevol altra versió posterior.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT is refused access to the system property containing
 the name of your OS and/or the system property containing
@@ -13346,8 +13379,8 @@ Runtime Environment (JRE) al sistema.</seg>
       <tuv lang="en">
         <seg>Open Writable Glossary File</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181111T230507Z" creationid="mgalo" creationdate="20181111T230507Z">
-        <seg>Obre el fitxer del glossari modificable</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T074834Z" creationid="mgalo" creationdate="20181111T230507Z">
+        <seg>Obre el fitxer de glossari modificable</seg>
       </tuv>
     </tu>
     <tu>
@@ -13713,16 +13746,17 @@ s'esvaeix com la boira.</seg>
       <tuv lang="en">
         <seg>Path</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T112751Z" creationid="mgalo" creationdate="20181112T112751Z">
-        <seg>Ruta</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T075224Z" creationid="mgalo" creationdate="20181112T112751Z">
+        <seg>Camí</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Path:</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T092001Z" creationid="mgalo" creationdate="20181112T092001Z">
-        <seg>Ruta:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T075156Z" creationid="mgalo" creationdate="20181112T092001Z">
+        <seg>Camí:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18061,6 +18095,7 @@ L'àmbit d'un reemplaçament de text són els segments de destinació del projec
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The
 current folder will be used instead.</seg>
@@ -18348,6 +18383,7 @@ Proveu de corregir l'error i torneu a carregar el projecte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The configuration folder will be used
 instead.</seg>
@@ -18366,6 +18402,7 @@ en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The current folder will be used
 instead.</seg>
@@ -18995,6 +19032,7 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
@@ -19120,6 +19158,7 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This call MUST NOT be in swing thread</seg>
       </tuv>
@@ -19128,6 +19167,7 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This call MUST be in swing thread</seg>
       </tuv>
@@ -21971,11 +22011,12 @@ d'allà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T222553Z" creationid="mgalo" creationdate="20181112T091253Z">
-        <seg>Podeu crear entrades del glossari amb l'opció «Crea una entrada del glossari» del menú «Edita».</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T075005Z" creationid="mgalo" creationdate="20181112T091253Z">
+        <seg>Podeu crear entrades del glossari amb l'opció «Crea una entrada al glossari...» al menú «Edita».</seg>
       </tuv>
     </tu>
     <tu>
@@ -22205,6 +22246,7 @@ d'una finestra del Finder per poder-la executar des de qualsevol lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Your operating system refused to let OmegaT
 create its configuration folder.</seg>
@@ -23159,6 +23201,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>{1}, executed from '{2}'</seg>
       </tuv>
@@ -23985,6 +24028,18 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200124T223952Z" creationid="mgalo" creationdate="20181113T173950Z">
         <seg>Apreneu a utilitzar l'OmegaT en 5 minuts!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/Menus_Edit.xml</prop>
+      <prop type="prev">The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder.</prop>
+      <prop type="next">Allows the user create an entry in the default glossary file.</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Create Glossary Entry</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T074546Z" creationid="Marc Riera" creationdate="20200801T074546Z">
+        <seg>Crea una entrada al glossari</seg>
       </tuv>
     </tu>
     <tu>
