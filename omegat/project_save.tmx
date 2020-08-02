@@ -1094,8 +1094,8 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       <tuv lang="en">
         <seg>&amp;Replace Next</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T122839Z" creationid="mgalo" creationdate="20181115T114112Z">
-        <seg>Reemplaça le següe&amp;nt</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165018Z" creationid="mgalo" creationdate="20181115T114112Z">
+        <seg>Reemplaça el següe&amp;nt</seg>
       </tuv>
     </tu>
     <tu>
@@ -1860,9 +1860,9 @@ per a editar-lo com a projecte en equip.)</seg>
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191208T155544Z" creationid="Marc Riera" creationdate="20191113T073237Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165246Z" creationid="Marc Riera" creationdate="20191113T073237Z">
         <seg>--script=&lt;path&gt;
-		Fitxer d'script que s'executarà en esdeveniments del projecte.</seg>
+		Fitxer de script que s'executarà en esdeveniments del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2199,14 +2199,6 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181118T172444Z" creationid="mgalo" creationdate="20181117T235513Z">
         <seg>&lt;e0&gt;Cerques&lt;/e0&gt; i &lt;e1&gt;&lt;/e1&gt;Expressions regulars:&lt;e2&gt; Les cerques amb l'OmegaT poden ser tan simples com &lt;e3&gt;«mostra una llista de segments amb &lt;/e3&gt;&lt;e4&gt;la paraula "cangur"».</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>&lt;e0&gt;Segmentation&lt;/e0&gt;:translation memory tools work with textual units called segments.</seg>
-      </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181118T172344Z" creationid="mgalo" creationdate="20181117T005642Z">
-        <seg>&lt;e0&gt;Segmentació:&lt;/e0&gt; Les eines que utilitzen memòries de traducció funcionen en base a unes unitats que s'anomenen «segments».</seg>
       </tuv>
     </tu>
     <tu>
@@ -10931,14 +10923,6 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Languages selection</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150523T161238Z" creationid="Stephanie" creationdate="20150523T161238Z">
-        <seg>Selecció de llengües</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Last Changes...</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191207T234844Z" creationid="Packard Bell" creationdate="20150605T162053Z">
@@ -13198,16 +13182,6 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180212T224238Z" creationid="Marc Riera" creationdate="20180212T224238Z">
         <seg>L'OmegaT és una obra original de Keith Godfrey.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>OmegaT is then ready
-to be launched.</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T190810Z" creationid="Marc Riera" creationdate="20190924T141222Z">
-        <seg>L'OmegaT
-està llest per a executar-se.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16317,11 +16291,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Scripting languages</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T160439Z" creationid="Packard Bell" creationdate="20150605T160439Z">
-        <seg>Els llenguatges script</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165722Z" creationid="Packard Bell" creationdate="20150605T160439Z">
+        <seg>Llenguatges de scripts</seg>
       </tuv>
     </tu>
     <tu>
@@ -16330,6 +16305,15 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150801T121224Z" creationid="Alexandra" creationdate="20150526T161350Z">
         <seg>Connector de llenguatge script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Scripts</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165820Z" creationid="Marc Riera" creationdate="20200802T165820Z">
+        <seg>Scripts</seg>
       </tuv>
     </tu>
     <tu>
@@ -18867,11 +18851,12 @@ en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The following scripting languages have been implemented:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T160600Z" creationid="Packard Bell" creationdate="20150605T160600Z">
-        <seg>Els següents llenguatges script s'han implementat:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165709Z" creationid="Packard Bell" creationdate="20150605T160600Z">
+        <seg>S'han implementat els següents llenguatges de scripts:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19673,6 +19658,7 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
@@ -19909,20 +19895,6 @@ d'instal·lar el Kaptain.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200726T110552Z" creationid="Marc Riera" creationdate="20200122T230959Z">
         <seg>Per a utilitzar aquest script, primer heu
 d'instal·lar el Kaptain.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>To use this script, open a
-terminal window (console), change folder to the folder containing OmegaT.jar
-and the linux-install.sh script, and execute the script with ./linux-
-install.sh.</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T190948Z" creationid="Marc Riera" creationdate="20191110T185423Z">
-        <seg>Per utilitzar aquest script, obriu
-una finestra del terminal (consola), canvieu la carpeta de treball a la carpeta
-que conté els fitxers OmegaT.jar i linux-install.sh i executeu l'script amb
-«./linux-install.sh».</seg>
       </tuv>
     </tu>
     <tu>
@@ -21855,14 +21827,6 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>When you let OmegaT know the files that you need to translate, it looks for the files it understands based on file filtering rules, recognizes the textual parts within them, splits up the text groups according to the segmentation rules, and displays the segments one by one so that you can proceed with the translation.</seg>
-      </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181117T004540Z" creationid="mgalo" creationdate="20181117T004540Z">
-        <seg>Una vegada indiqueu a l'OmegaT quins són els fitxers que heu de traduir, l'OmegaT fa una cerca dels fitxers que pot interpretar en base a les regles de filtres de fitxers, en reconeix el text pròpiament dit, divideix els conjunts de text en funció de les regles de segmentació i mostra els segments d'un en un de manera que pugueu dur a terme la traducció.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181117T234452Z" creationid="mgalo" creationdate="20181114T115814Z">
@@ -23088,6 +23052,24 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165759Z" creationid="Marc Riera" creationdate="20200802T165759Z">
+        <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>currSegment = files[i].entries[j];</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165746Z" creationid="Marc Riera" creationdate="20200802T165746Z">
+        <seg>currSegment = files[i].entries[j];</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>docx compatibility</seg>
       </tuv>
@@ -23123,6 +23105,15 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>files = project.projectFiles;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165731Z" creationid="Marc Riera" creationdate="20200802T165731Z">
+        <seg>files = project.projectFiles;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>first join the &lt;u0&gt;user group&lt;/u0&gt; (via web or by sending an email to &lt;u1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;-subscribe@yahoogroups.com&lt;/u1&gt;).</seg>
       </tuv>
@@ -23136,6 +23127,24 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150722T191853Z" creationid="Stephanie" creationdate="20150722T191853Z">
         <seg>Llegiu primer la &lt;u0&gt;Guia de localització i personalització d'&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/u0&gt;, i uniu-vos al grup dels traductors d'&lt;a2&gt;OmegaT&lt;/a2&gt; via web o mitjançant un correu electrònic a &lt;u3&gt;omegat-l10n-request@lists.sourceforge.net&lt;/u3&gt; amb l'assumpte "subscribe".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>for (i in 0 ..&lt; files.size())</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165735Z" creationid="Marc Riera" creationdate="20200802T165735Z">
+        <seg>for (i in 0 ..&lt; files.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165742Z" creationid="Marc Riera" creationdate="20200802T165742Z">
+        <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
       </tuv>
     </tu>
     <tu>
@@ -23309,6 +23318,24 @@ creï la carpeta de configuració.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165813Z" creationid="Marc Riera" creationdate="20200802T165813Z">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>if (project.getTranslationInfo(currSegment))</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165749Z" creationid="Marc Riera" creationdate="20200802T165749Z">
+        <seg>if (project.getTranslationInfo(currSegment))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>init &lt;source language&gt; &lt;target language&gt;
 		Initialize a minimal team project with the specified languages.</seg>
       </tuv>
@@ -23417,10 +23444,28 @@ creï la carpeta de configuració.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>source = currSegment.getSrcText();</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165753Z" creationid="Marc Riera" creationdate="20200802T165753Z">
+        <seg>source = currSegment.getSrcText();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>src (URL of &amp;images)</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181109T235329Z" creationid="mgalo" creationdate="20181109T235329Z">
         <seg>src (URL d'&amp;imatges)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165756Z" creationid="Marc Riera" creationdate="20200802T165756Z">
+        <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23429,14 +23474,6 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150525T224335Z" creationid="Stephanie" creationdate="20150525T173523Z">
         <seg>Els continguts de la carpeta source.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>the omegat project file - &lt;f0&gt;omegat.project&lt;/f0&gt;</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150722T185145Z" creationid="Stephanie" creationdate="20150722T185145Z">
-        <seg>La carpeta omegat del projecte - &lt;f0&gt;omegat.project&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23514,6 +23551,15 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145756Z" creationid="Marc Riera" creationdate="20190924T145756Z">
         <seg>x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>{</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165739Z" creationid="Marc Riera" creationdate="20200802T165739Z">
+        <seg>{</seg>
       </tuv>
     </tu>
     <tu>
@@ -23665,6 +23711,15 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T120535Z" creationid="Marc Riera" creationdate="20190520T120535Z">
         <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165803Z" creationid="Marc Riera" creationdate="20200802T165803Z">
+        <seg>}</seg>
       </tuv>
     </tu>
     <tu>
