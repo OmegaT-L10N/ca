@@ -2203,14 +2203,6 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;e0&gt;Shortcuts customization:&lt;/e0&gt; shortcuts can be customized to your personal preferences</seg>
-      </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181118T172621Z" creationid="mgalo" creationdate="20181118T001037Z">
-        <seg>&lt;e0&gt;Personalització de dreceres:&lt;/e0&gt; Les dreceres es poden personalitzar segons les pròpies preferències.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>&lt;e0&gt;TaaS Terminology Lookup&lt;/e0&gt;: when checked, will allow querying TaaS data on a segment by segment basis.</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150722T194644Z" creationid="Stephanie" creationdate="20150722T194644Z">
@@ -2239,14 +2231,6 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="ca" changeid="MoiTrad" changedate="20181204T170143Z" creationid="mgalo" creationdate="20181116T164151Z">
         <seg>&lt;e0&gt;Memòria de traducció:&lt;/e0&gt;L'&lt;a1&gt;OmegaT&lt;/a1&gt; desa les traduccions en un fitxer amb una memòria de traducció.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>&lt;e0&gt;Translation process:&lt;/e0&gt; Imagine having to translate something; from a single file to a folder containing subfolders each with a number of files in a variety of formats.</seg>
-      </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181117T001732Z" creationid="mgalo" creationdate="20181117T001541Z">
-        <seg>&lt;e0&gt;Procés de traducció:&lt;/e0&gt; Imagineu que heu de traduir alguna cosa; ja sigui només un sol fitxer o tota una carpeta que conté subcarpetes amb una sèrie de fitxers en diversos formats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2303,14 +2287,6 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150722T185633Z" creationid="Stephanie" creationdate="20150722T185633Z">
         <seg>&lt;e0&gt;Remetre els canvis locals al servidor: &lt;/e0&gt; feu clic dret a la carpeta local checkout i seleccioneu &lt;g1&gt;SVN Commit....&lt;/g1&gt; La finestra de remissió, que apareix més avall, s'obrirà.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>&lt;e0&gt;commit: &lt;/e0&gt;once a new local version of the checked-out material is ready, it can be committed to the repository and thus made available to the rest of the team.</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150722T184217Z" creationid="Stephanie" creationdate="20150722T184217Z">
-        <seg>&lt;e0&gt;Commit: &lt;/e0&gt; una vegada està llesta una nova versió del material constatat, es pot remetre al repositori i, per tant, fer-la accesible per a la resta de membres del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2629,14 +2605,6 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
-        <seg>A number of rule sets are provided while additional rules can be defined by the user, as described in this chapter.</seg>
-      </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181118T171951Z" creationid="mgalo" creationdate="20181117T235120Z">
-        <seg>Hi ha una sèrie de conjunts de regles que ja venen donats, mentre que les regles addicionals poden ser definides per l'usuari, tal com s'explica en aquest capítol. </seg>
-      </tuv>
-    </tu>
-    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>A restart is required in order to apply these changes</seg>
@@ -2655,14 +2623,6 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150523T162322Z" creationid="Stephanie" creationdate="20150523T162104Z">
-        <seg>Un lematitzador en anglès, per exemple, hauria d'identificar la sèrie "cats" (i possiblement també "catlike", "catty" etc.) basant-se en l'arrel "cat", i "stemmer", "stemming", "stemmed" basant-se en "stem".</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>A stemming algorithm reduces the words "fishing", "fished", "fish", and "fisher" to the root word, "fish".</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150523T162458Z" creationid="Stephanie" creationdate="20150523T162458Z">
@@ -2674,7 +2634,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
         <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150604T202036Z" creationid="Alexandra" creationdate="20150526T160028Z">
-        <seg>Una guia pas a pas sobre com utilitzar les funcions d'extracció de Text i de fusió de Text des de Rainbow i el pre- i post-processament d'arxius a ser traduïts fent servir OmegaT.</seg>
+        <seg>Una guia pas a pas sobre com utilitzar les funcions d'extracció de Text i de fusió de Text des de Rainbow i el pre- i postprocessament de fitxers a ser traduïts fent servir OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3012,14 +2972,6 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>After copying the required files into the checkout folder you will notice that its icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository.</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150525T224523Z" creationid="Stephanie" creationdate="20150525T175140Z">
-        <seg>Després de copiar els arxius necessaris a la carpeta checkout s'adonareu que la vostra icona ha canviat: la insígnia OK verda ha passat a un signe d'exclamació vermell, la qual cosa significa el canvi en la còpia local del repositori.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215021Z" creationid="mgalo" creationdate="20181114T114705Z">
@@ -3238,14 +3190,6 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
-        <seg>Also &lt;f3&gt;ignored_words.txt&lt;/f3&gt; and &lt;f4&gt;learned_words.txt&lt;/f4&gt; in the &lt;f5&gt;omegat&lt;/f5&gt; folder may be worth sharing and maintaining on the team level.</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150722T185401Z" creationid="Stephanie" creationdate="20150722T185401Z">
-        <seg>A més, també seria recomanable compartir i guardar a nivell d'equip &lt;f3&gt;ignored_words.txt&lt;/f3&gt; i &lt;f4&gt;learned_words.txt&lt;/f4&gt; en la carpeta &lt;f5&gt;omegat&lt;/f5&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Alt+F2</seg>
@@ -3292,7 +3236,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
         <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150604T201807Z" creationid="Alexandra" creationdate="20150526T124519Z">
-        <seg>Una guía d'Inici ràpid, que us guiarà a través dels principals procediments i funcions d'OmegaT, es mostrarà a la interfície d'usuari OmegaT per defecte.</seg>
+        <seg>Una guia d'Inici ràpid, que us guiarà a través dels principals procediments i funcions d'OmegaT, es mostrarà a la interfície d'usuari OmegaT per defecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5036,14 +4980,6 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
-        <seg>Compiling OmegaT from source</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150604T201954Z" creationid="Alexandra" creationdate="20150526T155715Z">
-        <seg>Compilació d'OmegaT des de&lt;s0/&gt;font</seg>
-      </tuv>
-    </tu>
-    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Compress whitespace in translated document</seg>
@@ -5890,14 +5826,6 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Describes OmegaT's spellchecking feature.</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150604T201914Z" creationid="Alexandra" creationdate="20150526T155445Z">
-        <seg>Es descriu la funció de correcció ortogràfica de OmegaT.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Describes how to use OmegaT in conjunction with Iceni Infix in order to translate files in PDF format.</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150526T155414Z" creationid="Alexandra" creationdate="20150526T155414Z">
@@ -6696,7 +6624,7 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
         <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181114T115856Z" creationid="mgalo" creationdate="20181114T115856Z">
-        <seg>Durant el procés de traducció, podeu servir-vos dels menús &lt;g4&gt;Edita&lt;/g4&gt; i &lt;g5&gt;Ves a&lt;/g5&gt; per dur a terme diverses funcions.</seg>
+        <seg>Durant el procés de traducció, podeu servir-vos dels menús &lt;g4&gt;Edita&lt;/g4&gt; i &lt;g5&gt;Vés a&lt;/g5&gt; per dur a terme diverses funcions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10641,15 +10569,6 @@ durant la primera execució.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
-        <seg>Kos Ivantsof (localisation manager)</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T142047Z" creationid="Marc Riera" creationdate="20190924T142047Z">
-        <seg>Kos Ivantsov (gestor de la localització)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <note>&lt;status:approved&gt;</note>
-      <tuv lang="en">
         <seg>Kos Ivantsov</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T123156Z" creationid="Marc Riera" creationdate="20190520T123156Z">
@@ -11301,15 +11220,6 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T151306Z" creationid="mgalo" creationdate="20181113T090359Z">
         <seg>Lucene (llicència Apache 2.0)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <note>&lt;status:approved&gt;</note>
-      <tuv lang="en">
-        <seg>Lucie Vecerova (Facebook community manager)</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T142144Z" creationid="Marc Riera" creationdate="20190924T142144Z">
-        <seg>Lucie Vecerova (gestora de la comunitat de Facebook)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12895,7 +12805,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
         <seg>Okapi Filters Plugin</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150604T202343Z" creationid="Alexandra" creationdate="20150526T161454Z">
-        <seg>Connector Filtres Okapi</seg>
+        <seg>Connector de filtres de l'Okapi</seg>
       </tuv>
     </tu>
     <tu>
@@ -12903,7 +12813,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
         <seg>Okapi Framework</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150801T111527Z" creationid="Alexandra" creationdate="20150526T134256Z">
-        <seg>Plugin Okapi</seg>
+        <seg>Okapi Framework</seg>
       </tuv>
     </tu>
     <tu>
@@ -13258,14 +13168,6 @@ Runtime Environment (JRE) al sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>OmegaT supports two of the popular version control systems (VCS for short), &lt;u0&gt;Apache Subversion&lt;/u0&gt; (often abbreviated SVN, after the command name svn) and &lt;u1&gt;Git&lt;/u1&gt;.</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150722T183659Z" creationid="Stephanie" creationdate="20150722T183659Z">
-        <seg>OmegaT dóna suport a dos populars sistemes de control de versions (VCS per abreujar), &lt;u0&gt;Apache Subversion&lt;/u0&gt; (sovint abreujat SVN, degut al nom de la comanda svn) i &lt;u1&gt;Git&lt;/u1&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>OmegaT text export function</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150526T155648Z" creationid="Alexandra" creationdate="20150526T155648Z">
@@ -13450,14 +13352,6 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150525T223801Z" creationid="Stephanie" creationdate="20150524T230444Z">
         <seg>Una vegada el servidor SVN estigui disponible, els administradors del projecte hauran d'instal·lar localment un client SVN, per tal d'administrar el contingut del projecte en els seus equips.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Once the operation has finished, you can check the said folder: it should now contain a subfolder .svn and a green OK badge on its icon will show, that the contents of the folder are up-to-date:</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150525T173220Z" creationid="Stephanie" creationdate="20150525T172648Z">
-        <seg>Una vegada hagi acabat aquesta operació, podeu comprovar la susdita carpeta: aquesta hauria de contenir ara una subcarpeta .svn i, si hi ha una insígnia OK verda a la icona d'aquesta, voldrà dir que els continguts de la subcarpeta estan actualitzats: </seg>
       </tuv>
     </tu>
     <tu>
@@ -14920,14 +14814,6 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T102716Z" creationid="mgalo" creationdate="20181112T102716Z">
         <seg>El projecte no s'actualitzarà.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Projects can be managed according to your development style and needs.</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150525T163033Z" creationid="Stephanie" creationdate="20150525T163033Z">
-        <seg>Els projectes poden ser gestionats d'acord al vostre estil i necessitats de desenvolupament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17148,14 +17034,6 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Sign in to the site first or - if it is your first time on the site, register for it and note your user name and password for the future projects.</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150525T223912Z" creationid="Stephanie" creationdate="20150525T161910Z">
-        <seg>Inicieu sessió primer en la pàgina o, si és la primera vegada, registreu-s'hi i anoteu el vostre nom d'usuari i la contrasenya per a pròxims projectes.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Similar as in the case of OmegaT projects, you will need to have separate repositories for different language pairs.</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150525T163152Z" creationid="Stephanie" creationdate="20150525T163152Z">
@@ -17952,7 +17830,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
         <seg>TKount text counting utility.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150801T121801Z" creationid="Alexandra" creationdate="20150526T135140Z">
-        <seg>Recurs per el recompte de paraules.</seg>
+        <seg>Recurs per al recompte de paraules.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18526,14 +18404,6 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>The LanguageTool in OmegaT</seg>
-      </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T125204Z" creationid="Packard Bell" creationdate="20150528T180401Z">
-        <seg>LanguageTool a l'OmegaT</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>The LanguageTool plugin is included in OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T125224Z" creationid="Packard Bell" creationdate="20150528T180425Z">
@@ -18685,14 +18555,6 @@ Proveu de corregir l'error i torneu a carregar el projecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181116T161608Z" creationid="Stephanie" creationdate="20150525T162634Z">
         <seg>L'URL que apareix baix de Project Services (Serveis de projecte) serà utilitzada pel servidor SVN per connectar els clients al servidor SVN que acabeu d'establir.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>The administrator may decide to include following folders and their contents as well: &lt;f0&gt;tm&lt;/f0&gt;, &lt;f1&gt;glossary&lt;/f1&gt; and &lt;f2&gt;dictionary&lt;/f2&gt;.</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150722T185314Z" creationid="Stephanie" creationdate="20150722T185314Z">
-        <seg>L'admistrador pot incloure les següents carpetes, així com el seu contingut: &lt;f0&gt;tm&lt;/f0&gt;, &lt;f1&gt;glossary&lt;/f1&gt; i &lt;f2&gt;dictionary&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19128,14 +18990,6 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
-      </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181117T010100Z" creationid="mgalo" creationdate="20181117T010100Z">
-        <seg>«Segmentació basada en regles» sol ser un sinònim de «segmentació basada en oracions». </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>The rules applied (if any) will depend on the source and target language of the project.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T125531Z" creationid="Packard Bell" creationdate="20150528T181235Z">
@@ -19153,14 +19007,6 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>The second of these chapters describes the various subfolders and files in a translation project and their role as well as other user and application files associated with OmegaT.</seg>
-      </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181117T233821Z" creationid="mgalo" creationdate="20181117T233806Z">
-        <seg>«Fitxers i carpetes de l'OmegaT» descriu les diverses subcarpetes i fitxers que pot tenir un projecte de traducció i les funcions que tenen, així com també descriu d'altres fitxers de l'aplicació i per a l'usuari vinculats a l'OmegaT.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>The server can exist in the local network but in the majority of cases it will be available on internet, i.e. via URL address.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181116T162119Z" creationid="Stephanie" creationdate="20150523T160317Z">
@@ -19174,22 +19020,6 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ca" changeid="marc" changedate="20191030T211233Z" creationid="marc" creationdate="20191030T211233Z">
         <seg>El servidor no és un servidor d'Apertium vàlid.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>The server keeps the information on checkouts, so that later commits (see below) can be performed in an orderly fashion.</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150524T185309Z" creationid="Stephanie" creationdate="20150524T185309Z">
-        <seg>El servidor conserva la informació en checkouts, de manera més tard es poden dur a terme commits (veure més avall) d'una manera ordenada.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>The server makes sure that any conflicting changes, due to two members working on the same checked-out contents, will be resolved.</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150525T223534Z" creationid="Stephanie" creationdate="20150524T224732Z">
-        <seg>El servidor assegura que qualsevol canvi conflictiu, a causa de què dos membres que treballen en els mateixos continguts constatats, es resoldran.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19470,7 +19300,7 @@ en sou víctima d'una.</seg>
         <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200121T215659Z" creationid="mgalo" creationdate="20181114T121135Z">
-        <seg>Estan protegides per tal que no se'n pugui modificar el contingut. Tot i així, podeu suprimir-les, introduir-les manualment o moure-les com vulgueu dins del text de destinació.</seg>
+        <seg>Estan protegides per tal que no se'n pugui modificar el contingut. Així i tot, podeu suprimir-les, introduir-les manualment o moure-les com vulgueu dins del text de destinació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19699,14 +19529,6 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150526T134432Z" creationid="Alexandra" creationdate="20150526T134432Z">
         <seg>Aquest lloc web</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>This will actually do a checkout of the project in a local folder.</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150525T181607Z" creationid="Stephanie" creationdate="20150525T181607Z">
-        <seg>Esta acció, en realitat, baixarà el projecte en una carpeta local.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20691,14 +20513,6 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Under Linux, if &lt;a2&gt;OmegaT&lt;/a2&gt; is still asking for your credentials, you can checking the &lt;g3&gt;Force saving password as plain text&lt;/g3&gt; checkbox.</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150722T185838Z" creationid="Stephanie" creationdate="20150722T185838Z">
-        <seg>A Linux, si &lt;a2&gt;OmegaT&lt;/a2&gt; continua demanant-vos les vostres credencials, comproveu la casella de selecció &lt;g3&gt;Force saving password as plain text&lt;/g3&gt; </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Undo Last Action</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161419Z" creationid="Packard Bell" creationdate="20150605T161419Z">
@@ -21065,7 +20879,7 @@ a la línia {1}, columna {2}.</seg>
         <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181111T225845Z" creationid="mgalo" creationdate="20181111T225845Z">
-        <seg>Utilitza &amp;XML per a etiquetes independents (ex.: &lt;i/&gt;)</seg>
+        <seg>Utilitza &amp;XML per a etiquetes independents (p. ex.: &lt;i/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21377,7 +21191,7 @@ subscriure-us-hi:</seg>
         <seg>Utility for converting Trados TagEditor (TTX) files to an intermediate format, enabling them to be translated in OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150604T184337Z" creationid="Alexandra" creationdate="20150526T140306Z">
-        <seg>Recurs per a la conversió d'arxius de Trados TagEditor (TTX) a un format intermedi que els habilita per ser traduïts en OmegaT.</seg>
+        <seg>Recurs per a la conversió de fitxers de Trados TagEditor (TTX) a un format intermedi que els habilita per ser traduïts en OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21807,14 +21621,6 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T153734Z" creationid="mgalo" creationdate="20181111T222806Z">
         <seg>En utilitzar expressions regulars, la cadena de reemplaçament admet referències a grups definits en la cadena de cerca.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>When you are ready to view the final product, you can export the translated files, open them in the appropriate application and view the translation in the final format...</seg>
-      </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181117T002148Z" creationid="mgalo" creationdate="20181117T002148Z">
-        <seg>Una vegada tot estigui llest i vulgueu veure el resultat, podeu exportar els fitxers traduïts, obrir-los amb l'apliació que correspongui i veure la traducció en el format final.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22328,7 +22134,7 @@ can then launch the Kaptain launch script with:</seg>
         <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181117T234529Z" creationid="mgalo" creationdate="20181114T123843Z">
-        <seg>Podeu afegir termes nous al glossari amb la drecera &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, o també podeu copiar glossaris existents a la subcarpeta &lt;f1&gt;/glossari/&lt;/f1&gt; de la carpeta del projecte, i l'OmegaT cercarà paraules en aquests glossaris automàticament.</seg>
+        <seg>Podeu afegir termes nous al glossari amb la drecera &lt;k0&gt;Ctrl+Maj+G&lt;/k0&gt;, o també podeu copiar glossaris existents a la subcarpeta &lt;f1&gt;/glossari/&lt;/f1&gt; de la carpeta del projecte, i l'OmegaT cercarà paraules en aquests glossaris automàticament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23119,14 +22925,6 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150722T191719Z" creationid="Stephanie" creationdate="20150722T191719Z">
         <seg>Primer subscriviu-vos al &lt;u0&gt;grup d'usuaris&lt;/u0&gt; (des de la pàgina web o enviant un missatge de correu electrònic a &lt;u1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;-subscribe@yahoogroups.com&lt;/u1&gt;).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>first read the &lt;u0&gt;Localizing and Customizing &lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/u0&gt; guide, and join the &lt;a2&gt;OmegaT&lt;/a2&gt; translators' group via web or by sending an email to &lt;u3&gt;omegat-l10n-request@lists.sourceforge.net&lt;/u3&gt; with subject "subscribe".</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150722T191853Z" creationid="Stephanie" creationdate="20150722T191853Z">
-        <seg>Llegiu primer la &lt;u0&gt;Guia de localització i personalització d'&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/u0&gt;, i uniu-vos al grup dels traductors d'&lt;a2&gt;OmegaT&lt;/a2&gt; via web o mitjançant un correu electrònic a &lt;u3&gt;omegat-l10n-request@lists.sourceforge.net&lt;/u3&gt; amb l'assumpte "subscribe".</seg>
       </tuv>
     </tu>
     <tu>
