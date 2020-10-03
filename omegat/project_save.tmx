@@ -3181,6 +3181,15 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>All DOCX files in the project</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223655Z" creationid="Marc Riera" creationdate="20201003T223655Z">
+        <seg>Tots els fitxers DOCX del projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>All collections (public and private) will be queried for the source and target language.</seg>
       </tuv>
@@ -3967,6 +3976,15 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Beautify resulting DOCX</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T224249Z" creationid="Marc Riera" creationdate="20201003T224249Z">
+        <seg>Millora l'aspecte del fitxer .DOCX resultant</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Being the language behind popular software such as Firefox it is a familiar and preferred programming tool in the open-source domain.</seg>
       </tuv>
@@ -4729,6 +4747,15 @@ Demana una altra copa!</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Cleaning entry '{0}'...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T224017Z" creationid="Marc Riera" creationdate="20201003T224017Z">
+        <seg>S'està netejant l'entrada «{0}»...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Clear</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T173355Z" creationid="Marc Riera" creationdate="20191110T223218Z">
@@ -5355,10 +5382,37 @@ Demana una altra copa!</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223610Z" creationid="Marc Riera" creationdate="20201003T223610Z">
+        <seg>Converteix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110413Z" creationid="Marc Riera" creationdate="20190521T110413Z">
         <seg>Converteix un projecte en equip antic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Converting all .DOCX in the project...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223820Z" creationid="Marc Riera" creationdate="20201003T223820Z">
+        <seg>S'estan convertint tots els fitxers .DOCX del projecte...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Converting current .DOCX...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223832Z" creationid="Marc Riera" creationdate="20201003T223832Z">
+        <seg>S'està convertint el fitxer .DOCX actual...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5594,6 +5648,15 @@ Demana una altra copa!</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Create backup files of original DOCX</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223646Z" creationid="Marc Riera" creationdate="20201003T223646Z">
+        <seg>Crea còpies de seguretat dels fitxers DOCX originals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190925T071214Z" creationid="Marc Riera" creationdate="20190925T071214Z">
@@ -5655,6 +5718,15 @@ Demana una altra copa!</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Creating output file '{0}'</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223959Z" creationid="Marc Riera" creationdate="20201003T223959Z">
+        <seg>S'està creant el fitxer de sortida «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Creating translated documents: {0}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112457Z" creationid="Marc Riera" creationdate="20180221T112457Z">
@@ -5709,6 +5781,15 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181117T234501Z" creationid="mgalo" creationdate="20181111T221338Z">
         <seg>Ctrl+U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Current DOCX file</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223618Z" creationid="Marc Riera" creationdate="20201003T223618Z">
+        <seg>Fitxer DOCX actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -11092,6 +11173,105 @@ durant la primera execució.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Level</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223535Z" creationid="Marc Riera" creationdate="20201003T223535Z">
+        <seg>Nivell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Level 0:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223436Z" creationid="Marc Riera" creationdate="20201003T223436Z">
+        <seg>Nivell 0:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Level 1:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223441Z" creationid="Marc Riera" creationdate="20201003T223441Z">
+        <seg>Nivell 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Level 2:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223443Z" creationid="Marc Riera" creationdate="20201003T223443Z">
+        <seg>Nivell 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Level 3:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223444Z" creationid="Marc Riera" creationdate="20201003T223444Z">
+        <seg>Nivell 3:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Level 4:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223445Z" creationid="Marc Riera" creationdate="20201003T223445Z">
+        <seg>Nivell 4:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Level 5:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223445Z" creationid="Marc Riera" creationdate="20201003T223445Z">
+        <seg>Nivell 5:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Level 6:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223446Z" creationid="Marc Riera" creationdate="20201003T223446Z">
+        <seg>Nivell 6:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Level 7:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223447Z" creationid="Marc Riera" creationdate="20201003T223447Z">
+        <seg>Nivell 7:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Level 8:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223448Z" creationid="Marc Riera" creationdate="20201003T223448Z">
+        <seg>Nivell 8:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Level 9:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223450Z" creationid="Marc Riera" creationdate="20201003T223450Z">
+        <seg>Nivell 9:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Licensing information
 =====================</seg>
       </tuv>
@@ -12181,6 +12361,24 @@ as the Applications folder.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200124T225024Z" creationid="Marc Riera" creationdate="20200122T230757Z">
         <seg>Moveu la carpeta a una ubicació
 adequada, com ara la carpeta «Aplicacions».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Moving cleaned '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T224058Z" creationid="Marc Riera" creationdate="20201003T224058Z">
+        <seg>S'està movent el fitxer netejat «{0}» a «{1}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Moving original '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T224045Z" creationid="Marc Riera" creationdate="20201003T224045Z">
+        <seg>S'està movent el fitxer original «{0}» a «{1}»</seg>
       </tuv>
     </tu>
     <tu>
@@ -13715,6 +13913,15 @@ Runtime Environment (JRE) al sistema.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Opening input file '{0}'</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223945Z" creationid="Marc Riera" creationdate="20201003T223945Z">
+        <seg>S'està obrint el fitxer d'entrada «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Opening team project</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230631Z" creationid="Marc Riera" creationdate="20191112T230631Z">
@@ -14842,6 +15049,15 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T185112Z" creationid="mgalo" creationdate="20181112T221921Z">
         <seg>S'ha iniciat la compilació del projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Project contains no files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223712Z" creationid="Marc Riera" creationdate="20201003T223712Z">
+        <seg>El projecte no conté cap fitxer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15988,6 +16204,15 @@ les paraules «No s'ha trobat la pàgina».</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Running Tagwipe for file '{0}'</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223758Z" creationid="Marc Riera" creationdate="20201003T223758Z">
+        <seg>S'està executant la neteja d'etiquetes del fitxer «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Running on Java {0} ({1}-bit)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200726T123008Z" creationid="mgalo" creationdate="20181107T233920Z">
@@ -16978,6 +17203,15 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T105655Z" creationid="Marc Riera" creationdate="20190521T105655Z">
         <seg>Motor seleccionat: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Selected options:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223805Z" creationid="Marc Riera" creationdate="20201003T223805Z">
+        <seg>Opcions seleccionades:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18255,6 +18489,24 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T132825Z" creationid="Marc Riera" creationdate="20190520T124423Z">
         <seg>Espais de les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Tagwipe</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223526Z" creationid="Marc Riera" creationdate="20201003T223526Z">
+        <seg>Neteja d'etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Tagwipe finished, reloading project...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223930Z" creationid="Marc Riera" creationdate="20201003T223930Z">
+        <seg>La neteja d'etiquetes ha finalitzat; s'està tornant a carregar el projecte...</seg>
       </tuv>
     </tu>
     <tu>
