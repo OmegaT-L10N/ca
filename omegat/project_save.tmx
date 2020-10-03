@@ -4270,6 +4270,15 @@ Demana una altra copa!</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Canceled</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223011Z" creationid="Marc Riera" creationdate="20201003T223011Z">
+        <seg>S'ha cancel·lat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Cancelled creating new team project</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T145636Z" creationid="mgalo" creationdate="20181112T102836Z">
@@ -4671,6 +4680,15 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T150228Z" creationid="mgalo" creationdate="20181111T222423Z">
         <seg>Trieu un projecte MED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Choose SVN repository to perform cleanup</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T222957Z" creationid="Marc Riera" creationdate="20201003T222957Z">
+        <seg>Trieu un dipòsit de l'SVN per realitzar la neteja</seg>
       </tuv>
     </tu>
     <tu>
@@ -7551,11 +7569,12 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Example - Search and Replace</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T143751Z" creationid="Marc Riera" creationdate="20190924T143751Z">
-        <seg>Exemple - Cerca i reemplaça</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T222615Z" creationid="Marc Riera" creationdate="20190924T143751Z">
+        <seg>Exemple: cerca i reemplaça</seg>
       </tuv>
     </tu>
     <tu>
@@ -11239,6 +11258,15 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Local working copies cleaned up: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223210Z" creationid="Marc Riera" creationdate="20201003T223210Z">
+        <seg>Còpies de treball local netejades: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Localization</seg>
       </tuv>
@@ -11963,6 +11991,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Modified Segments:</seg>
       </tuv>
@@ -14023,6 +14052,15 @@ s'esvaeix com la boira.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T222940Z" creationid="Marc Riera" creationdate="20201003T222940Z">
+        <seg>Realitza una neteja de l'SVN en el projecte actual o en qualsevol dipòsit de l'SVN local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Perhaps it is already opened in another OmegaT instance</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T225906Z" creationid="mgalo" creationdate="20181115T225906Z">
@@ -14173,6 +14211,15 @@ si cal fer res més.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T222328Z" creationid="Marc Riera" creationdate="20201003T222328Z">
+        <seg>Baixeu i instal·leu la versió més recent del Java JDK d'Oracle.com i torneu-ho a provar.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T221450Z" creationid="Marc Riera" creationdate="20201003T221450Z">
@@ -14314,6 +14361,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Please try again after you open a project.</seg>
       </tuv>
@@ -15426,6 +15474,15 @@ les paraules «No s'ha trobat la pàgina».</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Remove bidirectionality control characters in the current target</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T222714Z" creationid="Marc Riera" creationdate="20201003T222714Z">
+        <seg>Suprimeix els caràcters de control bidireccional del text de destinació actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220229Z" creationid="Marc Riera" creationdate="20180221T114914Z">
@@ -15439,6 +15496,15 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220151Z" creationid="Marc Riera" creationdate="20180221T114813Z">
         <seg>Voleu suprimir el patró?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Remove tags in the current target</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T222505Z" creationid="Marc Riera" creationdate="20201003T222505Z">
+        <seg>Suprimeix les etiquetes del text de destinació actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -15514,6 +15580,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Replace</seg>
       </tuv>
@@ -16011,6 +16078,15 @@ les paraules «No s'ha trobat la pàgina».</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>SVN - Cleanup (recursive)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T222901Z" creationid="Marc Riera" creationdate="20201003T222901Z">
+        <seg>SVN: neteja (recursiva)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>SVNKit (TMate License)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T151201Z" creationid="mgalo" creationdate="20181109T233557Z">
@@ -16344,6 +16420,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Search</seg>
       </tuv>
@@ -16395,6 +16472,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Search and Replace</seg>
       </tuv>
@@ -17165,6 +17243,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Simple search and replace script</seg>
       </tuv>
@@ -17791,6 +17870,42 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T162452Z" creationid="Packard Bell" creationdate="20150605T162452Z">
         <seg>Els passos per a reproduir l'error</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Strip BiDi Marks</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T222640Z" creationid="Marc Riera" creationdate="20201003T222640Z">
+        <seg>Suprimeix les marques bidireccionals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Strip BiDi marks in current segment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T222727Z" creationid="Marc Riera" creationdate="20201003T222727Z">
+        <seg>Suprimeix les marques bidireccionals del segment actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Strip Tags</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T222447Z" creationid="Marc Riera" creationdate="20201003T222447Z">
+        <seg>Suprimeix les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Strip tags in current segment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T222522Z" creationid="Marc Riera" creationdate="20201003T222522Z">
+        <seg>Suprimeix les etiquetes del segment actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -19141,6 +19256,15 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>The script will quit now.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223145Z" creationid="Marc Riera" creationdate="20201003T223145Z">
+        <seg>L'script es tancarà immediatament.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The server can exist in the local network but in the majority of cases it will be available on internet, i.e. via URL address.</seg>
       </tuv>
@@ -19345,6 +19469,15 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T120511Z" creationid="Marc Riera" creationdate="20190520T120511Z">
         <seg>Hi ha molts connectors disponibles per a OmegaT en línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>There are no local working copies in {0}.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223215Z" creationid="Marc Riera" creationdate="20201003T223133Z">
+        <seg>No hi ha còpies de treball local a {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19648,6 +19781,15 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T100237Z" creationid="mgalo" creationdate="20181112T100237Z">
         <seg>Aquest projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>This script is intended to run in OmegaT 3.6 and newer.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223303Z" creationid="Marc Riera" creationdate="20201003T223303Z">
+        <seg>Aquest script està dissenyat per executar-se a l'OmegaT 3.6 o posterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22252,6 +22394,15 @@ can then launch the Kaptain launch script with:</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>You are running OmegaT version {0}.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223236Z" creationid="Marc Riera" creationdate="20201003T223236Z">
+        <seg>Esteu executant la versió {0} de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T160834Z" creationid="Marc Riera" creationdate="20191112T231228Z">
@@ -23548,6 +23699,15 @@ creï la carpeta de configuració.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>{0} is not a local working copy, skipping.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223121Z" creationid="Marc Riera" creationdate="20201003T223121Z">
+        <seg>{0} no és una còpia de treball local; s'omet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>{0} loaded.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072513Z" creationid="Marc Riera" creationdate="20191113T072513Z">
@@ -23614,6 +23774,15 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110857Z" creationid="Marc Riera" creationdate="20190521T110857Z">
         <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>{0}:	cleanup done!!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223057Z" creationid="Marc Riera" creationdate="20201003T223057Z">
+        <seg>{0}:	la neteja ha finalitzat!</seg>
       </tuv>
     </tu>
     <tu>
