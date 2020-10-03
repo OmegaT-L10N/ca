@@ -1970,6 +1970,15 @@ per a editar-lo com a projecte en equip.)</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>.repositories</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225554Z" creationid="Marc Riera" creationdate="20201003T225554Z">
+        <seg>.repositories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T103859Z" creationid="mgalo" creationdate="20181112T103859Z">
@@ -1997,6 +2006,15 @@ per a editar-lo com a projecte en equip.)</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>103/114</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225310Z" creationid="Marc Riera" creationdate="20201003T225310Z">
+        <seg>103/114</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>2) Increase the amount of memory available to OmegaT, by
 specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
@@ -2006,6 +2024,24 @@ The current setting is {0}MB;</seg>
         <seg>2) Augmenteu la quantitat de memòria disponible per a l'OmegaT
 especificant «java -Xmx&lt;mida-en-MB&gt;M -jar OmegaT.jar» a la
 línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>27/27</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225300Z" creationid="Marc Riera" creationdate="20201003T225300Z">
+        <seg>27/27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>31175</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225307Z" creationid="Marc Riera" creationdate="20201003T225307Z">
+        <seg>31175</seg>
       </tuv>
     </tu>
     <tu>
@@ -2033,6 +2069,15 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223041Z" creationid="Marc Riera" creationdate="20180214T223041Z">
         <seg>85%-94%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>9319/16338</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225303Z" creationid="Marc Riera" creationdate="20201003T225303Z">
+        <seg>9319/16338</seg>
       </tuv>
     </tu>
     <tu>
@@ -4669,6 +4714,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check whole project</seg>
       </tuv>
@@ -7579,6 +7625,15 @@ ningú no sent els vostres crits.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Errors found:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225932Z" creationid="Marc Riera" creationdate="20201003T225932Z">
+        <seg>Errors detectats:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Escaped binary char contains malformed data ({0})!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T162600Z" creationid="Marc Riera" creationdate="20180214T223859Z">
@@ -8814,6 +8869,15 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Global spell checking</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225919Z" creationid="Marc Riera" creationdate="20201003T225919Z">
+        <seg>Corrector ortogràfic global</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Glossaries</seg>
       </tuv>
@@ -9343,6 +9407,15 @@ l'hivern ja és aquí.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>IGNORED:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225946Z" creationid="Marc Riera" creationdate="20201003T225946Z">
+        <seg>S'HA IGNORAT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>ILIAS Language File</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181111T223949Z" creationid="mgalo" creationdate="20181111T223949Z">
@@ -9719,10 +9792,28 @@ feu clic en la drecera.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Ignore</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T230038Z" creationid="Marc Riera" creationdate="20201003T230038Z">
+        <seg>Ignora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Ignore All</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T104328Z" creationid="Marc Riera" creationdate="20190521T104328Z">
         <seg>Ignora-ho tot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Ignore glossary case</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T230202Z" creationid="Marc Riera" creationdate="20201003T230202Z">
+        <seg>Ignora les majúscules i minúscules del glossari</seg>
       </tuv>
     </tu>
     <tu>
@@ -10817,6 +10908,15 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>LEARNED:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225958Z" creationid="Marc Riera" creationdate="20201003T225958Z">
+        <seg>S'HA APRÈS:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>LF Aligner</seg>
       </tuv>
@@ -11167,6 +11267,15 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T133233Z" creationid="Marc Riera" creationdate="20190924T133233Z">
         <seg>Desenvolupador principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Learn</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T230044Z" creationid="Marc Riera" creationdate="20201003T230044Z">
+        <seg>Aprèn</seg>
       </tuv>
     </tu>
     <tu>
@@ -12028,6 +12137,15 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161252Z" creationid="Packard Bell" creationdate="20150605T161252Z">
         <seg>Codi d'element de menú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Menus</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225426Z" creationid="Marc Riera" creationdate="20201003T225426Z">
+        <seg>Menús</seg>
       </tuv>
     </tu>
     <tu>
@@ -14188,6 +14306,15 @@ s'esvaeix com la boira.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Panes</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225328Z" creationid="Marc Riera" creationdate="20201003T225328Z">
+        <seg>Subfinestres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Paragraph delimitation</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T230317Z" creationid="Marc Riera" creationdate="20191110T230317Z">
@@ -15136,6 +15263,15 @@ project without team functionality.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Project folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225616Z" creationid="Marc Riera" creationdate="20201003T225616Z">
+        <seg>Carpeta del projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Project is Empty</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213242Z" creationid="Marc Riera" creationdate="20180210T213242Z">
@@ -15903,6 +16039,24 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215018Z" creationid="Packard Bell" creationdate="20150605T161445Z">
         <seg>Reemplaça pel text d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Replace custom tags with space</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T230233Z" creationid="Marc Riera" creationdate="20201003T230233Z">
+        <seg>Reemplaça les etiquetes personalitzades per espais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Replace escaped sequences with space</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T230222Z" creationid="Marc Riera" creationdate="20201003T230222Z">
+        <seg>Reemplaça les seqüències amb escapament per espais</seg>
       </tuv>
     </tu>
     <tu>
@@ -17974,6 +18128,15 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T230359Z" creationid="Marc Riera" creationdate="20191110T230359Z">
         <seg>Corrector ortogràfic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Spellcheck - errors found:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T230033Z" creationid="Marc Riera" creationdate="20201003T230033Z">
+        <seg>Corrector ortogràfic - Errors detectats:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22765,6 +22928,15 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>You can add the files to it later.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225649Z" creationid="Marc Riera" creationdate="20201003T225649Z">
+        <seg>Hi podeu afegir els fitxers més endavant.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
       </tuv>
@@ -22901,6 +23073,15 @@ installation script (linux-install.sh).</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230807Z" creationid="Marc Riera" creationdate="20200122T230807Z">
         <seg>Tanmateix, podeu obtenir una instal·lació més ordenada i amigable utilitzant
 l'script d'instal·lació (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>You can overlap panes if desired.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225402Z" creationid="Marc Riera" creationdate="20201003T225402Z">
+        <seg>Si voleu, podeu superposar les subfinestres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23496,6 +23677,15 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>dictionary</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225512Z" creationid="Marc Riera" creationdate="20201003T225512Z">
+        <seg>dictionary</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>docx compatibility</seg>
       </tuv>
@@ -23540,6 +23730,15 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>filters.xml</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225536Z" creationid="Marc Riera" creationdate="20201003T225536Z">
+        <seg>filters.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>first join the &lt;u0&gt;user group&lt;/u0&gt; (via web or by sending an email to &lt;u1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;-subscribe@yahoogroups.com&lt;/u1&gt;).</seg>
       </tuv>
@@ -23563,6 +23762,15 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165742Z" creationid="Marc Riera" creationdate="20200802T165742Z">
         <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>glossary</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225515Z" creationid="Marc Riera" creationdate="20201003T225515Z">
+        <seg>glossary</seg>
       </tuv>
     </tu>
     <tu>
@@ -23754,6 +23962,15 @@ creï la carpeta de configuració.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>ignored_words.txt.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225525Z" creationid="Marc Riera" creationdate="20201003T225525Z">
+        <seg>ignored_words.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>init &lt;source language&gt; &lt;target language&gt;
 		Initialize a minimal team project with the specified languages.</seg>
       </tuv>
@@ -23787,6 +24004,15 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181109T235351Z" creationid="mgalo" creationdate="20181109T235351Z">
         <seg>lan&amp;g (atribut de llengua)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>learned_words.txt</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225527Z" creationid="Marc Riera" creationdate="20201003T225527Z">
+        <seg>learned_words.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -23844,6 +24070,24 @@ creï la carpeta de configuració.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>omegat.project (file)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225548Z" creationid="Marc Riera" creationdate="20201003T225548Z">
+        <seg>omegat.project (fitxer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>project_stats_match.txt</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225531Z" creationid="Marc Riera" creationdate="20201003T225531Z">
+        <seg>project_stats_match.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>segment 0000</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112027Z" creationid="Marc Riera" creationdate="20180221T112027Z">
@@ -23853,10 +24097,28 @@ creï la carpeta de configuració.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>segmentation.conf</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225533Z" creationid="Marc Riera" creationdate="20201003T225533Z">
+        <seg>segmentation.conf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>slf4j (MIT License)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200125T141908Z" creationid="mgalo" creationdate="20181118T101042Z">
         <seg>slf4j (llicència MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>source</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225434Z" creationid="Marc Riera" creationdate="20201003T225434Z">
+        <seg>source</seg>
       </tuv>
     </tu>
     <tu>
@@ -23875,6 +24137,24 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181109T235329Z" creationid="mgalo" creationdate="20181109T235329Z">
         <seg>src (URL d'&amp;imatges)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>stats.txt</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225522Z" creationid="Marc Riera" creationdate="20201003T225522Z">
+        <seg>stats.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>target</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225438Z" creationid="Marc Riera" creationdate="20201003T225438Z">
+        <seg>target</seg>
       </tuv>
     </tu>
     <tu>
@@ -23911,6 +24191,51 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>tm</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225444Z" creationid="Marc Riera" creationdate="20201003T225444Z">
+        <seg>tm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>tm/auto</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225451Z" creationid="Marc Riera" creationdate="20201003T225451Z">
+        <seg>tm/auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>tm/enforce</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225456Z" creationid="Marc Riera" creationdate="20201003T225456Z">
+        <seg>tm/enforce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>tm/mt</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225501Z" creationid="Marc Riera" creationdate="20201003T225501Z">
+        <seg>tm/mt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>tm/penalty-xxx</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225506Z" creationid="Marc Riera" creationdate="20201003T225506Z">
+        <seg>tm/penalty-xxx</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>translation industry</seg>
       </tuv>
@@ -23934,6 +24259,15 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200125T141612Z" creationid="mgalo" creationdate="20181118T100933Z">
         <seg>trilead-ssh2 (llicència Trilead SSH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>uiLayout.xml</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225539Z" creationid="Marc Riera" creationdate="20201003T225539Z">
+        <seg>uiLayout.xml</seg>
       </tuv>
     </tu>
     <tu>
