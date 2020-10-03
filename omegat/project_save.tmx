@@ -2820,6 +2820,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>About</seg>
       </tuv>
@@ -3616,6 +3617,7 @@ No es carregarà el fitxer TMX.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Appendices</seg>
       </tuv>
@@ -3929,6 +3931,15 @@ inesperat però correcte.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T224328Z" creationid="Marc Riera" creationdate="20201003T224328Z">
+        <seg>Còpia de seguretat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Bad folder name {0}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T113706Z" creationid="Marc Riera" creationdate="20180214T223620Z">
@@ -3978,10 +3989,19 @@ Demana una altra copa!</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Beautify</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T224308Z" creationid="Marc Riera" creationdate="20201003T224258Z">
+        <seg>Millora de l'aspecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Beautify resulting DOCX</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T224249Z" creationid="Marc Riera" creationdate="20201003T224249Z">
-        <seg>Millora l'aspecte del fitxer .DOCX resultant</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T224418Z" creationid="Marc Riera" creationdate="20201003T224249Z">
+        <seg>Millora l'aspecte del fitxer DOCX resultant</seg>
       </tuv>
     </tu>
     <tu>
@@ -5081,6 +5101,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Compatibility</seg>
       </tuv>
@@ -5260,6 +5281,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Contact</seg>
       </tuv>
@@ -5268,6 +5290,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Contact and Support</seg>
       </tuv>
@@ -5384,8 +5407,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Convert</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223610Z" creationid="Marc Riera" creationdate="20201003T223610Z">
-        <seg>Converteix</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T224322Z" creationid="Marc Riera" creationdate="20201003T223610Z">
+        <seg>Conversió</seg>
       </tuv>
     </tu>
     <tu>
@@ -6536,6 +6559,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Documentation</seg>
       </tuv>
@@ -6647,6 +6671,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Download</seg>
       </tuv>
@@ -11606,6 +11631,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Manual</seg>
       </tuv>
@@ -12621,6 +12647,15 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>No .DOCX files to clean.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T224642Z" creationid="Marc Riera" creationdate="20201003T224642Z">
+        <seg>No hi ha cap fitxer .DOCX per netejar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T152546Z" creationid="Marc Riera" creationdate="20190520T122552Z">
@@ -12697,6 +12732,15 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T184442Z" creationid="mgalo" creationdate="20181112T094708Z">
         <seg>No hi ha cap diccionari disponible en el servidor remot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>No project loaded.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T224434Z" creationid="Marc Riera" creationdate="20201003T224434Z">
+        <seg>No s'ha carregat cap projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14120,6 +14164,7 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Page Not Found</seg>
       </tuv>
@@ -14275,6 +14320,7 @@ s'esvaeix com la boira.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Philosophy</seg>
       </tuv>
@@ -15717,6 +15763,15 @@ les paraules «No s'ha trobat la pàgina».</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Remove tags from DOCX documents</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T224406Z" creationid="Marc Riera" creationdate="20201003T224406Z">
+        <seg>Suprimeix les etiquetes dels documents DOCX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Remove tags in the current target</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T222505Z" creationid="Marc Riera" creationdate="20201003T222505Z">
@@ -16052,6 +16107,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Resources</seg>
       </tuv>
@@ -16119,6 +16175,15 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T160930Z" creationid="Marc Riera" creationdate="20200122T225245Z">
         <seg>S'està recuperant la llista d'àmbits...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Reviews</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T224928Z" creationid="Marc Riera" creationdate="20201003T224928Z">
+        <seg>Ressenyes</seg>
       </tuv>
     </tu>
     <tu>
@@ -17990,6 +18055,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Sponsorship</seg>
       </tuv>
@@ -18193,6 +18259,15 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T151329Z" creationid="mgalo" creationdate="20181113T090507Z">
         <seg>SuperTMXMerge (llicència Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Support</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T224811Z" creationid="Marc Riera" creationdate="20201003T224811Z">
+        <seg>Suport</seg>
       </tuv>
     </tu>
     <tu>
@@ -18948,11 +19023,12 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The OmegaT Project</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T184844Z" creationid="Marc Riera" creationdate="20191110T184844Z">
-        <seg>El projecte OmegaT</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T224834Z" creationid="Marc Riera" creationdate="20191110T184844Z">
+        <seg>Projecte OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -20730,6 +20806,7 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Tutorials</seg>
       </tuv>
@@ -24999,6 +25076,17 @@ creï la carpeta de configuració.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200123T160858Z" creationid="Marc Riera" creationdate="20200123T160858Z">
         <seg>Contribucions anteriors:
 (en ordre alfabètic)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">scripts/tagwipe.properties</prop>
+      <prop type="id">lblName</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Tagwipe</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T224345Z" creationid="Marc Riera" creationdate="20201003T224345Z">
+        <seg>Neteja les etiquetes</seg>
       </tuv>
     </tu>
     <tu>
