@@ -21,11 +21,74 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T221552Z" creationid="Marc Riera" creationdate="20201003T221552Z">
+        <seg>"No es pot iniciar des d'una carpeta que contingut \"/\" en el nom.";</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150604T201843Z" creationid="Alexandra" creationdate="20150526T125031Z">
         <seg>Els documents "Com-es-fa" d'aquesta web contenen la informació sobre certs procediments i funcions per a usuaris avançats d'OmegaT que no s'inclouen el manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>"Main class name is required.";</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T221612Z" creationid="Marc Riera" creationdate="20201003T221612Z">
+        <seg>"El nom de la classe principal és obligatori.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>"This application requires that Java %d or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T222044Z" creationid="Marc Riera" creationdate="20201003T222044Z">
+        <seg>"Aquesta aplicació necessita que tingueu instal·lat el Java %d o una versió posterior a l'ordinador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T222259Z" creationid="Marc Riera" creationdate="20201003T222259Z">
+        <seg>"Aquesta aplicació necessita que tingueu instal·lat el Java %d JDK o una versió posterior a l'ordinador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>"Unable to enumerate Java directory contents.";</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T221636Z" creationid="Marc Riera" creationdate="20201003T221636Z">
+        <seg>"No s'ha pogut enumerar el contingut del directori del Java.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>"Unable to load Java Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T221901Z" creationid="Marc Riera" creationdate="20201003T221702Z">
+        <seg>"No s'ha pogut carregar l'entorn d'execució del Java.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>"Unable to load a Java %d Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T221914Z" creationid="Marc Riera" creationdate="20201003T221813Z">
+        <seg>"No s'ha pogut carregar l'entorn d'execució del Java %d.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -14105,6 +14168,15 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T223608Z" creationid="Marc Riera" creationdate="20191110T223608Z">
         <seg>Torneu a comprovar-ho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T221450Z" creationid="Marc Riera" creationdate="20201003T221450Z">
+        <seg>Baixeu i instal·leu la versió més recent del Java de www.java.com i torneu-ho a provar.";</seg>
       </tuv>
     </tu>
     <tu>
