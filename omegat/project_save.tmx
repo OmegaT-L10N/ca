@@ -2735,6 +2735,15 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>A simple set of QA checks for current OmegaT project</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T230728Z" creationid="Marc Riera" creationdate="20201003T230728Z">
+        <seg>Conjunt senzill de comprovacions de qualitat per al projecte actual de l'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>A source sentence might look like:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200124T224510Z" creationid="mgalo" creationdate="20181114T121522Z">
@@ -4585,6 +4594,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check LanguageTools rules</seg>
       </tuv>
@@ -4601,38 +4611,70 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Check Rules</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T230654Z" creationid="Marc Riera" creationdate="20201003T230654Z">
+        <seg>Comprovació de regles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check for doubled blanks</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T124216Z" creationid="Marc Riera" creationdate="20190520T124216Z">
-        <seg>Comprova els dobles espais</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T231150Z" creationid="Marc Riera" creationdate="20190520T124216Z">
+        <seg>Comprova si hi ha dobles espais</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check for doubled words</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150606Z" creationid="Marc Riera" creationdate="20190924T150606Z">
-        <seg>Comprova les paraules duplicades</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T231145Z" creationid="Marc Riera" creationdate="20190924T150606Z">
+        <seg>Comprova si hi ha paraules duplicades</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Check for equal source &amp; target</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T231121Z" creationid="Marc Riera" creationdate="20201003T231017Z">
+        <seg>Comprova si hi ha traduccions idèntiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check for inconsistent numbers</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150714Z" creationid="Marc Riera" creationdate="20190924T150714Z">
-        <seg>Comprova les xifres incoherents</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T231136Z" creationid="Marc Riera" creationdate="20190924T150714Z">
+        <seg>Comprova si hi ha xifres incoherents</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check for leading whitespace</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150821Z" creationid="Marc Riera" creationdate="20190924T150810Z">
-        <seg>Comprova els espais en blanc inicials</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T231201Z" creationid="Marc Riera" creationdate="20190924T150810Z">
+        <seg>Comprova si hi ha espais en blanc inicials</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Check for longer target</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T231110Z" creationid="Marc Riera" creationdate="20201003T231110Z">
+        <seg>Comprova si el text de destinació és més llarg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check for segments with spelling errors</seg>
       </tuv>
@@ -4641,22 +4683,34 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Check for shorter target</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T231105Z" creationid="Marc Riera" creationdate="20201003T231105Z">
+        <seg>Comprova si el text de destinació és més curt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check for trailing whitespace</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150827Z" creationid="Marc Riera" creationdate="20190924T150827Z">
-        <seg>Comprova els espais en blanc finals</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T231155Z" creationid="Marc Riera" creationdate="20190924T150827Z">
+        <seg>Comprova si hi ha espais en blanc finals</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check for untranslated segments</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150747Z" creationid="Marc Riera" creationdate="20190924T150747Z">
-        <seg>Comprova els segments sense traduir</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T231128Z" creationid="Marc Riera" creationdate="20190924T150747Z">
+        <seg>Comprova si hi ha segments sense traduir</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check number of tags</seg>
       </tuv>
@@ -4665,6 +4719,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check punctuation at segment end</seg>
       </tuv>
@@ -4673,6 +4728,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check sequence of tags</seg>
       </tuv>
@@ -4690,11 +4746,21 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check spaces around tags</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150646Z" creationid="Marc Riera" creationdate="20190924T150646Z">
         <seg>Comprova els espais al voltant de les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Check start case</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T231005Z" creationid="Marc Riera" creationdate="20201003T231005Z">
+        <seg>Comprova les majúscules inicials</seg>
       </tuv>
     </tu>
     <tu>
@@ -6283,11 +6349,21 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Different punctuation</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T124356Z" creationid="Marc Riera" creationdate="20190520T124356Z">
         <seg>Puntuació diferent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Different start case</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T230852Z" creationid="Marc Riera" creationdate="20201003T230852Z">
+        <seg>Majúscules inicials diferents</seg>
       </tuv>
     </tu>
     <tu>
@@ -7368,6 +7444,15 @@ No one hears your screams</seg>
         <seg>Pàgina efímera:
 jo sóc la Pantalla blava de la mort;
 ningú no sent els vostres crits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Equal source &amp; target</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T230858Z" creationid="Marc Riera" creationdate="20201003T230858Z">
+        <seg>Traducció idèntica</seg>
       </tuv>
     </tu>
     <tu>
@@ -9997,6 +10082,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Inconsistent numbers</seg>
       </tuv>
@@ -15461,6 +15547,15 @@ project without team functionality.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>QA - Check Rules</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T230713Z" creationid="Marc Riera" creationdate="20201003T230713Z">
+        <seg>Control de qualitat: comprovació de regles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>QuarkXPress CopyFlow Gold</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T075437Z" creationid="Marc Riera" creationdate="20180214T224258Z">
@@ -15614,6 +15709,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Refresh</seg>
       </tuv>
@@ -15837,6 +15933,15 @@ les paraules «No s'ha trobat la pàgina».</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Remove OmegaT tags which have &lt;br&gt;lower case letter before and after it</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T230546Z" creationid="Marc Riera" creationdate="20201003T230546Z">
+        <seg>Suprimeix les etiquetes de l'OmegaT amb &lt;br&gt;caràcters en minúscula abans i després</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Remove Script</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220755Z" creationid="Marc Riera" creationdate="20190521T105749Z">
@@ -15881,10 +15986,28 @@ les paraules «No s'ha trobat la pàgina».</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Remove defined fragments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T230406Z" creationid="Marc Riera" creationdate="20201003T230406Z">
+        <seg>Suprimeix els fragments definits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220229Z" creationid="Marc Riera" creationdate="20180221T114914Z">
         <seg>Suprimeix els espais en blanc inicials i finals en projectes no segmentats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Remove mnemonics</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T230352Z" creationid="Marc Riera" creationdate="20201003T230352Z">
+        <seg>Suprimeix les dreceres</seg>
       </tuv>
     </tu>
     <tu>
@@ -17757,6 +17880,15 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Skip segments where source=target</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T230451Z" creationid="Marc Riera" creationdate="20201003T230451Z">
+        <seg>Omet els segments amb una traducció idèntica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Skip text matching regular expression:</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181109T235147Z" creationid="mgalo" creationdate="20181109T235147Z">
@@ -18192,10 +18324,11 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Spelling errors(s)</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T124449Z" creationid="Marc Riera" creationdate="20190520T124449Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T230939Z" creationid="Marc Riera" creationdate="20190520T124449Z">
         <seg>Error ortogràfic</seg>
       </tuv>
     </tu>
@@ -18706,6 +18839,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Tags - number</seg>
       </tuv>
@@ -18714,6 +18848,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Tags - order</seg>
       </tuv>
@@ -18722,6 +18857,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Tags - spaces</seg>
       </tuv>
@@ -18784,6 +18920,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Target longer</seg>
       </tuv>
@@ -18792,6 +18929,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Target shorter</seg>
       </tuv>
@@ -21513,6 +21651,7 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Untranslated segment</seg>
       </tuv>
@@ -21730,6 +21869,15 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225347Z" creationid="Marc Riera" creationdate="20191112T225347Z">
         <seg>Utilitza plantilles personalitzades per a la &amp;informació de modificació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Use glossary</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T230516Z" creationid="Marc Riera" creationdate="20201003T230516Z">
+        <seg>Utilitza el glossari</seg>
       </tuv>
     </tu>
     <tu>
