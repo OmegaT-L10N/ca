@@ -2395,6 +2395,15 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T213014Z" creationid="Marc Riera" creationdate="20201003T213014Z">
+        <seg>&lt;p0&gt;Menú Projecte&lt;/p0&gt; &lt;s1&gt;Crea...&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Contributing to OmegaT&lt;/s1&gt;</seg>
       </tuv>
@@ -2459,6 +2468,15 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T212740Z" creationid="Marc Riera" creationdate="20201003T212740Z">
+        <seg>&lt;p0&gt;Projecte&lt;/p0&gt; &lt;s1&gt;Crea / Obre&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&lt;p0&gt;Shortcuts Customization&lt;/p0&gt; &lt;s1&gt;View Menu&lt;/s1&gt;</seg>
       </tuv>
@@ -2499,11 +2517,12 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T224133Z" creationid="mgalo" creationdate="20181113T174859Z">
-        <seg>&lt;r0&gt;Nota:&lt;/r0&gt; en un ordinador Mac d'Apple, utilitzeu la tecla «&lt;k1&gt;Ordre&lt;/k1&gt;» en lloc de la tecla «&lt;k2&gt;Control&lt;/k2&gt;».</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T212955Z" creationid="mgalo" creationdate="20181113T174859Z">
+        <seg>&lt;r0&gt;Nota:&lt;/r0&gt; en un Mac d'Apple, utilitzeu la tecla «&lt;k1&gt;Ordre&lt;/k1&gt;» en comptes de la tecla «&lt;k2&gt;Control&lt;/k2&gt;».</seg>
       </tuv>
     </tu>
     <tu>
@@ -2606,6 +2625,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>A source sentence might look like:</seg>
       </tuv>
@@ -2963,27 +2983,30 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215021Z" creationid="mgalo" creationdate="20181114T114705Z">
-        <seg>Un cop s'hagin carregat els fitxers d'origen al panell de l'&lt;g3&gt;Editor&lt;/g3&gt;, podeu tancar el quadre de diàleg &lt;g4&gt;Fitxers del projecte&lt;/g4&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T213717Z" creationid="mgalo" creationdate="20181114T114705Z">
+        <seg>Un cop s'hagin carregat els fitxers d'origen a la subfinestra &lt;g3&gt;Editor&lt;/g3&gt;, podeu tancar el quadre de diàleg &lt;g4&gt;Fitxers del projecte&lt;/g4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T224340Z" creationid="mgalo" creationdate="20181113T180652Z">
-        <seg>Un cop hàgiu donat un nom al projecte, s'obrirà el quadre de diàleg &lt;g0&gt;Crea un projecte nou&lt;/g0&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T213320Z" creationid="mgalo" creationdate="20181113T180652Z">
+        <seg>Un cop hàgiu donat nom al projecte, s'obrirà el quadre de diàleg &lt;g0&gt;Crea un projecte&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181117T234526Z" creationid="mgalo" creationdate="20181114T115619Z">
-        <seg>Un cop traduït un segment, premeu &lt;k0&gt;Ctrl+U&lt;/k0&gt; per moure-us al següent segment sense traduir (o &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; per moure-us al següent segment traduït).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T213919Z" creationid="mgalo" creationdate="20181114T115619Z">
+        <seg>Quan hàgiu traduït un segment, premeu &lt;k0&gt;Ctrl+U&lt;/k0&gt; per desplaçar-vos al segment sense traduir següent (o &lt;k1&gt;Ctrl+Maj+U&lt;/k1&gt; per desplaçar-vos al segment traduït següent).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3587,11 +3610,12 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181114T123008Z" creationid="mgalo" creationdate="20181114T123008Z">
-        <seg>Acabada la traducció, l'OmegaT exporta tres memòries de traducció amb els noms &lt;f0&gt;level 1&lt;/f0&gt;, &lt;f1&gt;level 2&lt;/f1&gt; i &lt;f2&gt;omegat&lt;/f2&gt; a la carpeta del projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T220309Z" creationid="mgalo" creationdate="20181114T123008Z">
+        <seg>Quan acabeu la traducció, l'OmegaT exporta tres memòries de traducció anomenades &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; i &lt;f2&gt;omegat&lt;/f2&gt; a la carpeta del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3603,7 +3627,7 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"File" changed to plural.</note>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
@@ -4673,6 +4697,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
       </tuv>
@@ -6621,11 +6646,12 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181114T115856Z" creationid="mgalo" creationdate="20181114T115856Z">
-        <seg>Durant el procés de traducció, podeu servir-vos dels menús &lt;g4&gt;Edita&lt;/g4&gt; i &lt;g5&gt;Vés a&lt;/g5&gt; per dur a terme diverses funcions.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T214016Z" creationid="mgalo" creationdate="20181114T115856Z">
+        <seg>Mentre traduïu, podeu utilitzar els menús &lt;g4&gt;Edita&lt;/g4&gt; i &lt;g5&gt;Vés a&lt;/g5&gt; per realitzar diverses funcions útils.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6828,8 +6854,8 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       <tuv lang="en">
         <seg>Editor - {0}</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T092023Z" creationid="mgalo" creationdate="20181112T092023Z">
-        <seg>Editor - {0}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T213741Z" creationid="mgalo" creationdate="20181112T092023Z">
+        <seg>Editor: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7871,11 +7897,12 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Few more things to remember</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181114T121732Z" creationid="mgalo" creationdate="20181114T121726Z">
-        <seg>Uns quants apunts més a tenir en compte</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T215954Z" creationid="mgalo" creationdate="20181114T121726Z">
+        <seg>Més coses que cal tenir en compte</seg>
       </tuv>
     </tu>
     <tu>
@@ -8205,12 +8232,12 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
-      <note>The tutorial is not available in CA and, therefore, there is no translation for its title. Add a note in brackets (eg. "No disponible en català")?</note>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; on the OmegaT web site.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181117T232814Z" creationid="mgalo" creationdate="20181115T120113Z">
-        <seg>Si voleu consultar un tutorial més exhaustiu, vegeu «&lt;u0&gt;OmegaT for beginners&lt;/u0&gt;» al web de l'OmegaT.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T221225Z" creationid="mgalo" creationdate="20181115T120113Z">
+        <seg>Si voleu veure una introducció més exhaustiva, vegeu «&lt;u0&gt;OmegaT for beginners&lt;/u0&gt;» (en anglès) al lloc web de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8518,7 +8545,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"File" changed to plural.</note>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Generate the translated file</seg>
       </tuv>
@@ -9064,11 +9091,12 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T224601Z" creationid="mgalo" creationdate="20181114T121305Z">
-        <seg>Tingueu en compte, però, que si les etiquetes de format s'introdueixen manualment de manera errònia, es podrien produir errors a l'hora d'intentar obrir els fitxers de destinació.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T214234Z" creationid="mgalo" creationdate="20181114T121305Z">
+        <seg>Tingueu en compte, però, que si introduïu manualment les etiquetes de format de manera errònia, és possible que no pugueu obrir els fitxers traduïts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9217,11 +9245,12 @@ no cal introduir el camí complet.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181114T122226Z" creationid="mgalo" creationdate="20181114T121817Z">
-        <seg>Si un fitxer no es carrega en el panell de l'&lt;g0&gt;Editor&lt;/g0&gt;, podria ser que estigui en un format no compatible amb l'OmegaT.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T220052Z" creationid="mgalo" creationdate="20181114T121817Z">
+        <seg>Si un fitxer no es carrega en la subfinestra &lt;g0&gt;Editor&lt;/g0&gt;, pot ser que tingui un format incompatible amb l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9316,6 +9345,7 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
@@ -9409,19 +9439,21 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T120359Z" creationid="mgalo" creationdate="20181115T120359Z">
-        <seg>Si necessiteu cap altre tipus d'assistència amb referència a l'OmegaT, podeu unir-vos al &lt;u1&gt;grup d'usuaris de l'OmegaT&lt;/u1&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T212701Z" creationid="mgalo" creationdate="20181115T120359Z">
+        <seg>Si necessiteu assistència amb cap aspecte de l'OmegaT, podeu unir-vos al &lt;u1&gt;grup d'usuaris de l'OmegaT&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181114T123557Z" creationid="mgalo" creationdate="20181114T123557Z">
-        <seg>Si col·loqueu aquestes memòries de traducció dins la subcarpeta &lt;f6&gt;/tm/&lt;/f6&gt; d'un projecte, l'OmegaT cercarà automàticament en aquestes memòries segments similars als del projecte («coincidències parcials»).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T220611Z" creationid="mgalo" creationdate="20181114T123557Z">
+        <seg>Si col·loqueu aquestes memòries de traducció en la subcarpeta &lt;f6&gt;/tm/&lt;/f6&gt; d'un projecte, l'OmegaT hi cercarà automàticament segments similars als del projecte, anomenats «coincidències parcials».</seg>
       </tuv>
     </tu>
     <tu>
@@ -9467,11 +9499,12 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215021Z" creationid="mgalo" creationdate="20181114T120359Z">
-        <seg>Si els fitxers d'origen són fitxers amb format, com, per exemple, de Microsoft Word, LibreOffice Writer o HTML, l'OmegaT convertirà els elements de format en etiquetes que envolten el text a traduir.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T214537Z" creationid="mgalo" creationdate="20181114T120359Z">
+        <seg>Si els fitxers d'origen són fitxers amb format (per exemple, fitxers del Microsoft Word, del LibreOffice Writer o HTML), l'OmegaT convertirà el format en etiquetes que envolten el text que s'ha de traduir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9621,8 +9654,8 @@ feu clic en la drecera.</seg>
       <tuv lang="en">
         <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T224250Z" creationid="mgalo" creationdate="20181113T180019Z">
-        <seg>En el menú &lt;g0&gt;Projecte&lt;/g0&gt;, seleccioneu &lt;m1&gt;&lt;g2&gt;Crea...&lt;/g2&gt;&lt;/m1&gt; i escriviu un nom per al vostre projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T213215Z" creationid="mgalo" creationdate="20181113T180019Z">
+        <seg>En el menú &lt;g0&gt;Projecte&lt;/g0&gt;, seleccioneu &lt;m1&gt;&lt;g2&gt;Crea...&lt;/g2&gt;&lt;/m1&gt; i escriviu un nom per al projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10205,11 +10238,12 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181114T124011Z">
-        <seg>De vegades pot ser útil de cercar paraules o expressions tant en el text d'origen com en el de destinació. Per fer això, en qualsevol moment podeu prémer &lt;k0&gt;Ctrl+F&lt;/k0&gt; per obrir el quadre de diàleg de &lt;g1&gt;Cerca de text&lt;/g1&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T220932Z" creationid="mgalo" creationdate="20181114T124011Z">
+        <seg>De vegades resulta útil cercar paraules o expressions tant en el text d'origen com en la traducció. Per fer-ho, en qualsevol moment podeu prémer &lt;k0&gt;Ctrl+F&lt;/k0&gt; per obrir el quadre de diàleg &lt;g1&gt;Cerca de text&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12286,6 +12320,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens.</seg>
       </tuv>
@@ -12796,11 +12831,12 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181114T120459Z">
-        <seg>També pot ser que els documents incloguin etiquetes que no tenen a veure amb el format, però que també són importants en els fitxers d'origen (i en els fitxers de destinació).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T214619Z" creationid="mgalo" creationdate="20181114T120459Z">
+        <seg>També és possible que els documents incloguin etiquetes que no tinguin res a veure amb el format, però que també siguin importants en els fitxers d'origen (i en els fitxers traduïts).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13299,11 +13335,12 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181114T114620Z" creationid="mgalo" creationdate="20181113T182628Z">
-        <seg>D'aquesta manera, l'OmegaT copiarà els fitxers seleccionats a la subcarpeta &lt;f2&gt;/source/&lt;/f2&gt;del nou projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T213614Z" creationid="mgalo" creationdate="20181113T182628Z">
+        <seg>D'aquesta manera, l'OmegaT copiarà els fitxers seleccionats a la subcarpeta &lt;f2&gt;/source/&lt;/f2&gt; del nou projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13366,11 +13403,12 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T184506Z" creationid="mgalo" creationdate="20181114T121649Z">
-        <seg>Un cop us hàgiu assegurat que a la vostra traducció no hi ha cap error relacionats amb les etiquetes, premeu &lt;k0&gt;Ctrl+D&lt;/k0&gt; per generar els fitxers de destinació. Els fitxers es crearan dins la subcarpeta &lt;f1&gt;/folder/&lt;/f1&gt; del projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T220025Z" creationid="mgalo" creationdate="20181114T121649Z">
+        <seg>Quan us hàgiu assegurat que a la vostra traducció no hi ha cap error d'etiquetes, premeu &lt;k0&gt;Ctrl+D&lt;/k0&gt; per generar els fitxers de destinació. Els fitxers es crearan en la subcarpeta &lt;f1&gt;/folder/&lt;/f1&gt; del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15190,6 +15228,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remember where you are creating the project, because you will need to return to it later.</seg>
       </tuv>
@@ -16397,6 +16436,15 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>See &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Preferences...&lt;/g3&gt;&lt;g4&gt;File Filters&lt;/g4&gt;&lt;/m1&gt; for a list of file formats that OmegaT can handle.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T220138Z" creationid="Marc Riera" creationdate="20201003T220138Z">
+        <seg>Consulteu &lt;m1&gt;&lt;g2&gt;Opcions&lt;/g2&gt;&lt;g3&gt;Preferències...&lt;/g3&gt;&lt;g4&gt;Filtres de fitxers&lt;/g4&gt;&lt;/m1&gt; per veure la llista de formats que admet l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200726T110207Z" creationid="Marc Riera" creationdate="20190924T102119Z">
@@ -16888,11 +16936,11 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
-      <note>Machine addressing the user, ergo we use "creeu" instead of "crea".</note>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Set up a new project</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181114T114822Z" creationid="mgalo" creationdate="20181113T174338Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T212615Z" creationid="mgalo" creationdate="20181113T174338Z">
         <seg>Creeu un projecte nou</seg>
       </tuv>
     </tu>
@@ -18359,11 +18407,12 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181114T123107Z" creationid="mgalo" creationdate="20181114T123057Z">
-        <seg>Les memòries &lt;f3&gt;level 1&lt;/f3&gt; i &lt;f4&gt;level 2&lt;/f4&gt; es poden compartir amb els usuaris d'altres programes de traducció.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T220321Z" creationid="mgalo" creationdate="20181114T123057Z">
+        <seg>Les memòries &lt;f3&gt;level1&lt;/f3&gt; i &lt;f4&gt;level2&lt;/f4&gt; es poden compartir amb els usuaris d'altres programes de traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18858,11 +18907,12 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181114T123142Z" creationid="mgalo" creationdate="20181114T123142Z">
-        <seg>La memòria &lt;f5&gt;omegat&lt;/f5&gt; es pot fer servir en el mateix OmegaT, per a futurs projectes que creeu.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T220354Z" creationid="mgalo" creationdate="20181114T123142Z">
+        <seg>La memòria &lt;f5&gt;omegat&lt;/f5&gt; es pot utilitzar en projectes futurs que creeu amb l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19114,6 +19164,7 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
       </tuv>
@@ -19246,8 +19297,8 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181117T234528Z" creationid="mgalo" creationdate="20181114T121421Z">
-        <seg>Per tant, premeu &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; abans de generar els fitxers traduïts per comprovar que les etiquetes siguin correctes.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T214248Z" creationid="mgalo" creationdate="20181114T121421Z">
+        <seg>Per tant, premeu &lt;k0&gt;Ctrl+Maj+V&lt;/k0&gt; abans de generar els fitxers traduïts per comprovar que les etiquetes siguin correctes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19664,28 +19715,30 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181117T234456Z" creationid="mgalo" creationdate="20181115T115730Z">
-        <seg>Per retreure la configuració inicial del projecte, obriu el quadre de diàleg de propietats del projecte amb la drecera &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T220538Z" creationid="mgalo" creationdate="20181115T115730Z">
+        <seg>Per veure els paràmetres inicials del projecte, premeu &lt;k0&gt;Ctrl+E&lt;/k0&gt; per obrir el quadre de diàleg Propietats del projecte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>To see a list of files in the project, open the &lt;g1&gt;Project Files&lt;/g1&gt; dialog by pressing &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181117T234457Z" creationid="mgalo" creationdate="20181114T122907Z">
-        <seg>Per veure una llista amb els fitxers del projecte, obriu el quadre de diàleg &lt;g1&gt;Fitxers del projecte&lt;/g1&gt; amb la drecera &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T220516Z" creationid="mgalo" creationdate="20181114T122907Z">
+        <seg>Per veure una llista amb els fitxers del projecte, premeu &lt;k2&gt;Ctrl+L&lt;/k2&gt; per obrir el quadre de diàleg &lt;g1&gt;Fitxers del projecte&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Changed "file" to "files" ("fitxers") for consistency with other segments, where there is reference to "files" in plural.</note>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T224227Z" creationid="mgalo" creationdate="20181113T175942Z">
-        <seg>Per començar a utilitzar l'OmegaT, primer heu de crear un projecte, que contindrà tots els vostres fitxers (com els fitxers d'origen, les memòries de traducció, els glossaris i, finalment, els fitxers de destinació).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T213221Z" creationid="mgalo" creationdate="20181113T175942Z">
+        <seg>Per començar a utilitzar l'OmegaT, primer heu de crear un projecte, que contindrà tots els fitxers (com els fitxers d'origen, les memòries de traducció, els glossaris i, finalment, els fitxers traduïts).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19933,12 +19986,11 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
-      <note>"File" changed to plural.
-"Traduïu" because it's the machine addressing the user.</note>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translate the file</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181114T114835Z" creationid="mgalo" creationdate="20181114T114835Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T213110Z" creationid="mgalo" creationdate="20181114T114835Z">
         <seg>Traduïu els fitxers</seg>
       </tuv>
     </tu>
@@ -21233,7 +21285,7 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"Valideu" because it's the machine addressing the user.</note>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Validate your tags</seg>
       </tuv>
@@ -21645,6 +21697,7 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
       </tuv>
@@ -22143,11 +22196,12 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181117T234529Z" creationid="mgalo" creationdate="20181114T123843Z">
-        <seg>Podeu afegir termes nous al glossari amb la drecera &lt;k0&gt;Ctrl+Maj+G&lt;/k0&gt;, o també podeu copiar glossaris existents a la subcarpeta &lt;f1&gt;/glossari/&lt;/f1&gt; de la carpeta del projecte, i l'OmegaT cercarà paraules en aquests glossaris automàticament.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T220719Z" creationid="mgalo" creationdate="20181114T123843Z">
+        <seg>Premeu &lt;k0&gt;Ctrl+Maj+G&lt;/k0&gt; per afegir termes nous al glossari o copieu glossaris existents a la subcarpeta &lt;f1&gt;/glossary/&lt;/f1&gt; de la carpeta del projecte perquè l'OmegaT hi cerqui paraules automàticament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22228,11 +22282,12 @@ d'allà.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215023Z" creationid="mgalo" creationdate="20181114T122709Z">
-        <seg>Podeu crear un projecte nou per a cada nova tasca o també podeu afegir nous fitxers d'origen a un projecte existent en qualsevol moment.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T220202Z" creationid="mgalo" creationdate="20181114T122709Z">
+        <seg>Podeu crear un projecte nou per a cada tasca nova o bé podeu afegir fitxers d'origen nous a un projecte existent en qualsevol moment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24351,6 +24406,7 @@ creï la carpeta de configuració.</seg>
       <prop type="file">doc_src/InstantStartGuide.xml</prop>
       <prop type="prev"></prop>
       <prop type="next">&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</prop>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Learn to use OmegaT in 5 minutes!</seg>
       </tuv>
