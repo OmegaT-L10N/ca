@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-5.2.0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-5.3.0" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5334,6 +5334,15 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T093753Z" creationid="mgalo" creationdate="20181112T093753Z">
         <seg>No s'ha pogut crear la carpeta que heu especificat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Could not delete {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T181343Z" creationid="Marc Riera" creationdate="20201003T181338Z">
+        <seg>No s'ha pogut suprimir {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18095,6 +18104,15 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180212T221132Z" creationid="Marc Riera" creationdate="20180212T221132Z">
         <seg>Equip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Team Mode Repository Mapping</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T181253Z" creationid="Marc Riera" creationdate="20201003T181253Z">
+        <seg>Assignació de dipòsits del mode en equip</seg>
       </tuv>
     </tu>
     <tu>
