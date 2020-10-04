@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_fee75dd3" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-5.3.0" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1816,10 +1816,10 @@ per a editar-lo com a projecte en equip.)</seg>
 		Source- or target-language tokenizer to use (overrides project
 		settings).</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191208T155420Z" creationid="Marc Riera" creationdate="20191208T155420Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T000734Z" creationid="Marc Riera" creationdate="20191208T155420Z">
         <seg>--ITokenizer=&lt;nom de la classe&gt;
 	--ITokenizerTarget=&lt;nom de la classe&gt;
-		Tokenitzador de la llengua d'origen o de destinació que s'utilitzarà
+		Lematitzador de la llengua d'origen o de destinació que s'utilitzarà
 		(substitueix els paràmetres del projecte).</seg>
       </tuv>
     </tu>
@@ -1910,9 +1910,9 @@ per a editar-lo com a projecte en equip.)</seg>
 	--config-dir=&lt;path&gt;
 		The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191208T155607Z" creationid="Marc Riera" creationdate="20191113T173315Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T000703Z" creationid="Marc Riera" creationdate="20191113T173315Z">
         <seg>--resource-bundle=&lt;path&gt;
-		Fitxer .properties del Java que s'utilitzarà per al text de la intefície.
+		Fitxer .properties del Java que s'utilitzarà per al text de la interfície.
 	--config-dir=&lt;path&gt;
 		Directori on llegir i escriure els fitxers de configuració de l'OmegaT.</seg>
       </tuv>
@@ -3546,8 +3546,8 @@ No es carregarà el fitxer TMX.</seg>
       <tuv lang="en">
         <seg>An existing translation was changed to something different from what you chose.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T162046Z" creationid="Marc Riera" creationdate="20200121T223358Z">
-        <seg>S'ha canviat una traducció existent per una de diferent a la que heu triat.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T235153Z" creationid="Marc Riera" creationdate="20200121T223358Z">
+        <seg>S'ha canviat una traducció existent per una de diferent de la que heu triat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3579,8 +3579,8 @@ No es carregarà el fitxer TMX.</seg>
       <tuv lang="en">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T112332Z" creationid="mgalo" creationdate="20181112T112332Z">
-        <seg>Ja existex un element amb el nom «{0}» en aquesta ubicació.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T000541Z" creationid="mgalo" creationdate="20181112T112332Z">
+        <seg>Ja existeix un element amb el nom «{0}» en aquesta ubicació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4837,8 +4837,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Choose SVN repository to perform cleanup</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T222957Z" creationid="Marc Riera" creationdate="20201003T222957Z">
-        <seg>Trieu un dipòsit de l'SVN per realitzar la neteja</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094859Z" creationid="Marc Riera" creationdate="20201003T222957Z">
+        <seg>Trieu un dipòsit de l'SVN per a realitzar la neteja</seg>
       </tuv>
     </tu>
     <tu>
@@ -6885,8 +6885,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Drop TMX files here to add them to the project.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T162620Z" creationid="mgalo" creationdate="20181112T112133Z">
-        <seg>Arrossegueu fitxers TMX aquí per afegir-los al projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094618Z" creationid="mgalo" creationdate="20181112T112133Z">
+        <seg>Arrossegueu fitxers TMX aquí per a afegir-los al projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6894,8 +6894,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Drop a project here to open it.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T162625Z" creationid="mgalo" creationdate="20181112T112158Z">
-        <seg>Arrossegueu un projecte aquí per obrir-lo.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094621Z" creationid="mgalo" creationdate="20181112T112158Z">
+        <seg>Arrossegueu un projecte aquí per a obrir-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6903,8 +6903,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Drop files here to add them to the project.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T162601Z" creationid="mgalo" creationdate="20181112T112058Z">
-        <seg>Arrossegueu fitxers aquí per afegir-los al projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094612Z" creationid="mgalo" creationdate="20181112T112058Z">
+        <seg>Arrossegueu fitxers aquí per a afegir-los al projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6912,8 +6912,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Drop glossary files here to add them to the project.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T162610Z" creationid="mgalo" creationdate="20181112T112115Z">
-        <seg>Arrossegueu fitxers de glossari aquí per afegir-los al projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094615Z" creationid="mgalo" creationdate="20181112T112115Z">
+        <seg>Arrossegueu fitxers de glossari aquí per a afegir-los al projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6959,8 +6959,8 @@ el fitxer project_save.tmx no s'ha pujat realment i l'SVN ha passat a un estat i
       <tuv lang="en">
         <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T214016Z" creationid="mgalo" creationdate="20181114T115856Z">
-        <seg>Mentre traduïu, podeu utilitzar els menús &lt;g4&gt;Edita&lt;/g4&gt; i &lt;g5&gt;Vés a&lt;/g5&gt; per realitzar diverses funcions útils.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094852Z" creationid="mgalo" creationdate="20181114T115856Z">
+        <seg>Mentre traduïu, podeu utilitzar els menús &lt;g4&gt;Edita&lt;/g4&gt; i &lt;g5&gt;Vés a&lt;/g5&gt; per a realitzar diverses funcions útils.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9815,8 +9815,8 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T171058Z" creationid="Stephanie" creationdate="20150722T181816Z">
-        <seg>Si voleu utilitzar &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt;&lt;/k0&gt; per obrir un projecte, modifiqui el seu arxiu &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; de la següent manera:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094655Z" creationid="Stephanie" creationdate="20150722T181816Z">
+        <seg>Si voleu utilitzar &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt;&lt;/k0&gt; per a obrir un projecte, modifiqui el seu arxiu &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; de la següent manera:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10446,8 +10446,8 @@ feu clic en la drecera.</seg>
       <tuv lang="en">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T103328Z" creationid="Marc Riera" creationdate="20190924T101714Z">
-        <seg>Invoqueu «team -h» per conèixer més detalls.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094959Z" creationid="Marc Riera" creationdate="20190924T101714Z">
+        <seg>Invoqueu «team -h» per a conèixer més detalls.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10607,8 +10607,8 @@ feu clic en la drecera.</seg>
       <tuv lang="en">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T220932Z" creationid="mgalo" creationdate="20181114T124011Z">
-        <seg>De vegades resulta útil cercar paraules o expressions tant en el text d'origen com en la traducció. Per fer-ho, en qualsevol moment podeu prémer &lt;k0&gt;Ctrl+F&lt;/k0&gt; per obrir el quadre de diàleg &lt;g1&gt;Cerca de text&lt;/g1&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094724Z" creationid="mgalo" creationdate="20181114T124011Z">
+        <seg>De vegades resulta útil cercar paraules o expressions tant en el text d'origen com en la traducció. Per a fer-ho, en qualsevol moment podeu prémer &lt;k0&gt;Ctrl+F&lt;/k0&gt; per a obrir el quadre de diàleg &lt;g1&gt;Cerca de text&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11653,8 +11653,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230515Z" creationid="Marc Riera" creationdate="20191112T230515Z">
-        <seg>La traducció local no està sincronitzada amb el dispòsit remot.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T001104Z" creationid="Marc Riera" creationdate="20191112T230515Z">
+        <seg>La traducció local no està sincronitzada amb el dipòsit remot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14635,8 +14635,8 @@ per a determinar l'origen de l'error i torneu-ho a provar.</seg>
         <seg>Please contact your project administrator to find out if any
 additional steps need to be taken.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T144229Z" creationid="Marc Riera" creationdate="20190521T112210Z">
-        <seg>Poseu-vos en contacte amb l'administrador del projecte per saber
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094516Z" creationid="Marc Riera" creationdate="20190521T112210Z">
+        <seg>Poseu-vos en contacte amb l'administrador del projecte per a saber
 si cal fer res més.</seg>
       </tuv>
     </tu>
@@ -14750,8 +14750,8 @@ si cal fer res més.</seg>
       <tuv lang="en">
         <seg>Please restart the application to correctly display the new colours.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T162511Z" creationid="mgalo" creationdate="20181112T112010Z">
-        <seg>Reinicieu l'aplicació per mostrar correctament els colors nous.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094543Z" creationid="mgalo" creationdate="20181112T112010Z">
+        <seg>Reinicieu l'aplicació per a mostrar correctament els colors nous.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14984,8 +14984,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Press 'OK' to convert the project into a 4.x-style team project.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T201745Z" creationid="Marc Riera" creationdate="20190925T073522Z">
-        <seg>Feu clic a «D'acord» per convertir-lo en un projecte en equip de la versió 4.x.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094425Z" creationid="Marc Riera" creationdate="20190925T073522Z">
+        <seg>Feu clic a «D'acord» per a convertir-lo en un projecte en equip de la versió 4.x.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14993,8 +14993,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T110409Z" creationid="Marc Riera" creationdate="20191113T180604Z">
-        <seg>Premeu &lt;u&gt;{0}&lt;/u&gt; per a anar a &lt;b&gt;{1}&lt;/&gt; suggeriments.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T235025Z" creationid="Marc Riera" creationdate="20191113T180604Z">
+        <seg>Premeu &lt;u&gt;{0}&lt;/u&gt; per a anar a &lt;b&gt;{1}&lt;/b&gt; suggeriments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15002,8 +15002,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T110406Z" creationid="Marc Riera" creationdate="20191113T180556Z">
-        <seg>Premeu &lt;u&gt;{0}&lt;/u&gt; per a tornar a &lt;b&gt;{1}&lt;/&gt; suggeriments.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T235022Z" creationid="Marc Riera" creationdate="20191113T180556Z">
+        <seg>Premeu &lt;u&gt;{0}&lt;/u&gt; per a tornar a &lt;b&gt;{1}&lt;/b&gt; suggeriments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15731,8 +15731,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Register Identical Translation</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150529T112044Z" creationid="Packard Bell" creationdate="20150529T112044Z">
-        <seg>Regista una traducció idèntica</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T000915Z" creationid="Packard Bell" creationdate="20150529T112044Z">
+        <seg>Registra una traducció idèntica</seg>
       </tuv>
     </tu>
     <tu>
@@ -16258,8 +16258,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Repository {0} is already present</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T151148Z" creationid="Marc Riera" creationdate="20180221T113310Z">
-        <seg>El dispòsit {0} ja existeix</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T001059Z" creationid="Marc Riera" creationdate="20180221T113310Z">
+        <seg>El dipòsit {0} ja existeix</seg>
       </tuv>
     </tu>
     <tu>
@@ -17182,8 +17182,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T204204Z" creationid="Marc Riera" creationdate="20191110T204204Z">
-        <seg>Vegeu OmegaT.jar/META-INF/MANIFEST.MF per conèixer els valors vàlids.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T095005Z" creationid="Marc Riera" creationdate="20191110T204204Z">
+        <seg>Vegeu OmegaT.jar/META-INF/MANIFEST.MF per a conèixer els valors vàlids.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20080,8 +20080,8 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>Then click on &lt;e0&gt;Search&lt;/e0&gt; button to display all the corresponding occurrences.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150722T193603Z" creationid="Stephanie" creationdate="20150722T193603Z">
-        <seg>Després feu clic al botó &lt;e0&gt;Cerca&lt;/e0&gt; per mostrar tots els resultats corresponents.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094550Z" creationid="Stephanie" creationdate="20150722T193603Z">
+        <seg>Després feu clic al botó &lt;e0&gt;Cerca&lt;/e0&gt; per a mostrar tots els resultats corresponents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20418,8 +20418,8 @@ des del servidor.</seg>
       <tuv lang="en">
         <seg>This script is intended to run in OmegaT 3.6 and newer.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223303Z" creationid="Marc Riera" creationdate="20201003T223303Z">
-        <seg>Aquest script està dissenyat per executar-se a l'OmegaT 3.6 o posterior.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094935Z" creationid="Marc Riera" creationdate="20201003T223303Z">
+        <seg>Aquest script està dissenyat per a executar-se a l'OmegaT 3.6 o posterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20471,8 +20471,8 @@ des del servidor.</seg>
         <seg>To be sure that no translation will be lost, you need to:
 1.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T105943Z" creationid="Marc Riera" creationdate="20190521T105943Z">
-        <seg>Per assegurar-vos que no es perdrà cap traducció, heu de:
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094358Z" creationid="Marc Riera" creationdate="20190521T105943Z">
+        <seg>Per a assegurar-vos que no es perdrà cap traducció, heu de:
 1.</seg>
       </tuv>
     </tu>
@@ -20480,8 +20480,8 @@ des del servidor.</seg>
       <tuv lang="en">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200728T144204Z" creationid="Alexandra" creationdate="20150526T124305Z">
-        <seg>Per obrir el manual des de l'OmegaT, només cal que seleccioneu «Ajuda &gt; Manual d'usuari» o premeu la tecla F1.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094736Z" creationid="Alexandra" creationdate="20150526T124305Z">
+        <seg>Per a obrir el manual des de l'OmegaT, només cal que seleccioneu «Ajuda &gt; Manual d'usuari» o premeu la tecla F1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20497,8 +20497,8 @@ des del servidor.</seg>
       <tuv lang="en">
         <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T231525Z" creationid="Marc Riera" creationdate="20190925T073442Z">
-        <seg>Per convertir-lo en un projecte en equip nou, obriu-lo a la GUI de l'OmegaT.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094419Z" creationid="Marc Riera" creationdate="20190925T073442Z">
+        <seg>Per a convertir-lo en un projecte en equip nou, obriu-lo a la GUI de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20563,8 +20563,8 @@ des del servidor.</seg>
       <tuv lang="en">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T220538Z" creationid="mgalo" creationdate="20181115T115730Z">
-        <seg>Per veure els paràmetres inicials del projecte, premeu &lt;k0&gt;Ctrl+E&lt;/k0&gt; per obrir el quadre de diàleg Propietats del projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094702Z" creationid="mgalo" creationdate="20181115T115730Z">
+        <seg>Per veure els paràmetres inicials del projecte, premeu &lt;k0&gt;Ctrl+E&lt;/k0&gt; per a obrir el quadre de diàleg Propietats del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20572,8 +20572,8 @@ des del servidor.</seg>
       <tuv lang="en">
         <seg>To see a list of files in the project, open the &lt;g1&gt;Project Files&lt;/g1&gt; dialog by pressing &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T220516Z" creationid="mgalo" creationdate="20181114T122907Z">
-        <seg>Per veure una llista amb els fitxers del projecte, premeu &lt;k2&gt;Ctrl+L&lt;/k2&gt; per obrir el quadre de diàleg &lt;g1&gt;Fitxers del projecte&lt;/g1&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094709Z" creationid="mgalo" creationdate="20181114T122907Z">
+        <seg>Per veure una llista amb els fitxers del projecte, premeu &lt;k2&gt;Ctrl+L&lt;/k2&gt; per a obrir el quadre de diàleg &lt;g1&gt;Fitxers del projecte&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23064,8 +23064,8 @@ can then launch the Kaptain launch script with:</seg>
       <tuv lang="en">
         <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T220719Z" creationid="mgalo" creationdate="20181114T123843Z">
-        <seg>Premeu &lt;k0&gt;Ctrl+Maj+G&lt;/k0&gt; per afegir termes nous al glossari o copieu glossaris existents a la subcarpeta &lt;f1&gt;/glossary/&lt;/f1&gt; de la carpeta del projecte perquè l'OmegaT hi cerqui paraules automàticament.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094632Z" creationid="mgalo" creationdate="20181114T123843Z">
+        <seg>Premeu &lt;k0&gt;Ctrl+Maj+G&lt;/k0&gt; per a afegir termes nous al glossari o copieu glossaris existents a la subcarpeta &lt;f1&gt;/glossary/&lt;/f1&gt; de la carpeta del projecte perquè l'OmegaT hi cerqui paraules automàticament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24890,8 +24890,8 @@ creï la carpeta de configuració.</seg>
       <tuv lang="en">
         <seg>Go to Preferences &gt; External Search to enable.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T210832Z" creationid="Marc Riera" creationdate="20200121T210832Z">
-        <seg>Aneu a «Preferències &gt; Cerca externa» per habilitar-les.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094812Z" creationid="Marc Riera" creationdate="20200121T210832Z">
+        <seg>Aneu a «Preferències &gt; Cerca externa» per a habilitar-les.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25165,8 +25165,8 @@ creï la carpeta de configuració.</seg>
       <tuv lang="en">
         <seg>Please enter your password again for confirmation.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T211113Z" creationid="Marc Riera" creationdate="20200121T211113Z">
-        <seg>Torneu a introduir la contrasenya per confirmar-la.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094749Z" creationid="Marc Riera" creationdate="20200121T211113Z">
+        <seg>Torneu a introduir la contrasenya per a confirmar-la.</seg>
       </tuv>
     </tu>
     <tu>
