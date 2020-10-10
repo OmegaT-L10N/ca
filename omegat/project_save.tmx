@@ -2134,6 +2134,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T183140Z" creationid="Marc Riera" creationdate="20201010T183140Z">
+        <seg>&lt;a0&gt;Baixa&lt;/a0&gt; &lt;a1&gt;Introducció&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
       </tuv>
       <tuv lang="ca" changeid="MoiTrad" changedate="20181204T170054Z" creationid="mgalo" creationdate="20181116T164055Z">
@@ -2631,6 +2639,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T212955Z" creationid="mgalo" creationdate="20181113T174859Z">
         <seg>&lt;r0&gt;Nota:&lt;/r0&gt; en un Mac d'Apple, utilitzeu la tecla «&lt;k1&gt;Ordre&lt;/k1&gt;» en comptes de la tecla «&lt;k2&gt;Control&lt;/k2&gt;».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T183310Z" creationid="Marc Riera" creationdate="20201010T183310Z">
+        <seg>L'&lt;s0&gt;OmegaT&lt;/s0&gt; és una aplicació lliure de memòria de traducció que funciona amb el Windows, macOS, Linux...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8840,11 +8856,12 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Fuzzy matching</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150604T201620Z" creationid="Alexandra" creationdate="20150526T100714Z">
-        <seg>Coincidència parcial</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T183335Z" creationid="Alexandra" creationdate="20150526T100714Z">
+        <seg>Coincidències parcials</seg>
       </tuv>
     </tu>
     <tu>
@@ -8897,6 +8914,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190925T075102Z" creationid="mgalo" creationdate="20181112T104333Z">
         <seg>Obtén una clau API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Get Started with OmegaT</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T183155Z" creationid="Marc Riera" creationdate="20201010T183155Z">
+        <seg>Introducció a l'OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -10595,6 +10620,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>It is a tool intended for professional translators.</seg>
       </tuv>
@@ -12114,6 +12140,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Match propagation</seg>
       </tuv>
@@ -12193,6 +12220,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>MediaWiki (Wikipedia)</seg>
       </tuv>
@@ -12268,6 +12296,15 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T163711Z" creationid="Marc Riera" creationdate="20190521T105118Z">
         <seg>La clau de subscripció a Microsoft Translator no està disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Microsoft Word, Excel, Power</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T183421Z" creationid="Marc Riera" creationdate="20201010T183421Z">
+        <seg>Microsoft Word, Excel, PowerPoint</seg>
       </tuv>
     </tu>
     <tu>
@@ -13421,6 +13458,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T183124Z" creationid="Marc Riera" creationdate="20201010T183124Z">
+        <seg>OmegaT &lt;s0&gt;l'eina lliure de memòria de traducció&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT Javadoc...</seg>
@@ -13445,6 +13490,15 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223341Z" creationid="Marc Riera" creationdate="20180214T223341Z">
         <seg>Carpeta del projecte de l'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>OmegaT Screenshot</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T183500Z" creationid="Marc Riera" creationdate="20201010T183500Z">
+        <seg>Captura de pantalla de l'OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -14909,6 +14963,15 @@ si cal fer res més.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Powerful tools</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T183442Z" creationid="Marc Riera" creationdate="20201010T183442Z">
+        <seg>Eines potents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Predefined credentials was not passed.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200122T222429Z" creationid="Marc Riera" creationdate="20200122T222429Z">
@@ -15160,6 +15223,15 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074844Z" creationid="Marc Riera" creationdate="20190925T074844Z">
         <seg>S'està processant...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Professional features</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T183326Z" creationid="Marc Riera" creationdate="20201010T183326Z">
+        <seg>Característiques professionals</seg>
       </tuv>
     </tu>
     <tu>
@@ -17837,19 +17909,21 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Simultaneous processing of multiple-file projects</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150604T201627Z" creationid="Alexandra" creationdate="20150526T100732Z">
-        <seg>Processament simultani de projectes amb múltiples fitxers</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T183355Z" creationid="Alexandra" creationdate="20150526T100732Z">
+        <seg>Processament simultani de projectes amb diversos fitxers</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Simultaneous use of multiple translation memories</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150526T100742Z" creationid="Alexandra" creationdate="20150526T100742Z">
-        <seg>Ús simultani de múltiples memòries de traducció</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T183402Z" creationid="Alexandra" creationdate="20150526T100742Z">
+        <seg>Ús simultani de diverses memòries de traducció</seg>
       </tuv>
     </tu>
     <tu>
@@ -22235,6 +22309,14 @@ subscriure-us-hi:</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Video by &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T183221Z" creationid="Marc Riera" creationdate="20201010T183221Z">
+        <seg>Vídeo de &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>View</seg>
@@ -22917,6 +22999,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>XHTML and HTML</seg>
       </tuv>
@@ -24639,6 +24722,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165803Z" creationid="Marc Riera" creationdate="20200802T165803Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>×</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T183149Z" creationid="Marc Riera" creationdate="20201010T183149Z">
+        <seg>×</seg>
       </tuv>
     </tu>
     <tu>
