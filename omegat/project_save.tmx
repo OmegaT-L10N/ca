@@ -6345,6 +6345,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Detailed instructions</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T203843Z" creationid="Marc Riera" creationdate="20201010T203843Z">
+        <seg>Instruccions detallades</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Details unavailable</seg>
@@ -9862,6 +9870,14 @@ no cal introduir el camí complet.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If in doubt, select this version.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T204004Z" creationid="Marc Riera" creationdate="20201010T204004Z">
+        <seg>Si dubteu, seleccioneu aquesta versió.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If invoked in a git working tree or svn checkout, the results
@@ -10521,6 +10537,14 @@ feu clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installation Type</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T204103Z" creationid="Marc Riera" creationdate="20201010T204103Z">
+        <seg>Tipus d'instal·lació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installation and Use</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T125210Z" creationid="Packard Bell" creationdate="20150528T175004Z">
@@ -11048,6 +11072,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T091832Z" creationid="mgalo" creationdate="20181113T090255Z">
         <seg>JGit (Llicència de distribució d'Eclipse)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JRE</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T203951Z" creationid="Marc Riera" creationdate="20201010T203951Z">
+        <seg>JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -11822,6 +11854,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224502Z" creationid="Marc Riera" creationdate="20180214T224502Z">
         <seg>Enllaços (&amp;URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Links are provided below to the various versions of OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T204052Z" creationid="Marc Riera" creationdate="20201010T204052Z">
+        <seg>A continuació es proporcionen enllaços a diverses versions de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14592,6 +14632,14 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T203949Z" creationid="Marc Riera" creationdate="20201010T203949Z">
+        <seg>Sistema operatiu</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Options</seg>
@@ -14991,6 +15039,14 @@ everything.</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150604T201646Z" creationid="Alexandra" creationdate="20150526T100821Z">
         <seg>Text net</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Platform</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T203840Z" creationid="Marc Riera" creationdate="20201010T203840Z">
+        <seg>Plataforma</seg>
       </tuv>
     </tu>
     <tu>
@@ -19982,6 +20038,14 @@ Proveu de corregir l'error i torneu a carregar el projecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The application runs on your machine.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T203821Z" creationid="Marc Riera" creationdate="20201010T203821Z">
+        <seg>L'aplicació s'executa en el vostre ordinador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The collaborative translation offered by OmegaT is based on the functionality of version or revision control, widely used by the software community to maintain control of changes to the code of a program and allow unimpeded collaboration within the development team.</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150525T222500Z" creationid="Stephanie" creationdate="20150523T154426Z">
@@ -21357,6 +21421,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150526T133042Z" creationid="Alexandra" creationdate="20150526T133042Z">
         <seg>Sistema de seguiment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Traditional</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T203953Z" creationid="Marc Riera" creationdate="20201010T203953Z">
+        <seg>Tradicional</seg>
       </tuv>
     </tu>
     <tu>
@@ -23282,6 +23354,22 @@ no s'ha trobat la pàgina.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>With 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T203918Z" creationid="Marc Riera" creationdate="20201010T203918Z">
+        <seg>Amb JRE de 64 bits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With JRE</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T203906Z" creationid="Marc Riera" creationdate="20201010T203906Z">
+        <seg>Amb JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>With links to more detailed HOWTOs.</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150604T201851Z" creationid="Alexandra" creationdate="20150526T125254Z">
@@ -23294,6 +23382,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150525T224034Z" creationid="Stephanie" creationdate="20150525T163348Z">
         <seg>Dins d'un mateix parell de llengües, s'aconsella també mantenir les diferents temàtiques o clients en repositoris separats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without JRE</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T203922Z" creationid="Marc Riera" creationdate="20201010T203922Z">
+        <seg>Sense JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -24514,6 +24610,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165742Z" creationid="Marc Riera" creationdate="20200802T165742Z">
         <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T203830Z" creationid="Marc Riera" creationdate="20201010T203830Z">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
       </tuv>
     </tu>
     <tu>
