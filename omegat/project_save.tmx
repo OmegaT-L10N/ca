@@ -4468,6 +4468,15 @@ Demana una altra copa!</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Change to "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T184655Z" creationid="Marc Riera" creationdate="20201010T184655Z">
+        <seg>Canvia a «needs-review-translation» en comptes de «translated»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T151828Z" creationid="Marc Riera" creationdate="20180221T113442Z">
@@ -4758,6 +4767,15 @@ Demana una altra copa!</seg>
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0})</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200729T162010Z" creationid="mgalo" creationdate="20181115T223846Z">
+        <seg>Comprova els patrons de MessageFormat del &amp;Java senzills (p. ex.: {0}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Check simple &amp;java MessageFormat patterns (e.g. {0}).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T200440Z" creationid="Marc Riera" creationdate="20201010T200440Z">
         <seg>Comprova els patrons de MessageFormat del &amp;Java senzills (p. ex.: {0}).</seg>
       </tuv>
     </tu>
@@ -5911,6 +5929,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Cross-platform without JRE</seg>
       </tuv>
@@ -8804,6 +8823,15 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Full checking can lead to false positives in normal texts and the PO filter already detects them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T200414Z" creationid="Marc Riera" creationdate="20201010T200414Z">
+        <seg>La comprovació completa pot donar lloc a falsos positius en textos normals i el filtre PO ja les detecta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Full checking can lead to false positives in normal texts.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T223512Z" creationid="mgalo" creationdate="20181115T223512Z">
@@ -11562,6 +11590,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Linux with 64-bit JRE</seg>
       </tuv>
@@ -11570,6 +11599,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Linux with JRE</seg>
       </tuv>
@@ -12725,6 +12755,15 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>NB: the Java™ Resource Bundles filter already detects them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T200530Z" creationid="Marc Riera" creationdate="20201010T200530Z">
+        <seg>Nota: el filtre de paquets de recursos del Java™ ja els detecta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Name</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T105717Z" creationid="mgalo" creationdate="20181112T105717Z">
@@ -13383,6 +13422,15 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>OS X Notarized</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T200935Z" creationid="Marc Riera" creationdate="20201010T200935Z">
+        <seg>OS X validat</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>OS X Signed</seg>
       </tuv>
@@ -13391,6 +13439,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OS X Unsigned</seg>
       </tuv>
@@ -13457,6 +13506,15 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="apujo" changedate="20181202T122848Z" creationid="apujo" creationdate="20181202T122848Z">
         <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>OmegaT - The Free Translation Memory Tool</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T200625Z" creationid="Marc Riera" creationdate="20201010T200625Z">
+        <seg>OmegaT - l'eina lliure de memòria de traducció</seg>
       </tuv>
     </tu>
     <tu>
@@ -18179,6 +18237,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Source code</seg>
       </tuv>
@@ -18310,6 +18369,15 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200123T222024Z" creationid="Marc Riera" creationdate="20191113T071455Z">
         <seg>Indiqueu una drecera amb «&amp;»: «F&amp;oobar» per a utilitzar «O»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Specify state attribute handling behavior</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T200250Z" creationid="Marc Riera" creationdate="20201010T200250Z">
+        <seg>Especifiqueu el comportament de gestió de l'atribut d'estat</seg>
       </tuv>
     </tu>
     <tu>
@@ -22758,6 +22826,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Windows with 64-bit JRE</seg>
       </tuv>
@@ -22766,6 +22835,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Windows with JRE</seg>
       </tuv>
@@ -22774,6 +22844,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Windows without JRE</seg>
       </tuv>
@@ -24619,6 +24690,24 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T103847Z" creationid="mgalo" creationdate="20181112T103847Z">
         <seg>{0} segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>{0} version {1} ({2})</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T184528Z" creationid="Marc Riera" creationdate="20201010T184528Z">
+        <seg>{0} versió {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>{0} version {1}, update {2} ({3})</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T184609Z" creationid="Marc Riera" creationdate="20201010T184609Z">
+        <seg>{0} versió {1}, actualització {2} ({3})</seg>
       </tuv>
     </tu>
     <tu>
