@@ -6431,6 +6431,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Dictionaries</seg>
       </tuv>
@@ -9953,8 +9954,9 @@ l'hivern ja és aquí.</seg>
 Java is installed at system level and is in the command path, the full path need
 not be entered.)</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T231024Z" creationid="Marc Riera" creationdate="20200122T231024Z">
-        <seg>Si el Java està instal·lat per a tot el sistema i es troba al camí d'ordres,
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201119T180720Z" creationid="Marc Riera" creationdate="20200122T231024Z">
+        <seg>
+Si el Java està instal·lat per a tot el sistema i es troba al camí d'ordres,
 no cal introduir el camí complet.)</seg>
       </tuv>
     </tu>
