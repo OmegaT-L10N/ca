@@ -6906,6 +6906,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Documentation manager</seg>
       </tuv>
@@ -7548,11 +7549,12 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>English version translators</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T143123Z" creationid="Marc Riera" creationdate="20190924T143123Z">
-        <seg>Traductors de la versió en anglès</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201120T083944Z" creationid="Marc Riera" creationdate="20190924T143123Z">
+        <seg>Traducció de la versió en anglès</seg>
       </tuv>
     </tu>
     <tu>
@@ -9788,6 +9790,15 @@ l'hivern ja és aquí.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Howto - The "Priorview" preview utility</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201120T083644Z" creationid="Marc Riera" creationdate="20201120T083644Z">
+        <seg>Guia: eina de previsualització «Priorview»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Howto - Translating OmegaT into your language</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201115T220807Z" creationid="Marc Riera" creationdate="20201115T220807Z">
@@ -10829,6 +10840,7 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Integration manager</seg>
       </tuv>
@@ -11211,6 +11223,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
       </tuv>
@@ -11848,6 +11861,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Lead developer</seg>
       </tuv>
@@ -12194,6 +12208,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Localization manager, user group owner</seg>
       </tuv>
@@ -14890,6 +14905,7 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Original author of the OmegaT application</seg>
       </tuv>
@@ -16130,6 +16146,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Project manager</seg>
       </tuv>
@@ -18665,11 +18682,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T143449Z" creationid="Marc Riera" creationdate="20190924T143449Z">
-        <seg>Des dels inicis del projecte, ha rebut el suport de desenes d'altres contribuidors, massa nombrosos per esmentar-los aquí, però als quals estem molt agraïts per la seva ajuda.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201120T084029Z" creationid="Marc Riera" creationdate="20190924T143449Z">
+        <seg>Des dels inicis del projecte, ha rebut el suport de desenes d'altres col·laboradors. Són massa nombrosos per esmentar-los aquí, però els estem molt agraïts per la seva ajuda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20188,6 +20206,7 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The OmegaT project</seg>
       </tuv>
@@ -20196,11 +20215,12 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T143151Z" creationid="Marc Riera" creationdate="20190924T143151Z">
-        <seg>El projecte OmegaT es manté gràcies a un grup informal i internacional de voluntaris.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201120T083844Z" creationid="Marc Riera" creationdate="20190924T143151Z">
+        <seg>El projecte OmegaT està mantingut per un grup informal i internacional de voluntaris.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20664,6 +20684,7 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
       </tuv>
@@ -23359,11 +23380,12 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Website content authors</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T133917Z" creationid="Marc Riera" creationdate="20190924T133917Z">
-        <seg>Autors del contingut del lloc web</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201120T083937Z" creationid="Marc Riera" creationdate="20190924T133917Z">
+        <seg>Creació del contingut del lloc web</seg>
       </tuv>
     </tu>
     <tu>
@@ -23375,11 +23397,12 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Website manager</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T143058Z" creationid="Marc Riera" creationdate="20190924T133248Z">
-        <seg>Gestor de la web</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201120T083917Z" creationid="Marc Riera" creationdate="20190924T133248Z">
+        <seg>Gestor del lloc web</seg>
       </tuv>
     </tu>
     <tu>
