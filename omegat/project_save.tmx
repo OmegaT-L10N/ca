@@ -2159,6 +2159,24 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201120T162448Z" creationid="Marc Riera" creationdate="20201120T162448Z">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>&lt;a2&gt;Libre Office&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201120T162451Z" creationid="Marc Riera" creationdate="20201120T162451Z">
+        <seg>&lt;a2&gt;Libre Office&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213225Z" creationid="Marc Riera" creationdate="20180210T213225Z">
@@ -3671,6 +3689,7 @@ No es carregarà el fitxer TMX.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Apertium Plugin</seg>
       </tuv>
@@ -4229,6 +4248,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T112846Z" creationid="mgalo" creationdate="20181112T112846Z">
         <seg>Navega...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browser plugin</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201120T162220Z" creationid="Marc Riera" creationdate="20201120T162220Z">
+        <seg>Connector de navegador</seg>
       </tuv>
     </tu>
     <tu>
@@ -8414,6 +8441,15 @@ els fils de teranyina t'aparten.
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Fast access to websites.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201120T162232Z" creationid="Marc Riera" creationdate="20201120T162232Z">
+        <seg>Accediu a llocs web ràpidament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191207T225336Z" creationid="Marc Riera" creationdate="20180221T112446Z">
@@ -9961,6 +9997,7 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Icons</seg>
       </tuv>
@@ -10361,6 +10398,14 @@ feu clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150801T121534Z" creationid="Alexandra" creationdate="20150526T155351Z">
         <seg>Important: per poder utilitzar els connectors, és possible que hagin d'instal·lar una versió més recent d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Important: listed plug-ins work with OmegaT version 4 and above.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201120T162301Z" creationid="Marc Riera" creationdate="20201120T162301Z">
+        <seg>Important: els connectors de la llista funcionen amb la versió 4 i superiors de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10836,11 +10881,12 @@ feu clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150801T121437Z" creationid="Alexandra" creationdate="20150526T161527Z">
-        <seg>S'integra la funcionalitat de la traducció automàtica d'Apertium a OmegaT.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201120T162206Z" creationid="Alexandra" creationdate="20150526T161527Z">
+        <seg>Integra la funcionalitat de traducció automàtica d'Apertium a l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11521,11 +11567,12 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>LF Aligner</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150526T134034Z" creationid="Alexandra" creationdate="20150526T134034Z">
-        <seg>Alineador LF</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201120T162512Z" creationid="Alexandra" creationdate="20150526T134034Z">
+        <seg>LF Aligner</seg>
       </tuv>
     </tu>
     <tu>
@@ -12222,6 +12269,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Localization resources</seg>
       </tuv>
@@ -13905,6 +13953,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>ONline DIctionary LOokup TOol.</seg>
       </tuv>
@@ -13957,6 +14006,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Okapi Filters Plugin</seg>
       </tuv>
@@ -13965,6 +14015,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Okapi Framework</seg>
       </tuv>
@@ -14618,6 +14669,7 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Ondiloto</seg>
       </tuv>
@@ -14956,11 +15008,12 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Other OmegaT resources</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150526T161113Z" creationid="Alexandra" creationdate="20150526T161113Z">
-        <seg>Altres recursos d'OmegaT</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201120T162113Z" creationid="Alexandra" creationdate="20150526T161113Z">
+        <seg>Altres recursos de l'OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -15574,6 +15627,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Plug-ins</seg>
       </tuv>
@@ -16251,11 +16305,12 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Provides filters for handling further file formats, including Trados TTX.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150526T161507Z" creationid="Alexandra" creationdate="20150526T161507Z">
-        <seg>Proporciona filtres per a la manipulació de més formats de fitxer, com ara Trados TTX.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201120T162140Z" creationid="Alexandra" creationdate="20150526T161507Z">
+        <seg>Proporciona filtres per a la manipulació de més formats de fitxer, com ara fitxers TTX del Trados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17525,11 +17580,12 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Sample texts</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150604T184519Z" creationid="Alexandra" creationdate="20150526T134552Z">
-        <seg>Textos de mostra</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201120T162409Z" creationid="Alexandra" creationdate="20150526T134552Z">
+        <seg>Textos d'exemple</seg>
       </tuv>
     </tu>
     <tu>
@@ -17542,6 +17598,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Samuel Murray's scripts and procedures</seg>
       </tuv>
@@ -19166,11 +19223,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Spelling dictionaries</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150526T134347Z" creationid="Alexandra" creationdate="20150526T134347Z">
-        <seg>Diccionaris d'ortografia</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201120T162444Z" creationid="Alexandra" creationdate="20150526T134347Z">
+        <seg>Diccionaris ortogràfics</seg>
       </tuv>
     </tu>
     <tu>
@@ -21115,6 +21173,7 @@ en sou víctima d'una.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Third-party software</seg>
       </tuv>
@@ -21355,6 +21414,7 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This web site</seg>
       </tuv>
@@ -24785,6 +24845,15 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223850Z" creationid="Marc Riera" creationdate="20180214T223850Z">
         <seg>atributs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>bitext2tmx</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201120T162505Z" creationid="Marc Riera" creationdate="20201120T162505Z">
+        <seg>bitext2tmx</seg>
       </tuv>
     </tu>
     <tu>
