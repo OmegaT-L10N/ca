@@ -110,6 +110,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
       </tuv>
@@ -4105,6 +4106,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before proceeding</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T111254Z" creationid="Marc Riera" creationdate="20201121T111254Z">
+        <seg>Abans de continuar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Being the language behind popular software such as Firefox it is a familiar and preferred programming tool in the open-source domain.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T160612Z" creationid="Packard Bell" creationdate="20150605T160612Z">
@@ -6421,6 +6430,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190925T073909Z" creationid="Marc Riera" creationdate="20190925T073909Z">
         <seg>S'està detectant...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Developer Version</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T111403Z" creationid="Marc Riera" creationdate="20201121T111403Z">
+        <seg>Versió en desenvolupament</seg>
       </tuv>
     </tu>
     <tu>
@@ -10083,6 +10100,7 @@ no cal introduir el camí complet.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If in doubt, select this version.</seg>
       </tuv>
@@ -11301,6 +11319,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>JRE</seg>
       </tuv>
@@ -14924,6 +14943,7 @@ Runtime Environment (JRE) al sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Operating System</seg>
       </tuv>
@@ -17139,6 +17159,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Requirements</seg>
       </tuv>
@@ -19289,6 +19310,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T111316Z" creationid="Marc Riera" creationdate="20201121T111316Z">
+        <seg>Versió estàndard: {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Start OmegaT again, download the team project, close OmegaT
@@ -19583,6 +19612,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>System requirements</seg>
       </tuv>
@@ -21824,6 +21854,7 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Traditional</seg>
       </tuv>
@@ -23023,6 +23054,7 @@ a la línia {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>User requirements</seg>
       </tuv>
