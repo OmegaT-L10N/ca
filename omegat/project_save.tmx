@@ -2142,6 +2142,7 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
       </tuv>
@@ -2690,6 +2691,14 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T183310Z" creationid="Marc Riera" creationdate="20201010T183310Z">
         <seg>L'&lt;s0&gt;OmegaT&lt;/s0&gt; és una aplicació lliure de memòria de traducció que funciona amb el Windows, macOS, Linux...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T122924Z" creationid="Marc Riera" creationdate="20201121T122924Z">
+        <seg>L'&lt;s0&gt;OmegaT&lt;/s0&gt; està disponible en moltes versions diferents per satisfer la diversitat de requisits dels usuaris.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3407,6 +3416,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T111842Z" creationid="Marc Riera" creationdate="20190521T111842Z">
         <seg>Llengua alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T123010Z" creationid="Marc Riera" creationdate="20201121T123010Z">
+        <seg>Alternativament, si ja sabeu quina versió voleu baixar, feu clic en el botó per veure les diferents versions disponibles de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10393,6 +10410,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T122606Z" creationid="Marc Riera" creationdate="20201121T122606Z">
+        <seg>Si programeu i teniu coneixements de Java, consulteu la documentació en el &lt;a0&gt;codi font&lt;/a0&gt; a /docs_devel per obtenir informació sobre com començar.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
@@ -15499,6 +15524,14 @@ per a determinar l'origen de l'error i torneu-ho a provar.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Please contact the &lt;a0&gt;OmegaT Localization Co-ordinator&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T123331Z" creationid="Marc Riera" creationdate="20201121T123331Z">
+        <seg>Poseu-vos el contacte amb el &lt;a0&gt;coordinador de la localització de l'OmegaT&lt;/a0&gt; per conèixer els detalls del que implica la localització/traducció de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.</seg>
@@ -19582,6 +19615,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Such auxiliary code has already been written in Javascript, Groovy and Tcl/Tk, for instance.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T122653Z" creationid="Marc Riera" creationdate="20201121T122653Z">
+        <seg>Ja s'ha escrit codi auxiliar en JavaScript, Groovy i Tcl/Tk, per exemple.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Summary</seg>
@@ -20905,6 +20946,14 @@ s'indica a /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T122821Z" creationid="Marc Riera" creationdate="20190520T122821Z">
         <seg>Les contrasenyes no coincideixen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T123137Z" creationid="Marc Riera" creationdate="20201121T123137Z">
+        <seg>És el complement perfecte per als que no necessitem complexitat, sinó eficiència; els glossaris, l'emplenament automàtic i la traducció automàtica milloren molt l'eficiència de la meva feina en traducció literària.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24002,6 +24051,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Work with more than 30 file formats</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T122821Z" creationid="Marc Riera" creationdate="20201121T122821Z">
+        <seg>Treballeu amb més de 30 formats de fitxer</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Writeable Glossary File</seg>
@@ -25942,6 +25999,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>×</seg>
       </tuv>
