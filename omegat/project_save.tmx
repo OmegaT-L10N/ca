@@ -6407,6 +6407,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Detailed instructions</seg>
       </tuv>
@@ -6436,8 +6437,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Developer Version</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T111403Z" creationid="Marc Riera" creationdate="20201121T111403Z">
-        <seg>Versió en desenvolupament</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T111415Z" creationid="Marc Riera" creationdate="20201121T111403Z">
+        <seg>Versió de desenvolupament</seg>
       </tuv>
     </tu>
     <tu>
@@ -11969,6 +11970,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Legacy versions</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T111502Z" creationid="Marc Riera" creationdate="20201121T111502Z">
+        <seg>Versions obsoletes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Legal notices and Acknowledgements</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181118T172630Z" creationid="mgalo" creationdate="20181118T172630Z">
@@ -13476,6 +13485,15 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T222316Z" creationid="mgalo" creationdate="20181113T181232Z">
         <seg>A continuació, s'obrirà el quadre de diàleg &lt;g0&gt;Fitxers del projecte&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Nightly Builds</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T111433Z" creationid="Marc Riera" creationdate="20201121T111433Z">
+        <seg>Compilacions diàries</seg>
       </tuv>
     </tu>
     <tu>
@@ -15356,6 +15374,7 @@ everything.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Platform</seg>
       </tuv>
@@ -20450,6 +20469,7 @@ Proveu de corregir l'error i torneu a carregar el projecte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The application runs on your machine.</seg>
       </tuv>
@@ -25061,6 +25081,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
       </tuv>
