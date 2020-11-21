@@ -2662,6 +2662,22 @@ línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T114015Z" creationid="Marc Riera" creationdate="20201121T114015Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Versió més recent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standard Version</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T114003Z" creationid="Marc Riera" creationdate="20201121T114003Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Versió estàndard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T183310Z" creationid="Marc Riera" creationdate="20201010T183310Z">
@@ -6576,6 +6592,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Diego Merino - Translator EN &gt; ES</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T114109Z" creationid="Marc Riera" creationdate="20201121T114109Z">
+        <seg>Diego Merino: traductor EN &gt; ES</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Diego Merino Traducciones</seg>
@@ -7097,16 +7121,16 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Download Overview</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150604T201754Z" creationid="Alexandra" creationdate="20150526T124215Z">
-        <seg>Descarregar Visió general</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T113936Z" creationid="Alexandra" creationdate="20150526T124215Z">
+        <seg>Informació general de les baixades</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Download Selector</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150604T201748Z" creationid="Alexandra" creationdate="20150526T124013Z">
-        <seg>Descarregueu el Selector</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T113911Z" creationid="Alexandra" creationdate="20150526T124013Z">
+        <seg>Selector de baixades</seg>
       </tuv>
     </tu>
     <tu>
@@ -10183,6 +10207,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T113836Z" creationid="Marc Riera" creationdate="20201121T113836Z">
+        <seg>Si no sabeu quina versió baixar, podeu utilitzar el &lt;a0&gt;Selector de baixades&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
@@ -12113,6 +12145,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Links are provided below to the various versions of OmegaT.</seg>
       </tuv>
@@ -14115,6 +14148,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT Download Selector</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T113853Z" creationid="Marc Riera" creationdate="20201121T113853Z">
+        <seg>Selector de baixades de l'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT Javadoc...</seg>
@@ -14433,8 +14474,8 @@ està llest per a executar-se.</seg>
       <tuv lang="en">
         <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150604T184750Z" creationid="Alexandra" creationdate="20150526T132806Z">
-        <seg>OmegaT no és només un producte; és un projecte apassionant, i vostè pot formar-ne part.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T121055Z" creationid="Alexandra" creationdate="20150526T132806Z">
+        <seg>OmegaT no és només un producte; és un projecte apassionant del qual podeu formar part.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17433,6 +17474,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Robert Corner, Institut Laue-Langevin, France</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T114142Z" creationid="Marc Riera" creationdate="20201121T114142Z">
+        <seg>Robert Corner, Institut Laue-Langevin, França</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Row</seg>
@@ -20357,6 +20406,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The OmegaT project and you</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T114157Z" creationid="Marc Riera" creationdate="20201121T114157Z">
+        <seg>El projecte OmegaT i vós</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
@@ -23244,6 +23301,14 @@ subscriure-us-hi:</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T225622Z" creationid="mgalo" creationdate="20181115T225622Z">
         <seg>S'estan validant les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Valter Mura - Translator EN &gt; IT</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T114125Z" creationid="Marc Riera" creationdate="20201121T114125Z">
+        <seg>Valter Mura: traductor EN &gt; IT</seg>
       </tuv>
     </tu>
     <tu>
