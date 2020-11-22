@@ -1610,11 +1610,12 @@ Per a afegir fitxers al projecte, feu clic en el botó «Copia fitxers a la carp
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150526T110104Z" creationid="Alexandra" creationdate="20150526T110104Z">
-        <seg>(El programari que fa això és anomenat "traducció automàtica", i vostè haurà de buscar-lo un altre lloc).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T144349Z" creationid="Alexandra" creationdate="20150526T110104Z">
+        <seg>(El programari que fa això s'anomena «traducció automàtica» i l'haureu de cercar en una altra banda).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2276,11 +2277,12 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T183310Z" creationid="Marc Riera" creationdate="20201010T183310Z">
-        <seg>L'&lt;s0&gt;OmegaT&lt;/s0&gt; és una aplicació lliure de memòria de traducció que funciona amb el Windows, macOS, Linux...</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T144229Z" creationid="Marc Riera" creationdate="20201010T183310Z">
+        <seg>L'&lt;s0&gt;OmegaT&lt;/s0&gt; és una aplicació lliure de memòria de traducció que funciona en el Windows, macOS, Linux...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9916,11 +9918,12 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>It does not translate for you!</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150801T114824Z" creationid="Alexandra" creationdate="20150526T100629Z">
-        <seg>No tradueix per vostè!</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T144320Z" creationid="Alexandra" creationdate="20150526T100629Z">
+        <seg>No tradueix per si mateixa!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9936,8 +9939,8 @@ feu doble clic en la drecera.</seg>
       <tuv lang="en">
         <seg>It is a tool intended for professional translators.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150526T100626Z" creationid="Alexandra" creationdate="20150526T100626Z">
-        <seg>És una eina pensada per a traductors professionals.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T144242Z" creationid="Alexandra" creationdate="20150526T100626Z">
+        <seg>És una eina pensada per a la traducció professional.</seg>
       </tuv>
     </tu>
     <tu>
