@@ -2955,6 +2955,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Always Confirm Quit</seg>
       </tuv>
@@ -3418,6 +3419,14 @@ inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T215702Z" creationid="mgalo" creationdate="20181112T110932Z">
         <seg>Comprova si hi ha actualitzacions automàticament</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T192521Z" creationid="Marc Riera" creationdate="20201122T192521Z">
+        <seg>Obtén les traduccions automàticament</seg>
       </tuv>
     </tu>
     <tu>
@@ -8263,6 +8272,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>General Preferences</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T192400Z" creationid="Marc Riera" creationdate="20201122T192400Z">
+        <seg>Preferències generalsç</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Generate the translated file</seg>
@@ -9995,6 +10012,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201120T161250Z" creationid="Alexandra" creationdate="20150526T132945Z">
         <seg>Sistema de seguiment de problemes i errors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It allows parameters to be set for all translation projects.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T192412Z" creationid="Marc Riera" creationdate="20201122T192412Z">
+        <seg>Permet establir paràmetres per a tots els projectes de traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18841,6 +18866,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The program will seek confirmation before closing down.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T192510Z" creationid="Marc Riera" creationdate="20201122T192510Z">
+        <seg>El programa demanarà una confirmació abans de tancar-se.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The project cannot be verified</seg>
@@ -20472,6 +20505,15 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Untranslated segments only</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T192546Z" creationid="Marc Riera" creationdate="20201122T192546Z">
+        <seg>Només els segments sense traduir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Untranslated segments text</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T105204Z" creationid="mgalo" creationdate="20181112T105204Z">
@@ -20602,6 +20644,7 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Use TAB to Advance</seg>
       </tuv>
