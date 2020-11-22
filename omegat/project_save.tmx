@@ -2669,12 +2669,28 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Add numbers to all segments, making them all "unique"</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T185325Z" creationid="Marc Riera" creationdate="20201122T185325Z">
+        <seg>Afegir nombres a tots els segments per fer-los «únics»</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T103725Z" creationid="mgalo" creationdate="20181109T234951Z">
         <seg>Afegeix o reescriu la declaració de codificació dels fitxers HTML i XHTML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add terms to a glossary whilst translating in OmegaT</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T185307Z" creationid="Marc Riera" creationdate="20201122T185307Z">
+        <seg>Afegir termes a un glossari durant la traducció a l'OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -4372,6 +4388,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Check spelling (various procedures)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T185355Z" creationid="Marc Riera" creationdate="20201122T185355Z">
+        <seg>Comprovar l'ortografia (diversos procediments)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check start case</seg>
@@ -5262,6 +5286,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T150248Z" creationid="Marc Riera" creationdate="20180214T223234Z">
         <seg>Crea un projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a TMX file containing all strings, with identical source and target</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T185253Z" creationid="Marc Riera" creationdate="20201122T185253Z">
+        <seg>Crear un fitxer TMX que contingui totes les cadenes en què el text d'origen i de destinació és idèntic</seg>
       </tuv>
     </tu>
     <tu>
@@ -7429,6 +7461,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150526T155807Z" creationid="Alexandra" creationdate="20150526T155807Z">
         <seg>Documentació externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extract all source text from the project files into a single, large text file</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T185228Z" creationid="Marc Riera" creationdate="20201122T185228Z">
+        <seg>Extreure tot el text d'origen dels fitxers del projecte en un únic fitxer de text</seg>
       </tuv>
     </tu>
     <tu>
@@ -15164,6 +15204,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Remove all text except tags, or all tags except text</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T185343Z" creationid="Marc Riera" creationdate="20201122T185343Z">
+        <seg>Suprimir tot el text excepte les etiquetes o totes les etiquetes excepte el text</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remove bidirectionality control characters in the current target</seg>
@@ -16980,6 +17028,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180212T221043Z" creationid="Marc Riera" creationdate="20180212T221043Z">
         <seg>Omet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skip segments containing a certain set of characters</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T185205Z" creationid="Marc Riera" creationdate="20201122T185205Z">
+        <seg>Ometre els segments que continguin un conjunt de caràcters determinats</seg>
       </tuv>
     </tu>
     <tu>
