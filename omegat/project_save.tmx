@@ -51,8 +51,8 @@
       <tuv lang="en">
         <seg>"This application requires that Java %d or later be installed on your computer.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T222044Z" creationid="Marc Riera" creationdate="20201003T222044Z">
-        <seg>"Aquesta aplicació necessita que tingueu instal·lat el Java %d o una versió posterior a l'ordinador.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120818Z" creationid="Marc Riera" creationdate="20201003T222044Z">
+        <seg>"Aquesta aplicació necessita que tingueu instal·lat el Java %d o una versió posterior en l'ordinador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60,8 +60,8 @@
       <tuv lang="en">
         <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T222259Z" creationid="Marc Riera" creationdate="20201003T222259Z">
-        <seg>"Aquesta aplicació necessita que tingueu instal·lat el Java %d JDK o una versió posterior a l'ordinador.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120825Z" creationid="Marc Riera" creationdate="20201003T222259Z">
+        <seg>"Aquesta aplicació necessita que tingueu instal·lat el Java %d JDK o una versió posterior en l'ordinador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2024,10 +2024,10 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213149Z" creationid="Marc Riera" creationdate="20180210T213149Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120702Z" creationid="Marc Riera" creationdate="20180210T213149Z">
         <seg>2) Augmenteu la quantitat de memòria disponible per a l'OmegaT
-especificant «java -Xmx&lt;mida-en-MB&gt;M -jar OmegaT.jar» a la
-línia d'ordres o a l'script d'inici de l'OmegaT. El valor actual és de {0} MB.</seg>
+especificant «java -Xmx&lt;mida-en-MB&gt;M -jar OmegaT.jar» en la
+línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7563,8 +7563,8 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       <tuv lang="en">
         <seg>Empty repository URL in the mapping</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T151242Z" creationid="mgalo" creationdate="20181218T201621Z">
-        <seg>L'adreça URL del dipòsit a l'assignació és buida</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120715Z" creationid="mgalo" creationdate="20181218T201621Z">
+        <seg>L'adreça URL del dipòsit en l'assignació és buida</seg>
       </tuv>
     </tu>
     <tu>
@@ -8744,8 +8744,8 @@ els fils de teranyina t'aparten.
       <tuv lang="en">
         <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150604T201723Z" creationid="Alexandra" creationdate="20150526T102658Z">
-        <seg>Els fitxers en format XML de Microsoft Office es poden traduir directament en OmegaT.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120532Z" creationid="Alexandra" creationdate="20150526T102658Z">
+        <seg>Els fitxers en format XML del Microsoft Office es poden traduir directament en l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10238,6 +10238,14 @@ no cal introduir el camí complet.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If in doubt, select this option.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120434Z" creationid="Marc Riera" creationdate="20201122T120434Z">
+        <seg>Si dubteu, seleccioneu aquesta opció.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If in doubt, select this version.</seg>
@@ -10513,8 +10521,8 @@ l'OmegaT és utilitzar Java Web Start.</seg>
         <seg>If, during installation, you have created a shortcut on the desktop,
 double-click on that shortcut.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230921Z" creationid="Marc Riera" creationdate="20200122T230921Z">
-        <seg>En cas que hàgiu creat una drecera a l'escriptori durant la instal·lació,
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120733Z" creationid="Marc Riera" creationdate="20200122T230921Z">
+        <seg>En cas que hàgiu creat una drecera en l'escriptori durant la instal·lació,
 feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
@@ -11068,8 +11076,8 @@ feu clic en la drecera.</seg>
       <tuv lang="en">
         <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201120T162206Z" creationid="Alexandra" creationdate="20150526T161527Z">
-        <seg>Integra la funcionalitat de traducció automàtica d'Apertium a l'OmegaT.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T121230Z" creationid="Alexandra" creationdate="20150526T161527Z">
+        <seg>Integra la funcionalitat de traducció automàtica d'Apertium en l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14952,8 +14960,8 @@ Runtime Environment (JRE) al sistema.</seg>
       <tuv lang="en">
         <seg>Only if they are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T201730Z" creationid="Marc Riera" creationdate="20201010T201730Z">
-        <seg>Ara bé, l'equip de desenvolupament només els inclourà a l'OmegaT si considera que resulten beneficiosos per als usuaris del programa.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120910Z" creationid="Marc Riera" creationdate="20201010T201730Z">
+        <seg>Ara bé, l'equip de desenvolupament només els inclourà en l'OmegaT si considera que resulten beneficiosos per als usuaris del programa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20956,9 +20964,9 @@ a la zona d'accés ràpid.</seg>
         <seg>The installer can create shortcuts for you in the start menu, on the desktop and
 in the quick launch area.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200124T232126Z" creationid="Marc Riera" creationdate="20200122T230927Z">
-        <seg>El programa d'instal·lació pot crear dreceres al menú d'inici, a l'escriptori i
-a l'àrea d'accés ràpid.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120749Z" creationid="Marc Riera" creationdate="20200122T230927Z">
+        <seg>El programa d'instal·lació pot crear dreceres en el menú d'inici, l'escriptori i
+l'àrea d'accés ràpid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21737,8 +21745,8 @@ des del servidor.</seg>
       <tuv lang="en">
         <seg>This script is intended to run in OmegaT 3.6 and newer.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094935Z" creationid="Marc Riera" creationdate="20201003T223303Z">
-        <seg>Aquest script està dissenyat per a executar-se a l'OmegaT 3.6 o posterior.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120847Z" creationid="Marc Riera" creationdate="20201003T223303Z">
+        <seg>Aquest script està dissenyat per a executar-se en l'OmegaT 3.6 o posterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23267,8 +23275,8 @@ a la línia {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use the installation language in OmegaT</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T123939Z" creationid="Marc Riera" creationdate="20190520T123918Z">
-        <seg>Utilitza la llengua d'instal·lació a l'OmegaT</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120833Z" creationid="Marc Riera" creationdate="20190520T123918Z">
+        <seg>Utilitza la llengua d'instal·lació en l'OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -23381,8 +23389,8 @@ a la línia {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>User support resources:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T160454Z" creationid="Marc Riera" creationdate="20200123T160454Z">
-        <seg>Recursos d'ajuda a l'usuari:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120809Z" creationid="Marc Riera" creationdate="20200123T160454Z">
+        <seg>Recursos d'ajuda per a l'usuari:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25768,6 +25776,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200125T141908Z" creationid="mgalo" creationdate="20181118T101042Z">
         <seg>slf4j (llicència MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>some version</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120444Z" creationid="Marc Riera" creationdate="20201122T120444Z">
+        <seg>versió</seg>
       </tuv>
     </tu>
     <tu>
