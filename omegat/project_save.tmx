@@ -9012,6 +9012,42 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>For installation on Linux.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120131Z" creationid="Marc Riera" creationdate="20201122T120040Z">
+        <seg>Per a la instal·lació en el Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>For installation on Mac OS X.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120127Z" creationid="Marc Riera" creationdate="20201122T120023Z">
+        <seg>Per a la instal·lació en el Mac OS X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>For installation on Windows System.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120123Z" creationid="Marc Riera" creationdate="20201122T120007Z">
+        <seg>Per a la instal·lació en el Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120115Z" creationid="Marc Riera" creationdate="20201122T120108Z">
+        <seg>Per a la instal·lació en altres sistemes operatius (com ara FreeBSD i Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>For subsequent use, all is needed is opening the project like any other &lt;a0&gt;OmegaT&lt;/a0&gt; project.</seg>
       </tuv>
@@ -10284,11 +10320,12 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T113836Z" creationid="Marc Riera" creationdate="20201121T113836Z">
-        <seg>Si no sabeu quina versió baixar, podeu utilitzar el &lt;a0&gt;Selector de baixades&lt;/a0&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T115712Z" creationid="Marc Riera" creationdate="20201121T113836Z">
+        <seg>Si no sabeu quina versió baixar, podeu utilitzar el &lt;a0&gt;selector de baixades&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12250,6 +12287,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Linux</seg>
       </tuv>
@@ -12495,6 +12533,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mac OS X</seg>
       </tuv>
@@ -14244,6 +14283,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT Download Selector</seg>
       </tuv>
@@ -20650,6 +20690,14 @@ Proveu de corregir l'error i torneu a carregar el projecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T115943Z" creationid="Marc Riera" creationdate="20201122T115943Z">
+        <seg>La versió Web Start és la versió per «instal·lar i oblidar-se'n».&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The advantages of a VC system for a team of translators can be summarized as follows:</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150523T155318Z" creationid="Stephanie" creationdate="20150523T154932Z">
@@ -24024,6 +24072,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Windows</seg>
       </tuv>
