@@ -4903,6 +4903,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Consists of a model student's manual with instructions to trainers for adaptation, and sample resources.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T185532Z" creationid="Marc Riera" creationdate="20201122T185532Z">
+        <seg>Consisteix en un model de manual per a estudiants amb instruccions perquè els formadors l'adaptin i recursos d'exemple.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Console-align mode:
@@ -10212,11 +10220,12 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Java command-line script for merging two or more TMX files.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150604T184313Z" creationid="Alexandra" creationdate="20150526T140558Z">
-        <seg>Script de línies d'ordres de Java per fusionar dos o més fitxers TMX.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T190159Z" creationid="Alexandra" creationdate="20150526T140558Z">
+        <seg>Script de línia d'ordres en Java per fusionar dos o més fitxers TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13874,11 +13883,12 @@ everything.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Platform-independent; require tcl/tk.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150604T184404Z" creationid="Alexandra" creationdate="20150526T135409Z">
-        <seg>Plataforma independent; requereix tcl/TK.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T190403Z" creationid="Alexandra" creationdate="20150526T135409Z">
+        <seg>Independent de la plataforma; requereix Tcl/Tk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19196,11 +19206,12 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This collection of scripts may be useful to scripters with a knowledge of tcl/tk.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150801T121616Z" creationid="Alexandra" creationdate="20150526T140249Z">
-        <seg>Aquesta col·lecció de scripts pot ser útil per scripters amb coneixement de tcl/tk.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T190304Z" creationid="Alexandra" creationdate="20150526T140249Z">
+        <seg>Aquest conjunt de scripts pot ser útil per als creadors de scripts amb coneixements de Tcl/Tk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19583,11 +19594,12 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Toxic scripts</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150604T184358Z" creationid="Alexandra" creationdate="20150526T140042Z">
-        <seg>Scripts Toxic.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T190347Z" creationid="Alexandra" creationdate="20150526T140042Z">
+        <seg>Scripts del Toxic</seg>
       </tuv>
     </tu>
     <tu>
@@ -20798,19 +20810,21 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Utilities</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150604T184237Z" creationid="Alexandra" creationdate="20150526T140659Z">
-        <seg>Recursos útils</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T190131Z" creationid="Alexandra" creationdate="20150526T140659Z">
+        <seg>Utilitats</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Utility for converting Trados TagEditor (TTX) files to an intermediate format, enabling them to be translated in OmegaT.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150604T184337Z" creationid="Alexandra" creationdate="20150526T140306Z">
-        <seg>Recurs per a la conversió de fitxers de Trados TagEditor (TTX) a un format intermedi que els habilita per ser traduïts en OmegaT.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T190236Z" creationid="Alexandra" creationdate="20150526T140306Z">
+        <seg>Utilitat per a la conversió de fitxers del Trados TagEditor (TTX) a un format intermedi que permet traduir-los a l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21115,6 +21129,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201120T083917Z" creationid="Marc Riera" creationdate="20190924T133248Z">
         <seg>Gestor del lloc web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Website support can be scripted in Groovy.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T185830Z" creationid="Marc Riera" creationdate="20201122T185830Z">
+        <seg>Podeu crear scripts en Groovy per a la compatibilitat amb llocs web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21436,6 +21458,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Written in Python.</seg>
       </tuv>
@@ -21444,6 +21467,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Written in Python/Perl.</seg>
       </tuv>
