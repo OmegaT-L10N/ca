@@ -2262,6 +2262,7 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
       </tuv>
@@ -2270,6 +2271,7 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standard Version</seg>
       </tuv>
@@ -2911,8 +2913,8 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201121T123010Z" creationid="Marc Riera" creationdate="20201121T123010Z">
-        <seg>Alternativament, si ja sabeu quina versió voleu baixar, feu clic en el botó per veure les diferents versions disponibles de l'OmegaT.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T150845Z" creationid="Marc Riera" creationdate="20201121T123010Z">
+        <seg>Alternativament, si ja sabeu quina versió voleu baixar, feu clic en el botó per veure les diferents versions de l'OmegaT disponibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6250,6 +6252,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Download Overview</seg>
       </tuv>
@@ -6258,6 +6261,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Download Selector</seg>
       </tuv>
@@ -20623,6 +20627,7 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>User portrait</seg>
       </tuv>
