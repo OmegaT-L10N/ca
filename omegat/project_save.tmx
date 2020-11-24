@@ -5416,8 +5416,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Cross-platform without JRE</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T125927Z" creationid="Marc Riera" creationdate="20190520T125927Z">
-        <seg>Multiplataforma sense JRE</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192857Z" creationid="Marc Riera" creationdate="20190520T125927Z">
+        <seg>Multiplataforma sense el JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -8059,6 +8059,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>For most users, these are not of interest.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192803Z" creationid="Marc Riera" creationdate="20201124T192751Z">
+        <seg>Per a la majoria d'usuaris, no són d'interès.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>For support requests, use the &lt;a1&gt;recommended support channel&lt;/a1&gt;.&lt;br2/&gt;</seg>
@@ -9278,6 +9286,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T193107Z" creationid="Marc Riera" creationdate="20201124T193107Z">
+        <seg>Si fa relativament poc que utilitzeu el Linux, us aconsellem que seleccioneu una versió de l'OmegaT que inclogui el JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
@@ -10083,6 +10099,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>It is therefore always safe to install the version of OmegaT with JRE.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T193348Z" creationid="Marc Riera" creationdate="20201124T193348Z">
+        <seg>Per tant, sempre és segur instal·lar la versió de l'OmegaT amb el JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>It is used to mark your translations.</seg>
@@ -10843,6 +10867,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Legacy versions are older versions that have been superseded.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192736Z" creationid="Marc Riera" creationdate="20201124T192736Z">
+        <seg>Les versions obsoletes són versions antigues que han quedat desfasades.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Level</seg>
@@ -11002,8 +11034,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Linux with 64-bit JRE</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T125946Z" creationid="Marc Riera" creationdate="20190520T125946Z">
-        <seg>Linux amb JRE de 64 bits</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192854Z" creationid="Marc Riera" creationdate="20190520T125946Z">
+        <seg>Linux amb el JRE de 64 bits</seg>
       </tuv>
     </tu>
     <tu>
@@ -11011,8 +11043,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Linux with JRE</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T125933Z" creationid="Marc Riera" creationdate="20190520T125933Z">
-        <seg>Linux amb JRE</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192851Z" creationid="Marc Riera" creationdate="20190520T125933Z">
+        <seg>Linux amb el JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -11200,6 +11232,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T191052Z" creationid="Marc Riera" creationdate="20191110T191052Z">
         <seg>Mac OS X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T193501Z" creationid="Marc Riera" creationdate="20201124T193501Z">
+        <seg>El Mac OS X té una característica anomenada Gatekeeper que dificulta l'execució de programes sense signar per incrementar la seguretat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11860,6 +11900,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181108T154026Z" creationid="mgalo" creationdate="20181108T154026Z">
         <seg>Més</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T193152Z" creationid="Marc Riera" creationdate="20201124T193152Z">
+        <seg>És possible que els usuaris del Linux amb més experiència prefereixin instal·lar el JRE d'Oracle (anteriorment, Sun) de manera general al sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13886,6 +13934,14 @@ s'esvaeix com la boira.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T225906Z" creationid="mgalo" creationdate="20181115T225906Z">
         <seg>Pot ser que estigui obert en una altra instància de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Periodic builds are available on Sourceforge.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T193000Z" creationid="Marc Riera" creationdate="20201124T193000Z">
+        <seg>Hi ha disponibles compilacions periòdiques a SourceForge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17052,6 +17108,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Signed/Unsigned</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T193208Z" creationid="Marc Riera" creationdate="20201124T193208Z">
+        <seg>Amb signatura o sense</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Simple search and replace script</seg>
@@ -18696,6 +18760,14 @@ en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T193309Z" creationid="Marc Riera" creationdate="20201124T193309Z">
+        <seg>La baixada serà més ràpida i la instal·lació necessitarà menys espai al disc dur.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The file "{0}" is not supported.</seg>
@@ -19160,6 +19232,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>There may be a delay in publishing signed versions.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T193226Z" creationid="Marc Riera" creationdate="20201124T193226Z">
+        <seg>Pot haver-hi un retard en la publicació de les versions signades.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>There was an error initializing LanguageTool.</seg>
@@ -19226,6 +19306,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200121T215659Z" creationid="mgalo" creationdate="20181114T121135Z">
         <seg>Estan protegides per tal que no se'n pugui modificar el contingut. Així i tot, podeu suprimir-les, introduir-les manualment o moure-les com vulgueu dins del text de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can be found in the folders of the corresponding compiled versions.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T193022Z" creationid="Marc Riera" creationdate="20201124T193022Z">
+        <seg>Es poden trobar a les carpetes de les versions compilades corresponents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21438,8 +21526,8 @@ no s'ha trobat la pàgina.</seg>
       <tuv lang="en">
         <seg>Windows with 64-bit JRE</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T130055Z" creationid="Marc Riera" creationdate="20190520T130055Z">
-        <seg>Windows amb JRE de 64 bits</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192846Z" creationid="Marc Riera" creationdate="20190520T130055Z">
+        <seg>Windows amb el JRE de 64 bits</seg>
       </tuv>
     </tu>
     <tu>
@@ -21447,8 +21535,8 @@ no s'ha trobat la pàgina.</seg>
       <tuv lang="en">
         <seg>Windows with JRE</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T130049Z" creationid="Marc Riera" creationdate="20190520T130049Z">
-        <seg>Windows amb JRE</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192843Z" creationid="Marc Riera" creationdate="20190520T130049Z">
+        <seg>Windows amb el JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -21456,8 +21544,8 @@ no s'ha trobat la pàgina.</seg>
       <tuv lang="en">
         <seg>Windows without JRE</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T130046Z" creationid="Marc Riera" creationdate="20190520T130046Z">
-        <seg>Windows sense JRE</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192848Z" creationid="Marc Riera" creationdate="20190520T130046Z">
+        <seg>Windows sense el JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -21474,6 +21562,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T203906Z" creationid="Marc Riera" creationdate="20201010T203906Z">
         <seg>Amb JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With/without JRE</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T193240Z" creationid="Marc Riera" creationdate="20201124T192809Z">
+        <seg>Amb el JRE o sense</seg>
       </tuv>
     </tu>
     <tu>
