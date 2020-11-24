@@ -2220,6 +2220,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T210807Z" creationid="Marc Riera" creationdate="20201124T210807Z">
+        <seg>&lt;i1&gt;L'OmegaT es pot instal·lar en qualsevol sistema operatiu que pugui executarla versió 1.6 del Java Runtime Environment.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
@@ -2298,6 +2306,22 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201121T122924Z" creationid="Marc Riera" creationdate="20201121T122924Z">
         <seg>L'&lt;s0&gt;OmegaT&lt;/s0&gt; està disponible en moltes versions diferents per satisfer la diversitat de requisits dels usuaris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T210135Z" creationid="Marc Riera" creationdate="20201124T210135Z">
+        <seg>&lt;s1&gt;Avantatge&lt;/s1&gt;: un cop iniciada, les actualitzacions futures de la versió Web Start s'instal·laran automàticament a l'ordinador.&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T210225Z" creationid="Marc Riera" creationdate="20201124T210225Z">
+        <seg>&lt;s3&gt;Desavantatge&lt;/s3&gt;: actualment, aquesta versió no es pot utilitzar juntament amb connectors, o sigui que no estan disponibles totes les característiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16848,6 +16872,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T232106Z" creationid="Marc Riera" creationdate="20191110T232106Z">
         <seg>Seleccioneu el fitxer languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T210936Z" creationid="Marc Riera" creationdate="20201124T210936Z">
+        <seg>Seleccioneu si voleu baixar l'OmegaT amb el Java Runtime Environment (JRE) inclòs o no.</seg>
       </tuv>
     </tu>
     <tu>
