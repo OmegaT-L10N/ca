@@ -10050,6 +10050,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It has usually been in use for some time and is therefore proven.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192325Z" creationid="Marc Riera" creationdate="20201124T192325Z">
+        <seg>Normalment ha estat en ús durant un temps i, per tant, se n'ha comprovat el bon funcionament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150528T205358Z" creationid="Packard Bell" creationdate="20150528T192517Z">
@@ -10172,6 +10180,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T105651Z" creationid="mgalo" creationdate="20181112T105651Z">
         <seg>Elements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Its documentation, at least in English, is usually reasonably up to date.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192341Z" creationid="Marc Riera" creationdate="20201124T192341Z">
+        <seg>La documentació, com a mínim en anglès, normalment està força actualitzada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10719,6 +10735,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T215650Z" creationid="mgalo" creationdate="20181112T110925Z">
         <seg>Més recent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192411Z" creationid="Marc Riera" creationdate="20201124T192411Z">
+        <seg>Versió més recent: {{site.data.versions.latest.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -14280,6 +14304,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T183442Z" creationid="Marc Riera" creationdate="20201010T183442Z">
         <seg>Eines potents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pre-built binaries, are available as Nightly Builds.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192502Z" creationid="Marc Riera" creationdate="20201124T192502Z">
+        <seg>Hi ha binaris precompilats disponibles com a compilacions diàries.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18425,6 +18457,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The Latest version requires Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192428Z" creationid="Marc Riera" creationdate="20201124T192428Z">
+        <seg>La versió més recent requereix el Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The Moodle PHP filter threw an exception:</seg>
@@ -18536,6 +18576,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T160453Z" creationid="Packard Bell" creationdate="20150605T160453Z">
         <seg>La finestra de Scripts us permetrà carregar un script existent en l'àrea de text i executar-lo en el projecte obert en ús.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192220Z" creationid="Marc Riera" creationdate="20201124T192220Z">
+        <seg>La versió estàndard requereix el Java {{site.data.versions.standard.java_version}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20139,6 +20187,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T110526Z" creationid="mgalo" creationdate="20181112T110526Z">
         <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>USD &lt;a0&gt;Donate&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192205Z" creationid="Marc Riera" creationdate="20201124T192205Z">
+        <seg>USD &lt;a0&gt;Fes una donació&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23006,6 +23062,22 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165739Z" creationid="Marc Riera" creationdate="20200802T165739Z">
         <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192400Z" creationid="Marc Riera" creationdate="20201124T192400Z">
+        <seg>{% else %} &lt;a0&gt;Baixa&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192354Z" creationid="Marc Riera" creationdate="20201124T192354Z">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Baixa&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
