@@ -2075,6 +2075,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T190416Z" creationid="Marc Riera" creationdate="20201125T190416Z">
+        <seg>&lt;a0&gt;El patrocini del desenvolupament ja ha permès l'addició de determinades característiques.&lt;/a0&gt; Si esteu disposat a finançar la feina d'implementació de la característica desitjada, podeu-vos en contacte amb l'equip de desenvolupament de manera privada per obtenir un pressupost.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;a2&gt;Libre Office&lt;/a2&gt;</seg>
@@ -3329,6 +3337,14 @@ inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T141723Z" creationid="Marc Riera" creationdate="20201125T140901Z">
         <seg>Com suggereix el nom, la versió «més recent» de l'OmegaT està més actualitzada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T190302Z" creationid="Marc Riera" creationdate="20201125T190302Z">
+        <seg>Tanmateix, com passa amb el desenvolupament lliure, segueix aplicant-se el principi que qualsevol canvi a l'OmegaT ha d'aportar beneficis a l'aplicació i als usuaris.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8992,6 +9008,14 @@ l'hivern ja és aquí.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, submission of an RFE does not mean that the desired feature or improvement will automatically be implemented.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T185822Z" creationid="Marc Riera" creationdate="20201125T185822Z">
+        <seg>Ara bé, l'enviament d'una RFE no significa que la característica o millora desitjada s'implementarà automàticament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T140953Z" creationid="Marc Riera" creationdate="20201125T140953Z">
@@ -10384,6 +10408,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>It may also be possible for developments commissioned from external developers to be implemented within OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T190212Z" creationid="Marc Riera" creationdate="20201125T190212Z">
+        <seg>També és possible incorporar el desenvolupament extern a l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
@@ -11322,6 +11354,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231320Z" creationid="Marc Riera" creationdate="20191112T231320Z">
         <seg>Visualització de llista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T185749Z" creationid="Marc Riera" creationdate="20201125T185749Z">
+        <seg>Ja s'han proposat literalment centenars d'RFE i moltes s'han implementat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13689,6 +13729,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T110804Z" creationid="mgalo" creationdate="20181112T110804Z">
         <seg>L'OmegaT {0} ja està disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T190125Z" creationid="Marc Riera" creationdate="20201125T190125Z">
+        <seg>És possible que els desenvolupadors de l'OmegaT, que treballen tots voluntàriament, tinguin una major disposició a implementar una RFE si qui la sol·licita finança la feina de desenvolupament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19452,6 +19500,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The procedure is termed an &lt;a0&gt;"RFE" (Request for Feature Enhancement) and is managed here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T185707Z" creationid="Marc Riera" creationdate="20201125T185707Z">
+        <seg>El procediment s'anomena &lt;a0&gt;«RFE» (sol·licitud de millora de característiques) i es gestiona aquí&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The program will seek confirmation before closing down.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T192510Z" creationid="Marc Riera" creationdate="20201122T192510Z">
@@ -19904,6 +19960,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T145111Z" creationid="Marc Riera" creationdate="20201125T145111Z">
         <seg>Aquest document és la guia oficial de l'usuari per a l'OmegaT, l'eina lliure de traducció assistida per ordinador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This enables the numerous suggestions to be managed more easily.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T185632Z" creationid="Marc Riera" creationdate="20201125T185632Z">
+        <seg>Això permet gestionar més fàcilment els diversos suggeriments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21990,6 +22054,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T184520Z" creationid="Marc Riera" creationdate="20201125T184520Z">
         <seg>Pel que fa a les tasques rutinàries, els voluntaris que treballen en el projecte OmegaT generalment tenen la màxima llibertat possible per determinar com col·laboren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whether or not it is adopted depends firstly upon whether the development team considers it beneficial to OmegaT, and secondly, upon whether one of the developers is willing to do the work of implementing it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T185959Z" creationid="Marc Riera" creationdate="20201125T185959Z">
+        <seg>Si s'adopta o no depèn, en primer lloc, de si l'equip de desenvolupament considerà que aportarà beneficis a l'OmegaT i, en segon lloc, de si algú de l'equip de desenvolupament està disposat a dur a terme la feina d'implementació.</seg>
       </tuv>
     </tu>
     <tu>
