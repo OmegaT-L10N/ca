@@ -2309,6 +2309,7 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
       </tuv>
@@ -2317,6 +2318,7 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
       </tuv>
@@ -9175,6 +9177,14 @@ no cal introduir el camí complet.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T135341Z" creationid="Marc Riera" creationdate="20201125T135326Z">
+        <seg>Si ja teniu instal·lada una versió adequada del JRE en el vostre sistema Windows, seleccioneu «sense el JRE».</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If checked, the entries are sorted alphabetically.</seg>
@@ -9193,6 +9203,7 @@ no cal introduir el camí complet.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If in doubt, select this option.</seg>
       </tuv>
@@ -9331,6 +9342,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T135106Z" creationid="Marc Riera" creationdate="20201125T135106Z">
         <seg>Si esteu segur que ja hi ha instal·lada una versió adequada del Java Runtime Environment en el vostre ordinador per a tot el sistema, podeu seleccionar l'opció que no inclou el JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T135641Z" creationid="Marc Riera" creationdate="20201125T135641Z">
+        <seg>Si no esteu segur de si ja teniu instal·lada una versió adequada del JRE en el vostre sistema, encara podeu baixar i instal·lar una versió de l'OmegaT que inclogui el JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11943,11 +11962,12 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T193152Z" creationid="Marc Riera" creationdate="20201124T193152Z">
-        <seg>És possible que els usuaris del Linux amb més experiència prefereixin instal·lar el JRE d'Oracle (anteriorment, Sun) de manera general al sistema.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T135151Z" creationid="Marc Riera" creationdate="20201124T193152Z">
+        <seg>És possible que els usuaris del Linux amb més experiència prefereixin instal·lar el JRE d'Oracle (anteriorment, Sun) per a tot el sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13031,6 +13051,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T135429Z" creationid="Marc Riera" creationdate="20201125T135429Z">
+        <seg>L'OmegaT actualment requereix la versió 1.6 o superior del JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT does not have read and write permissions to this folder.</seg>
@@ -13377,6 +13405,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224118Z" creationid="Marc Riera" creationdate="20180214T224118Z">
         <seg>L'OmegaT intentarà tornar a segmentar el fitxer TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T135414Z" creationid="Marc Riera" creationdate="20201125T135414Z">
+        <seg>L'OmegaT normalment funcionarà en qualsevol sistema Linux en què es pugui instal·lar una versió adequada del Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18734,6 +18770,7 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
       </tuv>
@@ -19245,6 +19282,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T135240Z" creationid="Marc Riera" creationdate="20201125T135240Z">
+        <seg>Versió perquè l'instal·li l'usuari, familiar per als usuaris existents de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
@@ -19592,6 +19637,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T135748Z" creationid="Marc Riera" creationdate="20201125T135748Z">
+        <seg>Aquesta versió del JRE només s'utilitzarà localment per a l'OmegaT i no entrarà amb conflicte, anul·larà ni desinstal·larà cap altra instal·lació del JRE; per tant, la podeu utilitzar de manera segura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201124T205803Z" creationid="Marc Riera" creationdate="20201124T205803Z">
@@ -19632,6 +19685,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094736Z" creationid="Alexandra" creationdate="20150526T124305Z">
         <seg>Per a obrir el manual des de l'OmegaT, només cal que seleccioneu «Ajuda &gt; Manual d'usuari» o premeu la tecla F1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T135555Z" creationid="Marc Riera" creationdate="20201125T135555Z">
+        <seg>Per comprovar si teniu el JRE en el vostre sistema Linux o quina versió teniu instal·lada, obriu una consola (finestra de línia d'ordres) i escriviu:</seg>
       </tuv>
     </tu>
     <tu>
