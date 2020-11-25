@@ -9409,6 +9409,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T160312Z" creationid="Marc Riera" creationdate="20201125T160312Z">
+        <seg>Si no esteu segur de si teniu instal·lada o no una versió adequada del JRE, seleccioneu una versió amb el JRE (o la versió per defecte).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
@@ -9645,6 +9653,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T155625Z" creationid="Marc Riera" creationdate="20201125T155625Z">
+        <seg>Per a executar-se, l'OmegaT requereix que tingueu el java Runtime Environment (JRE) instal·lat a l'ordinador.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>In so&amp;urce</seg>
@@ -9668,6 +9684,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T213215Z" creationid="mgalo" creationdate="20181113T180019Z">
         <seg>En el menú &lt;g0&gt;Projecte&lt;/g0&gt;, seleccioneu &lt;m1&gt;&lt;g2&gt;Crea...&lt;/g2&gt;&lt;/m1&gt; i escriviu un nom per al projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T155745Z" creationid="Marc Riera" creationdate="20201125T155745Z">
+        <seg>En aquest cas, no seleccioneu la versió per defecte; seleccioneu una versió diferent (p. ex., estàndard o més recent) i seleccioneu una versió «sense el Java».</seg>
       </tuv>
     </tu>
     <tu>
@@ -18994,8 +19018,8 @@ en el seu lloc.</seg>
       <tuv lang="en">
         <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T193309Z" creationid="Marc Riera" creationdate="20201124T193309Z">
-        <seg>La baixada serà més ràpida i la instal·lació necessitarà menys espai al disc dur.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T155647Z" creationid="Marc Riera" creationdate="20201124T193309Z">
+        <seg>La baixada serà més ràpida i la instal·lació requerirà menys espai en el disc dur.</seg>
       </tuv>
     </tu>
     <tu>
