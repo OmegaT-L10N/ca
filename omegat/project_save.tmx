@@ -8954,8 +8954,8 @@ l'hivern ja és aquí.</seg>
       <tuv lang="en">
         <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T165351Z" creationid="Marc Riera" creationdate="20201125T165351Z">
-        <seg>Això no obstant, alguns usuaris poden patir restriccions (imposades pels seus sistemes operatius o versió del Java) que poden provocar que prefereixin una versió anterior.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T165524Z" creationid="Marc Riera" creationdate="20201125T165351Z">
+        <seg>Ara bé, alguns usuaris poden patir restriccions (imposades pels seus sistemes operatius o versió del Java) que poden provocar que prefereixin una versió anterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9383,6 +9383,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T165432Z" creationid="Marc Riera" creationdate="20201125T165432Z">
+        <seg>Si esteu segur que ja teniu instal·lada una versió adequada del JRE en el vostre ordinador, podeu baixar una versió de l'OmegaT sense el JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
@@ -9680,8 +9688,8 @@ feu doble clic en la drecera.</seg>
       <tuv lang="en">
         <seg>In order to install the Web start version, you must already have Java version 1.3 or later installed on your computer.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T160946Z" creationid="Marc Riera" creationdate="20201125T160946Z">
-        <seg>Per a instal·lar la versió Web Start, ja heu de tenir instal·lada la versió 1.3 o superior del Java a l'ordinador.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T165944Z" creationid="Marc Riera" creationdate="20201125T160946Z">
+        <seg>Per a instal·lar la versió Web Start, ja heu de tenir instal·lada la versió 1.3 o superior del Java en l'ordinador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10292,6 +10300,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094724Z" creationid="mgalo" creationdate="20181114T124011Z">
         <seg>De vegades resulta útil cercar paraules o expressions tant en el text d'origen com en la traducció. Per a fer-ho, en qualsevol moment podeu prémer &lt;k0&gt;Ctrl+F&lt;/k0&gt; per a obrir el quadre de diàleg &lt;g1&gt;Cerca de text&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is recommended for serious developers and testers only.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T165643Z" creationid="Marc Riera" creationdate="20201125T165643Z">
+        <seg>Es recomana només per a desenvolupament i proves serioses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17707,6 +17723,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Source code packages are not required by users and are intended for developers only.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T165621Z" creationid="Marc Riera" creationdate="20201125T165621Z">
+        <seg>Els usuaris no necessiten els paquets de codi font i estan pensats només per al desenvolupament.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Source count</seg>
@@ -18774,6 +18798,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T170216Z" creationid="Marc Riera" creationdate="20201125T170216Z">
+        <seg>La versió «estàndar» de l'OmegaT inclou un manual d'usuari complet (com a mínim en anglès) i normalment s'ha provat durant un temps per a eliminar qualsevol error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201124T205016Z" creationid="Marc Riera" creationdate="20201124T205016Z">
@@ -19003,6 +19035,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T115943Z" creationid="Marc Riera" creationdate="20201122T115943Z">
         <seg>La versió Web Start és la versió per «instal·lar i oblidar-se'n».&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Web Start version offers an alternative means of installing OmegaT on your computer.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T165727Z" creationid="Marc Riera" creationdate="20201125T165727Z">
+        <seg>La versió Web Start ofereix una manera alternativa d'instal·lar l'OmegaT en l'ordinador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21398,6 +21438,14 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T170049Z" creationid="Marc Riera" creationdate="20201125T170049Z">
+        <seg>Els usuaris amb pressa poden utilitzar la versió sense signar en el seu lloc; si teniu problemes per a executar l'aplicació, consulteu &lt;a0&gt;com obrir una aplicació d'un desenvolupador no identificat&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Users who already have some experience with OmegaT often prefer the Latest version.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T141940Z" creationid="Marc Riera" creationdate="20201125T141940Z">
@@ -22447,8 +22495,8 @@ trobar el text de la llicència a /docs/OmegaT-license.txt</seg>
         <seg>You can however obtain a neater and more user-friendly installation by using the
 installation script (linux-install.sh).</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230807Z" creationid="Marc Riera" creationdate="20200122T230807Z">
-        <seg>Tanmateix, podeu obtenir una instal·lació més ordenada i amigable utilitzant
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T165910Z" creationid="Marc Riera" creationdate="20200122T230807Z">
+        <seg>Tanmateix, podeu obtenir una instal·lació més ordenada i amigable mitjançant
 l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
     </tu>
