@@ -9326,6 +9326,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T135106Z" creationid="Marc Riera" creationdate="20201125T135106Z">
+        <seg>Si esteu segur que ja hi ha instal·lada una versió adequada del Java Runtime Environment en el vostre ordinador per a tot el sistema, podeu seleccionar l'opció que no inclou el JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
@@ -18914,6 +18922,7 @@ però d'altres us esperen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The included JRE is the 64-bit version.</seg>
       </tuv>
@@ -21613,19 +21622,20 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>With 64-bit JRE</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T203918Z" creationid="Marc Riera" creationdate="20201010T203918Z">
-        <seg>Amb JRE de 64 bits</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T134937Z" creationid="Marc Riera" creationdate="20201010T203918Z">
+        <seg>Amb el JRE de 64 bits</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>With JRE</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T203906Z" creationid="Marc Riera" creationdate="20201010T203906Z">
-        <seg>Amb JRE</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T134931Z" creationid="Marc Riera" creationdate="20201010T203906Z">
+        <seg>Amb el JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -21637,11 +21647,12 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Without JRE</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201010T203922Z" creationid="Marc Riera" creationdate="20201010T203922Z">
-        <seg>Sense JRE</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T134948Z" creationid="Marc Riera" creationdate="20201010T203922Z">
+        <seg>Sense el JRE</seg>
       </tuv>
     </tu>
     <tu>
