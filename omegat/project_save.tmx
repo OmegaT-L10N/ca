@@ -2291,6 +2291,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T160422Z" creationid="Marc Riera" creationdate="20201125T160422Z">
+        <seg>&lt;s0&gt;Usuaris del Linux&lt;/s0&gt;: la majoria de distribucions del Linux proporcionen el Java Runtime Environment, però algunes implementacions de codi obert no funcionen correctament amb l'OmegaT (encara que no sigui aparent immediatament).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
@@ -6493,6 +6501,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>During installation, depending on your operating system, you may receive several security warnings.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T160723Z" creationid="Marc Riera" creationdate="20201125T160723Z">
+        <seg>Durant la instal·lació, segons el vostre sistema operatiu, és possible que rebeu diversos avisos de seguretat.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
@@ -9654,6 +9670,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In order to install the Web start version, you must already have Java version 1.3 or later installed on your computer.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T160946Z" creationid="Marc Riera" creationdate="20201125T160946Z">
+        <seg>Per a instal·lar la versió Web Start, ja heu de tenir instal·lada la versió 1.3 o superior del Java a l'ordinador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T155625Z" creationid="Marc Riera" creationdate="20201125T155625Z">
@@ -11687,6 +11711,15 @@ durant la primera execució.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Master</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T162401Z" creationid="Marc Riera" creationdate="20201125T162401Z">
+        <seg>Mestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Master Password</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T120525Z" creationid="Marc Riera" creationdate="20190520T120525Z">
@@ -13212,6 +13245,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201121T230910Z" creationid="Alexandra" creationdate="20150526T124839Z">
         <seg>Tutorial de l'OmegaT per a principiants</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T160530Z" creationid="Marc Riera" creationdate="20201125T160530Z">
+        <seg>L'OmegaT per al Mac OS X està disponible en versions signades i sense signar; funcionalment són idèntiques, però la versió signada és preferible perquè el sistema reconeix que l'ha publicat un desenvolupador conegut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14753,6 +14794,14 @@ project without team functionality.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180212T224316Z" creationid="Marc Riera" creationdate="20180212T224316Z">
         <seg>Contribucions prèvies:
 (en ordre alfabètic)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T161035Z" creationid="Marc Riera" creationdate="20201125T161035Z">
+        <seg>Informació de privadesa: l'OmegaT amb el Java Web Start no desa cap informació en els servidors web de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18950,6 +18999,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T160749Z" creationid="Marc Riera" creationdate="20201125T160749Z">
+        <seg>El certificat està signat per &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, una empresa registrada francesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
@@ -19221,6 +19278,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201121T123137Z" creationid="Marc Riera" creationdate="20201121T123137Z">
         <seg>És el complement perfecte per als que no necessitem complexitat, sinó eficiència; els glossaris, l'emplenament automàtic i la traducció automàtica milloren molt l'eficiència de la meva feina en traducció literària.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T160913Z" creationid="Marc Riera" creationdate="20201125T160913Z">
+        <seg>Els permisos que proporcioneu a aquesta versió (que es poden descriure com a «accés sense restriccions a l'ordinador») són idèntics als permisos que assigneu a la versió local; és a dir, permeten accedir al disc dur de l'ordinador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21891,6 +21956,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T134931Z" creationid="Marc Riera" creationdate="20201010T203906Z">
         <seg>Amb el JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With this version, future updates will be installed automatically.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T160659Z" creationid="Marc Riera" creationdate="20201125T160659Z">
+        <seg>Amb aquesta versió, les actualitzacions futures s'instal·laran automàticament.</seg>
       </tuv>
     </tu>
     <tu>
