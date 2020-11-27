@@ -2715,6 +2715,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Add numbers to all segments, making them all "unique"</seg>
       </tuv>
@@ -2732,6 +2733,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Add terms to a glossary whilst translating in OmegaT</seg>
       </tuv>
@@ -4482,6 +4484,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check spelling (various procedures)</seg>
       </tuv>
@@ -5405,6 +5408,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Create a TMX file containing all strings, with identical source and target</seg>
       </tuv>
@@ -6848,11 +6852,12 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Enables a number of file formats to be translated which cannot be handled natively in OmegaT.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150604T184603Z" creationid="Alexandra" creationdate="20150526T134222Z">
-        <seg>Permet la traducció d'un gran nombre de formats de fitxer que no es poden gestionar nativament en OmegaT.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201127T185620Z" creationid="Alexandra" creationdate="20150526T134222Z">
+        <seg>Permet la traducció d'un gran nombre de formats de fitxer que no es poden gestionar nativament en l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7614,6 +7619,7 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Extract all source text from the project files into a single, large text file</seg>
       </tuv>
@@ -8267,11 +8273,12 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Free (compatible) alternatives to Microsoft Office.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150526T134317Z" creationid="Alexandra" creationdate="20150526T134317Z">
-        <seg>Alternatives lliures (compatibles) a Microsoft Office.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201127T185559Z" creationid="Alexandra" creationdate="20150526T134317Z">
+        <seg>Alternatives lliures (compatibles) al Microsoft Office.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13845,11 +13852,12 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150604T184548Z" creationid="Alexandra" creationdate="20150526T134344Z">
-        <seg>Repositoris en línia de diccionaris d'ortografia per al seu ús dins d'OmegaT.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201127T185549Z" creationid="Alexandra" creationdate="20150526T134344Z">
+        <seg>Dipòsits en línia de diccionaris ortogràfics per a l'ús amb l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14155,6 +14163,7 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Other users are advised to use the &lt;a0&gt;Okapi Filters Plugin&lt;/a0&gt; instead.</seg>
       </tuv>
@@ -15795,6 +15804,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remove all text except tags, or all tags except text</seg>
       </tuv>
@@ -16107,11 +16117,12 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Requires Linux, w3m and tcl/tk (both generally supplied with Linux).</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150801T121900Z" creationid="Alexandra" creationdate="20150526T135055Z">
-        <seg>Requereix Linux, w3m i tcl/tk (ambdós s'inclouen normalment en Linux).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201127T185016Z" creationid="Alexandra" creationdate="20150526T135055Z">
+        <seg>Requereix el Linux, w3m i tcl/tk (ambdós normalment s'inclouen en el Linux).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16724,11 +16735,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150604T184410Z" creationid="Alexandra" creationdate="20150526T135253Z">
-        <seg>Guió per extreure el text per a traduir des de fitxers de text net (per exemple, un codi font d'ordinador) per traduir-los amb OmegaT.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201127T184957Z" creationid="Alexandra" creationdate="20150526T135253Z">
+        <seg>Script que permet extreure el text per a traduir de fitxers de text sense format (per exemple, codi font) per a traduir-lo en l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17332,11 +17344,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Selection of alternative icons for use with OmegaT.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150526T134730Z" creationid="Alexandra" creationdate="20150526T134730Z">
-        <seg>Selecció d'icones alternatives per al seu ús amb OmegaT.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201127T185034Z" creationid="Alexandra" creationdate="20150526T134730Z">
+        <seg>Selecció d'icones alternatives per a l'ús amb l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17641,11 +17654,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Skip segments containing a certain set of characters</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T185205Z" creationid="Marc Riera" creationdate="20201122T185205Z">
-        <seg>Ometre els segments que continguin un conjunt de caràcters determinats</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201127T185639Z" creationid="Marc Riera" creationdate="20201122T185205Z">
+        <seg>Ometre els segments que continguin un conjunt de caràcters determinat</seg>
       </tuv>
     </tu>
     <tu>
@@ -19311,11 +19325,12 @@ en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The files of this site, in a convenient package for those wishing to localize it.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150604T184535Z" creationid="Alexandra" creationdate="20150526T134427Z">
-        <seg>Els arxius d'aquesta web, en un còmode paquet per als qui vulguin localitzar-lo.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201127T185451Z" creationid="Alexandra" creationdate="20150526T134427Z">
+        <seg>Fitxers d'aquest lloc web en un paquet còmode per als qui vulguin localitzar-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19921,11 +19936,12 @@ en sou víctima d'una.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Third-party software for use with OmegaT</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150526T134351Z" creationid="Alexandra" creationdate="20150526T134351Z">
-        <seg>Programari de tercers per al seu ús amb OmegaT</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201127T185504Z" creationid="Alexandra" creationdate="20150526T134351Z">
+        <seg>Programari de tercers per a l'ús amb l'OmegaT</seg>
       </tuv>
     </tu>
     <tu>
