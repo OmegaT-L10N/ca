@@ -5426,8 +5426,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Create Glossary Entry</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083634Z" creationid="Packard Bell" creationdate="20150605T161513Z">
-        <seg>Creació d'una entrada en el glossari</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T181221Z" creationid="Packard Bell" creationdate="20150605T161513Z">
+        <seg>Crea una entrada en el glossari</seg>
       </tuv>
     </tu>
     <tu>
@@ -11269,6 +11269,15 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T230044Z" creationid="Marc Riera" creationdate="20201003T230044Z">
         <seg>Aprèn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Learn to use OmegaT in 5 minutes!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T180727Z" creationid="Marc Riera" creationdate="20201128T180727Z">
+        <seg>Apreneu a utilitzar l'OmegaT en 5 minuts!</seg>
       </tuv>
     </tu>
     <tu>
@@ -18791,8 +18800,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Tagwipe</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223526Z" creationid="Marc Riera" creationdate="20201003T223526Z">
-        <seg>Neteja d'etiquetes</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T181451Z" creationid="Marc Riera" creationdate="20201003T223526Z">
+        <seg>Neteja les etiquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -24372,6 +24381,40 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T180135Z" creationid="Marc Riera" creationdate="20201128T180135Z">
         <seg>Fitxer de destinació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">CREATE_GLOSSARY_TITLE</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Create Glossary Entry</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T181337Z" creationid="Marc Riera" creationdate="20201128T181337Z">
+        <seg>Creació d'una entrada en el glossari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">scripts/tagwipe.properties</prop>
+      <prop type="id">lblName</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Tagwipe</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T181506Z" creationid="Marc Riera" creationdate="20201128T181506Z">
+        <seg>Neteja d'etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">website/download.html</prop>
+      <prop type="prev">For installation on Linux.</prop>
+      <prop type="next">For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T181420Z" creationid="Marc Riera" creationdate="20201128T181420Z">
+        <seg>Altres</seg>
       </tuv>
     </tu>
   </body>
