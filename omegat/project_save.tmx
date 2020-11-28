@@ -2153,6 +2153,7 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;br&gt;</seg>
       </tuv>
@@ -2211,6 +2212,15 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T184512Z" creationid="Marc Riera" creationdate="20201128T184512Z">
+        <seg>&lt;html&gt;&lt;center&gt;S'està carregant...&lt;br&gt;&lt;br&gt;Consell: habiliteu o inhabiliteu les comprovacions en qualsevol moment des del menú «Opcions».&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230158Z" creationid="Marc Riera" creationdate="20200122T225913Z">
@@ -2263,6 +2273,7 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
       </tuv>
@@ -3816,6 +3827,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Both</seg>
       </tuv>
@@ -7333,6 +7345,15 @@ ningú no sent els vostres crits.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Escape</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T183912Z" creationid="Marc Riera" creationdate="20201128T183912Z">
+        <seg>Escapament</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Escaped binary char contains malformed data ({0})!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T162600Z" creationid="Marc Riera" creationdate="20180214T223859Z">
@@ -8714,11 +8735,12 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Go to Preferences &gt; External Search to enable.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T222817Z" creationid="Marc Riera" creationdate="20191110T222817Z">
-        <seg>Aneu a «Preferències &gt; Cerca externa» per habilitar-les.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T184044Z" creationid="Marc Riera" creationdate="20191110T222817Z">
+        <seg>Aneu a «Preferències &gt; Cerca externa» per a habilitar-les.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8991,6 +9013,15 @@ l'hivern ja és aquí.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T115000Z" creationid="mgalo" creationdate="20181112T115000Z">
         <seg>Ressalta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Highlight Pattern...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T183221Z" creationid="Marc Riera" creationdate="20201128T183221Z">
+        <seg>Patró de ressaltat...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10604,19 +10635,30 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Item has neither URLs nor commands.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T071321Z" creationid="Marc Riera" creationdate="20191113T071321Z">
-        <seg>L'URL no té ni adreces URL ni ordres.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T183939Z" creationid="Marc Riera" creationdate="20191113T071321Z">
+        <seg>L'element no té ni adreces URL ni ordres.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Item is missing scope</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T184015Z" creationid="Marc Riera" creationdate="20201128T184015Z">
+        <seg>L'element no té cap àmbit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Item name is empty or missing</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T071307Z" creationid="Marc Riera" creationdate="20191113T071307Z">
-        <seg>El nom de l'element està buit o no s'ha definit</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T184055Z" creationid="Marc Riera" creationdate="20191113T071307Z">
+        <seg>El nom de l'element és buit o no s'ha definit</seg>
       </tuv>
     </tu>
     <tu>
@@ -12061,6 +12103,42 @@ durant la primera execució.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Matches Deleted Active</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T182843Z" creationid="Marc Riera" creationdate="20201128T182843Z">
+        <seg>Coincidències suprimides actives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Matches Deleted Inactive</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T182848Z" creationid="Marc Riera" creationdate="20201128T182848Z">
+        <seg>Coincidències suprimides inactives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Matches Inserted Active</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T182855Z" creationid="Marc Riera" creationdate="20201128T182855Z">
+        <seg>Coincidències inserides actives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Matches Inserted Inactive</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T182901Z" creationid="Marc Riera" creationdate="20201128T182901Z">
+        <seg>Coincidències inserides inactives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Matches Unchanged</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191113T180832Z" creationid="Marc Riera" creationdate="20191113T180832Z">
@@ -12626,6 +12704,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Name: {0}</seg>
       </tuv>
@@ -14972,6 +15051,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Preferences - {0}</seg>
       </tuv>
@@ -17307,11 +17387,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Select Issue Types</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T232530Z" creationid="Marc Riera" creationdate="20191112T232530Z">
-        <seg>Seleccioneu el tipus d'errors</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T184704Z" creationid="Marc Riera" creationdate="20191112T232530Z">
+        <seg>Seleccioneu els tipus d'errors</seg>
       </tuv>
     </tu>
     <tu>
@@ -17430,11 +17511,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Select issue types to check.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T232544Z" creationid="Marc Riera" creationdate="20191112T232544Z">
-        <seg>Seleccioneu el tipus d'errors que es comprovaran.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T184651Z" creationid="Marc Riera" creationdate="20191112T232544Z">
+        <seg>Seleccioneu els tipus d'errors que es comprovaran.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23172,6 +23254,24 @@ creï la carpeta de configuració.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T184338Z" creationid="Marc Riera" creationdate="20201128T184338Z">
+        <seg>[{0}] S'ha trobat el terme «{1}» en el text d'origen; s'esperava un dels termes «{2}» en el text de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T184328Z" creationid="Marc Riera" creationdate="20201128T184328Z">
+        <seg>[{0}] S'ha trobat el terme «{1}» en el text d'origen; s'esperava el terme «{2}» en el text de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>\</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145844Z" creationid="Marc Riera" creationdate="20190924T145844Z">
@@ -24181,6 +24281,15 @@ creï la carpeta de configuració.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T183846Z" creationid="Marc Riera" creationdate="20201128T183846Z">
+        <seg>{0} canvia l'orientació entre esquerra a dreta, dreta a esquerra i en funció de la llengua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>{0} version {1} ({2})</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T184528Z" creationid="Marc Riera" creationdate="20201010T184528Z">
@@ -24233,6 +24342,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>{0}.</seg>
       </tuv>
@@ -24286,6 +24396,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
       </tuv>
@@ -24386,6 +24497,17 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T180135Z" creationid="Marc Riera" creationdate="20201128T180135Z">
         <seg>Fitxer de destinació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">COLOR_REPLACE</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T183250Z" creationid="Marc Riera" creationdate="20201128T183250Z">
+        <seg>Reemplaçament</seg>
       </tuv>
     </tu>
     <tu>
