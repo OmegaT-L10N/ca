@@ -2301,6 +2301,7 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
       </tuv>
@@ -6312,6 +6313,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Documentation, particularly of new features, will be less comprehensive than that of the Standard version.</seg>
       </tuv>
@@ -6562,6 +6564,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>During installation, depending on your operating system, you may receive several security warnings.&lt;br0/&gt;</seg>
       </tuv>
@@ -8202,6 +8205,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>For most users, these are not of interest.</seg>
       </tuv>
@@ -9034,6 +9038,7 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
       </tuv>
@@ -9480,6 +9485,7 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
       </tuv>
@@ -9514,6 +9520,7 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
       </tuv>
@@ -9540,6 +9547,7 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
       </tuv>
@@ -9607,6 +9615,7 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
       </tuv>
@@ -9796,6 +9805,7 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>In order to install the Web start version, you must already have Java version 1.3 or later installed on your computer.</seg>
       </tuv>
@@ -9804,6 +9814,7 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
       </tuv>
@@ -9839,6 +9850,7 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
       </tuv>
@@ -10392,6 +10404,7 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>It is a more recent version than the Standard version and includes new features not present in the latter.</seg>
       </tuv>
@@ -10444,6 +10457,7 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>It is therefore always safe to install the version of OmegaT with JRE.</seg>
       </tuv>
@@ -10562,6 +10576,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Its documentation, at least in English, is usually reasonably up to date.</seg>
       </tuv>
@@ -11118,6 +11133,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
       </tuv>
@@ -11215,6 +11231,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Legacy versions</seg>
       </tuv>
@@ -11223,6 +11240,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Legacy versions are older versions that have been superseded.</seg>
       </tuv>
@@ -11601,6 +11619,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs.</seg>
       </tuv>
@@ -13431,6 +13450,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
       </tuv>
@@ -15018,6 +15038,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
       </tuv>
@@ -17613,6 +17634,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Signed/Unsigned</seg>
       </tuv>
@@ -19077,6 +19099,7 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The Latest version requires Java {{site.data.versions.latest.java_version}}.</seg>
       </tuv>
@@ -19085,6 +19108,7 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
       </tuv>
@@ -19254,6 +19278,7 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The Web Start version offers an alternative means of installing OmegaT on your computer.</seg>
       </tuv>
@@ -19271,6 +19296,7 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
       </tuv>
@@ -19344,6 +19370,7 @@ en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
       </tuv>
@@ -19563,6 +19590,7 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.</seg>
       </tuv>
@@ -19879,6 +19907,7 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>There may be a delay in publishing signed versions.</seg>
       </tuv>
@@ -21746,6 +21775,7 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
       </tuv>
@@ -21754,6 +21784,7 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Users who already have some experience with OmegaT often prefer the Latest version.</seg>
       </tuv>
@@ -22352,6 +22383,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>With this version, future updates will be installed automatically.</seg>
       </tuv>
@@ -22360,6 +22392,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>With/without JRE</seg>
       </tuv>
@@ -22839,6 +22872,7 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
       </tuv>
@@ -23984,6 +24018,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
       </tuv>
@@ -23992,6 +24027,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
       </tuv>
