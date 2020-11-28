@@ -304,6 +304,15 @@
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>&amp;Browse Online</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T190349Z" creationid="Marc Riera" creationdate="20201128T190349Z">
+        <seg>&amp;Explora en línia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>&amp;Browse TaaS Collections...</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191113T180718Z" creationid="Marc Riera" creationdate="20191113T180718Z">
@@ -1131,6 +1140,7 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Reset Master Password</seg>
       </tuv>
@@ -2978,6 +2988,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
@@ -3365,6 +3376,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Are you sure you want to reset the master password?</seg>
       </tuv>
@@ -4983,6 +4995,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Con&amp;figure</seg>
       </tuv>
@@ -7071,6 +7084,7 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Enter your master password.</seg>
       </tuv>
@@ -12042,6 +12056,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Master Password:</seg>
       </tuv>
@@ -12342,6 +12357,15 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200122T221831Z" creationid="Marc Riera" creationdate="20200122T221831Z">
         <seg>Suprimida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Missing tags</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T190942Z" creationid="Marc Riera" creationdate="20201128T190942Z">
+        <seg>Etiquetes que falten</seg>
       </tuv>
     </tu>
     <tu>
@@ -14979,6 +15003,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Plugins</seg>
       </tuv>
@@ -15588,6 +15613,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Provider</seg>
       </tuv>
@@ -16387,6 +16413,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Reset Master Password</seg>
       </tuv>
@@ -17164,6 +17191,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Secure Store</seg>
       </tuv>
@@ -17672,11 +17700,12 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Set a master password to protect your private data.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T122721Z" creationid="Marc Riera" creationdate="20190520T122721Z">
-        <seg>Definiu una contrasenya mestra per protegir les vostres dades provades.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T190105Z" creationid="Marc Riera" creationdate="20190520T122721Z">
+        <seg>Definiu una contrasenya mestra per a protegir les vostres dades privades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19750,8 +19779,8 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       <tuv lang="en">
         <seg>The password you entered did not match.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T122804Z" creationid="Marc Riera" creationdate="20190520T122804Z">
-        <seg>La contrasenya introduïda no és correcta.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T190156Z" creationid="Marc Riera" creationdate="20190520T122804Z">
+        <seg>La contrasenya introduïda no coincideix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20064,11 +20093,12 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>There are many plugins available for OmegaT online.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190520T120511Z" creationid="Marc Riera" creationdate="20190520T120511Z">
-        <seg>Hi ha molts connectors disponibles per a OmegaT en línia.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T190328Z" creationid="Marc Riera" creationdate="20190520T120511Z">
+        <seg>Hi ha molts connectors disponibles per a l'OmegaT en línia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23147,6 +23177,7 @@ d'una finestra del Finder per a poder-la executar des de qualsevol lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
       </tuv>
@@ -24551,6 +24582,17 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T185530Z" creationid="Marc Riera" creationdate="20201128T185530Z">
         <seg>Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">STM_MERGE_WINDOW_TITLE</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Merge</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T190750Z" creationid="Marc Riera" creationdate="20201128T190657Z">
+        <seg>Combinació</seg>
       </tuv>
     </tu>
     <tu>
