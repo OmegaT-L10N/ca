@@ -5020,6 +5020,15 @@ Demana una altra copa!</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Confirm:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T185353Z" creationid="Marc Riera" creationdate="20201128T185353Z">
+        <seg>Confirmació:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Conflict resolution</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074837Z" creationid="Marc Riera" creationdate="20190925T074837Z">
@@ -6414,11 +6423,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Don't ask before checking issues</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T073125Z" creationid="Marc Riera" creationdate="20191113T073125Z">
-        <seg>No preguntis abans de comprovar els errors</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T185258Z" creationid="Marc Riera" creationdate="20191113T073125Z">
+        <seg>No ho preguntis abans de comprovar els errors</seg>
       </tuv>
     </tu>
     <tu>
@@ -9293,6 +9303,7 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>I Understand; Do It Anyway</seg>
       </tuv>
@@ -9496,6 +9507,7 @@ no cal introduir el camí complet.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
       </tuv>
@@ -13556,6 +13568,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
       </tuv>
@@ -14768,6 +14781,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Please double-check.</seg>
       </tuv>
@@ -14821,11 +14835,12 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Please enter your password again for confirmation.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T223551Z" creationid="Marc Riera" creationdate="20191110T223551Z">
-        <seg>Torneu a introduir la contrasenya per confirmar-ho.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T185427Z" creationid="Marc Riera" creationdate="20191110T223551Z">
+        <seg>Torneu a introduir la contrasenya per a confirmar-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15043,6 +15058,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Preferences</seg>
       </tuv>
@@ -17034,6 +17050,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Search ({0})</seg>
       </tuv>
@@ -17637,6 +17654,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Set My Own Password</seg>
       </tuv>
@@ -17859,6 +17877,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Skip</seg>
       </tuv>
@@ -19718,6 +19737,7 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The password cannot be empty.</seg>
       </tuv>
@@ -19735,6 +19755,7 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The passwords don't match.</seg>
       </tuv>
@@ -24519,6 +24540,17 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T181337Z" creationid="Marc Riera" creationdate="20201128T181337Z">
         <seg>Creació d'una entrada en el glossari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">OpenXML_WORD</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T185530Z" creationid="Marc Riera" creationdate="20201128T185530Z">
+        <seg>Word</seg>
       </tuv>
     </tu>
     <tu>
