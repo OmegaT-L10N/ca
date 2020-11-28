@@ -2229,11 +2229,12 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201124T210807Z" creationid="Marc Riera" creationdate="20201124T210807Z">
-        <seg>&lt;i1&gt;L'OmegaT es pot instal·lar en qualsevol sistema operatiu que pugui executarla versió 1.6 del Java Runtime Environment.&lt;/i1&gt;</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T071220Z" creationid="Marc Riera" creationdate="20201124T210807Z">
+        <seg>&lt;i1&gt;L'OmegaT es pot instal·lar en qualsevol sistema operatiu que pugui executar la versió 1.6 del Java Runtime Environment.&lt;/i1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3341,6 +3342,7 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
       </tuv>
@@ -3662,6 +3664,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Based on your choices, we recommand you use:</seg>
       </tuv>
@@ -9046,6 +9049,7 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
       </tuv>
@@ -9336,6 +9340,7 @@ no cal introduir el camí complet.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
       </tuv>
@@ -9420,6 +9425,7 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If not, or if you are not sure, select "with JRE".</seg>
       </tuv>
@@ -9454,6 +9460,7 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If this version is not available, you can try to &lt;a0&gt;download the unsigned version&lt;/a0&gt;.</seg>
       </tuv>
@@ -9513,6 +9520,7 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
       </tuv>
@@ -9521,6 +9529,7 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
       </tuv>
@@ -10420,11 +10429,12 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>It is the recommended version for first-time users.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T140840Z" creationid="Marc Riera" creationdate="20201125T140840Z">
-        <seg>És la versió recomanada per als nous usuaris.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T071712Z" creationid="Marc Riera" creationdate="20201125T140840Z">
+        <seg>És la versió recomanada per als usuaris nous.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12537,6 +12547,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
       </tuv>
@@ -13378,6 +13389,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
       </tuv>
@@ -13736,6 +13748,7 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed.</seg>
       </tuv>
@@ -13762,6 +13775,7 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
       </tuv>
@@ -17324,6 +17338,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
       </tuv>
@@ -18981,14 +18996,16 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T170216Z" creationid="Marc Riera" creationdate="20201125T170216Z">
-        <seg>La versió «estàndar» de l'OmegaT inclou un manual d'usuari complet (com a mínim en anglès) i normalment s'ha provat durant un temps per a eliminar qualsevol error.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T071705Z" creationid="Marc Riera" creationdate="20201125T170216Z">
+        <seg>La versió «estàndard» de l'OmegaT inclou un manual d'usuari complet (com a mínim en anglès) i normalment s'ha provat durant un temps per a eliminar qualsevol error.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
       </tuv>
@@ -19780,6 +19797,7 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
       </tuv>
@@ -20198,6 +20216,7 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
       </tuv>
@@ -20206,6 +20225,7 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
       </tuv>
@@ -20250,6 +20270,7 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
       </tuv>
@@ -22308,6 +22329,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>With JRE</seg>
       </tuv>
@@ -23758,6 +23780,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>some version</seg>
       </tuv>
