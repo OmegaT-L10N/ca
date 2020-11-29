@@ -2656,6 +2656,7 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>About...</seg>
       </tuv>
@@ -3576,6 +3577,7 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Automatically fetch translations</seg>
       </tuv>
@@ -3638,6 +3640,7 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Back in history...</seg>
       </tuv>
@@ -4435,6 +4438,15 @@ Demana una altra copa!</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Check for Updates...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T225957Z" creationid="Marc Riera" creationdate="20201129T225957Z">
+        <seg>Comprova si hi ha actualitzacions...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Check for doubled blanks</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T231150Z" creationid="Marc Riera" creationdate="20190520T124216Z">
@@ -4601,6 +4613,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200123T164353Z" creationid="Marc Riera" creationdate="20191113T073022Z">
         <seg>Comprova els {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Checks to see whether a more recent version of &lt;a0&gt;OmegaT&lt;/a0&gt; has been released.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T230010Z" creationid="Marc Riera" creationdate="20201129T230010Z">
+        <seg>Comprova si s'ha publicat una versió més recent de l'&lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4951,6 +4971,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Common glossary problems</seg>
       </tuv>
@@ -5486,6 +5507,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Create Translated Documents</seg>
       </tuv>
@@ -6131,6 +6153,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Display Source Segments</seg>
       </tuv>
@@ -6199,6 +6222,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T123233Z" creationid="Marc Riera" creationdate="20191110T232315Z">
         <seg>Mostra comentaris en el segment actiu si n'hi ha en el fitxer d'origen i el filtre del fitxer és compatible (per exemple, el filtre PO).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the current log file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T225945Z" creationid="Marc Riera" creationdate="20201129T225945Z">
+        <seg>Mostra el fitxer de registre actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7613,6 +7644,7 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Export Selection</seg>
       </tuv>
@@ -7962,6 +7994,7 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>File format</seg>
       </tuv>
@@ -8357,10 +8390,11 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Forward in history...</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161703Z" creationid="Packard Bell" creationdate="20150605T161703Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T225231Z" creationid="Packard Bell" creationdate="20150605T161703Z">
         <seg>Endavant en l'historial</seg>
       </tuv>
     </tu>
@@ -8536,6 +8570,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>General Preferences</seg>
       </tuv>
@@ -8652,6 +8687,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Glossaries</seg>
       </tuv>
@@ -8967,6 +9003,15 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T225931Z" creationid="Marc Riera" creationdate="20201129T225931Z">
+        <seg>Ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Help &amp; Manual</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T232745Z" creationid="Marc Riera" creationdate="20180214T224345Z">
@@ -9103,6 +9148,7 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>How to create glossaries</seg>
       </tuv>
@@ -9111,6 +9157,7 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>How to download and install dictionaries</seg>
       </tuv>
@@ -10086,6 +10133,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T225812Z" creationid="Marc Riera" creationdate="20201129T225812Z">
+        <seg>Insereix la coincidència o la selecció</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Insert Match or Selection Into Translation</seg>
@@ -10101,6 +10156,15 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214838Z" creationid="Marc Riera" creationdate="20180210T213714Z">
         <seg>Insereix les e&amp;tiquetes que falten del text d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Insert Missing Source Tags</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T225824Z" creationid="Marc Riera" creationdate="20201129T225824Z">
+        <seg>Insereix les etiquetes que falten del text d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -10131,6 +10195,7 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Insert Source</seg>
       </tuv>
@@ -10462,6 +10527,7 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>It allows parameters to be set for all translation projects.</seg>
       </tuv>
@@ -11102,11 +11168,12 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>LanguageTool plug-in</seg>
       </tuv>
-      <tuv lang="ca" changeid="Alexandra" changedate="20150604T202331Z" creationid="Alexandra" creationdate="20150526T161336Z">
-        <seg>Connector LanguageTool</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T224653Z" creationid="Alexandra" creationdate="20150526T161336Z">
+        <seg>Connector del LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -11723,6 +11790,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Log...</seg>
       </tuv>
@@ -11776,6 +11844,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Machine Translate</seg>
       </tuv>
@@ -11937,6 +12006,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mark Bidirectional Algorithm Control Characters</seg>
       </tuv>
@@ -11972,6 +12042,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mark Non-Unique Segments</seg>
       </tuv>
@@ -11980,6 +12051,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mark Non-breakable Spaces</seg>
       </tuv>
@@ -11997,6 +12069,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mark Segments with Notes</seg>
       </tuv>
@@ -12005,6 +12078,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mark Translated Segments</seg>
       </tuv>
@@ -12013,6 +12087,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mark Untranslated Segments</seg>
       </tuv>
@@ -12021,6 +12096,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mark Whitespace</seg>
       </tuv>
@@ -12847,6 +12923,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Next Note</seg>
       </tuv>
@@ -12855,6 +12932,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Next Segment</seg>
       </tuv>
@@ -12863,11 +12941,12 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Next Translated Segment</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161554Z" creationid="Packard Bell" creationdate="20150605T161554Z">
-        <seg>Segment següent traduït</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T225143Z" creationid="Packard Bell" creationdate="20150605T161554Z">
+        <seg>Segment traduït següent</seg>
       </tuv>
     </tu>
     <tu>
@@ -12880,11 +12959,12 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Next Untranslated Segment</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161552Z" creationid="Packard Bell" creationdate="20150605T161552Z">
-        <seg>Segment següent sense traduir</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T225132Z" creationid="Packard Bell" creationdate="20150605T161552Z">
+        <seg>Segment sense traduir següent</seg>
       </tuv>
     </tu>
     <tu>
@@ -12969,6 +13049,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>No glossary file found in the "glossary" folder.</seg>
       </tuv>
@@ -13503,6 +13584,7 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT 4.2 - User's Guide</seg>
       </tuv>
@@ -14279,6 +14361,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230631Z" creationid="Marc Riera" creationdate="20191112T230631Z">
         <seg>S'està obrint el projecte en equip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens this manual in the default browser.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T230022Z" creationid="Marc Riera" creationdate="20201129T230022Z">
+        <seg>Obre aquest manual en el navegador per defecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15203,6 +15293,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Previous Note</seg>
       </tuv>
@@ -15211,6 +15302,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Previous Segment</seg>
       </tuv>
@@ -15248,11 +15340,12 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Private collections are displayed in bold.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150524T180716Z" creationid="Stephanie" creationdate="20150524T180716Z">
-        <seg>Les col·leccions privades es mostraran en negreta.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T224739Z" creationid="Stephanie" creationdate="20150524T180716Z">
+        <seg>Les col·leccions privades es mostren en negreta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15382,6 +15475,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Project Files...</seg>
       </tuv>
@@ -15605,6 +15699,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Properties...</seg>
       </tuv>
@@ -15693,6 +15788,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Quit</seg>
       </tuv>
@@ -15804,6 +15900,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Redo Last Action</seg>
       </tuv>
@@ -16057,6 +16154,15 @@ les paraules «No s'ha trobat la pàgina».</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Remove Translation</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T225702Z" creationid="Marc Riera" creationdate="20201129T225702Z">
+        <seg>Suprimeix la traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Remove all text except tags, or all tags except text</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T185343Z" creationid="Marc Riera" creationdate="20201122T185343Z">
@@ -16227,6 +16333,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace With Match or Selection</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T225804Z" creationid="Marc Riera" creationdate="20201129T225804Z">
+        <seg>Reemplaça per la coincidència o la selecció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace With Source</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215018Z" creationid="Packard Bell" creationdate="20150605T161445Z">
@@ -16270,6 +16384,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Replace with Machine Translation</seg>
       </tuv>
@@ -16476,6 +16591,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Restore Main Window</seg>
       </tuv>
@@ -16808,6 +16924,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Save</seg>
       </tuv>
@@ -17104,6 +17221,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Search Project...</seg>
       </tuv>
@@ -17299,6 +17417,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segment number...</seg>
       </tuv>
@@ -17361,6 +17480,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segmentation...</seg>
       </tuv>
@@ -17447,6 +17567,15 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T111108Z" creationid="Marc Riera" creationdate="20180210T213729Z">
         <seg>Sele&amp;cciona una coincidència</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Select Match</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T225714Z" creationid="Marc Riera" creationdate="20201129T225714Z">
+        <seg>Selecciona la coincidència</seg>
       </tuv>
     </tu>
     <tu>
@@ -18668,6 +18797,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Switch case to</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T225858Z" creationid="Marc Riera" creationdate="20201129T225858Z">
+        <seg>Canvia les majúscules i minúscules a</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Switch views with {0} and {1}</seg>
@@ -19659,6 +19796,7 @@ en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The glossary file does not have the correct extension (.tab, .utf8 or .txt).</seg>
       </tuv>
@@ -19667,6 +19805,7 @@ en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The glossary file is empty.</seg>
       </tuv>
@@ -19846,6 +19985,7 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The program will seek confirmation before closing down.</seg>
       </tuv>
@@ -20014,11 +20154,20 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The third column can be used for additional information.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145547Z" creationid="Marc Riera" creationdate="20190924T145547Z">
-        <seg>La tercera columna es pot utilitzar per a informació addicional.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T224539Z" creationid="Marc Riera" creationdate="20190924T145547Z">
+        <seg>La tercera columna es pot utilitzar per a emmagatzemar informació addicional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T230218Z" creationid="Marc Riera" creationdate="20201129T230218Z">
+        <seg>El títol del quadre de diàleg reflecteix el fitxer en ús actualment (que depèn del nombre d'instàncies de l'OmegaT en execució simultàniament).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20301,6 +20450,7 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
       </tuv>
@@ -21097,6 +21247,7 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Troubleshooting</seg>
       </tuv>
@@ -21404,6 +21555,7 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Undo Last Action</seg>
       </tuv>
@@ -21675,6 +21827,7 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Usage</seg>
       </tuv>
@@ -21701,6 +21854,7 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Use</seg>
       </tuv>
@@ -21958,6 +22112,15 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120809Z" creationid="Marc Riera" creationdate="20200123T160454Z">
         <seg>Recursos d'ajuda per a l'usuari:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>User's Manual...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T225937Z" creationid="Marc Riera" creationdate="20201129T225937Z">
+        <seg>Manual d'usuari...</seg>
       </tuv>
     </tu>
     <tu>
@@ -22534,6 +22697,7 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Windows and dialogs</seg>
       </tuv>
