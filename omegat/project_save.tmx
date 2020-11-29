@@ -2365,6 +2365,15 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231422Z" creationid="Marc Riera" creationdate="20201129T231422Z">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201121T114015Z" creationid="Marc Riera" creationdate="20201121T114015Z">
@@ -2904,6 +2913,15 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T095954Z" creationid="mgalo" creationdate="20181112T095954Z">
         <seg>Substitució de font &amp;forçada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Aggressive Font Fallback</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231151Z" creationid="Marc Riera" creationdate="20201129T231151Z">
+        <seg>Substitució de font forçada</seg>
       </tuv>
     </tu>
     <tu>
@@ -12131,6 +12149,15 @@ durant la primera execució.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Mark Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231200Z" creationid="Marc Riera" creationdate="20201129T231200Z">
+        <seg>Marca els segments propagats automàticament</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Mark Bidirectional Algorithm Control Characters</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161808Z" creationid="Packard Bell" creationdate="20150605T161808Z">
@@ -17544,6 +17571,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T193641Z" creationid="Marc Riera" creationdate="20201003T220138Z">
         <seg>Consulteu &lt;m1&gt;&lt;g2&gt;Opcions&lt;/g2&gt;&lt;g3&gt;Preferències...&lt;/g3&gt;&lt;g4&gt;Filtres de fitxers&lt;/g4&gt;&lt;/m1&gt; per a veure la llista de formats que admet l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231338Z" creationid="Marc Riera" creationdate="20201129T231338Z">
+        <seg>Consulteu &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24191,6 +24226,60 @@ creï la carpeta de configuració.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>http://api.yandex.com/key/form.xml?service=trnsl</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231445Z" creationid="Marc Riera" creationdate="20201129T231445Z">
+        <seg>http://api.yandex.com/key/form.xml?service=trnsl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>http://api.yandex.com/key/keyslist.xml</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231447Z" creationid="Marc Riera" creationdate="20201129T231447Z">
+        <seg>http://api.yandex.com/key/keyslist.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>http://datamarket.azure.com/dataset/bing/microsofttranslator#schema</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231441Z" creationid="Marc Riera" creationdate="20201129T231441Z">
+        <seg>http://datamarket.azure.com/dataset/bing/microsofttranslator#schema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231359Z" creationid="Marc Riera" creationdate="20201129T231359Z">
+        <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231345Z" creationid="Marc Riera" creationdate="20201129T231345Z">
+        <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231343Z" creationid="Marc Riera" creationdate="20201129T231343Z">
+        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145742Z" creationid="Marc Riera" creationdate="20190924T145742Z">
@@ -24209,6 +24298,15 @@ creï la carpeta de configuració.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231204Z" creationid="Marc Riera" creationdate="20201129T231204Z">
+        <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>http://weitz.de/regex-coach/</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150047Z" creationid="Marc Riera" creationdate="20190924T150047Z">
@@ -24218,10 +24316,91 @@ creï la carpeta de configuració.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231434Z" creationid="Marc Riera" creationdate="20201129T231434Z">
+        <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>http://www.microsoft.com/Language/en-US/Terminology.aspx</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145608Z" creationid="Marc Riera" creationdate="20190924T145608Z">
         <seg>http://www.microsoft.com/Language/en-US/Terminology.aspx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>http://www.omegat.org</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231429Z" creationid="Marc Riera" creationdate="20201129T231429Z">
+        <seg>http://www.omegat.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231401Z" creationid="Marc Riera" creationdate="20201129T231401Z">
+        <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>http://www.oracle.com/technetwork/java/archive-139210.html</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231431Z" creationid="Marc Riera" creationdate="20201129T231431Z">
+        <seg>http://www.oracle.com/technetwork/java/archive-139210.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231211Z" creationid="Marc Riera" creationdate="20201129T231211Z">
+        <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231404Z" creationid="Marc Riera" creationdate="20201129T231404Z">
+        <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>https://datamarket.azure.com/account</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231443Z" creationid="Marc Riera" creationdate="20201129T231443Z">
+        <seg>https://datamarket.azure.com/account</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>https://en.wikipedia.org/wiki/Stemming</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231257Z" creationid="Marc Riera" creationdate="20201129T231257Z">
+        <seg>https://en.wikipedia.org/wiki/Stemming</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231453Z" creationid="Marc Riera" creationdate="20201129T231453Z">
+        <seg>https://git.code.sf.net/p/omegat/code</seg>
       </tuv>
     </tu>
     <tu>
@@ -24245,10 +24424,28 @@ creï la carpeta de configuració.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231425Z" creationid="Marc Riera" creationdate="20201129T231425Z">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>https://omegat.org/support</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200122T231039Z" creationid="Marc Riera" creationdate="20200122T231039Z">
         <seg>https://omegat.org/support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231436Z" creationid="Marc Riera" creationdate="20201129T231436Z">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
@@ -24272,10 +24469,55 @@ creï la carpeta de configuració.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231455Z" creationid="Marc Riera" creationdate="20201129T231455Z">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180212T223300Z" creationid="Marc Riera" creationdate="20180212T223300Z">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/README.txt</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231457Z" creationid="Marc Riera" creationdate="20201129T231457Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/README.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231350Z" creationid="Marc Riera" creationdate="20201129T231350Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231347Z" creationid="Marc Riera" creationdate="20201129T231347Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231352Z" creationid="Marc Riera" creationdate="20201129T231352Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
       </tuv>
     </tu>
     <tu>
@@ -24294,6 +24536,33 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165813Z" creationid="Marc Riera" creationdate="20200802T165813Z">
         <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231356Z" creationid="Marc Riera" creationdate="20201129T231356Z">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231354Z" creationid="Marc Riera" creationdate="20201129T231354Z">
+        <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>https://www.libreoffice.org/discover/draw/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231427Z" creationid="Marc Riera" creationdate="20201129T231427Z">
+        <seg>https://www.libreoffice.org/discover/draw/</seg>
       </tuv>
     </tu>
     <tu>
@@ -24323,6 +24592,15 @@ creï la carpeta de configuració.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T220055Z" creationid="Marc Riera" creationdate="20191112T220055Z">
         <seg>init &lt;llengua d'origen&gt; &lt;llengua de destinació&gt;
 		Inicialitza un projecte en equip mínim amb les llengües especificades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231450Z" creationid="Marc Riera" creationdate="20201129T231450Z">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
