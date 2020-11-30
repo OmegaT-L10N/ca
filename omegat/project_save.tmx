@@ -2547,6 +2547,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>A team project can be opened and translated offline.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212713Z" creationid="Marc Riera" creationdate="20201130T212713Z">
+        <seg>Un projecte en equip es pot obrir i traduir fora de línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
@@ -2871,6 +2879,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Adding new source files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212410Z" creationid="Marc Riera" creationdate="20201130T212410Z">
+        <seg>Addició de nous fitxers d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Administration</seg>
@@ -3042,12 +3058,28 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>All other files will be replaced by the files in the remote repository.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T213320Z" creationid="Marc Riera" creationdate="20201130T213320Z">
+        <seg>La resta de fitxers se substituiran pels fitxers del dipòsit remot.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T223146Z" creationid="Marc Riera" creationdate="20191110T223146Z">
         <seg>Es reinicialitzaran totes les preferències protegides per la contrasenya mestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the changes will be synchronised the next time a connection is available.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212709Z" creationid="Marc Riera" creationdate="20201130T212709Z">
+        <seg>Tots els canvis se sincronitzaran la pròxima vegada que hi hagi una connexió disponible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3627,6 +3659,14 @@ inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T103530Z" creationid="mgalo" creationdate="20181112T103336Z">
         <seg>Fitxer de text automàtic (*.autotext)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automatic saving</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212357Z" creationid="Marc Riera" creationdate="20201130T212357Z">
+        <seg>Desament automàtic</seg>
       </tuv>
     </tu>
     <tu>
@@ -4372,6 +4412,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Changing segmentation rules or file filters</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212739Z" creationid="Marc Riera" creationdate="20201130T212739Z">
+        <seg>Canvi de les regles de segmentació o els filtres de fitxers</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Character</seg>
@@ -4675,6 +4723,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T231005Z" creationid="Marc Riera" creationdate="20201003T231005Z">
         <seg>Comprova les majúscules inicials</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T215146Z" creationid="Marc Riera" creationdate="20201130T215146Z">
+        <seg>Comproveu que els fitxers del diccionari estiguin en la carpeta correcta (o en una subcarpeta).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5927,6 +5983,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Deleting source files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212435Z" creationid="Marc Riera" creationdate="20201130T212435Z">
+        <seg>Supressió de fitxers d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Delimiter</seg>
@@ -6079,6 +6143,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T214827Z" creationid="Marc Riera" creationdate="20201130T214827Z">
+        <seg>Els diccionaris en l'&lt;a0&gt;OmegaT&lt;/a0&gt; es basen en el format StarDict o Lingvo DSL.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Dictionary</seg>
@@ -6202,6 +6274,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T232516Z" creationid="Marc Riera" creationdate="20190520T120615Z">
         <seg>Inhabilita la regla «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disconnect from the network before opening the project,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212631Z" creationid="Marc Riera" creationdate="20201130T212631Z">
+        <seg>Desconnecteu-vos de la xarxa abans d'obrir el projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6546,6 +6626,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Does the folder contain three files of the same name, with extensions?</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T215217Z" creationid="Marc Riera" creationdate="20201130T215217Z">
+        <seg>La carpeta conté tres fitxers amb el mateix nom i amb extensions?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>DokuWiki</seg>
@@ -6723,6 +6811,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200122T225323Z" creationid="Marc Riera" creationdate="20191110T230515Z">
         <seg>S'està baixant la col·lecció {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T215022Z" creationid="Marc Riera" creationdate="20201130T215022Z">
+        <seg>Baixeu el fitxer; hauria de ser un arxiu &lt;f0&gt;tarball&lt;/f0&gt; (extensió &lt;e1&gt;tar.bz&lt;/e1&gt; o &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7630,6 +7726,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Every 3 minutes (by default), the local project is synchronised with the remote repository so that the project manager or other translators can see and use translations added during that period.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T213033Z" creationid="Marc Riera" creationdate="20201130T213033Z">
+        <seg>Cada 3 minuts (per defecte), el projecte local se sincronitza amb el dipòsit remot, de manera que el gestor del projecte o la resta de traductors poden veure i utilitzar traduccions afegides durant aquest període.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Exact match:</seg>
@@ -7756,6 +7860,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190925T071501Z" creationid="Marc Riera" creationdate="20190925T071501Z">
         <seg>S'està executant l'script {0} (esdeveniment {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Existing source files can be modified, but the commit operation must be carried out before an automatic save and before the project is reloaded or closed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T213435Z" creationid="Marc Riera" creationdate="20201130T213435Z">
+        <seg>Els fitxers d'origen existents es poden modificar, però l'operació de publicació s'ha de dur a terme abans d'un desament automàticament i abans de tornar a carregar o tancar el projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8214,6 +8326,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T210438Z" creationid="Alexandra" creationdate="20150526T102710Z">
         <seg>Els fitxers en formats antics del MS Word, Excel i Powerpoint es poden traduir després de convertir-los als formats actuals del Microsoft Office equivalents, o bé al format Office Open XML, conversió que es pot realitzar mitjançant l'OpenOffice.org o el LibreOffice (també lliures).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Files must be deleted by the project manager.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T213516Z" creationid="Marc Riera" creationdate="20201130T213516Z">
+        <seg>El gestor del projecte ha de suprimir els fitxers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9710,6 +9830,14 @@ no cal introduir el camí complet.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T215258Z" creationid="Marc Riera" creationdate="20201130T215258Z">
+        <seg>Si és &lt;e0&gt;tar.bz&lt;/e0&gt;, heu oblidat desempaquetar-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If later access to the desired location is granted
@@ -9746,6 +9874,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T171014Z" creationid="Alexandra" creationdate="20150526T110324Z">
         <seg>En cas que no, per què no escriviu un article sobre l'ús de l'OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If only one file is present, check its extension.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T215230Z" creationid="Marc Riera" creationdate="20201130T215230Z">
+        <seg>Si només hi ha un fitxer, comproveu-ne l'extensió.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12487,6 +12623,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Merriam Webster dictionary - use</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T215107Z" creationid="Marc Riera" creationdate="20201130T215107Z">
+        <seg>Diccionari Merriam Webster: ús</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Microsoft Open XML</seg>
@@ -14156,6 +14300,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT team projects must first be &lt;l0&gt;set up&lt;/l0&gt; on a server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212102Z" creationid="Marc Riera" creationdate="20201130T212102Z">
+        <seg>En primer lloc, cal &lt;l0&gt;configurar&lt;/l0&gt; els projectes en equip de l'OmegaT en un servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT training course.</seg>
@@ -14297,6 +14449,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T193953Z" creationid="Stephanie" creationdate="20150722T175600Z">
         <seg>Una vegada que l'arxiu &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; es modifica, &lt;a1&gt;OmegaT&lt;/a1&gt; ha de ser rellançat per a tenir les noves dreceres en compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the project has been opened, translation proceeds in the same way as for a non-team project, except the following points.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212956Z" creationid="Marc Riera" creationdate="20201130T212353Z">
+        <seg>Una vegada obert el projecte, el procediment de traducció és el mateix que per a un projecte que no és en equip, amb l'excepció dels aspectes següents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15864,6 +16024,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201120T160919Z" creationid="Marc Riera" creationdate="20190924T133224Z">
         <seg>Coordinador del projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project parameters must be changed by the project manager.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T213533Z" creationid="Marc Riera" creationdate="20201130T213533Z">
+        <seg>El gestor del projecte ha de canviar els paràmetres del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17486,6 +17654,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T214949Z" creationid="Marc Riera" creationdate="20201130T214949Z">
+        <seg>Cerqueu la combinació de llengües necessària; per exemple, en els &lt;u0&gt;enllaços a diccionaris que proporciona la Wiki de l'OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Search for:</seg>
@@ -19077,6 +19253,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Synchronised files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212400Z" creationid="Marc Riera" creationdate="20201130T212400Z">
+        <seg>Fitxers sincronitzats</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>System requirements</seg>
@@ -20101,6 +20285,14 @@ l'àrea d'accés ràpid.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The interval of 3 minutes can be changed in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Preferences&lt;/g3&gt; &lt;g4&gt;Saving and Output&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T213146Z" creationid="Marc Riera" creationdate="20201130T213146Z">
+        <seg>L'interval de 3 minuts es pot canviar a &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Opcions&lt;/g2&gt; &lt;g3&gt;Preferències&lt;/g3&gt; &lt;g4&gt;Desament i sortida&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
@@ -20523,6 +20715,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T215047Z" creationid="Marc Riera" creationdate="20201130T215047Z">
+        <seg>Hauríeu de tenir tres fitxers, amb les extensions &lt;e1&gt;dz, idx&lt;/e1&gt; i &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>There was an error initializing LanguageTool.</seg>
@@ -20919,6 +21119,14 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>To add a new source file:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212419Z" creationid="Marc Riera" creationdate="20201130T212419Z">
+        <seg>Per a afegir un nou fitxer d'origen:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
@@ -20970,6 +21178,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T194154Z" creationid="Alexandra" creationdate="20150526T123729Z">
         <seg>Per a trobar la versió més adequada per a vós, seguiu l'enllaç següent al selector de baixades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T214849Z" creationid="Marc Riera" creationdate="20201130T214849Z">
+        <seg>Per a instal·lar els fitxers necessaris per al format StarDict, feu el següent:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21026,6 +21242,14 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>To use a team project for the first time, follow the procedure provided by the project manager.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212220Z" creationid="Marc Riera" creationdate="20201130T212220Z">
+        <seg>Per a utilitzar un projecte en equip per primera vegada, seguiu el procediment que us indiqui el gestor del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>To use this script you must first install Kaptain.</seg>
@@ -21047,6 +21271,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
 una finestra del terminal (consola), canvieu la carpeta de treball a la carpeta
 que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script amb
 «./linux-install.sh».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To work offline:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212608Z" creationid="Marc Riera" creationdate="20201130T212608Z">
+        <seg>Per a treballar fora de línia:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22196,6 +22428,14 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Use a Team Project</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212038Z" creationid="Marc Riera" creationdate="20201130T212038Z">
+        <seg>Ús d'un projecte en equip</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Use all mine</seg>
@@ -22827,6 +23067,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Whenever the project is automatically saved, but also when it is opened, closed and reloaded, only two files are actually synchronised:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T213304Z" creationid="Marc Riera" creationdate="20201130T213304Z">
+        <seg>Cada vegada que el projecte es desa automàticament, però també quan s'obre, es tanca i es torna a carregar, realment només se sincronitzen dos fitxers:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
@@ -23109,6 +23357,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201121T122821Z" creationid="Marc Riera" creationdate="20201121T122821Z">
         <seg>Treballeu amb més de 30 formats de fitxer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working offline</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212442Z" creationid="Marc Riera" creationdate="20201130T212442Z">
+        <seg>Treball fora de línia</seg>
       </tuv>
     </tu>
     <tu>
@@ -24089,6 +24345,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>copy the files to the &lt;f0&gt;/source&lt;/f0&gt; folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212807Z" creationid="Marc Riera" creationdate="20201130T212807Z">
+        <seg>Copieu els fitxers a la carpeta &lt;f0&gt;source&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>currSegment = files[i].entries[j];</seg>
@@ -24203,6 +24467,15 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225515Z" creationid="Marc Riera" creationdate="20201003T225515Z">
         <seg>glossary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>glossary/glossary.txt</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T211733Z" creationid="Marc Riera" creationdate="20201130T211733Z">
+        <seg>glossary/glossary.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -24687,10 +24960,27 @@ creï la carpeta de configuració.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>omegat/project_save.tmx</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T211730Z" creationid="Marc Riera" creationdate="20201130T211730Z">
+        <seg>omegat/project_save.tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>on translation and the &lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201121T222821Z" creationid="Marc Riera" creationdate="20201121T222821Z">
         <seg>sobre la traducció i el &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or open the project with the command line using the &lt;c0&gt;--no-team&lt;/c0&gt; option.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212654Z" creationid="Marc Riera" creationdate="20201130T212654Z">
+        <seg>O bé, obriu el projecte des de la línia d'ordres amb l'opció &lt;c0&gt;--no-team&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24880,6 +25170,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112036Z" creationid="Marc Riera" creationdate="20180221T112036Z">
         <seg>desconegut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Commit Source Files&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212841Z" creationid="Marc Riera" creationdate="20201130T212841Z">
+        <seg>Utilitzeu &lt;m0&gt; &lt;g1&gt;Projecte&lt;/g1&gt; &lt;g2&gt;Publica els fitxers d'origen&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
