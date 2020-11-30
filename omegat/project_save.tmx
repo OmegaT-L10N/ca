@@ -495,8 +495,8 @@
       <tuv lang="en">
         <seg>&amp;Enable TaaS terminology lookup</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T104523Z" creationid="mgalo" creationdate="20181112T104523Z">
-        <seg>&amp;Habilita la cerca de terminologia amb TaaS</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T220857Z" creationid="mgalo" creationdate="20181112T104523Z">
+        <seg>&amp;Habilita la cerca de terminologia de TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -3152,6 +3152,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Allows you to activate/deactivate the Machine Translation tools offered.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T220641Z" creationid="Marc Riera" creationdate="20201130T220641Z">
+        <seg>Us permet activar o desactivar les eines de traducció automàtica que s'ofereixen.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Alt+F2</seg>
@@ -4771,6 +4779,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T215146Z" creationid="Marc Riera" creationdate="20201130T215146Z">
         <seg>Comproveu que els fitxers del diccionari estiguin en la carpeta correcta (o en una subcarpeta).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check the &lt;g0&gt;Use Fuzzy Matching for Dictionary Entries&lt;/g0&gt; option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T221002Z" creationid="Marc Riera" creationdate="20201130T221002Z">
+        <seg>Marqueu l'opció &lt;g0&gt;Utilitza les coincidències parcials per a les entrades del diccionari&lt;/g0&gt; si voleu que els diccionaris mostrin paraules que tinguin la mateixa arrel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9925,6 +9941,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If several translation engines are selected, then &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; is also used to switch between them and insert the last one selected.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T220713Z" creationid="Marc Riera" creationdate="20201130T220713Z">
+        <seg>Si se seleccionen diversos motors de traducció, llavors &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; també s'utilitza per canviar entre ells i inserir l'últim seleccionat.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If the filter has any options, you may change them by clicking Options.</seg>
@@ -14750,12 +14774,28 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;File Filters&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T221048Z" creationid="Marc Riera" creationdate="20201130T221048Z">
+        <seg>Obre les opcions de &lt;l0&gt;Filtres de fitxers&lt;/l0&gt; en el quadre de diàleg Preferències.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Preferences&lt;/l0&gt; dialog.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T230436Z" creationid="Marc Riera" creationdate="20201129T230436Z">
         <seg>Obre el quadre de diàleg &lt;l0&gt;Preferències&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Segmentation Setup&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T221134Z" creationid="Marc Riera" creationdate="20201130T221134Z">
+        <seg>Obre les opcions de &lt;l0&gt;Configuració de la segmentació&lt;/l0&gt; en el quadre de diàleg Preferències.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18012,6 +18052,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Select &lt;g0&gt;Taas Terminology Lookup&lt;/g0&gt; to activate this lookup.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T220923Z" creationid="Marc Riera" creationdate="20201130T220923Z">
+        <seg>Seleccioneu &lt;g0&gt;Cerca de terminologia de TaaS&lt;/g0&gt; per a activar aquesta cerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Select Fol&amp;der</seg>
@@ -20861,6 +20909,14 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191113T071905Z" creationid="Marc Riera" creationdate="20191113T071905Z">
         <seg>Per tant, no es pot determinar amb certesa
 la ubicació de la carpeta de configuració de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These settings apply to OmegaT level, to all projects.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20201130T221106Z" creationid="Marc Riera" creationdate="20201130T221106Z">
+        <seg>Aquests paràmetres s'apliquen a l'OmegaT, a tots els projectes.</seg>
       </tuv>
     </tu>
     <tu>
