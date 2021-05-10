@@ -21378,6 +21378,7 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>To add files to the project you can
 - drag and drop files on this Editor pane
@@ -21385,11 +21386,12 @@ des del servidor.</seg>
 - click on Copy Files to Source Folder... in the Project Files window
 - copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T203434Z" creationid="Marc Riera" creationdate="20210510T203434Z">
-        <seg>Per a afegir fitxers al projecte, podeu fer el següent:- arrossegueu i deixeu anar fitxers en aquest panell de l'editor 
-- Usa Projecte ... Copia els fitxers a la carpeta d'origen... 
-- feu clic a Copia els fitxers a la carpeta d'origen... a la finestra Fitxers del projecte 
-- copieu els fitxers a la carpeta «font» del projecte amb el vostre gestor de fitxers, i després torneu a carregar el projecte amb Project . Torna a carregar.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T203637Z" creationid="Marc Riera" creationdate="20210510T203434Z">
+        <seg>Per a afegir fitxers al projecte, podeu fer el següent:
+- Arrossegueu i deixeu anar fitxers en aquesta subfinestra, «Editor»
+- Utilitzeu «Projecte &gt; Copia fitxers a la carpeta de fitxers d'origen...»
+- Feu clic a «Copia fitxers a la carpeta de fitxers d'origen...» a la finestra «Fitxers del projecte»
+- Copieu els fitxers a la carpeta «source» del projecte amb el vostre gestor de fitxers i torneu a carregar el projecte amb «Projecte &gt; Torna a carregar».</seg>
       </tuv>
     </tu>
     <tu>
