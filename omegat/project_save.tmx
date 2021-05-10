@@ -21378,6 +21378,21 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>To add files to the project you can
+- drag and drop files on this Editor pane
+- use Project &gt; Copy Files to Source Folder...
+- click on Copy Files to Source Folder... in the Project Files window
+- copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T203434Z" creationid="Marc Riera" creationdate="20210510T203434Z">
+        <seg>Per a afegir fitxers al projecte, podeu fer el següent:- arrossegueu i deixeu anar fitxers en aquest panell de l'editor 
+- Usa Projecte ... Copia els fitxers a la carpeta d'origen... 
+- feu clic a Copia els fitxers a la carpeta d'origen... a la finestra Fitxers del projecte 
+- copieu els fitxers a la carpeta «font» del projecte amb el vostre gestor de fitxers, i després torneu a carregar el projecte amb Project . Torna a carregar.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
