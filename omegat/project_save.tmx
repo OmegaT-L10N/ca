@@ -2347,6 +2347,15 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.8 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210514T152323Z" creationid="Marc Riera" creationdate="20210514T152323Z">
+        <seg>&lt;i1&gt;L'OmegaT es pot instal·lar en qualsevol sistema operatiu que pugui executar la versió 1.8 del Java Runtime Environment.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145114Z" creationid="Marc Riera" creationdate="20190924T145114Z">
@@ -6157,6 +6166,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Developer Version</seg>
       </tuv>
@@ -10384,6 +10394,15 @@ feu doble clic en la drecera.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>In order to install the Web start version, you must already have Java version 1.8 or later installed on your computer.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210514T152414Z" creationid="Marc Riera" creationdate="20210514T152414Z">
+        <seg>Per a instal·lar la versió Web Start, ja heu de tenir instal·lada la versió 1.8 o superior del Java en l'ordinador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T105311Z" creationid="Marc Riera" creationdate="20201125T155625Z">
@@ -13741,6 +13760,15 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Notarized vs Unsigned</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210514T152540Z" creationid="Marc Riera" creationdate="20210514T152540Z">
+        <seg>Versió validada o versió sense signar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Note</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110818Z" creationid="Marc Riera" creationdate="20190521T110818Z">
@@ -14168,6 +14196,15 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T135429Z" creationid="Marc Riera" creationdate="20201125T135429Z">
         <seg>L'OmegaT actualment requereix la versió 1.6 o superior del JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>OmegaT currently requires version 1.8 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210514T152334Z" creationid="Marc Riera" creationdate="20210514T152334Z">
+        <seg>L'OmegaT actualment requereix la versió 1.8 o superior del JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15265,6 +15302,15 @@ s'esvaeix com la boira.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Periodic builds are available on SourceForge.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210514T152406Z" creationid="Marc Riera" creationdate="20210514T152406Z">
+        <seg>Hi ha disponibles compilacions periòdiques a SourceForge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Periodic builds are available on Sourceforge.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201124T193000Z" creationid="Marc Riera" creationdate="20201124T193000Z">
@@ -15702,6 +15748,7 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Pre-built binaries, are available as Nightly Builds.</seg>
       </tuv>
@@ -20082,6 +20129,7 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The "master" version is a cutting-edge, "alpha" version, still in development.</seg>
       </tuv>
@@ -20338,6 +20386,15 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T160749Z" creationid="Marc Riera" creationdate="20201125T160749Z">
         <seg>El certificat està signat per &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, una empresa registrada francesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>The certificate is signed by OmegaT's lead developer.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210514T152434Z" creationid="Marc Riera" creationdate="20210514T152434Z">
+        <seg>El certificat està signat pel desenvolupador principal de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25311,6 +25368,15 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210505T171404Z" creationid="Marc Riera" creationdate="20210505T171404Z">
         <seg>macOS sense signar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>macOS tries to increase security by making it difficult to run unverified programs.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210514T154147Z" creationid="Marc Riera" creationdate="20210514T154147Z">
+        <seg>El macOS intenta incrementar la seguretat dificultant l'execució de programes sense verificar.</seg>
       </tuv>
     </tu>
     <tu>
