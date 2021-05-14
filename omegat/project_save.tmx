@@ -4087,6 +4087,15 @@ Demana una altra copa!</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Bugs, feature requests and documentation issues are handled on SourceForge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210514T151249Z" creationid="Marc Riera" creationdate="20210514T151249Z">
+        <seg>Els errors, sol·licituds de característiques i problemes de documentació es gestionen a SourceForge mitjançant els sistemes de seguiment següents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T131818Z" creationid="Alexandra" creationdate="20150526T133040Z">
@@ -7030,6 +7039,15 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181110T002453Z" creationid="mgalo" creationdate="20181110T002453Z">
         <seg>E&amp;xporta el segment a un fitxer de text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>EPWING plugin</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210514T151559Z" creationid="Marc Riera" creationdate="20210514T151559Z">
+        <seg>Connector d'EPWING</seg>
       </tuv>
     </tu>
     <tu>
@@ -10751,6 +10769,15 @@ feu doble clic en la drecera.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Integrates the TexTra neural machine translation engine into OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210514T151351Z" creationid="Marc Riera" creationdate="20210514T151351Z">
+        <seg>Integra el motor de traducció automàtica neuronal TexTra en l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Integration manager</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T133240Z" creationid="Marc Riera" creationdate="20190924T133240Z">
@@ -14101,6 +14128,15 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on SourceForge:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210514T151235Z" creationid="Marc Riera" creationdate="20210514T151235Z">
+        <seg>L'OmegaT també té les llistes de correu i sistemes de seguiment següents, que estan allotjats a SourceForge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T194416Z" creationid="Alexandra" creationdate="20150526T133346Z">
@@ -16271,10 +16307,28 @@ project without team functionality.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Provides filters for handling further file formats, including Trados TTX, and Markdown.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210514T151314Z" creationid="Marc Riera" creationdate="20210514T151314Z">
+        <seg>Proporciona filtres per a la manipulació de més formats de fitxer, com ara fitxers TTX del Trados i Markdown.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Provides filters for handling further file formats, including Trados TTX.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201120T162140Z" creationid="Alexandra" creationdate="20150526T161507Z">
         <seg>Proporciona filtres per a la manipulació de més formats de fitxer, com ara fitxers TTX del Trados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Provides functionality to read EPWING dictionary format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210514T151629Z" creationid="Marc Riera" creationdate="20210514T151629Z">
+        <seg>Proporciona funcionalitat per llegir el format de diccionaris EPWING.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17956,6 +18010,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>See Options &gt; File filters for a list of supported file formats.</seg>
       </tuv>
@@ -19881,6 +19936,15 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>TexTra plugin</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210514T151326Z" creationid="Marc Riera" creationdate="20210514T151326Z">
+        <seg>Connector de TexTra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Text</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T104721Z" creationid="Marc Riera" creationdate="20180214T224259Z">
@@ -20220,6 +20284,15 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215011Z" creationid="Marc Riera" creationdate="20180214T224108Z">
         <seg>La llengua d'origen del fitxer TMX ({0}) és diferent de la llengua d'origen del projecte ({1}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>The TexTra API is freely provided by NICT, Japan government research agency.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210514T151433Z" creationid="Marc Riera" creationdate="20210514T151433Z">
+        <seg>L'API de TexTra està proporcionada de manera gratuïta per la NICT, l'agència de recerca del govern del Japó.</seg>
       </tuv>
     </tu>
     <tu>
