@@ -2240,6 +2240,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Note:&lt;/e0&gt; the above information applies only to PDF files with a text layer.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170359Z" creationid="Marc Riera" creationdate="20210521T170359Z">
+        <seg>&lt;e0&gt;Nota:&lt;/e0&gt; la informació anterior només s'aplica als fitxers PDF amb una capa de text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Replace All:&lt;/e0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181218T202320Z" creationid="Stephanie" creationdate="20150722T193650Z">
@@ -3561,6 +3569,14 @@ inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T141723Z" creationid="Marc Riera" creationdate="20201125T140901Z">
         <seg>Com suggereix el nom, la versió «més recent» de l'OmegaT està més actualitzada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As stated above, OmegaT tags are LTR strings.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170826Z" creationid="Marc Riera" creationdate="20210521T170826Z">
+        <seg>Com s'ha dit anteriorment, les etiquetes de l'OmegaT són cadenes d'esquerra a dreta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5841,6 +5857,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223959Z" creationid="Marc Riera" creationdate="20201003T223959Z">
         <seg>S'està creant el fitxer de sortida «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating translated RTL documents</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170848Z" creationid="Marc Riera" creationdate="20210521T170848Z">
+        <seg>Creació de documents de dreta a esquerra traduïts</seg>
       </tuv>
     </tu>
     <tu>
@@ -12351,6 +12375,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Manage Right-To-Left languages</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170437Z" creationid="Marc Riera" creationdate="20210521T170437Z">
+        <seg>Administració de llengües de dreta a esquerra</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Manual</seg>
@@ -12937,6 +12969,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T190942Z" creationid="Marc Riera" creationdate="20201128T190942Z">
         <seg>Etiquetes que falten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mixing RTL and LTR strings in segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170801Z" creationid="Marc Riera" creationdate="20210521T170801Z">
+        <seg>Barreja de cadenes de dreta a esquerra i esquerra a dreta en segments</seg>
       </tuv>
     </tu>
     <tu>
@@ -14948,6 +14988,14 @@ Runtime Environment (JRE) en el sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210521T171014Z" creationid="Marc Riera" creationdate="20210521T171014Z">
+        <seg>Obre les opcions de l'&lt;l0&gt;Editor&lt;/l0&gt; al quadre de diàleg «Preferències».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;File Filters&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T221048Z" creationid="Marc Riera" creationdate="20201130T221048Z">
@@ -15095,6 +15143,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Other file formats</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170404Z" creationid="Marc Riera" creationdate="20210521T170404Z">
+        <seg>Altres formats de fitxer</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Other users are advised to use the &lt;a0&gt;Okapi Filters Plugin&lt;/a0&gt; instead.</seg>
@@ -15137,6 +15193,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224239Z" creationid="Marc Riera" creationdate="20180214T224239Z">
         <seg>Entrada de PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PDF files are a special case.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170340Z" creationid="Marc Riera" creationdate="20210521T170340Z">
+        <seg>Els fitxers PDF són un cas especial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20531,8 +20595,8 @@ en el seu lloc.</seg>
       <tuv lang="en">
         <seg>The difference is thin: we call "Window" a window that can stay open next to the editor and interact with it, and "dialog" a window where you must select parameters before closing it and pursuing your translation activity.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20210521T165849Z" creationid="Marc Riera" creationdate="20210521T165849Z">
-        <seg>La diferència és petita: anomenem «finestra» una finestra que pot romandre oberta alhora que l'editor i interaccionar-hi i «diàleg» una finestra en què heu de seleccionar paràmetres abans de tancar-la i seguir la vostra activitat de traducció.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210521T171123Z" creationid="Marc Riera" creationdate="20210521T165849Z">
+        <seg>La diferència és petita: anomenem «finestra» una finestra que pot romandre oberta alhora que l'editor i interaccionar-hi i «quadre de diàleg» una finestra en què heu de seleccionar paràmetres abans de tancar-la i seguir la vostra activitat de traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21955,6 +22019,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161847Z" creationid="Packard Bell" creationdate="20150605T161847Z">
         <seg>Suggeriments de traducció/Habilita els suggeriments de traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate a PDF file</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170335Z" creationid="Marc Riera" creationdate="20210521T170335Z">
+        <seg>Traducció d'un fitxer PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -24867,6 +24939,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>default justification, that is as defined by the language</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170706Z" creationid="Marc Riera" creationdate="20210521T170706Z">
+        <seg>justificació per defecte, definida per la llengua</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>dictionary</seg>
@@ -25418,6 +25498,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>left justification</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170639Z" creationid="Marc Riera" creationdate="20210521T170639Z">
+        <seg>justificació a l'esquerra</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>loaded</seg>
@@ -25522,6 +25610,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225531Z" creationid="Marc Riera" creationdate="20201003T225531Z">
         <seg>project_stats_match.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>right justification</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170647Z" creationid="Marc Riera" creationdate="20210521T170647Z">
+        <seg>justificació a la dreta</seg>
       </tuv>
     </tu>
     <tu>
