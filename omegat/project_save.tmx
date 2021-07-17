@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4552,6 +4552,24 @@ Demana una altra copa!</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210717T091202Z" creationid="Marc Riera" creationdate="20210717T091202Z">
+        <seg>Caràcters (amb espais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210717T091153Z" creationid="Marc Riera" creationdate="20210717T091153Z">
+        <seg>Caràcters (sense espais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Characters (without spaces)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112632Z" creationid="Marc Riera" creationdate="20180221T112632Z">
@@ -9093,6 +9111,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Glossary &amp;layout:</seg>
       </tuv>
@@ -9247,6 +9266,22 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T150601Z" creationid="Marc Riera" creationdate="20190521T104955Z">
         <seg>Traductor de Google v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected HTTP response {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210717T091952Z" creationid="Marc Riera" creationdate="20210717T091952Z">
+        <seg>S'ha rebut una resposta HTTP inesperada: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected MIME TYPE {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210717T091945Z" creationid="Marc Riera" creationdate="20210717T091945Z">
+        <seg>S'ha rebut un tipus MIME inesperat: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12848,6 +12883,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Merge alternate definitions for the same term</seg>
       </tuv>
@@ -16754,6 +16790,24 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112711Z" creationid="Marc Riera" creationdate="20180221T112711Z">
         <seg>Caràcters restants (amb espais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210717T091420Z" creationid="Marc Riera" creationdate="20210717T091420Z">
+        <seg>Caràcters restants (amb espais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210717T091404Z" creationid="Marc Riera" creationdate="20210717T091404Z">
+        <seg>Caràcters restants (sense espais)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21872,6 +21926,24 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Total Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210717T091417Z" creationid="Marc Riera" creationdate="20210717T091417Z">
+        <seg>Caràcters totals (amb espais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Total Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210717T091358Z" creationid="Marc Riera" creationdate="20210717T091358Z">
+        <seg>Caràcters totals (sense espais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Total Characters (without spaces)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112658Z" creationid="Marc Riera" creationdate="20180221T112658Z">
@@ -22657,6 +22729,24 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Unique Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210717T091424Z" creationid="Marc Riera" creationdate="20210717T091424Z">
+        <seg>Caràcters únics (amb espais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Unique Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210717T091409Z" creationid="Marc Riera" creationdate="20210717T091409Z">
+        <seg>Caràcters únics (sense espais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Unique Characters (without spaces)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112702Z" creationid="Marc Riera" creationdate="20180221T112702Z">
@@ -22670,6 +22760,24 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112715Z" creationid="Marc Riera" creationdate="20180221T112715Z">
         <seg>Caràcters únics restants (amb espais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210717T091431Z" creationid="Marc Riera" creationdate="20210717T091431Z">
+        <seg>Caràcters únics restants (amb espais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210717T091414Z" creationid="Marc Riera" creationdate="20210717T091414Z">
+        <seg>Caràcters únics restants (sense espais)</seg>
       </tuv>
     </tu>
     <tu>
