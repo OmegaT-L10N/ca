@@ -2249,6 +2249,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Excel: &lt;/e0&gt;comments, sheet names</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224820Z" creationid="Marc Riera" creationdate="20220130T224820Z">
+        <seg>&lt;e0&gt;Excel: &lt;/e0&gt;comentaris, noms dels fulls</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Note:&lt;/e0&gt; the above information applies only to PDF files with a text layer.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170359Z" creationid="Marc Riera" creationdate="20210521T170359Z">
@@ -9484,6 +9492,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>HTML and XHTML files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224832Z" creationid="Marc Riera" creationdate="20220130T224832Z">
+        <seg>Fitxers HTML i XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>HTML user manual online</seg>
@@ -13056,8 +13072,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Microsoft Office Open XML files</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224707Z" creationid="Marc Riera" creationdate="20220130T224707Z">
-        <seg>Fitxers Office Open XML</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224754Z" creationid="Marc Riera" creationdate="20220130T224707Z">
+        <seg>Fitxers Microsoft Office Open XML</seg>
       </tuv>
     </tu>
     <tu>
@@ -20517,6 +20533,14 @@ L'àmbit d'un reemplaçament de text són els segments de destinació del projec
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Text in source segments that matches is shown in italics.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224848Z" creationid="Marc Riera" creationdate="20220130T224848Z">
+        <seg>El text en els segments d'origen que coincideix es mostra en cursiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Text to be removed</seg>
@@ -21716,6 +21740,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201124T193022Z" creationid="Marc Riera" creationdate="20201124T193022Z">
         <seg>Es poden trobar a les carpetes de les versions compilades corresponents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They will appear as separate segments in the translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224803Z" creationid="Marc Riera" creationdate="20220130T224803Z">
+        <seg>Apareixeran com a segments separats en la traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24843,6 +24875,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220620Z" creationid="Marc Riera" creationdate="20220130T220620Z">
         <seg>Podeu seleccionar un tema per a la interfície d'usuari de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select which elements are to be translated.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224758Z" creationid="Marc Riera" creationdate="20220130T224758Z">
+        <seg>Podeu seleccionar quins elements s'han de traduir.</seg>
       </tuv>
     </tu>
     <tu>
