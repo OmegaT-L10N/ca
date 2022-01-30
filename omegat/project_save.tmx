@@ -162,8 +162,8 @@
       <tuv lang="en">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224213Z" creationid="Marc Riera" creationdate="20180214T224213Z">
-        <seg>Permet traduccions &amp;buides als fitxers traduïts</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224433Z" creationid="Marc Riera" creationdate="20180214T224213Z">
+        <seg>Permet traduccions &amp;buides en els fitxers de destinació</seg>
       </tuv>
     </tu>
     <tu>
@@ -2272,6 +2272,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Allow blank translations in the target file&lt;/g0&gt;:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224454Z" creationid="Marc Riera" creationdate="20220130T224454Z">
+        <seg>&lt;g0&gt;Permet traduccions buides en els fitxers de destinació&lt;/g0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
@@ -3675,6 +3683,14 @@ inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T121930Z" creationid="Marc Riera" creationdate="20180214T224225Z">
         <seg>Reemplaça automàticament «nplurals=ENTER; &amp;plural=EXPRESSIÓ;» en la capçalera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;' in header</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224523Z" creationid="Marc Riera" creationdate="20220130T224523Z">
+        <seg>Reemplaça automàticament «nplurals=ENTER; plural=EXPRESSIÓ;» en la capçalera</seg>
       </tuv>
     </tu>
     <tu>
@@ -8582,6 +8598,14 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Filter options</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224328Z" creationid="Marc Riera" creationdate="20220130T224328Z">
+        <seg>Opcions dels filtres</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Filter:</seg>
@@ -11257,6 +11281,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>It is shown in red in the tag validator.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224544Z" creationid="Marc Riera" creationdate="20220130T224544Z">
+        <seg>Es mostra en vermell en el validador d'etiquetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>It is the recommended version for first-time users.</seg>
@@ -13018,6 +13050,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T215107Z" creationid="Marc Riera" creationdate="20201130T215107Z">
         <seg>Diccionari Merriam Webster: ús</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Microsoft Office Open XML files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224707Z" creationid="Marc Riera" creationdate="20220130T224707Z">
+        <seg>Fitxers Office Open XML</seg>
       </tuv>
     </tu>
     <tu>
@@ -15421,6 +15461,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224211Z" creationid="Marc Riera" creationdate="20180214T224211Z">
         <seg>Opcions del filtre PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PO files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224342Z" creationid="Marc Riera" creationdate="20220130T224342Z">
+        <seg>Fitxers PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -19153,6 +19201,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Skip PO header</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224508Z" creationid="Marc Riera" creationdate="20220130T224508Z">
+        <seg>Omet la capçalera del fitxer PO</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Skip segments containing a certain set of characters</seg>
@@ -20444,6 +20500,14 @@ L'àmbit d'un reemplaçament de text són els segments de destinació del projec
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Text files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224338Z" creationid="Marc Riera" creationdate="20220130T224338Z">
+        <seg>Fitxers de text</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Text files segmentation</seg>
@@ -20784,6 +20848,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T203821Z" creationid="Marc Riera" creationdate="20201010T203821Z">
         <seg>L'aplicació s'executa en el vostre ordinador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The available options are:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224335Z" creationid="Marc Riera" creationdate="20220130T224335Z">
+        <seg>Les opcions disponibles són:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24491,6 +24563,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181110T001334Z" creationid="mgalo" creationdate="20181110T001334Z">
         <seg>XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XHTML Files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224526Z" creationid="Marc Riera" creationdate="20220130T224526Z">
+        <seg>Fitxers XHTML</seg>
       </tuv>
     </tu>
     <tu>
