@@ -3773,6 +3773,14 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220522Z" creationid="Marc Riera" creationdate="20220130T220522Z">
+        <seg>Cerca automàticament el text del segment en el diccionari</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Autotext</seg>
@@ -4089,6 +4097,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223152Z" creationid="Marc Riera" creationdate="20180214T223152Z">
         <seg>Navega</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browse TaaS Collections...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220459Z" creationid="Marc Riera" creationdate="20220130T220459Z">
+        <seg>Explora les col·leccions de TaaS...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4859,6 +4875,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T221002Z" creationid="Marc Riera" creationdate="20201130T221002Z">
         <seg>Marqueu l'opció &lt;g0&gt;Utilitza les coincidències parcials per a les entrades del diccionari&lt;/g0&gt; si voleu que els diccionaris mostrin paraules que tinguin la mateixa arrel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220118Z" creationid="Marc Riera" creationdate="20220130T220118Z">
+        <seg>Marqueu aquesta casella per a enviar només els segments sense traduir als serveis de traducció automàtica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6517,6 +6541,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T094945Z" creationid="mgalo" creationdate="20181108T150848Z">
         <seg>Mostra el context de les entrades dels &amp;glossaris TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display context description for TBX glossaries</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220340Z" creationid="Marc Riera" creationdate="20220130T220319Z">
+        <seg>Mostra el context de les entrades dels glossaris TBX</seg>
       </tuv>
     </tu>
     <tu>
@@ -8722,6 +8754,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220056Z" creationid="Marc Riera" creationdate="20220130T220056Z">
+        <seg>Per raons de confidencialitat, és possible que no vulgueu enviar tots els segments al motor de traducció automàtica.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
@@ -9239,6 +9279,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T225802Z" creationid="mgalo" creationdate="20181115T225802Z">
         <seg>La carpeta de glossaris {0} no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary layout</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220430Z" creationid="Marc Riera" creationdate="20220130T220430Z">
+        <seg>Disposició del glossari</seg>
       </tuv>
     </tu>
     <tu>
@@ -10437,6 +10485,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T230202Z" creationid="Marc Riera" creationdate="20201003T230202Z">
         <seg>Ignora les majúscules i minúscules del glossari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220422Z" creationid="Marc Riera" creationdate="20220130T220422Z">
+        <seg>Ignora les coincidències amb majúscules i minúscules molt diferents (p. ex., «FOO» i «foo»)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12937,6 +12993,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T224236Z" creationid="Marc Riera" creationdate="20191110T224236Z">
         <seg>Uneix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definition for the same term</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220439Z" creationid="Marc Riera" creationdate="20220130T220439Z">
+        <seg>Combina les definicions alternatives per al mateix terme</seg>
       </tuv>
     </tu>
     <tu>
@@ -17289,6 +17353,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Replace glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220401Z" creationid="Marc Riera" creationdate="20220130T220401Z">
+        <seg>Reemplaça les coincidències del glossari en inserir el text d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
@@ -17529,6 +17601,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T162042Z" creationid="Packard Bell" creationdate="20150605T162042Z">
         <seg>Restaura la finestra principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restores the components of the main OmegaT window to their default state.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220644Z" creationid="Marc Riera" creationdate="20220130T220644Z">
+        <seg>Restaura els components de la finestra principal de l'OmegaT al seu estat per defecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18647,6 +18727,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Select TaaS Terminology Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220513Z" creationid="Marc Riera" creationdate="20220130T220513Z">
+        <seg>Seleccioneu un domini de cerca de terminologia de TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Select TaaS domain</seg>
@@ -18671,6 +18759,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083906Z" creationid="Marc Riera" creationdate="20191113T072533Z">
         <seg>Selecció d'un fitxer de script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220141Z" creationid="Marc Riera" creationdate="20220130T220141Z">
+        <seg>Seleccioneu un proveïdor de la llista i, si és necessari, feu clic a &lt;g0&gt;Configura&lt;/g0&gt; per a introduir els detalls d'identificació proporcionats pel proveïdor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18876,6 +18972,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T115015Z" creationid="Marc Riera" creationdate="20180221T115015Z">
         <seg>Conjunts de regles de segmentació:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sets the segment validation key to Tab instead of the default Enter.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220021Z" creationid="Marc Riera" creationdate="20220130T220021Z">
+        <seg>Estableix la tecla de validació de segments a Tab en comptes de Retorn, que és el valor per defecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19639,6 +19743,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T152352Z" creationid="mgalo" creationdate="20181112T115220Z">
         <seg>Pas 2: feu les correccions manuals necessàries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Store for this session only</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220452Z" creationid="Marc Riera" creationdate="20220130T220452Z">
+        <seg>Desa només per a aquesta sessió</seg>
       </tuv>
     </tu>
     <tu>
@@ -21082,6 +21194,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The procedures for configuring access to the Microsoft Translator and Google Translate services are described &lt;u0&gt;here&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220312Z" creationid="Marc Riera" creationdate="20220130T220207Z">
+        <seg>Els procediments per a configurar l'accés als serveis de Microsoft Translator i Traductor de Google es descriuen &lt;u0&gt;aquí&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The program will seek confirmation before closing down.</seg>
@@ -21327,6 +21447,22 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T151500Z" creationid="Marc Riera" creationdate="20180214T223335Z">
         <seg>El fitxer de glossari modificable ha d'estar dins de la carpeta de glossaris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Theme</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220605Z" creationid="Marc Riera" creationdate="20220130T220605Z">
+        <seg>Tema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Theme can also be added as plugins.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220630Z" creationid="Marc Riera" creationdate="20220130T220630Z">
+        <seg>També es poden afegir temes com a connectors.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21605,6 +21741,14 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T215939Z" creationid="Marc Riera" creationdate="20220130T215916Z">
+        <seg>Podeu accedir a aquest quadre de diàleg seleccionant &lt;m0&gt; &lt;g1&gt;Opcions&lt;/g1&gt; &lt;g2&gt;Preferències...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
@@ -21736,6 +21880,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T201153Z" creationid="Marc Riera" creationdate="20201010T201153Z">
         <seg>Això vol dir que el codi font del programa OmegaT està disponible lliurement i que la llicència de l'OmegaT concedeix als usuaris una àmplia llibertat d'ús.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220033Z" creationid="Marc Riera" creationdate="20220130T220033Z">
+        <seg>Aquesta opció és útil per a alguns sistemes d'entrada de caràcters xinesos, japonesos o coreans.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23278,6 +23430,14 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Use fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220529Z" creationid="Marc Riera" creationdate="20220130T220529Z">
+        <seg>Utilitza les coincidències parcials per a les entrades del diccionari</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Use glossary</seg>
@@ -23296,12 +23456,28 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Use stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220355Z" creationid="Marc Riera" creationdate="20220130T220355Z">
+        <seg>Utilitza la lematització per a les entrades del glossari</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T084011Z" creationid="mgalo" creationdate="20181108T151132Z">
         <seg>Utilitza els termes que &amp;apareixen separats en el text d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use terms appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220347Z" creationid="Marc Riera" creationdate="20220130T220347Z">
+        <seg>Utilitza els termes que apareixen separats en el text d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -24579,6 +24755,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225402Z" creationid="Marc Riera" creationdate="20201003T225402Z">
         <seg>Si voleu, podeu superposar les subfinestres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select a theme for OmegaT's user interface.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220620Z" creationid="Marc Riera" creationdate="20220130T220620Z">
+        <seg>Podeu seleccionar un tema per a la interfície d'usuari de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
