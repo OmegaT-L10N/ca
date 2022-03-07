@@ -5013,6 +5013,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Choose the one that provides the best results.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220307T225215Z" creationid="Marc Riera" creationdate="20220307T225215Z">
+        <seg>Trieu el que proporcioni els millors resultats.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Class</seg>
@@ -5054,6 +5062,22 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181218T202323Z" creationid="Stephanie" creationdate="20150722T193905Z">
         <seg>Feu clic a &lt;e2&gt;Replace next&lt;/e2&gt; (reemplaça següent) o a &lt;e3&gt;Skip&lt;/e3&gt; (omet) i acabeu el procés de substitució amb &lt;e4&gt;Finish&lt;/e4&gt;(finalitza).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;g0&gt;Continue&lt;/g0&gt; to access the next step.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220307T225228Z" creationid="Marc Riera" creationdate="20220307T225228Z">
+        <seg>Feu clic a &lt;g0&gt;Continua&lt;/g0&gt; per a accedir al pas següent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click in the other column on the translation corresponding to the first segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220307T225144Z" creationid="Marc Riera" creationdate="20220307T225144Z">
+        <seg>Feu clic a l'altra columna, a la traducció corresponent al primer segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18895,6 +18919,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the first segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220307T225126Z" creationid="Marc Riera" creationdate="20220307T225126Z">
+        <seg>Seleccioneu el primer segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the script you want from the list on the left</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231022Z" creationid="Marc Riera" creationdate="20201129T231022Z">
@@ -19847,6 +19879,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
         <seg>Step 1: Adjust alignment parameters</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T152347Z" creationid="mgalo" creationdate="20181112T115208Z">
+        <seg>Pas 1: ajusteu els paràmetres de l'alineació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 1: Adjust the alignment parameters</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220307T225256Z" creationid="Marc Riera" creationdate="20220307T225256Z">
         <seg>Pas 1: ajusteu els paràmetres de l'alineació</seg>
       </tuv>
     </tu>
@@ -22037,6 +22077,14 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>This option only appears if both the selected files are recognised as Key=Value files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220307T225211Z" creationid="Marc Riera" creationdate="20220307T225211Z">
+        <seg>Aquesta opció només apareix si els dos fitxers seleccionats es reconeixen com a fitxers de Clau=Valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
@@ -22128,6 +22176,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To access this window, select &lt;m0&gt;&lt;g1&gt;Tools&lt;/g1&gt;&lt;g2&gt;Align Files...&lt;/g2&gt;&lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220307T225109Z" creationid="Marc Riera" creationdate="20220307T225109Z">
+        <seg>Per a accedir a aquesta finestra, seleccioneu &lt;m0&gt;&lt;g1&gt;Eines&lt;/g1&gt;&lt;g2&gt;Alinea fitxers...&lt;/g2&gt;&lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add a new source file:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212419Z" creationid="Marc Riera" creationdate="20201130T212419Z">
@@ -22149,6 +22205,14 @@ des del servidor.</seg>
 - Utilitzeu «Projecte &gt; Copia fitxers a la carpeta de fitxers d'origen...»
 - Feu clic a «Copia fitxers a la carpeta de fitxers d'origen...» a la finestra «Fitxers del projecte»
 - Copieu els fitxers a la carpeta «source» del projecte amb el vostre gestor de fitxers i torneu a carregar el projecte amb «Projecte &gt; Torna a carregar».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To align two segments on the same line:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220307T225124Z" creationid="Marc Riera" creationdate="20220307T225124Z">
+        <seg>Per a alinear dos segments en la mateixa línia:</seg>
       </tuv>
     </tu>
     <tu>
