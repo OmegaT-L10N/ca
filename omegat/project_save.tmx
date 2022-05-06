@@ -13899,6 +13899,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>No GPG key found for key ID ''{0}''; check or set git config user.signingKey</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220506T161926Z" creationid="Marc Riera" creationdate="20220506T161926Z">
+        <seg>No s'ha trobat cap clau GPG per a l'ID de clau «{0}»; comproveu o definiu el paràmetre git config user.signingKey</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>No Issues Found</seg>
