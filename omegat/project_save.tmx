@@ -8229,6 +8229,14 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>External GPG did not return a valid signature; got: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220506T161954Z" creationid="Marc Riera" creationdate="20220506T161949Z">
+        <seg>El GPG extern no ha retornat una signatura vàlida; s'ha rebut: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>External Lin&amp;ks</seg>
@@ -12594,6 +12602,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Looking for a GPG executable: path {0} from $PATH is not accessible; skipping</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220506T162025Z" creationid="Marc Riera" creationdate="20220506T162025Z">
+        <seg>S'està cercant un executable del GPG: no es pot accedir al camí {0} de $PATH; s'omet</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Lucene (Apache License 2.0)</seg>
@@ -13896,6 +13912,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T224642Z" creationid="Marc Riera" creationdate="20201003T224642Z">
         <seg>No hi ha cap fitxer .DOCX per netejar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220506T162226Z" creationid="Marc Riera" creationdate="20220506T162226Z">
+        <seg>No s'ha trobat cap executable del GPG; definiu-lo en les preferències del Git, en la secció «Committing», o definiu el paràmetre git config gpg.program</seg>
       </tuv>
     </tu>
     <tu>
