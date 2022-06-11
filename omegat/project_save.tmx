@@ -16641,6 +16641,14 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Project Files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T120102Z" creationid="Marc Riera" creationdate="20220611T120102Z">
+        <seg>Fitxers del projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Project Files ({0} of {1})</seg>
@@ -22319,6 +22327,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This window is displayed automatically when OmegaT loads a project, and at any time by pressing &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Project Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T120219Z" creationid="Marc Riera" creationdate="20220611T120219Z">
+        <seg>Aquesta finestra es mostra automàticament quan l'OmegaT carrega un projecte, o en qualsevol moment si seleccioneu &lt;m0&gt;&lt;g1&gt;Projecte&lt;/g1&gt; &lt;g2&gt;Fitxers del projecte...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T145859Z" creationid="Marc Riera" creationdate="20220506T145859Z">
@@ -26580,6 +26596,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165756Z" creationid="Marc Riera" creationdate="20200802T165756Z">
         <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the total number of translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T120735Z" creationid="Marc Riera" creationdate="20220611T120735Z">
+        <seg>El nombre total de fitxers traduïbles en el projecte.</seg>
       </tuv>
     </tu>
     <tu>
