@@ -6005,8 +6005,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Create Current Translated Documents</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161310Z" creationid="Packard Bell" creationdate="20150605T161310Z">
-        <seg>Crea els documents traduïts en ús</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170804Z" creationid="Packard Bell" creationdate="20150605T161310Z">
+        <seg>Crea el document traduït actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -6181,10 +6181,74 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ctrl+D</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170748Z" creationid="Marc Riera" creationdate="20220611T170748Z">
+        <seg>Ctrl+D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+E</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170812Z" creationid="Marc Riera" creationdate="20220611T170812Z">
+        <seg>Ctrl+E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+L</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170816Z" creationid="Marc Riera" creationdate="20220611T170816Z">
+        <seg>Ctrl+L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+O</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170706Z" creationid="Marc Riera" creationdate="20220611T170706Z">
+        <seg>Ctrl+O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Q</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170833Z" creationid="Marc Riera" creationdate="20220611T170833Z">
+        <seg>Ctrl+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+S</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170746Z" creationid="Marc Riera" creationdate="20220611T170746Z">
+        <seg>Ctrl+S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+D</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170809Z" creationid="Marc Riera" creationdate="20220611T170809Z">
+        <seg>Ctrl+Maj+D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ctrl+Shift+U</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181117T234525Z" creationid="mgalo" creationdate="20181111T225155Z">
         <seg>Ctrl+Shift+U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+W</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170742Z" creationid="Marc Riera" creationdate="20220611T170742Z">
+        <seg>Ctrl+Maj+W</seg>
       </tuv>
     </tu>
     <tu>
@@ -8516,6 +8580,14 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>F5</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170728Z" creationid="Marc Riera" creationdate="20220611T170728Z">
+        <seg>F5</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Facebook group</seg>
@@ -10515,8 +10587,8 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       <tuv lang="en">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161235Z" creationid="Packard Bell" creationdate="20150605T161235Z">
-        <seg>Si no entren en conflicte amb les dreceres del sistema, han d'estar disponibles dins d'OmegaT.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170443Z" creationid="Packard Bell" creationdate="20150605T161235Z">
+        <seg>Si no entren en conflicte amb les dreceres del sistema, haurien d'estar disponibles en l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10576,8 +10648,8 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       <tuv lang="en">
         <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150722T182146Z" creationid="Stephanie" creationdate="20150722T182146Z">
-        <seg>Si esteu en un Mac i voleu afegir una drecera &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; a &lt;m4&gt;&lt;g5&gt;Eines&lt;/g5&gt; &lt;g6&gt;Estadístiques&lt;/g6&gt; &lt;/m4&gt;, afegiu la següent línia al seu arxiu &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170352Z" creationid="Stephanie" creationdate="20150722T182146Z">
+        <seg>Si utilitzeu un Mac i voleu afegir la drecera &lt;k0&gt; &lt;k1&gt;Maj&lt;/k1&gt; &lt;k2&gt;Ordre&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; per a &lt;m4&gt;&lt;g5&gt;Eines&lt;/g5&gt; &lt;g6&gt;Estadístiques&lt;/g6&gt; &lt;/m4&gt;, afegiu la línia següent al fitxer &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13342,16 +13414,16 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Menu Item</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161248Z" creationid="Packard Bell" creationdate="20150605T161248Z">
-        <seg>Element de menú</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170501Z" creationid="Packard Bell" creationdate="20150605T161248Z">
+        <seg>Element del menú</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Menu Item Code</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161252Z" creationid="Packard Bell" creationdate="20150605T161252Z">
-        <seg>Codi d'element de menú</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170507Z" creationid="Packard Bell" creationdate="20150605T161252Z">
+        <seg>Codi d'element del menú</seg>
       </tuv>
     </tu>
     <tu>
@@ -13937,11 +14009,12 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>New</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161253Z" creationid="Packard Bell" creationdate="20150605T161253Z">
-        <seg>Nou</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170547Z" creationid="Packard Bell" creationdate="20150605T161253Z">
+        <seg>Crea...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15455,8 +15528,8 @@ Runtime Environment (JRE) en el sistema.</seg>
       <tuv lang="en">
         <seg>Open</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161255Z" creationid="Packard Bell" creationdate="20150605T161255Z">
-        <seg>Obre</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170703Z" creationid="Packard Bell" creationdate="20150605T161255Z">
+        <seg>Obre...</seg>
       </tuv>
     </tu>
     <tu>
@@ -18527,6 +18600,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150722T182201Z" creationid="Stephanie" creationdate="20150722T182201Z">
         <seg>Deseu el fitxer i després rellanceu &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save then the file and relaunch OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170411Z" creationid="Marc Riera" creationdate="20220611T170411Z">
+        <seg>Deseu el fitxer i reinicieu l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25762,8 +25843,8 @@ d'una finestra del Finder per a poder-la executar des de qualsevol lloc.</seg>
       <tuv lang="en">
         <seg>Your new shortcuts should now appear next to the menu items you have modified.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161234Z" creationid="Packard Bell" creationdate="20150605T161234Z">
-        <seg>Les noves dreceres han d'aparèixer ara al costat dels elements de menú que heu modificat.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170423Z" creationid="Packard Bell" creationdate="20150605T161234Z">
+        <seg>Les noves dreceres haurien d'aparèixer al costat dels elements del menú que heu modificat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26900,10 +26981,186 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170823Z" creationid="Marc Riera" creationdate="20220611T170823Z">
+        <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170824Z" creationid="Marc Riera" creationdate="20220611T170824Z">
+        <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessDictionaryMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170820Z" creationid="Marc Riera" creationdate="20220611T170820Z">
+        <seg>projectAccessDictionaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170821Z" creationid="Marc Riera" creationdate="20220611T170821Z">
+        <seg>projectAccessGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessRootMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170819Z" creationid="Marc Riera" creationdate="20220611T170819Z">
+        <seg>projectAccessRootMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170821Z" creationid="Marc Riera" creationdate="20220611T170821Z">
+        <seg>projectAccessourceMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessTargetMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170822Z" creationid="Marc Riera" creationdate="20220611T170822Z">
+        <seg>projectAccessTargetMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessWriteableGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170825Z" creationid="Marc Riera" creationdate="20220611T170825Z">
+        <seg>projectAccessWriteableGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCloseMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170744Z" creationid="Marc Riera" creationdate="20220611T170744Z">
+        <seg>projectCloseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCompileMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170749Z" creationid="Marc Riera" creationdate="20220611T170749Z">
+        <seg>projectCompileMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectEditMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170813Z" creationid="Marc Riera" creationdate="20220611T170813Z">
+        <seg>projectEditMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectExitMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170835Z" creationid="Marc Riera" creationdate="20220611T170835Z">
+        <seg>projectExitMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectImportMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170720Z" creationid="Marc Riera" creationdate="20220611T170720Z">
+        <seg>projectImportMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectNewMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170614Z" creationid="Marc Riera" creationdate="20220611T170614Z">
+        <seg>projectNewMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectOpenMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170707Z" creationid="Marc Riera" creationdate="20220611T170707Z">
+        <seg>projectOpenMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>projectOpenMenuItem=ctrl O</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165744Z" creationid="Marc Riera" creationdate="20220611T165744Z">
         <seg>projectOpenMenuItem=ctrl O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectOpenRecentMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170714Z" creationid="Marc Riera" creationdate="20220611T170714Z">
+        <seg>projectOpenRecentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectReloadMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170738Z" creationid="Marc Riera" creationdate="20220611T170738Z">
+        <seg>projectReloadMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectRestartMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170830Z" creationid="Marc Riera" creationdate="20220611T170830Z">
+        <seg>projectRestartMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectSaveMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170747Z" creationid="Marc Riera" creationdate="20220611T170747Z">
+        <seg>projectSaveMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectSingleCompileMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170811Z" creationid="Marc Riera" creationdate="20220611T170811Z">
+        <seg>projectSingleCompileMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectTeamNewMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170658Z" creationid="Marc Riera" creationdate="20220611T170658Z">
+        <seg>projectTeamNewMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectWikiImportMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170722Z" creationid="Marc Riera" creationdate="20220611T170722Z">
+        <seg>projectWikiImportMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -27083,6 +27340,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170357Z" creationid="Marc Riera" creationdate="20220611T170357Z">
+        <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>translation industry</seg>
@@ -27142,6 +27407,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T153012Z" creationid="Marc Riera" creationdate="20191113T175107Z">
         <seg>value (en les entrades del tipus button, &amp;submit i reset)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewFileListMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170817Z" creationid="Marc Riera" creationdate="20220611T170817Z">
+        <seg>VisualitzaFitxerListaMenúElement</seg>
       </tuv>
     </tu>
     <tu>
@@ -27515,6 +27788,29 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T190750Z" creationid="Marc Riera" creationdate="20201128T190657Z">
         <seg>Combinació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">New</prop>
+      <prop type="next">projectNewMenuItem</prop>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+N</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170603Z" creationid="Marc Riera" creationdate="20220611T170603Z">
+        <seg>Ctrl+Maj+N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">projectNewMenuItem</prop>
+      <prop type="next">projectTeamNewMenuItem</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Download Team Project</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170655Z" creationid="Marc Riera" creationdate="20220611T170655Z">
+        <seg>Baixa un projecte en equip...</seg>
       </tuv>
     </tu>
     <tu>
