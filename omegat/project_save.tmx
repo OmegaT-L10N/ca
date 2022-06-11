@@ -2304,6 +2304,30 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Close&lt;/g0&gt;: close the window without any change.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T152521Z" creationid="Marc Riera" creationdate="20220611T152521Z">
+        <seg>&lt;g0&gt;Tanca:&lt;/g0&gt; tanca la finestra sense aplicar cap canvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Replace All&lt;/g0&gt;: operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T152308Z" creationid="Marc Riera" creationdate="20220611T152308Z">
+        <seg>&lt;g0&gt;Substitueix-ho tot&lt;/g0&gt;: substitueix tots els resultats (després de mostrar una finestra de confirmació que indica el nombre de resultats).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Replace:&lt;/g0&gt; operates a "one by one" replacement, by the mean of buttons in the header of the Editor pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T152422Z" creationid="Marc Riera" creationdate="20220611T152422Z">
+        <seg>&lt;g0&gt;Substitueix:&lt;/g0&gt; aplica una substitució «d'un en un», mitjançant botons en la capçalera de l'editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
@@ -5114,6 +5138,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click &lt;g1&gt;Replace Next&lt;/g1&gt; or &lt;g2&gt;Skip&lt;/g2&gt;, then end the replacement session with &lt;g3&gt;Finish&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T152450Z" creationid="Marc Riera" creationdate="20220611T152450Z">
+        <seg>Feu clic en &lt;g1&gt;Substitueix el següent&lt;/g1&gt; o &lt;g2&gt;Omet&lt;/g2&gt; i acabeu el procés de substitució amb &lt;g3&gt;Finalitza&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click in the other column on the translation corresponding to the first segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T150338Z" creationid="Marc Riera" creationdate="20220307T225144Z">
@@ -7690,6 +7722,14 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;g0&gt;Replace with&lt;/g0&gt; box, then click one of the following options:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T152244Z" creationid="Marc Riera" creationdate="20220611T152244Z">
+        <seg>Indiqueu la paraula o frase (no s'admeten expressions regulars) en el quadre &lt;g0&gt;Substitueix per&lt;/g0&gt; i feu clic en una de les opcions següents:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Enter the segment number:</seg>
@@ -8129,6 +8169,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T193838Z" creationid="Stephanie" creationdate="20150722T194002Z">
         <seg>Llevat d'una: feu clic a &lt;e0&gt;Untranslated&lt;/e0&gt; per a activar Cerca i reemplaça en els segments que encara no han estat traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Except one: check &lt;g0&gt;Untranslated&lt;/g0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T152610Z" creationid="Marc Riera" creationdate="20220611T152610Z">
+        <seg>Excepció: marqueu &lt;g0&gt;Sense traduir&lt;/g0&gt; per a activar la cerca i substitució també en els segments que encara no s'han traduït.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15423,6 +15471,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;g3&gt;Search for&lt;/g3&gt; box.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T152157Z" creationid="Marc Riera" creationdate="20220611T152157Z">
+        <seg>Obriu la finestra de cerca i substitució amb &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; i escriviu la paraula o expressió que voleu substituir en el quadre &lt;g3&gt;Cerca&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Open {0} Source Files</seg>
@@ -20801,7 +20857,6 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
-      <note>Substitució / reemplaçament (triar-ne una i fer-la servir en tots els casos)</note>
       <tuv lang="en">
         <seg>Text Replace</seg>
       </tuv>
@@ -21941,6 +21996,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Then click on &lt;g0&gt;Search&lt;/g0&gt; button to display all the corresponding occurrences.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T152208Z" creationid="Marc Riera" creationdate="20220611T152208Z">
+        <seg>Tot seguit, feu clic en el botó &lt;g0&gt;Cerca&lt;/g0&gt; per a mostrar tots els resultats corresponents.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
@@ -22609,8 +22672,8 @@ des del servidor.</seg>
       <tuv lang="en">
         <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151230Z" creationid="Packard Bell" creationdate="20150529T163754Z">
-        <seg>Perquè sigui possible (encara que «Cerca i substitueix» funciona només en la memòria), l'OmegaT copiarà el segment d'origen al segment de destinació abans de la substitució.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T154642Z" creationid="Packard Bell" creationdate="20150529T163754Z">
+        <seg>Perquè sigui possible (encara que la cerca i substitució funciona només en la memòria), l'OmegaT copiarà el segment d'origen al segment de destinació abans de la substitució.</seg>
       </tuv>
     </tu>
     <tu>
