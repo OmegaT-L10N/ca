@@ -2259,8 +2259,8 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       <tuv lang="en">
         <seg>&lt;e0&gt;Adding files to the project:&lt;/e0&gt; You can add source files to the project by clicking on the &lt;g1&gt;Import Source Files...&lt;/g1&gt; button.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T162908Z" creationid="Marc Riera" creationdate="20220611T162908Z">
-        <seg>&lt;e0&gt;Addició de fitxers al projecte:&lt;/e0&gt; podeu afegir fitxers d'origen al projecte fent clic en el botó &lt;g1&gt;Importa fitxers d'origen...&lt;/g1&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T162929Z" creationid="Marc Riera" creationdate="20220611T162908Z">
+        <seg>&lt;e0&gt;Addició de fitxers al projecte:&lt;/e0&gt; podeu afegir fitxers d'origen al projecte fent clic en el botó &lt;g1&gt;Copia fitxers a la carpeta de fitxers d'origen...&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25455,6 +25455,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225649Z" creationid="Marc Riera" creationdate="20201003T225649Z">
         <seg>Hi podeu afegir els fitxers més endavant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on &lt;g3&gt;Import from MediaWiki&lt;/g3&gt; button and providing the corresponding URL.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T163009Z" creationid="Marc Riera" creationdate="20220611T163009Z">
+        <seg>També podeu afegir fitxers d'origen de pàgines d'Internet, escrites en MediaWiki, fent clic en el botó &lt;g3&gt;Baixa una pàgina del MediaWiki...&lt;/g3&gt; i proporcionant l'URL corresponent.</seg>
       </tuv>
     </tu>
     <tu>
