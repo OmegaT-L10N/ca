@@ -2257,6 +2257,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Adding files to the project:&lt;/e0&gt; You can add source files to the project by clicking on the &lt;g1&gt;Import Source Files...&lt;/g1&gt; button.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T162908Z" creationid="Marc Riera" creationdate="20220611T162908Z">
+        <seg>&lt;e0&gt;Addició de fitxers al projecte:&lt;/e0&gt; podeu afegir fitxers d'origen al projecte fent clic en el botó &lt;g1&gt;Importa fitxers d'origen...&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Close:&lt;/e0&gt; close the window without any change.</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150722T193926Z" creationid="Stephanie" creationdate="20150722T193926Z">
@@ -2485,6 +2493,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T212955Z" creationid="mgalo" creationdate="20181113T174859Z">
         <seg>&lt;r0&gt;Nota:&lt;/r0&gt; en un Mac d'Apple, utilitzeu la tecla «&lt;k1&gt;Ordre&lt;/k1&gt;» en comptes de la tecla «&lt;k2&gt;Control&lt;/k2&gt;».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit the window displaying at opening, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Access Configuration Folder&lt;/g6&gt; &lt;/m4&gt; menu).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T162157Z" creationid="Marc Riera" creationdate="20220611T162157Z">
+        <seg>&lt;r0&gt;Nota:&lt;/r0&gt; és possible impedir que es mostri la finestra en obrir un projecte definint el valor de &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; en &lt;e2&gt;false&lt;/e2&gt; en el fitxer &lt;f3&gt;omegat.prefs&lt;/f3&gt; (hi podeu accedir des del menú &lt;m4&gt; &lt;g5&gt;Opcions&lt;/g5&gt; &lt;g6&gt;Accedeix a la carpeta de configuració&lt;/g6&gt; &lt;/m4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14382,6 +14398,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Note however that the numbers do not indicate how relevant the repetitions are: they could mean relatively long sentences repeated a number of times (in which case you are fortunate) or it could describe a table of keywords (not so fortunate).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T162623Z" creationid="Marc Riera" creationdate="20220611T162623Z">
+        <seg>Això no obstant, tingueu en compte que les xifres no indiquen la rellevància de les repeticions: poden indicar frases relativament llargues repetides diverses vegades (i tenir sort) o poden indicar una taula de paraules clau (i no tenir tanta sort).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
@@ -25540,6 +25564,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225402Z" creationid="Marc Riera" creationdate="20201003T225402Z">
         <seg>Si voleu, podeu superposar les subfinestres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select a file with &lt;k1&gt;Up&lt;/k1&gt; and &lt;k2&gt;Down&lt;/k2&gt; keys, and open it for translation by pressing &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T162449Z" creationid="Marc Riera" creationdate="20220611T162449Z">
+        <seg>Podeu seleccionar un fitxer amb les tecles  &lt;k1&gt;Amunt&lt;/k1&gt; i &lt;k2&gt;Avall&lt;/k2&gt; i prémer &lt;k3&gt;Retorn&lt;/k3&gt; per a obrir-lo per a traduir-lo.</seg>
       </tuv>
     </tu>
     <tu>
