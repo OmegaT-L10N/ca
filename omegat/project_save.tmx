@@ -1669,6 +1669,14 @@ Per a afegir fitxers al projecte, feu clic en el botó «Copia fitxers a la carp
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T120849Z" creationid="Marc Riera" creationdate="20220611T120849Z">
+        <seg>(La definició d'«únic» distingeix entre majúscules i minúscules: «Casa» i «casa» es tracten com a diferents).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>(X)HTML Filter Options</seg>
@@ -18716,6 +18724,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>See the chapter &lt;e0&gt;Segmentation rules&lt;/e0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T120919Z" creationid="Marc Riera" creationdate="20220611T120919Z">
+        <seg>Consulteu el capítol &lt;e0&gt;Regles de segmentació&lt;/e0&gt; per a obtenir més informació.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segment</seg>
@@ -26596,6 +26612,22 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165756Z" creationid="Marc Riera" creationdate="20200802T165756Z">
         <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the list of all translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T120741Z" creationid="Marc Riera" creationdate="20220611T120741Z">
+        <seg>La llista de tots els fitxers traduïbles del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the total number of segments, the number of unique segments in the whole project, and the number of unique segments already translated are shown at the bottom</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T120811Z" creationid="Marc Riera" creationdate="20220611T120811Z">
+        <seg>El nombre total de segments, el nombre de segments únics en tot el projecte i el nombre de segments únics ja traduïts es mostren en la part inferior.</seg>
       </tuv>
     </tu>
     <tu>
