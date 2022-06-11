@@ -1125,8 +1125,8 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       <tuv lang="en">
         <seg>&amp;Replace</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181218T202453Z" creationid="mgalo" creationdate="20181112T205905Z">
-        <seg>&amp;Reemplaça</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151324Z" creationid="mgalo" creationdate="20181112T205905Z">
+        <seg>&amp;Substitueix</seg>
       </tuv>
     </tu>
     <tu>
@@ -1134,8 +1134,8 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       <tuv lang="en">
         <seg>&amp;Replace Next</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165018Z" creationid="mgalo" creationdate="20181115T114112Z">
-        <seg>Reemplaça el següe&amp;nt</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151328Z" creationid="mgalo" creationdate="20181115T114112Z">
+        <seg>Substitueix el següe&amp;nt</seg>
       </tuv>
     </tu>
     <tu>
@@ -1143,8 +1143,8 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       <tuv lang="en">
         <seg>&amp;Replace...</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T155020Z" creationid="mgalo" creationdate="20181112T101855Z">
-        <seg>&amp;Reemplaça...</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151413Z" creationid="mgalo" creationdate="20181112T101855Z">
+        <seg>&amp;Substitueix...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3737,16 +3737,16 @@ inesperat però correcte.</seg>
       <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T121930Z" creationid="Marc Riera" creationdate="20180214T224225Z">
-        <seg>Reemplaça automàticament «nplurals=ENTER; &amp;plural=EXPRESSIÓ;» en la capçalera</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151401Z" creationid="Marc Riera" creationdate="20180214T224225Z">
+        <seg>Substitueix automàticament «nplurals=ENTER; &amp;plural=EXPRESSIÓ;» en la capçalera</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;' in header</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224523Z" creationid="Marc Riera" creationdate="20220130T224523Z">
-        <seg>Reemplaça automàticament «nplurals=ENTER; plural=EXPRESSIÓ;» en la capçalera</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151500Z" creationid="Marc Riera" creationdate="20220130T224523Z">
+        <seg>Substitueix automàticament «nplurals=ENTER; plural=EXPRESSIÓ;» en la capçalera</seg>
       </tuv>
     </tu>
     <tu>
@@ -6887,8 +6887,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Do you want to replace it with the one you're moving?</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231806Z" creationid="Marc Riera" creationdate="20191112T231724Z">
-        <seg>Voleu reemplaçar-lo per l'element que esteu desplaçant?</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151425Z" creationid="Marc Riera" creationdate="20191112T231724Z">
+        <seg>Voleu substituir-lo per l'element que esteu desplaçant?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7788,8 +7788,8 @@ ningú no sent els vostres crits.</seg>
       <tuv lang="en">
         <seg>Error during regular expression replacement:</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181218T202732Z" creationid="mgalo" creationdate="20181218T202732Z">
-        <seg>S'ha produït un error en reemplaçar amb expressions regulars:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151357Z" creationid="mgalo" creationdate="20181218T202732Z">
+        <seg>S'ha produït un error durant la substitució amb expressions regulars:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8110,8 +8110,8 @@ ningú no sent els vostres crits.</seg>
       <tuv lang="en">
         <seg>Example - Search and Replace</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T222615Z" creationid="Marc Riera" creationdate="20190924T143751Z">
-        <seg>Exemple: cerca i reemplaça</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151511Z" creationid="Marc Riera" creationdate="20190924T143751Z">
+        <seg>Exemple: cerca i substitució</seg>
       </tuv>
     </tu>
     <tu>
@@ -10344,8 +10344,8 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       <tuv lang="en">
         <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T150551Z" creationid="Packard Bell" creationdate="20150529T164034Z">
-        <seg>Si no s'aplica cap reemplaçament en un segment determinat, el segment de destinació es "buidarà"; és a dir, es mantindrà sense traduir.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151236Z" creationid="Packard Bell" creationdate="20150529T164034Z">
+        <seg>Si no s'aplica cap substitució en un segment determinat, el segment de destinació es "buidarà"; és a dir, es mantindrà sense traduir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17123,8 +17123,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Re&amp;place All</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T223758Z" creationid="mgalo" creationdate="20181107T232546Z">
-        <seg>Reem&amp;plaça-ho tot</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151700Z" creationid="mgalo" creationdate="20181107T232546Z">
+        <seg>Subs&amp;titueix-ho tot</seg>
       </tuv>
     </tu>
     <tu>
@@ -17132,8 +17132,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Re&amp;place with Source</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191208T152939Z" creationid="Marc Riera" creationdate="20180210T213708Z">
-        <seg>Reem&amp;plaça pel text d'origen</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151710Z" creationid="Marc Riera" creationdate="20180210T213708Z">
+        <seg>Subs&amp;titueix pel text d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -17617,8 +17617,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Replace</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T143715Z" creationid="Marc Riera" creationdate="20190924T143715Z">
-        <seg>Reemplaça</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151534Z" creationid="Marc Riera" creationdate="20190924T143715Z">
+        <seg>Substitueix</seg>
       </tuv>
     </tu>
     <tu>
@@ -17626,8 +17626,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T095001Z" creationid="mgalo" creationdate="20181108T151550Z">
-        <seg>Reemplaça les coincidències del &amp;glossari en inserir el text d'origen</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151339Z" creationid="mgalo" creationdate="20181108T151550Z">
+        <seg>Substitueix les coincidències del &amp;glossari en inserir el text d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -17635,8 +17635,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Replace Translation with Match or Selection</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T163924Z" creationid="mgalo" creationdate="20181112T100154Z">
-        <seg>Reemplaça la traducció per la coincidència o la selecció</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151405Z" creationid="mgalo" creationdate="20181112T100154Z">
+        <seg>Substitueix la traducció per la coincidència o la selecció</seg>
       </tuv>
     </tu>
     <tu>
@@ -17644,24 +17644,24 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Replace Translation with Text</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T164112Z" creationid="Marc Riera" creationdate="20190521T105326Z">
-        <seg>Reemplaça la traducció pel text</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151409Z" creationid="Marc Riera" creationdate="20190521T105326Z">
+        <seg>Substitueix la traducció pel text</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Replace With Match or Selection</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201129T225804Z" creationid="Marc Riera" creationdate="20201129T225804Z">
-        <seg>Reemplaça per la coincidència o la selecció</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151444Z" creationid="Marc Riera" creationdate="20201129T225804Z">
+        <seg>Substitueix per la coincidència o la selecció</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Replace With Source</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215018Z" creationid="Packard Bell" creationdate="20150605T161445Z">
-        <seg>Reemplaça pel text d'origen</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151453Z" creationid="Packard Bell" creationdate="20150605T161445Z">
+        <seg>Substitueix pel text d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -17669,8 +17669,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Replace custom tags with space</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T230233Z" creationid="Marc Riera" creationdate="20201003T230233Z">
-        <seg>Reemplaça les etiquetes personalitzades per espais</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151549Z" creationid="Marc Riera" creationdate="20201003T230233Z">
+        <seg>Substitueix les etiquetes personalitzades per espais</seg>
       </tuv>
     </tu>
     <tu>
@@ -17678,16 +17678,16 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Replace escaped sequences with space</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T230222Z" creationid="Marc Riera" creationdate="20201003T230222Z">
-        <seg>Reemplaça les seqüències amb escapament per espais</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151545Z" creationid="Marc Riera" creationdate="20201003T230222Z">
+        <seg>Substitueix les seqüències amb escapament per espais</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Replace glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220401Z" creationid="Marc Riera" creationdate="20220130T220401Z">
-        <seg>Reemplaça les coincidències del glossari en inserir el text d'origen</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151457Z" creationid="Marc Riera" creationdate="20220130T220401Z">
+        <seg>Substitueix les coincidències del glossari en inserir el text d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -17695,8 +17695,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T184331Z" creationid="Marc Riera" creationdate="20190924T133009Z">
-        <seg>Reemplaça els espais per espais no separables on calgui en francès</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151506Z" creationid="Marc Riera" creationdate="20190924T133009Z">
+        <seg>Substitueix els espais per espais no separables on calgui en francès</seg>
       </tuv>
     </tu>
     <tu>
@@ -17704,8 +17704,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T184217Z" creationid="Marc Riera" creationdate="20180210T213702Z">
-        <seg>Reemplaça per la traducció auto&amp;màtica</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151335Z" creationid="Marc Riera" creationdate="20180210T213702Z">
+        <seg>Substitueix per la traducció auto&amp;màtica</seg>
       </tuv>
     </tu>
     <tu>
@@ -17713,8 +17713,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Replace with Machine Translation</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T184245Z" creationid="Packard Bell" creationdate="20150605T161441Z">
-        <seg>Reemplaça per la traducció automàtica</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151448Z" creationid="Packard Bell" creationdate="20150605T161441Z">
+        <seg>Substitueix per la traducció automàtica</seg>
       </tuv>
     </tu>
     <tu>
@@ -17722,8 +17722,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Replace with:</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181218T202621Z" creationid="Marc Riera" creationdate="20180221T113359Z">
-        <seg>Reemplaça per:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151343Z" creationid="Marc Riera" creationdate="20180221T113359Z">
+        <seg>Substitueix per:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18616,8 +18616,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Search Replaced Mark</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200122T225634Z" creationid="Marc Riera" creationdate="20200122T225634Z">
-        <seg>Marca de cerca reemplaçada</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151419Z" creationid="Marc Riera" creationdate="20200122T225634Z">
+        <seg>Marca de cerca substituïda</seg>
       </tuv>
     </tu>
     <tu>
@@ -18625,8 +18625,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Search and Replace</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T143724Z" creationid="Stephanie" creationdate="20150722T193227Z">
-        <seg>Cerca i reemplaça</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151540Z" creationid="Stephanie" creationdate="20150722T193227Z">
+        <seg>Cerca i substitueix</seg>
       </tuv>
     </tu>
     <tu>
@@ -18634,8 +18634,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Search and Replace...</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181218T202310Z" creationid="Packard Bell" creationdate="20150529T111030Z">
-        <seg>Cerca i reemplaça...</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151331Z" creationid="Packard Bell" creationdate="20150529T111030Z">
+        <seg>Cerca i substitueix...</seg>
       </tuv>
     </tu>
     <tu>
@@ -19438,8 +19438,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Show Replace Search Bar</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T084158Z" creationid="mgalo" creationdate="20181112T101953Z">
-        <seg>Mostra la barra de reemplaçament</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151202Z" creationid="mgalo" creationdate="20181112T101953Z">
+        <seg>Mostra la barra de substitució</seg>
       </tuv>
     </tu>
     <tu>
@@ -19456,8 +19456,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Simple search and replace script</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200726T110600Z" creationid="Marc Riera" creationdate="20190924T143804Z">
-        <seg>Script senzill per a cercar i reemplaçar</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151526Z" creationid="Marc Riera" creationdate="20190924T143804Z">
+        <seg>Script senzill de cerca i substitució</seg>
       </tuv>
     </tu>
     <tu>
@@ -20805,8 +20805,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Text Replace</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T153704Z" creationid="mgalo" creationdate="20181109T120710Z">
-        <seg>Reemplaçament de text</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151133Z" creationid="mgalo" creationdate="20181109T120710Z">
+        <seg>Substitució de text</seg>
       </tuv>
     </tu>
     <tu>
@@ -20815,9 +20815,9 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
         <seg>Text Replace:
 The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T154059Z" creationid="mgalo" creationdate="20181115T220713Z">
-        <seg>Reemplaçament de text:
-L'àmbit d'un reemplaçament de text són els segments de destinació del projecte, independentment de si ja tenen contingut o no.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151145Z" creationid="mgalo" creationdate="20181115T220713Z">
+        <seg>Substitució de text:
+L'àmbit d'una substitució de text són els segments de destinació del projecte, independentment de si ja tenen contingut o no.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21181,8 +21181,8 @@ la carpeta actual en el seu lloc.</seg>
       <tuv lang="en">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T184234Z" creationid="Marc Riera" creationdate="20191110T221705Z">
-        <seg>L'URL ha d'incloure «{target}», que es reemplaçarà pel text de cerca.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151432Z" creationid="Marc Riera" creationdate="20191110T221705Z">
+        <seg>L'URL ha d'incloure «{target}», que se substituirà pel text de cerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21243,8 +21243,8 @@ la carpeta actual en el seu lloc.</seg>
       <tuv lang="en">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T184236Z" creationid="Marc Riera" creationdate="20191110T222217Z">
-        <seg>L'ordre ha d'incloure «{target}», que es reemplaçarà pel text de cerca.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151438Z" creationid="Marc Riera" creationdate="20191110T222217Z">
+        <seg>L'ordre ha d'incloure «{target}», que se substituirà pel text de cerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22609,8 +22609,8 @@ des del servidor.</seg>
       <tuv lang="en">
         <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T144916Z" creationid="Packard Bell" creationdate="20150529T163754Z">
-        <seg>Perquè sigui possible (encara que «Cerca i reemplaça» funciona només en la memòria), l'OmegaT copiarà el segment d'origen al segment de destinació abans de l'operació de reemplaçament.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151230Z" creationid="Packard Bell" creationdate="20150529T163754Z">
+        <seg>Perquè sigui possible (encara que «Cerca i substitueix» funciona només en la memòria), l'OmegaT copiarà el segment d'origen al segment de destinació abans de la substitució.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24654,8 +24654,8 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       <tuv lang="en">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T153734Z" creationid="mgalo" creationdate="20181111T222806Z">
-        <seg>En utilitzar expressions regulars, la cadena de reemplaçament admet referències a grups definits en la cadena de cerca.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151153Z" creationid="mgalo" creationdate="20181111T222806Z">
+        <seg>En utilitzar expressions regulars, la cadena de substitució admet referències a grups definits en la cadena de cerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27233,8 +27233,8 @@ creï la carpeta de configuració.</seg>
       <tuv lang="en">
         <seg>Replace</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T183250Z" creationid="Marc Riera" creationdate="20201128T183250Z">
-        <seg>Reemplaçament</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151210Z" creationid="Marc Riera" creationdate="20201128T183250Z">
+        <seg>Substitució</seg>
       </tuv>
     </tu>
     <tu>
