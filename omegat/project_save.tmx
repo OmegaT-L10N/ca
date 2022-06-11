@@ -3575,8 +3575,8 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161057Z" creationid="Packard Bell" creationdate="20150605T161057Z">
-        <seg>Qualsevol cosa després de la "//" serà ignorada.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T164548Z" creationid="Packard Bell" creationdate="20150605T161057Z">
+        <seg>Tot el contingut després de «//» s'ignorarà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7595,8 +7595,8 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       <tuv lang="en">
         <seg>Empty lines are accepted and comment lines should start with "//".</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150529T095827Z" creationid="Packard Bell" creationdate="20150529T095827Z">
-        <seg>Les línies buides són acceptades i les línies de comentari han de començar amb "//".</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T164532Z" creationid="Packard Bell" creationdate="20150529T095827Z">
+        <seg>S'accepten les línies buides i les línies amb comentaris han de començar per «//».</seg>
       </tuv>
     </tu>
     <tu>
@@ -13675,8 +13675,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T123340Z" creationid="Packard Bell" creationdate="20150605T161024Z">
-        <seg>La majoria dels elements que apareixen en el menú principal poden tenir una nova drecera assignada.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T164351Z" creationid="Packard Bell" creationdate="20150605T161024Z">
+        <seg>Podeu assignar una drecera nova a la majoria dels elements del menú principal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15345,6 +15345,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T193953Z" creationid="Stephanie" creationdate="20150722T175600Z">
         <seg>Una vegada que l'arxiu &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; es modifica, &lt;a1&gt;OmegaT&lt;/a1&gt; ha de ser rellançat per a tenir les noves dreceres en compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, OmegaT must be relaunched to take the new shortcuts into account.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T164632Z" creationid="Marc Riera" creationdate="20220611T164557Z">
+        <seg>Una vegada modificat el fitxer &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;, cal reiniciar l'OmegaT per a aplicar les noves dreceres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21569,8 +21577,8 @@ en el seu lloc.</seg>
       <tuv lang="en">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150722T180054Z" creationid="Stephanie" creationdate="20150722T180054Z">
-        <seg>&gt;La sintaxi completa de pulsacions de teclat (dreceres) es defineix en la següent documentació de Java 1.6 a Oracle (part inferior de la pàgina): &lt;u0&gt;Dreceres de pulsacions de teclat de Java 1.6&lt;/u0&gt;</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165117Z" creationid="Stephanie" creationdate="20150722T180054Z">
+        <seg>La sintaxi completa de les pulsacions de tecles (dreceres) es defineix en la documentació següent del Java 1.6 d'Oracle (en la part inferior de la pàgina): &lt;u0&gt;Dreceres de pulsacions de tecles del Java 1.6&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21894,16 +21902,16 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       <tuv lang="en">
         <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150722T175515Z" creationid="Stephanie" creationdate="20150722T175515Z">
-        <seg>L'arxiu de definició de drecera ha de ser nomenat &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; i ha de contenir com a màxim una definició de drecera per línia.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T164517Z" creationid="Stephanie" creationdate="20150722T175515Z">
+        <seg>El fitxer de definició de dreceres s'ha d'anomenar &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; i ha de contenir com a màxim una definició de drecera per línia.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
       </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150722T175751Z" creationid="Stephanie" creationdate="20150722T175751Z">
-        <seg>La sintaxi de definició de drecera és la següent: &lt;c0&gt;&lt;codi d'element de menú&gt;=&lt;drecera&gt;&lt;/c0&gt;, on &lt;e1&gt;&lt;codi d'element de menú&gt;&lt;/e1&gt; és un codi pres de les taules de baix i &lt;e2&gt;&lt;drecera&gt;&lt;/e2&gt; és una combinació de tecles especificades per l'usuari.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165015Z" creationid="Stephanie" creationdate="20150722T175751Z">
+        <seg>La sintaxi de definició de les dreceres és la següent: &lt;c0&gt;&lt;codi d'element del menú&gt;=&lt;drecera&gt;&lt;/c0&gt;, en què &lt;e1&gt;&lt;codi d'element del menú&gt;&lt;/e1&gt; és un codi de les taules següents i &lt;e2&gt;&lt;drecera&gt;&lt;/e2&gt; és una combinació de tecles especificada per l'usuari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25503,6 +25511,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T155611Z" creationid="Marc Riera" creationdate="20220611T155611Z">
         <seg>També podeu iniciar les macros seleccionades des del menú principal mitjançant les entrades del menú &lt;g0&gt;Eines&lt;/g0&gt; o prement &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;Alt&lt;/k3&gt;&lt;k4&gt;F1-F12&lt;/k4&gt;&lt;/k1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (accessible by &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Access Configuration Folder&lt;/g2&gt; &lt;/m0&gt; menu).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T164447Z" creationid="Marc Riera" creationdate="20220611T164447Z">
+        <seg>Podeu canviar les dreceres ja assignades i afegir dreceres noves desant un fitxer de definició de drecera a carpeta de preferències de l'OmegaT (accessible des del menú &lt;m0&gt; &lt;g1&gt;Opcions&lt;/g1&gt; &lt;g2&gt;Accedeix a la carpeta de configuració&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
