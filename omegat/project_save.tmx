@@ -5139,6 +5139,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Clicking on any file will open it for translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121155Z" creationid="Marc Riera" creationdate="20220611T121155Z">
+        <seg>Si feu clic en qualsevol fitxer, s'obrirà per a traduir-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Clo&amp;se</seg>
@@ -8611,6 +8619,14 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>File entries include their names, file filter types, their encoding and the number of segments each file contains</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121411Z" creationid="Marc Riera" creationdate="20220611T121411Z">
+        <seg>Les entrades de fitxers inclouen el nom, el tipus de filtre de fitxers, la codificació i el nombre de segments que conté cada fitxer.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>File format</seg>
@@ -11343,6 +11359,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T142956Z" creationid="Marc Riera" creationdate="20201125T142956Z">
         <seg>També conté instruccions d'instal·lació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It also possible to change the position of a filename, by clicking on it and pressing &lt;g0&gt;Move ...&lt;/g0&gt; buttons.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121317Z" creationid="Marc Riera" creationdate="20220611T121317Z">
+        <seg>També es pot canviar la posició d'un nom de fitxer, fent-hi clic i prement els botons &lt;g0&gt;Mou...&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14271,6 +14295,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T152506Z" creationid="mgalo" creationdate="20181109T234724Z">
         <seg>Nota: els paràmetres de codificació dels fitxers d'origen afecten només els fitxers HTML que no contenen cap declaració de codificació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: filenames (in first column) can be sorted alphabetically by clicking in the header.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121254Z" creationid="Marc Riera" creationdate="20220611T121254Z">
+        <seg>Nota: Els noms de fitxer (en la primera columna) es poden ordenar alfabèticament fent clic en la capçalera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17984,6 +18016,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121349Z" creationid="Marc Riera" creationdate="20220611T121349Z">
+        <seg>Si feu clic dret en un nom de fitxer, s'obre una finestra emergent que permet obrir el fitxer d'origen i, si existeix, el fitxer de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
@@ -20883,12 +20923,28 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the &lt;f1&gt;omegat&lt;/f1&gt; folder of your project contains more detailed segment information, broken down by file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121546Z" creationid="Marc Riera" creationdate="20220611T121546Z">
+        <seg>El fitxer &lt;f0&gt;project_stats.txt&lt;/f0&gt;, en la carpeta &lt;f1&gt;omegat&lt;/f1&gt; del projecte, conté informació més detallada sobre els segments, desglossada per fitxer.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T220321Z" creationid="mgalo" creationdate="20181114T123057Z">
         <seg>Les memòries &lt;f3&gt;level1&lt;/f3&gt; i &lt;f4&gt;level2&lt;/f4&gt; es poden compartir amb els usuaris d'altres programes de traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;g4&gt;Project Files&lt;/g4&gt; Window displays the following information:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121050Z" creationid="Marc Riera" creationdate="20220611T121050Z">
+        <seg>La finestra &lt;g4&gt;Fitxers del projecte&lt;/g4&gt; mostra la informació següent:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21221,6 +21277,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T131831Z" creationid="Stephanie" creationdate="20150722T181508Z">
         <seg>Les dreceres per defecte d'OmegaT per a Mac també estan disponibles a SourceForge: totes elles utilitzen "meta" en lloc de "ctrl": &lt;u0&gt;Dreceres per defecte d'OmegaT per a Mac&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The difference between "Number of segments" and "Number of unique segments" provides an approximate idea of the number of repetitions in the text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121456Z" creationid="Marc Riera" creationdate="20220611T121456Z">
+        <seg>La diferència entre «Nombre de segments» i «Nombre de segments únics» proporciona una idea aproximada del nombre de repeticions en el text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21637,6 +21701,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The set of &lt;e0&gt;Unique&lt;/e0&gt; segments is computed by taking all the segments and removing all duplicate segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121435Z" creationid="Marc Riera" creationdate="20220611T121435Z">
+        <seg>El conjunt de segments &lt;e0&gt;únics&lt;/e0&gt; es calcula sumant tots els segments i restant tots els segments duplicats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150722T175515Z" creationid="Stephanie" creationdate="20150722T175515Z">
@@ -21937,6 +22009,14 @@ la ubicació de la carpeta de configuració de l'OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These are the files present in the &lt;f0&gt;source&lt;/f0&gt; folder in a format that OmegaT is able to recognize.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121111Z" creationid="Marc Riera" creationdate="20220611T121111Z">
+        <seg>Es tracta dels fitxers presents en la carpeta &lt;f0&gt;source&lt;/f0&gt; en un format que l'OmegaT pot reconèixer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These settings apply to OmegaT level, to all projects.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T221106Z" creationid="Marc Riera" creationdate="20201130T221106Z">
@@ -22104,6 +22184,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This copies the selected files to the &lt;f2&gt;source&lt;/f2&gt; folder and reloads the project to import the new files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121635Z" creationid="Marc Riera" creationdate="20220611T121635Z">
+        <seg>Això copia els fitxers seleccionats a la carpeta &lt;f2&gt;source&lt;/f2&gt; i torna a carregar el projecte per a importar els fitxers nous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T215939Z" creationid="Marc Riera" creationdate="20220130T215916Z">
@@ -22246,6 +22334,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This number is displayed in brackets, next to the "Project file" title</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121140Z" creationid="Marc Riera" creationdate="20220611T121140Z">
+        <seg>Aquest número es mostra entre claudàtors, al costat del títol "Fitxers del projecte".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220033Z" creationid="Marc Riera" creationdate="20220130T220033Z">
@@ -22355,6 +22451,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T145859Z" creationid="Marc Riera" creationdate="20220506T145859Z">
         <seg>Això funciona fins i tot si les claus no estan en el mateix ordre en els dos fitxers o si els dos fitxers no contenen la mateixa quantitat d'informació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This, however, should generally be avoided once you have started translating the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121617Z" creationid="Marc Riera" creationdate="20220611T121617Z">
+        <seg>De totes maneres, normalment hauríeu d'evitar-ho quan hàgiu començat a traduir el projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23128,6 +23232,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Typing any text will open a &lt;g0&gt;Filter&lt;/g0&gt; field where parts of filenames can be entered.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121236Z" creationid="Marc Riera" creationdate="20220611T121236Z">
+        <seg>En escriure qualsevol text s'obrirà un camp &lt;g0&gt;Filtre&lt;/g0&gt; on podeu indicar parts dels noms dels fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Typo3 LocManager</seg>
@@ -23791,6 +23903,14 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T084023Z" creationid="mgalo" creationdate="20181108T151506Z">
         <seg>Utilitza la &amp;lematització per a les entrades del glossari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt; to open and &lt;k3&gt;Esc&lt;/k3&gt; to close it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121033Z" creationid="Marc Riera" creationdate="20220611T121033Z">
+        <seg>Utilitzeu &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt; per a obrir-la i &lt;k3&gt;Esc&lt;/k3&gt; per a tancar-la.</seg>
       </tuv>
     </tu>
     <tu>
