@@ -1760,10 +1760,18 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165330Z" creationid="Marc Riera" creationdate="20220611T165330Z">
+        <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>, one can find:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150722T181523Z" creationid="Stephanie" creationdate="20150722T181523Z">
-        <seg>, es pot trobar:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165739Z" creationid="Stephanie" creationdate="20150722T181523Z">
+        <seg>, podeu trobar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2235,16 +2243,16 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       <tuv lang="en">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150722T181030Z" creationid="Stephanie" creationdate="20150722T181030Z">
-        <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; pot ser: &lt;e1&gt;teclejeu&lt;/e1&gt;, &lt;e2&gt;manteniu premut&lt;/e2&gt;, &lt;e3&gt;deixeu anar&lt;/e3&gt;</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165411Z" creationid="Stephanie" creationdate="20150722T181030Z">
+        <seg>&lt;c0&gt;&lt;esdeveniment&gt;&lt;/c0&gt; pot ser: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; can be: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
       </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150722T180447Z" creationid="Stephanie" creationdate="20150722T180447Z">
-        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; pot ser: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165220Z" creationid="Stephanie" creationdate="20150722T180447Z">
+        <seg>&lt;c0&gt;&lt;modificador&gt;&lt;/c0&gt; pot ser: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2579,8 +2587,8 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       <tuv lang="en">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161123Z" creationid="Packard Bell" creationdate="20150605T161123Z">
-        <seg>&lt;drecera&gt; ha de ser de la següent manera: 0 o més &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; seguit de 0 o 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; seguit d'1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, on:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165206Z" creationid="Packard Bell" creationdate="20150605T161123Z">
+        <seg>&lt;drecera&gt; ha de tenir el format següent: 0 o més &lt;c0&gt;&lt;modificador&gt;&lt;/c0&gt;, seguit de 0 o 1 &lt;c1&gt;&lt;esdeveniment&gt;&lt;/c1&gt;, seguit d'1 &lt;c2&gt;&lt;tecla&gt;&lt;/c2&gt;, en què:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9039,8 +9047,8 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       <tuv lang="en">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150722T181359Z" creationid="Stephanie" creationdate="20150722T181359Z">
-        <seg>Per exemple, en les dreceres per defecte d'OmegaT</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165535Z" creationid="Stephanie" creationdate="20150722T181359Z">
+        <seg>Per exemple, en les dreceres per defecte de l'OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -10715,8 +10723,8 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094655Z" creationid="Stephanie" creationdate="20150722T181816Z">
-        <seg>Si voleu utilitzar &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt;&lt;/k0&gt; per a obrir un projecte, modifiqui el seu arxiu &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; de la següent manera:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165945Z" creationid="Stephanie" creationdate="20150722T181816Z">
+        <seg>Si voleu utilitzar &lt;k0&gt;&lt;k1&gt;Maj&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt;&lt;/k0&gt; per a obrir un projecte, podeu modificar el fitxer &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; de la manera següent:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15326,8 +15334,8 @@ Runtime Environment (JRE) en el sistema.</seg>
       <tuv lang="en">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201210T185725Z" creationid="Stephanie" creationdate="20150722T180911Z">
-        <seg>En Mac, el modificador &lt;e0&gt;meta&lt;/e0&gt; s'ha d'utilitzar per a especificar la tecla &lt;e1&gt;command&lt;/e1&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165324Z" creationid="Stephanie" creationdate="20150722T180911Z">
+        <seg>En un Mac, el modificador &lt;e0&gt;meta&lt;/e0&gt; s'ha d'utilitzar per a especificar la tecla &lt;e1&gt;Ordre&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21458,16 +21466,16 @@ en el seu lloc.</seg>
       <tuv lang="en">
         <seg>The default OmegaT shortcuts are available from Sourceforge: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T131840Z" creationid="Stephanie" creationdate="20150722T181432Z">
-        <seg>Les dreceres per defecte d'OmegaT estan disponibles a SourceForge: &lt;u0&gt;Dreceres per defecte d'OmegaT&lt;/u0&gt;</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165547Z" creationid="Stephanie" creationdate="20150722T181432Z">
+        <seg>Les dreceres per defecte de l'OmegaT estan disponibles a SourceForge: &lt;u0&gt;Dreceres per defecte de l'OmegaT&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The default OmegaT shortcuts for the Mac are also available from Sourceforge, they all use "meta" instead of "ctrl": &lt;u0&gt;Default OmegaT Shortcuts for the Mac&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201128T131831Z" creationid="Stephanie" creationdate="20150722T181508Z">
-        <seg>Les dreceres per defecte d'OmegaT per a Mac també estan disponibles a SourceForge: totes elles utilitzen "meta" en lloc de "ctrl": &lt;u0&gt;Dreceres per defecte d'OmegaT per a Mac&lt;/u0&gt;</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165633Z" creationid="Stephanie" creationdate="20150722T181508Z">
+        <seg>Les dreceres per defecte de l'OmegaT per al Mac també estan disponibles a SourceForge; totes utilitzen «meta» en comptes de «ctrl»: &lt;u0&gt;Dreceres per defecte de l'OmegaT per al Mac&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21525,8 +21533,8 @@ en el seu lloc.</seg>
       <tuv lang="en">
         <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150722T181600Z" creationid="Stephanie" creationdate="20150722T181600Z">
-        <seg>La primera és la drecera per &lt;g0&gt;Obre projecte&lt;/g0&gt;, la segona per &lt;g1&gt;Crea una entrada del glossari&lt;/g1&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165922Z" creationid="Stephanie" creationdate="20150722T181600Z">
+        <seg>La primera és la drecera per a &lt;g0&gt;Obre un projecte&lt;/g0&gt; i la segona és per a &lt;g1&gt;Crea una entrada en el glossari&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21780,8 +21788,8 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       <tuv lang="en">
         <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150722T181221Z" creationid="Stephanie" creationdate="20150722T181221Z">
-        <seg>Els possibles keyevents (tecles) s'enumeren en la següent documentació de Java 1.6 a Oracle: &lt;u0&gt;Descripció de keyevents Java 1.6&lt;/u0&gt;</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165527Z" creationid="Stephanie" creationdate="20150722T181221Z">
+        <seg>Els esdeveniments (tecles) possibles s'indiquen a la documentació següent del Java 1.6 d'Oracle: &lt;u0&gt;Descripció d'esdeveniments de tecles del Java 1.6&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26124,8 +26132,8 @@ creï la carpeta de configuració.</seg>
       <tuv lang="en">
         <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard</seg>
       </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150722T181053Z" creationid="Stephanie" creationdate="20150722T181053Z">
-        <seg>i &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; pot ser qualsevol tecla disponible en el seu teclat</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165420Z" creationid="Stephanie" creationdate="20150722T181053Z">
+        <seg>i &lt;c0&gt;&lt;tecla&gt;&lt;/c0&gt; pot ser qualsevol tecla disponible en el vostre teclat</seg>
       </tuv>
     </tu>
     <tu>
@@ -26250,6 +26258,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T202049Z" creationid="Marc Riera" creationdate="20201010T202049Z">
         <seg>e-lexica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165747Z" creationid="Marc Riera" creationdate="20220611T165747Z">
+        <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
       </tuv>
     </tu>
     <tu>
@@ -26880,6 +26896,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212654Z" creationid="Marc Riera" creationdate="20201130T212654Z">
         <seg>O bé, obriu el projecte des de la línia d'ordres amb l'opció &lt;c0&gt;--no-team&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectOpenMenuItem=ctrl O</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165744Z" creationid="Marc Riera" creationdate="20220611T165744Z">
+        <seg>projectOpenMenuItem=ctrl O</seg>
       </tuv>
     </tu>
     <tu>
