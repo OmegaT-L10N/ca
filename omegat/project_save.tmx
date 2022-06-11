@@ -2273,6 +2273,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): a dynamic language for the Java Virtual machine.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T155747Z" creationid="Marc Riera" creationdate="20220611T155747Z">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): llenguatge dinàmic per a la màquina virtual del Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Note:&lt;/e0&gt; the above information applies only to PDF files with a text layer.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170359Z" creationid="Marc Riera" creationdate="20210521T170359Z">
@@ -4372,6 +4380,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T203558Z" creationid="Marc Riera" creationdate="20201010T203558Z">
         <seg>Yutaka Kachi (en japonès).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, scripts are stored in the &lt;f0&gt;scripts&lt;/f0&gt; folder located in the OmegaT installation folder (the folder that contains the &lt;f1&gt;OmegaT.jar&lt;/f1&gt; file).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T155649Z" creationid="Marc Riera" creationdate="20220611T155649Z">
+        <seg>Per defecte, els scripts s'emmagatzemen en la carpeta &lt;f0&gt;scripts&lt;/f0&gt; en la carpeta d'instal·lació de l'OmegaT (la carpeta que conté el fitxer &lt;f1&gt;OmegaT.jar&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10465,6 +10481,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If you add new scripts there, they will appear in the list of available scripts in the &lt;g0&gt;Scripting&lt;/g0&gt; window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T155705Z" creationid="Marc Riera" creationdate="20220611T155705Z">
+        <seg>Si hi afegiu nous scripts, apareixeran en la llista de scripts disponibles en la finestra &lt;g0&gt;Scripts&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
@@ -12558,6 +12582,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200726T110359Z" creationid="mgalo" creationdate="20181113T094039Z">
         <seg>Carregueu un projecte per a configurar les regles de les llengües del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Load a script into the editor by clicking its name in the list in the left-hand panel.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T155408Z" creationid="Marc Riera" creationdate="20220611T155408Z">
+        <seg>Feu clic en el nom d'un script en la llista del tauler esquerre per a carregar-lo en l'editor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18097,6 +18129,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-click a button from &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; to &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; in the bottom panel and select &lt;g2&gt;Add Script&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T155458Z" creationid="Marc Riera" creationdate="20220611T155458Z">
+        <seg>Feu clic amb el botó dret en un botó &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; a &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; en el tauler inferior i seleccioneu &lt;g2&gt;Afegeix l'script&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121349Z" creationid="Marc Riera" creationdate="20220611T121349Z">
@@ -19668,6 +19708,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T155726Z" creationid="Marc Riera" creationdate="20220611T155726Z">
+        <seg>Podeu trobar alguns scripts més aquí: &lt;u0&gt;Scripts per a l'OmegaT&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Some alignments still need review.</seg>
@@ -21191,8 +21239,8 @@ la carpeta actual en el seu lloc.</seg>
       <tuv lang="en">
         <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T160453Z" creationid="Packard Bell" creationdate="20150605T160453Z">
-        <seg>La finestra de Scripts us permetrà carregar un script existent en l'àrea de text i executar-lo en el projecte obert en ús.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T154947Z" creationid="Packard Bell" creationdate="20150605T160453Z">
+        <seg>La finestra de scripts us permet carregar un script existent en l'àrea de text i executar-lo en el projecte obert actualment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22639,6 +22687,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T122055Z" creationid="Marc Riera" creationdate="20190925T073442Z">
         <seg>Per a convertir-lo en un projecte en equip nou, obriu-lo en la GUI de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To customize the scripting feature, do the following:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T154956Z" creationid="Marc Riera" creationdate="20220611T154956Z">
+        <seg>Per a personalitzar la funció de scripts, feu el següent:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24731,6 +24787,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you left-click the number, the selected script will run.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T155510Z" creationid="Marc Riera" creationdate="20220611T155510Z">
+        <seg>Quan feu clic amb el botó esquerre en un número, s'executarà l'script seleccionat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Whenever the project is automatically saved, but also when it is opened, closed and reloaded, only two files are actually synchronised:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T213304Z" creationid="Marc Riera" creationdate="20201130T213304Z">
@@ -25375,6 +25439,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
         <seg>També podeu arrossegar manualment el fitxer «OmegaT.exe»
 al menú d'inici, a l'escriptori o a l'àrea d'accés ràpid per a enllaçar-lo des
 d'allà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also start the selected macros from the main menu by using their entries in the &lt;g0&gt;Tools&lt;/g0&gt; menu or by pressing &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;Alt&lt;/k3&gt;&lt;k4&gt;F#&lt;/k4&gt;&lt;/k1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T155611Z" creationid="Marc Riera" creationdate="20220611T155611Z">
+        <seg>També podeu iniciar les macros seleccionades des del menú principal mitjançant les entrades del menú &lt;g0&gt;Eines&lt;/g0&gt; o prement &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;Alt&lt;/k3&gt;&lt;k4&gt;F1-F12&lt;/k4&gt;&lt;/k1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
