@@ -2281,6 +2281,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T160030Z" creationid="Marc Riera" creationdate="20220611T160030Z">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (de vegades abreujat JS, no s'ha de confondre amb el Java): llenguatge de scripts basat en prototips que és dinàmic, amb tipus permissius i ofereix funcions de primera classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Note:&lt;/e0&gt; the above information applies only to PDF files with a text layer.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170359Z" creationid="Marc Riera" creationdate="20210521T170359Z">
@@ -4075,6 +4083,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201121T111254Z" creationid="Marc Riera" creationdate="20201121T111254Z">
         <seg>Abans de continuar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Being the language behind popular software such as Firefox, it is a familiar and preferred programming tool in the open-source domain.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T160112Z" creationid="Marc Riera" creationdate="20220611T160112Z">
+        <seg>Com que és el llenguatge en què es basa programari popular com el Firefox, és una eina de programació familiar i preferida en l'àmbit del codi obert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9012,6 +9028,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>For example, the following Groovy code snippet scans through all the segments in all the files in the current project and, if a translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T160224Z" creationid="Marc Riera" creationdate="20220611T160224Z">
+        <seg>Per exemple, el fragment de codi en Groovy següent consulta tots els segments de tots els fitxers del projecte actual i, si existeix una traducció, retorna el text d'origen i de destinació del segment:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
@@ -11514,8 +11538,8 @@ feu doble clic en la drecera.</seg>
       <tuv lang="en">
         <seg>It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150528T205358Z" creationid="Packard Bell" creationdate="20150528T192517Z">
-        <seg>És un llenguatge multiparadigma, el suport a estils de programació funcional orientat a objectes, imperatiu, i.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220611T160139Z" creationid="Packard Bell" creationdate="20150528T192517Z">
+        <seg>És un llenguatge multiparadigma, compatible amb els estils de programació orientada a objectes, imperativa i funcional.</seg>
       </tuv>
     </tu>
     <tu>
