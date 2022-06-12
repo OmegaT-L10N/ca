@@ -6541,6 +6541,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+V</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201127Z" creationid="Marc Riera" creationdate="20220612T201127Z">
+        <seg>Ctrl+Maj+V</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Ctrl+Shift+W</seg>
@@ -10023,6 +10031,22 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210414T142032Z" creationid="Marc Riera" creationdate="20210414T142032Z">
         <seg>Terme traduït del glossari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary/Display Context Description for TBX Glossaries</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201425Z" creationid="Marc Riera" creationdate="20220612T201425Z">
+        <seg>Glossari/Mostra el context de les entrades dels glossaris TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary/Use Stemming for Glossary Entries</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201449Z" creationid="Marc Riera" creationdate="20220612T201449Z">
+        <seg>Glossari/Utilitza la lematització per a les entrades del glossari</seg>
       </tuv>
     </tu>
     <tu>
@@ -24724,6 +24748,14 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use Terms Appearing Separately in the Source Text</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201440Z" creationid="Marc Riera" creationdate="20220612T201440Z">
+        <seg>Glossari/Utilitza els termes que apareixen separats en el text d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use a Team Project</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212038Z" creationid="Marc Riera" creationdate="20201130T212038Z">
@@ -25057,16 +25089,16 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       <tuv lang="en">
         <seg>Validate Tags</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161819Z" creationid="Packard Bell" creationdate="20150605T161819Z">
-        <seg>Valida les etiquetes</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201124Z" creationid="Packard Bell" creationdate="20150605T161819Z">
+        <seg>Comprova si hi ha errors</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Validate Tags for Current Document</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161821Z" creationid="Packard Bell" creationdate="20150605T161821Z">
-        <seg>Valida les etiquetes per al document en ús</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201139Z" creationid="Packard Bell" creationdate="20150605T161821Z">
+        <seg>Comprova si hi ha errors en el document actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -27850,6 +27882,198 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsAccessConfigDirMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201300Z" creationid="Marc Riera" creationdate="20220612T201300Z">
+        <seg>optionsAccessConfigDirMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201220Z" creationid="Marc Riera" creationdate="20220612T201220Z">
+        <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsAutoCompleteAutoTextMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201231Z" creationid="Marc Riera" creationdate="20220612T201231Z">
+        <seg>optionsAutoCompleteAutoTextMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsAutoCompleteCharTableMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201234Z" creationid="Marc Riera" creationdate="20220612T201234Z">
+        <seg>optionsAutoCompleteCharTableMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsAutoCompleteGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201229Z" creationid="Marc Riera" creationdate="20220612T201229Z">
+        <seg>optionsAutoCompleteGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201228Z" creationid="Marc Riera" creationdate="20220612T201228Z">
+        <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsColorsSelectionMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201237Z" creationid="Marc Riera" creationdate="20220612T201237Z">
+        <seg>optionsColorsSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsExtTMXMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201250Z" creationid="Marc Riera" creationdate="20220612T201250Z">
+        <seg>optionsExtTMXMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsFontSelectionMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201236Z" creationid="Marc Riera" creationdate="20220612T201236Z">
+        <seg>optionsFontSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201222Z" creationid="Marc Riera" creationdate="20220612T201222Z">
+        <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201223Z" creationid="Marc Riera" creationdate="20220612T201223Z">
+        <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201221Z" creationid="Marc Riera" creationdate="20220612T201221Z">
+        <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsRestoreGUIMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201259Z" creationid="Marc Riera" creationdate="20220612T201259Z">
+        <seg>optionsRestoreGUIMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsSaveOptionsMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201256Z" creationid="Marc Riera" creationdate="20220612T201256Z">
+        <seg>optionsSaveOptionsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsSentsegMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201239Z" creationid="Marc Riera" creationdate="20220612T201239Z">
+        <seg>optionsSentsegMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsSetupFileFiltersMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201238Z" creationid="Marc Riera" creationdate="20220612T201238Z">
+        <seg>optionsSetupFileFiltersMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsSpellCheckMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201241Z" creationid="Marc Riera" creationdate="20220612T201241Z">
+        <seg>optionsSpellCheckMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201216Z" creationid="Marc Riera" creationdate="20220612T201216Z">
+        <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsTagValidationMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201246Z" creationid="Marc Riera" creationdate="20220612T201246Z">
+        <seg>optionsTagValidationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsTeamMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201248Z" creationid="Marc Riera" creationdate="20220612T201248Z">
+        <seg>optionsTeamMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsTransTipsEnableMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201225Z" creationid="Marc Riera" creationdate="20220612T201225Z">
+        <seg>optionsTransTipsEnableMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsViewOptionsMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201251Z" creationid="Marc Riera" creationdate="20220612T201251Z">
+        <seg>optionsViewOptionsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsViewOptionsMenuLoginItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201257Z" creationid="Marc Riera" creationdate="20220612T201257Z">
+        <seg>optionsViewOptionsMenuLoginItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsWorkflowMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201245Z" creationid="Marc Riera" creationdate="20220612T201245Z">
+        <seg>optionsWorkflowMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>or open the project with the command line using the &lt;c0&gt;--no-team&lt;/c0&gt; option.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212654Z" creationid="Marc Riera" creationdate="20201130T212654Z">
@@ -28258,10 +28482,50 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>toolsShowStatisticsMatchesMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201147Z" creationid="Marc Riera" creationdate="20220612T201147Z">
+        <seg>toolsShowStatisticsMatchesMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolsShowStatisticsMatchesPerFileMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201149Z" creationid="Marc Riera" creationdate="20220612T201149Z">
+        <seg>toolsShowStatisticsMatchesPerFileMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolsShowStatisticsStandardMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201145Z" creationid="Marc Riera" creationdate="20220612T201145Z">
+        <seg>toolsShowStatisticsStandardMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170357Z" creationid="Marc Riera" creationdate="20220611T170357Z">
         <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolsSingleValidateTagsMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201144Z" creationid="Marc Riera" creationdate="20220612T201144Z">
+        <seg>toolsSingleValidateTagsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolsValidateTagsMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201129Z" creationid="Marc Riera" creationdate="20220612T201129Z">
+        <seg>toolsValidateTagsMenuItem</seg>
       </tuv>
     </tu>
     <tu>
