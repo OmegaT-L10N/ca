@@ -2461,6 +2461,24 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104408Z" creationid="Marc Riera" creationdate="20220612T104408Z">
+        <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt;, &lt;k1&gt;Retorn&lt;/k1&gt; o &lt;k2&gt;Tab&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt; or &lt;k1&gt;Ctrl+Enter&lt;/k1&gt; or &lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104426Z" creationid="Marc Riera" creationdate="20220612T104426Z">
+        <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt;, &lt;k1&gt;Ctrl+Retorn&lt;/k1&gt; o &lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145114Z" creationid="Marc Riera" creationdate="20190924T145114Z">
@@ -6336,6 +6354,15 @@ Demana una altra copa!</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Ctrl+J</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104432Z" creationid="Marc Riera" creationdate="20220612T104432Z">
+        <seg>Ctrl+J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Ctrl+K</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220612T103528Z" creationid="Marc Riera" creationdate="20220612T103528Z">
@@ -6444,6 +6471,42 @@ Demana una altra copa!</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Ctrl+Shift+M</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104520Z" creationid="Marc Riera" creationdate="20220612T104520Z">
+        <seg>Ctrl+Maj+M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+N</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104544Z" creationid="Marc Riera" creationdate="20220612T104544Z">
+        <seg>Ctrl+Maj+N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+P</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104557Z" creationid="Marc Riera" creationdate="20220612T104557Z">
+        <seg>Ctrl+Maj+P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+Q</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104458Z" creationid="Marc Riera" creationdate="20220612T104458Z">
+        <seg>Ctrl+Maj+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Ctrl+Shift+R</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220612T103808Z" creationid="Marc Riera" creationdate="20220612T103511Z">
@@ -6469,11 +6532,12 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Ctrl+Shift+U</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181117T234525Z" creationid="mgalo" creationdate="20181111T225155Z">
-        <seg>Ctrl+Shift+U</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104346Z" creationid="mgalo" creationdate="20181111T225155Z">
+        <seg>Ctrl+Maj+U</seg>
       </tuv>
     </tu>
     <tu>
@@ -6495,6 +6559,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Ctrl+U</seg>
       </tuv>
@@ -7124,8 +7189,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Display for &amp;All Segments</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T095554Z" creationid="mgalo" creationdate="20181112T095554Z">
-        <seg>Mostra per a &amp;tots els segments</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104859Z" creationid="mgalo" creationdate="20181112T095554Z">
+        <seg>Mostra-la per a &amp;tots els segments</seg>
       </tuv>
     </tu>
     <tu>
@@ -7133,8 +7198,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Display for Current &amp;Segment</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T154219Z" creationid="mgalo" creationdate="20181112T095545Z">
-        <seg>Mostra per al &amp;segment actual</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104854Z" creationid="mgalo" creationdate="20181112T095545Z">
+        <seg>Mostra-la per al &amp;segment actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -13908,14 +13973,16 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Modification Info/Display All</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161812Z" creationid="Packard Bell" creationdate="20150605T161812Z">
-        <seg>Informació de modificació/Mostra-la en tots els segments</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104919Z" creationid="Packard Bell" creationdate="20150605T161812Z">
+        <seg>Informació de modificació/Mostra-la per a tots els segments</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Modification Info/Display None</seg>
       </tuv>
@@ -13924,11 +13991,12 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Modification Info/Display Selected</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161811Z" creationid="Packard Bell" creationdate="20150605T161811Z">
-        <seg>Informació de modificació/Mostra-la al segment actual</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104908Z" creationid="Packard Bell" creationdate="20150605T161811Z">
+        <seg>Informació de modificació/Mostra-la per al segment actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -14428,6 +14496,15 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181108T150317Z" creationid="mgalo" creationdate="20181108T150317Z">
         <seg>Se&amp;gment únic següent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Next Unique Segment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104456Z" creationid="Marc Riera" creationdate="20220612T104456Z">
+        <seg>Segment únic següent</seg>
       </tuv>
     </tu>
     <tu>
@@ -20478,6 +20555,15 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>Source of Selected Match</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104517Z" creationid="Marc Riera" creationdate="20220612T104517Z">
+        <seg>Segment d'origen de la coincidència seleccionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>Source segment could not be located for certain translation units.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215010Z" creationid="Marc Riera" creationdate="20180214T224105Z">
@@ -23415,6 +23501,7 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Tools Menu</seg>
       </tuv>
@@ -25109,11 +25196,12 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>View Menu</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T160916Z" creationid="Packard Bell" creationdate="20150605T160916Z">
-        <seg>Menú visualització</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104606Z" creationid="Packard Bell" creationdate="20150605T160916Z">
+        <seg>Menú Visualització</seg>
       </tuv>
     </tu>
     <tu>
@@ -27087,6 +27175,105 @@ creï la carpeta de configuració.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>gotoHistoryBackMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104601Z" creationid="Marc Riera" creationdate="20220612T104601Z">
+        <seg>gotoHistoryBackMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>gotoHistoryForwardMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104554Z" creationid="Marc Riera" creationdate="20220612T104554Z">
+        <seg>gotoHistoryForwardMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>gotoMatchSourceSegment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104523Z" creationid="Marc Riera" creationdate="20220612T104523Z">
+        <seg>gotoMatchSourceSegment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>gotoNextNoteMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104436Z" creationid="Marc Riera" creationdate="20220612T104436Z">
+        <seg>gotoNextNoteMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>gotoNextSegmentMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104410Z" creationid="Marc Riera" creationdate="20220612T104410Z">
+        <seg>gotoNextSegmentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>gotoNextTranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104349Z" creationid="Marc Riera" creationdate="20220612T104349Z">
+        <seg>gotoNextTranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>gotoNextUniqueMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104505Z" creationid="Marc Riera" creationdate="20220612T104505Z">
+        <seg>gotoNextUniqueMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>gotoNextUntranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104340Z" creationid="Marc Riera" creationdate="20220612T104340Z">
+        <seg>gotoNextUntranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>gotoPreviousNoteMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104439Z" creationid="Marc Riera" creationdate="20220612T104439Z">
+        <seg>gotoPreviousNoteMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>gotoPreviousSegmentMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104429Z" creationid="Marc Riera" creationdate="20220612T104429Z">
+        <seg>gotoPreviousSegmentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>gotoSegmentMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104434Z" creationid="Marc Riera" creationdate="20220612T104434Z">
+        <seg>gotoSegmentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>h&amp;reflang (language of links)</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181109T235408Z" creationid="mgalo" creationdate="20181109T235408Z">
@@ -28151,10 +28338,118 @@ creï la carpeta de configuració.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>viewDisplayModificationInfoAllRadioButtonMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104922Z" creationid="Marc Riera" creationdate="20220612T104922Z">
+        <seg>viewDisplayModificationInfoAllRadioButtonMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>viewDisplayModificationInfoNoneRadioButtonMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104738Z" creationid="Marc Riera" creationdate="20220612T104738Z">
+        <seg>viewDisplayModificationInfoNoneRadioButtonMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>viewDisplayModificationInfoSelectedRadioButtonMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104912Z" creationid="Marc Riera" creationdate="20220612T104912Z">
+        <seg>viewDisplayModificationInfoSelectedRadioButtonMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>viewDisplaySegmentSourceCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104708Z" creationid="Marc Riera" creationdate="20220612T104708Z">
+        <seg>viewDisplaySegmentSourceCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>viewFileListMenuItem</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220612T103312Z" creationid="Marc Riera" creationdate="20220611T170817Z">
         <seg>viewFileListMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>viewMarkAutoPopulatedCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104722Z" creationid="Marc Riera" creationdate="20220612T104722Z">
+        <seg>viewMarkAutoPopulatedCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>viewMarkBidiCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104720Z" creationid="Marc Riera" creationdate="20220612T104720Z">
+        <seg>viewMarkBidiCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>viewMarkNBSPCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104715Z" creationid="Marc Riera" creationdate="20220612T104715Z">
+        <seg>viewMarkNBSPCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>viewMarkNonUniqueSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104710Z" creationid="Marc Riera" creationdate="20220612T104710Z">
+        <seg>viewMarkNonUniqueSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>viewMarkNotedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104712Z" creationid="Marc Riera" creationdate="20220612T104712Z">
+        <seg>viewMarkNotedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>viewMarkTranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104703Z" creationid="Marc Riera" creationdate="20220612T104703Z">
+        <seg>viewMarkTranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>viewMarkUntranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104706Z" creationid="Marc Riera" creationdate="20220612T104706Z">
+        <seg>viewMarkUntranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>viewMarkWhitespaceCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104717Z" creationid="Marc Riera" creationdate="20220612T104717Z">
+        <seg>viewMarkWhitespaceCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
