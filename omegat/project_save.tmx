@@ -6478,6 +6478,7 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Default shortcut</seg>
       </tuv>
@@ -8644,6 +8645,15 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>F1</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T103138Z" creationid="Marc Riera" creationdate="20220612T103138Z">
+        <seg>F1</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>F5</seg>
       </tuv>
@@ -10002,6 +10012,7 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Help Menu</seg>
       </tuv>
@@ -13475,6 +13486,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Menu Item</seg>
       </tuv>
@@ -13483,6 +13495,7 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Menu Item Code</seg>
       </tuv>
@@ -17029,6 +17042,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Project Menu</seg>
       </tuv>
@@ -24455,6 +24469,7 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>User Manual...</seg>
       </tuv>
@@ -26539,6 +26554,42 @@ creï la carpeta de configuració.</seg>
     <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
+        <seg>helpAboutMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T103159Z" creationid="Marc Riera" creationdate="20220612T103159Z">
+        <seg>helpAboutMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>helpContentsMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T103155Z" creationid="Marc Riera" creationdate="20220612T103155Z">
+        <seg>helpContentsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>helpLastChangesMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T103202Z" creationid="Marc Riera" creationdate="20220612T103202Z">
+        <seg>helpLastChangesMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>helpLogMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220612T103205Z" creationid="Marc Riera" creationdate="20220612T103205Z">
+        <seg>helpLogMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
         <seg>href (URL of &amp;links)</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181109T235311Z" creationid="mgalo" creationdate="20181109T235311Z">
@@ -27172,6 +27223,7 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>projectNewMenuItem</seg>
       </tuv>
@@ -27882,6 +27934,7 @@ creï la carpeta de configuració.</seg>
       <prop type="file">doc_src/App_ShortCutCustomization.xml</prop>
       <prop type="prev">New</prop>
       <prop type="next">projectNewMenuItem</prop>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Ctrl+Shift+N</seg>
       </tuv>
