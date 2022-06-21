@@ -3433,6 +3433,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Alternatively, you can select a word or phrase in the Editor pane, Fuzzy matches pane or Glossary pane and hit &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T200641Z" creationid="Marc Riera" creationdate="20220621T200606Z">
+        <seg>Com a alternativa, podeu seleccionar una paraula o expressió de les subfinestres «Editor», «Coincidències parcials» o «Glossari» i prémer &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
@@ -5326,6 +5334,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T193820Z" creationid="mgalo" creationdate="20181113T181304Z">
         <seg>Feu clic a &lt;g1&gt;Copia fitxers a la carpeta de fitxers d'origen...&lt;/g1&gt; per a seleccionar els fitxers d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the dropdown arrow of the &lt;g0&gt;Search for&lt;/g0&gt; box to access the last 10 searches.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T200844Z" creationid="Marc Riera" creationdate="20220621T200844Z">
+        <seg>Feu clic en la fletxa desplegable del quadre &lt;g0&gt;Cerca&lt;/g0&gt; per a accedir a les últimes 10 cerques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9135,6 +9151,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T151412Z" creationid="Marc Riera" creationdate="20180214T224707Z">
         <seg>&amp;Format del fitxer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File &gt; Search for selection (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): refocus on the search field and select all its contents.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T201359Z" creationid="Marc Riera" creationdate="20220621T201359Z">
+        <seg>Fitxer &gt; Cerca la selecció (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): canvia el focus al camp de cerca i en selecciona tot el contingut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16073,6 +16097,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Open the Search window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; and enter the word or phrase you wish to search for in the &lt;g3&gt;Search for&lt;/g3&gt; box.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T200500Z" creationid="Marc Riera" creationdate="20220621T200500Z">
+        <seg>Obriu la finestra de cerca amb &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; i escriviu la paraula o expressió que voleu cercar en el quadre &lt;g3&gt;Cerca&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Open {0} Source Files</seg>
@@ -21941,6 +21973,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The Search window has its own menus:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T200849Z" creationid="Marc Riera" creationdate="20220621T200849Z">
+        <seg>La finestra de cerca té els seus propis menús:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
@@ -22687,6 +22727,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T135240Z" creationid="Marc Riera" creationdate="20201125T135240Z">
         <seg>Versió perquè l'instal·li l'usuari, familiar per als usuaris existents de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The word or phrase is entered in the &lt;g3&gt;Search for&lt;/g3&gt; box automatically.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T200754Z" creationid="Marc Riera" creationdate="20220621T200754Z">
+        <seg>La paraula o expressió s'introdueix en el quadre &lt;g3&gt;Cerca&lt;/g3&gt; automàticament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26226,6 +26274,14 @@ trobar el text de la llicència a /docs/OmegaT-license.txt</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T123130Z" creationid="Marc Riera" creationdate="20190520T123130Z">
         <seg>Podeu anar a la &lt;a0&gt;pàgina d'inici&lt;/a0&gt; i potser hi trobareu la informació que necessiteu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can have several Search windows open at the same time, but close them when they are no longer needed so that they do not clutter your desktop.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T200828Z" creationid="Marc Riera" creationdate="20220621T200828Z">
+        <seg>Podeu tenir diverses finestres de cerca obertes alhora, però tanqueu-les quan ja no siguin necessàries per a no tenir massa espai ocupat en l'escriptori.</seg>
       </tuv>
     </tu>
     <tu>
