@@ -2493,6 +2493,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;Regular expressions&lt;/l0&gt; are a powerful way to look for instances of a string.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T204307Z" creationid="Marc Riera" creationdate="20220621T204307Z">
+        <seg>Les &lt;l0&gt;expressions regulars&lt;/l0&gt; són una manera potent de cercar repeticions d'una cadena.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
@@ -3150,6 +3158,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Additionally to one of the methods above you can select the following:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T204314Z" creationid="Marc Riera" creationdate="20220621T204314Z">
+        <seg>A més d'un dels mètodes anteriors, podeu seleccionar el següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Administration</seg>
@@ -3627,6 +3643,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190925T071438Z" creationid="Marc Riera" creationdate="20190925T071438Z">
         <seg>S'ha produït un error en intentar executar el procés de la consola: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An exact search looks for a phrase, i.e. if several words are entered, they are found only if they occur in exactly that sequence.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T204135Z" creationid="Marc Riera" creationdate="20220621T204135Z">
+        <seg>Una cerca exacta cerca una expressió; és a dir, si indiqueu diverses paraules, només es trobaran si apareixen exactament en la mateixa seqüència.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12578,6 +12602,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Keyword searches are similar to a search "with all of the words" in an Internet search engine such as Google (AND logic).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T204237Z" creationid="Marc Riera" creationdate="20220621T204237Z">
+        <seg>Les cerques per paraules clau són similars a una cerca "amb totes les paraules" en un motor de cerca d'Internet, com Google (lògica AND).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
@@ -15521,6 +15553,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210717T092353Z" creationid="Marc Riera" creationdate="20210717T092353Z">
         <seg>Tema per defecte de l'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT displays a list of all segments containing all of the words specified.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T204218Z" creationid="Marc Riera" creationdate="20220621T204218Z">
+        <seg>L'OmegaT mostra una llista de tots els segments que contenen totes les paraules especificades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19473,6 +19513,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search for segments containing all keywords you specified, in any order.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T204155Z" creationid="Marc Riera" creationdate="20220621T204155Z">
+        <seg>Cerca els segments que continguin totes les paraules clau que heu especificat, en qualsevol ordre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search for segments containing the exact string you specified.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T203911Z" creationid="Marc Riera" creationdate="20220621T203911Z">
@@ -20034,6 +20082,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T184651Z" creationid="Marc Riera" creationdate="20191112T232544Z">
         <seg>Seleccioneu els tipus d'errors que es comprovaran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select keyword search to search for any number of individual full words, in any order.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T204208Z" creationid="Marc Riera" creationdate="20220621T204208Z">
+        <seg>Seleccioneu la cerca per paraules clau per a cercar qualsevol nombre de paraules completes individualment, en qualsevol ordre.</seg>
       </tuv>
     </tu>
     <tu>
