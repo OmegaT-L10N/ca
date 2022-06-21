@@ -2376,6 +2376,70 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Search in Files&lt;/g0&gt;: search in a single file or a folder containing a set of files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T205750Z" creationid="Marc Riera" creationdate="20220621T205750Z">
+        <seg>&lt;g0&gt;Cerca a &gt; Fitxers&lt;/g0&gt;: cerca en un únic fitxer o en una carpeta que contingui diversos fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Translated or untranslated&lt;/g0&gt;: search in both translated and untranslated segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T205919Z" creationid="Marc Riera" creationdate="20220621T205919Z">
+        <seg>&lt;g0&gt;Traduït o sense traduir&lt;/g0&gt;: cerca tant en els segments traduïts com en els sense traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Translated&lt;/g0&gt;: search only in translated segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T205852Z" creationid="Marc Riera" creationdate="20220621T205852Z">
+        <seg>&lt;g0&gt;Traduït&lt;/g0&gt;: cerca només en els segments traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Untranslated&lt;/g0&gt;: search only in untranslated segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T205830Z" creationid="Marc Riera" creationdate="20220621T205830Z">
+        <seg>&lt;g0&gt;Sense traduir&lt;/g0&gt;: cerca només en els segments sense traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;in comments&lt;/g0&gt;: search in comments to segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T210013Z" creationid="Marc Riera" creationdate="20220621T210013Z">
+        <seg>&lt;g0&gt;En els comentaris&lt;/g0&gt;: cerca en els comentaris dels segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;in notes&lt;/g0&gt;: search in notes to segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T205959Z" creationid="Marc Riera" creationdate="20220621T205959Z">
+        <seg>&lt;g0&gt;En les notes&lt;/g0&gt;: cerca en les notes dels segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;in source&lt;/g0&gt;: search in the source segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T210041Z" creationid="Marc Riera" creationdate="20220621T210041Z">
+        <seg>&lt;g0&gt;En el text d'origen&lt;/g0&gt;: cerca en els segments d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;in translations&lt;/g0&gt;: search in the target segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T210023Z" creationid="Marc Riera" creationdate="20220621T205942Z">
+        <seg>&lt;g0&gt;En la traducció&lt;/g0&gt;: cerca en els segments de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
