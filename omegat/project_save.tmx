@@ -2669,6 +2669,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>A file might have no matching entries, so it will show empty.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T202608Z" creationid="Marc Riera" creationdate="20220621T202608Z">
+        <seg>Si un fitxer no té cap entrada coincident, es mostrarà buit.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
@@ -9364,6 +9372,14 @@ els fils de teranyina t'aparten.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filter entries in editor according to search</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T202533Z" creationid="Marc Riera" creationdate="20220621T202533Z">
+        <seg>Filtre d'entrades en l'editor segons la cerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter options</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224328Z" creationid="Marc Riera" creationdate="20220130T224328Z">
@@ -10901,6 +10917,14 @@ no cal introduir el camí complet.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T220052Z" creationid="mgalo" creationdate="20181114T121817Z">
         <seg>Si un fitxer no es carrega en la subfinestra &lt;g0&gt;Editor&lt;/g0&gt;, pot ser que tingui un format incompatible amb l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T202624Z" creationid="Marc Riera" creationdate="20220621T202624Z">
+        <seg>Si una cerca suprimeix els duplicats, aquests duplicats no apareixeran en l'editor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14423,6 +14447,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T164033Z" creationid="mgalo" creationdate="20181113T094910Z">
         <seg>MyMemory (traducció automàtica)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>NB:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T202543Z" creationid="Marc Riera" creationdate="20220621T202543Z">
+        <seg>Nota:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19450,6 +19482,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Search results display</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T202500Z" creationid="Marc Riera" creationdate="20220621T202500Z">
+        <seg>Visualització dels resultats de la cerca</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Search thread died unexpectedly!</seg>
@@ -22627,6 +22667,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The segments are displayed in order of appearance in the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T202507Z" creationid="Marc Riera" creationdate="20220621T202507Z">
+        <seg>Els segments es mostren en l'ordre d'aparició en el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The server is not a valid Apertium server.</seg>
@@ -23573,6 +23621,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T193707Z" creationid="mgalo" creationdate="20181115T115730Z">
         <seg>Per a veure els paràmetres inicials del projecte, premeu &lt;k0&gt;Ctrl+E&lt;/k0&gt; per a obrir el quadre de diàleg Propietats del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To remove a filter, press the &lt;g0&gt;Remove filter&lt;/g0&gt; button, or reload a project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T202659Z" creationid="Marc Riera" creationdate="20220621T202659Z">
+        <seg>Per a suprimir un filtre, seleccioneu el botó &lt;g0&gt;Suprimeix el filtre&lt;/g0&gt; o torneu a carregar un projecte.</seg>
       </tuv>
     </tu>
     <tu>
