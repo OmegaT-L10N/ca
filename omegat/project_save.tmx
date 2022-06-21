@@ -7891,6 +7891,30 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Edit &gt; Create Glossary Entry (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): add a new glossary item.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T201630Z" creationid="Marc Riera" creationdate="20220621T201630Z">
+        <seg>Edita &gt; Crea una entrada en el glossari (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Maj&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): afegeix un terme al glossari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit &gt; Insert source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): insert current segment source.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T201514Z" creationid="Marc Riera" creationdate="20220621T201514Z">
+        <seg>Edita &gt; Insereix el text d'origen (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Maj&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): insereix el text d'origen del segment actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit &gt; Replace with source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;): replace with current segment source.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T201546Z" creationid="Marc Riera" creationdate="20220621T201546Z">
+        <seg>Edita &gt; Substitueix pel text d'origen (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Maj&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;): aplica una substitució pel text d'origen del segment actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Edit External Search Command</seg>
@@ -9151,6 +9175,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T151412Z" creationid="Marc Riera" creationdate="20180214T224707Z">
         <seg>&amp;Format del fitxer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File &gt; Close (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): close the search window (in the same way as &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T201431Z" creationid="Marc Riera" creationdate="20220621T201431Z">
+        <seg>Fitxer &gt; Tanca (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): tanca la finestra de cerca (de la mateixa manera que &lt;k3&gt;Esc&lt;/k3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19395,6 +19427,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search methods and options</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T201652Z" creationid="Marc Riera" creationdate="20220621T201652Z">
+        <seg>Mètodes i paràmetres de cerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search options</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T162756Z" creationid="Packard Bell" creationdate="20150605T162756Z">
@@ -19923,6 +19963,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220307T225126Z" creationid="Marc Riera" creationdate="20220307T225126Z">
         <seg>Seleccioneu el primer segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the method using the radio buttons.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T201658Z" creationid="Marc Riera" creationdate="20220621T201658Z">
+        <seg>Seleccioneu el mètode amb els botons d'opció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22246,6 +22294,14 @@ en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The following search methods are available:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T201710Z" creationid="Marc Riera" creationdate="20220621T201710Z">
+        <seg>Estan disponibles els mètodes de cerca següents:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The following tutorials are available online/for download:</seg>
@@ -22560,6 +22616,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223145Z" creationid="Marc Riera" creationdate="20201003T223145Z">
         <seg>L'script es tancarà immediatament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The search string will be treated as a regular expression.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T201823Z" creationid="Marc Riera" creationdate="20220621T201823Z">
+        <seg>La cadena de cerca es tractarà com una expressió regular.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25151,6 +25215,14 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Using wild cards</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T201639Z" creationid="Marc Riera" creationdate="20220621T201639Z">
+        <seg>Ús de comodins</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Utilities</seg>
@@ -27218,6 +27290,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>exact search</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T201721Z" creationid="Marc Riera" creationdate="20220621T201721Z">
+        <seg>Cerca exacta</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>extensions:</seg>
@@ -27859,6 +27939,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>keyword search</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T201810Z" creationid="Marc Riera" creationdate="20220621T201810Z">
+        <seg>Cerca per paraules clau</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>lan&amp;g (language attribute)</seg>
@@ -28420,6 +28508,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225531Z" creationid="Marc Riera" creationdate="20201003T225531Z">
         <seg>project_stats_match.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>regular expressions</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220621T201818Z" creationid="Marc Riera" creationdate="20220621T201818Z">
+        <seg>Expressions regulars</seg>
       </tuv>
     </tu>
     <tu>
