@@ -7065,6 +7065,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Depending on the pane status, different signs can appear at its top right corner:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163643Z" creationid="Marc Riera" creationdate="20220625T163643Z">
+        <seg>Depenent de l'estat de la subfinestra, poden aparèixer diferents icones en la cantonada superior dreta:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Description</seg>
@@ -11800,6 +11808,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>In that case, yy is the number of other occurrences of the segment in the project.&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164337Z" creationid="Marc Riera" creationdate="20220625T164337Z">
+        <seg>En aquest cas, «yy» és el nombre de repeticions del segment en el projecte.&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
@@ -11812,8 +11828,16 @@ feu doble clic en la drecera.</seg>
       <tuv lang="en">
         <seg>In the Editor, the translation is displayed as &lt;EMPTY&gt;</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163339Z" creationid="Marc Riera" creationdate="20220625T163339Z">
-        <seg>En l'editor, la traducció es mostra com  aslt;BUIT&gt;</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163404Z" creationid="Marc Riera" creationdate="20220625T163339Z">
+        <seg>En l'editor, la traducció es mostra com &lt;TRADUCCIÓ BUIDA&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the above case, the segments already translated are shown in yellow.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164304Z" creationid="Marc Riera" creationdate="20220625T164304Z">
+        <seg>En el cas anterior, els segments ja traduïts es mostren de color groc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12483,6 +12507,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>It is possible to drag and drop files to each pane, which will react accordingly.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163733Z" creationid="Marc Riera" creationdate="20220625T163733Z">
+        <seg>És possible arrossegar i deixar anar fitxers a cada subfinestra, que reaccionarà en conseqüència.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>It is recommended for serious developers and testers only.</seg>
@@ -12506,6 +12538,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T071712Z" creationid="Marc Riera" creationdate="20201125T140840Z">
         <seg>És la versió recomanada per als usuaris nous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is the segment that is displayed in two parts.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164311Z" creationid="Marc Riera" creationdate="20220625T164311Z">
+        <seg>És el segment que es mostra en dues parts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16359,6 +16399,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>One of the above segments is the current segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164307Z" creationid="Marc Riera" creationdate="20220625T164307Z">
+        <seg>Un dels segments anteriors és el segment actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>One of the most useful things OmegaT users can do is... to use OmegaT.</seg>
@@ -16794,6 +16842,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083622Z" creationid="Marc Riera" creationdate="20180221T114657Z">
         <seg>La resta de col·laboracions es detallen en el fitxer «readme.txt».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other dropped files will be copied to the &lt;f1&gt;source&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163754Z" creationid="Marc Riera" creationdate="20220625T163754Z">
+        <seg>La resta de fitxers que hi deixeu anar es copiaran a la carpeta &lt;f1&gt;source&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22412,6 +22468,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The Editor pane displays the text of the partially translated document: the text already translated is displayed in translation while the untranslated text is displayed in the original language.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164250Z" creationid="Marc Riera" creationdate="20220625T164250Z">
+        <seg>La subfinestra Editor mostra el text del document traduït parcialment: el text ja traduït es mostra en la llengua de traducció, mentre que el text sense traduir es mostra en la llengua original.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The HTML user manual for OmegaT standard version.</seg>
@@ -23002,6 +23066,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The main window consists of several panes, the main menu and a status bar.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163559Z" creationid="Marc Riera" creationdate="20220625T163559Z">
+        <seg>La finestra principal consta de diverses subfinestres, el menú principal i una barra d'estat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The matches will be displayed in bold blue.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T203806Z" creationid="Marc Riera" creationdate="20220621T203806Z">
@@ -23224,6 +23296,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T202507Z" creationid="Marc Riera" creationdate="20220621T202507Z">
         <seg>Els segments es mostren en l'ordre d'aparició en el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The separators between the panes can be dragged to resize panes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163715Z" creationid="Marc Riera" creationdate="20220625T163715Z">
+        <seg>Els separadors entre les subfinestres es poden arrossegar per a canviar la mida de les subfinestres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23707,6 +23787,14 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>This applies also to the &lt;l2&gt;Project files&lt;/l2&gt; window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163806Z" creationid="Marc Riera" creationdate="20220625T163806Z">
+        <seg>Això també s'aplica a la finestra &lt;l2&gt;Fitxers del projecte&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This call MUST NOT be in swing thread</seg>
@@ -23871,6 +23959,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T143622Z" creationid="Marc Riera" creationdate="20180221T112056Z">
         <seg>Aquest és l'aspecte que tindrà el text en mostrar-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is where you type and edit your translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163812Z" creationid="Marc Riera" creationdate="20220625T163812Z">
+        <seg>Aquí és on escriviu i editeu la traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26258,6 +26354,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>When this is done the panes display a tab at the top.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163708Z" creationid="Marc Riera" creationdate="20220625T163708Z">
+        <seg>Quan feu això, les subfinestres mostren una pestanya a la part superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>When unavailable, the ID will be used as a fallback</seg>
@@ -26953,6 +27057,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T164447Z" creationid="Marc Riera" creationdate="20220611T164447Z">
         <seg>Podeu canviar les dreceres ja assignades i afegir dreceres noves desant un fitxer de definició de drecera a carpeta de preferències de l'OmegaT (accessible des del menú &lt;m0&gt; &lt;g1&gt;Opcions&lt;/g1&gt; &lt;g2&gt;Accedeix a la carpeta de configuració&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the position of any pane or even undock it to a separate window by clicking and dragging the pane by its name.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163626Z" creationid="Marc Riera" creationdate="20220625T163626Z">
+        <seg>Podeu canviar la posició de qualsevol subfinestra o fins i tot desacoblar-la a una finestra independent fent clic i arrossegant la subfinestra pel seu nom.</seg>
       </tuv>
     </tu>
     <tu>
