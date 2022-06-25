@@ -3580,6 +3580,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>An OmegaT project is a folder containing files and subfolders.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164743Z" creationid="Marc Riera" creationdate="20220625T164743Z">
+        <seg>Un projecte de l'OmegaT és una carpeta que conté fitxers i subcarpetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>An error occurred</seg>
@@ -13846,6 +13854,22 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Main Window - counters</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164533Z" creationid="Marc Riera" creationdate="20220625T164533Z">
+        <seg>Finestra principal: recompte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make a slight change anywhere in the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T165005Z" creationid="Marc Riera" creationdate="20220625T165005Z">
+        <seg>Feu un petit canvi en qualsevol part del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Manage Right-To-Left languages</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170437Z" creationid="Marc Riera" creationdate="20210521T170437Z">
@@ -15407,6 +15431,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Note that the structure of the source subfolder may take any form you like.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164821Z" creationid="Marc Riera" creationdate="20220625T164821Z">
+        <seg>Tingueu en compte que l'estructura de la subcarpeta «source» pot ser la que vulgueu.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
@@ -16039,6 +16071,14 @@ actualitzats.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT is able to store translations that are identical to the source.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164435Z" creationid="Marc Riera" creationdate="20220625T164435Z">
+        <seg>L'OmegaT pot emmagatzemar traduccions idèntiques al text d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT is an open-source application and project.</seg>
@@ -16598,6 +16638,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T200500Z" creationid="Marc Riera" creationdate="20220621T200500Z">
         <seg>Obriu la finestra de cerca amb &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; i escriviu la paraula o expressió que voleu cercar en el quadre &lt;g3&gt;Cerca&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164948Z" creationid="Marc Riera" creationdate="20220625T164948Z">
+        <seg>Obriu el projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18253,6 +18301,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T143733Z" creationid="Marc Riera" creationdate="20191112T230417Z">
         <seg>S'ha produït un error en l'enviament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put the TMX in &lt;f0&gt;tm/auto&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T165036Z" creationid="Marc Riera" creationdate="20220625T165036Z">
+        <seg>Col·loqueu el fitxer TMX en la carpeta &lt;f0&gt;/tm/auto&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put the TMX in &lt;f0&gt;tm/enforce&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T165043Z" creationid="Marc Riera" creationdate="20220625T165043Z">
+        <seg>Col·loqueu el fitxer TMX en la carpeta &lt;f0&gt;/tm/enforce&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22743,6 +22807,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The changes are displayed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164958Z" creationid="Marc Riera" creationdate="20220625T164958Z">
+        <seg>Es mostren els canvis.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
@@ -23222,6 +23294,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The project in the example is evidently finished, as all the unique segments have been translated.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164607Z" creationid="Marc Riera" creationdate="20220625T164607Z">
+        <seg>El projecte de l'exemple, evidentment, està acabat, ja que s'han traduït tots els segments únics.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The project was converted successfully.</seg>
@@ -23346,6 +23426,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215008Z" creationid="Marc Riera" creationdate="20180214T223325Z">
         <seg>La llengua dels fitxers d'origen que heu especificat no és vàlida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source subfolder contains files to be translated.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164805Z" creationid="Marc Riera" creationdate="20220625T164805Z">
+        <seg>La subcarpeta «source» conté els fitxers que s'han de traduir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23963,6 +24051,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is useful for documents that contain trade marks, names or other proper nouns, or parts in a third language that do not require translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164457Z" creationid="Marc Riera" creationdate="20220625T164457Z">
+        <seg>Això és útil per als documents que contenen marques, noms o altres noms propis, o bé parts en una tercera llengua que no cal traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is where you type and edit your translation.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163812Z" creationid="Marc Riera" creationdate="20220625T163812Z">
@@ -24071,6 +24167,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T184638Z" creationid="Marc Riera" creationdate="20191110T184607Z">
         <seg>Aquest lloc també està disponible en català!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This subfolder is initially empty.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164833Z" creationid="Marc Riera" creationdate="20220625T164833Z">
+        <seg>Inicialment, aquesta subcarpeta està buida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25479,6 +25583,14 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Untranslated segments will hereby remain in the source language.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164852Z" creationid="Marc Riera" creationdate="20220625T164852Z">
+        <seg>Els segments sense traduïr romandran en la llengua original.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Updated</seg>
@@ -26385,6 +26497,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T155510Z" creationid="Marc Riera" creationdate="20220611T155510Z">
         <seg>Quan feu clic amb el botó esquerre en un número, s'executarà l'script seleccionat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you move to another segment, the translation is validated and stored.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164355Z" creationid="Marc Riera" creationdate="20220625T164355Z">
+        <seg>Quan us desplaceu a un altre segment, la traducció es valida i s'emmagatzema.</seg>
       </tuv>
     </tu>
     <tu>
