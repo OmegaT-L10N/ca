@@ -3502,6 +3502,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Allows the user create an entry in the default glossary file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T162712Z" creationid="Marc Riera" creationdate="20220625T162712Z">
+        <seg>Permet a l'usuari crear una entrada en el fitxer de glossari per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
@@ -7005,6 +7013,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Define the translation as being empty.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163325Z" creationid="Marc Riera" creationdate="20220625T163325Z">
+        <seg>Defineix la traducció com a buida.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Degree thesis by Sébastien Guillardeau, 2010 (in German).</seg>
@@ -9043,6 +9059,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161512Z" creationid="Packard Bell" creationdate="20150605T161512Z">
         <seg>Exporta la selecció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exports the current selection to a text file for processing.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T162522Z" creationid="Marc Riera" creationdate="20220625T162522Z">
+        <seg>Exporta la selecció actual a un fitxer de text per al processament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11238,6 +11262,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If no text has been selected, the current source segment is written to this file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T162538Z" creationid="Marc Riera" creationdate="20220625T162538Z">
+        <seg>Si no s'ha seleccionat cap text, s'escriu el segment d'origen actual en aquest fitxer.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If not, or if you are not sure, select "with JRE".</seg>
@@ -11777,6 +11809,22 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>In the Editor, the translation is displayed as &lt;EMPTY&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163339Z" creationid="Marc Riera" creationdate="20220625T163339Z">
+        <seg>En l'editor, la traducció es mostra com  aslt;BUIT&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the target document, nothing will appear for this segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163330Z" creationid="Marc Riera" creationdate="20220625T163330Z">
+        <seg>En el document de destinació, no apareixerà res per a aquest segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
@@ -12003,10 +12051,34 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Inserts only one tag (among the missing ones) at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T162514Z" creationid="Marc Riera" creationdate="20220625T162514Z">
+        <seg>Insereix només una etiqueta (entre les que falten) en la posició del cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Inserts the currently selected fuzzy match at the cursor position.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161924Z" creationid="Marc Riera" creationdate="20220625T161924Z">
         <seg>Insereix la coincidència parcial seleccionada en la posició del cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the source at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T162447Z" creationid="Marc Riera" creationdate="20220625T162447Z">
+        <seg>Insereix el text d'origen en la posició del cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the source tags (if they where missing) at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T162502Z" creationid="Marc Riera" creationdate="20220625T162502Z">
+        <seg>Insereix les etiquetes del text d'origen (si falten) en la posició del cursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15018,8 +15090,8 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       <tuv lang="en">
         <seg>No action is taken, if no Machine Translation service has been activated (in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Machine Translate&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T162340Z" creationid="Marc Riera" creationdate="20220625T162340Z">
-        <seg>No es fa cap acció si no s'ha activat cap servei de traducció automàtica (&lt;m0&gt;Opcions&lt;g1&gt; &lt;/g1&gt;Traducció automàtica&lt;g2&gt; &lt;/g2&gt;).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T162405Z" creationid="Marc Riera" creationdate="20220625T162340Z">
+        <seg>No es fa cap acció si no s'ha activat cap servei de traducció automàtica (&lt;m0&gt; &lt;g1&gt;Opcions&lt;/g1&gt; &lt;g2&gt;Traducció automàtica&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18813,6 +18885,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Replace with Source</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T162419Z" creationid="Marc Riera" creationdate="20220625T162419Z">
+        <seg>Substitueix pel text d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Replace with:</seg>
@@ -18835,6 +18915,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161845Z" creationid="Marc Riera" creationdate="20220625T161845Z">
         <seg>Substitueix tot el segment de destinació per la coincidència parcial seleccionada (per defecte, se selecciona la primera coincidència).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replaces the whole target segment with the source.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T162429Z" creationid="Marc Riera" creationdate="20220625T162429Z">
+        <seg>Substitueix tot el segment de destinació pel text d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22705,6 +22793,14 @@ en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The exported contents are copied to the file &lt;f0&gt;selection.txt&lt;/f0&gt; located in the User's preference files folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T162702Z" creationid="Marc Riera" creationdate="20220625T162702Z">
+        <seg>Els continguts exportats es copien al fitxer &lt;f0&gt;selection.txt&lt;/f0&gt;, situat a la carpeta de fitxers de preferències de l'usuari.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The file "{0}" is not supported.</seg>
@@ -26151,6 +26247,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T150908Z" creationid="Marc Riera" creationdate="20220506T150908Z">
         <seg>Quan les dues columnes estiguin prou alineades, feu clic a &lt;g0&gt;Desa en TMX...&lt;/g0&gt; per a crear la memòria de traducció resultant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the user exits OmegaT, this file is not emptied, in order to be consistent with usual clipboard behavior.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T162633Z" creationid="Marc Riera" creationdate="20220625T162633Z">
+        <seg>Quan l'usuari surt de l'OmegaT, no se suprimeix el contingut del fitxer, per tal de mantenir la coherència amb el comportament habitual del porta-retalls.</seg>
       </tuv>
     </tu>
     <tu>
