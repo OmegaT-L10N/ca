@@ -5326,6 +5326,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Checks to see whether a more recent version of OmegaT has been released.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T160644Z" creationid="Marc Riera" creationdate="20220625T160644Z">
+        <seg>Comprova si s'ha publicat una versió més recent de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Chinese</seg>
@@ -5478,6 +5486,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121155Z" creationid="Marc Riera" creationdate="20220611T121155Z">
         <seg>Si feu clic en qualsevol fitxer, s'obrirà per a traduir-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clicking on one will save the current project, close it and open the other project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T160921Z" creationid="Marc Riera" creationdate="20220625T160921Z">
+        <seg>En fer clic en un dels projectes, es desarà el projecte actual, es tancarà i s'obrirà l'altre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6113,6 +6129,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Copies the selected files to the &lt;f0&gt;source&lt;/f0&gt; folder and reloads the project to load the new files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161129Z" creationid="Marc Riera" creationdate="20220625T161129Z">
+        <seg>Copia els fitxers seleccionats a la carpeta &lt;f0&gt;source&lt;/f0&gt; i torna a carregar el projecte per a carregar els fitxers nous.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Copy</seg>
@@ -6128,6 +6152,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214823Z" creationid="Marc Riera" creationdate="20180210T213447Z">
         <seg>Copia fitxers a la carpeta de fitxers d'origen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the text and paste it into the translated version of the Wikipedia page.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161149Z" creationid="Marc Riera" creationdate="20220625T161149Z">
+        <seg>Copieu el text i enganxeu-lo en la versió traduïda de la pàgina de la Viquipèdia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6371,6 +6403,22 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200121T223307Z" creationid="Marc Riera" creationdate="20200121T223307Z">
         <seg>Data de creació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creates a local copy of a remote OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T160731Z" creationid="Marc Riera" creationdate="20220625T160731Z">
+        <seg>Crea una còpia local d'un projecte remot de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creates and opens a new project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T160726Z" creationid="Marc Riera" creationdate="20220625T160726Z">
+        <seg>Crea i obre un projecte nou.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10096,6 +10144,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T185212Z" creationid="Marc Riera" creationdate="20191113T180008Z">
         <seg>S'ha iniciat l'execució del Git «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Give access to the ten last edited projects.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T160859Z" creationid="Marc Riera" creationdate="20220625T160859Z">
+        <seg>Proporciona accés als deu darrers projectes editats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14692,6 +14748,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>New translation memories placed in the &lt;f0&gt;tm&lt;/f0&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161247Z" creationid="Marc Riera" creationdate="20220625T161247Z">
+        <seg>Les memòries de traducció noves que col·loqueu a la carpeta &lt;f0&gt;tm&lt;/f0&gt; mentre traduïu es carreguen automàticament tan aviat com el cursor passa d'un segment a un altre.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>New users of OmegaT are encouraged to make any suggestions here.</seg>
@@ -15582,6 +15646,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT automatically saves translations every 3 minutes as well as when you close the project or quit OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161317Z" creationid="Marc Riera" creationdate="20220625T161317Z">
+        <seg>L'OmegaT desa automàticament les traduccions cada 3 minuts i quan tanqueu el projecte o sortiu de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
@@ -16393,6 +16465,14 @@ Runtime Environment (JRE) en el sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens a previously created project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T160843Z" creationid="Marc Riera" creationdate="20220625T160843Z">
+        <seg>Obre un projecte creat anteriorment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210521T171014Z" creationid="Marc Riera" creationdate="20210521T171014Z">
@@ -16422,6 +16502,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T221134Z" creationid="Marc Riera" creationdate="20201130T221134Z">
         <seg>Obre les opcions de &lt;l0&gt;Configuració de la segmentació&lt;/l0&gt; en el quadre de diàleg Preferències.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the local directory where OmegaT configuration files are stored (depends on the Operating system).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T160714Z" creationid="Marc Riera" creationdate="20220625T160714Z">
+        <seg>Obre la carpeta local on s'emmagatzemen els fitxers de configuració de l'OmegaT (canvia en funció del sistema operatiu).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18198,6 +18286,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Reloads the project to take external changes in source files and project settings into account.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161206Z" creationid="Marc Riera" creationdate="20220625T161206Z">
+        <seg>Torna a carregar el projecte per a incorporar els canvis externs en els fitxers d'origen i la configuració del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remaining Characters (including spaces)</seg>
@@ -19307,6 +19403,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Saves the internal translation memory to the hard disk.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161257Z" creationid="Marc Riera" creationdate="20220625T161257Z">
+        <seg>Desa la memòria de traducció interna en el disc dur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Saves the project and quits &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T230802Z" creationid="Marc Riera" creationdate="20201129T230802Z">
@@ -19327,6 +19431,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T171247Z" creationid="Marc Riera" creationdate="20220611T171247Z">
         <seg>Desa el projecte i reinicia l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the translation and closes the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161249Z" creationid="Marc Riera" creationdate="20220625T161249Z">
+        <seg>Desa la traducció i tanca el projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19708,6 +19820,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220307T225946Z" creationid="mgalo" creationdate="20181109T233237Z">
         <seg>Consulteu «/docs/contributors.txt».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;Use a team project&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T160836Z" creationid="Marc Riera" creationdate="20220625T160836Z">
+        <seg>Consulteu &lt;l0&gt;Ús d'un projecte en equip&lt;/l0&gt; per a conèixer més detalls.</seg>
       </tuv>
     </tu>
     <tu>
