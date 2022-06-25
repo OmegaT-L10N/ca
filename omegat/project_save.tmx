@@ -6422,6 +6422,22 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Creates the target document corresponding to the current document in translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161521Z" creationid="Marc Riera" creationdate="20220625T161521Z">
+        <seg>Crea el document de destinació corresponent a la traducció del document actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creates the target documents based on your translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161442Z" creationid="Marc Riera" creationdate="20220625T161442Z">
+        <seg>Crea els documents de destinació a partir de la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Creating output file '{0}'</seg>
@@ -7431,6 +7447,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T113615Z" creationid="Marc Riera" creationdate="20180221T113615Z">
         <seg>Mostra:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays &lt;l0&gt;Project properties&lt;/l0&gt; dialog to edit project languages and folder locations.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161552Z" creationid="Marc Riera" creationdate="20220625T161552Z">
+        <seg>Mostra el quadre de diàleg &lt;l0&gt;Propietats del projecte&lt;/l0&gt; per a editar les llengües del projecte i les ubicacions de les carpetes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10155,6 +10179,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Gives access to the project folders.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161606Z" creationid="Marc Riera" creationdate="20220625T161606Z">
+        <seg>Proporciona accés a les carpetes del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Global</seg>
@@ -11233,6 +11265,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If part of the target segment has been selected, this function overwrites the selected portion.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161931Z" creationid="Marc Riera" creationdate="20220625T161931Z">
+        <seg>Si s'ha seleccionat una part del segment de destinació, aquesta funció sobreescriu la part seleccionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If several translation engines are selected, then &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; is also used to switch between them and insert the last one selected.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T184620Z" creationid="Marc Riera" creationdate="20201130T220713Z">
@@ -11241,10 +11281,34 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161953Z" creationid="Marc Riera" creationdate="20220625T161953Z">
+        <seg>Si hi ha text seleccionat en la coincidència parcial, només la selecció s'inserirà en la posició del cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If some texts are selected within the fuzzy match, only this selection will replace the whole target segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161915Z" creationid="Marc Riera" creationdate="20220625T161915Z">
+        <seg>Si hi ha text seleccionat en la coincidència parcial, només la selecció substituirà tot el segment de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the alignment looks as if it could be improved, try changing the parameters.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T145700Z" creationid="Marc Riera" creationdate="20220506T145700Z">
         <seg>Si l'alineació sembla millorable, intenteu canviar els paràmetres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the documents are not available, the entry is greyed out.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161632Z" creationid="Marc Riera" creationdate="20220625T161632Z">
+        <seg>Si els documents no estan disponibles, l'entrada es mostra atenuada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11935,6 +11999,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215016Z" creationid="mgalo" creationdate="20181110T002347Z">
         <seg>In&amp;sereix el text d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the currently selected fuzzy match at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161924Z" creationid="Marc Riera" creationdate="20220625T161924Z">
+        <seg>Insereix la coincidència parcial seleccionada en la posició del cursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14943,6 +15015,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>No action is taken, if no Machine Translation service has been activated (in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Machine Translate&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T162340Z" creationid="Marc Riera" creationdate="20220625T162340Z">
+        <seg>No es fa cap acció si no s'ha activat cap servei de traducció automàtica (&lt;m0&gt;Opcions&lt;g1&gt; &lt;/g1&gt;Traducció automàtica&lt;g2&gt; &lt;/g2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>No connection available, the project is in offline mode.</seg>
@@ -16494,6 +16574,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T230436Z" creationid="Marc Riera" creationdate="20201129T230436Z">
         <seg>Obre el quadre de diàleg &lt;l0&gt;Preferències&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Project files&lt;/l0&gt; window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161603Z" creationid="Marc Riera" creationdate="20220625T161603Z">
+        <seg>Obre la finestra &lt;l0&gt;Fitxers del projecte&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18734,6 +18822,22 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Replaces the target segment with the translation, provided by the selected Machine Translation service.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T162259Z" creationid="Marc Riera" creationdate="20220625T162259Z">
+        <seg>Substitueix el segment de destinació per la traducció proporcionada pel servei de traducció automàtica seleccionat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replaces the whole target segment with the currently selected fuzzy match (by default the first match is selected).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161845Z" creationid="Marc Riera" creationdate="20220625T161845Z">
+        <seg>Substitueix tot el segment de destinació per la coincidència parcial seleccionada (per defecte, se selecciona la primera coincidència).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Repository</seg>
@@ -18955,6 +19059,22 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220644Z" creationid="Marc Riera" creationdate="20220130T220644Z">
         <seg>Restaura els components de la finestra principal de l'OmegaT al seu estat per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restores the status before the last editing action was cancelled.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161800Z" creationid="Marc Riera" creationdate="20220625T161800Z">
+        <seg>Restaura l'estat abans de cancel·lar la darrera acció d'edició.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restores the status before the last editing action was taken.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161737Z" creationid="Marc Riera" creationdate="20220625T161737Z">
+        <seg>Restaura l'estat abans de la darrera acció d'edició.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22508,6 +22628,14 @@ en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The created target documents are located in the &lt;f0&gt;target&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161454Z" creationid="Marc Riera" creationdate="20220625T161454Z">
+        <seg>Els documents de destinació creats es troben en la carpeta &lt;f0&gt;target&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The current folder will be used
@@ -22557,6 +22685,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210521T171123Z" creationid="Marc Riera" creationdate="20210521T165849Z">
         <seg>La diferència és petita: anomenem «finestra» una finestra que pot romandre oberta alhora que l'editor i interaccionar-hi i «quadre de diàleg» una finestra en què heu de seleccionar paràmetres abans de tancar-la i seguir la vostra activitat de traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The documents are opened by the application chosen by the operating system.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161624Z" creationid="Marc Riera" creationdate="20220625T161624Z">
+        <seg>Els documents s'obren amb l'aplicació triada pel sistema operatiu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23502,6 +23638,14 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>This command does not work once the modified segment has been validated.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161752Z" creationid="Marc Riera" creationdate="20220625T161752Z">
+        <seg>Aquesta ordre no funciona després de validar el segment modificat.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This command will be executed after Creating Translated Documents.</seg>
@@ -23658,6 +23802,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T201153Z" creationid="Marc Riera" creationdate="20201010T201153Z">
         <seg>Això vol dir que el codi font del programa OmegaT està disponible lliurement i que la llicència de l'OmegaT concedeix als usuaris una àmplia llibertat d'ús.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This menu displays entries only when a project is open.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161729Z" creationid="Marc Riera" creationdate="20220625T161729Z">
+        <seg>Aquest menú només mostra entrades quan hi ha un projecte obert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25159,6 +25311,22 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224111Z" creationid="Marc Riera" creationdate="20180214T224111Z">
         <seg>S'està actualitzant...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uploads to the repository the files that have been added or modified locally in the &lt;f0&gt;source&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161413Z" creationid="Marc Riera" creationdate="20220625T161413Z">
+        <seg>Puja al dipòsit els fitxers que s'han afegit o modificat localment en la carpeta &lt;f0&gt;source&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uploads to the repository the files that have been created locally in the &lt;f0&gt;target&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161432Z" creationid="Marc Riera" creationdate="20220625T161432Z">
+        <seg>Puja al dipòsit els fitxers que s'han creat localment en la carpeta &lt;f0&gt;target&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
