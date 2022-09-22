@@ -23367,6 +23367,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The original file is saved as backup: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20220922T070110Z" creationid="Marc Riera" creationdate="20220922T070110Z">
+        <seg>S'ha desat el fitxer original com a còpia de seguretat: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The password cannot be empty.</seg>
