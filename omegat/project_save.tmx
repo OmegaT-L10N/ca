@@ -1941,6 +1941,30 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+	  Source- or target-language tokenizer to use (overrides project
+	  settings).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195535Z" creationid="Marc Riera" creationdate="20221005T195535Z">
+        <seg>--ITokenizer=&lt;nom de la classe&gt;
+	--ITokenizerTarget=&lt;nom de la classe&gt;
+	  Lematitzador de la llengua d'origen o de destinació que s'utilitzarà
+	  (substitueix els paràmetres del projecte).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The directory to read/write OmegaT configuration files from/to.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195634Z" creationid="Marc Riera" creationdate="20221005T195634Z">
+        <seg>--config-dir=&lt;camí&gt;
+	  Carpeta on llegir i escriure els fitxers de configuració de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--config-file=&lt;path&gt;
@@ -1949,6 +1973,16 @@ per a editar-lo com a projecte en equip.)</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191208T155616Z" creationid="Marc Riera" creationdate="20191113T173112Z">
         <seg>--config-file=&lt;camí&gt;
 		Fitxer .properties del Java des d'on es carregaran els paràmetres per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--config-file=&lt;path&gt;
+	  A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195547Z" creationid="Marc Riera" creationdate="20221005T195547Z">
+        <seg>--config-file=&lt;camí&gt;
+	  Fitxer .properties del Java des d'on es carregaran els paràmetres per defecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1963,6 +1997,16 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>--disable-location-save
+	  Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195523Z" creationid="Marc Riera" creationdate="20221005T195523Z">
+        <seg>--disable-location-save
+	  No recordis el darrer directori obert en el selector de fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--disable-project-locking
@@ -1974,6 +2018,26 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>--disable-project-locking
+	  Do not attempt to lock the project's omegat.project file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195516Z" creationid="Marc Riera" creationdate="20221005T195516Z">
+        <seg>--disable-project-locking
+	  No intentis blocar el fitxer omegat.project del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=[console mode name]
+	  Specify a mode other than default (GUI).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195706Z" creationid="Marc Riera" creationdate="20221005T195701Z">
+        <seg>--mode=[nom del mode de consola]
+	  Especifica un mode diferent del mode per defecte (GUI).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
@@ -1982,6 +2046,19 @@ per a editar-lo com a projecte en equip.)</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T101934Z" creationid="Marc Riera" creationdate="20190924T101805Z">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Especifica un mode diferent del mode per defecte (GUI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-translate
+	  --source-pattern=&lt;pattern&gt;
+	    A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T200409Z" creationid="Marc Riera" creationdate="20221005T200409Z">
+        <seg>--mode=console-translate:
+	  --source-pattern=&lt;patró&gt;
+	    Llista de permesos d'expressions regulars de fitxers d'origen
+	    que es processaran.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2053,6 +2130,16 @@ per a editar-lo com a projecte en equip.)</seg>
 		Fitxer .properties del Java que s'utilitzarà per al text de la interfície.
 	--config-dir=&lt;path&gt;
 		Directori on llegir i escriure els fitxers de configuració de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for interface text</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195643Z" creationid="Marc Riera" creationdate="20221005T195643Z">
+        <seg>--resource-bundle=&lt;path&gt;
+	  Fitxer .properties del Java que s'utilitzarà per al text de la interfície.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5992,6 +6079,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T185532Z" creationid="Marc Riera" creationdate="20201122T185532Z">
         <seg>Consisteix en un model de manual per a estudiants amb instruccions perquè els formadors l'adaptin i recursos d'exemple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console mode names and their options:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195717Z" creationid="Marc Riera" creationdate="20221005T195717Z">
+        <seg>Noms dels modes de consola i opcions:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11417,6 +11512,16 @@ no cal introduir el camí complet.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If invoked in a git working tree or svn checkout, the results
+	  will be staged/added.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195507Z" creationid="Marc Riera" creationdate="20221005T195507Z">
+        <seg>Si s'invoca en un arbre de treball del Git o una baixada del SVN,
+	  els resultats s'afegiran com a canvis sense confirmar.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
@@ -12121,6 +12226,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T005706Z" creationid="Alexandra" creationdate="20150526T155815Z">
         <seg>Informació sobre els procediments i característiques de l'OmegaT per a usuaris avançats que es poden trobar en altres llocs web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195449Z" creationid="Marc Riera" creationdate="20221005T195449Z">
+        <seg>Inicialitza un projecte en equip mínim amb les llengües especificades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29802,6 +29915,16 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165756Z" creationid="Marc Riera" creationdate="20200802T165756Z">
         <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>team init &lt;source language&gt; &lt;target language&gt;
+	  Team project tool.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195442Z" creationid="Marc Riera" creationdate="20221005T195442Z">
+        <seg>team init &lt;llengua d'origen&gt; &lt;llengua de destinació&gt;
+	  Eina de projecte en equip</seg>
       </tuv>
     </tu>
     <tu>
