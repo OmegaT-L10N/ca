@@ -1996,6 +1996,15 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>--no-team
+	  Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195401Z" creationid="Marc Riera" creationdate="20221005T195401Z">
+        <seg>	  Inhabilita la funcionalitat de projecte en equip.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--pseudotranslatetype=[equal|empty]
@@ -2017,6 +2026,18 @@ per a editar-lo com a projecte en equip.)</seg>
         <seg>--remote-project
 		Baixa un fitxer omegat.project de l'URL proporcionat com a &lt;camí
 		del projecte&gt; i carrega el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--remote-project
+	  Download an omegat.project file from the URL given as &lt;project
+	  path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195351Z" creationid="Marc Riera" creationdate="20221005T195351Z">
+        <seg>--remote-project
+	  Baixa un fitxer omegat.project de l'URL proporcionat com a &lt;camí
+	  del projecte&gt; i carrega el projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15390,8 +15411,8 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       <tuv lang="en">
         <seg>No options: Launch GUI</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T123158Z" creationid="Marc Riera" creationdate="20221005T123123Z">
-        <seg>Sense opcions: inicia la GUI</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195332Z" creationid="Marc Riera" creationdate="20221005T123123Z">
+        <seg>Sense opcions: inicia la GUI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18362,8 +18383,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Project path only: Launch GUI and load specified project</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T123155Z" creationid="Marc Riera" creationdate="20221005T123155Z">
-        <seg>Només camí d'un projecte: inicia la GUI i carrega el projecte especificat</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195334Z" creationid="Marc Riera" creationdate="20221005T123155Z">
+        <seg>Només camí d'un projecte: inicia la GUI i carrega el projecte especificat.</seg>
       </tuv>
     </tu>
     <tu>
