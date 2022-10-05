@@ -2050,6 +2050,30 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    A directory containing the translated files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T200457Z" creationid="Marc Riera" creationdate="20221005T200457Z">
+        <seg>--mode=console-align:
+	  --alignDir=&lt;camí&gt;
+	    Carpeta amb els fitxers traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-pseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path&gt;
+	    The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T200425Z" creationid="Marc Riera" creationdate="20221005T200425Z">
+        <seg>--mode=console-pseudotranslatetmx:
+	  --pseudotranslatetmx=&lt;camí&gt;
+	    Fitxer TMX pseudotraduït de sortida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-translate
 	  --source-pattern=&lt;pattern&gt;
 	    A regex whitelist of source files to process.</seg>
@@ -2090,6 +2114,26 @@ per a editar-lo com a projecte en equip.)</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191113T174041Z" creationid="Marc Riera" creationdate="20191113T174006Z">
         <seg>--pseudotranslatetype=[equal|empty]
 		Contingut amb el qual s'omplirà el TMX pseudotraduït.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    What to fill the pseudotranslated TMX with.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T200442Z" creationid="Marc Riera" creationdate="20221005T200442Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    Contingut amb el qual s'emplenarà el TMX pseudotraduït.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--quiet
+	  Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T200551Z" creationid="Marc Riera" creationdate="20221005T200551Z">
+        <seg>--quiet
+	  Redueix els resultats en la sortida estàndard de la línia d'ordres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2154,6 +2198,16 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>--script=&lt;path&gt;
+	  A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T200601Z" creationid="Marc Riera" creationdate="20221005T200601Z">
+        <seg>--script=&lt;path&gt;
+	  Fitxer de script que s'executarà en esdeveniments del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--tag-validation=[abort|warn]
@@ -2162,6 +2216,16 @@ per a editar-lo com a projecte en equip.)</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T102007Z" creationid="Marc Riera" creationdate="20190924T102007Z">
         <seg>--tag-validation=[abort|warn]
 		Valida les etiquetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--tag-validation=[abort|warn]
+	  Validate tags.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T200608Z" creationid="Marc Riera" creationdate="20221005T200608Z">
+        <seg>--tag-validation=[abort|warn]
+	  Valida les etiquetes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6090,6 +6154,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Console only options:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T200539Z" creationid="Marc Riera" creationdate="20221005T200539Z">
+        <seg>Opcions exclusives del mode de consola:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Console-align mode:
@@ -7226,6 +7298,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161250Z" creationid="Packard Bell" creationdate="20150605T161250Z">
         <seg>Drecera per defecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Defaults to xml.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T200527Z" creationid="Marc Riera" creationdate="20221005T200527Z">
+        <seg>Per defecte, és «xml».</seg>
       </tuv>
     </tu>
     <tu>
@@ -21949,6 +22029,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Start new project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T200659Z" creationid="Marc Riera" creationdate="20221005T200659Z">
+        <seg>Inicia un projecte nou.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Start rebase</seg>
@@ -23662,6 +23750,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T145404Z" creationid="mgalo" creationdate="20181112T102041Z">
         <seg>No es pot verificar el projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project conversion was failed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T200721Z" creationid="Marc Riera" creationdate="20221005T200721Z">
+        <seg>S'ha produït un error en convertir el projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26061,6 +26157,16 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221005T123049Z" creationid="Marc Riera" creationdate="20221005T123049Z">
         <seg>Ús: java -jar [&lt;opcions del Java&gt;] OmegaT.jar [&lt;opcions de l'OmegaT&gt;] [&lt;camí del projecte&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
+	See --help</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T200631Z" creationid="Marc Riera" creationdate="20221005T200631Z">
+        <seg>Ús: team init &lt;llengua d'origen&gt; &lt;llengua de destinació&gt;
+	Consulteu --help.</seg>
       </tuv>
     </tu>
     <tu>
