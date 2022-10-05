@@ -15377,6 +15377,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>No options: Launch GUI</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T123158Z" creationid="Marc Riera" creationdate="20221005T123123Z">
+        <seg>Sense opcions: inicia la GUI</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>No project loaded.</seg>
@@ -16376,6 +16384,14 @@ està a punt per a executar-se.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T122343Z" creationid="Marc Riera" creationdate="20201010T202239Z">
         <seg>OmegaT en la Viquipèdia &lt;s0&gt;25 llengües&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT options:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T123106Z" creationid="Marc Riera" creationdate="20221005T123106Z">
+        <seg>Opcions de l'OmegaT:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18330,6 +18346,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T213533Z" creationid="Marc Riera" creationdate="20201130T213533Z">
         <seg>El gestor del projecte ha de canviar els paràmetres del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project path only: Launch GUI and load specified project</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T123155Z" creationid="Marc Riera" creationdate="20221005T123155Z">
+        <seg>Només camí d'un projecte: inicia la GUI i carrega el projecte especificat</seg>
       </tuv>
     </tu>
     <tu>
@@ -20344,6 +20368,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231338Z" creationid="Marc Riera" creationdate="20201129T231338Z">
         <seg>Consulteu &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Help &gt; User's Manual for more information, including Java options.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T123100Z" creationid="Marc Riera" creationdate="20221005T123100Z">
+        <seg>Consulteu «Ajuda &gt; Manual d'usuari» per a obtenir més informació, incloent-hi les opcions del Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25877,6 +25909,14 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T120918Z" creationid="Marc Riera" creationdate="20190520T120918Z">
         <seg>Ús: java -jar OmegaT.jar team &lt;ordre&gt; [&lt;opcions&gt;]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221005T123049Z" creationid="Marc Riera" creationdate="20221005T123049Z">
+        <seg>Ús: java -jar [&lt;opcions del Java&gt;] OmegaT.jar [&lt;opcions de l'OmegaT&gt;] [&lt;camí del projecte&gt;]</seg>
       </tuv>
     </tu>
     <tu>
