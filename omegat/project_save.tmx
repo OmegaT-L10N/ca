@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4197,6 +4197,14 @@ inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T190302Z" creationid="Marc Riera" creationdate="20201125T190302Z">
         <seg>Tanmateix, com passa amb el desenvolupament lliure, segueix aplicant-se el principi que qualsevol canvi a l'OmegaT ha d'aportar beneficis a l'aplicació i als usuaris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Assign &amp;shortcut</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221109T205934Z" creationid="Marc Riera" creationdate="20221109T205934Z">
+        <seg>A&amp;ssigna una drecera</seg>
       </tuv>
     </tu>
     <tu>
@@ -10580,6 +10588,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Global External Searches</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221109T205903Z" creationid="Marc Riera" creationdate="20221109T205903Z">
+        <seg>Cerques externes globals</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Global spell checking</seg>
@@ -14028,6 +14044,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Local External Searches</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221109T205912Z" creationid="Marc Riera" creationdate="20221109T205912Z">
+        <seg>Cerques externes locals</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Local File/Folder</seg>
@@ -15763,6 +15787,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223818Z" creationid="Marc Riera" creationdate="20180214T223818Z">
         <seg>No és un fitxer XML vàlid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not assigned</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221109T205951Z" creationid="Marc Riera" creationdate="20221109T205951Z">
+        <seg>Sense assignar</seg>
       </tuv>
     </tu>
     <tu>
