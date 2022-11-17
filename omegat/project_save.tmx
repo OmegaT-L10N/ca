@@ -1984,6 +1984,16 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The directory used to read or write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T165209Z" creationid="Marc Riera" creationdate="20221117T165209Z">
+        <seg>--config-dir=&lt;camí&gt;
+	  Carpeta on llegir i escriure els fitxers de configuració de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--config-file=&lt;path&gt;
@@ -2039,6 +2049,16 @@ per a editar-lo com a projecte en equip.)</seg>
     <tu>
       <tuv lang="en">
         <seg>--disable-project-locking
+	  Do not attempt to lock the omegat.project file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T165153Z" creationid="Marc Riera" creationdate="20221117T165153Z">
+        <seg>--disable-project-locking
+	  No intentis blocar el fitxer omegat.project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-project-locking
 	  Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195516Z" creationid="Marc Riera" creationdate="20221005T195516Z">
@@ -2054,6 +2074,16 @@ per a editar-lo com a projecte en equip.)</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195706Z" creationid="Marc Riera" creationdate="20221005T195701Z">
         <seg>--mode=[nom del mode de consola]
 	  Especifica un mode diferent del mode per defecte (GUI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=[console mode name]
+	  Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T165257Z" creationid="Marc Riera" creationdate="20221117T165257Z">
+        <seg>--mode=[nom del mode de consola]
+	  Permet especificar un mode diferent del mode GUI per defecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2077,6 +2107,18 @@ per a editar-lo com a projecte en equip.)</seg>
         <seg>--mode=console-align:
 	  --alignDir=&lt;camí&gt;
 	    Carpeta amb els fitxers traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path&gt;
+	    The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T165330Z" creationid="Marc Riera" creationdate="20221117T165330Z">
+        <seg>--mode=console-createpseudotranslatetmx:
+	  --pseudotranslatetmx=&lt;camí&gt;
+	    Fitxer TMX pseudotraduït de sortida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2147,6 +2189,16 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    What to put in the pseudotranslated TMX.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T165342Z" creationid="Marc Riera" creationdate="20221117T165342Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    Contingut amb el qual s'emplenarà el TMX pseudotraduït.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--quiet
 	  Reduce output to command line stdout.</seg>
       </tuv>
@@ -2201,6 +2253,16 @@ per a editar-lo com a projecte en equip.)</seg>
 	  A Java .properties file to use for interface text</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195643Z" creationid="Marc Riera" creationdate="20221005T195643Z">
+        <seg>--resource-bundle=&lt;path&gt;
+	  Fitxer .properties del Java que s'utilitzarà per al text de la interfície.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T165219Z" creationid="Marc Riera" creationdate="20221117T165219Z">
         <seg>--resource-bundle=&lt;path&gt;
 	  Fitxer .properties del Java que s'utilitzarà per al text de la interfície.</seg>
       </tuv>
@@ -15701,6 +15763,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No option: Launch GUI</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T165136Z" creationid="Marc Riera" creationdate="20221117T165136Z">
+        <seg>Sense opcions: inicia la GUI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No options: Launch GUI</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195332Z" creationid="Marc Riera" creationdate="20221005T123123Z">
@@ -20716,6 +20786,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231338Z" creationid="Marc Riera" creationdate="20201129T231338Z">
         <seg>Consulteu &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Help &gt; User Guide for details, including available Java options.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T165128Z" creationid="Marc Riera" creationdate="20221117T165128Z">
+        <seg>Consulteu «Ajuda &gt; Guia d'usuari» per a obtenir més informació, incloent-hi les opcions del Java disponibles.</seg>
       </tuv>
     </tu>
     <tu>
