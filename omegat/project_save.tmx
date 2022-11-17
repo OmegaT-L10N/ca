@@ -2142,12 +2142,13 @@ per a editar-lo com a projecte en equip.)</seg>
 	    Prints to the specified file, or to standard output
 	    if no file is given or the option is not used.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T170907Z" creationid="Marc Riera" creationdate="20221117T170907Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T171122Z" creationid="Marc Riera" creationdate="20221117T170907Z">
         <seg>--mode=console-stats
 	  project_path
-	    Camí del projectes--output-file=[stats-output-file]
-	    Prints to the specified file, or to standard output
-	    if no file is given or the option is not used.</seg>
+	    Camí del projecte.
+	  --output-file=[fitxer de sortida d'estadístiques]
+	    Envia els resultats al fitxer especificat o a la sortida estàndard
+	    si no s'indica cap fitxer o no s'utilitza l'opció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2306,6 +2307,16 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>--stats-type=[xml|text|txt|json]
+	    Specifies the output format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T171135Z" creationid="Marc Riera" creationdate="20221117T171135Z">
+        <seg>--stats-type=[xml|text|txt|json]
+	    Especifica el format de sortida.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--tag-validation=[abort|warn]
@@ -2401,6 +2412,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>1) Reduce the number of files in the source folder;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T171253Z" creationid="Marc Riera" creationdate="20221117T171253Z">
+        <seg>1) Reduïu el nombre de fitxers de la carpeta de fitxers d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
@@ -2430,6 +2449,14 @@ The current setting is {0}MB;</seg>
         <seg>2) Augmenteu la quantitat de memòria disponible per a l'OmegaT
 especificant «java -Xmx&lt;mida-en-MB&gt;M -jar OmegaT.jar» en la
 línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2) Increase the amount of memory available to OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T171320Z" creationid="Marc Riera" creationdate="20221117T171306Z">
+        <seg>2) Augmenteu la quantitat de memòria disponible per a l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11655,6 +11682,16 @@ no cal introduir el camí complet.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If --stats-type is not specified, the format is
+	    detected from the file extension.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T171205Z" creationid="Marc Riera" creationdate="20221117T171205Z">
+        <seg>Si no s'especifica --stats-type, es detecta
+	    el format a partir de l'extensió del fitxer.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
@@ -16822,6 +16859,14 @@ està a punt per a executar-se.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT ran out of memory and will close when you click OK.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T171228Z" creationid="Marc Riera" creationdate="20221117T171228Z">
+        <seg>L'OmegaT no té prou memòria i es tancarà quan feu clic a «D'acord».</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
@@ -17816,6 +17861,16 @@ everything.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Place source files in ./source and supplementary
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T171216Z" creationid="Marc Riera" creationdate="20221117T171216Z">
+        <seg>Col·loqueu els fitxers d'origen a ./source i el material addicional a ./tm, ./glossary i ./dictionary segons correspongui, i publiqueu-ho tot.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Place the archive in any suitable folder and unpack it.</seg>
@@ -18197,6 +18252,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T202053Z" creationid="Marc Riera" creationdate="20201010T202053Z">
         <seg>Portavita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Possible solutions:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T171233Z" creationid="Marc Riera" creationdate="20221117T171233Z">
+        <seg>Solucions possibles:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26403,6 +26466,18 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T160436Z" creationid="Packard Bell" creationdate="20150605T160436Z">
         <seg>Ús</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" from the command 
+line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T171358Z" creationid="Marc Riera" creationdate="20221117T171358Z">
+        <seg>Utilitzeu «java -Xmx&lt;mida en MB&gt;M -jar OmegaT.jar» en la
+línia d'ordres o en l'script d'inici de l'OmegaT.
+El valor actual és de {0} MB.</seg>
       </tuv>
     </tu>
     <tu>
