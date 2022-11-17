@@ -9926,6 +9926,14 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Failed to create the translated files!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173003Z" creationid="Marc Riera" creationdate="20221117T173003Z">
+        <seg>No s'han pogut crear els fitxers traduïts!</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Failed to fetch latest version info: {0}</seg>
@@ -9939,8 +9947,8 @@ els fils de teranyina t'aparten.
       <tuv lang="en">
         <seg>Failed to load specified project!</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T111726Z" creationid="Marc Riera" creationdate="20180221T111726Z">
-        <seg>No s'ha pogut carregar el projecte especificat.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173006Z" creationid="Marc Riera" creationdate="20180221T111726Z">
+        <seg>No s'ha pogut carregar el projecte especificat!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9948,8 +9956,8 @@ els fils de teranyina t'aparten.
       <tuv lang="en">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200123T225912Z" creationid="Marc Riera" creationdate="20180221T111723Z">
-        <seg>No s'ha pogut carregar la memòria de traducció «{0}» del projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173008Z" creationid="Marc Riera" creationdate="20180221T111723Z">
+        <seg>No s'ha pogut carregar la memòria de traducció «{0}» del projecte!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19463,6 +19471,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reload the project now?</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T172934Z" creationid="Marc Riera" creationdate="20221117T172934Z">
+        <seg>Voleu tornar a carregar el projecte ara?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reloads the project to take external changes in source files and project settings into account.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161206Z" creationid="Marc Riera" creationdate="20220625T161206Z">
@@ -26867,6 +26883,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201440Z" creationid="Marc Riera" creationdate="20220612T201440Z">
         <seg>Glossari/Utilitza els termes que apareixen separats en el text d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173040Z" creationid="Marc Riera" creationdate="20221117T173040Z">
+        <seg>Utilitzeu «Eines &gt; Comprova si hi ha errors» per a corregir els errors d'etiquetes i torneu-ho a provar.</seg>
       </tuv>
     </tu>
     <tu>
