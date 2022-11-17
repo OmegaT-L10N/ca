@@ -140,6 +140,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Add Files...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173635Z" creationid="Marc Riera" creationdate="20221117T173635Z">
+        <seg>&amp;Afegeix fitxers...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Add...</seg>
@@ -226,6 +234,14 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T143811Z" creationid="Marc Riera" creationdate="20180221T112059Z">
         <seg>&amp;Aplica-ho a les taules (fitxers del projecte, estadístiques, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Apply this font to tabular data (source files list, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173603Z" creationid="Marc Riera" creationdate="20221117T173603Z">
+        <seg>&amp;Aplica-ho a les taules (llista de fitxers d'origen, estadístiques, etc.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1572,6 +1588,14 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200109T085629Z" creationid="mgalo" creationdate="20181112T094744Z">
         <seg>M&amp;ajúscules</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Use local segmentation rules</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173905Z" creationid="Marc Riera" creationdate="20221117T173905Z">
+        <seg>&amp;Utilitza regles de segmentació locals</seg>
       </tuv>
     </tu>
     <tu>
@@ -6434,6 +6458,18 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Consult the documentation about your recovery options and
+return the information below to the software manufacturer with
+a description of how this error was produced.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173722Z" creationid="Marc Riera" creationdate="20221117T173722Z">
+        <seg>Consulteu la documentació sobre les opcions de recuperació
+i envieu la informació següent a l'autor del programari amb
+una descripció de com s'ha produït aquest error.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Contact</seg>
@@ -6973,6 +7009,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112457Z" creationid="Marc Riera" creationdate="20180221T112457Z">
         <seg>S'estan creant els documents traduïts: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating translated files: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173743Z" creationid="Marc Riera" creationdate="20221117T173743Z">
+        <seg>S'estan creant els fitxers traduïts: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8906,6 +8950,14 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T145922Z" creationid="Marc Riera" creationdate="20180214T223144Z">
         <seg>Habiliteu-les a &lt;b&gt;Preferències &gt; Desament i sortida&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable them in Preferences &gt; Saving and Output....</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T174021Z" creationid="Marc Riera" creationdate="20221117T174021Z">
+        <seg>Habiliteu-les a «Preferències &gt; Desament i sortida...».</seg>
       </tuv>
     </tu>
     <tu>
@@ -14399,10 +14451,34 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local &amp;Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173844Z" creationid="Marc Riera" creationdate="20221117T173844Z">
+        <seg>Regles de &amp;segmentació locals...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local External Searches</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221109T205912Z" creationid="Marc Riera" creationdate="20221109T205912Z">
         <seg>Cerques externes locals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local External Searches...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T174051Z" creationid="Marc Riera" creationdate="20221117T174051Z">
+        <seg>Cerques externes locals...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173838Z" creationid="Marc Riera" creationdate="20221117T173838Z">
+        <seg>Filtres de &amp;fitxers locals...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14415,12 +14491,36 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Local Post-processing Commands</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173943Z" creationid="Marc Riera" creationdate="20221117T173943Z">
+        <seg>Ordres de postprocessament locals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local Post-processing Commands (Disabled):</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T174006Z" creationid="Marc Riera" creationdate="20221117T173958Z">
+        <seg>Ordres de postprocessament locals (inhabilitades):</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T075209Z" creationid="mgalo" creationdate="20181112T222239Z">
         <seg>Camí d'instal·lació local:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T174044Z" creationid="Marc Riera" creationdate="20221117T174044Z">
+        <seg>Les ordres de postprocessament locals estan inhabilitades i no s'executaran.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18896,6 +18996,14 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Project Properties</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173822Z" creationid="Marc Riera" creationdate="20221117T173822Z">
+        <seg>Propietats del projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Project Specific External Search</seg>
@@ -19475,6 +19583,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T172934Z" creationid="Marc Riera" creationdate="20221117T172934Z">
         <seg>Voleu tornar a carregar el projecte ara?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reload the project?</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173546Z" creationid="Marc Riera" creationdate="20221117T173546Z">
+        <seg>Voleu tornar a carregar el projecte?</seg>
       </tuv>
     </tu>
     <tu>
@@ -22257,6 +22373,22 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T183416Z" creationid="Marc Riera" creationdate="20180221T114929Z">
         <seg>Patró de nom del fitxer d'origen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173617Z" creationid="Marc Riera" creationdate="20221117T173617Z">
+        <seg>Fitxers d'origen ({0} de {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files ({0})</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173613Z" creationid="Marc Riera" creationdate="20221117T173613Z">
+        <seg>Fitxers d'origen ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -25869,6 +26001,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Translated file created</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173759Z" creationid="Marc Riera" creationdate="20221117T173759Z">
+        <seg>S'ha creat el fitxer traduït.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
@@ -25877,6 +26017,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T141112Z" creationid="mgalo" creationdate="20181109T131707Z">
         <seg>El camí del fitxer traduït no pot ser idèntic al del fitxer d'origen:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files created</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173751Z" creationid="Marc Riera" creationdate="20221117T173751Z">
+        <seg>S'han creat els fitxers traduïts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26271,6 +26419,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T214438Z" creationid="mgalo" creationdate="20181108T155642Z">
         <seg>No s'ha pogut convertir el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to create the translated files due to missing or damaged tags.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173525Z" creationid="Marc Riera" creationdate="20221117T173525Z">
+        <seg>No s'han pogut crear els fitxers traduïts perquè falten etiquetes o estan malmeses.</seg>
       </tuv>
     </tu>
     <tu>
