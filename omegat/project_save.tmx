@@ -6873,6 +6873,14 @@ una descripció de com s'ha produït aquest error.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Create Project Folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T174111Z" creationid="Marc Riera" creationdate="20221117T174111Z">
+        <seg>Crea la carpeta del projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Create Translated Documents</seg>
@@ -7404,6 +7412,14 @@ una descripció de com s'ha produït aquest error.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181118T100259Z" creationid="Marc Riera" creationdate="20180210T213220Z">
         <seg>Ús actual de memòria de la màquina virtual: {0} MB; memòria lliure: {1} MB; memòria màxima disponible: {2} MB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current project configuration will be overridden by the remote project configuration.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T174138Z" creationid="Marc Riera" creationdate="20221117T174138Z">
+        <seg>La configuració del projecte remota substituirà la configuració actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22581,6 +22597,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T174058Z" creationid="Marc Riera" creationdate="20221117T174058Z">
+        <seg>Especifiqueu-ne la ubicació nova o torneu-les a crear.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Spell checking...</seg>
@@ -24341,6 +24365,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T145825Z" creationid="Marc Riera" creationdate="20220506T145825Z">
         <seg>L'opció només apareix quan es pot seleccionar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The original file is backed up as: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T174200Z" creationid="Marc Riera" creationdate="20221117T174144Z">
+        <seg>S'ha fet una còpia de seguretat del fitxer original: {0}</seg>
       </tuv>
     </tu>
     <tu>
