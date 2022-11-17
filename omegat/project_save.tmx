@@ -1273,6 +1273,14 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Search...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T172222Z" creationid="Marc Riera" creationdate="20221117T172222Z">
+        <seg>&amp;Cerca...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Segment Number...</seg>
@@ -1305,6 +1313,15 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
         <seg>&amp;Sentence Case</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200125T140640Z" creationid="mgalo" creationdate="20181112T095132Z">
+        <seg>Estil d'&amp;oració</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>&amp;Sentence case</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T172312Z" creationid="Marc Riera" creationdate="20221117T172312Z">
         <seg>Estil d'&amp;oració</seg>
       </tuv>
     </tu>
@@ -1457,8 +1474,8 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       <tuv lang="en">
         <seg>&amp;Title Case</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200109T085647Z" creationid="mgalo" creationdate="20181112T094938Z">
-        <seg>Cada paraula en majúscula &amp;inicial</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T172306Z" creationid="mgalo" creationdate="20181112T094938Z">
+        <seg>Cada Paraula En Majúscula &amp;Inicial</seg>
       </tuv>
     </tu>
     <tu>
@@ -1486,6 +1503,15 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223125Z" creationid="Marc Riera" creationdate="20180214T223125Z">
         <seg>Llengua dels fitxers &amp;traduïts:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>&amp;UPPER CASE</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T172300Z" creationid="Marc Riera" creationdate="20221117T172300Z">
+        <seg>M&amp;AJÚSCULES</seg>
       </tuv>
     </tu>
     <tu>
@@ -1558,6 +1584,15 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200123T221457Z" creationid="mgalo" creationdate="20181108T133134Z">
         <seg>Glossari m&amp;odificable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>&amp;lower case</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T172252Z" creationid="Marc Riera" creationdate="20221117T172252Z">
+        <seg>m&amp;inúscules</seg>
       </tuv>
     </tu>
     <tu>
@@ -6663,6 +6698,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191207T232949Z" creationid="Marc Riera" creationdate="20180210T213513Z">
         <seg>Crea els documents &amp;traduïts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create A&amp;lternative Translation</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T172428Z" creationid="Marc Riera" creationdate="20221117T172428Z">
+        <seg>Crea una traducció a&amp;lternativa</seg>
       </tuv>
     </tu>
     <tu>
@@ -12632,6 +12675,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Insert Unicode Control C&amp;haracter</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T172348Z" creationid="Marc Riera" creationdate="20221117T172348Z">
+        <seg>Insereix un c&amp;aràcter de control d'Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Insert Unicode Control Character</seg>
@@ -13937,12 +13988,28 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T172404Z" creationid="Marc Riera" creationdate="20221117T172404Z">
+        <seg>Incrustació d'esquerra a dreta (LRE U+202&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200726T123214Z" creationid="mgalo" creationdate="20181111T220442Z">
         <seg>Incrustació d'esquerra a dreta (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T172355Z" creationid="Marc Riera" creationdate="20221117T172355Z">
+        <seg>Marca d'esquerra a dreta (LRM U+200&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18261,6 +18328,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Pop Directional Formatting (PDF U+202&amp;C)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T172414Z" creationid="Marc Riera" creationdate="20221117T172414Z">
+        <seg>Fi del format direccional (PDF U+202&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Pop Directional Formatting (PDF U+202C)</seg>
@@ -19204,6 +19279,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Register I&amp;dentical Translation</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T172443Z" creationid="Marc Riera" creationdate="20221117T172443Z">
+        <seg>Registra una traducció i&amp;dèntica</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Register Identical Translation</seg>
@@ -19353,6 +19436,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200123T221838Z" creationid="mgalo" creationdate="20181112T110647Z">
         <seg>Suprimei&amp;x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remo&amp;ve Translation</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T172435Z" creationid="Marc Riera" creationdate="20221117T172435Z">
+        <seg>Suprimei&amp;x la traducció</seg>
       </tuv>
     </tu>
     <tu>
@@ -19728,6 +19819,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151343Z" creationid="Marc Riera" creationdate="20180221T113359Z">
         <seg>Substitueix per:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T172231Z" creationid="Marc Riera" creationdate="20221117T172231Z">
+        <seg>Substitueix...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20109,12 +20208,28 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Right-to-Left Embedding (RLE U+202&amp;B)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T172410Z" creationid="Marc Riera" creationdate="20221117T172410Z">
+        <seg>Incrustació de dreta a esquerra (RLE U+202&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200726T123222Z" creationid="mgalo" creationdate="20181111T220502Z">
         <seg>Incrustació de dreta a esquerra (RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T172400Z" creationid="Marc Riera" creationdate="20221117T172400Z">
+        <seg>Marca de dreta a esquerra (RLM U+200&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21508,6 +21623,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T183713Z" creationid="Marc Riera" creationdate="20190924T114339Z">
         <seg>definida i emmagatzemada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set Empty Translation</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T172438Z" creationid="Marc Riera" creationdate="20221117T172438Z">
+        <seg>Defineix una traducció buida</seg>
       </tuv>
     </tu>
     <tu>
@@ -26667,6 +26790,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T231005Z" creationid="Marc Riera" creationdate="20191110T231005Z">
         <seg>Utilitza totes les traduccions actualitzades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use as Default Translati&amp;on</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T172422Z" creationid="Marc Riera" creationdate="20221117T172422Z">
+        <seg>Utilitza com a traducci&amp;ó per defecte</seg>
       </tuv>
     </tu>
     <tu>
