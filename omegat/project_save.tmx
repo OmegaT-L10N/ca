@@ -3979,6 +3979,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Allow local external search commands</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T214844Z" creationid="Marc Riera" creationdate="20221123T214844Z">
+        <seg>Permet les ordres de cerca externa locals</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Allow to save password as plain text</seg>
@@ -6542,6 +6550,14 @@ una descripció de com s'ha produït aquest error.</seg>
         <seg>Context Menu Priority:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T173824Z" creationid="mgalo" creationdate="20181112T110127Z">
+        <seg>Prioritat en el menú contextual:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Context menu priority:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T214848Z" creationid="Marc Riera" creationdate="20221123T214848Z">
         <seg>Prioritat en el menú contextual:</seg>
       </tuv>
     </tu>
@@ -11212,6 +11228,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Go to Preferences &gt; Global External Searches to enable them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T214830Z" creationid="Marc Riera" creationdate="20221123T214830Z">
+        <seg>Aneu a «Preferències &gt; Cerques externes globals» per a habilitar-les.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>GoTo Menu</seg>
@@ -12558,6 +12582,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T124348Z" creationid="Marc Riera" creationdate="20180214T223412Z">
         <seg>En els comentaris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In editor</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T214833Z" creationid="Marc Riera" creationdate="20221123T214833Z">
+        <seg>En l'editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -14585,6 +14617,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T174044Z" creationid="Marc Riera" creationdate="20221117T174044Z">
         <seg>Les ordres de postprocessament locals estan inhabilitades i no s'executaran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T214817Z" creationid="Marc Riera" creationdate="20221123T214817Z">
+        <seg>Les ordres de projecte locals estan inhabilitades per raons de seguretat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21130,6 +21170,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T143708Z" creationid="Stephanie" creationdate="20150722T193219Z">
         <seg>Cerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search &amp;automatically</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T214808Z" creationid="Marc Riera" creationdate="20221123T214808Z">
+        <seg>Cerca &amp;automàticament</seg>
       </tuv>
     </tu>
     <tu>
