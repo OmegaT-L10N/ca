@@ -745,6 +745,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Ignore matches with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T213735Z" creationid="Marc Riera" creationdate="20221123T213735Z">
+        <seg>&amp;Ignora les coincidències amb majúscules i minúscules molt diferents (p. ex., «FOO» i «foo»)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
@@ -849,6 +857,14 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T082912Z" creationid="mgalo" creationdate="20181118T170153Z">
         <seg>&amp;Executa un servidor local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Layout:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T213750Z" creationid="Marc Riera" creationdate="20221123T213750Z">
+        <seg>&amp;Disposició:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15292,6 +15308,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Merge alternate definitions of the same term</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T213740Z" creationid="Marc Riera" creationdate="20221123T213740Z">
+        <seg>Combina les definicions alternatives per al mateix terme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Merriam Webster dictionary - use</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T215107Z" creationid="Marc Riera" creationdate="20201130T215107Z">
@@ -20075,6 +20099,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151457Z" creationid="Marc Riera" creationdate="20220130T220401Z">
         <seg>Substitueix les coincidències del glossari en inserir el text d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace matches when inserting source text</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T213723Z" creationid="Marc Riera" creationdate="20221123T213723Z">
+        <seg>Substitueix les coincidències en inserir el text d'origen</seg>
       </tuv>
     </tu>
     <tu>
