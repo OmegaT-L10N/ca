@@ -2262,6 +2262,18 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    A folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215431Z" creationid="Marc Riera" creationdate="20221123T215431Z">
+        <seg>--mode=console-align:
+	  --alignDir=&lt;camí&gt;
+	    Carpeta amb els fitxers traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx
 	  --pseudotranslatetmx=&lt;path&gt;
 	    The output pseudotranslated TMX file.</seg>
@@ -2304,6 +2316,18 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-stats
+	  project_path
+	    The path to the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215501Z" creationid="Marc Riera" creationdate="20221123T215501Z">
+        <seg>--mode=console-stats
+	  project_path
+	    Camí del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-translate
 	  --source-pattern=&lt;pattern&gt;
 	    A regex whitelist of source files to process.</seg>
@@ -2333,6 +2357,18 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195401Z" creationid="Marc Riera" creationdate="20221005T195401Z">
         <seg>	  Inhabilita la funcionalitat de projecte en equip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215455Z" creationid="Marc Riera" creationdate="20221123T215455Z">
+        <seg>--output-file=[fitxer de sortida d'estadístiques]
+	    Envia els resultats al fitxer especificat o a la sortida estàndard
+	    si no s'indica cap fitxer o no s'utilitza l'opció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27244,6 +27280,16 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
 	See --help</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221005T200631Z" creationid="Marc Riera" creationdate="20221005T200631Z">
+        <seg>Ús: team init &lt;llengua d'origen&gt; &lt;llengua de destinació&gt;
+	Consulteu --help.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
+	See --help.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215515Z" creationid="Marc Riera" creationdate="20221123T215515Z">
         <seg>Ús: team init &lt;llengua d'origen&gt; &lt;llengua de destinació&gt;
 	Consulteu --help.</seg>
       </tuv>
