@@ -718,6 +718,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Go to Downloads</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T214942Z" creationid="Marc Riera" creationdate="20221123T214942Z">
+        <seg>&amp;Ves a Baixades</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Help</seg>
@@ -2117,6 +2125,16 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The folder used to read or write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215401Z" creationid="Marc Riera" creationdate="20221123T215401Z">
+        <seg>--config-dir=&lt;camí&gt;
+	  Carpeta on llegir i escriure els fitxers de configuració de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--config-file=&lt;path&gt;
@@ -2156,6 +2174,16 @@ per a editar-lo com a projecte en equip.)</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195523Z" creationid="Marc Riera" creationdate="20221005T195523Z">
         <seg>--disable-location-save
 	  No recordis el darrer directori obert en el selector de fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-location-save
+	  Do not remember the last folder opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215344Z" creationid="Marc Riera" creationdate="20221123T215344Z">
+        <seg>--disable-location-save
+	  No recordis la darrera carpeta oberta en el selector de fitxers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2409,6 +2437,16 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215426Z" creationid="Marc Riera" creationdate="20221123T215426Z">
+        <seg>--resource-bundle=&lt;camí&gt;
+	  Fitxer .properties del Java que s'utilitzarà per al text de la interfície.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--script=&lt;path&gt;
@@ -2514,6 +2552,22 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225554Z" creationid="Marc Riera" creationdate="20201003T225554Z">
         <seg>.repositories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>/Applications/OmegaT.app/Contents/Java/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215131Z" creationid="Marc Riera" creationdate="20221123T215131Z">
+        <seg>/Aplicacions/OmegaT.app/Contents/Java/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>/opt/omegat/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215101Z" creationid="Marc Riera" creationdate="20221123T215101Z">
+        <seg>/opt/omegat/</seg>
       </tuv>
     </tu>
     <tu>
@@ -4379,6 +4433,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Application Folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T214950Z" creationid="Marc Riera" creationdate="20221123T214950Z">
+        <seg>Carpeta de l'aplicació</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Apply &amp;Fix</seg>
@@ -5247,6 +5309,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191207T233201Z" creationid="mgalo" creationdate="20181111T214829Z">
         <seg>Fit&amp;xer de destinació actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C:\Program Files\OmegaT\</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215052Z" creationid="Marc Riera" creationdate="20221123T215052Z">
+        <seg>C:\Fitxers de programa\OmegaT\</seg>
       </tuv>
     </tu>
     <tu>
@@ -16224,6 +16294,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No option: Launch GUI.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215311Z" creationid="Marc Riera" creationdate="20221123T215311Z">
+        <seg>Sense opcions: inicia la GUI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No options: Launch GUI</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195332Z" creationid="Marc Riera" creationdate="20221005T123123Z">
@@ -17429,12 +17507,36 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT's executable.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215202Z" creationid="Marc Riera" creationdate="20221123T215202Z">
+        <seg>Executable de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181114T120913Z" creationid="mgalo" creationdate="20181114T120913Z">
         <seg>L'OmegaT, en canvi, la mostraria d'aquesta manera:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT-license.txt</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215140Z" creationid="Marc Riera" creationdate="20221123T215140Z">
+        <seg>OmegaT-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215156Z" creationid="Marc Riera" creationdate="20221123T215156Z">
+        <seg>OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -19298,6 +19400,14 @@ project without team functionality.</seg>
         <seg>Project path only: Launch GUI and load specified project</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195334Z" creationid="Marc Riera" creationdate="20221005T123155Z">
+        <seg>Només camí d'un projecte: inicia la GUI i carrega el projecte especificat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project path only: Launch GUI and load specified project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215315Z" creationid="Marc Riera" creationdate="20221123T215315Z">
         <seg>Només camí d'un projecte: inicia la GUI i carrega el projecte especificat.</seg>
       </tuv>
     </tu>
@@ -21380,6 +21490,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215220Z" creationid="Marc Riera" creationdate="20221123T215220Z">
+        <seg>Consulteu &lt;l0/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;Use a team project&lt;/l0&gt; for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T160836Z" creationid="Marc Riera" creationdate="20220625T160836Z">
@@ -22010,6 +22128,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
         <seg>Set &amp; Stored</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T183713Z" creationid="Marc Riera" creationdate="20190924T114339Z">
+        <seg>definida i emmagatzemada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set &amp; stored</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T214939Z" creationid="Marc Riera" creationdate="20221123T214939Z">
         <seg>definida i emmagatzemada</seg>
       </tuv>
     </tu>
@@ -23848,6 +23974,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The GPL version 3.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215154Z" creationid="Marc Riera" creationdate="20221123T215154Z">
+        <seg>GPL, versió 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The HTML user manual for OmegaT standard version.</seg>
@@ -24080,6 +24214,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The application folder contains the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; application and a number of other important files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215018Z" creationid="Marc Riera" creationdate="20221123T215018Z">
+        <seg>La carpeta de l'aplicació conté l'aplicació &lt;f0&gt;OmegaT.jar&lt;/f0&gt; i altres fitxers importants.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The application runs on your machine.</seg>
@@ -24217,6 +24359,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210521T171123Z" creationid="Marc Riera" creationdate="20210521T165849Z">
         <seg>La diferència és petita: anomenem «finestra» una finestra que pot romandre oberta alhora que l'editor i interaccionar-hi i «quadre de diàleg» una finestra en què heu de seleccionar paràmetres abans de tancar-la i seguir la vostra activitat de traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The documentation distribution license.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215250Z" creationid="Marc Riera" creationdate="20221123T215250Z">
+        <seg>Llicència de distribució de la documentació</seg>
       </tuv>
     </tu>
     <tu>
@@ -24442,6 +24592,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="ca" changeid="Marc Riera" changedate="20200124T225224Z" creationid="Marc Riera" creationdate="20200122T230721Z">
         <seg>La llicència de cada biblioteca
 s'indica a «/lib/licenses/Licenses.txt».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of improvements and bug fixes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215229Z" creationid="Marc Riera" creationdate="20221123T215229Z">
+        <seg>Llista de millores i correccions d'errors.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24673,6 +24831,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T220528Z" creationid="Marc Riera" creationdate="20201130T220528Z">
         <seg>Les extensions reconegudes són &lt;f1&gt;TXT&lt;/f1&gt; i &lt;f2&gt;UTF8&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The recommended or default locations are the following:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215035Z" creationid="Marc Riera" creationdate="20221123T215035Z">
+        <seg>Les ubicacions recomanades o per defecte són les següents:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29349,6 +29515,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>changes.txt</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215222Z" creationid="Marc Riera" creationdate="20221123T215222Z">
+        <seg>changes.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
@@ -29398,6 +29572,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225512Z" creationid="Marc Riera" creationdate="20201003T225512Z">
         <seg>dictionary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>doc-license.txt</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215232Z" creationid="Marc Riera" creationdate="20221123T215232Z">
+        <seg>doc-license.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -30272,6 +30454,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>index.html</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215253Z" creationid="Marc Riera" creationdate="20221123T215253Z">
+        <seg>index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>init &lt;source language&gt; &lt;target language&gt;
@@ -30368,6 +30558,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200125T141631Z" creationid="mgalo" creationdate="20181118T101122Z">
         <seg>mALIGNa (llicència MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215104Z" creationid="Marc Riera" creationdate="20221123T215104Z">
+        <seg>macOS</seg>
       </tuv>
     </tu>
     <tu>
