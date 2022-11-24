@@ -183,6 +183,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Allow local post-processing commands</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220307Z" creationid="Marc Riera" creationdate="20221124T220307Z">
+        <seg>&amp;Permet les ordres de postprocessament locals</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Allow only unique characters</seg>
@@ -1313,6 +1321,14 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151413Z" creationid="mgalo" creationdate="20181112T101855Z">
         <seg>&amp;Substitueix...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Reset Colour</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220531Z" creationid="Marc Riera" creationdate="20221124T220531Z">
+        <seg>&amp;Reinicialitza el color</seg>
       </tuv>
     </tu>
     <tu>
@@ -3198,6 +3214,22 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220545Z" creationid="Marc Riera" creationdate="20221124T220545Z">
+        <seg>&lt;html&gt;&lt;i&gt;Preferències&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Utilitza Tab per a avançar&lt;/i&gt; està marcat&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant format): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220437Z" creationid="Marc Riera" creationdate="20221124T220437Z">
+        <seg>&lt;html&gt;Afegiu patrons mitjançant comodins (format de l'Apache Ant): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Exemple: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
@@ -4216,11 +4248,27 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Aligner "Accepted" group</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220510Z" creationid="Marc Riera" creationdate="20221124T220510Z">
+        <seg>Grup «Acceptat» de l'alineador</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Aligner "Needs Review" Group</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T225009Z" creationid="Marc Riera" creationdate="20191110T225009Z">
+        <seg>Grup «Pendent de revisió» de l'alineador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner "Needs Review" group</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220514Z" creationid="Marc Riera" creationdate="20221124T220514Z">
         <seg>Grup «Pendent de revisió» de l'alineador</seg>
       </tuv>
     </tu>
@@ -4239,6 +4287,22 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
         <seg>Aligner Table Row Highlight</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200122T225656Z" creationid="Marc Riera" creationdate="20200122T225656Z">
+        <seg>Ressaltat de les files de la taula de l'alineador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner highlight</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220516Z" creationid="Marc Riera" creationdate="20221124T220516Z">
+        <seg>Ressaltat de l'alineador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner table row highlight</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220519Z" creationid="Marc Riera" creationdate="20221124T220519Z">
         <seg>Ressaltat de les files de la taula de l'alineador</seg>
       </tuv>
     </tu>
@@ -6370,6 +6434,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the tag issues again.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220327Z" creationid="Marc Riera" creationdate="20221124T220327Z">
+        <seg>Torneu a comprovar els errors d'etiquetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220118Z" creationid="Marc Riera" creationdate="20220130T220118Z">
@@ -7117,6 +7189,16 @@ una descripció de com s'ha produït aquest error.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215925Z" creationid="Marc Riera" creationdate="20221124T215925Z">
+        <seg>Poseu-vos en contacte amb l'administrador del projecte per a saber
+si cal fer res més.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Contains a comprehensive description of OmegaT.</seg>
@@ -7241,6 +7323,14 @@ una descripció de com s'ha produït aquest error.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T185354Z" creationid="Marc Riera" creationdate="20201125T185354Z">
         <seg>També poden existir característiques o solucions alternatives pràctiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Conversion to the new team project format cannot be performed in console mode.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215709Z" creationid="Marc Riera" creationdate="20221124T215709Z">
+        <seg>La conversió al nou format de projecte en equip no es pot fer en el mode de consola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7711,6 +7801,14 @@ una descripció de com s'ha produït aquest error.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110833Z" creationid="Marc Riera" creationdate="20190521T110833Z">
         <seg>Data de creació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creation of new team project cancelled</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220201Z" creationid="Marc Riera" creationdate="20221124T220201Z">
+        <seg>S'ha cancel·lat la creació del nou projecte en equip.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9202,6 +9300,14 @@ una descripció de com s'ha produït aquest error.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Double-check it and try again.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220223Z" creationid="Marc Riera" creationdate="20221124T220223Z">
+        <seg>Comproveu-lo i torneu-ho a provar.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Double-click on the OmegaT application.</seg>
@@ -9959,6 +10065,14 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Enter username/password for {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220117Z" creationid="Marc Riera" creationdate="20221124T220117Z">
+        <seg>Indiqueu l'usuari i la contrasenya per a {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Enter your master password.</seg>
@@ -10155,6 +10269,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T145807Z" creationid="Marc Riera" creationdate="20191113T072833Z">
         <seg>S'ha produït un error en recuperar {0} com a fitxer de projecte remot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error retrieving {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220239Z" creationid="Marc Riera" creationdate="20221124T220239Z">
+        <seg>S'ha produït un error en recuperar «{0}» com a fitxer de projecte remot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11434,6 +11556,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>For best results, install the appropriate dictionaries via Preferences &gt; Spellchecker.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220413Z" creationid="Marc Riera" creationdate="20221124T220413Z">
+        <seg>Per a obtenir uns resultats òptims, instal·leu els diccionaris adequats des de «Preferències &gt; Corrector ortogràfic».</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
@@ -11959,6 +12089,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Global post-processing commands</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220257Z" creationid="Marc Riera" creationdate="20221124T220257Z">
+        <seg>Ordres de postprocessament globals</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Global spell checking</seg>
@@ -12096,6 +12234,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220430Z" creationid="Marc Riera" creationdate="20220130T220430Z">
         <seg>Disposició del glossari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary matches</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220449Z" creationid="Marc Riera" creationdate="20221124T220449Z">
+        <seg>Coincidències dels glossaris</seg>
       </tuv>
     </tu>
     <tu>
@@ -15034,6 +15180,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language checker</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220443Z" creationid="Marc Riera" creationdate="20221124T220443Z">
+        <seg>Corrector lingüístic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language name</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204610Z" creationid="Marc Riera" creationdate="20221124T204610Z">
@@ -15999,6 +16153,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Machine translate highlight</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220523Z" creationid="Marc Riera" creationdate="20221124T220523Z">
+        <seg>Ressaltat de la traducció automàtica</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Magento CE Locale CSV</seg>
@@ -16469,10 +16631,58 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches changed</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220454Z" creationid="Marc Riera" creationdate="20221124T220454Z">
+        <seg>Coincidències canviades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches come from your current translation or the TMX files placed in the /tm/ folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212355Z" creationid="Marc Riera" creationdate="20221124T212355Z">
         <seg>Les coincidències provenen tant de la traducció actual com dels fitxers TMX ubicats en la carpeta «/tm/».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches deleted active</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220500Z" creationid="Marc Riera" creationdate="20221124T220500Z">
+        <seg>Coincidències suprimides actives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches deleted inactive</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220502Z" creationid="Marc Riera" creationdate="20221124T220502Z">
+        <seg>Coincidències suprimides inactives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches inserted active</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220457Z" creationid="Marc Riera" creationdate="20221124T220457Z">
+        <seg>Coincidències inserides actives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches inserted inactive</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220458Z" creationid="Marc Riera" creationdate="20221124T220458Z">
+        <seg>Coincidències inserides inactives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches unchanged</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220455Z" creationid="Marc Riera" creationdate="20221124T220455Z">
+        <seg>Coincidències sense canviar</seg>
       </tuv>
     </tu>
     <tu>
@@ -17535,6 +17745,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195332Z" creationid="Marc Riera" creationdate="20221005T123123Z">
         <seg>Sense opcions: inicia la GUI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No predefined credentials passed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220229Z" creationid="Marc Riera" creationdate="20221124T220229Z">
+        <seg>No s'han enviat les credencials predefinides.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19083,6 +19301,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open it in the OmegaT GUI tTo convert it to the new format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215829Z" creationid="Marc Riera" creationdate="20221124T215750Z">
+        <seg>Obriu-lo en GUI de l'OmegaT per a convertir-lo al nou format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T171253Z" creationid="Stephanie" creationdate="20150722T193542Z">
@@ -20308,6 +20534,14 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Press 'OK' to convert the project into a 4.x team project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215851Z" creationid="Marc Riera" creationdate="20221124T215834Z">
+        <seg>Seleccioneu «D'acord» per a convertir-lo en un projecte en equip de la versió 4.x.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Press 'OK' to convert the project into a 4.x-style team project.</seg>
@@ -20717,6 +20951,22 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Project conversion failed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215933Z" creationid="Marc Riera" creationdate="20221124T215933Z">
+        <seg>S'ha produït un error en convertir el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project conversion successful.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215920Z" creationid="Marc Riera" creationdate="20221124T215920Z">
+        <seg>El projecte s'ha convertit correctament.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Project creating end</seg>
@@ -20732,6 +20982,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T185131Z" creationid="mgalo" creationdate="20181112T221948Z">
         <seg>S'ha iniciat la creació del projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project data saving interval</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220253Z" creationid="Marc Riera" creationdate="20221124T220253Z">
+        <seg>Interval de desament de les dades del projecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -21945,6 +22203,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Resolve the conflicts by choosing a translation for each segment below.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220425Z" creationid="Marc Riera" creationdate="20221124T220425Z">
+        <seg>Seleccioneu una traducció per a cada segment a continuació per a resoldre els conflictes.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Resource name</seg>
@@ -22910,6 +23176,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Search found mark</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220505Z" creationid="Marc Riera" creationdate="20221124T220505Z">
+        <seg>Marca de cerca trobada</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Search in</seg>
@@ -22940,6 +23214,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T160442Z" creationid="Stephanie" creationdate="20150722T193938Z">
         <seg>Les opcions de cerca són similars a les que es mostren en la &lt;l0&gt;finestra de cerca&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search replaced mark</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220508Z" creationid="Marc Riera" creationdate="20221124T220508Z">
+        <seg>Marca de cerca substituïda</seg>
       </tuv>
     </tu>
     <tu>
@@ -25641,6 +25923,14 @@ L'àmbit d'una substitució de text són els segments de destinació del project
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Text to remove</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220315Z" creationid="Marc Riera" creationdate="20221124T220315Z">
+        <seg>Text que se suprimirà</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Thanks to the work of translators in the past, OmegaT's user interface and/or Help texts have been translated into several languages.</seg>
@@ -26817,6 +27107,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The specified project is an OmegaT 3.6 team project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215648Z" creationid="Marc Riera" creationdate="20221124T215648Z">
+        <seg>El projecte especificat és un projecte en equip de l'OmegaT 3.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The specified project is an OmegaT 3.6-style team project.</seg>
@@ -27619,6 +27917,18 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150526T134432Z" creationid="Alexandra" creationdate="20150526T134432Z">
         <seg>Aquest lloc web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will
+delete your local data and re-download the project contents from
+the server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215902Z" creationid="Marc Riera" creationdate="20221124T215902Z">
+        <seg>Això
+suprimirà les dades locals i tornarà a baixar els continguts del projecte
+des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29638,6 +29948,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>User credentials denied</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220210Z" creationid="Marc Riera" creationdate="20221124T220210Z">
+        <seg>S'han denegat les credencials de l'usuari.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>User denied credentials</seg>
@@ -30176,6 +30494,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T154535Z" creationid="mgalo" creationdate="20181111T225618Z">
         <seg>Si un sol fitxer té un nombre de segments superior, els segments addicionals es carregaran a mesura que us desplaceu avall.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When checked, the items in the glossary auto-completer view will also contain the source text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220338Z" creationid="Marc Riera" creationdate="20221124T220338Z">
+        <seg>Si es marca, els elements de la visualització d'emplenament automàtic del glossari també contindran el text d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30885,6 +31211,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>You are trying to use the HunspellTokenizer with {0}, but no spelling dictionaries are installed for this language.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220353Z" creationid="Marc Riera" creationdate="20221124T220353Z">
+        <seg>Esteu intentant utilitzar el lematitzador del Hunspell amb la llengua «{0}», però no hi ha cap diccionari ortogràfic instal·lat per a aquesta llengua.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
@@ -31138,6 +31472,14 @@ window to be able to launch it from any location.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T131451Z" creationid="Marc Riera" creationdate="20200122T230937Z">
         <seg>Podeu arrossegar l'aplicació OmegaT al dock o a la barra d'eines
 d'una finestra del Finder per a poder-la executar des de qualsevol lloc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may have forgotten an initial commit.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220103Z" creationid="Marc Riera" creationdate="20221124T220103Z">
+        <seg>És possible que hàgiu oblidat la publicació inicial.</seg>
       </tuv>
     </tu>
     <tu>
