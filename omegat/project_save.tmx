@@ -287,6 +287,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Auto-propagation of translations</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180529Z" creationid="Marc Riera" creationdate="20221124T180529Z">
+        <seg>Propaga les traduccions &amp;automàticament</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Automatically Fetch Translations</seg>
@@ -8136,6 +8144,14 @@ una descripció de com s'ha produït aquest error.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries folder:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180457Z" creationid="Marc Riera" creationdate="20221124T180457Z">
+        <seg>Carpeta dels diccionaris:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T214827Z" creationid="Marc Riera" creationdate="20201130T214827Z">
@@ -10078,6 +10094,14 @@ els fils de teranyina t'aparten.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Export translation memories folder:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180503Z" creationid="Marc Riera" creationdate="20221124T180503Z">
+        <seg>Carpeta de les memòries de traducció exportades:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Export translation memory folder entered does not exist!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220824T080302Z" creationid="Marc Riera" creationdate="20220824T080103Z">
@@ -11362,6 +11386,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20211022T160730Z" creationid="marc" creationdate="20211021T053106Z">
         <seg>Els glossaris son fitxers terminològics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries folder:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180448Z" creationid="Marc Riera" creationdate="20221124T180448Z">
+        <seg>Carpeta dels glossaris:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14934,12 +14966,36 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Local Segmentation R&amp;ules...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180431Z" creationid="Marc Riera" creationdate="20221124T180431Z">
+        <seg>Regles de se&amp;gmentació locals...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T075209Z" creationid="mgalo" creationdate="20181112T222239Z">
         <seg>Camí d'instal·lació local:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180538Z" creationid="Marc Riera" creationdate="20221124T180538Z">
+        <seg>Ordres de postprocessament locals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands (disabled):</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180543Z" creationid="Marc Riera" creationdate="20221124T180543Z">
+        <seg>Ordres de postprocessament locals (inhabilitades):</seg>
       </tuv>
     </tu>
     <tu>
@@ -20416,6 +20472,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Remove ta&amp;gs</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180533Z" creationid="Marc Riera" creationdate="20221124T180533Z">
+        <seg>Supri&amp;meix les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remove tags from DOCX documents</seg>
@@ -21603,6 +21667,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175944Z" creationid="Marc Riera" creationdate="20221124T175944Z">
         <seg>Se&amp;lecciona el text d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Se&amp;ntence-level segmenting</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180419Z" creationid="Marc Riera" creationdate="20221124T180419Z">
+        <seg>Segme&amp;ntació per frases</seg>
       </tuv>
     </tu>
     <tu>
@@ -23083,12 +23155,36 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Source files folder:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180445Z" creationid="Marc Riera" creationdate="20221124T180445Z">
+        <seg>Carpeta dels fitxers d'origen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files language:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180509Z" creationid="Marc Riera" creationdate="20221124T180509Z">
+        <seg>Llengua dels fitxers d'origen:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Source folder {0} does not exist.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215017Z" creationid="mgalo" creationdate="20181115T225744Z">
         <seg>La carpeta de fitxers d'origen {0} no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source language tokenizer:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180517Z" creationid="Marc Riera" creationdate="20221124T180517Z">
+        <seg>Lematitzador de la llengua d'origen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23971,6 +24067,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181115T225753Z">
         <seg>La carpeta de fitxers de destinació {0} no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target language tokenizer:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180522Z" creationid="Marc Riera" creationdate="20221124T180522Z">
+        <seg>Lematitzador de la llengua de destinació:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26720,6 +26824,22 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Translated files folder:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180500Z" creationid="Marc Riera" creationdate="20221124T180500Z">
+        <seg>Carpeta dels fitxers traduïts:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files language:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180513Z" creationid="Marc Riera" creationdate="20221124T180513Z">
+        <seg>Llengua dels fitxers traduïts:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translated files location not defined</seg>
@@ -26833,6 +26953,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T184644Z" creationid="Marc Riera" creationdate="20180221T112033Z">
         <seg>Darrera modificació de la traducció: {0}, el {1} a les {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories folder:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180447Z" creationid="Marc Riera" creationdate="20221124T180447Z">
+        <seg>Carpeta de les memòries de traducció:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27863,6 +27991,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use local &amp;segmentation rules</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180440Z" creationid="Marc Riera" creationdate="20221124T180440Z">
+        <seg>Utilitza regles de &amp;segmentació locals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use stemming for glossary entries</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220355Z" creationid="Marc Riera" creationdate="20220130T220355Z">
@@ -28822,6 +28958,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212442Z" creationid="Marc Riera" creationdate="20201130T212442Z">
         <seg>Treball fora de línia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writable glossary file:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180451Z" creationid="Marc Riera" creationdate="20221124T180451Z">
+        <seg>Fitxer de glossari modificable:</seg>
       </tuv>
     </tu>
     <tu>
