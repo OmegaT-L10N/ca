@@ -5250,6 +5250,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Break/exception</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204613Z" creationid="Marc Riera" creationdate="20221124T204613Z">
+        <seg>Divisió/excepció</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Briac Pilpré</seg>
@@ -6712,6 +6720,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T221157Z" creationid="mgalo" creationdate="20181112T221157Z">
         <seg>Comprimeix els espais en blanc en el document traduït</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Compress whitespace in translated file</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204548Z" creationid="Marc Riera" creationdate="20221124T204537Z">
+        <seg>Comprimeix els espais en blanc en el fitxer traduït</seg>
       </tuv>
     </tu>
     <tu>
@@ -11607,6 +11623,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Global Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204622Z" creationid="Marc Riera" creationdate="20221124T204622Z">
+        <seg>Regles de segmentació globals</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Global spell checking</seg>
@@ -12825,6 +12849,22 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there is a declaration, that encoding  be used regardless of the setting specified here.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204606Z" creationid="Marc Riera" creationdate="20221124T204606Z">
+        <seg>Si hi ha una declaració, s'utilitzarà la codificació que s'hi indiqui, independentment d'aquests paràmetres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there is a declaration, that encoding will be used regardless of the setting specified here.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204408Z" creationid="Marc Riera" creationdate="20221124T204408Z">
+        <seg>Si hi ha una declaració, s'utilitzarà la codificació que s'hi indiqui, independentment d'aquests paràmetres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170443Z" creationid="Packard Bell" creationdate="20150605T161235Z">
@@ -13136,6 +13176,30 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T232441Z" creationid="Marc Riera" creationdate="20191112T232441Z">
         <seg>Ignora: «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignored &lt;meta&gt; tags "content" attribute</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204526Z" creationid="Marc Riera" creationdate="20221124T204526Z">
+        <seg>Atribut "content" de les etiquetes &lt;meta&gt; ignorat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignored paragraphs (regular expression)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204427Z" creationid="Marc Riera" creationdate="20221124T204427Z">
+        <seg>Paràgrafs ignorats (expressió regular)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignored tags (attribute=value)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204445Z" creationid="Marc Riera" creationdate="20221124T204445Z">
+        <seg>Etiquetes ignorades (atribut=valor)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14573,12 +14637,28 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Language name</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204610Z" creationid="Marc Riera" creationdate="20221124T204610Z">
+        <seg>Nom de la llengua</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Language not specified for translation unit variant.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T170536Z" creationid="Marc Riera" creationdate="20180214T224057Z">
         <seg>No s'ha especificat cap llengua per a la variant de la unitat de traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language pattern</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204612Z" creationid="Marc Riera" creationdate="20221124T204612Z">
+        <seg>Patró de la llengua</seg>
       </tuv>
     </tu>
     <tu>
@@ -15287,6 +15367,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180431Z" creationid="Marc Riera" creationdate="20221124T180431Z">
         <seg>Regles de se&amp;gmentació locals...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204627Z" creationid="Marc Riera" creationdate="20221124T204627Z">
+        <seg>Regles de segmentació locals</seg>
       </tuv>
     </tu>
     <tu>
@@ -16305,6 +16393,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modify encoding declaration</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204418Z" creationid="Marc Riera" creationdate="20221124T204418Z">
+        <seg>Modifica la declaració de codificació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modifying the segmentation rules may have the effect of modifying the number of segments/unique segments.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220307T225902Z" creationid="Marc Riera" creationdate="20220307T225902Z">
@@ -17257,6 +17353,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T152506Z" creationid="mgalo" creationdate="20181109T234724Z">
         <seg>Nota: els paràmetres de codificació dels fitxers d'origen afecten només els fitxers HTML que no contenen cap declaració de codificació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: The Source file encoding setting only affects HHC and HHK files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204603Z" creationid="Marc Riera" creationdate="20221124T204603Z">
+        <seg>Nota: els paràmetres de codificació dels fitxers d'origen afecten només els fitxers HHC i HHK sense cap declaració de codificació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19036,6 +19140,22 @@ s'esvaeix com la boira.</seg>
         <seg>Pattern Before</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181110T001753Z" creationid="mgalo" creationdate="20181110T001753Z">
+        <seg>Patró anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pattern after</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204617Z" creationid="Marc Riera" creationdate="20221124T204617Z">
+        <seg>Patró posterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pattern before</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204615Z" creationid="Marc Riera" creationdate="20221124T204615Z">
         <seg>Patró anterior</seg>
       </tuv>
     </tu>
@@ -20822,6 +20942,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200121T221021Z" creationid="mgalo" creationdate="20181112T221209Z">
         <seg>Suprimeix els comentaris HTML en el document traduït</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove HTML comments in translated file</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204544Z" creationid="Marc Riera" creationdate="20221124T204544Z">
+        <seg>Suprimeix els comentaris HTML en el fitxer traduït</seg>
       </tuv>
     </tu>
     <tu>
