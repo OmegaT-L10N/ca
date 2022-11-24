@@ -2049,6 +2049,34 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>- drag and drop files on this pane;
+	- use Project &gt; Add Files...;
+	- use Project &gt; Source Files... and click on Add Files...;
+	- use your file manager to copy files to the 'source' folder,
+	  and then use Project &gt; Reload to reload the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T173731Z" creationid="Marc Riera" creationdate="20221124T173731Z">
+        <seg>- Arrossegueu i deixeu anar fitxers en aquesta subfinestra;
+	- Utilitzeu «Projecte &gt; Afegeix fitxers...»;
+	- Utilitzeu «Projecte &gt; Fitxers d'origen...» i feu clic en «Afegeix fitxers...»;
+	- Utilitzeu el gestor de fitxers per a copiar fitxers a la carpeta «source»
+	  i seleccioneu «Projecte &gt; Torna a carregar» per a recarregar el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
+	  if per-project filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175424Z" creationid="Marc Riera" creationdate="20221124T175424Z">
+        <seg>- Comproveu que el format sigui compatible amb l'Omegat:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>---- Localization Notes ----</seg>
@@ -12312,6 +12340,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T144026Z" creationid="Marc Riera" creationdate="20180221T114846Z">
         <seg>Si el filtre té opcions, podeu canviar-les fent clic a «Opcions».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the project contains files but their content is not displayed here:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T173745Z" creationid="Marc Riera" creationdate="20221124T173745Z">
+        <seg>Si el projecte conté fitxers però no se'n mostra el contingut aquí:</seg>
       </tuv>
     </tu>
     <tu>
