@@ -695,6 +695,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202505Z" creationid="Marc Riera" creationdate="20221124T202505Z">
+        <seg>&amp;Força la drecera d'etiqueta «&lt;f&gt;» per a «&lt;it pos="end"&gt;»</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
@@ -1147,6 +1155,14 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214324Z" creationid="mgalo" creationdate="20181109T232020Z">
         <seg>Conserva els es&amp;pais per a totes les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Preserve whitespace for all tags</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202604Z" creationid="Marc Riera" creationdate="20221124T202604Z">
+        <seg>Conserva e&amp;ls espais en totes les etiquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -3517,6 +3533,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
         <seg>A&amp;ggregate Tags</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214332Z" creationid="mgalo" creationdate="20181109T232008Z">
+        <seg>A&amp;glutina les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A&amp;ggregate tags</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202600Z" creationid="Marc Riera" creationdate="20221124T202600Z">
         <seg>A&amp;glutina les etiquetes</seg>
       </tuv>
     </tu>
@@ -7126,6 +7150,14 @@ una descripció de com s'ha produït aquest error.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Copyright © 2000-2022 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202620Z" creationid="Marc Riera" creationdate="20221124T202620Z">
+        <seg>Copyright © 2000-2022 Keith Godfrey, Maxym Mykhalchuk et al.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Could not create project dir at {0}</seg>
@@ -8664,6 +8696,14 @@ una descripció de com s'ha produït aquest error.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Do you really want to remove pattern {0}?</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202707Z" creationid="Marc Riera" creationdate="20221124T202707Z">
+        <seg>Segur que voleu suprimir el patró {0}?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Do you want to continue?</seg>
@@ -9060,6 +9100,14 @@ una descripció de com s'ha produït aquest error.</seg>
         <seg>Duplicate Fallbac&amp;k Text</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181109T231238Z" creationid="mgalo" creationdate="20181109T231238Z">
+        <seg>&amp;Text de reserva duplicat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Duplicate fallbac&amp;k text</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202540Z" creationid="Marc Riera" creationdate="20221124T202540Z">
         <seg>&amp;Text de reserva duplicat</seg>
       </tuv>
     </tu>
@@ -10397,6 +10445,14 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>External lLin&amp;ks</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202555Z" creationid="Marc Riera" creationdate="20221124T202555Z">
+        <seg>En&amp;llaços externs</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>External program failed({1}): {0}</seg>
@@ -10638,6 +10694,14 @@ els fils de teranyina t'aparten.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File &amp;format</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202721Z" creationid="Marc Riera" creationdate="20221124T202721Z">
+        <seg>Format dels &amp;fitxers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File &gt; Close (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): close the search window (in the same way as &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T201431Z" creationid="Marc Riera" creationdate="20220621T201431Z">
@@ -10819,6 +10883,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T141033Z" creationid="Marc Riera" creationdate="20180214T224146Z">
         <seg>No s'ha pogut carregar el filtre «{0}» de «{1}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter Settings</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202657Z" creationid="Marc Riera" creationdate="20221124T202657Z">
+        <seg>Opcions dels filtres</seg>
       </tuv>
     </tu>
     <tu>
@@ -16983,6 +17055,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Non-visible instruction te&amp;xt</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202535Z" creationid="Marc Riera" creationdate="20221124T202535Z">
+        <seg>Te&amp;xt d'instruccions invisible</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>None</seg>
@@ -17732,6 +17812,14 @@ actualitzats.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T151135Z" creationid="mgalo" creationdate="20181115T221130Z">
         <seg>L'OmegaT és una eina gratuïta, de codi obert i multiplataforma de traducció assistida per ordinador, amb coincidències parcials, memòria de traducció, cerca de paraules clau, glossaris i aprofitament de traduccions en projectes actualitzats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is a free and open source multiplatform computer-assisted translation (CAT) tool offering fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202654Z" creationid="Marc Riera" creationdate="20221124T202654Z">
+        <seg>L'OmegaT és una eina gratuïta, de codi obert i multiplataforma de traducció assistida per ordinador (TAO) que ofereix coincidències parcials, memòria de traducció, cerca de paraules clau, glossaris i aprofitament de traduccions en projectes actualitzats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18647,6 +18735,14 @@ Runtime Environment (JRE) en el sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other options:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202557Z" creationid="Marc Riera" creationdate="20221124T202557Z">
+        <seg>Altres opcions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other plugins are available online.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221109T210040Z" creationid="Marc Riera" creationdate="20221109T210040Z">
@@ -19419,6 +19515,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T232628Z" creationid="Marc Riera" creationdate="20191110T232628Z">
         <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PowerPoint</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202543Z" creationid="Marc Riera" creationdate="20221124T202543Z">
+        <seg>PowerPoint</seg>
       </tuv>
     </tu>
     <tu>
@@ -20739,6 +20843,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Remove pattern</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202716Z" creationid="Marc Riera" creationdate="20221124T202716Z">
+        <seg>Supressió del patró</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remove pattern?</seg>
@@ -21492,6 +21604,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
         <seg>S&amp;lide Comments</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T143758Z" creationid="mgalo" creationdate="20181109T231624Z">
+        <seg>Comentari&amp;s de les diapositives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>S&amp;lide comments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202546Z" creationid="Marc Riera" creationdate="20221124T202546Z">
         <seg>Comentari&amp;s de les diapositives</seg>
       </tuv>
     </tu>
@@ -23199,11 +23319,27 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Sli&amp;de masters</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202548Z" creationid="Marc Riera" creationdate="20221124T202548Z">
+        <seg>&amp;Diapositives mestres</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Slide La&amp;youts</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T143809Z" creationid="mgalo" creationdate="20181109T231827Z">
+        <seg>Dissen&amp;ys de les diapositives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slide la&amp;youts</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202552Z" creationid="Marc Riera" creationdate="20221124T202552Z">
         <seg>Dissen&amp;ys de les diapositives</seg>
       </tuv>
     </tu>
@@ -23786,6 +23922,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
         <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T143836Z" creationid="Marc Riera" creationdate="20191112T214105Z">
+        <seg>Inicia un paràgraf n&amp;ou en els salts de línia suaus del Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new paragraph &amp;on Word soft return</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202612Z" creationid="Marc Riera" creationdate="20221124T202612Z">
         <seg>Inicia un paràgraf n&amp;ou en els salts de línia suaus del Word</seg>
       </tuv>
     </tu>
@@ -24434,6 +24578,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T132723Z" creationid="Marc Riera" creationdate="20190924T132723Z">
         <seg>Text de destinació més llarg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target segment status</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202516Z" creationid="Marc Riera" creationdate="20221124T202516Z">
+        <seg>Estat del segment de destinació</seg>
       </tuv>
     </tu>
     <tu>
@@ -28258,6 +28410,14 @@ The current setting is {0}MB;</seg>
         <seg>Utilitzeu «java -Xmx&lt;mida en MB&gt;M -jar OmegaT.jar» en la
 línia d'ordres o en l'script d'inici de l'OmegaT.
 El valor actual és de {0} MB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202525Z" creationid="Marc Riera" creationdate="20221124T202525Z">
+        <seg>Utilitza «needs-review-translation» en comptes de «translated»</seg>
       </tuv>
     </tu>
     <tu>
