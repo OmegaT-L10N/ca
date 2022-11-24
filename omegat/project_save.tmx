@@ -3498,6 +3498,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>A note is simply a remark about the source text or its translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212715Z" creationid="Marc Riera" creationdate="20221124T212715Z">
+        <seg>Una nota és simplement una indicació sobre el text d'origen o la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>A restart is required in order to apply these changes</seg>
@@ -11357,6 +11365,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>For file formats and filters that support comments (e.g. PO-filter), displays the comments for the translator concerning the active segment, if any.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T213403Z" creationid="Marc Riera" creationdate="20221124T213403Z">
+        <seg>Per als formats i filtres de fitxers que admeten els comentaris (p. ex., el filtre de fitxers PO), mostra els comentaris de traducció relacionats amb el segment actiu, si n'hi ha.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>For installation on Linux.</seg>
@@ -12843,6 +12859,18 @@ no cal introduir el camí complet.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T135341Z" creationid="Marc Riera" creationdate="20201125T135326Z">
         <seg>Si ja teniu instal·lada una versió adequada del JRE en el vostre sistema Windows, seleccioneu «sense el JRE».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If access to the desired location is granted later,
+that location will be used and all settings will be reset to
+their default values.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214507Z" creationid="Marc Riera" creationdate="20221124T214507Z">
+        <seg>Si més endavant es concedeix accés a la ubicació desitjada,
+s'utilitzarà aquesta ubicació i tots els paràmetres es reinicialitzaran
+als valors per defecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18497,6 +18525,18 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T123725Z" creationid="Alexandra" creationdate="20150526T160104Z">
         <seg>Vídeos de l'OmegaT en el canal de YouTube de Qabiria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT was refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T213420Z" creationid="Marc Riera" creationdate="20221124T213420Z">
+        <seg>S'ha blocat l'accés de l'OmegaT a la propietat del sistema que conté
+el nom del sistema operatiu o a la propietat del sistema que conté
+la carpeta d'inici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29662,6 +29702,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>View, add, remove or edit a note in the active segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212651Z" creationid="Marc Riera" creationdate="20221124T212651Z">
+        <seg>Visualitzeu, afegiu, suprimiu o editeu una nota en el segment actiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>View...</seg>
@@ -30899,6 +30947,16 @@ d'una finestra del Finder per a poder-la executar des de qualsevol lloc.</seg>
 create its configuration folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072044Z" creationid="Marc Riera" creationdate="20191113T072044Z">
+        <seg>El sistema operatiu no ha permès que l'OmegaT
+creï la carpeta de configuració.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your operating system refused to let OmegaT
+create the configuration folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T213425Z" creationid="Marc Riera" creationdate="20221124T213425Z">
         <seg>El sistema operatiu no ha permès que l'OmegaT
 creï la carpeta de configuració.</seg>
       </tuv>
