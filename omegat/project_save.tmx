@@ -1586,6 +1586,14 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Stop at segments that are untranslated or have alternative translations</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T211129Z" creationid="Marc Riera" creationdate="20221124T211129Z">
+        <seg>Atura't en els &amp;segments sense traduir o amb traduccions alternatives</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Store for this session only</seg>
@@ -4216,6 +4224,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All sets that match the project source language are applied.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T211111Z" creationid="Marc Riera" creationdate="20221124T211111Z">
+        <seg>S'apliquen tots els conjunts que coincideixen amb la llengua d'origen del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the changes will be synchronised the next time a connection is available.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212709Z" creationid="Marc Riera" creationdate="20201130T212709Z">
@@ -4792,6 +4808,14 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Attempt to convert fuzzy match &amp;numbers</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T211531Z" creationid="Marc Riera" creationdate="20221124T211531Z">
+        <seg>Intenta convertir les xifres de les coi&amp;ncidències parcials</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Attribute:</seg>
@@ -4825,6 +4849,14 @@ inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200726T103051Z" creationid="Marc Riera" creationdate="20200726T103051Z">
         <seg>Autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto &amp;replace plural specification</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T210755Z" creationid="Marc Riera" creationdate="20221124T210755Z">
+        <seg>&amp;Substitueix automàticament l'especificació de plurals</seg>
       </tuv>
     </tu>
     <tu>
@@ -8814,6 +8846,14 @@ una descripció de com s'ha produït aquest error.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>DocBook files must have a proper DOCTYPE declaration.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T210927Z" creationid="Marc Riera" creationdate="20221124T210927Z">
+        <seg>Els fitxers DocBook han de tenir una declaració DOCTYPE adequada.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Dock</seg>
@@ -11283,6 +11323,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T185502Z" creationid="Marc Riera" creationdate="20201125T185502Z">
         <seg>Existeix una &lt;a0&gt;llista de correu de desenvolupament&lt;/a0&gt; específica amb aquesta finalitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Force Unicode literals compatibility with Java 8</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T210910Z" creationid="Marc Riera" creationdate="20221124T210910Z">
+        <seg>Força la compatibilitat dels codis literals d'Unicode amb el Java 8</seg>
       </tuv>
     </tu>
     <tu>
@@ -14501,12 +14549,20 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Keep Unico&amp;de literals (\uXXXX)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T210848Z" creationid="Marc Riera" creationdate="20221124T210848Z">
+        <seg>Conserva els codis literals d'Unico&amp;de (\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Keep tags in translated text</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20210414T141831Z" creationid="Marc Riera" creationdate="20210414T141831Z">
-        <seg>Mantén les etiquetes en el text traduït</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T210816Z" creationid="Marc Riera" creationdate="20210414T141831Z">
+        <seg>Conserva les etiquetes en el text traduït</seg>
       </tuv>
     </tu>
     <tu>
@@ -24032,6 +24088,16 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191113T175200Z" creationid="mgalo" creationdate="20181110T001818Z">
         <seg>Castellà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specific sets should be put above general sets:
+"FR-CA" should be above "FR.*", which should be above ".*".</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T211056Z" creationid="Marc Riera" creationdate="20221124T211056Z">
+        <seg>Indiqueu els conjunts específics sobre els conjunts generals:
+«FR-CA» hauria d'estar sobre «FR.*», que hauria d'estar sobre «.*».</seg>
       </tuv>
     </tu>
     <tu>
