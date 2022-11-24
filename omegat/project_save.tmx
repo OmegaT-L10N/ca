@@ -9473,6 +9473,16 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Enter a language code in xx-YY, xxx-YY, xx_YY or xxx_YY  format, where xx or xxx 
+is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190830Z" creationid="Marc Riera" creationdate="20221124T190830Z">
+        <seg>Indiqueu un codi de llengua en el format xx-YY, xxx-YY, xx_YY o xxx_YY, en què xx o xxx
+és el codi de llengua i YY és el codi de regió o país (opcional).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Enter a source term, a target term and a comment:</seg>
@@ -10036,6 +10046,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T113911Z" creationid="Marc Riera" creationdate="20180221T113911Z">
         <seg>Exclou els segments orfes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exclude pattern</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190810Z" creationid="Marc Riera" creationdate="20221124T190810Z">
+        <seg>Patró d'exclusió</seg>
       </tuv>
     </tu>
     <tu>
@@ -13136,6 +13154,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Include pattern</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190812Z" creationid="Marc Riera" creationdate="20221124T190812Z">
+        <seg>Patró d'inclusió</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
@@ -14958,6 +14984,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local External Searc&amp;hes...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190659Z" creationid="Marc Riera" creationdate="20221124T190659Z">
+        <seg>Cerques externes lo&amp;cals...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local External Searches</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221109T205912Z" creationid="Marc Riera" creationdate="20221109T205912Z">
@@ -15011,6 +15045,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180431Z" creationid="Marc Riera" creationdate="20221124T180431Z">
         <seg>Regles de se&amp;gmentació locals...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local file/folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190803Z" creationid="Marc Riera" creationdate="20221124T190803Z">
+        <seg>Fitxer o carpeta local</seg>
       </tuv>
     </tu>
     <tu>
@@ -15297,6 +15339,14 @@ durant la primera execució.</seg>
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T150916Z" creationid="mgalo" creationdate="20181218T201533Z">
+        <seg>Assignació de carpetes locals a carpetes remotes en dipòsits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping of local folders to remote folders in repositories</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190801Z" creationid="Marc Riera" creationdate="20221124T190801Z">
         <seg>Assignació de carpetes locals a carpetes remotes en dipòsits</seg>
       </tuv>
     </tu>
@@ -20069,6 +20119,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Re&amp;pository Mapping...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190652Z" creationid="Marc Riera" creationdate="20221124T190652Z">
+        <seg>Assignació de re&amp;positoris...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Reading TMX file {0}</seg>
@@ -20370,10 +20428,26 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote file/folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190805Z" creationid="Marc Riera" creationdate="20221124T190805Z">
+        <seg>Fitxer o carpeta remota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote project file lacks git setting.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220824T075908Z" creationid="Marc Riera" creationdate="20220824T075908Z">
         <seg>Falten els paràmetres del Git en el fitxer del projecte remot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote repositories</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190756Z" creationid="Marc Riera" creationdate="20221124T190756Z">
+        <seg>Dipòsits remots</seg>
       </tuv>
     </tu>
     <tu>
@@ -20769,7 +20843,7 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Repository</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190924T113209Z" creationid="mgalo" creationdate="20181218T201543Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190743Z" creationid="mgalo" creationdate="20181218T201543Z">
         <seg>Dipòsit</seg>
       </tuv>
     </tu>
@@ -24167,7 +24241,7 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Team Mode Repository Mapping</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T181253Z" creationid="Marc Riera" creationdate="20201003T181253Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190751Z" creationid="Marc Riera" creationdate="20201003T181253Z">
         <seg>Assignació de dipòsits del mode en equip</seg>
       </tuv>
     </tu>
@@ -24848,6 +24922,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The dictionary files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T191032Z" creationid="Marc Riera" creationdate="20221124T191007Z">
+        <seg>La carpeta de fitxers de diccionari no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The difference between "Number of segments" and "Number of unique segments" provides an approximate idea of the number of repetitions in the text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121456Z" creationid="Marc Riera" creationdate="20220611T121456Z">
@@ -24885,6 +24967,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T155647Z" creationid="Marc Riera" creationdate="20201124T193309Z">
         <seg>La baixada serà més ràpida i la instal·lació requerirà menys espai en el disc dur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The export translation memory folder does not exist!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190954Z" creationid="Marc Riera" creationdate="20221124T190954Z">
+        <seg>La carpeta de memòries de traducció exportades no existeix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25013,6 +25103,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145651Z" creationid="Marc Riera" creationdate="20190924T145651Z">
         <seg>El fitxer del glossari és buit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The glossary files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T191016Z" creationid="Marc Riera" creationdate="20221124T190904Z">
+        <seg>La carpeta de fitxers de glossari no existeix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25445,6 +25543,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T191011Z" creationid="Marc Riera" creationdate="20221124T190840Z">
+        <seg>La carpeta de fitxers d'origen no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source subfolder contains files to be translated.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164805Z" creationid="Marc Riera" creationdate="20220625T164805Z">
@@ -25550,12 +25656,28 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The translated files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T191014Z" creationid="Marc Riera" creationdate="20221124T190852Z">
+        <seg>La carpeta de fitxers de destinació no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The translation has changed.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074216Z" creationid="Marc Riera" creationdate="20190925T074216Z">
         <seg>La traducció ha canviat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translation memory files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T191028Z" creationid="Marc Riera" creationdate="20221124T190936Z">
+        <seg>La carpeta de fitxers de memòria de traducció no existeix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25582,6 +25704,22 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T200754Z" creationid="Marc Riera" creationdate="20220621T200754Z">
         <seg>La paraula o expressió s'introdueix en el quadre &lt;g3&gt;Cerca&lt;/g3&gt; automàticament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The writable glossary file folder does not exist!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190914Z" creationid="Marc Riera" creationdate="20221124T190914Z">
+        <seg>La carpeta del fitxer de glossari modificable no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The writable glossary file must be inside the glossary folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190920Z" creationid="Marc Riera" creationdate="20221124T190920Z">
+        <seg>El fitxer de glossari modificable ha d'estar dins de la carpeta de glossaris.</seg>
       </tuv>
     </tu>
     <tu>
