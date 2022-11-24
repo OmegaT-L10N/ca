@@ -1085,6 +1085,14 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;None</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T211930Z" creationid="Marc Riera" creationdate="20221124T211930Z">
+        <seg>&amp;Cap</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Notes</seg>
@@ -1520,6 +1528,14 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T095237Z" creationid="mgalo" creationdate="20181108T152410Z">
         <seg>Mostra automàticament els &amp;suggeriments rellevants</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Simple variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T211950Z" creationid="Marc Riera" creationdate="20221124T211950Z">
+        <seg>Variables &amp;senzilles (p. ex., «%s», «%d»)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4247,6 +4263,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>All variables (e.g., %s, %-s)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212007Z" creationid="Marc Riera" creationdate="20221124T212007Z">
+        <seg>Totes les variables (p. ex., «%s», «%-s»)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Allo&amp;w tag editing</seg>
@@ -4834,6 +4858,14 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Authenticated proxy credentials:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T211905Z" creationid="Marc Riera" creationdate="20221124T211905Z">
+        <seg>Credencials del servidor intermediari autenticat:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Authentication</seg>
@@ -5241,6 +5273,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T230232Z" creationid="Marc Riera" creationdate="20191110T230232Z">
         <seg>Caràcters de control bidireccional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Block the creation of translated files with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212138Z" creationid="Marc Riera" creationdate="20221124T212116Z">
+        <seg>Impedeix la creació de fitxers traduïts amb problemes d'et&amp;iquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -5861,6 +5901,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Changing the tag order may break the translated file!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212055Z" creationid="Marc Riera" creationdate="20221124T212055Z">
+        <seg>El canvi d'ordre de les etiquetes podria generar errors en el fitxer traduït!</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Character</seg>
@@ -5939,6 +5987,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191208T155214Z" creationid="mgalo" creationdate="20181108T150419Z">
         <seg>Comprova s&amp;i hi ha errors...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check &amp;Java MessageFormat placeholders (e.g. {0})</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212039Z" creationid="Marc Riera" creationdate="20221124T212039Z">
+        <seg>Comprova els marcadors de posició de MessageFormat del &amp;Java (p. ex., «{0}»).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6160,6 +6216,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150636Z" creationid="Marc Riera" creationdate="20190924T150636Z">
         <seg>Comprova el nombre d'etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check printf function variables:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T211927Z" creationid="Marc Riera" creationdate="20221124T211927Z">
+        <seg>Comprova les variables de la funció «printf»:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7258,6 +7322,14 @@ una descripció de com s'ha produït aquest error.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Count &amp;flagged text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212313Z" creationid="Marc Riera" creationdate="20221124T212313Z">
+        <seg>Compta el text &amp;marcat i les etiquetes personalitzades en les estadístiques</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
@@ -8038,12 +8110,28 @@ una descripció de com s'ha produït aquest error.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Custom tags (regular expression):</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212320Z" creationid="Marc Riera" creationdate="20221124T212320Z">
+        <seg>Etiquetes personalitzades (expressió regular):</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Customize character &amp;table</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074556Z" creationid="mgalo" creationdate="20181112T103452Z">
         <seg>Personalitza la &amp;taula de caràcters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customize segment modification &amp;information</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T211834Z" creationid="Marc Riera" creationdate="20221124T211834Z">
+        <seg>Personalitza la &amp;informació de modificació dels segments</seg>
       </tuv>
     </tu>
     <tu>
@@ -8654,6 +8742,14 @@ una descripció de com s'ha produït aquest error.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays entries from in glossary files located in the /glossary/ folder if they are found in the source segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212502Z" creationid="Marc Riera" creationdate="20221124T212502Z">
+        <seg>Mostra les entrades que apareixen en els fitxers de glossari de la carpeta «/glossary/» si són en el segment d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the current log file.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T225945Z" creationid="Marc Riera" creationdate="20201129T225945Z">
@@ -8711,6 +8807,22 @@ una descripció de com s'ha produït aquest error.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T153021Z" creationid="mgalo" creationdate="20181112T090634Z">
         <seg>Mostra els segments de les memòries de traducció que coincideixen amb el segment d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the translation memory segments that match the source segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212335Z" creationid="Marc Riera" creationdate="20221124T212335Z">
+        <seg>Mostra els segments de les memòries de traducció que coincideixen amb el segment d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the translation of the current segment provided by the machine translation services selected in Preferences &gt; Machine Translation if those services are available.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212633Z" creationid="Marc Riera" creationdate="20221124T212633Z">
+        <seg>Mostra la traducció del segment actual proporcionada pels serveis de traducció automàtica seleccionats a «Preferències &gt; Traducció automàtica», sempre que els serveis estiguin disponibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11047,6 +11159,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181110T001821Z" creationid="mgalo" creationdate="20181110T001821Z">
         <seg>Finès</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Flagged text (regular expression):</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212329Z" creationid="Marc Riera" creationdate="20221124T212329Z">
+        <seg>Text marcat (expressió regular):</seg>
       </tuv>
     </tu>
     <tu>
@@ -15982,6 +16102,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Mark all non-unique segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T211704Z" creationid="Marc Riera" creationdate="20221124T211704Z">
+        <seg>Marca tots els segments no únics</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mark unknown words</seg>
@@ -16149,6 +16277,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T121949Z" creationid="mgalo" creationdate="20181112T090807Z">
         <seg>Les coincidències poden provenir tant de la traducció actual com dels fitxers TMX ubicats en la carpeta «/tm/».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches come from your current translation or the TMX files placed in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212355Z" creationid="Marc Riera" creationdate="20221124T212355Z">
+        <seg>Les coincidències provenen tant de la traducció actual com dels fitxers TMX ubicats en la carpeta «/tm/».</seg>
       </tuv>
     </tu>
     <tu>
@@ -23406,6 +23542,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Settings for tags originating from non-OmegaT TMX files:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T211645Z" creationid="Marc Riera" creationdate="20221124T211645Z">
+        <seg>Paràmetres de les etiquetes provinents de fitxers TMX que no són de l'OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Shift+F3</seg>
@@ -23781,6 +23925,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T155104Z" creationid="mgalo" creationdate="20181112T103225Z">
         <seg>Mostra el &amp;text complet, no la drecera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by Target Term Length</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212550Z" creationid="Marc Riera" creationdate="20221124T212550Z">
+        <seg>Ordena per longitud del terme de destinació</seg>
       </tuv>
     </tu>
     <tu>
@@ -24283,6 +24435,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201121T111316Z" creationid="Marc Riera" creationdate="20201121T111316Z">
         <seg>Versió estàndard: {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Standard template</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T211755Z" creationid="Marc Riera" creationdate="20221124T211755Z">
+        <seg>Plantilla estàndard</seg>
       </tuv>
     </tu>
     <tu>
@@ -25036,6 +25196,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T134135Z" creationid="Marc Riera" creationdate="20190924T134135Z">
         <seg>Telegram</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Template for segments without date</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T211818Z" creationid="Marc Riera" creationdate="20221124T211818Z">
+        <seg>Plantilla per als segments sense data</seg>
       </tuv>
     </tu>
     <tu>
@@ -28877,6 +29045,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;XML notation for standalone tags (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T211658Z" creationid="Marc Riera" creationdate="20221124T211658Z">
+        <seg>Utilitza la notació &amp;XML per a les etiquetes independents (p. ex.: &lt;i/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;fuzzy matching</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T214801Z" creationid="Marc Riera" creationdate="20221123T214801Z">
@@ -28915,6 +29091,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121033Z" creationid="Marc Riera" creationdate="20220611T121033Z">
         <seg>Utilitzeu &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt; per a obrir-la i &lt;k3&gt;Esc&lt;/k3&gt; per a tancar-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Create Glossary Entry in the Edit menu to add new entries.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212535Z" creationid="Marc Riera" creationdate="20221124T212535Z">
+        <seg>Utilitzeu «Crea un entrada en el glossari...» en el menú «Edita» per a afegir entrades.</seg>
       </tuv>
     </tu>
     <tu>
