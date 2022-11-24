@@ -1928,6 +1928,14 @@ Per a afegir fitxers al projecte, feu clic en el botó «Copia fitxers a la carp
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>(Leave the Password empty if you are using an API key.)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215337Z" creationid="Marc Riera" creationdate="20221124T215337Z">
+        <seg>(Deixeu la contrasenya buida si utilitzeu una clau de l'API.)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
@@ -3523,6 +3531,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>A rule ID can only contain Latin letters, underscores, and periods.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214930Z" creationid="Marc Riera" creationdate="20221124T214930Z">
+        <seg>L'ID de regla només pot contenir lletres de l'alfabet llatí, guions baixos i punts.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>A simple set of QA checks for current OmegaT project</seg>
@@ -3626,6 +3642,22 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T100730Z" creationid="mgalo" creationdate="20181112T100730Z">
         <seg>Clau API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>API key (optional)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215157Z" creationid="Marc Riera" creationdate="20221124T215157Z">
+        <seg>Clau de l'API (opcional)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>API key:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215149Z" creationid="Marc Riera" creationdate="20221124T215149Z">
+        <seg>Clau de l'API:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4476,6 +4508,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T093831Z" creationid="mgalo" creationdate="20181112T093831Z">
         <seg>S'ha produït un error en baixar el diccionari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while downloading the spellchecking dictionary.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214909Z" creationid="Marc Riera" creationdate="20221124T214909Z">
+        <seg>S'ha produït un error en baixar el diccionari de correcció ortogràfica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6791,8 +6831,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Committing source files</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T210049Z" creationid="mgalo" creationdate="20181108T153744Z">
-        <seg>S'estan enviant els fitxers d'origen.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215556Z" creationid="mgalo" creationdate="20181108T153744Z">
+        <seg>S'estan publicant els fitxers d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6800,8 +6840,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Committing target files</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T210037Z" creationid="mgalo" creationdate="20181108T153820Z">
-        <seg>S'estan enviant els fitxers de destinació.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215603Z" creationid="mgalo" creationdate="20181108T153820Z">
+        <seg>S'estan publicant els fitxers de destinació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6890,6 +6930,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200121T215830Z" creationid="Marc Riera" creationdate="20180212T220952Z">
         <seg>Confirmació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Confirm deletion</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214741Z" creationid="Marc Riera" creationdate="20221124T214741Z">
+        <seg>Confirmació de la supressió</seg>
       </tuv>
     </tu>
     <tu>
@@ -8219,6 +8267,14 @@ una descripció de com s'ha produït aquest error.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>DeepL API key not available.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215222Z" creationid="Marc Riera" creationdate="20221124T215222Z">
+        <seg>La clau de l'API de DeepL no està disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>DeepL Api key not available.</seg>
@@ -8301,6 +8357,14 @@ una descripció de com s'ha produït aquest error.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212435Z" creationid="Marc Riera" creationdate="20201130T212435Z">
         <seg>Supressió de fitxers d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deletion failed</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214805Z" creationid="Marc Riera" creationdate="20221124T214805Z">
+        <seg>Error de supressió</seg>
       </tuv>
     </tu>
     <tu>
@@ -8760,6 +8824,14 @@ una descripció de com s'ha produït aquest error.</seg>
         <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200125T134106Z" creationid="mgalo" creationdate="20181112T101655Z">
+        <seg>Mostra les traduccions alternatives que heu creat per als segments que es repeteixen en el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays alternative translations you have created for repeated segments in the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215349Z" creationid="Marc Riera" creationdate="20221124T215349Z">
         <seg>Mostra les traduccions alternatives que heu creat per als segments que es repeteixen en el projecte.</seg>
       </tuv>
     </tu>
@@ -9636,6 +9708,14 @@ una descripció de com s'ha produït aquest error.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Either update to the latest JDK 1.6, or remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215138Z" creationid="Marc Riera" creationdate="20221124T215138Z">
+        <seg>Actualitzeu el JDK a la versió 1.6 més recent, o suprimiu els fitxers «jaxb-*.jar» de la carpeta «/lib» de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Email:</seg>
@@ -9843,6 +9923,14 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="Marc Riera" creationdate="20180212T221312Z">
         <seg>Escriviu un terme d'origen, un terme de destinació i un comentari:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215418Z" creationid="Marc Riera" creationdate="20221124T215418Z">
+        <seg>Indiqueu el nom d'aquest conjunt:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10777,8 +10865,8 @@ els fils de teranyina t'aparten.
       <tuv lang="en">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T210005Z" creationid="mgalo" creationdate="20181108T153418Z">
-        <seg>No s'han pogut enviar els fitxers d'origen.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215549Z" creationid="mgalo" creationdate="20181108T153418Z">
+        <seg>No s'han pogut publicar els fitxers d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10786,8 +10874,8 @@ els fils de teranyina t'aparten.
       <tuv lang="en">
         <seg>Failed to commit target files!</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T210013Z" creationid="mgalo" creationdate="20181108T153502Z">
-        <seg>No s'han pogut enviar els fitxers de destinació.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215553Z" creationid="mgalo" creationdate="20181108T153502Z">
+        <seg>No s'han pogut publicar els fitxers de destinació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12099,12 +12187,28 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Go to Segment Source</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215013Z" creationid="Marc Riera" creationdate="20221124T215013Z">
+        <seg>Ves a l'origen del segment</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>GoTo Menu</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201210T191840Z" creationid="Packard Bell" creationdate="20150605T160914Z">
         <seg>Menú Ves a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Google API key not available.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215204Z" creationid="Marc Riera" creationdate="20221124T215204Z">
+        <seg>La clau de l'API de Google no està disponible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13811,6 +13915,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Insert Match or Selection into Translation</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215018Z" creationid="Marc Riera" creationdate="20221124T215018Z">
+        <seg>Insereix la coincidència o la selecció en la traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Insert Missing Source &amp;Tags</seg>
@@ -13955,6 +14067,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T094710Z" creationid="mgalo" creationdate="20181112T094710Z">
         <seg>Instal·la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install failed</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214813Z" creationid="Marc Riera" creationdate="20221124T214813Z">
+        <seg>Error d'instal·lació</seg>
       </tuv>
     </tu>
     <tu>
@@ -14884,6 +15004,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110935Z" creationid="Marc Riera" creationdate="20190521T110935Z">
         <seg>Corrector lingüístic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language Installer</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214942Z" creationid="Marc Riera" creationdate="20221124T214942Z">
+        <seg>Instal·lador de llengües</seg>
       </tuv>
     </tu>
     <tu>
@@ -16602,6 +16730,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Model ID:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215230Z" creationid="Marc Riera" creationdate="20221124T215230Z">
+        <seg>ID del model:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Model Id:</seg>
@@ -17371,6 +17507,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No new languages available at the remote server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215006Z" creationid="Marc Riera" creationdate="20221124T215006Z">
+        <seg>No hi ha cap llengua nova disponible en el servidor remot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No option: Launch GUI</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T165136Z" creationid="Marc Riera" creationdate="20221117T165136Z">
@@ -17436,6 +17580,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T154645Z" creationid="mgalo" creationdate="20181111T225946Z">
         <seg>Sense etiquetes ni xifres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No writable glossary file in the glossary folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215447Z" creationid="Marc Riera" creationdate="20221124T215447Z">
+        <seg>No s'ha trobat cap fitxer de glossari modificable en la carpeta de glossaris.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22099,6 +22251,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Run script in slot #{0}.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215408Z" creationid="Marc Riera" creationdate="20221124T215408Z">
+        <seg>S'ha executat l'script de la ranura núm. {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Run script on slot #{0}.</seg>
@@ -22962,6 +23122,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>See the user guide for instructions.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215215Z" creationid="Marc Riera" creationdate="20221124T215215Z">
+        <seg>Consulteu la Guia d'usuari per a obtenir instruccions.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segment</seg>
@@ -23376,6 +23544,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T232106Z" creationid="Marc Riera" creationdate="20191110T232106Z">
         <seg>Seleccioneu el fitxer languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the desired languages and click Install.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214958Z" creationid="Marc Riera" creationdate="20221124T214958Z">
+        <seg>Seleccioneu les llengües desitjades i feu clic en «Instal·la».</seg>
       </tuv>
     </tu>
     <tu>
@@ -24195,8 +24371,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Source files committed</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T210057Z" creationid="mgalo" creationdate="20181108T153759Z">
-        <seg>S'han enviat els fitxers d'origen.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215559Z" creationid="mgalo" creationdate="20181108T153759Z">
+        <seg>S'han publicat els fitxers d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24701,6 +24877,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Subscription key:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215340Z" creationid="Marc Riera" creationdate="20221124T215340Z">
+        <seg>Clau de subscripció:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Subversion</seg>
@@ -25176,8 +25360,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Target files committed</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191110T210045Z" creationid="mgalo" creationdate="20181108T153919Z">
-        <seg>S'han enviat els fitxers de destinació.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215606Z" creationid="mgalo" creationdate="20181108T153919Z">
+        <seg>S'han publicat els fitxers de destinació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26642,6 +26826,22 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The specified spellchecking dictionary folder cannot be used.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214833Z" creationid="Marc Riera" creationdate="20221124T214833Z">
+        <seg>No es pot utilitzar la carpeta de diccionaris de correcció ortogràfica que heu especificat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified spellchecking dictionary folder does not exist.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214847Z" creationid="Marc Riera" creationdate="20221124T214847Z">
+        <seg>La carpeta de diccionaris de correcció ortogràfica especificada no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The specified translation direction is not supported</seg>
@@ -27975,6 +28175,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Translate this plural as a plural form #{0}.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215431Z" creationid="Marc Riera" creationdate="20221124T215431Z">
+        <seg>Traduïu aquest plural com la forma de plural #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translated File Encoding</seg>
@@ -28309,6 +28517,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Try again later.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214916Z" creationid="Marc Riera" creationdate="20221124T214916Z">
+        <seg>Torneu-ho a provar més tard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Trying with backup file</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T191711Z" creationid="Marc Riera" creationdate="20221124T191711Z">
@@ -28505,6 +28721,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Unable to commit because remote translation was changed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215642Z" creationid="Marc Riera" creationdate="20221124T215642Z">
+        <seg>No s'han pogut publicar els canvis perquè s'ha modificat la traducció remota.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unable to connect to server.</seg>
@@ -28528,6 +28752,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173525Z" creationid="Marc Riera" creationdate="20221117T173525Z">
         <seg>No s'han pogut crear els fitxers traduïts perquè falten etiquetes o estan malmeses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to delete the selected dictionary</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214754Z" creationid="Marc Riera" creationdate="20221124T214754Z">
+        <seg>No s'ha pogut suprimir el diccionari seleccionat</seg>
       </tuv>
     </tu>
     <tu>
@@ -29511,6 +29743,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T101144Z" creationid="mgalo" creationdate="20181112T101144Z">
         <seg>Nom d'usuari o clau API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Username or API key:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215227Z" creationid="Marc Riera" creationdate="20221124T215227Z">
+        <seg>Nom d'usuari o clau de l'API:</seg>
       </tuv>
     </tu>
     <tu>
