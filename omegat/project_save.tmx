@@ -871,6 +871,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Install new language...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214556Z" creationid="Marc Riera" creationdate="20221124T214556Z">
+        <seg>&amp;Instal·la una llengua nova...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Jump To Segment</seg>
@@ -3986,6 +3994,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add to Dictionary</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214511Z" creationid="Marc Riera" creationdate="20221124T214511Z">
+        <seg>Afegeix al diccionari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add to Dictionary: “{0}”</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T213641Z" creationid="Marc Riera" creationdate="20221123T213641Z">
@@ -5072,6 +5088,14 @@ inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180212T221735Z" creationid="Marc Riera" creationdate="20180212T221735Z">
         <seg>Diccionaris disponibles:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Available languages:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214535Z" creationid="Marc Riera" creationdate="20221124T214535Z">
+        <seg>Llengües disponibles:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8166,6 +8190,14 @@ una descripció de com s'ha produït aquest error.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T103936Z" creationid="Marc Riera" creationdate="20190521T103936Z">
         <seg>Txec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>D&amp;elete</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214601Z" creationid="Marc Riera" creationdate="20221124T214601Z">
+        <seg>Suprim&amp;eix</seg>
       </tuv>
     </tu>
     <tu>
@@ -24371,6 +24403,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Spellcheck the tr&amp;anslation</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214526Z" creationid="Marc Riera" creationdate="20221124T214526Z">
+        <seg>Comprova l'ortografia de la tr&amp;aducció</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Spellchecker</seg>
@@ -24386,6 +24426,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T093142Z" creationid="mgalo" creationdate="20181112T093142Z">
         <seg>Configuració del corrector ortogràfic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spellchecking dictionaries location:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214547Z" creationid="Marc Riera" creationdate="20221124T214547Z">
+        <seg>Ubicació dels diccionaris de correcció ortogràfica:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28404,6 +28452,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>URL of downloadable spellchecking dictionaries:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214619Z" creationid="Marc Riera" creationdate="20221124T214619Z">
+        <seg>URL dels diccionaris de correcció ortogràfica en línia:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>URL of online dictionaries:</seg>
@@ -30551,6 +30607,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201121T121140Z" creationid="Alexandra" creationdate="20150526T132605Z">
         <seg>També sou lliure de copiar-lo i enviar-lo a altres persones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are deleting the spellchecking dictionary that your project currently uses.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214733Z" creationid="Marc Riera" creationdate="20221124T214733Z">
+        <seg>Esteu intentant suprimir el diccionari de correcció ortogràfica que utilitza el projecte actual.</seg>
       </tuv>
     </tu>
     <tu>
