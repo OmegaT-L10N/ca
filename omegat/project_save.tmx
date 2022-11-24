@@ -166,6 +166,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Allow blank target segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T193037Z" creationid="Marc Riera" creationdate="20221124T193012Z">
+        <seg>Permet els se&amp;gments de destinació buits</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Allow blank translations in the target files</seg>
@@ -1444,6 +1452,14 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224504Z" creationid="Marc Riera" creationdate="20180214T224504Z">
         <seg>Noms dels f&amp;ulls</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Sheet names</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T193233Z" creationid="Marc Riera" creationdate="20221124T193233Z">
+        <seg>Nom&amp;s dels fulls</seg>
       </tuv>
     </tu>
     <tu>
@@ -6423,6 +6439,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Column index must be equal to 1</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192925Z" creationid="Marc Riera" creationdate="20221124T192925Z">
+        <seg>L'índex de la columna ha de ser igual a 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comm&amp;it Target Files</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175830Z" creationid="Marc Riera" creationdate="20221124T175830Z">
@@ -7311,6 +7335,14 @@ una descripció de com s'ha produït aquest error.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223646Z" creationid="Marc Riera" creationdate="20201003T223646Z">
         <seg>Crea còpies de seguretat dels fitxers DOCX originals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create paragraphs on:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T193128Z" creationid="Marc Riera" creationdate="20221124T193128Z">
+        <seg>Crea paràgrafs per a:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9690,6 +9722,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Error loading plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192914Z" creationid="Marc Riera" creationdate="20221124T192914Z">
+        <seg>S'ha produït un error en carregar el connector de la classe «{0}»: {1}: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error monitoring external command!</seg>
@@ -9791,6 +9831,14 @@ ningú no sent els vostres crits.</seg>
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T074834Z" creationid="Marc Riera" creationdate="20180214T224139Z">
+        <seg>S'ha produït un error en descarregar el connector de la classe «{0}»: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error unloading plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192920Z" creationid="Marc Riera" creationdate="20221124T192920Z">
         <seg>S'ha produït un error en descarregar el connector de la classe «{0}»: {1}</seg>
       </tuv>
     </tu>
@@ -12927,6 +12975,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Ignore &amp;PO header</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T193046Z" creationid="Marc Riera" creationdate="20221124T193046Z">
+        <seg>Ignora la capçalera del fitxer &amp;PO</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Ignore All</seg>
@@ -14881,6 +14937,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Line length in target files (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T193149Z" creationid="Marc Riera" creationdate="20221124T193149Z">
+        <seg>Longitud de la línia en els fitxers de destinació (0=sense límit)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Line length:</seg>
@@ -16128,12 +16192,28 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Monolin&amp;gual</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T193059Z" creationid="Marc Riera" creationdate="20221124T193059Z">
+        <seg>Monolin&amp;güe</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Monolingual</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114051Z" creationid="Marc Riera" creationdate="20180221T114051Z">
         <seg>Monolingüe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Monolingual XLIFF</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T193204Z" creationid="Marc Riera" creationdate="20221124T193204Z">
+        <seg>XLIFF monolingüe</seg>
       </tuv>
     </tu>
     <tu>
@@ -18632,6 +18712,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170340Z" creationid="Marc Riera" creationdate="20210521T170340Z">
         <seg>Els fitxers PDF són un cas especial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PDF text contents</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T193115Z" creationid="Marc Riera" creationdate="20221124T193115Z">
+        <seg>Contingut de text del PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -21443,6 +21531,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>SVG  / Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T193218Z" creationid="Marc Riera" creationdate="20221124T193218Z">
+        <seg>SVG / Exportació de l'Adobe Illustrator</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>SVG Image and Adobe Illustrator Export</seg>
@@ -23068,6 +23164,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Skipped translation units for which no source  segment was found.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192843Z" creationid="Marc Riera" creationdate="20221124T192843Z">
+        <seg>S'han omès les unitats de traducció sense cap segment d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
@@ -23334,12 +23438,28 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Source file encoding</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192929Z" creationid="Marc Riera" creationdate="20221124T192929Z">
+        <seg>Codificació del fitxer d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T214746Z" creationid="Marc Riera" creationdate="20180221T112455Z">
         <seg>S'han carregat els fitxers d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename pattern</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192928Z" creationid="Marc Riera" creationdate="20221124T192928Z">
+        <seg>Patró de nom del fitxer d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -23623,6 +23743,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T130105Z" creationid="Marc Riera" creationdate="20190520T130105Z">
         <seg>Patrocini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Standar&amp;d</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T193053Z" creationid="Marc Riera" creationdate="20221124T193053Z">
+        <seg>Estàndar&amp;d</seg>
       </tuv>
     </tu>
     <tu>
@@ -24156,6 +24284,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201553Z" creationid="Marc Riera" creationdate="20220612T201553Z">
         <seg>Processament d'etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag handling compatibility</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T193249Z" creationid="Marc Riera" creationdate="20221124T193249Z">
+        <seg>Compatibilitat en la gestió de les etiquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -24843,6 +24979,22 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T171028Z" creationid="Marc Riera" creationdate="20180214T224109Z">
         <seg>El fitxer TMX es carregarà igualment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX file will still be loaded.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192857Z" creationid="Marc Riera" creationdate="20221124T192857Z">
+        <seg>El fitxer TMX es carregarà igualment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX source language ({0}) differs from the project source language ({1}).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192852Z" creationid="Marc Riera" creationdate="20221124T192852Z">
+        <seg>La llengua d'origen del fitxer TMX ({0}) és diferent de la llengua d'origen del projecte ({1}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26987,6 +27139,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T193026Z" creationid="Marc Riera" creationdate="20221124T193026Z">
+        <seg>Tradueix els segments d'origen &amp;buits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate a PDF file</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170335Z" creationid="Marc Riera" creationdate="20210521T170335Z">
@@ -27092,6 +27252,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Translated file encoding</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192935Z" creationid="Marc Riera" creationdate="20221124T192935Z">
+        <seg>Codificació del fitxer de destinació</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
@@ -27100,6 +27268,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T141112Z" creationid="mgalo" creationdate="20181109T131707Z">
         <seg>El camí del fitxer traduït no pot ser idèntic al del fitxer d'origen:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated filename pattern</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192948Z" creationid="Marc Riera" creationdate="20221124T192948Z">
+        <seg>Patró de nom del fitxer de destinació</seg>
       </tuv>
     </tu>
     <tu>
@@ -29257,6 +29433,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Wordpress XML export</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T193224Z" creationid="Marc Riera" creationdate="20221124T193224Z">
+        <seg>Exportació XML del Wordpress</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Words</seg>
@@ -29910,6 +30094,14 @@ d'una finestra del Finder per a poder-la executar des de qualsevol lloc.</seg>
         <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T171103Z" creationid="Marc Riera" creationdate="20180214T224115Z">
+        <seg>El projecte actual utilitza la segmentació per frases, però el fitxer TMX s'ha creat amb una segmentació per paràgrafs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your current project uses sentence segmentation, but the TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192907Z" creationid="Marc Riera" creationdate="20221124T192907Z">
         <seg>El projecte actual utilitza la segmentació per frases, però el fitxer TMX s'ha creat amb una segmentació per paràgrafs.</seg>
       </tuv>
     </tu>
@@ -31389,6 +31581,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223847Z" creationid="Marc Riera" creationdate="20180214T223847Z">
         <seg>s'han carregat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>loaded {0} attributes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192821Z" creationid="Marc Riera" creationdate="20221124T192821Z">
+        <seg>s'han carregat {0} atributs.</seg>
       </tuv>
     </tu>
     <tu>
