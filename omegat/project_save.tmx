@@ -229,6 +229,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply a different font size to the dictionary pane</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180145Z" creationid="Marc Riera" creationdate="20221124T180145Z">
+        <seg>&amp;Aplica una mida de lletra diferent a la subfinestra «Diccionari»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply this font size to dictionary pane</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T154857Z" creationid="Marc Riera" creationdate="20220506T154857Z">
@@ -450,6 +458,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Current Source File</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175921Z" creationid="Marc Riera" creationdate="20221124T175921Z">
+        <seg>Fitxer d'origen a&amp;ctual</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Cycle</seg>
@@ -607,6 +623,14 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220824T075818Z" creationid="Marc Riera" creationdate="20220824T075818Z">
         <seg>&amp;Exporta les memòries de traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Exported TMs</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175915Z" creationid="Marc Riera" creationdate="20221124T175915Z">
+        <seg>Memòries de traducció &amp;exportades</seg>
       </tuv>
     </tu>
     <tu>
@@ -1674,6 +1698,14 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Writable Glossary</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175935Z" creationid="Marc Riera" creationdate="20221124T175935Z">
+        <seg>Glossari m&amp;odificable</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Writeable Glossary</seg>
@@ -2072,8 +2104,12 @@ per a editar-lo com a projecte en equip.)</seg>
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175424Z" creationid="Marc Riera" creationdate="20221124T175424Z">
-        <seg>- Comproveu que el format sigui compatible amb l'Omegat:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175623Z" creationid="Marc Riera" creationdate="20221124T175424Z">
+        <seg>- Comproveu que el format sigui compatible amb l'Omegat:
+	- Si els paràmetres de filtres específics del projecte estan habilitats,
+	  aneu a «Projecte &gt; Propietats... &gt; Filtres de fitxers locals...»;
+	  en cas contrari, aneu a «Opcions &gt; Filtres de fitxers globals...»;
+	- Obriu els fitxers amb l'aplicació original i comproveu que no estiguin buits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3567,6 +3603,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Access &amp;Configuration Folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180022Z" creationid="Marc Riera" creationdate="20221124T180022Z">
+        <seg>Obre la carpeta de &amp;configuració</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Access Configurat&amp;ion Folder</seg>
@@ -3729,12 +3773,45 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Add &amp;Files...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175636Z" creationid="Marc Riera" creationdate="20221124T175636Z">
+        <seg>Afegeix &amp;fitxers...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175642Z" creationid="Marc Riera" creationdate="20221124T175642Z">
+        <seg>Afegeix fitxers a la carpeta de fitxers d'origen...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Add Glossary Entry</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083717Z" creationid="mgalo" creationdate="20181112T091403Z">
         <seg>Afegeix una entrada al glossari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Online MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175658Z" creationid="Marc Riera" creationdate="20221124T175658Z">
+        <seg>Afegeix una pà&amp;gina del MediaWiki en línia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Add Online MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175712Z" creationid="Marc Riera" creationdate="20221124T175712Z">
+        <seg>Addició d'una pàgina del MediaWiki en línia</seg>
       </tuv>
     </tu>
     <tu>
@@ -5377,6 +5454,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C&amp;urrent Target File</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175929Z" creationid="Marc Riera" creationdate="20221124T175929Z">
+        <seg>Fitxer de destinació act&amp;ual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C:\Program Files\OmegaT\</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215052Z" creationid="Marc Riera" creationdate="20221123T215052Z">
@@ -5994,6 +6079,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Check whether this is intentional.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180105Z" creationid="Marc Riera" creationdate="20221124T180105Z">
+        <seg>Comproveu si s'ha fet intencionadament.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check whole project</seg>
@@ -6218,6 +6311,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Co&amp;mmit Source Files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175822Z" creationid="Marc Riera" creationdate="20221124T175822Z">
+        <seg>Publica els fit&amp;xers d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Code has been contributed by:
@@ -6244,6 +6345,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224200Z" creationid="Marc Riera" creationdate="20180214T224200Z">
         <seg>L'índex de la columna ha de ser igual a 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comm&amp;it Target Files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175830Z" creationid="Marc Riera" creationdate="20221124T175830Z">
+        <seg>Publica els f&amp;itxers de destinació</seg>
       </tuv>
     </tu>
     <tu>
@@ -6464,6 +6573,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150801T115207Z" creationid="Alexandra" creationdate="20150526T102544Z">
         <seg>Compatible amb altres aplicacions de memòries de traducció (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Completed and current translations saved as {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180208Z" creationid="Marc Riera" creationdate="20221124T180208Z">
+        <seg>S'han desat les traduccions completades i actuals a {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6984,6 +7101,14 @@ una descripció de com s'ha produït aquest error.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create &amp;Translated Files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175835Z" creationid="Marc Riera" creationdate="20221124T175835Z">
+        <seg>Crea els fitxers &amp;traduïts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create A&amp;lternative Translation</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T172428Z" creationid="Marc Riera" creationdate="20221117T172428Z">
@@ -6997,6 +7122,14 @@ una descripció de com s'ha produït aquest error.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161540Z" creationid="Packard Bell" creationdate="20150605T161540Z">
         <seg>Crea una traducció alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Current Translate&amp;d File</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175844Z" creationid="Marc Riera" creationdate="20221124T175844Z">
+        <seg>Crea el fitxer tra&amp;duït actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -9474,6 +9607,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Error monitoring post-processing commands!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180401Z" creationid="Marc Riera" creationdate="20221124T180401Z">
+        <seg>S'ha produït un error en supervisar les ordres de postprocessament.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error on application startup</seg>
@@ -9534,6 +9675,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112534Z" creationid="Marc Riera" creationdate="20180221T112534Z">
         <seg>S'ha produït un error en iniciar l'ordre externa: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error starting post-processing commands: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180237Z" creationid="Marc Riera" creationdate="20221124T180237Z">
+        <seg>S'ha produït un error en iniciar les ordres de postprocessament: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9849,6 +9998,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112533Z" creationid="Marc Riera" creationdate="20180221T112533Z">
         <seg>S'està executant una ordre externa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Executing post-processing commands...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180224Z" creationid="Marc Riera" creationdate="20221124T180224Z">
+        <seg>S'estan executant les ordres de postprocessament...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10175,6 +10332,14 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Failed to copy files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175736Z" creationid="Marc Riera" creationdate="20221124T175736Z">
+        <seg>No s'han pogut copiar els fitxers</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Failed to create project!</seg>
@@ -10189,6 +10354,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173003Z" creationid="Marc Riera" creationdate="20221117T173003Z">
         <seg>No s'han pogut crear els fitxers traduïts!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to download Mediawiki page</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175729Z" creationid="Marc Riera" creationdate="20221124T175729Z">
+        <seg>No s'ha pogut baixar la pàgina del MediaWiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -11367,6 +11540,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T214830Z" creationid="Marc Riera" creationdate="20221123T214830Z">
         <seg>Aneu a «Preferències &gt; Cerques externes globals» per a habilitar-les.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Segment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180108Z" creationid="Marc Riera" creationdate="20221124T180108Z">
+        <seg>Ves al segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -13022,6 +13203,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215249Z" creationid="Marc Riera" creationdate="20191112T215249Z">
         <seg>Mode d'inserció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Next Missing T&amp;ag</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175955Z" creationid="Marc Riera" creationdate="20221124T175955Z">
+        <seg>Insereix la següent etiquet&amp;a que falta</seg>
       </tuv>
     </tu>
     <tu>
@@ -17389,6 +17578,14 @@ està a punt per a executar-se.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT needs to reload the project to take the modifications into account.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180039Z" creationid="Marc Riera" creationdate="20221124T180039Z">
+        <seg>L'OmegaT ha de tornar a carregar el projecte per a aplicar les modificacions.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT on Linux HowTo</seg>
@@ -17694,6 +17891,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201126T150344Z" creationid="Marc Riera" creationdate="20201125T185334Z">
         <seg>Una raó és que potser la característica desitjada ja s'ha implementat o que hi ha raons que n'impedeixen la implementació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Online Mediawiki Page URL</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175721Z" creationid="Marc Riera" creationdate="20221124T175721Z">
+        <seg>URL de la pàgina del MediaWiki en línia</seg>
       </tuv>
     </tu>
     <tu>
@@ -18190,6 +18395,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T220122Z" creationid="Marc Riera" creationdate="20191112T220122Z">
         <seg>Mode de sobreescriptura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;roject Folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175904Z" creationid="Marc Riera" creationdate="20221124T175904Z">
+        <seg>Carpeta del p&amp;rojecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -18865,6 +19078,38 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T171233Z" creationid="Marc Riera" creationdate="20221117T171233Z">
         <seg>Solucions possibles:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing command failed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180308Z" creationid="Marc Riera" creationdate="20221124T180308Z">
+        <seg>S'ha produït un error en l'ordre de postprocessament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands completed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180249Z" creationid="Marc Riera" creationdate="20221124T180249Z">
+        <seg>S'han completat les ordres de postprocessament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands failed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180301Z" creationid="Marc Riera" creationdate="20221124T180301Z">
+        <seg>S'ha produït un error en les ordres de postprocessament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands were interrupted.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180316Z" creationid="Marc Riera" creationdate="20221124T180316Z">
+        <seg>S'han interromput les ordres de postprocessament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19699,6 +19944,14 @@ These words: 'Page not found'</seg>
         <seg>En comptes d'un bip
 o d'un missatge d'error maleducat,
 les paraules «No s'ha trobat la pàgina».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re&amp;load</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175742Z" creationid="Marc Riera" creationdate="20221124T175742Z">
+        <seg>Torna a &amp;carregar</seg>
       </tuv>
     </tu>
     <tu>
@@ -20921,6 +21174,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>S&amp;witch Case to</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180000Z" creationid="Marc Riera" creationdate="20221124T180000Z">
+        <seg>C&amp;anvia les majúscules i minúscules a</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>SQLJet (GPL License)</seg>
@@ -21334,6 +21595,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T191615Z" creationid="Alexandra" creationdate="20150526T133833Z">
         <seg>Els scripts i procediments disponibles us permeten fer el següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Se&amp;lect Source Text</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175944Z" creationid="Marc Riera" creationdate="20221124T175944Z">
+        <seg>Se&amp;lecciona el text d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -22566,6 +22835,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>So&amp;urce Files...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175856Z" creationid="Marc Riera" creationdate="20221124T175856Z">
+        <seg>Fitxer&amp;s d'origen...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Social Networks</seg>
@@ -22875,6 +23152,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T152801Z" creationid="Marc Riera" creationdate="20180212T221320Z">
         <seg>Terme d'origen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source/translation length (characters)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180117Z" creationid="Marc Riera" creationdate="20221124T180117Z">
+        <seg>Longitud (caràcters) del segment d'origen/traduït</seg>
       </tuv>
     </tu>
     <tu>
@@ -27367,6 +27652,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T155031Z" creationid="Marc Riera" creationdate="20220506T155031Z">
         <seg>Utilitza la visualització &amp;compacta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;Fuzzy Matching</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180005Z" creationid="Marc Riera" creationdate="20221124T180005Z">
+        <seg>Utiliza les &amp;coincidències parcials</seg>
       </tuv>
     </tu>
     <tu>
