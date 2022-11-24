@@ -4469,6 +4469,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Alternative</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220934Z" creationid="Marc Riera" creationdate="20221124T220934Z">
+        <seg>Traducció alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
@@ -8856,6 +8864,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Display TBX &amp;glossaries context description</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T221020Z" creationid="Marc Riera" creationdate="20221124T221020Z">
+        <seg>Mostra la descripció de context dels &amp;glossaris en format TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Display all &amp;source segments in bold</seg>
@@ -9536,6 +9552,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T111821Z" creationid="Marc Riera" creationdate="20180221T111821Z">
         <seg>Segments duplicats: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Duplicated</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220825Z" creationid="Marc Riera" creationdate="20221124T220825Z">
+        <seg>És un duplicat</seg>
       </tuv>
     </tu>
     <tu>
@@ -10375,6 +10399,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Error while loading the source files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220958Z" creationid="Marc Riera" creationdate="20221124T220958Z">
+        <seg>S'ha produït un error en carregar els fitxers d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error while reading MT results</seg>
@@ -10829,6 +10861,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221116T224134Z" creationid="Marc Riera" creationdate="20221116T224134Z">
         <seg>Ordre de cerca externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search Set</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T221104Z" creationid="Marc Riera" creationdate="20221124T221104Z">
+        <seg>Conjunt de cerca externa</seg>
       </tuv>
     </tu>
     <tu>
@@ -12515,6 +12555,22 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T113119Z" creationid="Marc Riera" creationdate="20180221T113119Z">
         <seg>HTTP(S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Has Comment, see Comments Tab</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220905Z" creationid="Marc Riera" creationdate="20221124T220905Z">
+        <seg>Té un comentari, consulteu «Comentaris»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Has Note, see Notes Tab</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220846Z" creationid="Marc Riera" creationdate="20221124T220846Z">
+        <seg>Té una nota, consulteu «Notes»</seg>
       </tuv>
     </tu>
     <tu>
@@ -15004,10 +15060,26 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep Remote Version</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220818Z" creationid="Marc Riera" creationdate="20221124T220818Z">
+        <seg>Conserva la versió remota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep Unico&amp;de literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T210848Z" creationid="Marc Riera" creationdate="20221124T210848Z">
         <seg>Conserva els codis literals d'Unico&amp;de (\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep Your Version</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220808Z" creationid="Marc Riera" creationdate="20221124T220759Z">
+        <seg>Conserva la meva versió</seg>
       </tuv>
     </tu>
     <tu>
@@ -16558,6 +16630,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Match term groups even if the terms appear separately</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T221053Z" creationid="Marc Riera" creationdate="20221124T221053Z">
+        <seg>Marca els grups de termes encara que els termes apareguin per separat</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Match type</seg>
@@ -17593,12 +17673,28 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220830Z" creationid="Marc Riera" creationdate="20221124T220830Z">
+        <seg>No</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>No .DOCX files to clean.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T224642Z" creationid="Marc Riera" creationdate="20201003T224642Z">
         <seg>No hi ha cap fitxer .DOCX per netejar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Comment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220910Z" creationid="Marc Riera" creationdate="20221124T220910Z">
+        <seg>No té cap comentari</seg>
       </tuv>
     </tu>
     <tu>
@@ -17624,6 +17720,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T152546Z" creationid="Marc Riera" creationdate="20190520T122552Z">
         <seg>No s'ha trobat cap error</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Note</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220853Z" creationid="Marc Riera" creationdate="20221124T220853Z">
+        <seg>No té cap nota</seg>
       </tuv>
     </tu>
     <tu>
@@ -17908,6 +18012,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T120700Z" creationid="Marc Riera" creationdate="20190520T120700Z">
         <seg>Normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not Alternative</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220941Z" creationid="Marc Riera" creationdate="20221124T220941Z">
+        <seg>Traducció no alternativa</seg>
       </tuv>
     </tu>
     <tu>
@@ -19015,6 +19127,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT's distribution license.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T221205Z" creationid="Marc Riera" creationdate="20221124T221205Z">
+        <seg>Llicència de distribució de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT's executable.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215202Z" creationid="Marc Riera" creationdate="20221123T215202Z">
@@ -19521,12 +19641,28 @@ la carpeta d'inici.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Origin</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220948Z" creationid="Marc Riera" creationdate="20221124T220948Z">
+        <seg>Origen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Original author of the OmegaT application</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T133159Z" creationid="Marc Riera" creationdate="20190924T133159Z">
         <seg>Autor original de l'aplicació OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Original version</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220742Z" creationid="Marc Riera" creationdate="20221124T220742Z">
+        <seg>Versió original</seg>
       </tuv>
     </tu>
     <tu>
@@ -21661,6 +21797,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072905Z" creationid="Marc Riera" creationdate="20191113T072905Z">
         <seg>S'ha produït un error de comunicació amb la xarxa del dipòsit remot: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote version</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220752Z" creationid="Marc Riera" creationdate="20221124T220752Z">
+        <seg>Versió remota</seg>
       </tuv>
     </tu>
     <tu>
@@ -23803,6 +23947,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Select appropriate version</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220724Z" creationid="Marc Riera" creationdate="20221124T220724Z">
+        <seg>Seleccioneu la versió adequada</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Select issue types to check.</seg>
@@ -23867,6 +24019,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201124T210936Z" creationid="Marc Riera" creationdate="20201124T210936Z">
         <seg>Seleccioneu si voleu baixar l'OmegaT amb el Java Runtime Environment (JRE) inclòs o no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select your version, the original version or the remote version.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220739Z" creationid="Marc Riera" creationdate="20221124T220739Z">
+        <seg>Seleccioneu la vostra versió, la versió original o la versió remota.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26316,6 +26476,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215018Z" creationid="Marc Riera" creationdate="20221123T215018Z">
         <seg>La carpeta de l'aplicació conté l'aplicació &lt;f0&gt;OmegaT.jar&lt;/f0&gt; i altres fitxers importants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The application folder location depends on your platform and on the way you have installed OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T221150Z" creationid="Marc Riera" creationdate="20221124T221130Z">
+        <seg>La ubicació de la carpeta de l'aplicació depèn de la plataforma i de com heu instal·lat l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31148,6 +31316,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220828Z" creationid="Marc Riera" creationdate="20221124T220828Z">
+        <seg>Sí</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You
@@ -31614,6 +31790,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191207T230209Z" creationid="Marc Riera" creationdate="20180210T213228Z">
         <seg>Aquest projecte no conté cap fitxer amb un format compatible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your version</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220748Z" creationid="Marc Riera" creationdate="20221124T220748Z">
+        <seg>La vostra versió</seg>
       </tuv>
     </tu>
     <tu>
@@ -33385,6 +33569,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212654Z" creationid="Marc Riera" creationdate="20201130T212654Z">
         <seg>O bé, obriu el projecte des de la línia d'ordres amb l'opció &lt;c0&gt;--no-team&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>other platforms</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T221144Z" creationid="Marc Riera" creationdate="20221124T221144Z">
+        <seg>Altres plataformes</seg>
       </tuv>
     </tu>
     <tu>
