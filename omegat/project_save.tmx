@@ -6465,6 +6465,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Check whether your repository has correct commits and files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T221403Z" creationid="Marc Riera" creationdate="20221124T221403Z">
+        <seg>Comproveu que el dipòsit tingui les publicacions i els fitxers correctes.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check whole project</seg>
@@ -22212,6 +22220,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Repository (type: {0}) URL not defined on path: {1}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T221342Z" creationid="Marc Riera" creationdate="20221124T221342Z">
+        <seg>No s'ha definit l'URL del dipòsit (tipus: {0}) en el camí: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Repository Credentials</seg>
@@ -24371,6 +24387,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225330Z" creationid="Marc Riera" creationdate="20191112T225330Z">
         <seg>Simplifica els indicadors de funció a les par&amp;ts protegides</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simplify tag &amp;tooltips</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T221323Z" creationid="Marc Riera" creationdate="20221124T221323Z">
+        <seg>Simplifica els &amp;indicadors de funció de les etiquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -31125,6 +31149,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150526T140623Z" creationid="Alexandra" creationdate="20150526T140623Z">
         <seg>Escrit en Python/Perl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong URL detected in Linkifier: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T221440Z" creationid="Marc Riera" creationdate="20221124T221440Z">
+        <seg>S'ha detectat un URL incorrecte en el Linkifier: {0}</seg>
       </tuv>
     </tu>
     <tu>
