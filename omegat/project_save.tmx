@@ -1741,6 +1741,16 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', 'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192408Z" creationid="Marc Riera" creationdate="20221124T192408Z">
+        <seg>«*» correspon a zero o més caràcters («car*» coincidiria amb «car», «cars», «cares», etc.).
+«?» correspon només a un sol caràcter («car?» coincidiria amb «cara» o «cars», però no amb «car» ni «cares»).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
@@ -4842,6 +4852,14 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Auto-sync with editor</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192729Z" creationid="Marc Riera" creationdate="20221124T192729Z">
+        <seg>Sincronitza automàticament amb l'editor</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Auto-text configuration</seg>
@@ -6130,8 +6148,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Check whether this is intentional.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180105Z" creationid="Marc Riera" creationdate="20221124T180105Z">
-        <seg>Comproveu si s'ha fet intencionadament.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192055Z" creationid="Marc Riera" creationdate="20221124T180105Z">
+        <seg>Comproveu si això és intencionat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6347,6 +6365,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161305Z" creationid="Packard Bell" creationdate="20150605T161305Z">
         <seg>Tanca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Close the search window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192749Z" creationid="Marc Riera" creationdate="20221124T192749Z">
+        <seg>Tanqueu la finestra de cerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9735,6 +9761,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Error searching folder tree!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192742Z" creationid="Marc Riera" creationdate="20221124T192742Z">
+        <seg>S'ha produït un error en cercar en l'estructura de carpetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error starting external command: {0}</seg>
@@ -11217,6 +11251,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
         <seg>Full/Half &amp;width char insensitive</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T152012Z" creationid="mgalo" creationdate="20181113T085106Z">
+        <seg>No distingeixis entre els &amp;caràcters d'amplada completa i mitja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full/half-&amp;width char insensitive</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192103Z" creationid="Marc Riera" creationdate="20221124T192103Z">
         <seg>No distingeixis entre els &amp;caràcters d'amplada completa i mitja</seg>
       </tuv>
     </tu>
@@ -14256,6 +14298,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Keyword searches match all space-separated keywords in any order.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192241Z" creationid="Marc Riera" creationdate="20221124T192241Z">
+        <seg>La cerca per paraules clau cerca totes les paraules clau separades per espais en qualsevol ordre.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
@@ -15731,6 +15781,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T121949Z" creationid="mgalo" creationdate="20181112T090807Z">
         <seg>Les coincidències poden provenir tant de la traducció actual com dels fitxers TMX ubicats en la carpeta «/tm/».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192756Z" creationid="Marc Riera" creationdate="20221124T192756Z">
+        <seg>Segments coincidents: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -20259,6 +20317,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Regular expression searches match Java regular expressions as documented in the user guide.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192258Z" creationid="Marc Riera" creationdate="20221124T192258Z">
+        <seg>La cerca d'expressions regulars cerca expressions regulars del Java, documentades en la Guia d'usuari.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
@@ -21648,6 +21714,16 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Scope:
+Searches apply to the project and cover its source and target text, reference TMs, glossaries, notes, and comments by default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192151Z" creationid="Marc Riera" creationdate="20221124T192151Z">
+        <seg>Àmbit:
+Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de destinació, les memòries de traducció de referència, els glossaris, les notes i els comentaris del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Scope:
@@ -21969,6 +22045,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223621Z" creationid="Marc Riera" creationdate="20180214T223621Z">
         <seg>El subprocés de cerca ha finalitzat de manera inesperada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searches can also be performed on a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192226Z" creationid="Marc Riera" creationdate="20221124T192226Z">
+        <seg>També podeu cercar en una estructura de carpetes específica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24379,6 +24463,16 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Text Replace:
+Replace applies to the target segments of the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192718Z" creationid="Marc Riera" creationdate="20221124T192718Z">
+        <seg>Substitució de text:
+La substitució s'aplica als segments de destinació del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Text Replace:
@@ -25808,6 +25902,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>There are no Git settings in the remote project file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192047Z" creationid="Marc Riera" creationdate="20221124T192047Z">
+        <seg>No s'han trobat paràmetres del Git en el fitxer de projecte remot.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>There are no local working copies in {0}.</seg>
@@ -26421,6 +26523,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T153140Z" creationid="mgalo" creationdate="20181113T092010Z">
         <seg>Així doncs, per exemple, les regles per al francès del Canadà (FR-CA) haurien de prevaldre per sobre de les regles del francès (FR.*) i per sobre de les regles per defecte (.*).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tick or untick the approrpiate boxes to change these settings.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192206Z" creationid="Marc Riera" creationdate="20221124T192206Z">
+        <seg>Marqueu o desmarqueu les caselles corresponents per a canviar els paràmetres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27449,6 +27559,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T215059Z" creationid="Marc Riera" creationdate="20180214T223812Z">
+        <seg>No s'ha pogut inicialitzar la lectura del fitxer XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to initialize reading of XML file!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192803Z" creationid="Marc Riera" creationdate="20221124T192803Z">
         <seg>No s'ha pogut inicialitzar la lectura del fitxer XML.</seg>
       </tuv>
     </tu>
@@ -28940,6 +29058,16 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T232839Z" creationid="Marc Riera" creationdate="20180214T224402Z">
         <seg>Localització del WiX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wildcards:
+Both exact and keyword searches support the * and ?</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192334Z" creationid="Marc Riera" creationdate="20221124T192313Z">
+        <seg>Caràcters comodí:
+Tant la cerca exacta com la cerca per paraules clau admeten els caràcters comodí «*» i «?».</seg>
       </tuv>
     </tu>
     <tu>
@@ -32251,6 +32379,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T202057Z" creationid="Marc Riera" creationdate="20201010T202057Z">
         <seg>weLocalize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>wildcards.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192327Z" creationid="Marc Riera" creationdate="20221124T192315Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
