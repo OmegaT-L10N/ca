@@ -10055,6 +10055,16 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Enter a language code in xx-YY, xxx-YY, xx_YY or xxx_YY format, where xx or xxx 
+is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T133317Z" creationid="Marc Riera" creationdate="20221127T133317Z">
+        <seg>Indiqueu un codi de llengua en el format xx-YY, xxx-YY, xx_YY o xxx_YY, en què xx o xxx
+és el codi de llengua i YY és el codi de regió o país (opcional).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Enter a source term, a target term and a comment:</seg>
@@ -24514,6 +24524,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
         <seg>Skipped translation units for which no source  segment was found.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192843Z" creationid="Marc Riera" creationdate="20221124T192843Z">
+        <seg>S'han omès les unitats de traducció sense cap segment d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipped translation units for which no source segment was found.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T133325Z" creationid="Marc Riera" creationdate="20221127T133325Z">
         <seg>S'han omès les unitats de traducció sense cap segment d'origen.</seg>
       </tuv>
     </tu>
