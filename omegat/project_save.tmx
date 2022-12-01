@@ -20159,6 +20159,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the local folder where OmegaT configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T163124Z" creationid="Marc Riera" creationdate="20221201T163124Z">
+        <seg>Obre la carpeta local on s'emmagatzemen els fitxers de configuració de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens this guide in the default browser.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T114353Z" creationid="Marc Riera" creationdate="20221129T114353Z">
@@ -21850,6 +21858,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T153112Z" creationid="mgalo" creationdate="20181109T121403Z">
         <seg>Les cerques del projecte s'apliquen per defecte als segments d'origen i de destinació, a les memòries de traducció de referència, als glossaris, a les notes i als comentaris del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project-specific settings are accessible with &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T163201Z" creationid="Marc Riera" creationdate="20221201T163201Z">
+        <seg>Podeu accedir als paràmetres específics del projecte amb &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27743,6 +27759,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The location depends on the operating system and launch options.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T163132Z" creationid="Marc Riera" creationdate="20221201T163132Z">
+        <seg>La ubicació depèn del sistema operatiu i de les opcions d'inici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The location of the default configuration folder varies by system (the &lt;e0&gt;~&lt;/e0&gt; character represents your home folder):</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081603Z" creationid="Marc Riera" creationdate="20221201T081603Z">
@@ -29316,6 +29340,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T214849Z" creationid="Marc Riera" creationdate="20201130T214849Z">
         <seg>Per a instal·lar els fitxers necessaris per al format StarDict, feu el següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To keep the Source Files list window to automatically open when a project is loaded, find &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; and replace &lt;t1&gt;true&lt;/t1&gt; to &lt;t2&gt;false&lt;/t2&gt;:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T163316Z" creationid="Marc Riera" creationdate="20221201T163316Z">
+        <seg>Per a impedir que la finestra amb llista de fitxers d'origen s'obri automàticament en carregar un projecte, cerqueu &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; i substituïu &lt;t1&gt;true&lt;/t1&gt; per &lt;t2&gt;false&lt;/t2&gt;:</seg>
       </tuv>
     </tu>
     <tu>
