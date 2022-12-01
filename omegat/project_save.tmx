@@ -4365,6 +4365,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After dividing the source file into structural units, OmegaT further divides those units into segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T172735Z" creationid="Marc Riera" creationdate="20221201T172735Z">
+        <seg>Després de dividir el fitxer d'origen en unitats estructurals, l'OmegaT divideix aquestes unitats en segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After several of these operations, select &lt;m0&gt;&lt;g1&gt;Edit&lt;/g1&gt;&lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T150423Z" creationid="Marc Riera" creationdate="20220506T150328Z">
@@ -10037,6 +10045,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each time the cursor moves to the next character, OmegaT checks whether:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T172923Z" creationid="Marc Riera" creationdate="20221201T172900Z">
+        <seg>Cada vegada que el cursor es desplaça fins al caràcter següent, l'OmegaT comprova aquestes condicions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each translated user guide comes in a different language folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T112039Z" creationid="Marc Riera" creationdate="20221129T112039Z">
@@ -11798,6 +11814,14 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Files containing formatting (ODF, HTML, or other documents) are divided at block-level (paragraph) tags.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T172714Z" creationid="Marc Riera" creationdate="20221201T172714Z">
+        <seg>Els fitxers que contenen format (ODF, HTML o altres documents) es divideixen segons les etiquetes de bloc (paràgraf).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
@@ -12093,6 +12117,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165535Z" creationid="Stephanie" creationdate="20150722T181359Z">
         <seg>Per exemple, en les dreceres per defecte de l'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, text files may be segmented on line breaks, empty lines, or not at all.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T172655Z" creationid="Marc Riera" creationdate="20221201T172655Z">
+        <seg>Per exemple, els fitxers de text es poden segmentar per salts de línia, línies buides o no segmentar-se.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13929,6 +13961,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the location matches both rules, it is considered either as a break, or as a non-break, depending of what the rule defined.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T173034Z" creationid="Marc Riera" creationdate="20221201T173034Z">
+        <seg>Si la ubicació coincideix amb les dues regles, es considera una separació o no, en funció del que defineixi la regla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the project contains files but their content is not displayed here:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T173745Z" creationid="Marc Riera" creationdate="20221124T173745Z">
@@ -14476,6 +14516,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T201556Z" creationid="Marc Riera" creationdate="20201010T201556Z">
         <seg>En alguns àmbits cal cert grau de coordinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In that case, each paragraph (as defined in the original document format) is displayed as a single segment, and the translator is free to reorganize the sentences within the segment in the translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T172558Z" creationid="Marc Riera" creationdate="20221201T172558Z">
+        <seg>En aquest cas, cada paràgraf (segons ho defineixi el format del document original) es mostra com un sol segment i el traductor té la llibertat de reorganitzar les frases del segment en la traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24547,6 +24595,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Segments are by default &lt;e0&gt;paragraphs&lt;/e0&gt; defined by the file format itself.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T172513Z" creationid="Marc Riera" creationdate="20221201T172513Z">
+        <seg>Per defecte, els segments són &lt;e0&gt;paràgrafs&lt;/e0&gt; definits pel format del fitxer.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segments with notes</seg>
@@ -29322,6 +29378,14 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>This process relies only on the structure of the source file to produce segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T172637Z" creationid="Marc Riera" creationdate="20221201T172637Z">
+        <seg>Aquest procés només es basa en l'estructura del fitxer d'origen per produir segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
@@ -29355,6 +29419,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120847Z" creationid="Marc Riera" creationdate="20201003T223303Z">
         <seg>Aquest script està dissenyat per a executar-se en l'OmegaT 3.6 o posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This setting works well with documents where repetitions or similar sentences are common, such as technical or legal documents.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T172625Z" creationid="Marc Riera" creationdate="20221201T172625Z">
+        <seg>Aquest paràmetre funciona bé amb documents en què són habituals les repeticions o les frases similars, com ara documents tècnics o legals.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33023,6 +33095,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can visualize segmentation as the process of moving the cursor along the text, one character at a time, and looking for the position where a break will occur, or where a break will not be allowed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T172834Z" creationid="Marc Riera" creationdate="20221201T172834Z">
+        <seg>Podeu pensar en la segmentació com el procés de desplaçar el cursor al llarg del text, caràcter per caràcter, i cercar la posició on es produirà una separació o on no es permetrà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You cannot modify them from the OmegaT interface like the project glossary, but you can do so in a text editor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T165946Z" creationid="Marc Riera" creationdate="20221201T165946Z">
@@ -33719,6 +33799,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T200846Z" creationid="Marc Riera" creationdate="20180212T223722Z">
         <seg>i moltes altres persones que han aportat una ajuda inestimable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and the text after the location corresponds to the associated &lt;e0&gt;After&lt;/e0&gt; rule.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T173016Z" creationid="Marc Riera" creationdate="20221201T172953Z">
+        <seg>El text després de la ubicació correspon a la regla &lt;e0&gt;Posterior&lt;/e0&gt; associada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35743,6 +35831,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T120741Z" creationid="Marc Riera" creationdate="20220611T120741Z">
         <seg>La llista de tots els fitxers traduïbles del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the text before the location corresponds to a &lt;e0&gt;Before&lt;/e0&gt; rule,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T173011Z" creationid="Marc Riera" creationdate="20221201T172937Z">
+        <seg>El text anterior a la ubicació correspon a una regla &lt;e0&gt;Anterior&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
