@@ -4636,6 +4636,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Allows you to activate/deactivate the available machine translation engines.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160555Z" creationid="Marc Riera" creationdate="20221201T160555Z">
+        <seg>Us permet activar o desactivar els motors de traducció automàtica disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Alt+F2</seg>
@@ -12484,10 +12492,26 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global File Filters...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160741Z" creationid="Marc Riera" creationdate="20221201T160741Z">
+        <seg>Filtres de fitxers globals...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global Segmentation Rules</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204622Z" creationid="Marc Riera" creationdate="20221124T204622Z">
         <seg>Regles de segmentació globals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160806Z" creationid="Marc Riera" creationdate="20221201T160806Z">
+        <seg>Regles de segmentació globals...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13736,6 +13760,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If several translation engines are selected, you can also use &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt; to switch between them and insert the last one selected.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160652Z" creationid="Marc Riera" creationdate="20221201T160652Z">
+        <seg>Si se seleccionen diversos motors de traducció, també podeu utilitzar &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt; per a canviar de motor i inserir el resultat de l'últim motor seleccionat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161953Z" creationid="Marc Riera" creationdate="20220625T161953Z">
@@ -14237,6 +14269,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T214833Z" creationid="Marc Riera" creationdate="20221123T214833Z">
         <seg>En l'editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In macOS, this menu item is found under the &lt;g0&gt;OmegaT&lt;/g0&gt; menu.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160500Z" creationid="Marc Riera" creationdate="20221201T160500Z">
+        <seg>En el macOS, aquest element del menú es troba en el menú &lt;g0&gt;OmegaT&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20046,6 +20086,30 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0/&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160441Z" creationid="Marc Riera" creationdate="20221201T160441Z">
+        <seg>Obre el quadre de diàleg &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0/&gt; global preference dialog.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160756Z" creationid="Marc Riera" creationdate="20221201T160756Z">
+        <seg>Obre el quadre de diàleg de preferències globals &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0/&gt; global preferences dialog.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160817Z" creationid="Marc Riera" creationdate="20221201T160817Z">
+        <seg>Obre el quadre de diàleg de preferències globals &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210521T171014Z" creationid="Marc Riera" creationdate="20210521T171014Z">
@@ -24127,6 +24191,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160610Z" creationid="Marc Riera" creationdate="20221201T160610Z">
+        <seg>Consulteu per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the chapter &lt;e0&gt;Segmentation rules&lt;/e0&gt; for more information.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T120919Z" creationid="Marc Riera" creationdate="20220611T120919Z">
@@ -24317,6 +24389,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T220923Z" creationid="Marc Riera" creationdate="20201130T220923Z">
         <seg>Seleccioneu &lt;g0&gt;Cerca de terminologia de TaaS&lt;/g0&gt; per a activar aquesta cerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;l0/&gt; to activate it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160714Z" creationid="Marc Riera" creationdate="20221201T160510Z">
+        <seg>Seleccioneu &lt;l0/&gt; per a activar-ho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24604,6 +24684,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231022Z" creationid="Marc Riera" creationdate="20201129T231022Z">
         <seg>Seleccioneu l'script que voleu de la llista de l'esquerra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the various options to activate them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160738Z" creationid="Marc Riera" creationdate="20221201T160738Z">
+        <seg>Seleccioneu les diferents opcions per a activar-les.</seg>
       </tuv>
     </tu>
     <tu>
