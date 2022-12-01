@@ -8656,6 +8656,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default contents</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081739Z" creationid="Marc Riera" creationdate="20221201T081739Z">
+        <seg>Contingut per defecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default glossary</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20211022T160825Z" creationid="Marc Riera" creationdate="20211022T160825Z">
@@ -23929,6 +23937,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0/&gt; for details</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081737Z" creationid="Marc Riera" creationdate="20221201T081737Z">
+        <seg>Consulteu &lt;l0/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0/&gt; for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215220Z" creationid="Marc Riera" creationdate="20221123T215220Z">
@@ -27531,6 +27547,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T112057Z" creationid="Marc Riera" creationdate="20221129T112057Z">
         <seg>Llista de biblioteques que utilitza l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The location of the default configuration folder varies by system (the &lt;e0&gt;~&lt;/e0&gt; character represents your home folder):</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081603Z" creationid="Marc Riera" creationdate="20221201T081603Z">
+        <seg>La ubicació de la carpeta de configuració per defecte varia segons el sistema (el caràcter &lt;e0&gt;~&lt;/e0&gt; representa la carpeta d'inici):</seg>
       </tuv>
     </tu>
     <tu>
@@ -32177,6 +32201,14 @@ d'allà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also use non default configuration folders by starting OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081729Z" creationid="Marc Riera" creationdate="20221201T081729Z">
+        <seg>També podeu utilitzar carpetes de configuració diferents iniciant l'OmegaT des de la línia d'ordres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can always access it directly from &lt;l0/&gt; in the &lt;l1/&gt; menu.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T112159Z" creationid="Marc Riera" creationdate="20221129T112159Z">
@@ -34267,6 +34299,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>omegat.prefs</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081740Z" creationid="Marc Riera" creationdate="20221201T081740Z">
+        <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>omegat.project (file)</seg>
@@ -35473,6 +35513,30 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165803Z" creationid="Marc Riera" creationdate="20200802T165803Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~/.omegat</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081607Z" creationid="Marc Riera" creationdate="20221201T081607Z">
+        <seg>~/.omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~/Library/Preferences/OmegaT</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081619Z" creationid="Marc Riera" creationdate="20221201T081619Z">
+        <seg>~/Biblioteca/Preferències/OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~\AppData\Roaming\OmegaT</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081621Z" creationid="Marc Riera" creationdate="20221201T081621Z">
+        <seg>~\AppData\Roaming\OmegaT</seg>
       </tuv>
     </tu>
     <tu>
