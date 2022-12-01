@@ -30289,6 +30289,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation memory tools work with textual units called segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T172333Z" creationid="Marc Riera" creationdate="20221201T172333Z">
+        <seg>Les eines de traducció assistida per ordinador funcionen amb unitats textuals anomenades segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation project</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T155020Z" creationid="Marc Riera" creationdate="20221129T155020Z">
@@ -32032,6 +32040,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T154535Z" creationid="mgalo" creationdate="20181111T225618Z">
         <seg>Si un sol fitxer té un nombre de segments superior, els segments addicionals es carregaran a mesura que us desplaceu avall.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a translation is entered, the segment containing the source text is stored with its translation in the project memory, and subsequently used to match other source segments in the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T172444Z" creationid="Marc Riera" creationdate="20221201T172444Z">
+        <seg>Quan s'introdueix una traducció, el segment que conté el text d'origen s'emmagatzema en la memòria del projecte, juntament amb la traducció i, posteriorment, s'utilitza per a les coincidències amb altres segments d'origen del projecte.</seg>
       </tuv>
     </tu>
     <tu>
