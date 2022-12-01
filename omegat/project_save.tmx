@@ -13943,6 +13943,14 @@ extensions dels fitxers.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If you do not use the default configuration folder, all modifications made in &lt;l0/&gt; will be stored in the specified configuration folder and will not appear when you resume work with the default configuration folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160301Z" creationid="Marc Riera" creationdate="20221201T160301Z">
+        <seg>Si no utilitzeu la carpeta de configuració per defecte, totes les modificacions aplicades a &lt;l0/&gt; s'emmagatzemaran en la carpeta de configuració especificada i no apareixeran quan torneu a treballar amb la carpeta de configuració per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
@@ -17549,6 +17557,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T143737Z" creationid="Marc Riera" creationdate="20190924T143737Z">
         <seg>Segments modificats:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modified preferences are stored in the configuration folder used by the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160157Z" creationid="Marc Riera" creationdate="20221201T160157Z">
+        <seg>Les preferències modificades s'emmagatzemen en la carpeta de configuració utilitzada pel projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28672,6 +28688,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the login information for your team project repositories.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160104Z" creationid="Marc Riera" creationdate="20221201T160104Z">
+        <seg>Aquest fitxer conté la informació d'inici de sessió per als dipòsits dels projectes en equip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file describes the overall OmegaT layout.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155353Z" creationid="Marc Riera" creationdate="20221201T155353Z">
@@ -28700,6 +28724,22 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155402Z" creationid="Marc Riera" creationdate="20221201T155402Z">
         <seg>Aquesta carpeta conté diversos fitxers de registre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains your spelling dictionaries.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160138Z" creationid="Marc Riera" creationdate="20221201T160138Z">
+        <seg>Aquesta carpeta conté els diccionaris ortogràfics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder provides an alternative location for manually installed OmegaT extension plugins.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160124Z" creationid="Marc Riera" creationdate="20221201T160124Z">
+        <seg>Aquesta carpeta proporciona una ubicació alternativa per als connectors d'extensió de l'OmegaT instal·lats manualment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28867,6 +28907,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized autotext parameters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160055Z" creationid="Marc Riera" creationdate="20221201T160055Z">
+        <seg>Aquest fitxer de paràmetres conté els paràmetres personalitzats del text automàtic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This parameter file contains customized editor shortcuts.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155830Z" creationid="Marc Riera" creationdate="20221201T155805Z">
@@ -28887,6 +28935,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081958Z" creationid="Marc Riera" creationdate="20221201T081958Z">
         <seg>Aquest fitxer de paràmetres conté els filtres de fitxers personalitzats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized segmentation parameters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160113Z" creationid="Marc Riera" creationdate="20221201T160113Z">
+        <seg>Aquest fitxer de paràmetres conté els paràmetres personalitzats de segmentació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32549,6 +32605,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>You can specify a configuration folder other than the default when you start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160149Z" creationid="Marc Riera" creationdate="20221201T160149Z">
+        <seg>Podeu especificar una carpeta de configuració diferent de la carpeta per defecte quan inicieu l'OmegaT des de la línia d'ordres.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
@@ -35161,6 +35225,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081940Z" creationid="Marc Riera" creationdate="20221201T081940Z">
         <seg>source.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>spelling/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160127Z" creationid="Marc Riera" creationdate="20221201T160127Z">
+        <seg>spelling/</seg>
       </tuv>
     </tu>
     <tu>
