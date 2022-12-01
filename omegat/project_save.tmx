@@ -3738,6 +3738,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A few simple examples</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191517Z" creationid="Marc Riera" creationdate="20221201T191517Z">
+        <seg>Alguns exemples senzills</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A file might have no matching entries, so it will show empty.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T202608Z" creationid="Marc Riera" creationdate="20220621T202608Z">
@@ -3767,6 +3775,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212715Z" creationid="Marc Riera" creationdate="20221124T212715Z">
         <seg>Una nota és simplement una indicació sobre el text d'origen o la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A period followed by a whitespace</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191716Z" creationid="Marc Riera" creationdate="20221201T191000Z">
+        <seg>Punt seguir d'un espai en blanc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9463,6 +9479,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Do not segment after Ms.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191450Z" creationid="Marc Riera" creationdate="20221201T191450Z">
+        <seg>No segmentar després de Sr.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
@@ -11021,6 +11045,14 @@ ningú no sent els vostres crits.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Excel cells with lines breaks that do not represent segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191334Z" creationid="Marc Riera" creationdate="20221201T191334Z">
+        <seg>Cel·les de l'Excel amb salts de línia que no representen segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Except one: check &lt;e0&gt;Untranslated&lt;/e0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T193838Z" creationid="Stephanie" creationdate="20150722T194002Z">
@@ -11042,6 +11074,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114818Z" creationid="Marc Riera" creationdate="20180221T114818Z">
         <seg>S'ha produït una excepció:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exception rule, box unchecked, higher in the list</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191434Z" creationid="Marc Riera" creationdate="20221201T191434Z">
+        <seg>Regla d'excepció, casella sense marcar, més amunt en la llista</seg>
       </tuv>
     </tu>
     <tu>
@@ -15056,6 +15096,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Intention</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191400Z" creationid="Marc Riera" creationdate="20221201T191400Z">
+        <seg>Intenció</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Interface to Google Translate</seg>
@@ -16430,6 +16478,14 @@ durant la primera execució.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T191652Z" creationid="Marc Riera" creationdate="20190521T103143Z">
         <seg>Informació sobre la llicència
 =============================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line break, followed by anything.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191040Z" creationid="Marc Riera" creationdate="20221201T191040Z">
+        <seg>Salt de línia, seguit de qualsevol caràcter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18111,6 +18167,22 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Ms, followed by a period, followed by a whitespace.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191103Z" creationid="Marc Riera" creationdate="20221201T191103Z">
+        <seg>Sr seguit d'un punt i un espai en blanc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ms\.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191048Z" creationid="Marc Riera" creationdate="20221201T191048Z">
+        <seg>Sr\.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Multiple Translations</seg>
@@ -18720,6 +18792,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Nonetheless, their original translation will still be in the project memory.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191548Z" creationid="Marc Riera" creationdate="20221201T191548Z">
+        <seg>Malgrat tot, la traducció original es conservarà en la memòria del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Normal</seg>
@@ -18829,6 +18909,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T203851Z" creationid="Marc Riera" creationdate="20220621T203851Z">
         <seg>Tingueu en compte que «*» i «?» tenen un significat especial en expressions regulars, de manera que la cerca amb comodins, tal com es descriu aquí, s'aplica només a la cerca exacta i per paraules clau (consulteu els apartats següents).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that the &lt;l0&gt;Pattern After&lt;/l0&gt; field can be empty.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191021Z" creationid="Marc Riera" creationdate="20221201T191021Z">
+        <seg>Tingueu en compte que el camp &lt;l0&gt;Patró posterior&lt;/l0&gt; pot estar buit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26206,6 +26294,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start a new segment start after a period followed by a space, tab, or other whitespace.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191745Z" creationid="Marc Riera" creationdate="20221201T191745Z">
+        <seg>Començar un segment nou després d'un punt seguir d'un espai, un tabulador o un altre espai en blanc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start new project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221005T200659Z" creationid="Marc Riera" creationdate="20221005T200659Z">
@@ -27131,6 +27227,14 @@ L'àmbit d'una substitució de text són els segments de destinació del project
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201126T152727Z" creationid="Alexandra" creationdate="20150526T131952Z">
         <seg>Gràcies a la tasca dels traductors en el passat, la interfície d'usuari de l'OmegaT i els textos d'ajuda s'han traduït a diverses llengües.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That is the reason why exception rules must come before segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191657Z" creationid="Marc Riera" creationdate="20221201T191657Z">
+        <seg>Aquesta és la raó per la qual les regles d'excepció han d'estar abans de les regles de segmentació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29492,6 +29596,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T115402Z" creationid="mgalo" creationdate="20181112T115402Z">
         <seg>Aquesta acció descartarà tots els canvis que heu fet fins ara.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will split or merge some previously translated segments, which will therefore no longer be considered translated.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191618Z" creationid="Marc Riera" creationdate="20221201T191618Z">
+        <seg>Això dividirà o fusionarà alguns segments que ja s'havien traduït, que deixaran de considerar-se traduïts.</seg>
       </tuv>
     </tu>
     <tu>
