@@ -86,6 +86,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg># -*- coding: ISO-8859-1 -*-</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T165758Z" creationid="Marc Riera" creationdate="20221201T165758Z">
+        <seg># -*- coding: ISO-8859-1 -*-</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>#Files</seg>
@@ -3173,6 +3181,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c0&gt;# -*- coding: &lt;p1&gt;&lt;charset&gt;&lt;/p1&gt; -*-&lt;/c0&gt;,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T165751Z" creationid="Marc Riera" creationdate="20221201T165751Z">
+        <seg>&lt;c0&gt;# -*- coding: &lt;p1&gt;&lt;charset&gt;&lt;/p1&gt; -*-&lt;/c0&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165411Z" creationid="Stephanie" creationdate="20150722T181030Z">
@@ -3820,6 +3836,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113608Z" creationid="Marc Riera" creationdate="20221129T113608Z">
         <seg>Límit de paraula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A writable glossary created for the project by OmegaT will be a TSV file saved in UTF-8.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T170104Z" creationid="Marc Riera" creationdate="20221201T170104Z">
+        <seg>El glossari modificable creat per al projecte per l'OmegaT serà un fitxer TSV desat en UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12202,6 +12226,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Format, extensions and expected encoding</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T170122Z" creationid="Marc Riera" creationdate="20221201T170122Z">
+        <seg>Format, extensions i codificació esperada</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Format:</seg>
@@ -12642,6 +12674,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180448Z" creationid="Marc Riera" creationdate="20221124T180448Z">
         <seg>Carpeta dels glossaris:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries located in nested folders are also recognized.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T170033Z" creationid="Marc Riera" creationdate="20221201T170026Z">
+        <seg>També es reconeixen glossaris en subcarpetes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14048,6 +14088,14 @@ extensions dels fitxers.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you choose to use an existing file as the default glossary, all new entries will be recorded in tab-separated format and saved in UTF-8 by default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T165855Z" creationid="Marc Riera" creationdate="20221201T165855Z">
+        <seg>Si trieu utilitzar un fitxer existent com a glossari per defecte, totes les entrades noves es registraran en el format separat per tabuladors i es desaran en UTF-8 per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you do not use the default configuration folder, all modifications made in &lt;l0/&gt; will be stored in the specified configuration folder and will not appear when you resume work with the default configuration folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160301Z" creationid="Marc Riera" creationdate="20221201T160301Z">
@@ -14133,6 +14181,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200124T232248Z" creationid="Marc Riera" creationdate="20180212T224925Z">
         <seg>Si heu utilitzat l'script «linux-install.sh», podeu executar l'OmegaT amb:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to specify a different encoding, you can do so by adding a “magic” comment that takes the following form:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T165917Z" creationid="Marc Riera" creationdate="20221201T165917Z">
+        <seg>Si voleu especificar una codificació diferent, podeu afegir un comentari «màgic» com el següent:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15329,6 +15385,14 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T213206Z" creationid="Marc Riera" creationdate="20180221T111739Z">
         <seg>No s'han pogut crear els documents traduïts perquè hi ha etiquetes que falten o que estan malmeses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will be created the first time you add an entry to the glossary.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T165822Z" creationid="Marc Riera" creationdate="20221201T165822Z">
+        <seg>Es crearà la primera vegada que afegiu una entrada al glossari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24241,6 +24305,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l1/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T170011Z" creationid="Marc Riera" creationdate="20221201T170011Z">
+        <seg>Consulteu &lt;l1/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l2/&gt; for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T114240Z" creationid="Marc Riera" creationdate="20221129T114240Z">
@@ -27599,6 +27671,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The encoding used to read reference glossaries depends on their file extension:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T170118Z" creationid="Marc Riera" creationdate="20221201T170118Z">
+        <seg>La codificació utilitzada per a llegir els glossaris de referència depèn de l'extensió del fitxer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The end of a line</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113603Z" creationid="Marc Riera" creationdate="20221129T113603Z">
@@ -27753,6 +27833,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165117Z" creationid="Stephanie" creationdate="20150722T180054Z">
         <seg>La sintaxi completa de les pulsacions de tecles (dreceres) es defineix en la documentació següent del Java 1.6 d'Oracle (en la part inferior de la pàgina): &lt;u0&gt;Dreceres de pulsacions de tecles del Java 1.6&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The glossaries folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T170001Z" creationid="Marc Riera" creationdate="20221201T170001Z">
+        <seg>Carpeta dels glossaris</seg>
       </tuv>
     </tu>
     <tu>
@@ -32918,6 +33006,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>You cannot modify them from the OmegaT interface like the project glossary, but you can do so in a text editor.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T165946Z" creationid="Marc Riera" creationdate="20221201T165946Z">
+        <seg>No es poden modificar des de la interfície de l'OmegaT com el glossari del projecte, però els podeu editar en un editor de text.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You currently have {1}.</seg>
@@ -32932,6 +33028,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T220055Z" creationid="Marc Riera" creationdate="20201130T220055Z">
         <seg>En definiu la ubicació i el nom en el quadre de diàleg de propietats del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You do not need to prepare the file in advance.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T165818Z" creationid="Marc Riera" creationdate="20221201T165818Z">
+        <seg>No cal preparar el fitxer per endavant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34362,6 +34466,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150047Z" creationid="Marc Riera" creationdate="20190924T150047Z">
         <seg>http://weitz.de/regex-coach/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://www.iana.org/assignments/character-sets/character-sets.xhtml</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T165754Z" creationid="Marc Riera" creationdate="20221201T165754Z">
+        <seg>http://www.iana.org/assignments/character-sets/character-sets.xhtml</seg>
       </tuv>
     </tu>
     <tu>
