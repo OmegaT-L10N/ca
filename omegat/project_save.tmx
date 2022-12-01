@@ -9359,6 +9359,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Do not automatically display the Source Files list</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155340Z" creationid="Marc Riera" creationdate="20221201T155340Z">
+        <seg>No mostris automàticament la llista de fitxers d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
@@ -13527,6 +13535,14 @@ no cal introduir el camí complet.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If OmegaT behaves erratically, include this file, or the relevant part thereof, to your report.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155505Z" creationid="Marc Riera" creationdate="20221201T155505Z">
+        <seg>Si l'OmegaT té cap comportament estrany, incloeu aquest fitxer o la part rellevant en l'informe.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
@@ -13740,6 +13756,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T145700Z" creationid="Marc Riera" creationdate="20220506T145700Z">
         <seg>Si l'alineació sembla millorable, intenteu canviar els paràmetres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the applicable functions are used, this folder can contain up to three text files:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155550Z" creationid="Marc Riera" creationdate="20221201T155550Z">
+        <seg>Si s'utilitzen les funcions aplicables, aquesta carpeta pot contenir fins a tres fitxers de text:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19767,6 +19791,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T122705Z" creationid="Marc Riera" creationdate="20220611T122705Z">
         <seg>Només les files que tinguin marcada la casella &lt;g0&gt;Conserva&lt;/g0&gt; en la primera columna s'inclouran quan es creï la memòria de traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only this preference currently requires manual modification.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155350Z" creationid="Marc Riera" creationdate="20221201T155350Z">
+        <seg>Només aquesta preferència requereix una modificació manual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27186,6 +27218,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contents of the file can also be viewed using the &lt;l0/&gt; option in the &lt;l1/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155537Z" creationid="Marc Riera" creationdate="20221201T155537Z">
+        <seg>El contingut del fitxer també es pot visualitzar mitjançant l'opció &lt;l0/&gt; del menú &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contents of the glossary pane will be updated accordingly.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T220452Z" creationid="Marc Riera" creationdate="20201130T220452Z">
@@ -28057,6 +28097,22 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The text in the file is replaced each time a new segment is entered.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155711Z" creationid="Marc Riera" creationdate="20221201T155711Z">
+        <seg>El text del fitxer se substitueix cada vegada que s'accedeix a un segment nou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The text in the file is replaced each time this function is called.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155613Z" creationid="Marc Riera" creationdate="20221201T155613Z">
+        <seg>El text del fitxer se substitueix cada vegada que es crida aquesta funció.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The text size exceeds the maximum</seg>
@@ -28342,6 +28398,14 @@ la ubicació de la carpeta de configuració de l'OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These files record various internal state and program event messages generated while OmegaT is running.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155436Z" creationid="Marc Riera" creationdate="20221201T155436Z">
+        <seg>Aquests fitxers registren diversos missatges de l'estat intern i els esdeveniments del programa generats durant l'execució de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These settings apply to OmegaT level, to all projects.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T221106Z" creationid="Marc Riera" creationdate="20201130T221106Z">
@@ -28411,6 +28475,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T203503Z" creationid="Marc Riera" creationdate="20220621T203503Z">
         <seg>Tenen el significat següent, familiar per als usuaris del Word:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They must be modified manually.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155334Z" creationid="Marc Riera" creationdate="20221201T155334Z">
+        <seg>S'han de modificar manualment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28584,10 +28656,50 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;original text&lt;/e0&gt; from of the current segment when &lt;l1/&gt; is active.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155654Z" creationid="Marc Riera" creationdate="20221201T155654Z">
+        <seg>Aquest fitxer conté el &lt;e0&gt;text original&lt;/e0&gt; del segment actual quan &lt;l1/&gt; està actiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;translated text&lt;/e0&gt; from the current segment when &lt;l1/&gt; is active.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155721Z" creationid="Marc Riera" creationdate="20221201T155721Z">
+        <seg>Aquest fitxer conté el &lt;e0&gt;text traduït&lt;/e0&gt; del segment actual quan &lt;l1/&gt; està actiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file describes the overall OmegaT layout.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155353Z" creationid="Marc Riera" creationdate="20221201T155353Z">
+        <seg>Aquest fitxer descriu la disposició general de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file includes a number of important user preferences.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155325Z" creationid="Marc Riera" creationdate="20221201T155325Z">
         <seg>Aquest fitxer inclou diverses preferències d'usuari importants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file stores the currently selected text when the &lt;l0/&gt; command in the &lt;l1/&gt; menu is used.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155605Z" creationid="Marc Riera" creationdate="20221201T155605Z">
+        <seg>Aquest fitxer emmagatzema el text actualment seleccionat quan s'utilitza l'ordre &lt;l0/&gt; del menú &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains a number of log files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155402Z" creationid="Marc Riera" creationdate="20221201T155402Z">
+        <seg>Aquesta carpeta conté diversos fitxers de registre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28755,6 +28867,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized editor shortcuts.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155830Z" creationid="Marc Riera" creationdate="20221201T155805Z">
+        <seg>Aquest fitxer de paràmetres conté les dreceres personalitzades de l'editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This parameter file contains customized external search parameters.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T082012Z" creationid="Marc Riera" creationdate="20221201T082012Z">
@@ -28767,6 +28887,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081958Z" creationid="Marc Riera" creationdate="20221201T081958Z">
         <seg>Aquest fitxer de paràmetres conté els filtres de fitxers personalitzats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized user interface shortcuts.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155823Z" creationid="Marc Riera" creationdate="20221201T155823Z">
+        <seg>Aquest fitxer de paràmetres conté les dreceres personalitzades de la interfície d'usuari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28900,6 +29028,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121617Z" creationid="Marc Riera" creationdate="20220611T121617Z">
         <seg>De totes maneres, normalment hauríeu d'evitar-ho quan hàgiu començat a traduir el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those three files provide as a simple way to access some OmegaT content and process it with local programs such as shell scripts.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155756Z" creationid="Marc Riera" creationdate="20221201T155756Z">
+        <seg>Aquests tres fitxers són una manera senzilla d'accedir a part del contingut de l'OmegaT i processar-lo amb programes locals, com ara scripts del shell.</seg>
       </tuv>
     </tu>
     <tu>
