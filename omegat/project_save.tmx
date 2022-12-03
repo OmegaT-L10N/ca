@@ -5164,6 +5164,14 @@ Marc Riera Irigoyen (versió 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>As a reminder, rules work the following way: when a rule matches, OmegaT puts a marker at the match location so that rules that come after ignore that location.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221203T185532Z" creationid="Marc Riera" creationdate="20221203T185532Z">
+        <seg>Com a recordatori, les regles funcionen de la manera següent: quan una regla coincideix, l'OmegaT col·loca un marcador en la ubicació de la coincidència perquè les regles posteriors ignorin aquesta ubicació.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>As a result of this,
@@ -14196,6 +14204,14 @@ Explorer), change the settings so that file extensions are displayed.</seg>
         <seg>Si podeu veure el fitxer «OmegaT» però no «OmegaT.exe» en el vostre gestor de fitxers
 (Explorador de Windows), canvieu la configuració perquè es mostrin les
 extensions dels fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you change the segmentation while translating, you will have to reload the project for the new segmentation to take effect.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221203T185542Z" creationid="Marc Riera" creationdate="20221203T185542Z">
+        <seg>Si canvieu la segmentació durant la traducció, haureu de tornar a carregar el projecte perquè la nova segmentació tingui efecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26366,6 +26382,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start a new segment after “。” (Japanese period).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221203T185629Z" creationid="Marc Riera" creationdate="20221203T185629Z">
+        <seg>Iniciar un segment nou després de «。» (punt japonès)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start a new segment start after a period followed by a space, tab, or other whitespace.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191745Z" creationid="Marc Riera" creationdate="20221201T191745Z">
@@ -33241,6 +33265,14 @@ installation script (linux-install.sh).</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T165910Z" creationid="Marc Riera" creationdate="20200122T230807Z">
         <seg>Tanmateix, podeu obtenir una instal·lació més ordenada i amigable mitjançant
 l'script d'instal·lació (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can limit the segmentation rules used by the project to that project by either setting local rules with &lt;l0/&gt;, in &lt;l1/&gt;, or by starting OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221203T185501Z" creationid="Marc Riera" creationdate="20221203T185501Z">
+        <seg>Podeu limitar les regles de segmentació que utilitza el projecte definint regles locals amb &lt;l0/&gt;, en l'apartat &lt;l1/&gt;, o iniciant l'OmegaT des de la línia d'ordres.</seg>
       </tuv>
     </tu>
     <tu>
