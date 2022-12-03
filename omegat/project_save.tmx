@@ -3261,6 +3261,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Paragraph segmentation&lt;/e0&gt; works well with more literary or creative texts, as well as, more generally, with documents for which translation memory matches are not so important.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221203T115448Z" creationid="Marc Riera" creationdate="20221203T115448Z">
+        <seg>La &lt;e0&gt;segmentació per paràgrafs&lt;/e0&gt; funciona bé amb textos més literaris o creatius i, en general, amb documents per als quals les coincidències de la memòria de traducció no són tan importants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Replace All:&lt;/e0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181218T202320Z" creationid="Stephanie" creationdate="20150722T193650Z">
@@ -3273,6 +3281,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181218T202322Z" creationid="Stephanie" creationdate="20150722T193804Z">
         <seg>&lt;e0&gt;Replace&lt;/e0&gt; (reemplaça): realitza una substitució "un a un", mitjançant els botons de la &lt;e1&gt;capçalera del panell Editor&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Sentence segmentation&lt;/e0&gt; relies on a number of rules (called &lt;e1&gt;segmentation rules&lt;/e1&gt;) that define what constitutes a sentence in the source language.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221203T115521Z" creationid="Marc Riera" creationdate="20221203T115521Z">
+        <seg>La &lt;e0&gt;segmentació per frases&lt;/e0&gt; es basa en una sèrie de regles (anomenades &lt;e1&gt;regles de segmentació&lt;/e1&gt;) que defineixen què constitueix una frase en la llengua d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6055,6 +6071,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T155649Z" creationid="Marc Riera" creationdate="20220611T155649Z">
         <seg>Per defecte, els scripts s'emmagatzemen en la carpeta &lt;f0&gt;scripts&lt;/f0&gt; en la carpeta d'instal·lació de l'OmegaT (la carpeta que conté el fitxer &lt;f1&gt;OmegaT.jar&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, segmentation settings are global and shared by all projects.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221203T115721Z" creationid="Marc Riera" creationdate="20221203T115721Z">
+        <seg>Per defecte, els paràmetres de segmentació són globals i es comparteixen entre tots els projectes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12702,8 +12726,8 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       <tuv lang="en">
         <seg>Global or local?</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221129T114226Z" creationid="Marc Riera" creationdate="20221129T114226Z">
-        <seg>Global o local?</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221203T115702Z" creationid="Marc Riera" creationdate="20221129T114226Z">
+        <seg>Globals o locals?</seg>
       </tuv>
     </tu>
     <tu>
@@ -14260,6 +14284,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T220611Z" creationid="mgalo" creationdate="20181114T123557Z">
         <seg>Si col·loqueu aquestes memòries de traducció en la subcarpeta &lt;f6&gt;/tm/&lt;/f6&gt; d'un projecte, l'OmegaT hi cercarà automàticament segments similars als del projecte, anomenats «coincidències parcials».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you use local rules, you can still access the global rules, but modifying them will have no effect on your project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221203T115756Z" creationid="Marc Riera" creationdate="20221203T115756Z">
+        <seg>Si utilitzeu regles locals, encara podreu accedir a les regles globals, però modificar-les no tindrà cap efecte en el projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19524,6 +19556,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T173329Z" creationid="Marc Riera" creationdate="20190924T114540Z">
         <seg>L'OmegaT xifra les contrasenyes i les claus API confidencials amb una contrasenya mestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT first parses the text for paragraph-level segmentation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221203T115550Z" creationid="Marc Riera" creationdate="20221203T115550Z">
+        <seg>En primer lloc, l'OmegaT analitza el text per a segmentar-lo per paràgrafs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28453,6 +28493,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The same mechanisms and dialogs are used to define global and local segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221203T115658Z" creationid="Marc Riera" creationdate="20221203T115658Z">
+        <seg>S'utilitzen els mateixos mecanismes i quadres de diàleg per a definir les regles de segmentació globals i locals.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The same spirit can be found within the OmegaT project.</seg>
@@ -30153,6 +30201,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161847Z" creationid="Packard Bell" creationdate="20150605T161847Z">
         <seg>Suggeriments de traducció/Habilita els suggeriments de traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translatable object attributes in XHTML or HTML files can be extracted as separate "paragraphs".</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221203T115617Z" creationid="Marc Riera" creationdate="20221203T115617Z">
+        <seg>Els atributs d'objectes traduïbles dels fitxers XHTML o HTML es poden extreure com a «paràgrafs» independents.</seg>
       </tuv>
     </tu>
     <tu>
