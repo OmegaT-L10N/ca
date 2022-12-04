@@ -4834,6 +4834,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also: &lt;k0&gt;&lt;k1&gt;Enter&lt;/k1&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T221156Z" creationid="Marc Riera" creationdate="20221204T221156Z">
+        <seg>També: &lt;k0&gt;&lt;k1&gt;Retorn&lt;/k1&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alt</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T190319Z" creationid="Marc Riera" creationdate="20221203T190319Z">
@@ -12528,6 +12536,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Forward in History &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T221112Z" creationid="Marc Riera" creationdate="20221204T221112Z">
+        <seg>Endavant en l'historial &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Forward in history...</seg>
@@ -18448,16 +18464,24 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       <tuv lang="en">
         <seg>Moves to the next segment with a note.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220938Z" creationid="Marc Riera" creationdate="20221204T220938Z">
-        <seg>Es desplaça al següent segment amb una nota.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T221029Z" creationid="Marc Riera" creationdate="20221204T220938Z">
+        <seg>Es desplaça al segment amb una nota següent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moves to the next unique segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T221018Z" creationid="Marc Riera" creationdate="20221204T221018Z">
+        <seg>Es desplaça al segment únic següent.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Moves to the previous segment with a note.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220946Z" creationid="Marc Riera" creationdate="20221204T220946Z">
-        <seg>Es desplaça segment anterior amb una nota.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T221035Z" creationid="Marc Riera" creationdate="20221204T220946Z">
+        <seg>Es desplaça segment amb una nota anterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18753,12 +18777,28 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Next Segment &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;N&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T221150Z" creationid="Marc Riera" creationdate="20221204T221150Z">
+        <seg>Segment següent &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;N&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Next Translated Segment</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T225143Z" creationid="Packard Bell" creationdate="20150605T161554Z">
         <seg>Segment traduït següent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Translated Segment &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;U&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T221138Z" creationid="Marc Riera" creationdate="20221204T221138Z">
+        <seg>Segment traduït següent &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;U&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18777,6 +18817,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104456Z" creationid="Marc Riera" creationdate="20220612T104456Z">
         <seg>Segment únic següent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Unique Segment &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;Q&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T221005Z" creationid="Marc Riera" creationdate="20221204T221005Z">
+        <seg>Segment únic següent &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;Q&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26486,6 +26534,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Source of Selected Match &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;M&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T221054Z" creationid="Marc Riera" creationdate="20221204T221054Z">
+        <seg>Segment d'origen de la coincidència seleccionada &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;M&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Source segment could not be located for certain translation units.</seg>
@@ -29969,6 +30025,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T143622Z" creationid="Marc Riera" creationdate="20180221T112056Z">
         <seg>Aquest és l'aspecte que tindrà el text en mostrar-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is useful for character entry systems that use &lt;k0&gt;Enter&lt;/k0&gt; to validate input.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T221214Z" creationid="Marc Riera" creationdate="20221204T221214Z">
+        <seg>Això és útil per als sistemes d'entrada de caràcters que utilitzen &lt;k0&gt;Retorn&lt;/k0&gt; per a validar l'entrada.</seg>
       </tuv>
     </tu>
     <tu>
