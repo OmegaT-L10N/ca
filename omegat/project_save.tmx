@@ -3524,6 +3524,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;TAB&lt;/k2&gt;&lt;/k0&gt; can be used as an alternate shortcut if &lt;l3/&gt; is selected.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220800Z" creationid="Marc Riera" creationdate="20221204T220800Z">
+        <seg>Podeu utilitzar &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Tab&lt;/k2&gt;&lt;/k0&gt; com a drecera alternativa si s'ha seleccionat &lt;l3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
@@ -3539,6 +3547,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104426Z" creationid="Marc Riera" creationdate="20220612T104426Z">
         <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt;, &lt;k1&gt;Ctrl+Retorn&lt;/k1&gt; o &lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;TAB&lt;/k0&gt; can be used as an alternate shortcut if &lt;l1/&gt; is selected.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220653Z" creationid="Marc Riera" creationdate="20221204T220653Z">
+        <seg>Podeu utilitzar &lt;k0&gt;Tab&lt;/k0&gt; com a drecera alternativa si s'ha seleccionat &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4810,6 +4826,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Enter&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220714Z" creationid="Marc Riera" creationdate="20221204T220714Z">
+        <seg>També: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Retorn&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alt</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T190319Z" creationid="Marc Riera" creationdate="20221203T190319Z">
@@ -5616,6 +5640,14 @@ inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190436Z" creationid="Marc Riera" creationdate="20221124T190436Z">
         <seg>N&amp;avega...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Back in History &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;P&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220337Z" creationid="Marc Riera" creationdate="20221204T220337Z">
+        <seg>Enrere en l'historial &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;P&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13105,6 +13137,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Go To</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220403Z" creationid="Marc Riera" creationdate="20221204T220403Z">
+        <seg>Ves a</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Go To Segment</seg>
@@ -14851,6 +14891,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T190426Z" creationid="Marc Riera" creationdate="20221203T190426Z">
         <seg>En aquesta guia: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this guide: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220107Z" creationid="Marc Riera" creationdate="20221204T220107Z">
+        <seg>En aquesta guia: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18397,6 +18445,22 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Moves to the next segment with a note.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220938Z" creationid="Marc Riera" creationdate="20221204T220938Z">
+        <seg>Es desplaça al següent segment amb una nota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moves to the previous segment with a note.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220946Z" creationid="Marc Riera" creationdate="20221204T220946Z">
+        <seg>Es desplaça segment anterior amb una nota.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Moving cleaned '{0}' to '{1}'</seg>
@@ -18722,6 +18786,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T225132Z" creationid="Packard Bell" creationdate="20150605T161552Z">
         <seg>Segment sense traduir següent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Untranslated Segment &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220135Z" creationid="Marc Riera" creationdate="20221204T220135Z">
+        <seg>Segment sense traduir següent &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20135,6 +20207,14 @@ està a punt per a executar-se.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT remembers your segment navigation history.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220259Z" creationid="Marc Riera" creationdate="20221204T220259Z">
+        <seg>L'OmegaT recorda l'historial de navegació per segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
@@ -20331,6 +20411,22 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215156Z" creationid="Marc Riera" creationdate="20221123T215156Z">
         <seg>OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220223Z" creationid="Marc Riera" creationdate="20221204T220223Z">
+        <seg>En el Windows i el Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Command&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220234Z" creationid="Marc Riera" creationdate="20221204T220234Z">
+        <seg>En el macOS: &lt;k0&gt;&lt;k1&gt;Ordre&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22002,6 +22098,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161645Z" creationid="Packard Bell" creationdate="20150605T161645Z">
         <seg>Segment anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Previous Segment &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;P&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220705Z" creationid="Marc Riera" creationdate="20221204T220705Z">
+        <seg>Segment anterior &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;P&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24947,8 +25051,16 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Segment number...</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161658Z" creationid="Packard Bell" creationdate="20150605T161658Z">
-        <seg>Número de segment...</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220835Z" creationid="Packard Bell" creationdate="20150605T161658Z">
+        <seg>Segment número...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment number... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;J&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220909Z" creationid="Marc Riera" creationdate="20221204T220909Z">
+        <seg>Segment número... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;J&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29613,6 +29725,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T190304Z" creationid="Alexandra" creationdate="20150526T140249Z">
         <seg>Aquest conjunt de scripts pot ser útil per als creadors de scripts amb coneixements de Tcl/Tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This command allows you to move backward one segment at a time to segments that you have previously visited.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220326Z" creationid="Marc Riera" creationdate="20221204T220326Z">
+        <seg>Aquesta ordre us permet tornar, un segment a la vegada, a segments que heu visitat anteriorment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34627,6 +34747,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212807Z" creationid="Marc Riera" creationdate="20201130T212807Z">
         <seg>Copieu els fitxers a la carpeta &lt;f0&gt;source&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl J</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220848Z" creationid="Marc Riera" creationdate="20221204T220848Z">
+        <seg>ctrl J</seg>
       </tuv>
     </tu>
     <tu>
