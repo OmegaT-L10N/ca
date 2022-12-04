@@ -6123,6 +6123,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, file filter settings are global and shared by all projects.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110436Z" creationid="Marc Riera" creationdate="20221204T110436Z">
+        <seg>Per defecte, els paràmetres dels filtres de fitxers són globals i es comparteixen entre tots els projectes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, scripts are stored in the &lt;f0&gt;scripts&lt;/f0&gt; folder located in the OmegaT installation folder (the folder that contains the &lt;f1&gt;OmegaT.jar&lt;/f1&gt; file).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T155649Z" creationid="Marc Riera" creationdate="20220611T155649Z">
@@ -9156,6 +9164,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110207Z" creationid="Marc Riera" creationdate="20221204T110207Z">
+        <seg>Carpeta dels diccionaris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionaries folder:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180457Z" creationid="Marc Riera" creationdate="20221124T180457Z">
@@ -11288,6 +11304,14 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Exclusions...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110128Z" creationid="Marc Riera" creationdate="20221204T110128Z">
+        <seg>Exclusions...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Executing external command...</seg>
@@ -11402,6 +11426,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220824T080230Z" creationid="Marc Riera" creationdate="20220824T080230Z">
         <seg>La carpeta de memòries de traducció exportades {0} no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exported translation memories folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110230Z" creationid="Marc Riera" creationdate="20221204T110230Z">
+        <seg>Carpeta de les memòries de traducció exportades</seg>
       </tuv>
     </tu>
     <tu>
@@ -12962,6 +12994,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T165929Z" creationid="Marc Riera" creationdate="20180212T221348Z">
         <seg>Fitxer de glossari: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary files folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110155Z" creationid="Marc Riera" creationdate="20221204T110155Z">
+        <seg>Carpeta dels fitxers de glossari</seg>
       </tuv>
     </tu>
     <tu>
@@ -16897,6 +16937,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Local File Filters...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110046Z" creationid="Marc Riera" creationdate="20221204T110046Z">
+        <seg>Filtres de fitxers locals...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Local File/Folder</seg>
@@ -16935,6 +16983,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204627Z" creationid="Marc Riera" creationdate="20221124T204627Z">
         <seg>Regles de segmentació locals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local commands are run before global commands.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110512Z" creationid="Marc Riera" creationdate="20221204T110512Z">
+        <seg>Les ordres locals s'executen abans que les ordres globals.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26220,6 +26276,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Source files folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110404Z" creationid="Marc Riera" creationdate="20221204T110404Z">
+        <seg>Carpeta dels fitxers d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Source files folder entered does not exist!</seg>
@@ -26385,6 +26449,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T091206Z" creationid="Marc Riera" creationdate="20180214T224508Z">
         <seg>Indiqueu el comportament de la gestió de les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify the commands that will automatically be run after using &lt;l0/&gt; or &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110459Z" creationid="Marc Riera" creationdate="20221204T110459Z">
+        <seg>Especifiqueu les ordres que s'executaran automàticament després d'utilitzar &lt;l0/&gt; o &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26760,6 +26832,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201121T122653Z" creationid="Marc Riera" creationdate="20201121T122653Z">
         <seg>Ja s'ha escrit codi auxiliar en JavaScript, Groovy i Tcl/Tk, per exemple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such commands are defined in &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110037Z" creationid="Marc Riera" creationdate="20221204T110037Z">
+        <seg>Aquestes ordres es defineixen a &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28003,6 +28083,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200726T110538Z" creationid="Marc Riera" creationdate="20190924T135709Z">
         <seg>L'ordre per a executar l'OmegaT és:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The commands specified here are only available to this project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110442Z" creationid="Marc Riera" creationdate="20221204T110442Z">
+        <seg>Les ordres especificades aquí només estan disponibles per a aquest projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29332,6 +29420,22 @@ en sou víctima d'una.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>They are defined in &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110120Z" creationid="Marc Riera" creationdate="20221204T110120Z">
+        <seg>Es defineixen a &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are found in &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110056Z" creationid="Marc Riera" creationdate="20221204T110056Z">
+        <seg>Són a &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
@@ -29344,8 +29448,8 @@ en sou víctima d'una.</seg>
       <tuv lang="en">
         <seg>They are saved in &lt;l0/&gt;.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T105943Z" creationid="Marc Riera" creationdate="20221204T105943Z">
-        <seg>Es desen en &lt;l0/&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110042Z" creationid="Marc Riera" creationdate="20221204T105943Z">
+        <seg>Es desen a &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29616,6 +29720,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder contains the files that you want to translate.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110407Z" creationid="Marc Riera" creationdate="20221204T110407Z">
+        <seg>Aquesta carpeta conté els fitxers que voleu traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder contains your spelling dictionaries.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160138Z" creationid="Marc Riera" creationdate="20221201T160138Z">
@@ -29690,6 +29802,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201115T214605Z" creationid="Marc Riera" creationdate="20201115T214605Z">
         <seg>És el &lt;a0&gt;canal d'ajuda recomanat&lt;/a0&gt; i és molt recomanable que els usuaris s'hi uneixin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the folder where OmegaT creates the translated files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110223Z" creationid="Marc Riera" creationdate="20221204T110223Z">
+        <seg>Aquesta és la carpeta on l'OmegaT crea els fitxers traduïts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30673,6 +30793,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Translated files folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110217Z" creationid="Marc Riera" creationdate="20221204T110217Z">
+        <seg>Carpeta dels fitxers traduïts</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translated files folder entered does not exist!</seg>
@@ -30823,10 +30951,26 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation memories folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110151Z" creationid="Marc Riera" creationdate="20221204T110143Z">
+        <seg>Carpeta de les memòries de traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation memories folder:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180447Z" creationid="Marc Riera" creationdate="20221124T180447Z">
         <seg>Carpeta de les memòries de traducció:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories to export</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110241Z" creationid="Marc Riera" creationdate="20221204T110241Z">
+        <seg>Memòries de traducció que s'exportaran</seg>
       </tuv>
     </tu>
     <tu>
@@ -32019,6 +32163,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this button to create local file filters specific to your project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110104Z" creationid="Marc Riera" creationdate="20221204T110104Z">
+        <seg>Utilitzeu aquest botó per a crear filtres de fitxers locals específics per al projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Used when launching OmegaT from the command line.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T111830Z" creationid="Marc Riera" creationdate="20221129T111830Z">
@@ -33057,6 +33209,14 @@ no s'ha trobat la pàgina.</seg>
         <seg>Writable Glossary File</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190454Z" creationid="Marc Riera" creationdate="20221124T190454Z">
+        <seg>Fitxer de glossari modificable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writable glossary file</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110201Z" creationid="Marc Riera" creationdate="20221204T110201Z">
         <seg>Fitxer de glossari modificable</seg>
       </tuv>
     </tu>
@@ -35405,6 +35565,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113519Z" creationid="Marc Riera" creationdate="20221129T113519Z">
         <seg>https://unicode.org/reports/tr18/#Script_Property</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.gala-global.org/tmx-14b#SectionIntroduction</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110247Z" creationid="Marc Riera" creationdate="20221204T110247Z">
+        <seg>https://www.gala-global.org/tmx-14b#SectionIntroduction</seg>
       </tuv>
     </tu>
     <tu>
