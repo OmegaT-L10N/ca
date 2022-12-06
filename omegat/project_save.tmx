@@ -5209,6 +5209,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>An ignored file or folder:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T120514Z" creationid="Marc Riera" creationdate="20221206T120514Z">
+        <seg>Un fitxer o carpeta ignorat:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
@@ -12752,6 +12760,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192803Z" creationid="Marc Riera" creationdate="20201124T192751Z">
         <seg>Per a la majoria d'usuaris, no són d'interès.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For security reasons, local post-processing commands are disabled by default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T120316Z" creationid="Marc Riera" creationdate="20221206T120309Z">
+        <seg>Per raons de seguretat, les ordres de postprocessament locals estan inhabilitades per defecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27691,8 +27707,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Such commands are defined in &lt;l0/&gt;.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110037Z" creationid="Marc Riera" creationdate="20221204T110037Z">
-        <seg>Aquestes ordres es defineixen a &lt;l0/&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T120440Z" creationid="Marc Riera" creationdate="20221204T110037Z">
+        <seg>Aquestes ordres es defineixen en l'apartat &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28289,8 +28305,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Team synchronization...</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072613Z" creationid="Marc Riera" creationdate="20191113T072613Z">
-        <seg>Sincronització del projecte en equip...</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T120414Z" creationid="Marc Riera" creationdate="20191113T072613Z">
+        <seg>S'està sincronitzant el projecte en equip...</seg>
       </tuv>
     </tu>
     <tu>
@@ -30005,6 +30021,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The template variables list gives you access to various project data and system variables.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T120333Z" creationid="Marc Riera" creationdate="20221206T120333Z">
+        <seg>La llista de variables de plantilla us permet accedir a diverses dades del projecte i a variables de sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The text could not be translated</seg>
@@ -30729,6 +30753,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110407Z" creationid="Marc Riera" creationdate="20221204T110407Z">
         <seg>Aquesta carpeta conté els fitxers que voleu traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains the files that you want to use as reference translation memories.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T121402Z" creationid="Marc Riera" creationdate="20221206T121402Z">
+        <seg>Aquesta carpeta conté els fitxers que voleu utilitzar com a memòries de traducció de referència.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34798,6 +34830,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>You can also define global post-processing commands available to all projects that share the same configuration folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T120345Z" creationid="Marc Riera" creationdate="20221206T120345Z">
+        <seg>També podeu definir ordres de postprocessament globals disponibles per a tots els projectes que comparteixen la mateixa carpeta de configuració.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You can also launch it from
@@ -37784,6 +37824,30 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T083742Z" creationid="Marc Riera" creationdate="20221205T083742Z">
         <seg>insertCharsRLM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>is not copied to the &lt;l0/&gt; folder when the translated files are created.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T120557Z" creationid="Marc Riera" creationdate="20221206T120557Z">
+        <seg>No es copia a la carpeta &lt;l0/&gt; quan es creen els fitxers traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>is not displayed in the &lt;l0/&gt; pane,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T120536Z" creationid="Marc Riera" creationdate="20221206T120536Z">
+        <seg>No es mostra en la subfinestra &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>is not taken into account in the &lt;l0/&gt; window, and</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T120544Z" creationid="Marc Riera" creationdate="20221206T120544Z">
+        <seg>No es té en compte en la finestra &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
