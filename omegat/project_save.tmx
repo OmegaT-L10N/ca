@@ -3861,6 +3861,22 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A &lt;e0&gt;dialog&lt;/e0&gt; requires you to take action and close it before you can go back to translating.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T145628Z" creationid="Marc Riera" creationdate="20221206T145628Z">
+        <seg>Un &lt;e0&gt;quadre de diàleg&lt;/e0&gt; requereix que feu accions i el tanqueu abans de tornar a traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A &lt;e0&gt;window&lt;/e0&gt; can be kept open next to the editor and lets you interact with both.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T145558Z" creationid="Marc Riera" creationdate="20221206T145558Z">
+        <seg>Una &lt;e0&gt;finestra&lt;/e0&gt; es pot mantenir oberta juntament amb l'editor i us permet interactuar-hi alhora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A character followed by a “u”.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113625Z" creationid="Marc Riera" creationdate="20221129T113625Z">
@@ -19094,6 +19110,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moves to the next segment with no target language entry in the translation memory.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T160847Z" creationid="Marc Riera" creationdate="20221206T160847Z">
+        <seg>Es desplaça al segment següent sense entrada en la llengua de destinació en la memòria de traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moves to the next unique segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T221018Z" creationid="Marc Riera" creationdate="20221204T221018Z">
@@ -30885,6 +30909,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220326Z" creationid="Marc Riera" creationdate="20221204T220326Z">
         <seg>Aquesta ordre us permet tornar, un segment a la vegada, a segments que heu visitat anteriorment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This command allows you to move forward one segment at a time to segments that you have previously visited with &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T145830Z" creationid="Marc Riera" creationdate="20221206T145830Z">
+        <seg>Aquesta ordre us permet desplaçar-vos endavant, un segment a la vegada, a segments que heu visitat anteriorment amb &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
