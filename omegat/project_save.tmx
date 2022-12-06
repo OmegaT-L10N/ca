@@ -4804,6 +4804,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All glossaries must be located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T095955Z" creationid="Marc Riera" creationdate="20221206T095955Z">
+        <seg>Tots els glossaris han de ser en la carpeta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All other files will be replaced by the files in the remote repository.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T213320Z" creationid="Marc Riera" creationdate="20201130T213320Z">
@@ -13235,6 +13243,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries can be “tab-separated values” (TSV) or “comma-separated values” (CSV) files or can also use the TermBase eXchange (TBX) format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T095859Z" creationid="Marc Riera" creationdate="20221206T095859Z">
+        <seg>Els glossaris poden ser fitxers de «valors separats per tabuladors» (TSV) o «valors separats per comes» (CSV), o bé poden utilitzar el format TermBase eXchange (TBX).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries folder:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180448Z" creationid="Marc Riera" creationdate="20221124T180448Z">
@@ -18549,6 +18565,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modifications made to any glossary are immediately recognized by OmegaT displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T102136Z" creationid="Marc Riera" creationdate="20221206T102136Z">
+        <seg>L'OmegaT reconeix immediatament les modificacions en qualsevol glossari i es mostren en la subfinestra &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modified OmegaT layout with auto-completion</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T094019Z" creationid="Marc Riera" creationdate="20221205T094019Z">
@@ -20324,6 +20348,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210514T154259Z" creationid="Marc Riera" creationdate="20210514T154259Z">
         <seg>L'OmegaT per al macOS està disponible en versions validades i sense signar; funcionalment són idèntiques, però la versió validada és preferible perquè el sistema reconeix que a) l'ha publicat un desenvolupador conegut i b) l'ha analitzat Apple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT glossary files are simple plain text files containing three-column lists, with the source term in the first column, an optional target term in the second column, and an optional comment in the third column.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T095818Z" creationid="Marc Riera" creationdate="20221206T095818Z">
+        <seg>Els fitxers de glossari de l'OmegaT són fitxers de text sense format que contenen llistes de tres columnes; el terme d'origen en la primera columna, un terme de destinació opcional en la segona columna i un comentari opcional en la tercera columna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29940,6 +29972,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The writable project glossary is located in the &lt;l0/&gt; folder by default and called &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T095640Z" creationid="Marc Riera" creationdate="20221206T095640Z">
+        <seg>El glossari modificable del projecte es troba per defecte en la carpeta &lt;l0/&gt; i s'anomena &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
@@ -30481,6 +30521,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155605Z" creationid="Marc Riera" creationdate="20221201T155605Z">
         <seg>Aquest fitxer emmagatzema el text actualment seleccionat quan s'utilitza l'ordre &lt;l0/&gt; del menú &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder can be set outside the project, enabling you to use it, or one of the specific subfolders, in other projects.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T100105Z" creationid="Marc Riera" creationdate="20221206T100105Z">
+        <seg>Aquesta carpeta pot ser externa al projecte, la qual cosa us permet utilitzar la carpeta o una de les subcarpetes específiques en altres projectes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33006,6 +33054,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;l0&gt;option&lt;/l0&gt; to set the location of the reference glossaries folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T100028Z" creationid="Marc Riera" creationdate="20221206T100028Z">
+        <seg>Utilitzeu l'&lt;l0&gt;opció&lt;/l0&gt; per a definir la ubicació de la carpeta de glossaris de referència.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Use the installation language in OmegaT</seg>
@@ -33986,6 +34042,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Within that reference glossaries folder, you can create multiple terminology subfolders organized by topic, client, or any other category that suits your workflow.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T100011Z" creationid="Marc Riera" creationdate="20221206T100011Z">
+        <seg>Dins d'aquesta carpeta de glossaris de referència, es poden crear diverses subcarpetes de terminologia organitzades per tema, per client o per qualsevol altra categoria que s'adapti al vostre flux de treball.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Without JRE</seg>
@@ -34530,6 +34594,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T112159Z" creationid="Marc Riera" creationdate="20221129T112159Z">
         <seg>Sempre podeu accedir-hi directament des de &lt;l0/&gt; en el menú &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change its name and location in the &lt;l0/&gt; dialog, but you must give it a &lt;f1&gt;.txt&lt;/f1&gt; or &lt;f2&gt;.utf8&lt;/f2&gt; extension, and store it within the &lt;l3/&gt; folder or in one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T095728Z" creationid="Marc Riera" creationdate="20221206T095728Z">
+        <seg>Podeu canviar-ne el nom i la ubicació en el quadre de diàleg &lt;l0/&gt;, però heu de donar-li l'extensió &lt;f1&gt;.txt&lt;/f1&gt; o &lt;f2&gt;.utf8&lt;/f2&gt;, i emmagatzemar-lo en la carpeta &lt;l3/&gt; o en una de les seves subcarpetes.</seg>
       </tuv>
     </tu>
     <tu>
