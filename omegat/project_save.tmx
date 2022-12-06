@@ -6699,6 +6699,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changing the segmentation rules settings during a translation does not modify the segments registered in the project translation memory.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T111900Z" creationid="Marc Riera" creationdate="20221206T111900Z">
+        <seg>Canviar els paràmetres de les regles de segmentació durant una traducció no modifica els segments registrats en la memòria de traducció del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changing the tag order may break the translated file!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212055Z" creationid="Marc Riera" creationdate="20221124T212055Z">
@@ -7107,6 +7115,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T221002Z" creationid="Marc Riera" creationdate="20201130T221002Z">
         <seg>Marqueu l'opció &lt;g0&gt;Utilitza les coincidències parcials per a les entrades del diccionari&lt;/g0&gt; si voleu que els diccionaris mostrin paraules que tinguin la mateixa arrel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check the &lt;g0&gt;Use local segmentation rules&lt;/g0&gt; box, and adjust the segmentation rules as desired.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T112221Z" creationid="Marc Riera" creationdate="20221206T112221Z">
+        <seg>Marqueu la casella &lt;g0&gt;Utilitza regles de segmentació locals&lt;/g0&gt; i ajusteu les regles de segmentació com vulgueu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14002,6 +14018,14 @@ l'hivern ja és aquí.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201115T220408Z" creationid="Marc Riera" creationdate="20201115T220408Z">
         <seg>Guies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, OmegaT will attempt to create fuzzy matches for paragraphs by combining existing sentence translations.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T111928Z" creationid="Marc Riera" creationdate="20221206T111928Z">
+        <seg>Això no obstant, l'OmegaT intentarà crear coincidències parcials per als paràgrafs combinant les traduccions de frases existents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25470,6 +25494,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0/&gt; for general explanations about segmentation (global or local, paragraph or sentence, setting, etc.)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T112100Z" creationid="Marc Riera" creationdate="20221206T112100Z">
+        <seg>Consulteu &lt;l0/&gt; per a veure explicacions generals sobre la segmentació (global o local, per paràgrafs o per frases, paràmetres, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt; for details.&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110021Z" creationid="Marc Riera" creationdate="20221204T110021Z">
@@ -25715,6 +25747,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T151049Z" creationid="Marc Riera" creationdate="20180221T115017Z">
         <seg>Les regles de segmentació s'apliquen en l'ordre següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segmentation rules found when you open the &lt;l0/&gt; preferences (with &lt;l1/&gt; in the &lt;l2/&gt; menu) are global rules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T112139Z" creationid="Marc Riera" creationdate="20221206T112139Z">
+        <seg>Les regles de segmentació que veieu quan obriu les preferències de &lt;l0/&gt; (amb &lt;l1/&gt; en el menú &lt;l2/&gt;) són regles globals.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27740,6 +27780,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Switching from &lt;e0&gt;sentence&lt;/e0&gt; to &lt;e1&gt;paragraph&lt;/e1&gt; segmentation mid-translation may force OmegaT to upgrade old translation memories that did not use sentence segmentation, but not vice versa.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T112025Z" creationid="Marc Riera" creationdate="20221206T112025Z">
+        <seg>Canviar de la segmentació per &lt;e0&gt;frases&lt;/e0&gt; a la segmentació per &lt;e1&gt;paràgrafs&lt;/e1&gt; a mitja traducció pot forçar l'OmegaT a actualitzar les memòries de traducció antigues que no utilitzen la segmentació per frases, però no a l'inrevés.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Switching to built-in version.</seg>
@@ -29659,6 +29707,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project will store the new set of rules in the &lt;l0/&gt; file of its &lt;l1/&gt; folder, and the rules will supersede the global segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T112246Z" creationid="Marc Riera" creationdate="20221206T112246Z">
+        <seg>El projecte emmagatzemarà el nou conjunt de regles en el fitxer &lt;l0/&gt; de la carpeta &lt;l1/&gt; i les regles substituiran les regles de segmentació globals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The recognized extensions are &lt;f1&gt;TXT&lt;/f1&gt; and &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T220528Z" creationid="Marc Riera" creationdate="20201130T220528Z">
@@ -31167,6 +31223,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T202042Z" creationid="Marc Riera" creationdate="20201010T202042Z">
         <seg>Fins al moment, els patrocinadors han estat els següents:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To disable local segmentation rules, disable this option or remove that file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T112303Z" creationid="Marc Riera" creationdate="20221206T112303Z">
+        <seg>Per a inhabilitar les regles de segmentació locals, inhabiliteu aquesta opció o suprimiu el fitxer.</seg>
       </tuv>
     </tu>
     <tu>
