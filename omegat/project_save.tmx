@@ -129,6 +129,118 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>${extension}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195403Z" creationid="Marc Riera" creationdate="20221206T195403Z">
+        <seg>${extension}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${file-source-encoding}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195418Z" creationid="Marc Riera" creationdate="20221206T195418Z">
+        <seg>${file-source-encoding}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${file-target-encoding}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195419Z" creationid="Marc Riera" creationdate="20221206T195419Z">
+        <seg>${file-target-encoding}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${filename}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195400Z" creationid="Marc Riera" creationdate="20221206T195400Z">
+        <seg>${filename}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${nameOnly}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195402Z" creationid="Marc Riera" creationdate="20221206T195402Z">
+        <seg>${nameOnly}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${system-host-name}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195416Z" creationid="Marc Riera" creationdate="20221206T195416Z">
+        <seg>${system-host-name}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${system-os-name}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195414Z" creationid="Marc Riera" creationdate="20221206T195414Z">
+        <seg>${system-os-name}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${system-user-name}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195415Z" creationid="Marc Riera" creationdate="20221206T195415Z">
+        <seg>${system-user-name}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetCountryCode}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195408Z" creationid="Marc Riera" creationdate="20221206T195408Z">
+        <seg>${targetCountryCode}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLanguageCode}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195407Z" creationid="Marc Riera" creationdate="20221206T195407Z">
+        <seg>${targetLanguageCode}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLanguage}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195406Z" creationid="Marc Riera" creationdate="20221206T195406Z">
+        <seg>${targetLanguage}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLocaleLCID}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195420Z" creationid="Marc Riera" creationdate="20221206T195420Z">
+        <seg>${targetLocaleLCID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLocale}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195404Z" creationid="Marc Riera" creationdate="20221206T195404Z">
+        <seg>${targetLocale}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${timestamp-????}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195411Z" creationid="Marc Riera" creationdate="20221206T195411Z">
+        <seg>${timestamp-????}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;About...</seg>
@@ -10819,6 +10931,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Editor Panel</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195329Z" creationid="Marc Riera" creationdate="20221206T195240Z">
+        <seg>Subfinestra «Editor»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Editor functions</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T084439Z" creationid="Marc Riera" creationdate="20221205T084439Z">
@@ -20074,6 +20194,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: The Source File Encoding setting only affects HHC and HHK files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195343Z" creationid="Marc Riera" creationdate="20221206T195343Z">
+        <seg>Nota: els paràmetres de codificació dels fitxers d'origen afecten només els fitxers HHC i HHK sense cap declaració de codificació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: The Source file encoding setting only affects HHC and HHK files with no encoding declaration.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204603Z" creationid="Marc Riera" creationdate="20221124T204603Z">
@@ -20112,6 +20240,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180212T221435Z" creationid="Marc Riera" creationdate="20180212T221435Z">
         <seg>Notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notes Panel</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195325Z" creationid="Marc Riera" creationdate="20221206T195231Z">
+        <seg>Subfinestra «Notes»</seg>
       </tuv>
     </tu>
     <tu>
@@ -21511,6 +21647,14 @@ la carpeta d'inici.</seg>
         <seg>Open it in the OmegaT GUI tTo convert it to the new format.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215829Z" creationid="Marc Riera" creationdate="20221124T215750Z">
+        <seg>Obriu-lo en GUI de l'OmegaT per a convertir-lo al nou format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open it in the OmegaT GUI to convert it to the new format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195348Z" creationid="Marc Riera" creationdate="20221206T195348Z">
         <seg>Obriu-lo en GUI de l'OmegaT per a convertir-lo al nou format.</seg>
       </tuv>
     </tu>
@@ -31574,6 +31718,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tick or untick the appropriate boxes to change these settings.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195335Z" creationid="Marc Riera" creationdate="20221206T195335Z">
+        <seg>Marqueu o desmarqueu les caselles corresponents per a canviar els paràmetres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tick or untick the approrpiate boxes to change these settings.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192206Z" creationid="Marc Riera" creationdate="20221124T192206Z">
@@ -35753,6 +35905,14 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Your project does not seem to contain translatable files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195218Z" creationid="Marc Riera" creationdate="20221206T195218Z">
+        <seg>Sembla que el projecte no conté cap fitxer traduïble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your version</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220748Z" creationid="Marc Riera" creationdate="20221124T220748Z">
@@ -37927,6 +38087,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231443Z" creationid="Marc Riera" creationdate="20201129T231443Z">
         <seg>https://datamarket.azure.com/account</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195412Z" creationid="Marc Riera" creationdate="20221206T195412Z">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html</seg>
       </tuv>
     </tu>
     <tu>
