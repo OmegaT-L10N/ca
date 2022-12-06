@@ -5063,6 +5063,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT translation project consists of a number of resources in separate folders.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T135050Z" creationid="Marc Riera" creationdate="20221206T135050Z">
+        <seg>Un projecte de traducció de l'OmegaT està format per diversos recursos en carpetes independents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An OmegaT translation project consists of a number of resources stored in separate folders, of a &lt;l0/&gt; file that stores the location of all the resources and of a &lt;l1/&gt; translation memory file that stores all the translations made while working on that project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T093005Z" creationid="Marc Riera" creationdate="20221205T093005Z">
@@ -12816,6 +12824,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192803Z" creationid="Marc Riera" creationdate="20201124T192751Z">
         <seg>Per a la majoria d'usuaris, no són d'interès.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For security purposes, local project-based external searches are disabled by default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T134957Z" creationid="Marc Riera" creationdate="20221206T134957Z">
+        <seg>Per raons de seguretat, les cerques externes locals estan inhabilitades per defecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24506,6 +24522,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Resource folders can be located anywhere on your machine, including on shared disks.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T135126Z" creationid="Marc Riera" creationdate="20221206T135126Z">
+        <seg>Les carpetes de recursos poden ser en qualsevol lloc de l'ordinador, fins i tot en discs compartits.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Resource name</seg>
@@ -31531,6 +31555,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To delete project specific external searches, click &lt;g0&gt;Remove&lt;/g0&gt; or remove that file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T134918Z" creationid="Marc Riera" creationdate="20221206T134918Z">
+        <seg>Per a suprimir les cerques externes específiques del projecte, feu clic en &lt;g0&gt;Suprimeix&lt;/g0&gt; o suprimiu el fitxer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To disable local segmentation rules, disable this option or remove that file.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T112303Z" creationid="Marc Riera" creationdate="20221206T112303Z">
@@ -34215,6 +34247,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>When a new project is created, OmegaT proposes to create a project folder that contains all the resources used in the translation, but that structure is not compulsory.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T135104Z" creationid="Marc Riera" creationdate="20221206T135104Z">
+        <seg>Quan es crea un projecte, l'OmegaT proposa crear una carpeta del projecte que conté tots els recursos utilitzats en la traducció, però aquesta estructura no és obligatòria.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
@@ -35028,6 +35068,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can access all the locations with &lt;l0/&gt; and its submenus.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T135222Z" creationid="Marc Riera" creationdate="20221206T135222Z">
+        <seg>Podeu accedir a totes les ubicacions amb &lt;l0/&gt; i els submenús.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can access all the resource contents at any time with &lt;l2/&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T094132Z" creationid="Marc Riera" creationdate="20221205T094132Z">
@@ -35199,6 +35247,14 @@ d'allà.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>You can enable them by checking &lt;l0/&gt; in the &lt;l1/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T135033Z" creationid="Marc Riera" creationdate="20221206T135033Z">
+        <seg>Les podeu habilitar marcant &lt;l0/&gt; en les preferències de &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You can find detailed statistic information in the file:
@@ -35254,6 +35310,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T185501Z" creationid="Marc Riera" creationdate="20221203T185501Z">
         <seg>Podeu limitar les regles de segmentació que utilitza el projecte definint regles locals amb &lt;l0/&gt;, en l'apartat &lt;l1/&gt;, o iniciant l'OmegaT des de la línia d'ordres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can modify the structure of your project by adding or removing files from the folders, or even by changing the folders the project will use, at will, even during the course of the translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T135211Z" creationid="Marc Riera" creationdate="20221206T135211Z">
+        <seg>Podeu modificar l'estructura del projecte afegint o suprimint fitxers de les carpetes o, fins i tot, canviant les carpetes que utilitza el projecte, com vulgueu, fins i tot durant la traducció.</seg>
       </tuv>
     </tu>
     <tu>
