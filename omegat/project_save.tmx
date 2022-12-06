@@ -7378,6 +7378,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T142928Z" creationid="Marc Riera" creationdate="20221206T142928Z">
+        <seg>Feu clic en &lt;g0&gt;Exclusions...&lt;/g0&gt; per a definir els fitxers o carpetes voleu que l'OmegaT ignori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click &lt;g1&gt;Replace Next&lt;/g1&gt; or &lt;g2&gt;Skip&lt;/g2&gt;, then end the replacement session with &lt;g3&gt;Finish&lt;/g3&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T152450Z" creationid="Marc Riera" creationdate="20220611T152450Z">
@@ -7424,6 +7432,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T093333Z" creationid="Marc Riera" creationdate="20221205T093333Z">
         <seg>Feu clic en &lt;l0/&gt; o &lt;l1/&gt; i afegiu fitxers d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the button to select the folder that you want to use instead of the default resource folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T142756Z" creationid="Marc Riera" creationdate="20221206T142756Z">
+        <seg>Feu clic en el botó per a seleccionar la carpeta que voleu utilitzar en comptes de la carpeta de recursos per defecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14718,6 +14734,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the folder is empty, if none of the files contain translatable contents, or if there are no files supported by OmegaT’s file filters, OmegaT will tell you that the folder is empty.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T142905Z" creationid="Marc Riera" creationdate="20221206T142905Z">
+        <seg>Si la carpeta està buida, si cap dels fitxers conté continguts traduïbles o si no hi ha cap fitxer compatible amb els filtres de fitxers de l'OmegaT, l'OmegaT us indicarà que la carpeta està buida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the location matches both rules, it is considered either as a break, or as a non-break, depending of what the rule defined.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T173034Z" creationid="Marc Riera" creationdate="20221201T173034Z">
@@ -21014,6 +21038,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T213614Z" creationid="mgalo" creationdate="20181113T182628Z">
         <seg>D'aquesta manera, l'OmegaT copiarà els fitxers seleccionats a la subcarpeta &lt;f2&gt;/source/&lt;/f2&gt; del nou projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will try to read all the files at once, and will display in the editor the translatable contents that it has found.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T142831Z" creationid="Marc Riera" creationdate="20221206T142831Z">
+        <seg>L'OmegaT intentarà llegir tots els fitxers alhora i mostrarà en l'editor els continguts traduïbles que trobi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28791,6 +28823,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g0&gt;Browse&lt;/g0&gt; button is available for all the user-defined project resources.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T142810Z" creationid="Marc Riera" creationdate="20221206T142810Z">
+        <seg>El botó &lt;g0&gt;Navega&lt;/g0&gt; està disponible per a tots els recursos del projecte definits per l'usuari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;g0&gt;Viterbi&lt;/g0&gt; and &lt;g1&gt;Forward-Backward&lt;/g1&gt; algorithms are two different calculation methods.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T122046Z" creationid="Marc Riera" creationdate="20220611T122037Z">
@@ -35351,6 +35391,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220620Z" creationid="Marc Riera" creationdate="20220130T220620Z">
         <seg>Podeu seleccionar un tema per a la interfície d'usuari de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select any folder that you want to hold your resources, even folders located on shared disks.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T142743Z" creationid="Marc Riera" creationdate="20221206T142743Z">
+        <seg>Podeu seleccionar qualsevol carpeta que vulgueu que contingui els recursos, fins i tot carpetes en discs compartits.</seg>
       </tuv>
     </tu>
     <tu>
