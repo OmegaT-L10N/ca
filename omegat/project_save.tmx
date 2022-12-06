@@ -2990,6 +2990,30 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>./gradlew installDist</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T205250Z" creationid="Marc Riera" creationdate="20221206T205250Z">
+        <seg>./gradlew installDist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>./gradlew run</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T205254Z" creationid="Marc Riera" creationdate="20221206T205254Z">
+        <seg>./gradlew run</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>./gradlew tasks</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T205256Z" creationid="Marc Riera" creationdate="20221206T205256Z">
+        <seg>./gradlew tasks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>.csv</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T164147Z" creationid="Marc Riera" creationdate="20221201T164147Z">
@@ -5154,6 +5178,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alongside an existing version</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T205221Z" creationid="Marc Riera" creationdate="20221206T205221Z">
+        <seg>Juntament amb una versió existent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Enter&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220714Z" creationid="Marc Riera" creationdate="20221204T220714Z">
@@ -6422,6 +6454,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T131818Z" creationid="Alexandra" creationdate="20150526T133040Z">
         <seg>Els errors, sol·licituds de característiques i problemes de documentació es gestionen a SourceForge mitjançant els sistemes de seguiment següents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Build OmegaT</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T205239Z" creationid="Marc Riera" creationdate="20221206T205239Z">
+        <seg>Compilació de l'OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -9539,6 +9579,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T203225Z" creationid="Marc Riera" creationdate="20201010T203225Z">
         <seg>Treball de fi de grau de Sébastien Guillardeau, 2010 (en alemany).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete OmegaT</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T205231Z" creationid="Marc Riera" creationdate="20221206T205231Z">
+        <seg>Desinstal·lació de l'OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -21255,6 +21303,14 @@ està a punt per a executar-se.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT projects are &lt;e1&gt;not&lt;/e1&gt; stored inside OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T205135Z" creationid="Marc Riera" creationdate="20221206T205135Z">
+        <seg>Els projectes de l'OmegaT &lt;e1&gt;no&lt;/e1&gt; s'emmagatzemen dins de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT provides predefined segmentation rules, and the translator can use regular expressions to modify them.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191907Z" creationid="Marc Riera" creationdate="20221201T191907Z">
@@ -22255,6 +22311,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230850Z" creationid="Marc Riera" creationdate="20191112T230850Z">
         <seg>Ordre incorrecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Over an existing version</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T205211Z" creationid="Marc Riera" creationdate="20221206T205211Z">
+        <seg>Sobre una versió existent</seg>
       </tuv>
     </tu>
     <tu>
@@ -31219,6 +31283,14 @@ en sou víctima d'una.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are separate objects that have no physical connection to the OmegaT application itself.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T205155Z" creationid="Marc Riera" creationdate="20221206T205155Z">
+        <seg>Són objectes independents que no tenen cap connexió física amb l'aplicació OmegaT en si.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They are terminology files in a format recognized by OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T164221Z" creationid="Marc Riera" creationdate="20221201T164221Z">
@@ -38521,6 +38593,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231453Z" creationid="Marc Riera" creationdate="20201129T231453Z">
         <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat.git</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T205248Z" creationid="Marc Riera" creationdate="20221206T205248Z">
+        <seg>https://github.com/omegat-org/omegat.git</seg>
       </tuv>
     </tu>
     <tu>
