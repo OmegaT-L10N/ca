@@ -7298,6 +7298,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click &lt;l0/&gt; if you want to use project specific segmentation rules (local rules) and not global rules, or start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T110100Z" creationid="Marc Riera" creationdate="20221206T110100Z">
+        <seg>Feu clic en &lt;l0/&gt; si voleu utilitzar regles de segmentació específiques del projecte (regles locals) i no regles globals, o inicieu l'OmegaT des de la línia d'ordres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click in the other column on the translation corresponding to the first segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T150338Z" creationid="Marc Riera" creationdate="20220307T225144Z">
@@ -9571,6 +9579,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T232516Z" creationid="Marc Riera" creationdate="20190520T120615Z">
         <seg>Inhabilita la regla «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disable this option if you prefer not to further segment the paragraphs.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T110023Z" creationid="Marc Riera" creationdate="20221206T110023Z">
+        <seg>Inhabiliteu aquesta opció si preferiu no segmentar els paràgrafs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16627,6 +16643,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language codes are used in &lt;l0/&gt;, &lt;l1/&gt;, the &lt;l2/&gt;, &lt;l3/&gt;, etc.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T105845Z" creationid="Marc Riera" creationdate="20221206T105845Z">
+        <seg>Els codis de llengua s'utilitzen en les &lt;l0/&gt;, les &lt;l1/&gt;, el &lt;l2/&gt;, el &lt;l3/&gt;, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language name</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204610Z" creationid="Marc Riera" creationdate="20221124T204610Z">
@@ -20249,6 +20273,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161317Z" creationid="Marc Riera" creationdate="20220625T161317Z">
         <seg>L'OmegaT desa automàticament les traduccions cada 3 minuts i quan tanqueu el projecte o sortiu de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT automatically selects the tokenizers that correspond to the source and target languages but you can manually modify the settings.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T105908Z" creationid="Marc Riera" creationdate="20221206T105908Z">
+        <seg>L'OmegaT selecciona automàticament els lematitzadors que corresponen a les llengües d'origen i de destinació, però podeu modificar els paràmetres manualment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26069,6 +26101,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the source and target languages by hand, or use the drop-down menus.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T105523Z" creationid="Marc Riera" creationdate="20221206T105523Z">
+        <seg>Seleccioneu les llengües d'origen i de destinació manualment, o utilitzeu els menús desplegables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the type of segmentation by clicking &lt;l0/&gt; in the &lt;l1/&gt; menu and checking or unchecking the &lt;l2/&gt; box.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T114553Z" creationid="Marc Riera" creationdate="20221203T114553Z">
@@ -26146,10 +26186,18 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sentence-level segmentation splits the source file “paragraphs” into segments based on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T110013Z" creationid="Marc Riera" creationdate="20221206T110013Z">
+        <seg>La segmentació per frases divideix els «paràgrafs» dels fitxers d'origen en segments segons les regles de segmentació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sentence-level segmenting</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T103700Z" creationid="Marc Riera" creationdate="20221206T103700Z">
-        <seg>Segmentació per frases</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T105947Z" creationid="Marc Riera" creationdate="20221206T103700Z">
+        <seg>Habilita la segmentació per frases</seg>
       </tuv>
     </tu>
     <tu>
@@ -28955,6 +29003,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The dialog is used to set the initial project properties when creating a new project and also to modify them later, after the project has been created.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T105508Z" creationid="Marc Riera" creationdate="20221206T105508Z">
+        <seg>Aquest quadre de diàleg s'utilitza per a definir les propietats inicials del projecte en crear-ne un de nou i també per modificar-les més tard, quan ja s'ha creat el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The dictionary files folder does not exist!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T191032Z" creationid="Marc Riera" creationdate="20221124T191007Z">
@@ -31306,6 +31362,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Tokenizers allow OmegaT to provide better matches.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T105940Z" creationid="Marc Riera" creationdate="20221206T105940Z">
+        <seg>Els lematitzadors permeten que l'OmegaT proporcioni millors coincidències.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Too big HTML file!</seg>
@@ -32904,6 +32968,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121033Z" creationid="Marc Riera" creationdate="20220611T121033Z">
         <seg>Utilitzeu &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt; per a obrir-la i &lt;k3&gt;Esc&lt;/k3&gt; per a tancar-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; in the &lt;l1/&gt; menu to open the dialog.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T105435Z" creationid="Marc Riera" creationdate="20221206T105435Z">
+        <seg>Utilitzeu &lt;l0/&gt; en el menú &lt;l1/&gt; per a obrir el quadre de diàleg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34552,6 +34624,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T094132Z" creationid="Marc Riera" creationdate="20221205T094132Z">
         <seg>Podeu accedir a tots els recursos en qualsevol moment amb &lt;l2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can access the global rules with &lt;l0/&gt; in the &lt;l1/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T110044Z" creationid="Marc Riera" creationdate="20221206T110044Z">
+        <seg>Podeu accedir a les regles globals amb &lt;l0/&gt; en el menú &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
