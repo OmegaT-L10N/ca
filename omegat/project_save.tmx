@@ -3236,8 +3236,8 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       <tuv lang="en">
         <seg>&lt;c0&gt;# -*- coding: &lt;p1&gt;&lt;charset&gt;&lt;/p1&gt; -*-&lt;/c0&gt;,</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T165751Z" creationid="Marc Riera" creationdate="20221201T165751Z">
-        <seg>&lt;c0&gt;# -*- coding: &lt;p1&gt;&lt;charset&gt;&lt;/p1&gt; -*-&lt;/c0&gt;,</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T102849Z" creationid="Marc Riera" creationdate="20221201T165751Z">
+        <seg>&lt;c0&gt;# -*- coding: &lt;p1&gt;&lt;joc de caràcters&gt;&lt;/p1&gt; -*-&lt;/c0&gt;,</seg>
       </tuv>
     </tu>
     <tu>
@@ -31199,6 +31199,14 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>To specify a glossary in the latin encoding, for example, use:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T103027Z" creationid="Marc Riera" creationdate="20221206T103027Z">
+        <seg>Per exemple, per a especificar un glossari amb la codificació llatina, utilitzeu:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
@@ -33240,8 +33248,8 @@ El valor actual és de {0} MB.</seg>
       <tuv lang="en">
         <seg>User-created files that use only latin characters may be recognized and treated as ISO-8859-1 if it does not contain non-ASCII characters or other characters interpreted as UTF-8.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T102253Z" creationid="Marc Riera" creationdate="20221206T102253Z">
-        <seg>Els fitxers creats per l'usuari que només utilitzen caràcters llatins es poden reconèixer i tractar com a ISO-8859-1 si no contenen caràcters no ASCII o altres caràcters interpretats com a UTF-8.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T102259Z" creationid="Marc Riera" creationdate="20221206T102253Z">
+        <seg>Els fitxers creats per l'usuari que només utilitzen caràcters llatins es poden reconèixer i tractar com a ISO-8859-1 si no contenen caràcters no ASCII ni altres caràcters interpretats com a UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39372,6 +39380,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T202057Z" creationid="Marc Riera" creationdate="20201010T202057Z">
         <seg>weLocalize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;p0&gt;&lt;charset&gt;&lt;/p0&gt; is typically one of the sets listed in the &lt;u1&gt;IANA Charset Registry&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T102945Z" creationid="Marc Riera" creationdate="20221206T102945Z">
+        <seg>on &lt;p0&gt;&lt;joc de caràcters&gt;&lt;/p0&gt; és, normalment, un dels jocs de caràcters del &lt;u1&gt;Registre de jocs de caràcters de la IANA&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
