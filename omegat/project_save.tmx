@@ -3498,6 +3498,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Keep&lt;/g0&gt;: The segment pairs in rows that have this box checked are saved to the translation memory file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201826Z" creationid="Marc Riera" creationdate="20221206T201826Z">
+        <seg>&lt;g0&gt;Conserva&lt;/g0&gt;: els parells de segments de les files on s'ha marcat aquesta casella es desen en el fitxer de memòria de traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Parsewise&lt;/g0&gt;: This mode compares the documents segment by segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201056Z" creationid="Marc Riera" creationdate="20221206T201056Z">
@@ -3526,6 +3534,22 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T205750Z" creationid="Marc Riera" creationdate="20220621T205750Z">
         <seg>&lt;g0&gt;Cerca a &gt; Fitxers&lt;/g0&gt;: cerca en un únic fitxer o en una carpeta que contingui diversos fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Source&lt;/g0&gt;: The segments from the original text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201837Z" creationid="Marc Riera" creationdate="20221206T201837Z">
+        <seg>&lt;g0&gt;Origen&lt;/g0&gt;: segments del text original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Target&lt;/g0&gt;: The segments from the translated text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201900Z" creationid="Marc Riera" creationdate="20221206T201900Z">
+        <seg>&lt;g0&gt;Destinació&lt;/g0&gt;: segments del text traduït.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8428,6 +8452,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the folder to a suitable location (e.g. &lt;f3&gt;Applications&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202312Z" creationid="Marc Riera" creationdate="20221206T202312Z">
+        <seg>Copieu la carpeta a una ubicació adequada (p. ex., &lt;f3&gt;Aplicacions&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the text and paste it into the translated version of the Wikipedia page.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161149Z" creationid="Marc Riera" creationdate="20220625T161149Z">
@@ -9642,6 +9674,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Developer: OmegaT Nightly</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202055Z" creationid="Marc Riera" creationdate="20221206T202055Z">
+        <seg>Desenvolupament: OmegaT (compilació nocturna)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Developers</seg>
@@ -10426,6 +10466,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double click on the package you downloaded to unpack it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202244Z" creationid="Marc Riera" creationdate="20221206T202244Z">
+        <seg>Feu doble clic en el paquet que heu baixat per a desempaquetar-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-check and try again.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221116T224234Z" creationid="Marc Riera" creationdate="20221116T224234Z">
@@ -10447,6 +10495,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T121637Z" creationid="Marc Riera" creationdate="20180212T231721Z">
         <seg>Feu doble clic en l'aplicació OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-click on the package you downloaded.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202139Z" creationid="Marc Riera" creationdate="20221206T202139Z">
+        <seg>Feu doble clic en el paquet que heu baixat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15968,6 +16024,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install OmegaT</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202010Z" creationid="Marc Riera" creationdate="20221206T202010Z">
+        <seg>Instal·lació de l'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Install failed</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214813Z" creationid="Marc Riera" creationdate="20221124T214813Z">
@@ -16479,6 +16543,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201124T193348Z" creationid="Marc Riera" creationdate="20201124T193348Z">
         <seg>Per tant, sempre és segur instal·lar la versió de l'OmegaT amb el JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is used for testing purposes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202116Z" creationid="Marc Riera" creationdate="20221206T202116Z">
+        <seg>S'utilitza amb finalitats de proves.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20791,6 +20863,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT comes in two editions:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202022Z" creationid="Marc Riera" creationdate="20221206T202014Z">
+        <seg>OmegaT té dues versions:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
@@ -21423,6 +21503,22 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Linux</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202144Z" creationid="Marc Riera" creationdate="20221206T202144Z">
+        <seg>Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On Windows</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202134Z" creationid="Marc Riera" creationdate="20221206T202134Z">
+        <seg>Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220223Z" creationid="Marc Riera" creationdate="20221204T220223Z">
@@ -21435,6 +21531,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T081814Z" creationid="Marc Riera" creationdate="20221205T081814Z">
         <seg>Windows i Linux: &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Maj&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202234Z" creationid="Marc Riera" creationdate="20221206T202234Z">
+        <seg>macOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -27348,6 +27452,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some Linux distributions offer OmegaT in their package manager.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202151Z" creationid="Marc Riera" creationdate="20221206T202151Z">
+        <seg>Algunes distribucions del Linux ofereixen l'OmegaT en el gestor de paquets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T155726Z" creationid="Marc Riera" creationdate="20220611T155726Z">
@@ -28004,6 +28116,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T211755Z" creationid="Marc Riera" creationdate="20221124T211755Z">
         <seg>Plantilla estàndard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Standard: OmegaT 5.8.0</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202025Z" creationid="Marc Riera" creationdate="20221206T202025Z">
+        <seg>Estàndard: OmegaT 5.8.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -29032,6 +29152,14 @@ L'àmbit d'una substitució de text són els segments de destinació del project
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201126T152727Z" creationid="Alexandra" creationdate="20150526T131952Z">
         <seg>Gràcies a la tasca dels traductors en el passat, la interfície d'usuari de l'OmegaT i els textos d'ajuda s'han traduït a diverses llengües.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That folder contains all the files needed to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202223Z" creationid="Marc Riera" creationdate="20221206T202223Z">
+        <seg>Aquesta carpeta conté tots els fitxers necessaris per a executar l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31274,6 +31402,22 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This creates a folder called &lt;f0&gt;OmegaT&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202253Z" creationid="Marc Riera" creationdate="20221206T202253Z">
+        <seg>Això crea una carpeta anomenada &lt;f0&gt;OmegaT&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This creates a new folder named after the package you downloaded.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202218Z" creationid="Marc Riera" creationdate="20221206T202218Z">
+        <seg>Això crea una carpeta nova amb el nom del paquet que heu baixat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T215939Z" creationid="Marc Riera" creationdate="20220130T215916Z">
@@ -31295,6 +31439,22 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T145111Z" creationid="Marc Riera" creationdate="20201125T145111Z">
         <seg>Aquest document és la guia oficial de l'usuari per a l'OmegaT, l'eina lliure de traducció assistida per ordinador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This edition is automatically generated every time new code is added to OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202106Z" creationid="Marc Riera" creationdate="20221206T202106Z">
+        <seg>Aquesta versió es genera automàticament cada vegada que s'afegeix codi a l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This edition is recommended for everyday use.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202038Z" creationid="Marc Riera" creationdate="20221206T202038Z">
+        <seg>Es recomana aquesta versió per a l'ús diari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33505,6 +33665,14 @@ file and the OmegaT application.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200726T110542Z" creationid="Marc Riera" creationdate="20200122T230748Z">
         <seg>Descomprimiu l'arxiu .zip de l'OmegaT per a obtenir una carpeta que conté un
 fitxer de documentació i l'aplicació OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack/untar the file you downloaded.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202210Z" creationid="Marc Riera" creationdate="20221206T202210Z">
+        <seg>Descomprimiu o desempaqueteu el fitxer que heu baixat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38338,6 +38506,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200122T231035Z" creationid="Marc Riera" creationdate="20200122T231035Z">
         <seg>https://omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.org/download</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202119Z" creationid="Marc Riera" creationdate="20221206T202119Z">
+        <seg>https://omegat.org/download</seg>
       </tuv>
     </tu>
     <tu>
