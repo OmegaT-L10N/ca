@@ -6368,6 +6368,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, external searches are global and are shared by all projects.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T133210Z" creationid="Marc Riera" creationdate="20221206T133210Z">
+        <seg>Per defecte, les cerques externes són globals i es comparteixen entre tots els projectes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, file filter settings are global and shared by all projects.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110436Z" creationid="Marc Riera" creationdate="20221204T110436Z">
@@ -14706,6 +14714,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T173745Z" creationid="Marc Riera" creationdate="20221124T173745Z">
         <seg>Si el projecte conté fitxers però no se'n mostra el contingut aquí:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there are duplicated (non-unique) segments in the source documents, checking this option will set the first translated segment as the default translation and automatically use the same target text in the remaining repeated segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T132953Z" creationid="Marc Riera" creationdate="20221206T132953Z">
+        <seg>Si hi ha segments duplicats (no únics) en els documents d'origen i marqueu aquesta opció, es definirà el primer segment traduït com a traducció per defecte i s'utilitzarà automàticament el mateix text de destinació en els segments repetits restants.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25630,6 +25646,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0/&gt; in &lt;l1/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T133156Z" creationid="Marc Riera" creationdate="20221206T133156Z">
+        <seg>Consulteu &lt;l0/&gt; en l'apartat &lt;l1/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt; for details.&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110021Z" creationid="Marc Riera" creationdate="20221204T110021Z">
@@ -29883,6 +29907,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project will store the new set of file filters in the &lt;l0/&gt; file of its omegat folder, and the settings will supersede the global file filter settings.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T133048Z" creationid="Marc Riera" creationdate="20221206T133048Z">
+        <seg>El projecte emmagatzemarà el nou conjunt de filtres de fitxers en el fitxer &lt;l0/&gt; de la carpeta «omegat» i els paràmetres substituiran els paràmetres de filtres de fitxers globals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project will store the new set of rules in the &lt;l0/&gt; file of its &lt;l1/&gt; folder, and the rules will supersede the global segmentation rules.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T112246Z" creationid="Marc Riera" creationdate="20221206T112246Z">
@@ -31495,6 +31527,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T112303Z" creationid="Marc Riera" creationdate="20221206T112303Z">
         <seg>Per a inhabilitar les regles de segmentació locals, inhabiliteu aquesta opció o suprimiu el fitxer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To disable project specific file filters, uncheck the box or remove that file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T133104Z" creationid="Marc Riera" creationdate="20221206T133104Z">
+        <seg>Per a inhabilitar els filtres de fitxers específics del projecte, desmarqueu la casella o suprimiu el fitxer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34240,6 +34280,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151153Z" creationid="mgalo" creationdate="20181111T222806Z">
         <seg>En utilitzar expressions regulars, la cadena de substitució admet referències a grups definits en la cadena de cerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When working on a team project, this window allows you to define the mapping between the remote and local folders.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T133120Z" creationid="Marc Riera" creationdate="20221206T133120Z">
+        <seg>Quan treballeu en un projecte en equip, aquesta finestra us permet definir l'assignació entre les carpetes remotes i locals.</seg>
       </tuv>
     </tu>
     <tu>
