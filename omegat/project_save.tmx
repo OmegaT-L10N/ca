@@ -6352,6 +6352,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, segmentation rules are global and apply to all projects.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T103810Z" creationid="Marc Riera" creationdate="20221206T103810Z">
+        <seg>Per defecte, les regles de segmentació són globals i s'apliquen a tots els projectes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, segmentation settings are global and shared by all projects.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T115721Z" creationid="Marc Riera" creationdate="20221203T115721Z">
@@ -17408,6 +17416,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T103803Z" creationid="Marc Riera" creationdate="20221206T103803Z">
+        <seg>Regles de segmentació locals...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local commands are run before global commands.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110512Z" creationid="Marc Riera" creationdate="20221204T110512Z">
@@ -26129,6 +26145,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Sentence-level segmenting</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T103700Z" creationid="Marc Riera" creationdate="20221206T103700Z">
+        <seg>Segmentació per frases</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Sequence Library (Sequence Library License)</seg>
@@ -33092,6 +33116,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110104Z" creationid="Marc Riera" creationdate="20221204T110104Z">
         <seg>Utilitzeu aquest botó per a crear filtres de fitxers locals específics per al projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this button to create local rules specific to your project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T103817Z" creationid="Marc Riera" creationdate="20221206T103817Z">
+        <seg>Utilitzeu aquest botó per a crear regles locals específiques del vostre projecte.</seg>
       </tuv>
     </tu>
     <tu>
