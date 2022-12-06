@@ -4028,6 +4028,22 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>A “level 1” TMX contains only textual data and has removed all tag information.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T122849Z" creationid="Marc Riera" creationdate="20221206T122849Z">
+        <seg>Un TMX de «nivell 1» només conté dades textuals i s'ha suprimit tota la informació de les etiquetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A “level 2” TMX contains textual data along with tags encapsulated in a way that is compatible with other CAT tools.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T122907Z" creationid="Marc Riera" creationdate="20221206T122907Z">
+        <seg>Un TMX de «nivell 2» conté dades textuals juntament amb etiquetes encapsulades en un format compatible amb altres eines de TAO.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>A&amp;dd</seg>
@@ -5278,6 +5294,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>An “OmegaT” TMX contains the tags that OmegaT created, in a form that can only be properly used by an OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T122828Z" creationid="Marc Riera" creationdate="20221206T122823Z">
+        <seg>Un fitxer TMX de l'«OmegaT» conté les etiquetes que ha creat l'OmegaT en un format que només pot utilitzar correctament un projecte de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
@@ -6380,6 +6404,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T115721Z" creationid="Marc Riera" creationdate="20221203T115721Z">
         <seg>Per defecte, els paràmetres de segmentació són globals i es comparteixen entre tots els projectes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, that folder is the project folder itself but you can change its location to make it more practical to share exported TM files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T122711Z" creationid="Marc Riera" creationdate="20221206T122711Z">
+        <seg>Per defecte, és la carpeta del projecte en si, però podeu canviar-ne la ubicació perquè sigui més pràctic compartir els fitxers de memòries de traducció exportats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25716,6 +25748,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;u0&gt;TMX 1.4b Specification&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T122927Z" creationid="Marc Riera" creationdate="20221206T122927Z">
+        <seg>Consulteu la &lt;u0&gt;Especificació del format TMX 1.4b&lt;/u0&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the chapter &lt;e0&gt;Segmentation rules&lt;/e0&gt; for more information.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T120919Z" creationid="Marc Riera" creationdate="20220611T120919Z">
@@ -25790,6 +25830,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215013Z" creationid="Marc Riera" creationdate="20180214T224326Z">
         <seg>Segmenta el text d'origen per paràgrafs en:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment that have been translated will be replaced by their translation and untranslated segments will remain in the source language.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T122540Z" creationid="Marc Riera" creationdate="20221206T122540Z">
+        <seg>Els segments traduïts se substituiran per la traducció i els segments sense traduir romandran en la llengua d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28914,6 +28962,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The TMX files will contain only the segments that correspond to the current contents of the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T122607Z" creationid="Marc Riera" creationdate="20221206T122607Z">
+        <seg>Els fitxers TMX només contindran els segments corresponents al contingut actual de la carpeta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The TMX source language ({0}) differs from the project source language ({1}).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192852Z" creationid="Marc Riera" creationdate="20221124T192852Z">
@@ -30671,6 +30727,14 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>This checkbox lists lets you choose in which format you want OmegaT to create the above TMX files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T122725Z" creationid="Marc Riera" creationdate="20221206T122725Z">
+        <seg>Aquesta llista de caselles de selecció us permet triar en quin format voleu que l'OmegaT creï els fitxers TMX anteriors.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This collection of scripts may be useful to scripters with a knowledge of tcl/tk.</seg>
@@ -30951,6 +31015,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201115T214605Z" creationid="Marc Riera" creationdate="20201115T214605Z">
         <seg>És el &lt;a0&gt;canal d'ajuda recomanat&lt;/a0&gt; i és molt recomanable que els usuaris s'hi uneixin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the folder where OmegaT copies the current state of the translation in the form of TMX files when you create the translated files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T122549Z" creationid="Marc Riera" creationdate="20221206T122549Z">
+        <seg>Aquesta és la carpeta on l'OmegaT copia l'estat actual de la traducció en forma de fitxers TMX quan creeu els fitxers traduïts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33216,6 +33288,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T105435Z" creationid="Marc Riera" creationdate="20221206T105435Z">
         <seg>Utilitzeu &lt;l0/&gt; en el menú &lt;l1/&gt; per a obrir el quadre de diàleg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; or &lt;l1/&gt; to create the translated files and the exported TMX files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T122622Z" creationid="Marc Riera" creationdate="20221206T122622Z">
+        <seg>Utilitzeu &lt;l0/&gt; o &lt;l1/&gt; per a crear els fitxers traduïts i els fitxers TMX exportats.</seg>
       </tuv>
     </tu>
     <tu>
