@@ -2122,6 +2122,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>(or any of the ISO-8859-1 to ISO-8859-10 character sets).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T092845Z" creationid="Marc Riera" creationdate="20221206T092845Z">
+        <seg>(o qualsevol dels jocs de caràcters de l'ISO-8859-1 a l'ISO-8859-10).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>+{0} more</seg>
@@ -4817,6 +4825,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T211111Z" creationid="Marc Riera" creationdate="20221124T211111Z">
         <seg>S'apliquen tots els conjunts que coincideixen amb la llengua d'origen del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All terms in a segment with a match in &lt;e0&gt;any&lt;/e0&gt; of the glossaries will be displayed in the &lt;l1/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T092610Z" creationid="Marc Riera" creationdate="20221206T092610Z">
+        <seg>Tots els termes d'un segment amb una coincidència en &lt;e0&gt;qualsevol&lt;/e0&gt; dels glossaris es mostraran en la subfinestra &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13203,6 +13219,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries are terminology files stored in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T092548Z" creationid="Marc Riera" creationdate="20221206T092548Z">
+        <seg>Els glossaris són fitxers de terminologia emmagatzemats en la carpeta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries are terminology files.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20211022T160730Z" creationid="marc" creationdate="20211021T053106Z">
@@ -15931,6 +15955,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T144242Z" creationid="Alexandra" creationdate="20150526T100626Z">
         <seg>És una eina pensada per a la traducció professional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is called the &lt;e1&gt;writable&lt;/e1&gt; glossary for this reason.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T092706Z" creationid="Marc Riera" creationdate="20221206T092706Z">
+        <seg>S'anomena glossari &lt;e1&gt;modificable&lt;/e1&gt; per aquesta raó.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27019,6 +27051,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source terms can be multi-word expressions.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T092626Z" creationid="Marc Riera" creationdate="20221206T092626Z">
+        <seg>Els termes d'origen poden ser expressions de diverses paraules.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source/translation length (characters)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180117Z" creationid="Marc Riera" creationdate="20221124T180117Z">
@@ -34414,6 +34454,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also access it with &lt;l0/&gt;, open it in a text editor and modify it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T092724Z" creationid="Marc Riera" creationdate="20221206T092724Z">
+        <seg>També podeu accedir-hi amb &lt;l0/&gt;, obrir-lo en un editor de text i modificar-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also add or modify the shortcuts for most of the functions.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T190541Z" creationid="Marc Riera" creationdate="20221203T190541Z">
@@ -34632,6 +34680,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T165241Z" creationid="Marc Riera" creationdate="20201125T165241Z">
         <seg>Encara podeu trobar &lt;a0&gt;versions anteriors i desfasades&lt;/a0&gt; de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use &lt;l0/&gt; to enter new terms in this glossary.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T092656Z" creationid="Marc Riera" creationdate="20221206T092656Z">
+        <seg>Podeu utilitzar &lt;l0/&gt; per a afegir termes nous a aquest glossari.</seg>
       </tuv>
     </tu>
     <tu>
