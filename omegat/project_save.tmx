@@ -3490,6 +3490,22 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Heapwise&lt;/g0&gt;: This mode compares the documents globally.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201037Z" creationid="Marc Riera" creationdate="20221206T201037Z">
+        <seg>&lt;g0&gt;Per conjunt&lt;/g0&gt;: aquest mode compara els documents globalment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Parsewise&lt;/g0&gt;: This mode compares the documents segment by segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201056Z" creationid="Marc Riera" creationdate="20221206T201056Z">
+        <seg>&lt;g0&gt;Per processament&lt;/g0&gt;: aquest mode compara els documents segment per segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Replace All&lt;/g0&gt;: operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T152308Z" creationid="Marc Riera" creationdate="20220611T152308Z">
@@ -4921,10 +4937,26 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligning the contents of the files is a four-step process:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200645Z" creationid="Marc Riera" creationdate="20221206T200645Z">
+        <seg>L'alineació del contingut dels fitxers és un procés en quatre passos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T145644Z" creationid="Marc Riera" creationdate="20220506T145644Z">
         <seg>L'alineació implica crear una memòria de traducció bilingüe a partir de documents monolingües que ja s'han traduït.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alignment is the process of creating a bilingual translation memory from a pair of already translated monolingual documents.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200631Z" creationid="Marc Riera" creationdate="20221206T200631Z">
+        <seg>L'alineació és el procés de crear una memòria de traducció bilingüe a partir d'un parell de documents monolingües ja traduïts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5580,6 +5612,14 @@ may experience unexpected, but correct behaviour.</seg>
 tots els paràmetres tindran els valors per defecte,
 de manera que pot ser que experimenteu un comportament
 inesperat però correcte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As a rule of thumb, the lower that score, the more accurate the alignment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201014Z" creationid="Marc Riera" creationdate="20221206T201014Z">
+        <seg>En general, com més baixa sigui la puntuació, més precisa serà l'alineació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7890,6 +7930,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T224157Z" creationid="mgalo" creationdate="20181112T114552Z">
         <seg>Mode de comparació:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comparison mode</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201017Z" creationid="Marc Riera" creationdate="20221206T201017Z">
+        <seg>Mode de comparació</seg>
       </tuv>
     </tu>
     <tu>
@@ -10312,6 +10360,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T215217Z" creationid="Marc Riera" creationdate="20201130T215217Z">
         <seg>La carpeta conté tres fitxers amb el mateix nom i amb extensions?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Doing so has the added benefit of reducing mismatches in the initial automatic alignment, making the manual correction step smoother.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200621Z" creationid="Marc Riera" creationdate="20221206T200621Z">
+        <seg>Fer-ho té el benefici afegit de reduir les diferències en l'alineació automàtica inicial, de manera que el pas de correcció manual és més fàcil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15574,6 +15630,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>In this step, the bottom part of the window presents various parameters and options you can change if the initial alignment looks like it could be improved.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201002Z" creationid="Marc Riera" creationdate="20221206T201002Z">
+        <seg>En aquest pas, la part inferior de la finestra presenta diversos paràmetres i opcions que podeu canviar si creieu que es pot millorar l'alineació inicial.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>In turn, they are free, and indeed encouraged (but not obliged in any way) to contribute back to the project.</seg>
@@ -16348,6 +16412,22 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094724Z" creationid="mgalo" creationdate="20181114T124011Z">
         <seg>De vegades resulta útil cercar paraules o expressions tant en el text d'origen com en la traducció. Per a fer-ho, en qualsevol moment podeu prémer &lt;k0&gt;Ctrl+F&lt;/k0&gt; per a obrir el quadre de diàleg &lt;g1&gt;Cerca de text&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is only shown when both selected files are recognized as key=value files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201129Z" creationid="Marc Riera" creationdate="20221206T201129Z">
+        <seg>Només es mostra quan els dos fitxers seleccionats es reconeixen com a fitxers de clau=valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is only shown when it is available for the files being aligned.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201104Z" creationid="Marc Riera" creationdate="20221206T201104Z">
+        <seg>Només es mostra quan està disponible per als fitxers que s'estan alineant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22221,6 +22301,14 @@ s'esvaeix com la boira.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T114159Z" creationid="Marc Riera" creationdate="20221129T114159Z">
         <seg>Segmentació per paràgrafs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Parameters</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201016Z" creationid="Marc Riera" creationdate="20221206T201016Z">
+        <seg>Paràmetres</seg>
       </tuv>
     </tu>
     <tu>
@@ -29375,6 +29463,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The aligner can read all the file formats supported by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200859Z" creationid="Marc Riera" creationdate="20221206T200859Z">
+        <seg>L'alineador pot llegir tots els formats de fitxer compatibles amb l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The aligner does not allow you to save you work partway through an alignment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200536Z" creationid="Marc Riera" creationdate="20221206T200536Z">
@@ -29976,6 +30072,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081603Z" creationid="Marc Riera" creationdate="20221201T081603Z">
         <seg>La ubicació de la carpeta de configuració per defecte varia segons el sistema (el caràcter &lt;e0&gt;~&lt;/e0&gt; representa la carpeta d'inici):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The main part of the window is divided into three columns:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200929Z" creationid="Marc Riera" creationdate="20221206T200929Z">
+        <seg>La part principal de la finestra es divideix en tres columnes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30854,6 +30958,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Therefore, it is recommended that you divide the files to align into shorter files that you can comfortably align in a single session.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200553Z" creationid="Marc Riera" creationdate="20221206T200553Z">
+        <seg>Per tant, es recomana dividir els fitxers que vulgueu alinear en fitxers més curts que pugueu alinear còmodament en una única sessió.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
@@ -31721,6 +31833,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T145859Z" creationid="Marc Riera" creationdate="20220506T145859Z">
         <seg>Això funciona fins i tot si les claus no estan en el mateix ordre en els dos fitxers o si els dos fitxers no contenen la mateixa quantitat d'informació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This works even if the order of the keys differs in each file, and when the files have a different number of entries.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201122Z" creationid="Marc Riera" creationdate="20221206T201122Z">
+        <seg>Això funciona encara que l'ordre de les claus sigui diferent en cada fitxer i quan els fitxers tenen un nombre diferent d'entrades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32778,6 +32898,22 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Try both and use the one that yields the better result for your files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201223Z" creationid="Marc Riera" creationdate="20221206T201223Z">
+        <seg>Proveu-los tots dos i utilitzeu el que doni un resultat millor per als vostres fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Try both, and use the one that yields the better result for your files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201209Z" creationid="Marc Riera" creationdate="20221206T201209Z">
+        <seg>Proveu-los tots dos i utilitzeu el que doni un resultat millor per als vostres fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Trying with backup file</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T191711Z" creationid="Marc Riera" creationdate="20221124T191711Z">
@@ -33153,6 +33289,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T203357Z" creationid="Marc Riera" creationdate="20221124T203357Z">
         <seg>Desmarqueu la casella per a inhabilitar-ho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unchecked rows are discarded.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200936Z" creationid="Marc Riera" creationdate="20221206T200936Z">
+        <seg>Les files sense marcar es descarten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39763,6 +39907,14 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>save the result to TMX</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200812Z" creationid="Marc Riera" creationdate="20221206T200724Z">
+        <seg>Deseu el resultat en un fitxer TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>script/</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081936Z" creationid="Marc Riera" creationdate="20221201T081936Z">
@@ -39890,6 +40042,14 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>specify the source and target languages and select the two files you want to align.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200803Z" creationid="Marc Riera" creationdate="20221206T200803Z">
+        <seg>Especifiqueu les llengües d'origen i destinació i seleccioneu els dos fitxers que voleu alinear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>spelling/</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160127Z" creationid="Marc Riera" creationdate="20221201T160127Z">
@@ -39960,6 +40120,14 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>the files are read by the aligner, which attempts to match the segments that correspond to one another in the original and translated texts,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200853Z" creationid="Marc Riera" creationdate="20221206T200853Z">
+        <seg>L'alineador llegeix els fitxers i intenta fer coincidir els segments que es corresponen entre si en el text original i la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>the list of all translatable files in the project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T120741Z" creationid="Marc Riera" creationdate="20220611T120741Z">
@@ -39988,6 +40156,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T120735Z" creationid="Marc Riera" creationdate="20220611T120735Z">
         <seg>El nombre total de fitxers traduïbles en el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the translator reviews the results and makes any necessary manual adjustments,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200820Z" creationid="Marc Riera" creationdate="20221206T200820Z">
+        <seg>El traductor revisa els resultats i fa els ajustos manuals necessaris.</seg>
       </tuv>
     </tu>
     <tu>
