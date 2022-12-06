@@ -29907,6 +29907,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project will store the new set of external searches in the &lt;l0/&gt; file of its &lt;l1/&gt; folder, and the settings will supersede the global external searches settings.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T134850Z" creationid="Marc Riera" creationdate="20221206T134850Z">
+        <seg>El projecte emmagatzemarà el nou conjunt de cerques externes en el fitxer &lt;l0/&gt; de la carpeta &lt;l1/&gt; i els paràmetres substituiran els paràmetres de cerca externa globals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project will store the new set of file filters in the &lt;l0/&gt; file of its omegat folder, and the settings will supersede the global file filter settings.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T133048Z" creationid="Marc Riera" creationdate="20221206T133048Z">
@@ -30604,8 +30612,8 @@ en sou víctima d'una.</seg>
       <tuv lang="en">
         <seg>They are defined in &lt;l0/&gt;.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110120Z" creationid="Marc Riera" creationdate="20221204T110120Z">
-        <seg>Es defineixen a &lt;l0/&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T134803Z" creationid="Marc Riera" creationdate="20221204T110120Z">
+        <seg>Es defineixen en l'apartat &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33564,6 +33572,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120833Z" creationid="Marc Riera" creationdate="20190520T123918Z">
         <seg>Utilitza la llengua d'instal·lació en l'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this button to create local external searches specific to your project and adjust the settings as desired.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T134818Z" creationid="Marc Riera" creationdate="20221206T134818Z">
+        <seg>Utilitzeu aquest botó per a crear cerques externes locals específiques del projecte i ajusteu els paràmetres com vulgueu.</seg>
       </tuv>
     </tu>
     <tu>
