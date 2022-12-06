@@ -16589,6 +16589,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Jumps to the segment whose call-out or number is entered.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T161020Z" creationid="Marc Riera" creationdate="20221206T161020Z">
+        <seg>Salta al segment amb el número indicat.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Keep</seg>
@@ -19102,6 +19110,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moves to the next already translated segment, ignoring untranslated segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T160908Z" creationid="Marc Riera" creationdate="20221206T160908Z">
+        <seg>Es desplaça al segment ja traduït següent, ignorant els segments sense traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moves to the next segment with a note.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T221029Z" creationid="Marc Riera" creationdate="20221204T220938Z">
@@ -19118,6 +19134,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moves to the next segment, or to the first segment of the next file if the current segment is the last one in the file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T160938Z" creationid="Marc Riera" creationdate="20221206T160938Z">
+        <seg>Es desplaça al segment següent, o bé al primer segment del fitxer següent si el segment actual és l'últim del fitxer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moves to the next unique segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T221018Z" creationid="Marc Riera" creationdate="20221204T221018Z">
@@ -19130,6 +19154,22 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T221035Z" creationid="Marc Riera" creationdate="20221204T220946Z">
         <seg>Es desplaça segment amb una nota anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moves to the previous segment, or to the last segment of the previous file if the current segment is the first one in the file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T160958Z" creationid="Marc Riera" creationdate="20221206T160958Z">
+        <seg>Es desplaça al segment anterior, o bé a l'últim segment del fitxer anterior si el segment actual és el primer del fitxer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moves to the segment that corresponds to the currently selected match in the &lt;g0&gt;Fuzzy matches&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T161046Z" creationid="Marc Riera" creationdate="20221206T161046Z">
+        <seg>Es desplaça al segment que correspon a la coincidència seleccionada actualment en la subfinestra &lt;g0&gt;Coincidències parcials&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
