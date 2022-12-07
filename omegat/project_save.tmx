@@ -7724,6 +7724,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clicking on any file will open it in the &lt;l0/&gt; for translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214048Z" creationid="Marc Riera" creationdate="20221207T214048Z">
+        <seg>En fer clic en qualsevol fitxer, s'obre en l'&lt;l0/&gt; per a la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clicking on one will save the current project, close it and open the other project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T160921Z" creationid="Marc Riera" creationdate="20220625T160921Z">
@@ -27923,6 +27931,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source Files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T213927Z" creationid="Marc Riera" creationdate="20221207T213927Z">
+        <seg>Fitxers d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source Files ({0} of {1})</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173617Z" creationid="Marc Riera" creationdate="20221117T173617Z">
@@ -31181,6 +31197,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The window displays the following information:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T213950Z" creationid="Marc Riera" creationdate="20221207T213950Z">
+        <seg>La finestra mostra la informació següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The word or phrase is entered in the &lt;g3&gt;Search for&lt;/g3&gt; box automatically.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T200754Z" creationid="Marc Riera" creationdate="20220621T200754Z">
@@ -31423,6 +31447,14 @@ la ubicació de la carpeta de configuració de l'OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121111Z" creationid="Marc Riera" creationdate="20220611T121111Z">
         <seg>Es tracta dels fitxers presents en la carpeta &lt;f0&gt;source&lt;/f0&gt; en un format que l'OmegaT pot reconèixer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These are the files present in the &lt;l0/&gt; folder in a format that OmegaT is able to recognize.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214016Z" creationid="Marc Riera" creationdate="20221207T214016Z">
+        <seg>Són els fitxers presents en la carpeta &lt;l0/&gt; en un format que l'OmegaT pot reconèixer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32305,6 +32337,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T120219Z" creationid="Marc Riera" creationdate="20220611T120219Z">
         <seg>Aquesta finestra es mostra automàticament quan l'OmegaT carrega un projecte, o en qualsevol moment si seleccioneu &lt;m0&gt;&lt;g1&gt;Projecte&lt;/g1&gt; &lt;g2&gt;Fitxers del projecte...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This window is displayed automatically when OmegaT loads a project, and at any time by using &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T213942Z" creationid="Marc Riera" creationdate="20221207T213942Z">
+        <seg>Aquesta finestra es mostra automàticament quan l'OmegaT carrega un projecte i en qualsevol moment amb &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37164,6 +37204,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>as a list: all the translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214023Z" creationid="Marc Riera" creationdate="20221207T214023Z">
+        <seg>Com a llista: tots els fitxers traduïbles del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>attributes.</seg>
@@ -39153,6 +39201,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T083202Z" creationid="Marc Riera" creationdate="20221205T083157Z">
         <seg>en el Windows o el Linux, o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>in the window title: the total number of translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214004Z" creationid="Marc Riera" creationdate="20221207T214004Z">
+        <seg>En el títol de la finestra: nombre total de fitxers traduïbles en el projecte.</seg>
       </tuv>
     </tu>
     <tu>
