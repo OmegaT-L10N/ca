@@ -3538,6 +3538,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional): detects grammatical or typographical issues.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T220612Z" creationid="Marc Riera" creationdate="20221207T220612Z">
+        <seg>&lt;g0&gt;Errors del LanguageTool&lt;/g0&gt; (opcional): detecta errors gramaticals o tipogràfics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Parsewise&lt;/g0&gt;: This mode compares the documents segment by segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201056Z" creationid="Marc Riera" creationdate="20221206T201056Z">
@@ -3578,10 +3586,34 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional): detects spelling mistakes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T220516Z" creationid="Marc Riera" creationdate="20221207T220516Z">
+        <seg>&lt;g0&gt;Errors ortogràfics&lt;/g0&gt; (opcional): detecta els errors ortogràfics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Tag Issues&lt;/g0&gt; (always selected): detects missing or displaced tags, including custom tags and flagged text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T220450Z" creationid="Marc Riera" creationdate="20221207T220450Z">
+        <seg>&lt;g0&gt;Errors d'etiquetes&lt;/g0&gt; (seleccionat sempre): detecta les etiquetes que falten o desplaçades, incloent-hi les etiquetes personalitzades i el text marcat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Target&lt;/g0&gt;: The segments from the translated text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201900Z" creationid="Marc Riera" creationdate="20221206T201900Z">
         <seg>&lt;g0&gt;Destinació&lt;/g0&gt;: segments del text traduït.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional): detects all the glossary items that are not properly translated.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T220546Z" creationid="Marc Riera" creationdate="20221207T220546Z">
+        <seg>&lt;g0&gt;Errors de terminologia&lt;/g0&gt; (opcional): detecta tots els termes del glossari que no s'han traduït correctament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7230,6 +7262,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T230847Z" creationid="Marc Riera" creationdate="20201129T230847Z">
         <seg>Comprova si hi ha errors...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Issues... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T220341Z" creationid="Marc Riera" creationdate="20221207T220341Z">
+        <seg>Comprova si hi ha errors... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32434,6 +32474,14 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>This quality assurance tool carries out all automatic checks in one go and displays the results in a window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T220414Z" creationid="Marc Riera" creationdate="20221207T220414Z">
+        <seg>Aquesta eina de control de qualitat duu a terme totes les comprovacions automàtiques alhora i mostra els resultats en una finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This script is intended to run in OmegaT 3.6 and newer.</seg>
@@ -37665,6 +37713,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>clicking a column header changes the sort order for that column,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T220737Z" creationid="Marc Riera" creationdate="20221207T220737Z">
+        <seg>Si feu clic en la capçalera d'una columna, es canvia l'ordre de la columna.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
@@ -38187,6 +38243,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191113T175718Z" creationid="Marc Riera" creationdate="20191113T175718Z">
         <seg>fet (ha tardat {0} ms)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>double-clicking a row activates the corresponding segment in the Editor pane,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T220718Z" creationid="Marc Riera" creationdate="20221207T220718Z">
+        <seg>Si feu doble clic en una fila, s'activa el segment corresponent en la subfinestra «Editor».</seg>
       </tuv>
     </tu>
     <tu>
