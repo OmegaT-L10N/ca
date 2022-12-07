@@ -6616,6 +6616,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, OmegaT removes any leading and trailing whitespace from the translatable contents.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T131806Z" creationid="Marc Riera" creationdate="20221207T131806Z">
+        <seg>Per defecte, l'OmegaT suprimeix qualsevol espai en blanc inicial i final del contingut traduïble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, each project contains a &lt;l0/&gt; folder to store the writable glossary and any reference glossaries you want to add to the project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T102155Z" creationid="Marc Riera" creationdate="20221206T102155Z">
@@ -8001,6 +8009,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145643Z" creationid="Marc Riera" creationdate="20190924T145643Z">
         <seg>Problemes habituals amb els glossaris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Common preferences</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T131723Z" creationid="Marc Riera" creationdate="20221207T131723Z">
+        <seg>Preferències comunes</seg>
       </tuv>
     </tu>
     <tu>
@@ -9624,6 +9640,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deleting that file also resets the filter preferences.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T131711Z" creationid="Marc Riera" creationdate="20221207T131711Z">
+        <seg>Si suprimiu aquest fitxer, també es reinicialitzen les preferències dels filtres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Deletion failed</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214805Z" creationid="Marc Riera" creationdate="20221124T214805Z">
@@ -10315,6 +10339,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T203422Z" creationid="Marc Riera" creationdate="20221124T203422Z">
         <seg>No utilitzis el nom del fitxer per a &amp;identificar les traduccions alternatives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not use the file name to identify alternate translations</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T131822Z" creationid="Marc Riera" creationdate="20221207T131822Z">
+        <seg>No utilitzis el nom del fitxer per a identificar les traduccions alternatives</seg>
       </tuv>
     </tu>
     <tu>
@@ -19230,6 +19262,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modified global file filter preferences are saved in &lt;l0/&gt;, in the configuration folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T131651Z" creationid="Marc Riera" creationdate="20221207T131651Z">
+        <seg>Les preferències dels filtres de fitxers globals modificades es desen en &lt;l0/&gt;, en la carpeta de configuració.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modified preferences are stored in the configuration folder used by the project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160157Z" creationid="Marc Riera" creationdate="20221201T160157Z">
@@ -23347,6 +23387,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Preserve spaces for all tags</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T131814Z" creationid="Marc Riera" creationdate="20221207T131814Z">
+        <seg>Conserva els espais en totes les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
@@ -24686,7 +24734,23 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220229Z" creationid="Marc Riera" creationdate="20180221T114914Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T131753Z" creationid="Marc Riera" creationdate="20180221T114914Z">
+        <seg>Suprimeix els &amp;espais en blanc inicials i finals en projectes no segmentats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T131729Z" creationid="Marc Riera" creationdate="20221207T131729Z">
+        <seg>Suprimeix les etiquetes inicials i finals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove leading and trailing whitespace in non-segmented projects</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T131745Z" creationid="Marc Riera" creationdate="20221207T131745Z">
         <seg>Suprimeix els espais en blanc inicials i finals en projectes no segmentats</seg>
       </tuv>
     </tu>
@@ -27681,6 +27745,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T203246Z" creationid="Marc Riera" creationdate="20221124T203246Z">
         <seg>Alguns filtres no permeten modificar la codificació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some filters provide a &lt;g0&gt;Options...&lt;/g0&gt; button to further customize their settings.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T131628Z" creationid="Marc Riera" creationdate="20221207T131628Z">
+        <seg>Alguns filtres proporcionen un botó &lt;g0&gt;Opcions...&lt;/g0&gt; per a personalitzar encara més els paràmetres.</seg>
       </tuv>
     </tu>
     <tu>
