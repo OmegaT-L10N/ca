@@ -5735,6 +5735,14 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T221009Z" creationid="Marc Riera" creationdate="20221207T221009Z">
+        <seg>Igual que l'opció anterior, però només per al fitxer que es mostra actualment en la subfinestra «Editor».</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
@@ -9526,6 +9534,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom tags and flagged text: as for OmegaT tags, they are not counted by default in the statistics, but you can have OmegaT count them as words.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T221221Z" creationid="Marc Riera" creationdate="20221207T221221Z">
+        <seg>Etiquetes personalitzades i text marcat: de la mateixa manera que les etiquetes de l'OmegaT, per defecte no es compten en les estadístiques, però podeu fer que l'OmegaT ho compti com a paraules.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Customization</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T190534Z" creationid="Marc Riera" creationdate="20221203T190534Z">
@@ -10281,6 +10297,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212502Z" creationid="Marc Riera" creationdate="20221124T212502Z">
         <seg>Mostra les entrades que apareixen en els fitxers de glossari de la carpeta «/glossary/» si són en el segment d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T221255Z" creationid="Marc Riera" creationdate="20221207T221255Z">
+        <seg>Mostra les estadístiques de coincidències del projecte: nombre de repeticions, coincidències exactes, coincidències parcials i no concordances per segments, paraules i caràcters.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26846,6 +26870,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Segmentation rules: different rules will generate a different number of segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T221043Z" creationid="Marc Riera" creationdate="20221207T221043Z">
+        <seg>Regles de segmentació: unes regles diferents generaran un nombre de segments diferent.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segmentation...</seg>
@@ -29281,6 +29313,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Tags: OmegaT tags are never counted in the statistics but in some cases can split terms and create discrepencies in the way OmegaT counts them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T221131Z" creationid="Marc Riera" creationdate="20221207T221117Z">
+        <seg>Etiquetes: les etiquetes de l'OmegaT no es compten mai en les estadístiques, però en alguns casos poden dividir termes i crear discrepàncies en la manera de comptar-les en l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Tagwipe</seg>
@@ -31413,8 +31453,8 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       <tuv lang="en">
         <seg>The two actions are equivalent to using the &lt;l0/&gt; menu commands &lt;l1/&gt; and &lt;l2/&gt;.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214909Z" creationid="Marc Riera" creationdate="20221207T214909Z">
-        <seg>Les dues accions són equivalents a l'ús de les ordres &lt;l1/&gt; i &lt;l2/&gt; del menú &lt;l0/&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T220934Z" creationid="Marc Riera" creationdate="20221207T214909Z">
+        <seg>Les dues accions són equivalents a anar al menú &lt;l0/&gt; i executar les ordres &lt;l1/&gt; i &lt;l2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40869,6 +40909,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225533Z" creationid="Marc Riera" creationdate="20201003T225533Z">
         <seg>segmentation.conf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>selecting a row, or moving the mouse over it, displays a context menu icon in the last column; clicking that icon presents actions available to correct or ignore the error.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T220827Z" creationid="Marc Riera" creationdate="20221207T220827Z">
+        <seg>Si seleccioneu una fila o hi passeu el ratolí, es mostra una icona de menú contextual en l'última columna. Si feu clic en aquesta icona, es presenten les accions disponibles per a corregir o ignorar l'error.</seg>
       </tuv>
     </tu>
     <tu>
