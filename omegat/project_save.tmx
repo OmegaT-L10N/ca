@@ -1015,6 +1015,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Install plugin from disk</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T123039Z" creationid="Marc Riera" creationdate="20221207T123039Z">
+        <seg>&amp;Instal·la un connector localment</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Jump To Segment</seg>
@@ -4091,6 +4099,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191517Z" creationid="Marc Riera" creationdate="20221201T191517Z">
         <seg>Alguns exemples senzills</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A file is not a plugin archive</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T123132Z" creationid="Marc Riera" creationdate="20221207T123132Z">
+        <seg>El fitxer no és un arxiu de connector</seg>
       </tuv>
     </tu>
     <tu>
@@ -16087,6 +16103,22 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Install plugin file</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T123054Z" creationid="Marc Riera" creationdate="20221207T123054Z">
+        <seg>Instal·lació d'un fitxer de connector</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install plugin {0} {1}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T123222Z" creationid="Marc Riera" creationdate="20221207T123222Z">
+        <seg>S'instal·larà el connector {0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Installation Type</seg>
@@ -23056,6 +23088,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Plugin installation failed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T123114Z" creationid="Marc Riera" creationdate="20221207T123114Z">
+        <seg>S'ha produït un error en instal·lar el connector.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Plugin successfully loaded from class '{0}'</seg>
@@ -26831,6 +26871,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T203344Z" creationid="Marc Riera" creationdate="20221124T203344Z">
         <seg>Seleccioneu un filtre i feu clic en «Edita...» o «Opcions» per a personalitzar-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a plugin file (*.jar, *.zip)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T123023Z" creationid="Marc Riera" creationdate="20221207T123023Z">
+        <seg>Seleccioneu un fitxer de connector (*.jar, *.zip)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33932,6 +33980,18 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202407Z" creationid="Marc Riera" creationdate="20221206T202407Z">
         <seg>Actualització</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade/override plugin {0}
+current: {1}
+new version: {2}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T123249Z" creationid="Marc Riera" creationdate="20221207T123249Z">
+        <seg>S'actualitzarà o se substituirà el connector {0}
+Versió actual: {1}
+Versió nova: {2}</seg>
       </tuv>
     </tu>
     <tu>
