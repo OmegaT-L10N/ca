@@ -4638,6 +4638,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Add Online MediaWiki Page...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214736Z" creationid="Marc Riera" creationdate="20221207T214736Z">
+        <seg>Afegeix una pàgina del MediaWiki en línia...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Add Pattern</seg>
@@ -8518,6 +8526,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161129Z" creationid="Marc Riera" creationdate="20220625T161129Z">
         <seg>Copia els fitxers seleccionats a la carpeta &lt;f0&gt;source&lt;/f0&gt; i torna a carregar el projecte per a carregar els fitxers nous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copies the selected files to the &lt;l0/&gt; folder and reloads the project to take the new files into account.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214714Z" creationid="Marc Riera" creationdate="20221207T214714Z">
+        <seg>Copia els fitxers seleccionats a la carpeta &lt;l0/&gt; i torna a carregar el projecte per a tenir en compte els fitxers nous.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12836,6 +12852,14 @@ els fils de teranyina t'aparten.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filenames (in the first column) can be sorted alphabetically by clicking in the header.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214449Z" creationid="Marc Riera" creationdate="20221207T214449Z">
+        <seg>Els noms dels fitxers (en la primera columna) es poden ordenar alfabèticament fent clic en la capçalera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files containing formatting (ODF, HTML, or other documents) are divided at block-level (paragraph) tags.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T172714Z" creationid="Marc Riera" creationdate="20221201T172714Z">
@@ -16619,6 +16643,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T144242Z" creationid="Alexandra" creationdate="20150526T100626Z">
         <seg>És una eina pensada per a la traducció professional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is also possible to change the position of a filename, by clicking on it and pressing the &lt;g0&gt;Move ...&lt;/g0&gt; button on the right.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214535Z" creationid="Marc Riera" creationdate="20221207T214535Z">
+        <seg>També és possible canviar la posició d'un nom de fitxer, fent-hi clic i prement el botó &lt;g0&gt;Mou...&lt;/g0&gt; de la dreta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29951,6 +29983,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The buttons at the bottom can be used to add files to your project:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214654Z" creationid="Marc Riera" creationdate="20221207T214654Z">
+        <seg>Els botons de la part inferior es poden utilitzar per a afegir fitxers al projecte:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
@@ -31117,6 +31157,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T114453Z" creationid="Marc Riera" creationdate="20221129T114453Z">
         <seg>El títol del quadre de diàleg reflecteix el fitxer en ús actualment (que depèn del nombre d'instàncies de l'OmegaT en execució simultàniament).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The total number of segments, the number of unique segments in the whole project, and the number of unique segments already translated are shown at the bottom.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214305Z" creationid="Marc Riera" creationdate="20221207T214305Z">
+        <seg>En la part inferior es mostren el nombre total de segments, el nombre de segments únics en tot el projecte i el nombre de segments únics ja traduïts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33493,6 +33541,14 @@ Exact searches match the whole search string.</seg>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T215720Z" creationid="mgalo" creationdate="20181109T121455Z">
         <seg>Tipus:
 La cerca exacta cerca coincidències de tota la cadena de text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Typing any text will open a &lt;g0&gt;Filter&lt;/g0&gt; field at the bottom of the window where parts of filenames can be entered.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214352Z" creationid="Marc Riera" creationdate="20221207T214352Z">
+        <seg>Si escriviu qualsevol text, s'obrirà un camp &lt;g0&gt;Filtre&lt;/g0&gt; en la part inferior de la finestra, on es poden introduir parts dels noms dels fitxers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36412,6 +36468,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T092656Z" creationid="Marc Riera" creationdate="20221206T092656Z">
         <seg>Podeu utilitzar &lt;l0/&gt; per a afegir termes nous a aquest glossari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use arrows to select a file, and open it for translation by pressing &lt;k1&gt;Enter&lt;/k1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214433Z" creationid="Marc Riera" creationdate="20221207T214433Z">
+        <seg>Podeu utilitzar les fletxes per a seleccionar un fitxer i obrir-lo per a traduir-lo prement &lt;k1&gt;Retorn&lt;/k1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
