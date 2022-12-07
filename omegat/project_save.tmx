@@ -9648,6 +9648,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deleting that file also resets the filter preferences and reverts the project to global file filters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T160254Z" creationid="Marc Riera" creationdate="20221207T160254Z">
+        <seg>Si suprimiu aquest fitxer, també es reinicialitzen les preferències dels filtres i el projecte torna a utilitzar els filtres de fitxers globals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Deleting that file also resets the filter preferences.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T131711Z" creationid="Marc Riera" creationdate="20221207T131711Z">
@@ -19278,6 +19286,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modified local file filters are saved in &lt;l0/&gt;, in the project folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T160223Z" creationid="Marc Riera" creationdate="20221207T160223Z">
+        <seg>Els filtres de fitxers locals modificats es desen en el fitxer &lt;l0/&gt;, dins de la carpeta del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modified preferences are stored in the configuration folder used by the project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160157Z" creationid="Marc Riera" creationdate="20221201T160157Z">
@@ -25284,8 +25300,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Restore De&amp;faults</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180210T212924Z" creationid="Marc Riera" creationdate="20180210T212924Z">
-        <seg>Restaura els valors per de&amp;fecte</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T160106Z" creationid="Marc Riera" creationdate="20180210T212924Z">
+        <seg>Reinicialitza els valors per de&amp;fecte</seg>
       </tuv>
     </tu>
     <tu>
