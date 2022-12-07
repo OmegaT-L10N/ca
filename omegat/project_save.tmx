@@ -5755,6 +5755,14 @@ inesperat però correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Asks for the page URL and downloads it into the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214850Z" creationid="Marc Riera" creationdate="20221207T214850Z">
+        <seg>Demana l'URL de la pàgina i la baixa a la carpeta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Assign &amp;shortcut</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221109T205934Z" creationid="Marc Riera" creationdate="20221109T205934Z">
@@ -19366,6 +19374,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modifying the segmentation rules may alter the number of segments/unique segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215034Z" creationid="Marc Riera" creationdate="20221207T215034Z">
+        <seg>Modificar les regles de segmentació pot alterar el nombre de segments i segments únics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modifying the segmentation rules may have the effect of modifying the number of segments/unique segments.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220307T225902Z" creationid="Marc Riera" creationdate="20220307T225902Z">
@@ -25485,6 +25501,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-clicking on a filename opens a popup that allows opening the source file and (if it exists) the target file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215539Z" creationid="Marc Riera" creationdate="20221207T215539Z">
+        <seg>En fer clic dret sobre un nom de fitxer, s'obre una finestra emergent que permet obrir el fitxer d'origen i, si existeix, el fitxer de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121349Z" creationid="Marc Riera" creationdate="20220611T121349Z">
@@ -29639,6 +29663,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; item in the &lt;l1/&gt; menu will give you more information.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215026Z" creationid="Marc Riera" creationdate="20221207T215026Z">
+        <seg>L'element &lt;l0/&gt; del menú &lt;l1/&gt; us donarà més informació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Editor pane displays the text of the partially translated document: the text already translated is displayed in translation while the untranslated text is displayed in the original language.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164250Z" creationid="Marc Riera" creationdate="20220625T164250Z">
@@ -31226,6 +31258,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The two actions are equivalent to using the &lt;l0/&gt; menu commands &lt;l1/&gt; and &lt;l2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214909Z" creationid="Marc Riera" creationdate="20221207T214909Z">
+        <seg>Les dues accions són equivalents a l'ús de les ordres &lt;l1/&gt; i &lt;l2/&gt; del menú &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The user manual for OmegaT in PDF format ({{ site.data.versions.standard.name }}).</seg>
@@ -32625,6 +32665,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T163316Z" creationid="Marc Riera" creationdate="20221201T163316Z">
         <seg>Per a impedir que la finestra amb llista de fitxers d'origen s'obri automàticament en carregar un projecte, cerqueu &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; i substituïu &lt;t1&gt;true&lt;/t1&gt; per &lt;t2&gt;false&lt;/t2&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To keep the Source Files list window to automatically open when a project is loaded, manually change &lt;t0&gt;project_files_show_on_load&lt;/t0&gt; to &lt;t1&gt;false&lt;/t1&gt; in the &lt;l2/&gt; configuration file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215016Z" creationid="Marc Riera" creationdate="20221207T215016Z">
+        <seg>Per a impedir que la finestra amb llista de fitxers d'origen s'obri automàticament en carregar un projecte, canvieu &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; a &lt;t1&gt;false&lt;/t1&gt; en el fitxer de configuració &lt;l2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
