@@ -10301,6 +10301,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T221312Z" creationid="Marc Riera" creationdate="20221207T221312Z">
+        <seg>Mostra les estadístiques de coincidències per a cada fitxer del projecte: nombre de repeticions, coincidències exactes, coincidències parcials i no concordances per segments, paraules i caràcters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T221255Z" creationid="Marc Riera" creationdate="20221207T221255Z">
@@ -12848,6 +12856,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121411Z" creationid="Marc Riera" creationdate="20220611T121411Z">
         <seg>Les entrades de fitxers inclouen el nom, el tipus de filtre de fitxers, la codificació i el nombre de segments que conté cada fitxer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File filter settings: some filters allow for extra parts to be considered for translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T221513Z" creationid="Marc Riera" creationdate="20221207T221513Z">
+        <seg>Paràmetres dels filtres de fitxers: alguns filtres permeten tenir en compte parts addicionals per a la traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22347,6 +22363,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens a new window and displays project statistics such as the overall project word count or segment totals, and totals for every file in the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T221643Z" creationid="Marc Riera" creationdate="20221207T221643Z">
+        <seg>Obre una finestra nova i mostra les estadístiques del projecte, com el recompte total de paraules o de segments del projecte, i els totals per a cada fitxer del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens a previously created project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T160843Z" creationid="Marc Riera" creationdate="20220625T160843Z">
@@ -31198,6 +31222,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The source and target files can have different formats (for example, a &lt;f0&gt;.docx&lt;/f0&gt; file can be aligned with a &lt;f1&gt;.pdf&lt;/f1&gt; file).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T221736Z" creationid="Marc Riera" creationdate="20221207T221736Z">
+        <seg>Els fitxers d'origen i de destinació poden tenir formats diferents (per exemple, es pot alinear un fitxer &lt;f0&gt;.docx&lt;/f0&gt; amb un fitxer &lt;f1&gt;.pdf&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The source file language entered is invalid!</seg>
@@ -35976,6 +36008,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Word count, segment total and other items can be influenced by the following factors:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T221450Z" creationid="Marc Riera" creationdate="20221207T221450Z">
+        <seg>El recompte de paraules, el total de segments i altres elements es poden veure influïts pels factors següents:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>WordAr&amp;t</seg>
@@ -36606,6 +36646,14 @@ d'allà.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T190512Z" creationid="Marc Riera" creationdate="20180212T231527Z">
         <seg>Podeu
 trobar el text de la llicència a /docs/OmegaT-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can force issue checking each time you leave a segment (see &lt;l0/&gt;) and block translated files creation if tag issues are found (see &lt;l1/&gt;).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T221607Z" creationid="Marc Riera" creationdate="20221207T221607Z">
+        <seg>Podeu forçar la comprovació d'errors cada vegada que sortiu dun segment (consulteu &lt;l0/&gt;) i impedir la creació dels fitxers traduïts si es detecten errors d'etiquetes (consulteu &lt;l1/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
