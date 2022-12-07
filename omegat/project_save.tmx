@@ -9957,6 +9957,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Disable a filter by unchecking its box if you prefer not to translate the files that are associated to it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T124648Z" creationid="Marc Riera" creationdate="20221207T124648Z">
+        <seg>Podeu desmarcar la casella d'un filtre per a inhabilitar-lo si preferiu no traduir els fitxers associats.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Disable rule “{0}”</seg>
@@ -12683,6 +12691,14 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>File filters are either local and specific to a given project, or global and available to all the projects that share a configuration folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T124612Z" creationid="Marc Riera" creationdate="20221207T124612Z">
+        <seg>Els filtres de fitxers són locals i específics d'un projecte determinat, o bé globals i disponibles per a tots els projectes que comparteixen una carpeta de configuració.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>File format</seg>
@@ -12845,6 +12861,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T213652Z" creationid="Marc Riera" creationdate="20180221T112140Z">
         <seg>Filtre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filters in bold are used in the current project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T124616Z" creationid="Marc Riera" creationdate="20221207T124616Z">
+        <seg>Els filtres en negreta s'utilitzen en el projecte actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26427,6 +26451,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>See:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T124600Z" creationid="Marc Riera" creationdate="20221207T124600Z">
+        <seg>Consulteu:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segment</seg>
@@ -31107,6 +31139,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T151500Z" creationid="Marc Riera" creationdate="20180214T223335Z">
         <seg>El fitxer de glossari modificable ha d'estar dins de la carpeta de glossaris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Their contents will not be displayed for translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T124623Z" creationid="Marc Riera" creationdate="20221207T124623Z">
+        <seg>El contingut no es mostrarà per a la traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38277,6 +38317,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165742Z" creationid="Marc Riera" creationdate="20200802T165742Z">
         <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221207T124555Z" creationid="Marc Riera" creationdate="20221207T124555Z">
+        <seg>per a conèixer més detalls.</seg>
       </tuv>
     </tu>
     <tu>
