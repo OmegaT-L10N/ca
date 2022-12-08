@@ -14995,6 +14995,14 @@ no cal introduir el camí complet.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If &lt;l0/&gt; is disabled, use this action a first time to fetch the translation and a second time to insert it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214547Z" creationid="Marc Riera" creationdate="20221208T214547Z">
+        <seg>Si &lt;l0/&gt; està inhabilitat, utilitzeu aquesta acció una primera vegada per a obtenir la traducció i una segona vegada per a inserir-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
@@ -16258,6 +16266,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Insert Source &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;I&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T213237Z" creationid="Marc Riera" creationdate="20221208T213237Z">
+        <seg>Insereix el text d'origen &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;I&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Insert Tag {0}</seg>
@@ -16315,6 +16331,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161924Z" creationid="Marc Riera" creationdate="20220625T161924Z">
         <seg>Insereix la coincidència parcial seleccionada en la posició del cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the segment source at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T213215Z" creationid="Marc Riera" creationdate="20221208T213215Z">
+        <seg>Insereix el segment d'origen en la posició del cursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25298,10 +25322,26 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace with Machine Translation &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T213251Z" creationid="Marc Riera" creationdate="20221208T213251Z">
+        <seg>Substitueix per la traducció automàtica &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with Source</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T162419Z" creationid="Marc Riera" creationdate="20220625T162419Z">
         <seg>Substitueix pel text d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace with Source &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;R&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T213200Z" creationid="Marc Riera" creationdate="20221208T213200Z">
+        <seg>Substitueix pel text d'origen &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;R&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25327,6 +25367,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T212729Z" creationid="Marc Riera" creationdate="20221208T212729Z">
         <seg>Substitueix tot el segment de destinació per la coincidència parcial seleccionada (per defecte, se selecciona la primera coincidència).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replaces the entire target segment with the segment source.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T213209Z" creationid="Marc Riera" creationdate="20221208T213209Z">
+        <seg>Substitueix tot el segment de destinació pel segment d'origen.</seg>
       </tuv>
     </tu>
     <tu>
