@@ -5208,6 +5208,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Allows the user to create an entry in &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214826Z" creationid="Marc Riera" creationdate="20221208T214826Z">
+        <seg>Permet a l'usuari crear una entrada en el fitxer &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
@@ -8842,6 +8850,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Create Glossary Entry... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214811Z" creationid="Marc Riera" creationdate="20221208T214811Z">
+        <seg>Crea una entrada en el glossari... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Create MED Project...</seg>
@@ -12303,6 +12319,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161512Z" creationid="Packard Bell" creationdate="20150605T161512Z">
         <seg>Exporta la selecció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export Selection &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214711Z" creationid="Marc Riera" creationdate="20221208T214711Z">
+        <seg>Exporta la selecció &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16222,6 +16246,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Insert Missing Source Tags &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;T&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214629Z" creationid="Marc Riera" creationdate="20221208T214629Z">
+        <seg>Insereix les etiquetes que falten del text d'origen &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;T&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Insert Mode</seg>
@@ -16245,6 +16277,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161505Z" creationid="Packard Bell" creationdate="20150605T161505Z">
         <seg>Insereix la següent etiqueta que falta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Next Missing Tag &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;T&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214654Z" creationid="Marc Riera" creationdate="20221208T214654Z">
+        <seg>Insereix la següent etiqueta que falta &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;T&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16331,6 +16371,22 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161924Z" creationid="Marc Riera" creationdate="20220625T161924Z">
         <seg>Insereix la coincidència parcial seleccionada en la posició del cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the next missing tag at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214700Z" creationid="Marc Riera" creationdate="20221208T214700Z">
+        <seg>Insereix la següent etiqueta que falta en la posició del cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the remaining missing source tags at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214640Z" creationid="Marc Riera" creationdate="20221208T214640Z">
+        <seg>Insereix les etiquetes que falten del text d'origen en la posició del cursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20305,6 +20361,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T184433Z" creationid="mgalo" creationdate="20181112T093113Z">
         <seg>No hi ha cap suggeriment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No action is taken if no Machine Translation service has been activated (in &lt;l0/&gt;).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214614Z" creationid="Marc Riera" creationdate="20221208T214614Z">
+        <seg>No ocorre cap acció si no s'ha activat cap servei de traducció automàtica (en l'apartat &lt;l0/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27379,6 +27443,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a text string in any pane</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214953Z" creationid="Marc Riera" creationdate="20221208T214953Z">
+        <seg>Seleccioneu una cadena de text en qualsevol subfinestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select appropriate version</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220724Z" creationid="Marc Riera" creationdate="20221124T220724Z">
@@ -30587,6 +30659,14 @@ en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The exported contents are copied to the file &lt;l0/&gt; located in the &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214758Z" creationid="Marc Riera" creationdate="20221208T214758Z">
+        <seg>Els continguts exportats es copien al fitxer &lt;l0/&gt; de la carpeta &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The file "{0}" is not supported.</seg>
@@ -31294,6 +31374,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The second is to select items in one of the OmegaT panes and sequentially call the dialog after each selection to have OmegaT enter it automatically in the various fields:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214928Z" creationid="Marc Riera" creationdate="20221208T214928Z">
+        <seg>La segona és seleccionar elements en una de les subfinestres de l'OmegaT i obrir el quadre de diàleg després de cada selecció perquè l'OmegaT introdueixi els elements automàticament en els diversos camps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The segments are displayed in order of appearance in the project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T202507Z" creationid="Marc Riera" creationdate="20220621T202507Z">
@@ -31831,6 +31919,22 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T190548Z" creationid="Marc Riera" creationdate="20221203T190548Z">
         <seg>Hi ha dos fitxers de definició de dreceres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are two ways to use this function.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214829Z" creationid="Marc Riera" creationdate="20221208T214829Z">
+        <seg>Hi ha dues maneres d'utilitzar aquesta funció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There first is to call the dialog and then manually fill in the various fields.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214849Z" creationid="Marc Riera" creationdate="20221208T214849Z">
+        <seg>La primera és obrir el quadre de diàleg i emplenar manualment els diversos camps.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33114,6 +33218,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201210T185623Z" creationid="Alexandra" creationdate="20150526T103044Z">
         <seg>Per a obtenir l'OpenOffice.org o el LibreOffice, seguiu l'enllaç del botó «Programari de tercers» a l'esquerra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To remain consistent with usual clipboard behavior this file is not emptied when the user exits OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214747Z" creationid="Marc Riera" creationdate="20221208T214747Z">
+        <seg>Per a mantenir la coherència amb el comportament habitual del porta-retalls, no es buida aquest fitxer quan l'usuari surt de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
