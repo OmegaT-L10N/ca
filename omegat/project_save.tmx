@@ -9845,6 +9845,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Define the translation as empty.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221148Z" creationid="Marc Riera" creationdate="20221208T221148Z">
+        <seg>Defineix la traducció com a buida.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Degree thesis by Sébastien Guillardeau, 2010 (in German).</seg>
@@ -9868,6 +9876,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220354Z" creationid="Marc Riera" creationdate="20191112T231302Z">
         <seg>Suprimida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deletes the current translation and sets the segment as untranslated.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221144Z" creationid="Marc Riera" creationdate="20221208T221144Z">
+        <seg>Suprimeix la traducció actual i defineix el segment com a no traduït.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15373,6 +15389,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If several alternative translations are available for the active segment, you can label the alternative selected as the default translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221056Z" creationid="Marc Riera" creationdate="20221208T221056Z">
+        <seg>Si hi ha diverses traduccions alternatives disponibles per al segment actiu, es pot etiquetar l'alternativa seleccionada com a traducció per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If several translation engines are selected, then &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; is also used to switch between them and insert the last one selected.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T184620Z" creationid="Marc Riera" creationdate="20201130T220713Z">
@@ -15417,6 +15441,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155550Z" creationid="Marc Riera" creationdate="20221201T155550Z">
         <seg>Si s'utilitzen les funcions aplicables, aquesta carpeta pot contenir fins a tres fitxers de text:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the current translation does not apply, select this menu item and enter the alternative translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221356Z" creationid="Marc Riera" creationdate="20221208T221356Z">
+        <seg>Si la traducció actual no és adequada, seleccioneu aquest element del menú i indiqueu la traducció alternativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16098,6 +16130,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163404Z" creationid="Marc Riera" creationdate="20220625T163339Z">
         <seg>En l'editor, la traducció es mostra com &lt;TRADUCCIÓ BUIDA&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Editor, the translation is displayed as &lt;l0&gt;&lt;EMPTY&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221213Z" creationid="Marc Riera" creationdate="20221208T221213Z">
+        <seg>En la subfinestra «Editor», la traducció es mostra com a &lt;l0&gt;&lt;BUIDA&gt;&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24908,6 +24948,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Register Identical Translation &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221223Z" creationid="Marc Riera" creationdate="20221208T221223Z">
+        <seg>Registra una traducció idèntica &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Regular expression for custom tags:</seg>
@@ -27023,6 +27071,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;Unicode Bidirectional Algorithm&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221040Z" creationid="Marc Riera" creationdate="20221208T221040Z">
+        <seg>Consulteu &lt;u0&gt;Algorisme bidireccional d'Unicode&lt;/u0&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231338Z" creationid="Marc Riera" creationdate="20201129T231338Z">
@@ -27301,6 +27357,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T172513Z" creationid="Marc Riera" creationdate="20221201T172513Z">
         <seg>Per defecte, els segments són &lt;e0&gt;paràgrafs&lt;/e0&gt; definits pel format del fitxer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segments that are one and the same segment may, depending on the context, require different translations.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221419Z" creationid="Marc Riera" creationdate="20221208T221419Z">
+        <seg>És possible que els segments idèntics, en funció del context, requereixin traduccions diferents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27697,6 +27761,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T105523Z" creationid="Marc Riera" creationdate="20221206T105523Z">
         <seg>Seleccioneu les llengües d'origen i de destinació manualment, o utilitzeu els menús desplegables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the two files to align (the source file and its translation) and click &lt;g0&gt;OK&lt;/g0&gt; to open the &lt;l1/&gt; window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221507Z" creationid="Marc Riera" creationdate="20221208T221507Z">
+        <seg>Seleccioneu els dos fitxers que vulgueu alinear (el fitxer d'origen i la traducció) i feu clic en &lt;g0&gt;D'acord&lt;/g0&gt; per a obrir la finestra &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30824,6 +30896,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113603Z" creationid="Marc Riera" creationdate="20221129T113603Z">
         <seg>Fi d'una línia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The entry will be greyed if only one translation is available.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221108Z" creationid="Marc Riera" creationdate="20221208T221108Z">
+        <seg>L'entrada estarà atenuada si només hi ha una traducció disponible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35496,6 +35576,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T103817Z" creationid="Marc Riera" creationdate="20221206T103817Z">
         <seg>Utilitzeu aquest botó per a crear regles locals específiques del vostre projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this command to register a translation as identical to the source, even if &lt;l0/&gt; is not checked.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221252Z" creationid="Marc Riera" creationdate="20221208T221252Z">
+        <seg>Utilitzeu aquesta ordre per a registrar una traducció com a idèntica al text d'origen, encara que no s'hagi marcat &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
