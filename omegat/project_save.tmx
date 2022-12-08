@@ -14632,6 +14632,14 @@ l'hivern ja és aquí.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hit &lt;k0&gt;Enter&lt;/k0&gt; or click on &lt;g1&gt;OK&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T215201Z" creationid="Marc Riera" creationdate="20221208T215201Z">
+        <seg>Premeu &lt;k0&gt;Retorn&lt;/k0&gt; o feu clic en &lt;g1&gt;D'acord&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How To...</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170133Z" creationid="Marc Riera" creationdate="20210521T170133Z">
@@ -22507,6 +22515,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens a new &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T215224Z" creationid="Marc Riera" creationdate="20221208T215224Z">
+        <seg>Obre una &lt;l0/&gt; nova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens a new window and displays project statistics such as the overall project word count or segment totals, and totals for every file in the project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T221643Z" creationid="Marc Riera" creationdate="20221207T221643Z">
@@ -23795,6 +23811,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094425Z" creationid="Marc Riera" creationdate="20190925T073522Z">
         <seg>Feu clic a «D'acord» per a convertir-lo en un projecte en equip de la versió 4.x.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T215032Z" creationid="Marc Riera" creationdate="20221208T215032Z">
+        <seg>Premeu &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25427,6 +25451,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;K&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T215242Z" creationid="Marc Riera" creationdate="20221208T215242Z">
+        <seg>Substitueix... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;K&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replaces the entire target segment with the currently selected fuzzy match (by default the first match is selected).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T212729Z" creationid="Marc Riera" creationdate="20221208T212729Z">
@@ -26718,6 +26750,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223621Z" creationid="Marc Riera" creationdate="20180214T223621Z">
         <seg>El subprocés de cerca ha finalitzat de manera inesperada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T215212Z" creationid="Marc Riera" creationdate="20221208T215212Z">
+        <seg>Cerca... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31386,6 +31426,22 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T202507Z" creationid="Marc Riera" creationdate="20220621T202507Z">
         <seg>Els segments es mostren en l'ordre d'aparició en el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selection will be entered in the &lt;g0&gt;Source term&lt;/g0&gt; field.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T215110Z" creationid="Marc Riera" creationdate="20221208T215101Z">
+        <seg>La selecció s'introduirà en el camp &lt;g0&gt;Terme d'origen&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selection will be entered in the &lt;g0&gt;Target term&lt;/g0&gt; field.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T215119Z" creationid="Marc Riera" creationdate="20221208T215119Z">
+        <seg>La selecció s'introduirà en el camp &lt;g0&gt;Terme de destinació&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36802,6 +36858,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>You can also enter your comment manually.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T215146Z" creationid="Marc Riera" creationdate="20221208T215146Z">
+        <seg>També podeu introduir el comentari manualment.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You can also launch it from
@@ -37331,6 +37395,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T100201Z" creationid="mgalo" creationdate="20181112T100201Z">
         <seg>[Parcial]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[Optional] Select a text string in any pane</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T215133Z" creationid="Marc Riera" creationdate="20221208T215133Z">
+        <seg>(Opcional) Seleccioneu una cadena de text en qualsevol subfinestra</seg>
       </tuv>
     </tu>
     <tu>
