@@ -3522,6 +3522,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Cycle&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;F3&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220656Z" creationid="Marc Riera" creationdate="20221208T220634Z">
+        <seg>&lt;g0&gt;Cíclic&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;F3&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Heapwise&lt;/g0&gt;: This mode compares the documents globally.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201037Z" creationid="Marc Riera" creationdate="20221206T201037Z">
@@ -3574,6 +3582,62 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T205750Z" creationid="Marc Riera" creationdate="20220621T205750Z">
         <seg>&lt;g0&gt;Cerca a &gt; Fitxers&lt;/g0&gt;: cerca en un únic fitxer o en una carpeta que contingui diversos fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Select Match #1&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;1&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220924Z" creationid="Marc Riera" creationdate="20221208T220924Z">
+        <seg>&lt;g0&gt;Selecciona la coincidència núm 1&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;1&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Select Match #2&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;2&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220932Z" creationid="Marc Riera" creationdate="20221208T220932Z">
+        <seg>&lt;g0&gt;Selecciona la coincidència núm 2&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;2&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Select Match #3&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;3&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220939Z" creationid="Marc Riera" creationdate="20221208T220939Z">
+        <seg>&lt;g0&gt;Selecciona la coincidència núm 3&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;3&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Select Match #4&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;4&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220946Z" creationid="Marc Riera" creationdate="20221208T220946Z">
+        <seg>&lt;g0&gt;Selecciona la coincidència núm 4&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;4&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Select Match #5&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;5&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220952Z" creationid="Marc Riera" creationdate="20221208T220952Z">
+        <seg>&lt;g0&gt;Selecciona la coincidència núm 5&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;5&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Select Next Match&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;k3&gt;↓&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220908Z" creationid="Marc Riera" creationdate="20221208T220908Z">
+        <seg>&lt;g0&gt;Selecciona la coincidència següent&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;k3&gt;↓&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Select Previous Match&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;k3&gt;↑&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220846Z" creationid="Marc Riera" creationdate="20221208T220846Z">
+        <seg>&lt;g0&gt;Selecciona la coincidència anterior&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;k3&gt;↑&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4324,6 +4388,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181108T152358Z" creationid="mgalo" creationdate="20181108T152358Z">
         <seg>Emplenament a&amp;utomàtic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ALL LETTERS IN UPPER CASE</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220511Z" creationid="Marc Riera" creationdate="20221208T220511Z">
+        <seg>TOTES LES LLETRES EN MAJÚSCULES</seg>
       </tuv>
     </tu>
     <tu>
@@ -5246,6 +5318,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160555Z" creationid="Marc Riera" creationdate="20221201T160555Z">
         <seg>Us permet activar o desactivar els motors de traducció automàtica disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Almost all Letters in Lower Case</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220610Z" creationid="Marc Riera" creationdate="20221208T220610Z">
+        <seg>Gairebé totes les lletres en minúscules</seg>
       </tuv>
     </tu>
     <tu>
@@ -15250,6 +15330,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If no text is selected, OmegaT selects the word starting with the character immediately to the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220503Z" creationid="Marc Riera" creationdate="20221208T220503Z">
+        <seg>Si no s'ha seleccionat cap text, l'OmegaT selecciona la paraula que comença pel caràcter immediatament a la dreta del cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If not, or if you are not sure, select "with JRE".</seg>
@@ -22288,6 +22376,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the first letter in upper case.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220558Z" creationid="Marc Riera" creationdate="20221208T220558Z">
+        <seg>Només la primera lletra en majúscules.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only this preference currently requires manual modification.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155350Z" creationid="Marc Riera" creationdate="20221201T155350Z">
@@ -27664,12 +27760,28 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Selects the previous, next or &lt;v0&gt;n&lt;/v0&gt;th fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220830Z" creationid="Marc Riera" creationdate="20221208T220830Z">
+        <seg>Selecciona la coincidència parcial anterior, següent o núm. &lt;v0&gt;n&lt;/v0&gt; de la subfinestra «Coincidències parcials» per a substituir o inserir-la en el segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Self-paced online training course in English (for purchase)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T002100Z" creationid="Marc Riera" creationdate="20201122T002100Z">
         <seg>Curs de formació en línia autodirigit (per a la compra)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sentence case</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220555Z" creationid="Marc Riera" creationdate="20221208T220555Z">
+        <seg>Estil d'oració</seg>
       </tuv>
     </tu>
     <tu>
@@ -33094,6 +33206,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Title Case</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220545Z" creationid="Marc Riera" creationdate="20221208T220545Z">
+        <seg>Cada Paraula En Majúscula Inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To access this window, select &lt;m0&gt;&lt;g1&gt;Tools&lt;/g1&gt;&lt;g2&gt;Align Files...&lt;/g2&gt;&lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220307T225109Z" creationid="Marc Riera" creationdate="20220307T225109Z">
@@ -34257,6 +34377,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T084613Z" creationid="Marc Riera" creationdate="20221205T084613Z">
         <seg>UP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UPPER CASE</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220509Z" creationid="Marc Riera" creationdate="20221208T220509Z">
+        <seg>MAJÚSCULES</seg>
       </tuv>
     </tu>
     <tu>
@@ -37873,6 +38001,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>all letters in lower case</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220508Z" creationid="Marc Riera" creationdate="20221208T220508Z">
+        <seg>totes les lletres en minúscules</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>all matching segments</seg>
@@ -40186,6 +40322,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081924Z" creationid="Marc Riera" creationdate="20221201T081924Z">
         <seg>logs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lower case</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220506Z" creationid="Marc Riera" creationdate="20221208T220506Z">
+        <seg>minúscules</seg>
       </tuv>
     </tu>
     <tu>
