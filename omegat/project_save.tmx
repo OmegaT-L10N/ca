@@ -3789,6 +3789,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;F&lt;/k3&gt;&lt;/k0&gt; reuses the most recent still open Search window (instead of opening a new one).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220120Z" creationid="Marc Riera" creationdate="20221208T220120Z">
+        <seg>&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;F&lt;/k3&gt;&lt;/k0&gt; reutilitza la finestra de cerca més recent encara oberta (en comptes d'obrir-ne una de nova).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;TAB&lt;/k2&gt;&lt;/k0&gt; can be used as an alternate shortcut if &lt;l3/&gt; is selected.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220800Z" creationid="Marc Riera" creationdate="20221204T220800Z">
@@ -7087,6 +7095,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T155454Z" creationid="Marc Riera" creationdate="20190925T074926Z">
         <seg>Modificada per</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changes the case of the selected text in the target segment to the selected option, or cycles through the options.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220447Z" creationid="Marc Riera" creationdate="20221208T220447Z">
+        <seg>Canvia les majúscules del text seleccionat en el segment de destinació a l'opció seleccionada, o canvia cíclicament entre les opcions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15028,6 +15044,14 @@ no cal introduir el camí complet.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;l0/&gt; is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220428Z" creationid="Marc Riera" creationdate="20221208T220428Z">
+        <seg>Si &lt;l0/&gt; està inhabilitat, aquesta funció us permet seleccionar la paraula seleccionada en els diccionaris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;l0/&gt; is disabled, use this action a first time to fetch the translation and a second time to insert it.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214547Z" creationid="Marc Riera" creationdate="20221208T214547Z">
@@ -15625,6 +15649,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T220611Z" creationid="mgalo" creationdate="20181114T123557Z">
         <seg>Si col·loqueu aquestes memòries de traducció en la subcarpeta &lt;f6&gt;/tm/&lt;/f6&gt; d'un projecte, l'OmegaT hi cercarà automàticament segments similars als del projecte, anomenats «coincidències parcials».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you select a text string (in any pane) before calling the function, the text will be pasted by default in the &lt;g0&gt;Search for:&lt;/g0&gt; field.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220039Z" creationid="Marc Riera" creationdate="20221208T220039Z">
+        <seg>Si seleccioneu una cadena de text (en qualsevol subfinestra) abans d'executar la funció, per defecte s'enganxarà el text en el camp &lt;g0&gt;Cerca:&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
