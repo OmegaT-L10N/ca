@@ -5195,6 +5195,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>All other panes are minimized.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T124036Z" creationid="Marc Riera" creationdate="20221209T124015Z">
+        <seg>La resta de subfinestres queden minimitzades.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>All preferences protected by the master password will be reset.</seg>
@@ -13645,6 +13653,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>For that reason, it is OFF by default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123950Z" creationid="Marc Riera" creationdate="20221209T123950Z">
+        <seg>Per aquesta raó, està inhabilitat per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>For this purpose download the following file and then execute it:</seg>
@@ -14840,6 +14856,14 @@ l'hivern ja és aquí.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hovering on an underlined term displays the matching target term.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123853Z" creationid="Marc Riera" creationdate="20221209T123853Z">
+        <seg>En passar el cursor sobre un terme subratllat, es mostra el terme de destinació corresponent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How To...</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170133Z" creationid="Marc Riera" creationdate="20210521T170133Z">
@@ -15320,6 +15344,14 @@ their default values.</seg>
         <seg>Si més endavant es concedeix accés a la ubicació desitjada,
 s'utilitzarà aquesta ubicació i tots els paràmetres es reinicialitzaran
 als valors per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, non-breakable spaces will be displayed with a gray background.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T124250Z" creationid="Marc Riera" creationdate="20221209T124250Z">
+        <seg>Si es marca, els espais no separables es mostren amb un fons de color gris.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21059,6 +21091,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T120700Z" creationid="Marc Riera" creationdate="20190520T120700Z">
         <seg>Normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Normal translations inserted from the &lt;f0&gt;tm/auto&lt;/f0&gt; folder are marked in orange.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123742Z" creationid="Marc Riera" creationdate="20221209T123742Z">
+        <seg>Les traduccions normals inserides des de la carpeta &lt;f0&gt;tm/auto&lt;/f0&gt;es marquen en color carabassa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27496,6 +27536,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T122927Z" creationid="Marc Riera" creationdate="20221206T122927Z">
         <seg>Consulteu la &lt;u0&gt;Especificació del format TMX 1.4b&lt;/u0&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;u1&gt;Request For Enhancement&lt;/u1&gt; for technical details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123825Z" creationid="Marc Riera" creationdate="20221209T123825Z">
+        <seg>Consulteu la &lt;u1&gt;Sol·licitud de millora&lt;/u1&gt; per a conèixer els detalls tècnics.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35196,6 +35244,22 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Underlines parts of the target where LanguageTool has found errors.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123933Z" creationid="Marc Riera" creationdate="20221209T123933Z">
+        <seg>Subratlla les parts del text de destinació on el LanguageTool ha trobat errors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Underlines source terms that have a match in the glossaries.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123841Z" creationid="Marc Riera" creationdate="20221209T123841Z">
+        <seg>Subratlla els termes del text d'origen amb una coincidència en els glossaris.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Undo Last Action</seg>
@@ -36032,6 +36096,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221252Z" creationid="Marc Riera" creationdate="20221208T221252Z">
         <seg>Utilitzeu aquesta ordre per a registrar una traducció com a idèntica al text d'origen, encara que no s'hagi marcat &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this function when you run into problems while rearranging the window layout.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T124022Z" creationid="Marc Riera" creationdate="20221209T124022Z">
+        <seg>Utilitzeu aquesta funció quan tingueu problemes en reordenar la disposició de la finestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37508,6 +37580,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T110044Z" creationid="Marc Riera" creationdate="20221206T110044Z">
         <seg>Podeu accedir a les regles globals amb &lt;l0/&gt; en el menú &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can adapt the displayed information to your needs.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T124002Z" creationid="Marc Riera" creationdate="20221209T124002Z">
+        <seg>Podeu adaptar la informació mostrada a les vostres necessitats.</seg>
       </tuv>
     </tu>
     <tu>
