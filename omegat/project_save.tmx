@@ -2243,6 +2243,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(no description)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134721Z" creationid="Marc Riera" creationdate="20221209T134721Z">
+        <seg>(sense descripció)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(or any of the ISO-8859-1 to ISO-8859-10 character sets).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T092845Z" creationid="Marc Riera" creationdate="20221206T092845Z">
@@ -5188,6 +5196,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All languages have access to the OmegaT object model, with the project as the top object.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134825Z" creationid="Marc Riera" creationdate="20221209T134825Z">
+        <seg>Tots els llenguatges tenen accés al model d'objectes de l'OmegaT, en què el projecte és l'objecte principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All other files will be replaced by the files in the remote repository.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T213320Z" creationid="Marc Riera" creationdate="20201130T213320Z">
@@ -7512,6 +7528,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Check for identical segments (case sensitive).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134650Z" creationid="Marc Riera" creationdate="20221209T134650Z">
+        <seg>Comprova si hi ha segments idèntics (distinció entre majúscules i minúscules).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check for inconsistent numbers</seg>
@@ -9601,6 +9625,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Currency Translator</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134556Z" creationid="Marc Riera" creationdate="20221209T134556Z">
+        <seg>Traductor de divises</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Current DOCX file</seg>
@@ -10632,6 +10664,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T115230Z" creationid="mgalo" creationdate="20181112T115230Z">
         <seg>Distància</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Distributed scripts</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134522Z" creationid="Marc Riera" creationdate="20221209T134522Z">
+        <seg>Scripts distribuïts</seg>
       </tuv>
     </tu>
     <tu>
@@ -12783,6 +12823,14 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>External spellcheck</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134610Z" creationid="Marc Riera" creationdate="20221209T134610Z">
+        <seg>Corrector ortogràfic extern</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Extract all source text from the project files into a single, large text file</seg>
@@ -13423,6 +13471,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111453Z" creationid="Marc Riera" creationdate="20221209T111453Z">
         <seg>Seguiu les instruccions d'instal·lació del paquet que necessiteu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Follow the instructions provided in the script itself.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134539Z" creationid="Marc Riera" creationdate="20221209T134539Z">
+        <seg>Seguiu les instruccions indicades en l'script en si.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14495,6 +14551,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201210T191825Z" creationid="mgalo" creationdate="20181112T101924Z">
         <seg>Ves a la &amp;línia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Groovy</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134724Z" creationid="Marc Riera" creationdate="20221209T134724Z">
+        <seg>Groovy</seg>
       </tuv>
     </tu>
     <tu>
@@ -17670,6 +17734,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T221751Z" creationid="mgalo" creationdate="20181112T221751Z">
         <seg>Java: ver. {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JavaScript</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134736Z" creationid="Marc Riera" creationdate="20221209T134736Z">
+        <seg>JavaScript</seg>
       </tuv>
     </tu>
     <tu>
@@ -25077,6 +25149,22 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>QA - Identical Segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134642Z" creationid="Marc Riera" creationdate="20221209T134642Z">
+        <seg>Control de qualitat: segments idèntics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>QA script.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134633Z" creationid="Marc Riera" creationdate="20221209T134633Z">
+        <seg>Script de control de qualitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Qabiria</seg>
@@ -28474,8 +28562,16 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Setting it to &lt;g1&gt;All segments&lt;/g1&gt; shows this information for all segments, while &lt;g2&gt;None&lt;/g2&gt; turns this option off.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T133834Z" creationid="Marc Riera" creationdate="20221209T133834Z">
-        <seg>Si ho establiu en &lt;g1&gt;Tots els segments&lt;/g1&gt;, es mostra aquesta informació per a tots els segments, mentre que &lt;g2&gt;Cap&lt;/g2&gt; desactiva aquesta opció.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T133920Z" creationid="Marc Riera" creationdate="20221209T133834Z">
+        <seg>Si ho establiu en &lt;g1&gt;Mostra per a tots els segments&lt;/g1&gt;, es mostra aquesta informació per a tots els segments, mentre que &lt;g2&gt;No la mostris&lt;/g2&gt; desactiva aquesta opció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting the Display Modification option to &lt;g0&gt;Current segment&lt;/g0&gt; will display the time and the author of the last change made to the current segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134015Z" creationid="Marc Riera" creationdate="20221209T134015Z">
+        <seg>En establir l'opció de mostrar la modificació a &lt;g0&gt;Mostra per al segment actual&lt;/g0&gt;, es mostrarà l'hora i l'autor de l'últim canvi en el segment actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29697,11 +29793,27 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Strip Bidi Marks</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134704Z" creationid="Marc Riera" creationdate="20221209T134704Z">
+        <seg>Suprimeix les marques bidireccionals</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Strip Tags</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T222447Z" creationid="Marc Riera" creationdate="20201003T222447Z">
+        <seg>Suprimeix les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Strip tags</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134706Z" creationid="Marc Riera" creationdate="20221209T134706Z">
         <seg>Suprimeix les etiquetes</seg>
       </tuv>
     </tu>
@@ -29872,6 +29984,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220612T103549Z" creationid="Packard Bell" creationdate="20150529T111632Z">
         <seg>Canvia les majúscules i minúscules a/Majúscules</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch Colour Theme</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134709Z" creationid="Marc Riera" creationdate="20221209T134709Z">
+        <seg>Canvia el tema de color</seg>
       </tuv>
     </tu>
     <tu>
@@ -30185,6 +30305,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T084237Z" creationid="mgalo" creationdate="20181115T225528Z">
         <seg>S'ha produït un error en validar les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag-Free Match</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134715Z" creationid="Marc Riera" creationdate="20221209T134715Z">
+        <seg>Coincidència sense etiquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -32105,6 +32233,22 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T104939Z" creationid="Marc Riera" creationdate="20221209T104939Z">
         <seg>L'script comprova si hi ha una instal·lació existent de la mateixa versió de l'OmegaT en la carpeta &lt;f0&gt;/opt/omegat/&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The script folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134435Z" creationid="Marc Riera" creationdate="20221209T134435Z">
+        <seg>Carpeta de scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The script is loaded in the editor.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134507Z" creationid="Marc Riera" creationdate="20221209T134507Z">
+        <seg>Es carrega l'script a l'editor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37992,6 +38136,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can then click on the number to run its assigned script.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134518Z" creationid="Marc Riera" creationdate="20221209T134518Z">
+        <seg>A continuació, podeu fer clic en el número per a executar l'script assignat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can use &lt;l0/&gt; to assign an alternative translation to segments that require a different translation.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T112338Z" creationid="Marc Riera" creationdate="20221206T112338Z">
@@ -38817,6 +38969,22 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180212T224710Z" creationid="Marc Riera" creationdate="20180212T224710Z">
         <seg>i després:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>application_shutdown</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134442Z" creationid="Marc Riera" creationdate="20221209T134442Z">
+        <seg>application_shutdown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>application_startup</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134443Z" creationid="Marc Riera" creationdate="20221209T134443Z">
+        <seg>application_startup</seg>
       </tuv>
     </tu>
     <tu>
@@ -40010,6 +40178,14 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>entry_activated</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134445Z" creationid="Marc Riera" creationdate="20221209T134445Z">
+        <seg>entry_activated</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>exact search</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T201721Z" creationid="Marc Riera" creationdate="20220621T201721Z">
@@ -40041,6 +40217,40 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165731Z" creationid="Marc Riera" creationdate="20200802T165731Z">
         <seg>files = project.projectFiles;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>files = project.projectFiles;
+for (i in 0 ..&lt; files.size())
+{
+	for (j in 0 ..&lt; files[i].entries.size())
+	{
+		currSegment = files[i].entries[j];
+		if (project.getTranslationInfo(currSegment))
+		{
+			source = currSegment.getSrcText();
+			target = project.getTranslationInfo(currSegment).translation;
+			console.println(source + " &gt;&gt;&gt;&gt; " + target);
+		}     
+	}
+}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134743Z" creationid="Marc Riera" creationdate="20221209T134743Z">
+        <seg>files = project.projectFiles;
+for (i in 0 ..&lt; files.size())
+{
+	for (j in 0 ..&lt; files[i].entries.size())
+	{
+		currSegment = files[i].entries[j];
+		if (project.getTranslationInfo(currSegment))
+		{
+			source = currSegment.getSrcText();
+			target = project.getTranslationInfo(currSegment).translation;
+			console.println(source + " &gt;&gt;&gt;&gt; " + target);
+		}     
+	}
+}</seg>
       </tuv>
     </tu>
     <tu>
@@ -40495,6 +40705,14 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://developer.oracle.com/databases/nashorn-javascript-part1.html</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134737Z" creationid="Marc Riera" creationdate="20221209T134737Z">
+        <seg>https://developer.oracle.com/databases/nashorn-javascript-part1.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195412Z" creationid="Marc Riera" creationdate="20221206T195412Z">
@@ -40565,6 +40783,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T082943Z" creationid="Marc Riera" creationdate="20221205T082943Z">
         <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://groovy-lang.org</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134725Z" creationid="Marc Riera" creationdate="20221209T134725Z">
+        <seg>https://groovy-lang.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -40670,6 +40896,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180212T223300Z" creationid="Marc Riera" creationdate="20180212T223300Z">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/182/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134622Z" creationid="Marc Riera" creationdate="20221209T134622Z">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/182/</seg>
       </tuv>
     </tu>
     <tu>
@@ -40924,6 +41158,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T120544Z" creationid="Marc Riera" creationdate="20221206T120544Z">
         <seg>No es té en compte en la finestra &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>issue_provider_sample.groovy</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134717Z" creationid="Marc Riera" creationdate="20221209T134717Z">
+        <seg>issue_provider_sample.groovy</seg>
       </tuv>
     </tu>
     <tu>
@@ -41479,6 +41721,22 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T083403Z" creationid="Marc Riera" creationdate="20221205T083403Z">
         <seg>meta shift W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>new_file</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134448Z" creationid="Marc Riera" creationdate="20221209T134448Z">
+        <seg>new_file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>new_word</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134449Z" creationid="Marc Riera" creationdate="20221209T134449Z">
+        <seg>new_word</seg>
       </tuv>
     </tu>
     <tu>
@@ -42125,6 +42383,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>project_changed</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134452Z" creationid="Marc Riera" creationdate="20221209T134452Z">
+        <seg>project_changed</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>project_stats_match.txt</seg>
@@ -42494,6 +42760,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225506Z" creationid="Marc Riera" creationdate="20201003T225506Z">
         <seg>tm/penalty-xxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolbar.groovy</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134719Z" creationid="Marc Riera" creationdate="20221209T134719Z">
+        <seg>toolbar.groovy</seg>
       </tuv>
     </tu>
     <tu>
