@@ -30470,6 +30470,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f0&gt;plugins&lt;/f0&gt; and &lt;f1&gt;scripts&lt;/f1&gt; folders might be overwritten, so you may want to create a backup before upgrading.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T115824Z" creationid="Marc Riera" creationdate="20221209T115824Z">
+        <seg>És possible que se sobreescriguin les carpetes &lt;f0&gt;plugins&lt;/f0&gt; i &lt;f1&gt;scripts&lt;/f1&gt;, per la qual cosa pot ser que vulgueu fer una còpia de seguretat abans de l'actualització.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the &lt;f1&gt;omegat&lt;/f1&gt; folder of your project contains more detailed segment information, broken down by file.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121546Z" creationid="Marc Riera" creationdate="20220611T121546Z">
@@ -32351,6 +32359,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The “old” version of OmegaT will be overwritten, but settings made from the OmegaT interface will be retained in the various configurations folders (see above).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T115959Z" creationid="Marc Riera" creationdate="20221209T115959Z">
+        <seg>Se sobreescriurà la versió «antiga» de l'OmegaT, però es conservaran els paràmetres aplicats des de la interfície de l'OmegaT en les diferents carpetes de configuració (consulteu els apartats anteriors).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Their contents will not be displayed for translation.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T124623Z" creationid="Marc Riera" creationdate="20221207T124623Z">
@@ -33453,6 +33469,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will enable you to keep any number of versions side-by-side, which you may wish to do until you feel comfortable with the new version.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T120046Z" creationid="Marc Riera" creationdate="20221209T120046Z">
+        <seg>Això us permetrà conservar qualsevol nombre de versions alhora, que pot ser que us interessi fins que us acostumeu a la versió nova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will split or merge some previously translated segments, which will therefore no longer be considered translated.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191618Z" creationid="Marc Riera" creationdate="20221201T191618Z">
@@ -33695,6 +33719,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T082828Z" creationid="Marc Riera" creationdate="20221205T082828Z">
         <seg>Per fer-ho, cal posar el fitxer de definició de dreceres corresponent en la carpeta de configuració de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T115901Z" creationid="Marc Riera" creationdate="20221209T115901Z">
+        <seg>Per a fer-ho, només cal que seleccioneu la mateixa carpeta d'instal·lació de la instal·lació existent en instal·lar la versió nova.</seg>
       </tuv>
     </tu>
     <tu>
