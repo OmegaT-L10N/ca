@@ -15323,6 +15323,38 @@ als valors per defecte.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If checked, non-unique segments will be marked in pale gray.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123128Z" creationid="Marc Riera" creationdate="20221209T123128Z">
+        <seg>Si es marca, els segments no únics es marquen en color gris pàl·lid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, segments with notes will be marked in cyan.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123142Z" creationid="Marc Riera" creationdate="20221209T123142Z">
+        <seg>Si es marca, els segments amb notes es marquen en color cian.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, separations between paragraphs in the source document are indicated visually.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T122743Z" creationid="Marc Riera" creationdate="20221209T122743Z">
+        <seg>Si es marca, les separacions entre els paràgrafs del document d'origen s'indiquen visualment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, source segments will be shown and marked in green.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123049Z" creationid="Marc Riera" creationdate="20221209T123049Z">
+        <seg>Si es marca, els segments d'origen es mostren i es marquen en color verd.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If checked, the entries are sorted alphabetically.</seg>
@@ -15338,6 +15370,30 @@ als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T122106Z" creationid="Marc Riera" creationdate="20191112T231054Z">
         <seg>Si es marca, les entrades més llargues apareixen abans en la llista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, translated segments will be marked in yellow.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123059Z" creationid="Marc Riera" creationdate="20221209T122637Z">
+        <seg>Si es marca, els segments traduïts es marquen en color groc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, untranslated segments will be marked in violet.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123054Z" creationid="Marc Riera" creationdate="20221209T122709Z">
+        <seg>Si es marca, els segments sense traduir es marquen en color porpra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, white spaces will be displayed with a small dot.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123206Z" creationid="Marc Riera" creationdate="20221209T123206Z">
+        <seg>Si es marca, els espais blancs es mostren amb un punt volat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15447,6 +15503,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220503Z" creationid="Marc Riera" creationdate="20221208T220503Z">
         <seg>Si no s'ha seleccionat cap text, l'OmegaT selecciona la paraula que comença pel caràcter immediatament a la dreta del cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If not checked, source segments will not be shown.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123116Z" creationid="Marc Riera" creationdate="20221209T123116Z">
+        <seg>Si no es marca, no es mostren els segments d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19163,6 +19227,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Mark Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123152Z" creationid="Marc Riera" creationdate="20221209T123152Z">
+        <seg>Marca els espais no separables</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mark Non-Unique Se&amp;gments</seg>
@@ -19187,6 +19259,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161806Z" creationid="Packard Bell" creationdate="20150605T161806Z">
         <seg>Marca els espais no separables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T122713Z" creationid="Marc Riera" creationdate="20221209T122713Z">
+        <seg>Marca els límits dels paràgrafs</seg>
       </tuv>
     </tu>
     <tu>
@@ -27270,6 +27350,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T122719Z" creationid="Marc Riera" creationdate="20221209T122719Z">
+        <seg>Consulteu &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt; for details.&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110021Z" creationid="Marc Riera" creationdate="20221204T110021Z">
@@ -30404,6 +30492,14 @@ L'àmbit d'una substitució de text són els segments de destinació del project
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That color marking is shown as long as &lt;l0/&gt; is checked.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123713Z" creationid="Marc Riera" creationdate="20221209T123713Z">
+        <seg>Aquest marca de color es mostra sempre que s'hagi marcat &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That folder contains all the files needed to run OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202223Z" creationid="Marc Riera" creationdate="20221206T202223Z">
@@ -33316,6 +33412,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121140Z" creationid="Marc Riera" creationdate="20220611T121140Z">
         <seg>Aquest número es mostra entre claudàtors, al costat del títol "Fitxers del projecte".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123228Z" creationid="Marc Riera" creationdate="20221209T123228Z">
+        <seg>Aquesta opció mostra els &lt;u0&gt;caràcters de control bidireccional&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
