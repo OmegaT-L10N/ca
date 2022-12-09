@@ -10006,6 +10006,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Detailed instructions on building OmegaT can be found in the &lt;u0&gt;README.txt&lt;/u0&gt; file located in the &lt;f1&gt;docs_devel&lt;/f1&gt; subfolder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111852Z" creationid="Marc Riera" creationdate="20221209T111852Z">
+        <seg>Podeu trobar instruccions detallades sobre la compilació de l'OmegaT en el fitxer &lt;u0&gt;README.txt&lt;/u0&gt; de la subcarpeta &lt;f1&gt;docs_devel&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
@@ -11098,6 +11106,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094615Z" creationid="mgalo" creationdate="20181112T112115Z">
         <seg>Arrossegueu fitxers de glossari aquí per a afegir-los al projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Due to licensing considerations, the OmegaT team recommends the Java runtime Eclipse Temurin provided by the Eclipse Foundation's Adoptium Project, but any Java 8 compatible runtime environment should work.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T114031Z" creationid="Marc Riera" creationdate="20221209T114031Z">
+        <seg>Per qüestions de llicències, l'equip de l'OmegaT recomana l'entorn d'execució del Java Eclipse Temurin proporcionat pel Projecte Adoptium de la Fundació Eclipse, però qualsevol entorn d'execució compatible amb el Java 8 hauria de funcionar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13351,6 +13367,22 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T231301Z" creationid="Marc Riera" creationdate="20191110T231301Z">
         <seg>Segueix les majúscules del text escrit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Follow the installation instructions of the package you need.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111453Z" creationid="Marc Riera" creationdate="20221209T111453Z">
+        <seg>Seguiu les instruccions d'instal·lació del paquet que necessiteu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Follow your system’s instructions to install OmegaT shortcuts in convenient places of your choosing.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111517Z" creationid="Marc Riera" creationdate="20221209T111517Z">
+        <seg>Seguiu les instruccions del sistema per a instal·lar les dreceres de l'OmegaT en els llocs adequats que vulgueu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15709,6 +15741,14 @@ extensions dels fitxers.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you decide to install a new version, keep the following in mind:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111547Z" creationid="Marc Riera" creationdate="20221209T111547Z">
+        <seg>Si decidiu instal·lar una versió nova, tingueu en compte el següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you do not activate this option, all segments can be assigned a different translation, even if they are duplicated in the project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T112406Z" creationid="Marc Riera" creationdate="20221206T112406Z">
@@ -15834,6 +15874,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200124T232248Z" creationid="Marc Riera" creationdate="20180212T224925Z">
         <seg>Si heu utilitzat l'script «linux-install.sh», podeu executar l'OmegaT amb:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to remove OmegaT completely, you will also have to delete the configuration folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111731Z" creationid="Marc Riera" creationdate="20221209T111731Z">
+        <seg>Si voleu desinstal·lar completament l'OmegaT, també haureu de suprimir la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22247,6 +22295,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT’s preferences are stored in the configuration folder and will &lt;e0&gt;not&lt;/e0&gt; be modified by the new version.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111610Z" creationid="Marc Riera" creationdate="20221209T111610Z">
+        <seg>Les preferències de l'OmegaT s'emmagatzemen en la carpeta de configuració i la versió nova &lt;e0&gt;no&lt;/e0&gt; les modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Linux</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202144Z" creationid="Marc Riera" creationdate="20221206T202144Z">
@@ -24671,6 +24727,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T163201Z" creationid="Marc Riera" creationdate="20221201T163201Z">
         <seg>Podeu accedir als paràmetres específics del projecte amb &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Projects that you have created in the past or are currently using will &lt;e0&gt;not&lt;/e0&gt; be modified or deleted.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111637Z" creationid="Marc Riera" creationdate="20221209T111637Z">
+        <seg>&lt;e0&gt;No&lt;/e0&gt; es modificaran ni suprimiran els projectes que hàgiu creat anteriorment o que utilitzeu actualment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30817,6 +30881,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The changes between your version and the current version are documented in the development site’s &lt;u0&gt;changes.txt&lt;/u0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111536Z" creationid="Marc Riera" creationdate="20221209T111536Z">
+        <seg>Els canvis entre la vostra versió i la versió actual estan documentats en el fitxer &lt;u0&gt;changes.txt&lt;/u0&gt; del lloc de desenvolupament.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
@@ -33331,6 +33403,14 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>This will create a full distribution of OmegaT in the &lt;f0&gt;build/install/OmegaT&lt;/f0&gt; folder, ready to be launched.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111757Z" creationid="Marc Riera" creationdate="20221209T111757Z">
+        <seg>Això crearà una distribució completa de l'OmegaT en la carpeta &lt;f0&gt;build/install/OmegaT&lt;/f0&gt;, a punt per a iniciar-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This will discard all changes you have made so far.</seg>
@@ -35740,6 +35820,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use your operating system’s standard procedure to remove OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111716Z" creationid="Marc Riera" creationdate="20221209T111716Z">
+        <seg>Seguiu el procediment estàndard del vostre sistema operatiu per a desinstal·lar l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Used when launching OmegaT from the command line.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T111830Z" creationid="Marc Riera" creationdate="20221129T111830Z">
@@ -37306,6 +37394,14 @@ d'allà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also run the application directly with the following command:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111805Z" creationid="Marc Riera" creationdate="20221209T111805Z">
+        <seg>També podeu executar l'aplicació directament amb l'ordre següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also start the selected macros from the main menu by using their entries in the &lt;g0&gt;Tools&lt;/g0&gt; menu or by pressing &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;Alt&lt;/k3&gt;&lt;k4&gt;F#&lt;/k4&gt;&lt;/k1&gt; (# 1 to 12).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T155611Z" creationid="Marc Riera" creationdate="20220611T155611Z">
@@ -37422,6 +37518,14 @@ trobar el text de la llicència a /docs/OmegaT-license.txt</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T221607Z" creationid="Marc Riera" creationdate="20221207T221607Z">
         <seg>Podeu forçar la comprovació d'errors cada vegada que sortiu dun segment (consulteu &lt;l0/&gt;) i impedir la creació dels fitxers traduïts si es detecten errors d'etiquetes (consulteu &lt;l1/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can get a list of all available tasks by typing:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111817Z" creationid="Marc Riera" creationdate="20221209T111817Z">
+        <seg>Podeu veure una llista de totes les tasques disponibles escrivint l'ordre següent:</seg>
       </tuv>
     </tu>
     <tu>
