@@ -7711,6 +7711,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check this option in case OmegaT does not display certain glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T124541Z" creationid="Marc Riera" creationdate="20221209T124541Z">
+        <seg>Marqueu aquesta opció si l'OmegaT no mostra correctament determinats caràcters (fins i tot si teniu instal·lats en l'ordinador els tipus de lletra amb els caràcters en qüestió).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check whether this is intentional.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192055Z" creationid="Marc Riera" creationdate="20221124T180105Z">
@@ -15364,6 +15372,14 @@ als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, segments that have been auto-populated (from TMXs placed in &lt;l0/&gt; for example) are marked in various colors.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T124323Z" creationid="Marc Riera" creationdate="20221209T124323Z">
+        <seg>Si es marca, els segments propagats automàticament (a partir de fitxers TMX de la carpeta &lt;l0/&gt;, per exemple) es marquen amb diversos colors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, segments with notes will be marked in cyan.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123142Z" creationid="Marc Riera" creationdate="20221209T123142Z">
@@ -22519,6 +22535,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows this manual font fallback mechanism has been known to interfere with the standard font fallback, causing undesirable font substitutions.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T124642Z" creationid="Marc Riera" creationdate="20221209T124642Z">
+        <seg>En el Windows, se sap que aquest mecanisme de commutació per error manual dels tipus de lletra interfereix amb la commutació per error estàndard dels de tipus de lletra, la qual cosa produeix substitucions no desitjades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On macOS</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202234Z" creationid="Marc Riera" creationdate="20221206T202234Z">
@@ -23284,6 +23308,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221109T210040Z" creationid="Marc Riera" creationdate="20221109T210040Z">
         <seg>Hi ha altres connectors disponibles en línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other translations specifically identified in the TMX, can be marked in different colors.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T124429Z" creationid="Marc Riera" creationdate="20221209T124417Z">
+        <seg>Es poden marcar amb colors diferents altres traduccions identificades específicament en els fitxers TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26267,6 +26299,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restores the OmegaT main window layout to its default values, with the &lt;g0&gt;Editor&lt;/g0&gt; pane on the left, the &lt;g1&gt;Fuzzy Matches&lt;/g1&gt; pane at the top right and the &lt;g2&gt;Glossary&lt;/g2&gt; pane at the bottom right.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T124756Z" creationid="Marc Riera" creationdate="20221209T124756Z">
+        <seg>Restaura la disposició de la finestra principal de l'OmegaT als valors per defecte: la subfinestra &lt;g0&gt;Editor&lt;/g0&gt; a l'esquerra, la subfinestra &lt;g1&gt;Coincidències parcials&lt;/g1&gt; a dalt a la dreta i la subfinestra &lt;g2&gt;Glossari&lt;/g2&gt; a sota a la dreta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restores the components of the main OmegaT window to their default state.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220644Z" creationid="Marc Riera" creationdate="20220130T220644Z">
@@ -26425,6 +26465,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121349Z" creationid="Marc Riera" creationdate="20220611T121349Z">
         <seg>Si feu clic dret en un nom de fitxer, s'obre una finestra emergent que permet obrir el fitxer d'origen i, si existeix, el fitxer de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-clicking on an underlined term displays the matching target term, which can be selected and inserted at the cursor position in the target text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T124446Z" creationid="Marc Riera" creationdate="20221209T124446Z">
+        <seg>En fer clic amb el botó dret sobre un terme subratllat, es mostra el terme de destinació corresponent, que es pot seleccionar i inserir en la posició del cursor en el text de destinació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30542,8 +30590,8 @@ L'àmbit d'una substitució de text són els segments de destinació del project
       <tuv lang="en">
         <seg>That color marking is shown as long as &lt;l0/&gt; is checked.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123713Z" creationid="Marc Riera" creationdate="20221209T123713Z">
-        <seg>Aquest marca de color es mostra sempre que s'hagi marcat &lt;l0/&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T124338Z" creationid="Marc Riera" creationdate="20221209T123713Z">
+        <seg>Aquest marca de color es mostra sempre que s'hagi habilitat &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33427,6 +33475,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201120T161206Z" creationid="Alexandra" creationdate="20150526T133047Z">
         <seg>Aquesta llista de correu és per a la localització de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This marking has priority over &lt;g0&gt;Mark Translated Segments&lt;/g0&gt; and &lt;g1&gt;Mark Untranslated Segments&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T125152Z" creationid="Marc Riera" creationdate="20221209T125152Z">
+        <seg>Aquesta marca té prioritat sobre &lt;g0&gt;Marca els segments traduïts&lt;/g0&gt; i &lt;g1&gt;Marca els segments sense traduir&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
