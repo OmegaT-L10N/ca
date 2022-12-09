@@ -4954,6 +4954,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>After the unpacking or installation is complete, you can delete the downloaded file as it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T105019Z" creationid="Marc Riera" creationdate="20221209T105019Z">
+        <seg>Després de desempaquetar el fitxer o quan s'hagi completat la instal·lació, podeu suprimir el fitxer baixat, que ja no és necessari.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
@@ -11012,6 +11020,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200122T225323Z" creationid="Marc Riera" creationdate="20191110T230515Z">
         <seg>S'està baixant la col·lecció {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download the &lt;e0&gt;Cross-platform without JRE&lt;/e0&gt; version.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T105205Z" creationid="Marc Riera" creationdate="20221209T105205Z">
+        <seg>Baixeu la versió &lt;e0&gt;Multiplataforma sense el JRE&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22359,6 +22375,14 @@ la carpeta d'inici.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Once you have done this, you can delete the downloaded file as it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T105127Z" creationid="Marc Riera" creationdate="20221209T105127Z">
+        <seg>Quan hàgiu fet això, podeu suprimir el fitxer baixat, que ja no és necessari.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
@@ -26276,6 +26300,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200726T123008Z" creationid="mgalo" creationdate="20181107T233920Z">
         <seg>S'està executant en Java {0} ({1} bits)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Running the script will require you to enter your &lt;f0&gt;sudo&lt;/f0&gt; password.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T104919Z" creationid="Marc Riera" creationdate="20221209T104919Z">
+        <seg>En executar l'script haureu d'introduir la contrasenya de &lt;f0&gt;sudo&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30244,6 +30276,14 @@ L'àmbit d'una substitució de text són els segments de destinació del project
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That includes the platforms described above, but also the platforms for which specific packages are not provided.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T105150Z" creationid="Marc Riera" creationdate="20221209T105150Z">
+        <seg>Això inclou les plataformes descrites anteriorment, però també les plataformes per a les quals no es proporcionen paquets específics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That is the reason why exception rules must come before segmentation rules.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191657Z" creationid="Marc Riera" creationdate="20221201T191657Z">
@@ -31063,6 +31103,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder contains two files: &lt;f1&gt;index.html&lt;/f1&gt; (the user guide index) and &lt;f2&gt;OmegaT.app&lt;/f2&gt; (the application).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T105104Z" creationid="Marc Riera" creationdate="20221209T105104Z">
+        <seg>La carpeta conté dos fitxers: &lt;f1&gt;index.html&lt;/f1&gt; (índex de la guia d'usuari) i &lt;f2&gt;OmegaT.app&lt;/f2&gt; (aplicació).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder structure reflects the copied contents and files that are not supported by OmegaT’s file filters will be copied without modifications.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T122515Z" creationid="Marc Riera" creationdate="20221206T122515Z">
@@ -31242,6 +31290,14 @@ in the quick launch area.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120749Z" creationid="Marc Riera" creationdate="20200122T230927Z">
         <seg>El programa d'instal·lació pot crear dreceres en el menú d'inici, l'escriptori i
 l'àrea d'accés ràpid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The instructions given here apply to people who download the package from the &lt;u0&gt;https://omegat.org&lt;/u0&gt; site and install it manually.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T104901Z" creationid="Marc Riera" creationdate="20221209T104901Z">
+        <seg>Les instruccions indicades aquí s'apliquen a la baixada del paquet des del lloc &lt;u0&gt;https://omegat.org&lt;/u0&gt; i la instal·lació manual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31681,6 +31737,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T225156Z" creationid="mgalo" creationdate="20181115T225156Z">
         <seg>S'està executant l'script «{0}»...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The script checks for an existing installation of the same OmegaT version in &lt;f0&gt;/opt/omegat/&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T104939Z" creationid="Marc Riera" creationdate="20221209T104939Z">
+        <seg>L'script comprova si hi ha una instal·lació existent de la mateixa versió de l'OmegaT en la carpeta &lt;f0&gt;/opt/omegat/&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32898,6 +32962,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T184610Z" creationid="Marc Riera" creationdate="20201125T184610Z">
         <seg>L'actual coordinador del projecte OmegaT descriu aquest enfocament discret com a «anarquia delegada».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This information applies to all systems that have a Java version compatible with Java 8 Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T105143Z" creationid="Marc Riera" creationdate="20221209T105143Z">
+        <seg>Aquesta informació s'aplica a tots els sistemes amb una versió del Java compatible amb el Java 8 Runtime Environment.</seg>
       </tuv>
     </tu>
     <tu>
