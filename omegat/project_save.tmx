@@ -5562,8 +5562,8 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
         <seg>An error occurred while processing a font changed event:
 {0}</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072458Z" creationid="Marc Riera" creationdate="20191113T072458Z">
-        <seg>S'ha produït un error en processar un esdeveniment de canvi de tipus de lletra:
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T125352Z" creationid="Marc Riera" creationdate="20191113T072458Z">
+        <seg>S'ha produït un error en processar un esdeveniment de canvi de lletra:
 {0}</seg>
       </tuv>
     </tu>
@@ -7713,8 +7713,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Check this option in case OmegaT does not display certain glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T124541Z" creationid="Marc Riera" creationdate="20221209T124541Z">
-        <seg>Marqueu aquesta opció si l'OmegaT no mostra correctament determinats caràcters (fins i tot si teniu instal·lats en l'ordinador els tipus de lletra amb els caràcters en qüestió).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T125320Z" creationid="Marc Riera" creationdate="20221209T124541Z">
+        <seg>Marqueu aquesta opció si l'OmegaT no mostra correctament determinats caràcters (fins i tot si teniu instal·lats en l'ordinador les lletres amb els caràcters en qüestió).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12246,8 +12246,8 @@ ningú no sent els vostres crits.</seg>
       <tuv lang="en">
         <seg>Event: font changed</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072432Z" creationid="Marc Riera" creationdate="20191113T072432Z">
-        <seg>Esdeveniment: s'ha canviat el tipus de lletra</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T125344Z" creationid="Marc Riera" creationdate="20191113T072432Z">
+        <seg>Esdeveniment: s'ha canviat la lletra</seg>
       </tuv>
     </tu>
     <tu>
@@ -13438,8 +13438,8 @@ els fils de teranyina t'aparten.
       <tuv lang="en">
         <seg>Font</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112047Z" creationid="Marc Riera" creationdate="20180221T112047Z">
-        <seg>Tipus de lletra</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T125333Z" creationid="Marc Riera" creationdate="20180221T112047Z">
+        <seg>Lletra</seg>
       </tuv>
     </tu>
     <tu>
@@ -22537,8 +22537,8 @@ la carpeta d'inici.</seg>
       <tuv lang="en">
         <seg>On Windows this manual font fallback mechanism has been known to interfere with the standard font fallback, causing undesirable font substitutions.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T124642Z" creationid="Marc Riera" creationdate="20221209T124642Z">
-        <seg>En el Windows, se sap que aquest mecanisme de commutació per error manual dels tipus de lletra interfereix amb la commutació per error estàndard dels de tipus de lletra, la qual cosa produeix substitucions no desitjades.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T125313Z" creationid="Marc Riera" creationdate="20221209T124642Z">
+        <seg>En el Windows, se sap que aquest mecanisme de commutació per error manual de les lletres interfereix amb la commutació per error estàndard de les lletres, la qual cosa produeix substitucions no desitjades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28468,6 +28468,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220021Z" creationid="Marc Riera" creationdate="20220130T220021Z">
         <seg>Estableix la tecla de validació de segments a Tab en comptes de Retorn, que és el valor per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting it to &lt;g1&gt;All segments&lt;/g1&gt; shows this information for all segments, while &lt;g2&gt;None&lt;/g2&gt; turns this option off.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T133834Z" creationid="Marc Riera" creationdate="20221209T133834Z">
+        <seg>Si ho establiu en &lt;g1&gt;Tots els segments&lt;/g1&gt;, es mostra aquesta informació per a tots els segments, mentre que &lt;g2&gt;Cap&lt;/g2&gt; desactiva aquesta opció.</seg>
       </tuv>
     </tu>
     <tu>
