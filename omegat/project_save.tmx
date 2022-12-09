@@ -22480,6 +22480,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once the code is downloaded, open a terminal in the source folder (&lt;f0&gt;omegat-code/&lt;/f0&gt; if you cloned from Sourceforge, or &lt;f1&gt;/omegat&lt;/f1&gt; if you cloned from GitHub) and type:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T121704Z" creationid="Marc Riera" creationdate="20221209T121704Z">
+        <seg>Una vegada baixat el codi, obriu un terminal en la carpeta amb el codi font (&lt;f0&gt;omegat-code/&lt;/f0&gt; si l'heu clonat des de Sourceforge, o &lt;f1&gt;/omegat&lt;/f1&gt; si l'heu clonat des de GitHub) i escriviu l'ordre següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once the project has been opened, translation proceeds in the same way as for a non-team project, except the following points.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212956Z" creationid="Marc Riera" creationdate="20201130T212353Z">
@@ -23365,6 +23373,14 @@ s'esvaeix com la boira.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T114159Z" creationid="Marc Riera" creationdate="20221129T114159Z">
         <seg>Segmentació per paràgrafs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Parameter files that are included in the downloaded OmegaT package (especially the &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; for &lt;l1&gt;Windows&lt;/l1&gt; and the &lt;f2&gt;Configuration.properties&lt;/f2&gt; and &lt;f3&gt;Info.plist&lt;/f3&gt; files for &lt;l4&gt;macOS&lt;/l4&gt; packages) might be overwritten or deleted, so you may want to create a backup before upgrading, if you have been using these files to modify OmegaT’s launch parameters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T122607Z" creationid="Marc Riera" creationdate="20221209T122607Z">
+        <seg>Els fitxers de paràmetres que s'inclouen en el paquet de l'OmegaT baixat (especialment els fitxers &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; per als paquets del &lt;l1&gt;Windows&lt;/l1&gt; i &lt;f2&gt;Configuration.properties&lt;/f2&gt; i &lt;f3&gt;Info.plist&lt;/f3&gt; per als paquets del &lt;l4&gt;macOS&lt;/l4&gt;) es poden sobreescriure o suprimir. És possible que vulgueu crear una còpia de seguretat abans d'actualitzar si heu utilitzat aquests fitxers per a modificar els paràmetres d'inici de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32035,6 +32051,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T221736Z" creationid="Marc Riera" creationdate="20221207T221736Z">
         <seg>Els fitxers d'origen i de destinació poden tenir formats diferents (per exemple, es pot alinear un fitxer &lt;f0&gt;.docx&lt;/f0&gt; amb un fitxer &lt;f1&gt;.pdf&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source code for the current version can be either be downloaded directly from the OmegaT &lt;u0&gt;download page.&lt;/u0&gt;, or cloned from the &lt;u1&gt;Sourceforge&lt;/u1&gt; or &lt;u2&gt;GitHub&lt;/u2&gt; repositories.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221209T121549Z" creationid="Marc Riera" creationdate="20221209T121549Z">
+        <seg>Podeu baixar el codi font de la versió actual directament des de la &lt;u0&gt;pàgina de baixada&lt;/u0&gt; de l'OmegaT, o bé clonar-los des dels dipòsits de &lt;u1&gt;Sourceforge&lt;/u1&gt; o &lt;u2&gt;GitHub&lt;/u2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
