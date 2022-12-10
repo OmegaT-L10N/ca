@@ -2529,6 +2529,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202058Z" creationid="Marc Riera" creationdate="20221210T202058Z">
+        <seg>--config-dir=&lt;e0&gt;&lt;camí&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-dir=&lt;path&gt;
 	  The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
@@ -2558,6 +2566,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>--config-file=&lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202103Z" creationid="Marc Riera" creationdate="20221210T202103Z">
+        <seg>--config-file=&lt;e0&gt;&lt;camí&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--config-file=&lt;path&gt;
@@ -2576,6 +2592,14 @@ per a editar-lo com a projecte en equip.)</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195547Z" creationid="Marc Riera" creationdate="20221005T195547Z">
         <seg>--config-file=&lt;camí&gt;
 	  Fitxer .properties del Java des d'on es carregaran els paràmetres per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-location-save</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202050Z" creationid="Marc Riera" creationdate="20221210T202050Z">
+        <seg>--disable-location-save</seg>
       </tuv>
     </tu>
     <tu>
@@ -2607,6 +2631,14 @@ per a editar-lo com a projecte en equip.)</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215344Z" creationid="Marc Riera" creationdate="20221123T215344Z">
         <seg>--disable-location-save
 	  No recordis la darrera carpeta oberta en el selector de fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-project-locking</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202049Z" creationid="Marc Riera" creationdate="20221210T202049Z">
+        <seg>--disable-project-locking</seg>
       </tuv>
     </tu>
     <tu>
@@ -2697,6 +2729,22 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align &lt;e0&gt;--alignDir=&lt;e1&gt;&lt;path&gt;&lt;/e1&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202155Z" creationid="Marc Riera" creationdate="20221210T202155Z">
+        <seg>--mode=console-align &lt;e0&gt;--alignDir=&lt;e1&gt;&lt;camí&gt;&lt;/e1&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-createpseudotranslatetmx</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202141Z" creationid="Marc Riera" creationdate="20221210T202141Z">
+        <seg>--mode=console-createpseudotranslatetmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx
 	  --pseudotranslatetmx=&lt;path&gt;
 	    The output pseudotranslated TMX file.</seg>
@@ -2751,6 +2799,22 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-stats &lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202201Z" creationid="Marc Riera" creationdate="20221210T202201Z">
+        <seg>--mode=console-stats &lt;e0&gt;&lt;camí&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-translate</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202115Z" creationid="Marc Riera" creationdate="20221210T202115Z">
+        <seg>--mode=console-translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-translate
 	  --source-pattern=&lt;pattern&gt;
 	    A regex whitelist of source files to process.</seg>
@@ -2760,6 +2824,14 @@ per a editar-lo com a projecte en equip.)</seg>
 	  --source-pattern=&lt;patró&gt;
 	    Llista de permesos d'expressions regulars de fitxers d'origen
 	    que es processaran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--no-team</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202045Z" creationid="Marc Riera" creationdate="20221210T202045Z">
+        <seg>--no-team</seg>
       </tuv>
     </tu>
     <tu>
@@ -2795,6 +2867,22 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>--pseudotranslatetmx=&lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202146Z" creationid="Marc Riera" creationdate="20221210T202146Z">
+        <seg>--pseudotranslatetmx=&lt;e0&gt;&lt;camí&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202149Z" creationid="Marc Riera" creationdate="20221210T202149Z">
+        <seg>--pseudotranslatetype=[equal|empty]</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--pseudotranslatetype=[equal|empty]
@@ -2823,6 +2911,14 @@ per a editar-lo com a projecte en equip.)</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T165342Z" creationid="Marc Riera" creationdate="20221117T165342Z">
         <seg>--pseudotranslatetype=[equal|empty]
 	    Contingut amb el qual s'emplenarà el TMX pseudotraduït.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--quiet</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202208Z" creationid="Marc Riera" creationdate="20221210T202208Z">
+        <seg>--quiet</seg>
       </tuv>
     </tu>
     <tu>
@@ -2858,6 +2954,14 @@ per a editar-lo com a projecte en equip.)</seg>
         <seg>--remote-project
 	  Baixa un fitxer omegat.project de l'URL proporcionat com a &lt;camí
 	  del projecte&gt; i carrega el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202110Z" creationid="Marc Riera" creationdate="20221210T202110Z">
+        <seg>--resource-bundle=&lt;e0&gt;&lt;camí&gt;&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2906,6 +3010,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>--script=&lt;e0&gt;&lt;e1&gt;&lt;path&gt;&lt;/e1&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202215Z" creationid="Marc Riera" creationdate="20221210T202215Z">
+        <seg>--script=&lt;e0&gt;&lt;e1&gt;&lt;camí&gt;&lt;/e1&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--script=&lt;path&gt;
@@ -2928,12 +3040,36 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--source-pattern=&lt;pattern&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202120Z" creationid="Marc Riera" creationdate="20221210T202120Z">
+        <seg>--source-pattern=&lt;patró&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--stats-type=[xml|text][txt][json]]]</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202206Z" creationid="Marc Riera" creationdate="20221210T202206Z">
+        <seg>--stats-type=[xml|text][txt][json]]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--stats-type=[xml|text|txt|json]
 	    Specifies the output format.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T171135Z" creationid="Marc Riera" creationdate="20221117T171135Z">
         <seg>--stats-type=[xml|text|txt|json]
 	    Especifica el format de sortida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--tag-validation=[abort|warn]</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202218Z" creationid="Marc Riera" creationdate="20221210T202218Z">
+        <seg>--tag-validation=[abort|warn]</seg>
       </tuv>
     </tu>
     <tu>
@@ -2955,6 +3091,38 @@ per a editar-lo com a projecte en equip.)</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221005T200608Z" creationid="Marc Riera" creationdate="20221005T200608Z">
         <seg>--tag-validation=[abort|warn]
 	  Valida les etiquetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Duser.country=CC</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202017Z" creationid="Marc Riera" creationdate="20221210T202017Z">
+        <seg>-Duser.country=CC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Duser.language=LL</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202007Z" creationid="Marc Riera" creationdate="20221210T202007Z">
+        <seg>-Duser.language=LL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-XmxSIZE</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202030Z" creationid="Marc Riera" creationdate="20221210T202030Z">
+        <seg>-XmxMIDA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-h, --help</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202040Z" creationid="Marc Riera" creationdate="20221210T202040Z">
+        <seg>-h, --help</seg>
       </tuv>
     </tu>
     <tu>
@@ -2985,6 +3153,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145933Z" creationid="Marc Riera" creationdate="20190924T145933Z">
         <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>.*\.html</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202123Z" creationid="Marc Riera" creationdate="20221210T202123Z">
+        <seg>.*\.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -3095,10 +3271,26 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>/Applications/OmegaT.app/Contents/Java/OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201919Z" creationid="Marc Riera" creationdate="20221210T201919Z">
+        <seg>/Applications/OmegaT.app/Contents/Java/OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>/opt/omegat/</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215101Z" creationid="Marc Riera" creationdate="20221123T215101Z">
         <seg>/opt/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>/opt/omegat/OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201921Z" creationid="Marc Riera" creationdate="20221210T201921Z">
+        <seg>/opt/omegat/OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -7036,6 +7228,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>C:\Program Files\OmegaT\OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201915Z" creationid="Marc Riera" creationdate="20221210T201915Z">
+        <seg>C:\Program Files\OmegaT\OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>CJ Translations</seg>
@@ -7735,6 +7935,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check tag issues.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202225Z" creationid="Marc Riera" creationdate="20221210T202225Z">
+        <seg>Comprova els errors d'etiquetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T215146Z" creationid="Marc Riera" creationdate="20201130T215146Z">
@@ -8263,6 +8471,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201855Z" creationid="Marc Riera" creationdate="20221210T201855Z">
         <seg>Inici des de la línia d'ordres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command syntax</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201927Z" creationid="Marc Riera" creationdate="20221210T201927Z">
+        <seg>Sintaxi de les ordres</seg>
       </tuv>
     </tu>
     <tu>
@@ -14237,6 +14453,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>General options:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202038Z" creationid="Marc Riera" creationdate="20221210T202038Z">
+        <seg>Opcions generals:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Generate the translated file</seg>
@@ -18023,6 +18247,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Java parameters</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201956Z" creationid="Marc Riera" creationdate="20221210T201956Z">
+        <seg>Paràmetres del Java</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Java(TM) Resource Bundles</seg>
@@ -19408,6 +19640,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Macos</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201918Z" creationid="Marc Riera" creationdate="20221210T201918Z">
+        <seg>macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Magento CE Locale CSV</seg>
@@ -20028,6 +20268,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T075136Z" creationid="mgalo" creationdate="20181109T224722Z">
         <seg>Longitud de línia màxima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maximum memory assignment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202026Z" creationid="Marc Riera" creationdate="20221210T202026Z">
+        <seg>Assignació màxima de memòria</seg>
       </tuv>
     </tu>
     <tu>
@@ -24847,6 +25095,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Preparations</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202254Z" creationid="Marc Riera" creationdate="20221210T202254Z">
+        <seg>Preparació</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Prerequisites for installing OmegaT
@@ -29157,6 +29413,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Set up a team project</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202239Z" creationid="Marc Riera" creationdate="20221210T202239Z">
+        <seg>Configuració d'un projecte en equip</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Sets</seg>
@@ -33253,6 +33517,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The steps to set up a team project are the following:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202248Z" creationid="Marc Riera" creationdate="20221210T202248Z">
+        <seg>Els passos per a configurar un projecte en equip són els següents:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The supported file formats depend on your project setting.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215936Z" creationid="Marc Riera" creationdate="20221207T215936Z">
@@ -37164,6 +37436,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use translation memories</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202353Z" creationid="Marc Riera" creationdate="20221210T202353Z">
+        <seg>Ús de memòries de traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use your operating system’s standard procedure to remove OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111716Z" creationid="Marc Riera" creationdate="20221209T111716Z">
@@ -37224,6 +37504,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User country</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202013Z" creationid="Marc Riera" creationdate="20221210T202013Z">
+        <seg>País de l'usuari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User credentials denied</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220210Z" creationid="Marc Riera" creationdate="20221124T220210Z">
@@ -37255,6 +37543,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150526T133507Z" creationid="Alexandra" creationdate="20150526T133507Z">
         <seg>Grup d'usuaris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User interface language</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202004Z" creationid="Marc Riera" creationdate="20221210T202004Z">
+        <seg>Llengua de la interfície d'usuari</seg>
       </tuv>
     </tu>
     <tu>
@@ -40686,6 +40982,14 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>dir-10\\test\.html</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202139Z" creationid="Marc Riera" creationdate="20221210T202139Z">
+        <seg>dir-10\\prova\.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>doc-license.txt</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215232Z" creationid="Marc Riera" creationdate="20221123T215232Z">
@@ -41696,6 +42000,22 @@ for (i in 0 ..&lt; files.size())
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202018Z" creationid="Marc Riera" creationdate="20221210T202018Z">
+        <seg>https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202009Z" creationid="Marc Riera" creationdate="20221210T202009Z">
+        <seg>https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>https://en.wikipedia.org/wiki/Stemming</seg>
@@ -42143,6 +42463,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231450Z" creationid="Marc Riera" creationdate="20201129T231450Z">
         <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -jar</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201930Z" creationid="Marc Riera" creationdate="20221210T201930Z">
+        <seg>java -jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -43082,6 +43410,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>path/to/OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201946Z" creationid="Marc Riera" creationdate="20221210T201946Z">
+        <seg>camí/al/fitxer/OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>plugins/</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T112044Z" creationid="Marc Riera" creationdate="20221129T112044Z">
@@ -43634,6 +43970,14 @@ for (i in 0 ..&lt; files.size())
       <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195442Z" creationid="Marc Riera" creationdate="20221005T195442Z">
         <seg>team init &lt;llengua d'origen&gt; &lt;llengua de destinació&gt;
 	  Eina de projecte en equip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>test\.html</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202130Z" creationid="Marc Riera" creationdate="20221210T202130Z">
+        <seg>prova\.html</seg>
       </tuv>
     </tu>
     <tu>
