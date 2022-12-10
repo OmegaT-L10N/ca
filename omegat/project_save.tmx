@@ -3482,6 +3482,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Only the team project manager should use this function&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T172838Z" creationid="Marc Riera" creationdate="20221210T172838Z">
+        <seg>&lt;e0&gt;Només el gestor del projecte en equip hauria d'utilitzar aquesta funció&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Paragraph segmentation&lt;/e0&gt; works well with more literary or creative texts, as well as, more generally, with documents for which translation memory matches are not so important.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T115448Z" creationid="Marc Riera" creationdate="20221203T115448Z">
@@ -8042,6 +8050,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161305Z" creationid="Packard Bell" creationdate="20150605T161305Z">
         <seg>Tanca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Close &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;W&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T171607Z" creationid="Marc Riera" creationdate="20221210T171607Z">
+        <seg>Tanca &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;W&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23155,6 +23171,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens a dialog where you can paste the URL of the Mediawiki page you want to translate.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T171633Z" creationid="Marc Riera" creationdate="20221210T171633Z">
+        <seg>Obre un quadre de diàleg on podeu enganxar l'URL de la pàgina del MediaWiki que voleu traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens a new &lt;l0/&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T215224Z" creationid="Marc Riera" creationdate="20221208T215224Z">
@@ -26951,6 +26975,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Save &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T171616Z" creationid="Marc Riera" creationdate="20221210T171616Z">
+        <seg>Desa &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Save Alignment Results</seg>
@@ -27075,6 +27107,22 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T171247Z" creationid="Marc Riera" creationdate="20220611T171247Z">
         <seg>Desa el projecte i reinicia l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the project translation memory and closes the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T171611Z" creationid="Marc Riera" creationdate="20221210T171611Z">
+        <seg>Desa la memòria de traducció del projecte i tanca el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the project translation memory.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T171618Z" creationid="Marc Riera" creationdate="20221210T171618Z">
+        <seg>Desa la memòria de traducció del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28792,6 +28840,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201124T193208Z" creationid="Marc Riera" creationdate="20201124T193208Z">
         <seg>Amb signatura o sense</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similarly, the contents of the &lt;l1/&gt; folder are automatically recognized and do not require reloading the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T171601Z" creationid="Marc Riera" creationdate="20221210T171601Z">
+        <seg>De la mateixa manera, el contingut de la carpeta &lt;l1/&gt; es reconeix automàticament i no cal tornar a carregar el projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32475,6 +32531,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T121549Z" creationid="Marc Riera" creationdate="20221209T121549Z">
         <seg>Podeu baixar el codi font de la versió actual directament des de la &lt;u0&gt;pàgina de baixada&lt;/u0&gt; de l'OmegaT, o bé clonar-los des dels dipòsits de &lt;u1&gt;Sourceforge&lt;/u1&gt; o &lt;u2&gt;GitHub&lt;/u2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source data of the page will be copied into the &lt;l0/&gt; folder, as a text file, with the &lt;f1&gt;.utf8&lt;/f1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T171654Z" creationid="Marc Riera" creationdate="20221210T171654Z">
+        <seg>Les dades originals de la pàgina es copiaran a la carpeta &lt;l0/&gt;, com a fitxer de text, amb l'extensió &lt;f1&gt;.utf8&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
