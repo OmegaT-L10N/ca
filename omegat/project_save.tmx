@@ -568,8 +568,8 @@
       <tuv lang="en">
         <seg>&amp;Clear Menu</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191207T231721Z" creationid="mgalo" creationdate="20181107T234601Z">
-        <seg>&amp;Neteja el menú</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T170318Z" creationid="mgalo" creationdate="20181107T234601Z">
+        <seg>&amp;Esborra el menú</seg>
       </tuv>
     </tu>
     <tu>
@@ -7822,8 +7822,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Choose SVN repository to perform cleanup</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094859Z" creationid="Marc Riera" creationdate="20201003T222957Z">
-        <seg>Trieu un dipòsit de l'SVN per a realitzar la neteja</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T170342Z" creationid="Marc Riera" creationdate="20201003T222957Z">
+        <seg>Trieu un dipòsit de l'SVN per a fer la neteja</seg>
       </tuv>
     </tu>
     <tu>
@@ -8016,6 +8016,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T160921Z" creationid="Marc Riera" creationdate="20220625T160921Z">
         <seg>En fer clic en un dels projectes, es desarà el projecte actual, es tancarà i s'obrirà l'altre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clicking one will save the current project, close it and open the selected project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T170243Z" creationid="Marc Riera" creationdate="20221210T170243Z">
+        <seg>En fer clic en un, es desarà el projecte actual, es tancarà i s'obrirà el projecte seleccionat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14124,6 +14132,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T160859Z" creationid="Marc Riera" creationdate="20220625T160859Z">
         <seg>Proporciona accés als deu darrers projectes editats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gives access to the last ten edited projects.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T170225Z" creationid="Marc Riera" creationdate="20221210T170225Z">
+        <seg>Dona accés als darrers deu projectes editats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20449,8 +20465,8 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       <tuv lang="en">
         <seg>Moving cleaned '{0}' to '{1}'</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T224058Z" creationid="Marc Riera" creationdate="20201003T224058Z">
-        <seg>S'està movent el fitxer netejat «{0}» a «{1}»</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T170404Z" creationid="Marc Riera" creationdate="20201003T224058Z">
+        <seg>S'està desplaçant el fitxer netejat «{0}» a «{1}»</seg>
       </tuv>
     </tu>
     <tu>
@@ -20458,8 +20474,8 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       <tuv lang="en">
         <seg>Moving original '{0}' to '{1}'</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T224045Z" creationid="Marc Riera" creationdate="20201003T224045Z">
-        <seg>S'està movent el fitxer original «{0}» a «{1}»</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T170415Z" creationid="Marc Riera" creationdate="20201003T224045Z">
+        <seg>S'està desplaçant el fitxer original «{0}» a «{1}»</seg>
       </tuv>
     </tu>
     <tu>
@@ -20665,6 +20681,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>New translation memories placed in the &lt;l0/&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T171545Z" creationid="Marc Riera" creationdate="20221210T171545Z">
+        <seg>Les noves memòries de traducció col·locades en la carpeta &lt;l0/&gt; durant la traducció es carreguen automàticament tan aviat com el cursor canvia d'un segment a un altre.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>New users of OmegaT are encouraged to make any suggestions here.</seg>
@@ -20680,6 +20704,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T230600Z" creationid="Marc Riera" creationdate="20201129T230600Z">
         <seg>Crea...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T170209Z" creationid="Marc Riera" creationdate="20221210T170209Z">
+        <seg>Crea... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22591,6 +22623,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T170157Z" creationid="Marc Riera" creationdate="20221210T170157Z">
+        <seg>Windows i Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;Maj&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215822Z" creationid="Marc Riera" creationdate="20221207T215822Z">
@@ -23067,6 +23107,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T230617Z" creationid="Marc Riera" creationdate="20201129T230617Z">
         <seg>Obre...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;O&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T170217Z" creationid="Marc Riera" creationdate="20221210T170217Z">
+        <seg>Obre... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;O&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23751,8 +23799,8 @@ s'esvaeix com la boira.</seg>
       <tuv lang="en">
         <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T222940Z" creationid="Marc Riera" creationdate="20201003T222940Z">
-        <seg>Realitza una neteja de l'SVN en el projecte actual o en qualsevol dipòsit de l'SVN local</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T170338Z" creationid="Marc Riera" creationdate="20201003T222940Z">
+        <seg>Fa una neteja de l'SVN en el projecte actual o en qualsevol dipòsit de l'SVN local</seg>
       </tuv>
     </tu>
     <tu>
@@ -25486,6 +25534,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161303Z" creationid="Packard Bell" creationdate="20150605T161303Z">
         <seg>Torna a carregar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reload &lt;k0&gt;&lt;k1&gt;F5&lt;/k1&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T170423Z" creationid="Marc Riera" creationdate="20221210T170423Z">
+        <seg>Torna a carregar &lt;k0&gt;&lt;k1&gt;F5&lt;/k1&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36052,6 +36108,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T084023Z" creationid="mgalo" creationdate="20181108T151506Z">
         <seg>Utilitza la &amp;lematització per a les entrades del glossari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;g0&gt;Clear Menu&lt;/g0&gt; function to delete the list of recent projects.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T170255Z" creationid="Marc Riera" creationdate="20221210T170255Z">
+        <seg>Utilitzeu la funció &lt;g0&gt;Esborra el menú&lt;/g0&gt; per a suprimir la llista de projectes recents.</seg>
       </tuv>
     </tu>
     <tu>
