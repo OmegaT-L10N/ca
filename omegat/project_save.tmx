@@ -26305,6 +26305,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Rename the current &lt;f0&gt;project_save.tmx &lt;/f0&gt;file (to &lt;f1&gt;project_save.tmx.tmp&lt;/f1&gt;, for example).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T195308Z" creationid="Marc Riera" creationdate="20221210T195308Z">
+        <seg>Canvieu el nom del fitxer &lt;f0&gt;project_save.tmx&lt;/f0&gt; actual (a &lt;f1&gt;project_save.tmx.tmp&lt;/f1&gt;, per exemple).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Reopen the project now?</seg>
@@ -28697,6 +28705,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T232106Z" creationid="Marc Riera" creationdate="20191110T232106Z">
         <seg>Seleccioneu el fitxer languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the backup translation memory most likely to contain the data you are looking for.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T195344Z" creationid="Marc Riera" creationdate="20221210T195344Z">
+        <seg>Seleccioneu la còpia de seguretat de la memòria de traducció que amb més probabilitat contingui les dades que cerqueu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33770,6 +33786,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230602Z" creationid="Marc Riera" creationdate="20191112T230602Z">
         <seg>Sembla que l'URL no és vàlid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This action will restore the status of the translation to the moment on which the selected backup was created.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T195353Z" creationid="Marc Riera" creationdate="20221210T195353Z">
+        <seg>Aquesta acció restaurarà l'estat de la traducció al moment en què es va crear la còpia de seguretat seleccionada.</seg>
       </tuv>
     </tu>
     <tu>
