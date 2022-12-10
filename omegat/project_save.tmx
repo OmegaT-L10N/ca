@@ -3287,6 +3287,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201841Z" creationid="Marc Riera" creationdate="20221210T201841Z">
+        <seg>&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;&amp;br&gt; (breaks)</seg>
@@ -8247,6 +8255,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T173541Z" creationid="Marc Riera" creationdate="20191110T223033Z">
         <seg>L'ordre no té la destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command line launch</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201855Z" creationid="Marc Riera" creationdate="20221210T201855Z">
+        <seg>Inici des de la línia d'ordres</seg>
       </tuv>
     </tu>
     <tu>
@@ -27213,6 +27229,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run OmegaT</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201832Z" creationid="Marc Riera" creationdate="20221210T201832Z">
+        <seg>Execució de l'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run OmegaT" in the user guide.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T171432Z" creationid="Marc Riera" creationdate="20221117T171432Z">
@@ -29361,6 +29385,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151526Z" creationid="Marc Riera" creationdate="20190924T143804Z">
         <seg>Script senzill de cerca i substitució</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simplified Overview</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201909Z" creationid="Marc Riera" creationdate="20221210T201909Z">
+        <seg>Informació general simplificada</seg>
       </tuv>
     </tu>
     <tu>
