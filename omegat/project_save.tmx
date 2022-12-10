@@ -8908,6 +8908,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy one of the old files into the new configuration folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201057Z" creationid="Marc Riera" creationdate="20221210T201057Z">
+        <seg>Copieu un dels fitxers originals a la carpeta de configuració nova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the contents of the various user folders to their equivalent in the new project (source files, reference translation memory files, glossary files).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200256Z" creationid="Marc Riera" creationdate="20221210T200256Z">
@@ -15585,6 +15593,22 @@ no cal introduir el camí complet.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155505Z" creationid="Marc Riera" creationdate="20221201T155505Z">
         <seg>Si l'OmegaT té cap comportament estrany, incloeu aquest fitxer o la part rellevant en l'informe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If OmegaT does not work as expected at this point, feel free to reach out for support.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201135Z" creationid="Marc Riera" creationdate="20221210T201032Z">
+        <seg>Si l'OmegaT no funciona com esperàveu en aquest punt, no dubteu a demanar ajuda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If OmegaT does not work as expected at this point, you have identified the faulty file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201127Z" creationid="Marc Riera" creationdate="20221210T201127Z">
+        <seg>Si l'OmegaT no funciona com esperàveu en aquest punt, heu identificat el fitxer problemàtic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25944,6 +25968,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Regularly “practice emergency” measures such as restoring translations from a project, to make sure you won’t lose too much time the day you need to use those skills.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201823Z" creationid="Marc Riera" creationdate="20221210T201823Z">
+        <seg>Feu «pràctiques d'emergència» periòdicament, com ara restaurar les traduccions d'un projecte, per a assegurar-vos que no perdeu massa temps si us trobeu en una situació així.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Reload</seg>
@@ -26263,6 +26295,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T230406Z" creationid="Marc Riera" creationdate="20201003T230406Z">
         <seg>Suprimeix els fragments definits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove it from the configuration folder and proceed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201147Z" creationid="Marc Riera" creationdate="20221210T201147Z">
+        <seg>Suprimiu-lo de la carpeta de configuració i procediu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34755,6 +34795,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215949Z" creationid="Marc Riera" creationdate="20221207T215949Z">
         <seg>Per a assignar un número a un script:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To avoid losing important data, make regular copies of the file &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; to a backup media, such as a USB key or an external hard drive, or to a cloud service.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201345Z" creationid="Marc Riera" creationdate="20221210T201345Z">
+        <seg>Per a evitar perdre dades importants, feu còpies periòdiques del fitxer &lt;f0&gt;omegat/project_save.tmx&lt;/f0&gt; a un dispositiu de còpia de seguretat, com una unitat USB, un disc dur extern o un servei en el núvol.</seg>
       </tuv>
     </tu>
     <tu>
