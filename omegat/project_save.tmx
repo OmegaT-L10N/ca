@@ -5402,6 +5402,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also remember not modifying the project configuration or adding TMX files on the meantime, as that may affect the results.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T195513Z" creationid="Marc Riera" creationdate="20221210T195513Z">
+        <seg>Recordeu també no modificar la configuració del projecte ni afegir fitxers TMX durant el procés, ja que pot afectar els resultats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Enter&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220714Z" creationid="Marc Riera" creationdate="20221204T220714Z">
@@ -6448,6 +6456,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T141114Z" creationid="Marc Riera" creationdate="20201125T141114Z">
         <seg>Segons la vostra selecció, us recomanem que utilitzeu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Be cautious about making changes to the files in the source folder, to the segmentation rules, or to the file filters, partway through a project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T195803Z" creationid="Marc Riera" creationdate="20221210T195803Z">
+        <seg>Aneu amb compte si apliqueu canvis als fitxers de la carpeta «source», a les regles de segmentació o als filtres de fitxers al llarg d'un projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16594,6 +16610,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>In rare cases where your computer freezes and OmegaT does not have the time to properly close, some important files can be broken and keep your project from reopening after you have rebooted your machine.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200144Z" creationid="Marc Riera" creationdate="20221210T200144Z">
+        <seg>En casos poc habituals en què l'ordinador es bloquegi i l'OmegaT no tingui temps de tancar-se de manera adequada, alguns fitxers importants poden quedar trencats i impedir que es pugui tornar a obrir el projecte després de reiniciar l'ordinador.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>In so&amp;urce</seg>
@@ -18063,6 +18087,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220808Z" creationid="Marc Riera" creationdate="20221124T220759Z">
         <seg>Conserva la meva versió</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep an eye on safely storing all the different files you are renaming for eventual reuse.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T195441Z" creationid="Marc Riera" creationdate="20221210T195441Z">
+        <seg>Assegureu-vos d'emmagatzemar amb seguretat els diferents fitxers amb el nom canviat en cas que els hàgiu de reutilitzar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20346,6 +20378,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T083055Z" creationid="Marc Riera" creationdate="20221205T083055Z">
         <seg>Modificació d'una drecera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modifying either after you have started your translation could result in some segments not being displayed anymore, or unexpected new segments appearing instead.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T195845Z" creationid="Marc Riera" creationdate="20221210T195845Z">
+        <seg>Les modificacions després de començar la traducció poden provocar que alguns segments deixin de mostrar-se o que apareguin segments nous de manera inesperada.</seg>
       </tuv>
     </tu>
     <tu>
