@@ -9706,6 +9706,22 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Current Source File</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T181552Z" creationid="Marc Riera" creationdate="20221210T181552Z">
+        <seg>Fitxer d'origen actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current Target File</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T181556Z" creationid="Marc Riera" creationdate="20221210T181556Z">
+        <seg>Fitxer de destinació actual</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
@@ -12695,6 +12711,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220824T080230Z" creationid="Marc Riera" creationdate="20220824T080230Z">
         <seg>La carpeta de memòries de traducció exportades {0} no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exported TMs</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T181548Z" creationid="Marc Riera" creationdate="20221210T181548Z">
+        <seg>Memòries de traducció exportades</seg>
       </tuv>
     </tu>
     <tu>
@@ -16399,8 +16423,8 @@ feu doble clic en la drecera.</seg>
       <tuv lang="en">
         <seg>In addition, there are three menu entries that directly open the current source or target files, or the writable glossary.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T181518Z" creationid="Marc Riera" creationdate="20221210T181518Z">
-        <seg>A més, hi ha tres entrades del menú que permeten obrir directament el fitxer d'origen o de destinació actual, o bé el glossari modificable.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T181700Z" creationid="Marc Riera" creationdate="20221210T181518Z">
+        <seg>A més, hi ha tres entrades del menú que obren directament el fitxer d'origen o de destinació actual, o bé el glossari modificable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23356,6 +23380,22 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the file in its associated application if it exists.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T181720Z" creationid="Marc Riera" creationdate="20221210T181720Z">
+        <seg>Obre el fitxer amb l'aplicació associada si existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the file in its associated applicationif it exists.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T181646Z" creationid="Marc Riera" creationdate="20221210T181646Z">
+        <seg>Obre el fitxer amb l'aplicació associada si existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the folder in your file management application</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T174300Z" creationid="Marc Riera" creationdate="20221210T174300Z">
@@ -25381,6 +25421,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161315Z" creationid="Packard Bell" creationdate="20150605T161315Z">
         <seg>Surt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quit &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Q&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T181745Z" creationid="Marc Riera" creationdate="20221210T181745Z">
+        <seg>Surt &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Q&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31659,6 +31707,22 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The current source file is located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T181713Z" creationid="Marc Riera" creationdate="20221210T181713Z">
+        <seg>El fitxer d'origen actual és en la carpeta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The current target file is located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T181729Z" creationid="Marc Riera" creationdate="20221210T181729Z">
+        <seg>El fitxer de destinació actual és en la carpeta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The data is also saved as a text file in &lt;l0/&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T220211Z" creationid="Marc Riera" creationdate="20221207T220211Z">
@@ -33025,6 +33089,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T121558Z" creationid="Marc Riera" creationdate="20221206T121558Z">
         <seg>El glossari modificable és el fitxer que l'OmegaT utilitza quan afegiu termes del glossari traduïts al projecte amb &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The writable glossary is located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T181632Z" creationid="Marc Riera" creationdate="20221210T181632Z">
+        <seg>El glossari d'escriptura és en la carpeta &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35317,6 +35389,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T093117Z" creationid="Marc Riera" creationdate="20221205T093112Z">
         <seg>Els traductors no han de &lt;e0&gt;crear&lt;/e0&gt; una memòria de traducció ni &lt;e1&gt;associar-ne&lt;/e1&gt; una a un projecte nou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Troubleshoot issues</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T181825Z" creationid="Marc Riera" creationdate="20221210T181825Z">
+        <seg>Resolució de problemes</seg>
       </tuv>
     </tu>
     <tu>
@@ -37743,6 +37823,14 @@ no s'ha trobat la pàgina.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Writable Glossary</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T181622Z" creationid="Marc Riera" creationdate="20221210T181622Z">
+        <seg>Glossari modificable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Writable Glossary File</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190454Z" creationid="Marc Riera" creationdate="20221124T190454Z">
@@ -38040,6 +38128,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201121T121140Z" creationid="Alexandra" creationdate="20150526T132605Z">
         <seg>També sou lliure de copiar-lo i enviar-lo a altres persones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are asked to confirm that you really want to quit if you have not yet saved the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T181736Z" creationid="Marc Riera" creationdate="20221210T181736Z">
+        <seg>Se us demana que confirmeu que voleu sortir si encara no heu desat el projecte.</seg>
       </tuv>
     </tu>
     <tu>
