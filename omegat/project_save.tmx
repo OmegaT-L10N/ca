@@ -16165,6 +16165,14 @@ extensions dels fitxers.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you can’t use OmegaT’s menus, see &lt;l0/&gt; to find the configuration folder location.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200906Z" creationid="Marc Riera" creationdate="20221210T200906Z">
+        <seg>Si no podeu utilitzar els menús de l'OmegaT, utilitzeu &lt;l0/&gt; per a trobar la ubicació de la carpeta de configuració.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you change the segmentation while translating, you will have to reload the project for the new segmentation to take effect.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T185542Z" creationid="Marc Riera" creationdate="20221203T185542Z">
@@ -33854,6 +33862,22 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This action will fix the internal tag consistency issues that might have been induced by not properly inserting the tags in the translation while in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200718Z" creationid="Marc Riera" creationdate="20221210T200718Z">
+        <seg>Aquesta acció corregirà els errors interns de coherència de les etiquetes, que poden tenir l'origen en no inserir correctament les etiquetes en la traducció amb l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This action will restore in the new project the status of the translation to the moment on which the selected project translation memory was created in the old project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200556Z" creationid="Marc Riera" creationdate="20221210T200556Z">
+        <seg>Aquesta acció restaurarà l'estat de la traducció en el projecte noi al moment en què es va crear la memòria de traducció del projecte seleccionada en el projecte antic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This action will restore the status of the translation to the moment on which the selected backup was created.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T195353Z" creationid="Marc Riera" creationdate="20221210T195353Z">
@@ -36776,6 +36800,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; from the &lt;l1/&gt; menu to access the configuration folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200840Z" creationid="Marc Riera" creationdate="20221210T200840Z">
+        <seg>Utilitzeu &lt;l0/&gt; en el menú &lt;l1/&gt; per a accedir a la carpeta de configuració.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; in the &lt;l1/&gt; menu to open the dialog.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T105435Z" creationid="Marc Riera" creationdate="20221206T105435Z">
@@ -37432,6 +37464,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Very often, office suite files contain tags that must be copied into the translation to ensure that the translated file can be opened in the original application.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200622Z" creationid="Marc Riera" creationdate="20221210T200622Z">
+        <seg>Molt sovint, els fitxers d'ofimàtica contenen etiquetes que s'han de copiar a la traducció per a assegurar que el fitxer traduït es pugui obrir amb l'aplicació original.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Video 1</seg>
@@ -37672,6 +37712,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180212T222717Z" creationid="Marc Riera" creationdate="20180212T222717Z">
         <seg>Què és l'OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whatever you try, you can’t seem to be able to fix it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200742Z" creationid="Marc Riera" creationdate="20221210T200742Z">
+        <seg>Independentment del que proveu, no trobeu la manera de solucionar-ho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39103,6 +39151,14 @@ d'una finestra del Finder per a poder-la executar des de qualsevol lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T121400Z" creationid="Marc Riera" creationdate="20180214T223223Z">
         <seg>Especifiqueu-ne la ubicació nova o torneu-les a crear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You want to try one last thing before calling for help: restart OmegaT with its default settings.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200822Z" creationid="Marc Riera" creationdate="20221210T200822Z">
+        <seg>Voleu intentar una darrera possibilitat abans de demanar ajuda: reiniciar l'OmegaT amb els paràmetres per defecte.</seg>
       </tuv>
     </tu>
     <tu>
