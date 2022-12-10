@@ -22079,6 +22079,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT creates a backup with the name &lt;f0&gt;project_save.tmx.bak&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T192908Z" creationid="Marc Riera" creationdate="20221210T192908Z">
+        <seg>L'OmegaT crea una còpia de seguretat amb el nom &lt;f0&gt;project_save.tmx.bak&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
@@ -31608,6 +31616,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The backup filename follows the pattern &lt;f0&gt;project_save.tmx.YYYYMMDDhhmm.bak&lt;/f0&gt; where &lt;c1&gt;YYYY&lt;/c1&gt; represents the 4-digit year, &lt;c2&gt;MM&lt;/c2&gt; the month, &lt;c3&gt;DD&lt;/c3&gt; the day of the month, and &lt;c4&gt;hh&lt;/c4&gt; and &lt;c5&gt;mm&lt;/c5&gt; indicate the hours and minutes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T192746Z" creationid="Marc Riera" creationdate="20221210T192746Z">
+        <seg>El nom dels fitxers de còpia de seguretat segueix el patró &lt;f0&gt;project_save.tmx.AAAAMMDDhhmm.bak&lt;/f0&gt;, on &lt;c1&gt;AAAA&lt;/c1&gt; representa l'any en 4 dígits, &lt;c2&gt;MM&lt;/c2&gt; el mes, &lt;c3&gt;DD&lt;/c3&gt; el dia del mes i &lt;c4&gt;hh&lt;/c4&gt; i &lt;c5&gt;mm&lt;/c5&gt; indiquen l'hora i els minuts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The beginning of a line</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113553Z" creationid="Marc Riera" creationdate="20221129T113553Z">
@@ -40656,6 +40672,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>either after using &lt;l0/&gt;,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T192809Z" creationid="Marc Riera" creationdate="20221210T192809Z">
+        <seg>Després d'utilitzar &lt;l0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>en</seg>
@@ -42582,6 +42606,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220612T201245Z" creationid="Marc Riera" creationdate="20220612T201245Z">
         <seg>optionsWorkflowMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or as a regular backup every 3 minutes by default,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T192823Z" creationid="Marc Riera" creationdate="20221210T192823Z">
+        <seg>Com a còpia de seguretat periòdica, cada 3 minuts per defecte</seg>
       </tuv>
     </tu>
     <tu>
