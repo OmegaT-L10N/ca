@@ -8900,6 +8900,22 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy it to the &lt;f0&gt;omegat/&lt;/f0&gt; folder of your new project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200505Z" creationid="Marc Riera" creationdate="20221210T200505Z">
+        <seg>Copieu-la a la carpeta &lt;f0&gt;omegat/&lt;/f0&gt; del projecte nou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the contents of the various user folders to their equivalent in the new project (source files, reference translation memory files, glossary files).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200256Z" creationid="Marc Riera" creationdate="20221210T200256Z">
+        <seg>Copieu el contingut de les diferents carpetes d'usuari a l'equivalent en el projecte nou (fitxers d'origen, fitxers de memòria de traducció de referència, fitxers de glossari).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the folder to a suitable location (e.g. &lt;f3&gt;Applications&lt;/f3&gt;).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202312Z" creationid="Marc Riera" creationdate="20221206T202312Z">
@@ -9203,8 +9219,8 @@ si cal fer res més.</seg>
       <tuv lang="en">
         <seg>Create a new project with the same settings.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T194203Z" creationid="Marc Riera" creationdate="20221210T194203Z">
-        <seg>Creeu un projecte amb els mateixos paràmetres.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200259Z" creationid="Marc Riera" creationdate="20221210T194203Z">
+        <seg>Creeu un projecte nou amb els mateixos paràmetres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16690,6 +16706,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164304Z" creationid="Marc Riera" creationdate="20220625T164304Z">
         <seg>En el cas anterior, els segments ja traduïts es mostren de color groc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the old project, select the translation memory (backup or not) most likely to contain the data you are looking for.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200339Z" creationid="Marc Riera" creationdate="20221210T200339Z">
+        <seg>En el projecte original, seleccioneu la memòria de traducció (còpia de seguretat o no) amb més probabilitat de contenir les dades que cerqueu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28751,8 +28775,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Select the backup translation memory most likely to contain the data you are looking for.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T195344Z" creationid="Marc Riera" creationdate="20221210T195344Z">
-        <seg>Seleccioneu la còpia de seguretat de la memòria de traducció que amb més probabilitat contingui les dades que cerqueu.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200351Z" creationid="Marc Riera" creationdate="20221210T195344Z">
+        <seg>Seleccioneu la còpia de seguretat de la memòria de traducció amb més probabilitat de contenir les dades que cerqueu.</seg>
       </tuv>
     </tu>
     <tu>
