@@ -6204,6 +6204,14 @@ inesperat però correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatic backups</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T191233Z" creationid="Marc Riera" creationdate="20221210T191233Z">
+        <seg>Còpies de seguretat automàtiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatic saving</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212357Z" creationid="Marc Riera" creationdate="20201130T212357Z">
@@ -21962,6 +21970,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT also creates regular backups of that file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T191242Z" creationid="Marc Riera" creationdate="20221210T191242Z">
+        <seg>L'OmegaT també crea còpies de seguretat periòdiques d'aquest fitxer.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on SourceForge:</seg>
@@ -22476,6 +22492,14 @@ està a punt per a executar-se.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200123T221521Z" creationid="Marc Riera" creationdate="20180210T212957Z">
         <seg>L'OmegaT no té prou memòria i es tancarà quan feu clic a «D'acord».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT regularly and automatically stores all your progress in the &lt;l0/&gt; file located in the project’s &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T191315Z" creationid="Marc Riera" creationdate="20221210T191315Z">
+        <seg>L'OmegaT emmagatzema de manera periòdica i automàtica tot el progrés en el fitxer &lt;l0/&gt; de la carpeta &lt;l1/&gt; del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37468,6 +37492,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164355Z" creationid="Marc Riera" creationdate="20220625T164355Z">
         <seg>Quan us desplaceu a un altre segment, la traducció es valida i s'emmagatzema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you open a project, OmegaT backs &lt;f0&gt;project_save.tmx&lt;/f0&gt; up into a timestamped backup file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T191400Z" creationid="Marc Riera" creationdate="20221210T191400Z">
+        <seg>Quan obriu un projecte, l'OmegaT crea una còpia del fitxer &lt;f0&gt;project_save.tmx&lt;/f0&gt; en un fitxer de còpia de seguretat amb una marca de temps.</seg>
       </tuv>
     </tu>
     <tu>
