@@ -3522,6 +3522,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Use this function only if the team project manager requested so&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T172931Z" creationid="Marc Riera" creationdate="20221210T172931Z">
+        <seg>&lt;e0&gt;Utilitzeu aquesta funció només si el gestor del projecte en equip us ho ha demanat&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Allow blank translations in the target file&lt;/g0&gt;:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224454Z" creationid="Marc Riera" creationdate="20220130T224454Z">
@@ -9110,6 +9118,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Create Translated Files &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;D&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T173006Z" creationid="Marc Riera" creationdate="20221210T173006Z">
+        <seg>Crea els fitxers traduïts &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;D&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Create a New Project</seg>
@@ -9227,6 +9243,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161442Z" creationid="Marc Riera" creationdate="20220625T161442Z">
         <seg>Crea els documents de destinació a partir de la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creates the target files based on your translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T173016Z" creationid="Marc Riera" creationdate="20221210T173016Z">
+        <seg>Crea els fitxers de destinació a partir de la traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31494,6 +31518,14 @@ en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The created target files are located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T173025Z" creationid="Marc Riera" creationdate="20221210T173025Z">
+        <seg>Els fitxers de destinació creats es troben en la carpeta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The current folder will be used
@@ -35973,6 +36005,22 @@ Versió nova: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uploads locally added or modified files in the &lt;f0&gt;source&lt;/f0&gt; folder to the team project repository.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T172904Z" creationid="Marc Riera" creationdate="20221210T172904Z">
+        <seg>Puja els fitxers afegits o modificats localment de la carpeta &lt;f0&gt;source&lt;/f0&gt; al dipòsit del projecte en equip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uploads locally created in the &lt;l0/&gt; folder to the team project repository.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T172956Z" creationid="Marc Riera" creationdate="20221210T172956Z">
+        <seg>Puja els fitxers creats localment de la carpeta &lt;l0/&gt; al dipòsit del projecte en equip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uploads to the repository the files that have been added or modified locally in the &lt;f0&gt;source&lt;/f0&gt; folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161413Z" creationid="Marc Riera" creationdate="20220625T161413Z">
@@ -38078,6 +38126,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T112159Z" creationid="Marc Riera" creationdate="20221129T112159Z">
         <seg>Sempre podeu accedir-hi directament des de &lt;l0/&gt; en el menú &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can block target file creation if tag issues are found.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T173038Z" creationid="Marc Riera" creationdate="20221210T173038Z">
+        <seg>Podeu blocar la creació dels fitxers de destinació si hi ha errors d'etiquetes.</seg>
       </tuv>
     </tu>
     <tu>
