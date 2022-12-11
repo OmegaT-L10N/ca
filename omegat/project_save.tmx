@@ -6211,6 +6211,14 @@ inesperat però correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Association</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131556Z" creationid="Marc Riera" creationdate="20221211T131556Z">
+        <seg>Associació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the bottom of the window, right-click on an unassigned number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221621Z" creationid="Marc Riera" creationdate="20221208T221621Z">
@@ -13691,6 +13699,14 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>File filters have a list of file extensions that are associated to them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131602Z" creationid="Marc Riera" creationdate="20221211T131602Z">
+        <seg>Els filtres de fitxers tenen una llista d'extensions de fitxers associades.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>File format</seg>
@@ -16676,6 +16692,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you need to support formats that are not covered by OmegaT, there are four ways to do that:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132318Z" creationid="Marc Riera" creationdate="20221211T132318Z">
+        <seg>Si necessiteu la compatibilitat amb formats que l'OmegaT no admet, teniu quatre maneres de fer-ho:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you performed a manual installation on Linux, you will have to manually delete the OmegaT folders in &lt;f0&gt;opt/&lt;/f0&gt;, as well as the symlinks placed in &lt;f1&gt;/usr/local/bin/&lt;/f1&gt; by the installation script.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T121243Z" creationid="Marc Riera" creationdate="20221209T121243Z">
@@ -19252,10 +19276,18 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>License: Apache License Version 2.0</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131530Z" creationid="Marc Riera" creationdate="20221211T131530Z">
+        <seg>Llicència: llicència Apache, versió 2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>License: GNU General Public License v3+</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131159Z" creationid="Marc Riera" creationdate="20221211T131159Z">
-        <seg>Llicència: Llicència Pública General GNU v3+</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131548Z" creationid="Marc Riera" creationdate="20221211T131159Z">
+        <seg>Llicència: Llicència Pública General GNU, versió 3 o posterior</seg>
       </tuv>
     </tu>
     <tu>
@@ -23365,6 +23397,14 @@ la carpeta d'inici.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT's file filters provide a wide range of support for common and less common file formats.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132240Z" creationid="Marc Riera" creationdate="20221211T132240Z">
+        <seg>Els filtres de fitxers de l'OmegaT proporcionen compatibilitat amb una àmplia varietat de formats de fitxers habituals i menys habituals.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
@@ -23957,6 +23997,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200121T221651Z" creationid="Marc Riera" creationdate="20180214T224447Z">
         <seg>Opcions del filtre OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenXLIFF from &lt;u0&gt;Maxprograms&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131342Z" creationid="Marc Riera" creationdate="20221211T131342Z">
+        <seg>OpenXLIFF de &lt;u0&gt;Maxprograms&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26208,6 +26256,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T084628Z" creationid="Marc Riera" creationdate="20221205T084628Z">
         <seg>RIGHT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rainbow, from the &lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131516Z" creationid="Marc Riera" creationdate="20221211T131516Z">
+        <seg>Rainbow, component d'&lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28695,6 +28751,22 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;List of file filters&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131500Z" creationid="Marc Riera" creationdate="20221211T131500Z">
+        <seg>Consulteu &lt;u0&gt;Llista de filtres de fitxers&lt;/u0&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;OpenXLIFF Filters&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131402Z" creationid="Marc Riera" creationdate="20221211T131402Z">
+        <seg>Consulteu &lt;u0&gt;Filtres OpenXLIFF&lt;/u0&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Plugins&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131209Z" creationid="Marc Riera" creationdate="20221211T131209Z">
@@ -31153,6 +31225,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T150351Z" creationid="Alexandra" creationdate="20150526T102532Z">
         <seg>Compatibilitat amb llengües amb escriptura de dreta a esquerra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Support other formats</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131614Z" creationid="Marc Riera" creationdate="20221211T131614Z">
+        <seg>Compatibilitat amb altres formats</seg>
       </tuv>
     </tu>
     <tu>
@@ -40959,6 +41039,14 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>by associating the format to an already supported format,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132326Z" creationid="Marc Riera" creationdate="20221211T132326Z">
+        <seg>Associeu el format a un format ja compatible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>c</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113109Z" creationid="Marc Riera" creationdate="20221129T113109Z">
@@ -42396,6 +42484,22 @@ for (i in 0 ..&lt; files.size())
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/commands/index.html</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131429Z" creationid="Marc Riera" creationdate="20221211T131429Z">
+        <seg>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/commands/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/index.html</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131427Z" creationid="Marc Riera" creationdate="20221211T131427Z">
+        <seg>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html</seg>
@@ -42635,6 +42739,30 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://maxprograms.com/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131330Z" creationid="Marc Riera" creationdate="20221211T131330Z">
+        <seg>https://maxprograms.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://maxprograms.com/products/openxliff.html</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131343Z" creationid="Marc Riera" creationdate="20221211T131343Z">
+        <seg>https://maxprograms.com/products/openxliff.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://maxprograms.com/products/xliffmanager.html</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131345Z" creationid="Marc Riera" creationdate="20221211T131345Z">
+        <seg>https://maxprograms.com/products/xliffmanager.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://okapiframework.org</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131231Z" creationid="Marc Riera" creationdate="20221211T131231Z">
@@ -42647,6 +42775,22 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131229Z" creationid="Marc Riera" creationdate="20221211T131229Z">
         <seg>https://okapiframework.org/wiki/index.php/Okapi_Filters_Plugin_for_OmegaT#Filters_Included</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://okapiframework.org/wiki/index.php/Rainbow_TKit_-_OmegaT_Project</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131443Z" creationid="Marc Riera" creationdate="20221211T131443Z">
+        <seg>https://okapiframework.org/wiki/index.php/Rainbow_TKit_-_OmegaT_Project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://okapiframework.org/wiki/index.php?title=Filters</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131503Z" creationid="Marc Riera" creationdate="20221211T131503Z">
+        <seg>https://okapiframework.org/wiki/index.php?title=Filters</seg>
       </tuv>
     </tu>
     <tu>
@@ -42709,6 +42853,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230900Z" creationid="Marc Riera" creationdate="20200122T230900Z">
         <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://po4a.org</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131436Z" creationid="Marc Riera" creationdate="20221211T131436Z">
+        <seg>https://po4a.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -44006,6 +44158,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T112044Z" creationid="Marc Riera" creationdate="20221129T112044Z">
         <seg>plugins/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>po4a</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131437Z" creationid="Marc Riera" creationdate="20221211T131437Z">
+        <seg>po4a</seg>
       </tuv>
     </tu>
     <tu>
