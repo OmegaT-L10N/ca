@@ -5202,6 +5202,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>After you generate the target files, and if the project administrator requests so, you can use the &lt;l0/&gt; command to add them to the server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T142043Z" creationid="Marc Riera" creationdate="20221211T142043Z">
+        <seg>Després de generar els fitxers de destinació, si el gestor del projecte us ho demana, podeu utilitzar l'ordre &lt;l0/&gt; per a afegir-los al servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
@@ -5407,6 +5415,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223655Z" creationid="Marc Riera" creationdate="20201003T223655Z">
         <seg>Tots els fitxers DOCX del projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All changes will be synchronized the next time a connection is available.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T141553Z" creationid="Marc Riera" creationdate="20221211T141553Z">
+        <seg>Tots els canvis se sincronitzaran la pròxima vegada que hi hagi una connexió disponible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10448,6 +10464,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deleting files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T141503Z" creationid="Marc Riera" creationdate="20221211T141503Z">
+        <seg>Supressió de fitxers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Deleting source files</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212435Z" creationid="Marc Riera" creationdate="20201130T212435Z">
@@ -10858,6 +10882,14 @@ si cal fer res més.</seg>
         <seg>Disconnect from the network before opening the project,</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212631Z" creationid="Marc Riera" creationdate="20201130T212631Z">
+        <seg>Desconnecteu-vos de la xarxa abans d'obrir el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disconnect from the network before opening the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T141514Z" creationid="Marc Riera" creationdate="20221211T141514Z">
         <seg>Desconnecteu-vos de la xarxa abans d'obrir el projecte.</seg>
       </tuv>
     </tu>
@@ -13841,6 +13873,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120532Z" creationid="Alexandra" creationdate="20150526T102658Z">
         <seg>Els fitxers en format XML del Microsoft Office es poden traduir directament en l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Files in a team project cannot be deleted from OmegaT or the local file system.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T142015Z" creationid="Marc Riera" creationdate="20221211T142015Z">
+        <seg>Els fitxers d'un projecte en equip no es poden suprimir de l'OmegaT ni del sistema de fitxers local.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24108,6 +24148,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the project from the command line with the &lt;p0&gt;--no-team&lt;/p0&gt; option.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T141525Z" creationid="Marc Riera" creationdate="20221211T141525Z">
+        <seg>Obriu el projecte des de la línia d'ordres amb l'opció &lt;p0&gt;--no-team&lt;/p0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the project in OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T194255Z" creationid="Marc Riera" creationdate="20221210T194255Z">
@@ -26862,6 +26910,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112638Z" creationid="Marc Riera" creationdate="20180221T112638Z">
         <seg>Restants:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remember that any modifications to the local project configuration files will be overwritten by the versions on the server when the project is synchronized.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T142145Z" creationid="Marc Riera" creationdate="20221211T142145Z">
+        <seg>Recordeu que qualsevol modificació dels fitxers de configuració del projecte locals se sobreescriurà per les versions del servidor quan se sincronitzi el projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30328,6 +30384,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since synchronization takes place by default every 3 minutes, project members will sometime translate or modify a segment that was already translated by another member but not synchronized yet.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T142535Z" creationid="Marc Riera" creationdate="20221211T142535Z">
+        <seg>Com que, per defecte, el projecte se sincronitza cada 3 minuts, de vegades els membres del projecte traduiran o modificaran un segment traduït per un altre membre però que encara no s'havia sincronitzat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since the first few pages have not changed, the translator is greeted with a screenful of already translated segments from the previous job's memory upon opening the project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T082028Z" creationid="Marc Riera" creationdate="20221205T082028Z">
@@ -32061,6 +32125,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Target files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T141457Z" creationid="Marc Riera" creationdate="20221211T141457Z">
+        <seg>Fitxers de destinació</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Target files committed</seg>
@@ -32567,6 +32639,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; command should only be used by the project administrator.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T142201Z" creationid="Marc Riera" creationdate="20221211T142201Z">
+        <seg>Només el gestor del projecte ha d'utilitzar l'ordre &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; dialog opens next.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T093324Z" creationid="Marc Riera" creationdate="20221205T093324Z">
@@ -32972,6 +33052,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T192746Z" creationid="Marc Riera" creationdate="20221210T192746Z">
         <seg>El nom dels fitxers de còpia de seguretat segueix el patró &lt;f0&gt;project_save.tmx.AAAAMMDDhhmm.bak&lt;/f0&gt;, on &lt;c1&gt;AAAA&lt;/c1&gt; representa l'any en 4 dígits, &lt;c2&gt;MM&lt;/c2&gt; el mes, &lt;c3&gt;DD&lt;/c3&gt; el dia del mes i &lt;c4&gt;hh&lt;/c4&gt; i &lt;c5&gt;mm&lt;/c5&gt; indiquen l'hora i els minuts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The backup files are kept for a least ten days, and older backups are automatically deleted.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T142114Z" creationid="Marc Riera" creationdate="20221211T142114Z">
+        <seg>Els fitxers de còpia de seguretat es conserven durant un mínim de deu dies i les còpies de seguretat més antigues se suprimeixen automàticament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34755,6 +34843,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are two ways work offline:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T141506Z" creationid="Marc Riera" creationdate="20221211T141506Z">
+        <seg>Hi ha dues maneres de treballar fora de línia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There first is to call the dialog and then manually fill in the various fields.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214849Z" creationid="Marc Riera" creationdate="20221208T214849Z">
@@ -35008,6 +35104,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224803Z" creationid="Marc Riera" creationdate="20220130T224803Z">
         <seg>Apareixeran com a segments separats en la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They will be restored the next time the project is synchronized.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T142006Z" creationid="Marc Riera" creationdate="20221211T142006Z">
+        <seg>Es restauraran la pròxima vegada que se sincronitzi el projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35769,6 +35873,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164833Z" creationid="Marc Riera" creationdate="20220625T164833Z">
         <seg>Inicialment, aquesta subcarpeta està buida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This task is normally performed by the project administrator.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T142219Z" creationid="Marc Riera" creationdate="20221211T142219Z">
+        <seg>Aquesta tasca normalment la duu a terme el gestor del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40298,6 +40410,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T135211Z" creationid="Marc Riera" creationdate="20221206T135211Z">
         <seg>Podeu modificar l'estructura del projecte afegint o suprimint fitxers de les carpetes o, fins i tot, canviant les carpetes que utilitza el projecte, com vulgueu, fins i tot durant la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can open a team project and work on it offline.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T141603Z" creationid="Marc Riera" creationdate="20221211T141603Z">
+        <seg>Podeu obrir un projecte en equip i treballar-hi fora de línia.</seg>
       </tuv>
     </tu>
     <tu>
