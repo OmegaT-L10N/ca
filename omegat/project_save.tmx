@@ -14186,6 +14186,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>For large jobs involving a team of translators, it is easier for everyone involved in sharing common translation memories rather than pass local versions back and forth.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T125247Z" creationid="Marc Riera" creationdate="20221211T125247Z">
+        <seg>En el cas de grans projectes que impliquin un equip de traductors, és més fàcil que tothom que hi estigui implicat comparteixi unes memòries de traducció comunes en comptes d'enviar-se versions locals constantment.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>For most users, these are not of interest.</seg>
@@ -30992,6 +31000,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Such matches are by default limited to the source and target languages defined in &lt;l1/&gt;, but you can also add matches in languages that are not the target language.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T125031Z" creationid="Marc Riera" creationdate="20221211T125031Z">
+        <seg>Per defecte, aquestes coincidències es limiten a les llengües d'origen i de destinació definides en l'apartat &lt;l1/&gt;, però també podeu afegir coincidències en llengües que no siguin la llengua de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Summary</seg>
@@ -32282,6 +32298,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The TMX files located in the &lt;l0/&gt; folder now contain only the original and translated text, in the selected language pair, of the files you copied into the source folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T125315Z" creationid="Marc Riera" creationdate="20221211T125315Z">
+        <seg>Els fitxers TMX de la carpeta &lt;l0/&gt; ara contenen només el text original i traduït, en el parell de llengües seleccionat, dels fitxers que heu copiat a la carpeta «source».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The TMX files will contain only the segments that correspond to the current contents of the &lt;l0/&gt; folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T122607Z" creationid="Marc Riera" creationdate="20221206T122607Z">
@@ -32773,6 +32797,14 @@ en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The first line is the original English, the second an old French version, the third the Japanese version, and the 4th the current translation to French.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T124431Z" creationid="Marc Riera" creationdate="20221211T124431Z">
+        <seg>La primera línia és el text original en anglès, la segona és una versió anterior en francès, la tercera és la versió en japonès i la quarta és la traducció actual al francès.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The first of these is the &lt;a0&gt;OmegaT user group&lt;/a0&gt;.</seg>
@@ -32920,6 +32952,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T191016Z" creationid="Marc Riera" creationdate="20221124T190904Z">
         <seg>La carpeta de fitxers de glossari no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The good enough way</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T125119Z" creationid="Marc Riera" creationdate="20221211T125119Z">
+        <seg>Mètode «prou bo»</seg>
       </tuv>
     </tu>
     <tu>
@@ -37448,6 +37488,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; to find any untranslated segments (and eventually translate them),</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T125332Z" creationid="Marc Riera" creationdate="20221211T125332Z">
+        <seg>Utilitzeu &lt;l0/&gt; per a cercar qualsevol segment sense traduir (i traduir-lo),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; to recreate the documents.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T194331Z" creationid="Marc Riera" creationdate="20221210T194331Z">
@@ -38737,6 +38785,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T134931Z" creationid="Marc Riera" creationdate="20201010T203906Z">
         <seg>Amb el JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With OmegaT, you can also display a third language &lt;e0&gt;right under&lt;/e0&gt; the source segment to use as an alternative language reference for the source text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T124952Z" creationid="Marc Riera" creationdate="20221211T124952Z">
+        <seg>Amb l'OmegaT, també podeu mostrar una tercera llengua &lt;e0&gt;just a sota&lt;/e0&gt; del segment d'origen per a utilitzar-la com a referència alternativa per al text d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40815,6 +40871,22 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212807Z" creationid="Marc Riera" creationdate="20201130T212807Z">
         <seg>Copieu els fitxers a la carpeta &lt;f0&gt;source&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>copy your "first-third" language translation memory there,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T124822Z" creationid="Marc Riera" creationdate="20221211T124822Z">
+        <seg>Copieu-hi la memòria de traducció entre la llengua d'origen del projecte i la llengua de referència.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>create a folder called &lt;f0&gt;tmx2source&lt;/f0&gt; in the &lt;l1/&gt; folder,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T124442Z" creationid="Marc Riera" creationdate="20221211T124442Z">
+        <seg>Creeu una carpeta anomenada &lt;f0&gt;tmx2source&lt;/f0&gt; en la carpeta &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44037,6 +44109,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T201818Z" creationid="Marc Riera" creationdate="20220621T201818Z">
         <seg>Expressions regulars</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>rename the memory &lt;f0&gt;LL_CC.tmx&lt;/f0&gt; or &lt;f1&gt;LL-CC.tmx&lt;/f1&gt;, where &lt;e2&gt;LL&lt;/e2&gt; is the internal language code that you want to display as reference and &lt;e3&gt;CC&lt;/e3&gt; is an arbitrary 2-letter code.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T124909Z" creationid="Marc Riera" creationdate="20221211T124909Z">
+        <seg>Canvieu el nom de la memòria a &lt;f0&gt;LL_CC.tmx&lt;/f0&gt; o &lt;f1&gt;LL-CC.tmx&lt;/f1&gt;. &lt;e2&gt;LL&lt;/e2&gt; és el codi de llengua intern que voleu mostrar com a referència i &lt;e3&gt;CC&lt;/e3&gt; és un codi arbitrari de dues lletres.</seg>
       </tuv>
     </tu>
     <tu>
