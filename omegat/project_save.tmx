@@ -11616,8 +11616,8 @@ si cal fer res més.</seg>
       <tuv lang="en">
         <seg>Download Team Project</seg>
       </tuv>
-      <tuv lang="ca" changeid="Stephanie" changedate="20150722T182317Z" creationid="Packard Bell" creationdate="20150529T110259Z">
-        <seg>Baixa un projecte en equip</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T142709Z" creationid="Packard Bell" creationdate="20150529T110259Z">
+        <seg>Baixada d'un projecte en equip</seg>
       </tuv>
     </tu>
     <tu>
@@ -11782,6 +11782,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T160723Z" creationid="Marc Riera" creationdate="20201125T160723Z">
         <seg>Durant la instal·lació, segons el vostre sistema operatiu, és possible que rebeu diversos avisos de seguretat.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>During synchronization, all the other local files are overwritten with the versions on the remote server, exept for &lt;f0&gt;omegat.project&lt;/f0&gt;, see below.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T143517Z" creationid="Marc Riera" creationdate="20221211T143517Z">
+        <seg>Durant la sincronització, la resta de fitxers locals se sobreescriuen amb les versions del servidor remot, excepte el fitxer&lt;f0&gt;omegat.project&lt;/f0&gt;; consulteu l'apartat següent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12372,6 +12380,14 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="Marc Riera" creationdate="20180212T221312Z">
         <seg>Escriviu un terme d'origen, un terme de destinació i un comentari:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the URL provided by the team project manager in the &lt;g0&gt;Repository URL:&lt;/g0&gt; field at the top of the dialog, and specify a folder for the project in the &lt;g1&gt;New Local Project Folder:&lt;/g1&gt; field.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T143041Z" creationid="Marc Riera" creationdate="20221211T143018Z">
+        <seg>Indiqueu l'URL proporcionat pel gestor del projecte en equip en el camp &lt;g0&gt;URL del dipòsit:&lt;/g0&gt; de la part superior del quadre de diàleg, i indiqueu una carpeta per al projecte en el camp &lt;g1&gt;Carpeta de projecte local nova&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16486,6 +16502,22 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the server relies on username/password authentication, OmegaT will present you with an &lt;g0&gt;Authentication&lt;/g0&gt; dialog to enter your username and password either when you first download the project or later on in the process.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T143318Z" creationid="Marc Riera" creationdate="20221211T143318Z">
+        <seg>Si el servidor depèn de l'autenticació amb nom d'usuari/contrasenya, l'OmegaT us presentarà un quadre de diàleg &lt;g0&gt;Autenticació&lt;/g0&gt; perquè indiqueu el nom d'usuari i la contrasenya quan baixeu el projecte per primera vegada, o més endavant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the server uses SSH authentication, make sure you update your SSH configuration to include that server before attempting to download the project, otherwise you will get an authentication error and the project will fail to load.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T143405Z" creationid="Marc Riera" creationdate="20221211T143405Z">
+        <seg>Si el servidor utilitza l'autenticació SSH, assegureu-vos d'actualitzar la configuració de l'SSH per a incloure aquest servidor abans d'intentar baixar el projecte; en cas contrari, obtindreu un error d'autenticació i el projecte no es carregarà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there are duplicated (non-unique) segments in the source documents, checking this option will set the first translated segment as the default translation and automatically use the same target text in the remaining repeated segments.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T132953Z" creationid="Marc Riera" creationdate="20221206T132953Z">
@@ -19225,6 +19257,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T190153Z" creationid="Marc Riera" creationdate="20221203T190153Z">
         <seg>Aprendre les dreceres més freqüents no us suposarà gaire temps quan comenceu a treballar amb l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Leave the &lt;g2&gt;Default branch&lt;/g2&gt; option checked unless the project administrator has provided instructions for using a custom branch.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T143115Z" creationid="Marc Riera" creationdate="20221211T143115Z">
+        <seg>Deixeu marcada l'opció &lt;g2&gt;Branca per defecte&lt;/g2&gt;, excepte si el gestor del projecte us ha donat instruccions per a utilitzar una branca personalitzada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29984,8 +30024,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Servers generally use two main types of authentication: entering a &lt;e0&gt;username/password&lt;/e0&gt;, or &lt;e1&gt;SSH&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T141244Z" creationid="Marc Riera" creationdate="20221211T141244Z">
-        <seg>Els servidors generalment utilitzen dos tipus principals d'autenticació: &lt;e0&gt;usuari/contrasenya&lt;/e0&gt; o &lt;e1&gt;SSH&lt;/e1&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T143329Z" creationid="Marc Riera" creationdate="20221211T141244Z">
+        <seg>Els servidors generalment utilitzen dos tipus principals d'autenticació: &lt;e0&gt;nom d'usuari/contrasenya&lt;/e0&gt; o &lt;e1&gt;SSH&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31735,6 +31775,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Synchronizing the project adds translations made by all the team members to local copies of the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T143424Z" creationid="Marc Riera" creationdate="20221211T143424Z">
+        <seg>La sincronització del projecte incorpora les traduccions de tots els membres de l'equip a les còpies locals del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Syntax</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T082958Z" creationid="Marc Riera" creationdate="20221205T082958Z">
@@ -32884,6 +32932,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T154947Z" creationid="Packard Bell" creationdate="20150605T160453Z">
         <seg>La finestra de scripts us permet carregar un script existent en l'àrea de text i executar-lo en el projecte obert actualment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Search function allows them to filter the editor pane on contents translated by a given person, or on contents translated after or before a given time, etc.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T142617Z" creationid="Marc Riera" creationdate="20221211T142617Z">
+        <seg>La funció de cerca els permet filtrar la subfinestra «Editor» segons el contingut traduït per una persona determinada, segons el contingut traduït després o abans d'un moment determinat, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35920,6 +35976,14 @@ the server.</seg>
         <seg>Això
 suprimirà les dades locals i tornarà a baixar els continguts del projecte
 des del servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will bring up the &lt;g2&gt;Download Team Project&lt;/g2&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T142703Z" creationid="Marc Riera" creationdate="20221211T142703Z">
+        <seg>Això mostrarà el quadre de diàleg &lt;g2&gt;Baixada d'un projecte en equip&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
