@@ -5751,6 +5751,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT project is simply a set of folders and folders that holds all your default resources.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T215921Z" creationid="Marc Riera" creationdate="20221211T215921Z">
+        <seg>Un projecte de l'OmegaT és senzillament un conjunt de carpetes que contenen tots els recursos per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An OmegaT translation project consists of a number of resources in separate folders.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T135050Z" creationid="Marc Riera" creationdate="20221206T135050Z">
@@ -6280,6 +6288,14 @@ inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T131559Z" creationid="mgalo" creationdate="20181114T123008Z">
         <seg>Quan acabeu la traducció, l'OmegaT exporta tres memòries de traducció anomenades &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; i &lt;f2&gt;omegat&lt;/f2&gt; en la carpeta del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At the top of that dialog, select the languages of your source and translated files, set the various options, and click the &lt;g0&gt;OK&lt;/g0&gt; button to continue.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T220259Z" creationid="Marc Riera" creationdate="20221211T220259Z">
+        <seg>En la part superior d'aquest quadre de diàleg, seleccioneu les llengües dels fitxers d'origen i de destinació, definiu les diferents opcions i feu clic en el botó &lt;g0&gt;D'acord&lt;/g0&gt; per a continuar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30616,6 +30632,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Single letters are used as a common identifier for modifiers.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T215826Z" creationid="Marc Riera" creationdate="20221211T215826Z">
+        <seg>S'utilitzen lletres com a identificador comú per als modificadors.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Size</seg>
@@ -32859,6 +32883,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T142201Z" creationid="Marc Riera" creationdate="20221211T142201Z">
         <seg>Només el gestor del projecte ha d'utilitzar l'ordre &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; dialog opens after you have named your project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T215936Z" creationid="Marc Riera" creationdate="20221211T215936Z">
+        <seg>El quadre de diàleg &lt;l0/&gt; s'obre després de donar un nom al projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36383,6 +36415,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To avoid duplication of shortcut description, we have adopted the following notation in this guide:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T215803Z" creationid="Marc Riera" creationdate="20221211T215803Z">
+        <seg>Per a evitar la duplicació en les descripcions de les dreceres, hem adoptat la representació següent en aquesta guia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To avoid losing important data, make regular copies of the file &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; to a backup media, such as a USB key or an external hard drive, or to a cloud service.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201345Z" creationid="Marc Riera" creationdate="20221210T201345Z">
@@ -36629,6 +36669,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201210T185609Z" creationid="mgalo" creationdate="20181113T175942Z">
         <seg>Per a començar a utilitzar l'OmegaT, primer heu de crear un projecte, que contindrà tots els fitxers (com els fitxers d'origen, les memòries de traducció, els glossaris i, finalment, els fitxers traduïts).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To start using OmegaT, you first have to create a project to hold all your files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T215843Z" creationid="Marc Riera" creationdate="20221211T215843Z">
+        <seg>Per a començar a utilitzar l'OmegaT, primer cal crear un projecte que contingui tots els fitxers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38516,6 +38564,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T194331Z" creationid="Marc Riera" creationdate="20221210T194331Z">
         <seg>Utilitzeu &lt;l0/&gt; per a recrear els fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;, select an empty folder, or create a new one with the name of your project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T215853Z" creationid="Marc Riera" creationdate="20221211T215853Z">
+        <seg>Utilitzeu &lt;l0/&gt;, seleccioneu una carpeta buida o creeu-ne una de nova amb el nom del projecte.</seg>
       </tuv>
     </tu>
     <tu>
