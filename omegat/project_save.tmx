@@ -5154,6 +5154,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After reloading the old project, all its translation memory will be applied to the new source files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T121559Z" creationid="Marc Riera" creationdate="20221211T121559Z">
+        <seg>Després de tornar a carregar el projecte, la memòria de traducció s'aplicarà als nous fitxers d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After several of these operations, select &lt;m0&gt;&lt;g1&gt;Edit&lt;/g1&gt;&lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T150423Z" creationid="Marc Riera" creationdate="20220506T150328Z">
@@ -23732,6 +23740,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the old project and put the new source files in its &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T121536Z" creationid="Marc Riera" creationdate="20221211T121536Z">
+        <seg>Obriu el projecte anterior i copieu els nous fitxers d'origen a la carpeta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the project in OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T194255Z" creationid="Marc Riera" creationdate="20221210T194255Z">
@@ -31782,6 +31798,14 @@ L'àmbit d'una substitució de text són els segments de destinació del project
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>That’s the easiest way to work on the new version of an already translated document.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T123422Z" creationid="Marc Riera" creationdate="20221211T123422Z">
+        <seg>Aquesta és la manera més fàcil de treballar en una versió nova d'un fitxer ja traduït.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The
@@ -35379,6 +35403,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T202659Z" creationid="Marc Riera" creationdate="20220621T202659Z">
         <seg>Per a suprimir un filtre, seleccioneu el botó &lt;g0&gt;Suprimeix el filtre&lt;/g0&gt; o torneu a carregar un projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To reuse translation memories from a previous project you have 2 options:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T121522Z" creationid="Marc Riera" creationdate="20221211T121522Z">
+        <seg>Teniu dues opcions per a reutilitzar les memòries de traducció d'un projecte anterior:</seg>
       </tuv>
     </tu>
     <tu>
@@ -39206,6 +39238,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081729Z" creationid="Marc Riera" creationdate="20221201T081729Z">
         <seg>També podeu utilitzar carpetes de configuració diferents iniciant l'OmegaT des de la línia d'ordres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also use the &lt;l0/&gt; tool to create a TMX from two files in a format that OmegaT supports.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T121506Z" creationid="Marc Riera" creationdate="20221211T121506Z">
+        <seg>També podeu utilitzar l'eina &lt;l0/&gt; per a crear un fitxer TMX a partir de dos fitxers en un format compatible amb l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
