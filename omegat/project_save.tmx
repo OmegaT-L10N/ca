@@ -38139,6 +38139,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>When a project is initially created, it comes with its own empty project translation memory, &lt;l0/&gt;, located in the &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T115459Z" creationid="Marc Riera" creationdate="20221211T115459Z">
+        <seg>Quan es crea un projecte, inclou una memòria de traducció del projecte buida, el fitxer &lt;l0/&gt;, en la carpeta &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
