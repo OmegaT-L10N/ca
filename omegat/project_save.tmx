@@ -3642,6 +3642,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Basic project configuration:&lt;/e0&gt; Source and languages, tokenizers, and the project folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T143730Z" creationid="Marc Riera" creationdate="20221211T143730Z">
+        <seg>&lt;e0&gt;Configuració del projecte bàsica:&lt;/e0&gt; llengües d'origen i destinació, lematitzadors i jerarquia de la carpeta del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Close:&lt;/e0&gt; close the window without any change.</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150722T193926Z" creationid="Stephanie" creationdate="20150722T193926Z">
@@ -6181,6 +6189,14 @@ inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T215911Z" creationid="Marc Riera" creationdate="20201130T215911Z">
         <seg>Com que les entrades poden barrejar termes de glossaris prioritaris i no prioritaris, els termes del glossari prioritari es mostren en negreta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As in regular local projects, the configuration of the team project is defined by the contents &lt;f0&gt;omegat.project&lt;/f0&gt; file and the optional use of special files to for project-specific filters or segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T143658Z" creationid="Marc Riera" creationdate="20221211T143658Z">
+        <seg>Com en els projectes locals normals, la configuració del projecte en equip es defineix segons el contingut del fitxer &lt;f0&gt;omegat.project&lt;/f0&gt; i l'ús opcional de fitxers especials per a filtres o regles de segmentació específics del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14238,6 +14254,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, many hosting services support access to the same repository using either the SSH +Git or https protocol.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T144142Z" creationid="Marc Riera" creationdate="20221211T144142Z">
+        <seg>Per exemple, molts serveis d'allotjament permeten l'accés al mateix dipòsit utilitzant el protocol SSH+Git o https.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, text files may be segmented on line breaks, empty lines, or not at all.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T172655Z" creationid="Marc Riera" creationdate="20221201T172655Z">
@@ -16323,6 +16347,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If no custom mappings have been defined for the remote project, but local mappings have been customized, the local settings are preserved without affecting the settings on the server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T144032Z" creationid="Marc Riera" creationdate="20221211T144032Z">
+        <seg>Si no s'han definit assignacions personalitzades per al projecte remot, però s'han personalitzat les assignacions locals, els paràmetres locals es conserven sense afectar els paràmetres del servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151236Z" creationid="Packard Bell" creationdate="20150529T164034Z">
@@ -16502,6 +16534,22 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the remote project contains custom mappings, but the local project does not, the mappings from the server are applied to the local project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T144052Z" creationid="Marc Riera" creationdate="20221211T144041Z">
+        <seg>Si el projecte remot conté assignacions personalitzades, però el projecte local no, s'apliquen les assignacions del servidor al projecte local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the remote project specifies a URL protocol and you download it using a different protocol, your local configuration will be preserved.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T144119Z" creationid="Marc Riera" creationdate="20221211T144119Z">
+        <seg>Si el projecte remot especifica un protocol d'URL i el baixeu mitjançant un protocol diferent, es conservarà la configuració local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the server relies on username/password authentication, OmegaT will present you with an &lt;g0&gt;Authentication&lt;/g0&gt; dialog to enter your username and password either when you first download the project or later on in the process.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T143318Z" creationid="Marc Riera" creationdate="20221211T143318Z">
@@ -16522,6 +16570,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T132953Z" creationid="Marc Riera" creationdate="20221206T132953Z">
         <seg>Si hi ha segments duplicats (no únics) en els documents d'origen i marqueu aquesta opció, es definirà el primer segment traduït com a traducció per defecte i s'utilitzarà automàticament el mateix text de destinació en els segments repetits restants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there is a conflict between the remote and local versions of the &lt;f0&gt;omegat.project&lt;/f0&gt; and the local version is overwritten, OmegaT creates a backup file called &lt;f1&gt;omegat.project.YYYYMMDDhhmm.bak&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T144244Z" creationid="Marc Riera" creationdate="20221211T144244Z">
+        <seg>Si hi ha un conflicte entre les versions remotes i locals del fitxer &lt;f0&gt;omegat.project&lt;/f0&gt; i se sobreescriu la versió local, l'OmegaT crea un fitxer de còpia de seguretat anomenat &lt;f1&gt;omegat.project.AAAAMMDDhhmm.bak&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16737,6 +16793,14 @@ extensions dels fitxers.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160301Z" creationid="Marc Riera" creationdate="20221201T160301Z">
         <seg>Si no utilitzeu la carpeta de configuració per defecte, totes les modificacions aplicades a &lt;l0/&gt; s'emmagatzemaran en la carpeta de configuració especificada i no apareixeran quan torneu a treballar amb la carpeta de configuració per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you first download the remote project using an &lt;f0&gt;omegat.project&lt;/f0&gt; file provided by the project administrator, OmegaT will use the mappings in that file, if any.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T144208Z" creationid="Marc Riera" creationdate="20221211T144208Z">
+        <seg>Si primer baixeu el projecte remot mitjançant un fitxer &lt;f0&gt;megat.project&lt;/f0&gt; proporcionat pel gestor del projecte, l'OmegaT utilitzarà les assignacions en aquest fitxer, si n'hi ha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17073,6 +17137,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T124427Z" creationid="Marc Riera" creationdate="20201010T202653Z">
         <seg>A PCW.GR (en grec).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a team project, the basic configuration parameters of the local project are always overridden by the configuration on the server that was set by the project administrator.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T143806Z" creationid="Marc Riera" creationdate="20221211T143806Z">
+        <seg>En un projecte en equip, els paràmetres de configuració bàsics del projecte local sempre se substitueixen per la configuració del servidor definida pel gestor del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35756,6 +35828,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T201153Z" creationid="Marc Riera" creationdate="20201010T201153Z">
         <seg>Això vol dir que el codi font del programa OmegaT està disponible lliurement i que la llicència de l'OmegaT concedeix als usuaris una àmplia llibertat d'ús.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This means the automatic save function also regularly synchronizes local versions with the version on the server at the interval specified in &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T143610Z" creationid="Marc Riera" creationdate="20221211T143610Z">
+        <seg>Això vol dir que la funció de desament automàtic també sincronitza periòdicament les versions locals amb la versió del servidor segons l'interval especificat en l'apartat &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
