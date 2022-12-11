@@ -5244,6 +5244,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>After you have typed the translation of a segment, use &lt;l0/&gt; to move to the next untranslated segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222453Z" creationid="Marc Riera" creationdate="20221211T222453Z">
+        <seg>Després d'escriure la traducció d'un segment, utilitzeu &lt;l0/&gt; per a desplaçar-vos al segment sense traduir següent.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Aggressive &amp;Font Fallback</seg>
@@ -12196,6 +12204,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Either a segment is translated, or it is not.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222548Z" creationid="Marc Riera" creationdate="20221211T222548Z">
+        <seg>Un segment pot estar traduït o sense traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Either update to the latest JDK 1.6, or remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215138Z" creationid="Marc Riera" creationdate="20221124T215138Z">
@@ -16943,6 +16959,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T112510Z" creationid="Marc Riera" creationdate="20221206T112510Z">
         <seg>Si només voleu reduir el nombre d'etiquetes, podeu utilitzar l'script &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need a separate review process, you can for example use the &lt;l0/&gt; panes for problematic segments, or use &lt;l1/&gt; to filter segments based on criteria that you set, and review only those, etc.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222943Z" creationid="Marc Riera" creationdate="20221211T222943Z">
+        <seg>Si necessiteu un procés de revisió independent, podeu utilitzar, per exemple, la subfinestra &lt;l0/&gt; per als segments problemàtics, o &lt;l1/&gt; per a filtrar els segments en funció de criteris que hàgiu definit i revisar només aquests segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23147,6 +23171,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not have different statuses for translated segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222537Z" creationid="Marc Riera" creationdate="20221211T222537Z">
+        <seg>L'OmegaT no té diferents estats per als segments traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have read and write permissions for this folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T174317Z" creationid="Marc Riera" creationdate="20221117T174317Z">
@@ -24093,6 +24125,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T194053Z" creationid="mgalo" creationdate="20181114T121649Z">
         <seg>Quan us hàgiu assegurat que en la vostra traducció no hi ha cap error d'etiquetes, premeu &lt;k0&gt;Ctrl+D&lt;/k0&gt; per a generar els fitxers de destinació. Els fitxers es crearan en la subcarpeta &lt;f1&gt;/folder/&lt;/f1&gt; del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once you leave the segment, its translation is automatically stored into &lt;l0/&gt; and will be used as reference for the rest of your translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222520Z" creationid="Marc Riera" creationdate="20221211T222520Z">
+        <seg>Quan abandoneu el segment, la traducció s'emmagatzema automàticament en el fitxer &lt;l0/&gt; i s'utilitzarà com a referència per a la resta de la traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29484,6 +29524,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; menu for more navigation options.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222531Z" creationid="Marc Riera" creationdate="20221211T222531Z">
+        <seg>Consulteu el menú &lt;l0/&gt; per a conèixer més opcions de navegació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;u0&gt;TMX 1.4b Specification&lt;/u0&gt; for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T122927Z" creationid="Marc Riera" creationdate="20221206T122927Z">
@@ -32987,6 +33035,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215026Z" creationid="Marc Riera" creationdate="20221207T215026Z">
         <seg>L'element &lt;l0/&gt; del menú &lt;l1/&gt; us donarà més informació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; pane is the place where you type your translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222412Z" creationid="Marc Riera" creationdate="20221211T222412Z">
+        <seg>La subfinestra &lt;l0/&gt; és el lloc on escriviu la traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36587,6 +36643,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To display paragraph marks and see which paragraph each segment is part of, use &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222346Z" creationid="Marc Riera" creationdate="20221211T222346Z">
+        <seg>Per a mostrar les marques de paràgraf i veure de quin paràgraf forma part cada segment, utilitzeu &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To do so, modify the &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt; as follows:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T091349Z" creationid="Marc Riera" creationdate="20221205T091327Z">
@@ -36748,6 +36812,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T193713Z" creationid="mgalo" creationdate="20181114T122907Z">
         <seg>Per a veure una llista amb els fitxers del projecte, premeu &lt;k2&gt;Ctrl+L&lt;/k2&gt; per a obrir el quadre de diàleg &lt;g1&gt;Fitxers del projecte&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To see how efficient you can be with shortcuts, see &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222430Z" creationid="Marc Riera" creationdate="20221211T222430Z">
+        <seg>Per a veure l'eficiència que podeu aconseguir amb les dreceres, consulteu &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38608,6 +38680,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; in the &lt;l1/&gt; menu and &lt;l2/&gt; to manage glossary matches.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222617Z" creationid="Marc Riera" creationdate="20221211T222617Z">
+        <seg>Utilitzeu &lt;l0/&gt; en el menú &lt;l1/&gt; i &lt;l2/&gt; per a gestionar les coincidències del glossari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; in the &lt;l1/&gt; menu to open the dialog.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T105435Z" creationid="Marc Riera" creationdate="20221206T105435Z">
@@ -38628,6 +38708,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T121712Z" creationid="Marc Riera" creationdate="20221206T121712Z">
         <seg>Utilitzeu &lt;l0/&gt; o &lt;l1/&gt; per a crear els fitxers traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; to add terms to your glossary.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222603Z" creationid="Marc Riera" creationdate="20221211T222603Z">
+        <seg>Utilitzeu &lt;l0/&gt; per a afegir termes al glossari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38872,6 +38960,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120833Z" creationid="Marc Riera" creationdate="20190520T123918Z">
         <seg>Utilitza la llengua d'instal·lació en l'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the various &lt;l0/&gt; options and move the &lt;l1/&gt; around to obtain the layout that fits your workflow best:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222330Z" creationid="Marc Riera" creationdate="20221211T222330Z">
+        <seg>Utilitzeu les diferents opcions del menú &lt;l0/&gt; i desplaceu les &lt;l1/&gt; per a obtenir la disposició que s'ajusti millor al vostre flux de treball:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40774,6 +40870,14 @@ d'allà.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T190512Z" creationid="Marc Riera" creationdate="20180212T231527Z">
         <seg>Podeu
 trobar el text de la llicència a /docs/OmegaT-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can find  how to set the paragraph mark here: &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222357Z" creationid="Marc Riera" creationdate="20221211T222357Z">
+        <seg>Aquí trobareu com definir la marca de paràgraf: &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
