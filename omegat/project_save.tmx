@@ -20227,6 +20227,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make it look good!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T221004Z" creationid="Marc Riera" creationdate="20221211T221004Z">
+        <seg>Doneu un aspecte atractiu al programa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure you understand the format requirements when you start working on a PDF or similar file.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T134524Z" creationid="Marc Riera" creationdate="20221211T134524Z">
@@ -24020,6 +24028,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T193934Z" creationid="Marc Riera" creationdate="20201125T185605Z">
         <seg>Quan un usuari formula una proposta de canvi o millora a l'OmegaT, hi ha un procediment definit per a enviar-lo a l'equip de desenvolupament perquè el tingui el compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once all that is done, the source files appear in OmegaT in a layout that looks like this:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222233Z" creationid="Marc Riera" creationdate="20221211T222233Z">
+        <seg>Quan hàgiu acabat els passos anteriors, els fitxers d'origen apareixeran en l'OmegaT en una disposició similar a la següent:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30660,6 +30676,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T183402Z" creationid="Alexandra" creationdate="20150526T100742Z">
         <seg>Ús simultani de diverses memòries de traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since a standard space character is often used as a boundary for a segment, if you want to merge two parts that are separated by a space character,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T220908Z" creationid="Marc Riera" creationdate="20221211T220908Z">
+        <seg>Com que sovint s'utilitza un caràcter d'espai estàndard com a límit d'un segment, si voleu combinar dues parts separades per un caràcter d'espai:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43159,6 +43183,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>find the location of that space,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T220921Z" creationid="Marc Riera" creationdate="20221211T220921Z">
+        <seg>Cerqueu la ubicació de l'espai.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>findInProjectReuseLastWindow</seg>
@@ -43258,6 +43290,22 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T211733Z" creationid="Marc Riera" creationdate="20201130T211733Z">
         <seg>glossary/glossary.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>go back to OmegaT and &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T220946Z" creationid="Marc Riera" creationdate="20221211T220946Z">
+        <seg>Torneu a l'OmegaT i seleccioneu &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>go to the source file with &lt;l0/&gt;,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T220914Z" creationid="Marc Riera" creationdate="20221211T220914Z">
+        <seg>Aneu al fitxer d'origen amb &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45505,6 +45553,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>replace it by anything that is not a standard space but looks like a standard space, like a "non breakable space" for example,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T221040Z" creationid="Marc Riera" creationdate="20221211T221040Z">
+        <seg>Substituïu-lo per qualsevol caràcter que no sigui un espai estàndard però que ho sembli, com ara un «espai no separable».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>repositories.properties</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T082016Z" creationid="Marc Riera" creationdate="20221201T082016Z">
@@ -45533,6 +45589,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200812Z" creationid="Marc Riera" creationdate="20221206T200724Z">
         <seg>Deseu el resultat en un fitxer TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>save your modifications,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T220929Z" creationid="Marc Riera" creationdate="20221211T220929Z">
+        <seg>Deseu les modificacions.</seg>
       </tuv>
     </tu>
     <tu>
