@@ -9052,6 +9052,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Conversely, you can ask your partner to write the project TMX files to a folder on a shared disk that you will use as your &lt;l0/&gt; folder for the current translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T130602Z" creationid="Marc Riera" creationdate="20221211T130602Z">
+        <seg>De la mateixa manera, podeu demanar-li que desi els fitxers TMX del projecte en una carpeta en un disc compartit que utilitzareu com a carpeta &lt;l0/&gt; per a la traducció actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Conversion to the new team project format cannot be performed in console mode.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215709Z" creationid="Marc Riera" creationdate="20221124T215709Z">
@@ -9176,6 +9184,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200256Z" creationid="Marc Riera" creationdate="20221210T200256Z">
         <seg>Copieu el contingut de les diferents carpetes d'usuari a l'equivalent en el projecte nou (fitxers d'origen, fitxers de memòria de traducció de referència, fitxers de glossari).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the documents for which you want to create a translation memory into the &lt;f0&gt;source&lt;/f0&gt; folder of your project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T130457Z" creationid="Marc Riera" creationdate="20221211T130457Z">
+        <seg>Copieu els documents dels quals voleu crear una memòria de traducció a la carpeta &lt;f0&gt;source&lt;/f0&gt; del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10568,6 +10584,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T133143Z" creationid="Marc Riera" creationdate="20190924T133143Z">
         <seg>Desenvolupadors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Development</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131211Z" creationid="Marc Riera" creationdate="20221211T131211Z">
+        <seg>Desenvolupament</seg>
       </tuv>
     </tu>
     <tu>
@@ -16726,6 +16750,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If you write the TMX file to a folder on a shared disk, you can ask your partner to use that folder as the &lt;l0/&gt; folder for the current translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T130526Z" creationid="Marc Riera" creationdate="20221211T130526Z">
+        <seg>Si deseu el fitxer TMX en una carpeta en un disc compartit, podeu demanar a l'altra persona que utilitzi aquesta carpeta com a carpeta &lt;l0/&gt; per a la traducció actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
@@ -17002,6 +17034,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>In situations where you need to share a TMX that contain only the text from certain specific files and excludes other content, follow the procedure below:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T130440Z" creationid="Marc Riera" creationdate="20221211T130440Z">
+        <seg>En situacions en què calgui compartir un fitxer TMX que contingui només el text d'uns fitxers específics i exclogui la resta de contingut, seguiu el procediment següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>In so&amp;urce</seg>
@@ -17156,6 +17196,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T184432Z" creationid="Marc Riera" creationdate="20201125T184432Z">
         <seg>Alhora, són lliures i se'ls anima (però no se'ls obliga de cap manera) a contribuir al projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In which case you will just need to use the appropriate folder as the &lt;l0/&gt; of your project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T130410Z" creationid="Marc Riera" creationdate="20221211T130410Z">
+        <seg>En aquest cas, només cal que utilitzeu la carpeta adequada com a &lt;l0/&gt; del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19200,6 +19248,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223450Z" creationid="Marc Riera" creationdate="20201003T223450Z">
         <seg>Nivell 9:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>License: GNU General Public License v3+</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131159Z" creationid="Marc Riera" creationdate="20221211T131159Z">
+        <seg>Llicència: Llicència Pública General GNU v3+</seg>
       </tuv>
     </tu>
     <tu>
@@ -22785,6 +22841,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T201803Z" creationid="Marc Riera" creationdate="20191110T201803Z">
         <seg>L'OmegaT ha detectat un projecte en equip de la versió 3.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT instantaneously notices modifications to TMX files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T130618Z" creationid="Marc Riera" creationdate="20221211T130618Z">
+        <seg>L'OmegaT carrega al moment les modificacions dels fitxers TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28623,6 +28687,22 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;Converters&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131328Z" creationid="Marc Riera" creationdate="20221211T131328Z">
+        <seg>Consulteu &lt;u0&gt;Conversors&lt;/u0&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;Plugins&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131209Z" creationid="Marc Riera" creationdate="20221211T131209Z">
+        <seg>Consulteu &lt;u0&gt;Connectors&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Unicode Bidirectional Algorithm&lt;/u0&gt; for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221040Z" creationid="Marc Riera" creationdate="20221208T221040Z">
@@ -28690,12 +28770,28 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>See above.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131225Z" creationid="Marc Riera" creationdate="20221211T131225Z">
+        <seg>Consulteu l'apartat anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>See below for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220307T230022Z" creationid="Marc Riera" creationdate="20191110T203951Z">
         <seg>Consulteu-ne els detalls a continuació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See below.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131312Z" creationid="Marc Riera" creationdate="20221211T131312Z">
+        <seg>Consulteu l'apartat següent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31008,6 +31104,22 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Such sharing works well when the lag between TMX updates is not important, for example, a translator sends data to a reviewer a few times a day.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T130850Z" creationid="Marc Riera" creationdate="20221211T130850Z">
+        <seg>Aquest mètode d'ús compartit funciona bé quan el retard entre les actualitzacions dels fitxers TMX no és important; per exemple, quan un traductor envia les dades a un revisor unes poques vegades al dia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such systems are free to use, install and manage and are widely used in the computer development world, making them extremely robust.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131004Z" creationid="Marc Riera" creationdate="20221211T130917Z">
+        <seg>Aquesta mena de sistemes es poden utilitzar, instal·lar i administrar de manera gratuïta i tenen un ús molt estès en el món del desenvolupament informàtic, per la qual cosa són extremadament robustos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Summary</seg>
@@ -32059,6 +32171,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215026Z" creationid="Marc Riera" creationdate="20221207T215026Z">
         <seg>L'element &lt;l0/&gt; del menú &lt;l1/&gt; us donarà més informació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;u0&gt;StaX&lt;/u0&gt; filters</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131130Z" creationid="Marc Riera" creationdate="20221211T131130Z">
+        <seg>Filtres &lt;u0&gt;StaX&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34223,6 +34343,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Therefore, any time one side creates or modifies such a TMX using &lt;l0/&gt;, the other side does not need to do anything to have that TMX recognized locally.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T130702Z" creationid="Marc Riera" creationdate="20221211T130702Z">
+        <seg>Per tant, cada vegada que un usuari creï o modifiqui un fitxer TMX mitjançant &lt;l0/&gt;, l'altre usuari no haurà de fer res perquè el fitxer TMX es reconegui localment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Therefore, it is recommended that you divide the files to align into shorter files that you can comfortably align in a single session.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200553Z" creationid="Marc Riera" creationdate="20221206T200553Z">
@@ -34411,6 +34539,14 @@ en sou víctima d'una.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Third-party plugin</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131305Z" creationid="Marc Riera" creationdate="20221211T131305Z">
+        <seg>Connectors de tercers</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Third-party software</seg>
@@ -34498,6 +34634,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163806Z" creationid="Marc Riera" creationdate="20220625T163806Z">
         <seg>Això també s'aplica a la finestra &lt;l2&gt;Fitxers del projecte&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This approach also works just as well for sharing glossaries where the &lt;l0/&gt; , named appropriately to prevent overwriting, is located in the &lt;l1/&gt; that the partner will use only as reference, and vice-versa.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T130821Z" creationid="Marc Riera" creationdate="20221211T130821Z">
+        <seg>Aquest mètode també funciona igual de bé per a compartir glossaris en què el fitxer &lt;l0/&gt;, amb el nom adequat per a evitar sobreescriptures, és en la &lt;l1/&gt;. L'altre usuari només l'utilitzarà com a referència i viceversa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39863,6 +40007,14 @@ d'una finestra del Finder per a poder-la executar des de qualsevol lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>You may want to store translation memories in separate folders, by client or by specialty so as to be able to reuse them quickly when need arises.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T130347Z" creationid="Marc Riera" creationdate="20221211T130347Z">
+        <seg>És possible que vulgueu emmagatzemar les memòries de traducció en carpetes independents, per client o per especialitat, per a reutilitzar-les ràpidament quan calgui.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You must enter a number between 1 and {0}.</seg>
@@ -42182,6 +42334,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>http://185.13.37.79:8003/index.php/p/stax-filters/downloads/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131124Z" creationid="Marc Riera" creationdate="20221211T131124Z">
+        <seg>http://185.13.37.79:8003/index.php/p/stax-filters/downloads/</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>http://api.yandex.com/key/form.xml?service=trnsl</seg>
@@ -42474,6 +42634,22 @@ for (i in 0 ..&lt; files.size())
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>https://okapiframework.org</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131231Z" creationid="Marc Riera" creationdate="20221211T131231Z">
+        <seg>https://okapiframework.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://okapiframework.org/wiki/index.php/Okapi_Filters_Plugin_for_OmegaT#Filters_Included</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131229Z" creationid="Marc Riera" creationdate="20221211T131229Z">
+        <seg>https://okapiframework.org/wiki/index.php/Okapi_Filters_Plugin_for_OmegaT#Filters_Included</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>https://omegat.org/</seg>
@@ -42563,6 +42739,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tree/docs_devel/HowToCreateFilterPlugin.md</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131214Z" creationid="Marc Riera" creationdate="20221211T131214Z">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tree/docs_devel/HowToCreateFilterPlugin.md</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://sourceforge.net/p/omegat/code/ci/master/tree/release/changes.txt</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202422Z" creationid="Marc Riera" creationdate="20221206T202422Z">
@@ -42620,6 +42804,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231352Z" creationid="Marc Riera" creationdate="20201129T231352Z">
         <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/wiki/Plugins/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131201Z" creationid="Marc Riera" creationdate="20221211T131201Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Plugins/</seg>
       </tuv>
     </tu>
     <tu>
@@ -45102,6 +45294,24 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201121T225833Z" creationid="Marc Riera" creationdate="20201121T225833Z">
         <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>— ¶ —————————————————————
+&lt;t0&gt;A whitespace character: [ \t\n\x0B\f\r]
+fr-ZB: Un caractère d'espacement (espace, tabulation, etc.) :  [ \t\n\x0B\f\r]
+ja-RV: 空白文字：[ \t\n\x0B\f\r]&lt;/t0&gt;
+Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;&lt;/t1&gt;
+— ¶ —————————————————————</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131012Z" creationid="Marc Riera" creationdate="20221211T131012Z">
+        <seg>— ¶ —————————————————————
+&lt;t0&gt;A whitespace character: [ \t\n\x0B\f\r]
+fr-ZB: Un caractère d'espacement (espace, tabulation, etc.) :  [ \t\n\x0B\f\r]
+ja-RV: 空白文字：[ \t\n\x0B\f\r]&lt;/t0&gt;
+Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;&lt;/t1&gt;
+— ¶ —————————————————————</seg>
       </tuv>
     </tu>
     <tu>
