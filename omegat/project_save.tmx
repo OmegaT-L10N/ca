@@ -12959,6 +12959,14 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Existing translations are used to speed up the translation process.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T115822Z" creationid="Marc Riera" creationdate="20221211T115822Z">
+        <seg>Les traduccions existents s'utilitzen per a accelerar el procés de traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Exit code {0}: "{1}"</seg>
@@ -15883,6 +15891,14 @@ no cal introduir el camí complet.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T220052Z" creationid="mgalo" creationdate="20181114T121817Z">
         <seg>Si un fitxer no es carrega en la subfinestra &lt;g0&gt;Editor&lt;/g0&gt;, pot ser que tingui un format incompatible amb l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a given sentence has already been translated once, there is no need to retranslate it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T115833Z" creationid="Marc Riera" creationdate="20221211T115833Z">
+        <seg>Si una frase ja s'ha traduït una vegada, no cal tornar a traduir-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34744,6 +34760,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This memory is gradually filled as your translation progresses.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T115754Z" creationid="Marc Riera" creationdate="20221211T115754Z">
+        <seg>Aquesta memòria es va emplenant gradualment a mesura que avanceu la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This menu displays entries only when a project is open.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161729Z" creationid="Marc Riera" creationdate="20220625T161729Z">
@@ -39114,6 +39138,14 @@ the Spotlight search field.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200122T230939Z" creationid="Marc Riera" creationdate="20200122T230939Z">
         <seg>També la
 podeu executar des del camp de cerca de l'Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also make use of reference translation memories by putting them in the &lt;l0/&gt; folder of your project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T120340Z" creationid="Marc Riera" creationdate="20221211T120340Z">
+        <seg>També podeu utilitzar memòries de traducció de referència si les copieu a la carpeta &lt;l0/&gt; del projecte.</seg>
       </tuv>
     </tu>
     <tu>
