@@ -4474,8 +4474,8 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>A number of free software third party utilities provide such "round-trip" conversion, including:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132749Z" creationid="Marc Riera" creationdate="20221211T132749Z">
-        <seg>Hi ha diverses eines de tercers lliures que proporcionen aquesta doble conversió, com ara:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T134934Z" creationid="Marc Riera" creationdate="20221211T132749Z">
+        <seg>Hi ha diverses eines de tercers lliures que proporcionen aquesta conversió bidireccional, com ara:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17166,6 +17166,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the case of PDF, you will find a number of online or offline utilities that provide a conversion to common office formats, but the conversion will always require a lot of manual modifications to the target document before being able to produce a proper PDF document.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T135150Z" creationid="Marc Riera" creationdate="20221211T135150Z">
+        <seg>En el cas del PDF, trobareu diverses eines en línia o fora de línia que ofereixen una conversió a formats d'ofimàtica habituals, però la conversió sempre requerirà moltes modificacions manuals en el document de destinació per a produir un document PDF adequat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the old project, select the translation memory (backup or not) most likely to contain the data you are looking for.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200339Z" creationid="Marc Riera" creationdate="20221210T200339Z">
@@ -19931,6 +19939,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure you understand the format requirements when you start working on a PDF or similar file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T134524Z" creationid="Marc Riera" creationdate="20221211T134524Z">
+        <seg>Assegureu-vos que enteneu els requisits de format quan comenceu a treballar en un fitxer PDF o similar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Manage Right-To-Left languages</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170437Z" creationid="Marc Riera" creationdate="20210521T170437Z">
@@ -22045,6 +22061,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223818Z" creationid="Marc Riera" creationdate="20180214T223818Z">
         <seg>No és un fitxer XML vàlid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not all of the Okapi Framework file filters are included into the file filter plugin.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T135202Z" creationid="Marc Riera" creationdate="20221211T135202Z">
+        <seg>No tots els filtres de fitxers de l'Okapi Framework s'inclouen en el connector de filtres de fitxers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24436,6 +24460,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221109T210040Z" creationid="Marc Riera" creationdate="20221109T210040Z">
         <seg>Hi ha altres connectors disponibles en línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other plugins for less common formats are listed on the OmegaT wiki.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T135347Z" creationid="Marc Riera" creationdate="20221211T135347Z">
+        <seg>A la wiki de l'OmegaT s'enumeren altres connectors per a formats menys habituals.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28847,6 +28879,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;Filters Included&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T135218Z" creationid="Marc Riera" creationdate="20221211T135218Z">
+        <seg>Consulteu &lt;u0&gt;Filters Included&lt;/u0&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;List of file filters&lt;/u0&gt; for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T133038Z" creationid="Marc Riera" creationdate="20221211T131500Z">
@@ -30373,6 +30413,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some formats, like PDF, cannot be properly handled through "round trip" conversions.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T134915Z" creationid="Marc Riera" creationdate="20221211T134915Z">
+        <seg>Alguns formats, com el PDF, no es poden tractar correctament amb conversions bidireccionals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some preference do not have an equivalent in the user interface.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155331Z" creationid="Marc Riera" creationdate="20221201T155331Z">
@@ -30994,6 +31042,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T130105Z" creationid="Marc Riera" creationdate="20190520T130105Z">
         <seg>Patrocini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>StaX provides OmegaT with filters for SDLXLIFF files and packages, XLIFF 1 and 2, MqXliff and DOCX.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T135302Z" creationid="Marc Riera" creationdate="20221211T135302Z">
+        <seg>StaX proporciona filtres de l'OmegaT per a fitxers i paquets SDLXLIFF, XLIFF 1 i 2, MqXliff i DOCX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32480,6 +32536,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Okapi Filters Plugin for OmegaT, from the &lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T134853Z" creationid="Marc Riera" creationdate="20221211T134853Z">
+        <seg>Connector de filtres de l'Okapi per a l'OmegaT, de l'&lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Okapi Framework comes with a number of file filters, among which some that are not supported natively by OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132846Z" creationid="Marc Riera" creationdate="20221211T132846Z">
@@ -33114,6 +33178,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201127T185451Z" creationid="Alexandra" creationdate="20150526T134427Z">
         <seg>Fitxers d'aquest lloc web en un paquet còmode per als qui vulguin localitzar-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The filters originate from the European Union DGT version of OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T135325Z" creationid="Marc Riera" creationdate="20221211T135325Z">
+        <seg>Els filtres provenen de la versió de l'OmegaT de la Direcció General de Traducció de la Unió Europea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34740,6 +34812,14 @@ en sou víctima d'una.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They require a first conversion to a supported format, and that format must be used as a base to manually create a proper target language document.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T135108Z" creationid="Marc Riera" creationdate="20221211T135045Z">
+        <seg>Requereixen una primera conversió a un format compatible i, més endavant, aquest format s'ha d'utilitzar com a base per a crear manualment un document adequat en la llengua de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They will appear as separate segments in the translation.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224803Z" creationid="Marc Riera" creationdate="20220130T224803Z">
@@ -35840,6 +35920,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T145225Z" creationid="Marc Riera" creationdate="20180221T114843Z">
         <seg>Per a editar quins fitxers i quines codificacions processarà el filtre, seleccioneu un filtre de la llista i feu clic a «Edita».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To ensure that all the properties of a format are properly taken into account, it is sometimes preferable to convert the file to a supported format and then convert the translated file back to the original format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T134958Z" creationid="Marc Riera" creationdate="20221211T134958Z">
+        <seg>Per a garantir que totes les propietats d'un format es tenen en compte adequadament, de vegades és preferible convertir el fitxer a un format compatible i, després, tornar a convertir el fitxer traduït al format original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38818,6 +38906,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T205005Z" creationid="Marc Riera" creationdate="20221124T205005Z">
         <seg>En accedir a un segment buit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When installed, the plugin offers direct access to the added formats and also allows you to associate a custom filter parameters file that you have created in Rainbow.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T135237Z" creationid="Marc Riera" creationdate="20221211T135237Z">
+        <seg>Quan s'instal·la, el connector ofereix accés directe als formats afegits i també permet associar un fitxer de paràmetres del filtre personalitzat que heu creat amb el Rainbow.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44326,6 +44422,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131437Z" creationid="Marc Riera" creationdate="20221211T131437Z">
         <seg>po4a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>po4a supports a number of free software documentation formats, listed on the site front page, and offers conversion tools to and from the po format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T135037Z" creationid="Marc Riera" creationdate="20221211T135037Z">
+        <seg>El po4a és compatible amb diversos formats de documentació de programari lliure, que s'indiquen a la pàgina principal del lloc, i ofereix eines de conversió per al format PO.</seg>
       </tuv>
     </tu>
     <tu>
