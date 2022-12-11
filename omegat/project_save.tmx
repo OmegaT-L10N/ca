@@ -4472,6 +4472,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A number of free software third party utilities provide such "round-trip" conversion, including:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132749Z" creationid="Marc Riera" creationdate="20221211T132749Z">
+        <seg>Hi ha diverses eines de tercers lliures que proporcionen aquesta doble conversió, com ara:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A period followed by a whitespace</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191716Z" creationid="Marc Riera" creationdate="20221201T191000Z">
@@ -9064,6 +9072,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T130602Z" creationid="Marc Riera" creationdate="20221211T130602Z">
         <seg>De la mateixa manera, podeu demanar-li que desi els fitxers TMX del projecte en una carpeta en un disc compartit que utilitzareu com a carpeta &lt;l0/&gt; per a la traducció actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Conversion</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132659Z" creationid="Marc Riera" creationdate="20221211T132659Z">
+        <seg>Conversió</seg>
       </tuv>
     </tu>
     <tu>
@@ -16374,6 +16390,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the format you want to translate is structurally close to an already supported format, just add its file extension to the supported format extension list, or change the file extension to one that is accepted by the file filter that you want to use.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132628Z" creationid="Marc Riera" creationdate="20221211T132628Z">
+        <seg>Si el format que voleu traduir té una estructura semblant a la d'un format ja compatible, només cal que n'afegiu l'extensió a la llista d'extensions de format compatibles, o bé podeu canviar l'extensió del fitxer a una que accepti el filtre de fitxers que voleu utilitzar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the location matches both rules, it is considered either as a break, or as a non-break, depending of what the rule defined.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T173034Z" creationid="Marc Riera" creationdate="20221201T173034Z">
@@ -19280,6 +19304,22 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131530Z" creationid="Marc Riera" creationdate="20221211T131530Z">
         <seg>Llicència: llicència Apache, versió 2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>License: Eclipse Public License v1.0</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T133309Z" creationid="Marc Riera" creationdate="20221211T133309Z">
+        <seg>Llicència: Llicència Pública Eclipse, versió 1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>License: GNU General Public License v2</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T133104Z" creationid="Marc Riera" creationdate="20221211T133104Z">
+        <seg>Llicència: Llicència Pública General GNU, versió 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -24008,6 +24048,14 @@ la carpeta d'inici.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OpenXLIFF supports a number of file filters, among which some that are not supported natively by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T133346Z" creationid="Marc Riera" creationdate="20221211T133346Z">
+        <seg>L'OpenXLIFF admet diversos filtres de fitxers, alguns dels quals no són compatibles nativament amb l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Opening input file '{0}'</seg>
@@ -26260,10 +26308,26 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rainbow can create XLIFF 1.2 compliant files or OmegaT projects from all the files set as "input" files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132915Z" creationid="Marc Riera" creationdate="20221211T132915Z">
+        <seg>El Rainbow pot crear fitxers XLIFF 1.2 compatibles o projectes de l'OmegaT a partir de tots els fitxers establerts com a fitxers d'entrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rainbow supported files are converted into XLIFF and inserted as source files into a full fledged OmegaT project that you can open with OmegaT right away.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132945Z" creationid="Marc Riera" creationdate="20221211T132945Z">
+        <seg>Els fitxers compatibles amb el Rainbow es converteixen al format XLIFF i s'insereixen com a fitxers d'origen en un projecte complet de l'OmegaT que podeu obrir immediatament amb el programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rainbow, from the &lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131516Z" creationid="Marc Riera" creationdate="20221211T131516Z">
-        <seg>Rainbow, component d'&lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132818Z" creationid="Marc Riera" creationdate="20221211T131516Z">
+        <seg>Rainbow, component de l'&lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28753,8 +28817,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>See &lt;u0&gt;List of file filters&lt;/u0&gt; for details.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131500Z" creationid="Marc Riera" creationdate="20221211T131500Z">
-        <seg>Consulteu &lt;u0&gt;Llista de filtres de fitxers&lt;/u0&gt; per a conèixer més detalls.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T133038Z" creationid="Marc Riera" creationdate="20221211T131500Z">
+        <seg>Consulteu &lt;u0&gt;List of file filters&lt;/u0&gt; per a conèixer més detalls.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28771,6 +28835,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131209Z" creationid="Marc Riera" creationdate="20221211T131209Z">
         <seg>Consulteu &lt;u0&gt;Connectors&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;Rainbow TKit - OmegaT Project&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T133053Z" creationid="Marc Riera" creationdate="20221211T133053Z">
+        <seg>Consulteu &lt;u0&gt;Rainbow TKit - OmegaT Project&lt;/u0&gt; per a conèixer més detalls.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32375,6 +32447,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The Okapi Framework comes with a number of file filters, among which some that are not supported natively by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132846Z" creationid="Marc Riera" creationdate="20221211T132846Z">
+        <seg>L'Okapi Framework incorpora diversos filtres de fitxers, alguns dels quals no són compatibles nativament amb l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The OmegaT Project</seg>
@@ -32536,6 +32616,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210514T151433Z" creationid="Marc Riera" creationdate="20210514T151433Z">
         <seg>L'API de TexTra està proporcionada de manera gratuïta per la NICT, l'agència de recerca del govern del Japó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Translate Toolkit offers a number of convertion tools to and from the po format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T133225Z" creationid="Marc Riera" creationdate="20221211T133225Z">
+        <seg>El Translate Toolkit ofereix diverses eines de conversió per al format PO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32731,6 +32819,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T220452Z" creationid="Marc Riera" creationdate="20201130T220452Z">
         <seg>El contingut de la subfinestra del glossari s'actualitzaran en conseqüència.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The converters from the &lt;u0&gt;Translate Toolkit&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T133153Z" creationid="Marc Riera" creationdate="20221211T133153Z">
+        <seg>Conversors del &lt;u0&gt;Translate Toolkit&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39682,6 +39778,14 @@ d'allà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also use OmegaT's custom tag function to register format specific strings and have OmegaT handle them as if they were normal tags.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132657Z" creationid="Marc Riera" creationdate="20221211T132657Z">
+        <seg>També podeu utilitzar la funció d'etiquetes personalitzades de l'OmegaT per a registrar cadenes específiques del format i fer que l'OmegaT les gestioni com si fossin etiquetes normals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also use non default configuration folders by starting OmegaT from the command line.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081729Z" creationid="Marc Riera" creationdate="20221201T081729Z">
@@ -41043,6 +41147,22 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132326Z" creationid="Marc Riera" creationdate="20221211T132326Z">
         <seg>Associeu el format a un format ja compatible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by converting the format to an already supported format,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132335Z" creationid="Marc Riera" creationdate="20221211T132335Z">
+        <seg>Convertiu el format a un format ja compatible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by extending OmegaT with third-party plugins that offer support for that format,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132400Z" creationid="Marc Riera" creationdate="20221211T132400Z">
+        <seg>Amplieu l'OmegaT amb connectors de tercers que ofereixin compatibilitat amb el format.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44126,6 +44246,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T192823Z" creationid="Marc Riera" creationdate="20221210T192823Z">
         <seg>Com a còpia de seguretat periòdica, cada 3 minuts per defecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or by developping a filter for that format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132406Z" creationid="Marc Riera" creationdate="20221211T132406Z">
+        <seg>Desenvolupeu un filtre per al format.</seg>
       </tuv>
     </tu>
     <tu>
