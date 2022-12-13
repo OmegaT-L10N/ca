@@ -6081,6 +6081,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any time you create the translated files, any previously created files with the same name will be overwritten.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214144Z" creationid="Marc Riera" creationdate="20221213T214134Z">
+        <seg>Cada vegada que creeu els fitxers traduïts, se sobreescriurà qualsevol fitxer amb el mateix nom creat anteriorment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T164548Z" creationid="Packard Bell" creationdate="20150605T161057Z">
@@ -17122,6 +17130,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200124T232248Z" creationid="Marc Riera" creationdate="20180212T224925Z">
         <seg>Si heu utilitzat l'script «linux-install.sh», podeu executar l'OmegaT amb:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to keep files from being overwritten, change their name after you created them, or automate the name modification with &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214518Z" creationid="Marc Riera" creationdate="20221213T214518Z">
+        <seg>Si voleu impedir que se sobreescriguin els fitxers, canvieu-ne el nom després de crear-los o automatitzeu la modificació del nom amb &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40135,6 +40151,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T194011Z" creationid="mgalo" creationdate="20181114T115814Z">
         <seg>Si voleu veure com quedaria la vostra traducció amb el format final, premeu &lt;k2&gt;Ctrl+D&lt;/k2&gt; per a generar els documents traduïts. Aquests documents es desaran en la subcarpeta &lt;f3&gt;/target/&lt;/f3&gt; del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whenever you want to see what your translation will look like in its final format, use &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214106Z" creationid="Marc Riera" creationdate="20221213T214106Z">
+        <seg>Sempre que vulgueu veure com serà la traducció en el format final, utilitzeu &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
