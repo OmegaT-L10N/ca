@@ -10618,6 +10618,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Depending on the original format, OmegaT, however, will present this sentence in a fashion similar to this one:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T184659Z" creationid="Marc Riera" creationdate="20221213T184659Z">
+        <seg>Ara bé, en funció del format original, l'OmegaT mostrarà aquesta frase d'una manera semblant a la següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Depending on the pane status, different signs can appear at its top right corner:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163643Z" creationid="Marc Riera" creationdate="20220625T163643Z">
@@ -17015,6 +17023,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T112510Z" creationid="Marc Riera" creationdate="20221206T112510Z">
         <seg>Si només voleu reduir el nombre d'etiquetes, podeu utilitzar l'script &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you make mistakes when you manage the tags, your translated files might fail to open.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T185031Z" creationid="Marc Riera" creationdate="20221213T185031Z">
+        <seg>Si cometeu errors en gestionar les etiquetes, és possible que els fitxers traduïts no es puguin obrir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23446,6 +23462,14 @@ actualitzats.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is an &lt;c0&gt;&lt;t0/&gt;&lt;/c0&gt;easy to use&lt;c1&gt;&lt;t1/&gt;&lt;/c1&gt; program for &lt;c2&gt;&lt;t2/&gt;&lt;/c2&gt;eager&lt;c3&gt;&lt;t3/&gt;&lt;/c3&gt; translators</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T184732Z" creationid="Marc Riera" creationdate="20221213T184732Z">
+        <seg>L'OmegaT és un programa &lt;c0&gt;&lt;t0/&gt;&lt;/c0&gt;fàcil d'utilitzar&lt;c1&gt;&lt;t1/&gt;&lt;/c1&gt; per a traductors &lt;c2&gt;&lt;t2/&gt;&lt;/c2&gt;entusiastes&lt;c3&gt;&lt;t3/&gt;&lt;/c3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is an &lt;e0&gt;easy-to-use&lt;/e0&gt; program for &lt;e1&gt;eager&lt;/e1&gt; translators</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T184544Z" creationid="Marc Riera" creationdate="20221213T184544Z">
@@ -29358,6 +29382,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0/&gt; and &lt;l1/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T184834Z" creationid="Marc Riera" creationdate="20221213T184834Z">
+        <seg>Consulteu &lt;l0/&gt; i &lt;l1/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0/&gt; for details</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081737Z" creationid="Marc Riera" creationdate="20221201T081737Z">
@@ -34996,6 +35028,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The tags in OmegaT are grayed, making them easy to recognize.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T184800Z" creationid="Marc Riera" creationdate="20221213T184800Z">
+        <seg>Les etiquetes es mostren en color gris en l'OmegaT, de manera que són fàcils de reconèixer.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
@@ -35574,6 +35614,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110056Z" creationid="Marc Riera" creationdate="20221204T110056Z">
         <seg>Són a &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are protected to prevent you from modifying their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T184825Z" creationid="Marc Riera" creationdate="20221213T184825Z">
+        <seg>Estan protegides per a evitar que en modifiqueu el contingut, però podeu suprimir-les, introduir-les a mà o desplaçar-les en la frase traduïda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40885,6 +40933,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also define strings that OmegaT should warn you about if you leave them in a translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T185008Z" creationid="Marc Riera" creationdate="20221213T185008Z">
+        <seg>També podeu definir cadenes perquè l'OmegaT us avisi si les deixeu en una traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also enter your comment manually.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T215146Z" creationid="Marc Riera" creationdate="20221208T215146Z">
@@ -41050,6 +41106,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T190224Z" creationid="Marc Riera" creationdate="20221203T190224Z">
         <seg>Podeu personalitzar la majoria de dreceres de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can define custom tags that will be managed in the same manner.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T184840Z" creationid="Marc Riera" creationdate="20221213T184840Z">
+        <seg>Podeu definir etiquetes personalitzades que es gestionaran de la mateixa manera.</seg>
       </tuv>
     </tu>
     <tu>
