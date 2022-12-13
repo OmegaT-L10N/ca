@@ -1238,6 +1238,14 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment with xAUTO</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T163531Z" creationid="Marc Riera" creationdate="20221213T163531Z">
+        <seg>Segment amb xAUTO següe&amp;nt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;None</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T211930Z" creationid="Marc Riera" creationdate="20221124T211930Z">
@@ -1340,6 +1348,14 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180210T213803Z" creationid="Marc Riera" creationdate="20180210T213803Z">
         <seg>Segment &amp;anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Previous Segment with xAUTO</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T163607Z" creationid="Marc Riera" creationdate="20221213T163542Z">
+        <seg>Segmen&amp;t amb xAUTO anterior</seg>
       </tuv>
     </tu>
     <tu>
@@ -6416,6 +6432,14 @@ inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181108T152647Z" creationid="mgalo" creationdate="20181108T152647Z">
         <seg>Emplenament automàtic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-Popu&amp;lated Segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T163513Z" creationid="Marc Riera" creationdate="20221213T163513Z">
+        <seg>Segments emp&amp;lenats automàticament</seg>
       </tuv>
     </tu>
     <tu>
@@ -21736,6 +21760,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>N&amp;ext Segment with xENFORCED</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T163632Z" creationid="Marc Riera" creationdate="20221213T163557Z">
+        <seg>S&amp;egment amb xENFORCED següent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NB:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T202543Z" creationid="Marc Riera" creationdate="20220621T202543Z">
@@ -22650,6 +22682,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T224917Z" creationid="Marc Riera" creationdate="20191110T224917Z">
         <seg>Notificació (fixa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me Even If There Are No Search Results</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T163649Z" creationid="Marc Riera" creationdate="20221213T163649Z">
+        <seg>Avisa'm fins i tot si no hi ha cap resultat de cerca</seg>
       </tuv>
     </tu>
     <tu>
@@ -25000,6 +25040,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T220122Z" creationid="Marc Riera" creationdate="20191112T220122Z">
         <seg>Mode de sobreescriptura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;revious Segment with xENFORCED</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T163628Z" creationid="Marc Riera" creationdate="20221213T163628Z">
+        <seg>Segment amb xENFORCED ante&amp;rior</seg>
       </tuv>
     </tu>
     <tu>
@@ -35917,6 +35965,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file is not a plugin archive.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T163806Z" creationid="Marc Riera" creationdate="20221213T163806Z">
+        <seg>Aquest fitxer no és un arxiu de connector.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file stores the currently selected text when the &lt;l0/&gt; command in the &lt;l1/&gt; menu is used.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155605Z" creationid="Marc Riera" creationdate="20221201T155605Z">
@@ -36433,6 +36489,16 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T120046Z" creationid="Marc Riera" creationdate="20221209T120046Z">
         <seg>Això us permetrà conservar qualsevol nombre de versions alhora, que pot ser que us interessi fins que us acostumeu a la versió nova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will reset all
+settings to their defaults.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T163711Z" creationid="Marc Riera" creationdate="20221213T163711Z">
+        <seg>Això reinicialitzarà
+tots els paràmetres als valors per defecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37494,6 +37560,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223122Z" creationid="Marc Riera" creationdate="20180214T223122Z">
         <seg>Carpeta de les memòries de traducció:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation is</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T163744Z" creationid="Marc Riera" creationdate="20221213T163744Z">
+        <seg>La traducció</seg>
       </tuv>
     </tu>
     <tu>
@@ -41278,6 +41352,16 @@ d'una finestra del Finder per a poder-la executar des de qualsevol lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>You may therefore experience
+unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T163736Z" creationid="Marc Riera" creationdate="20221213T163736Z">
+        <seg>És possible que experimenteu
+un comportament inesperat però correcte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You may try to solve this problem in one of the following ways:</seg>
@@ -43466,6 +43550,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>fuzzy</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T163748Z" creationid="Marc Riera" creationdate="20221213T163748Z">
+        <seg>és parcial</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
@@ -45025,6 +45117,22 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134449Z" creationid="Marc Riera" creationdate="20221209T134449Z">
         <seg>new_word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>no</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T163739Z" creationid="Marc Riera" creationdate="20221213T163739Z">
+        <seg>no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>not fuzzy</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T163753Z" creationid="Marc Riera" creationdate="20221213T163753Z">
+        <seg>no és parcial</seg>
       </tuv>
     </tu>
     <tu>
