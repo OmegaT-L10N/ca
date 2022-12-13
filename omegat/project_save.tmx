@@ -10592,6 +10592,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deleting the contents of the &lt;l0/&gt; folder will &lt;e1&gt;never&lt;/e1&gt; impact your translations.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214618Z" creationid="Marc Riera" creationdate="20221213T214618Z">
+        <seg>Suprimir el contingut de la carpeta &lt;l0/&gt; no tindrà &lt;e1&gt;mai&lt;/e1&gt; cap impacte en les traduccions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Deletion failed</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214805Z" creationid="Marc Riera" creationdate="20221124T214805Z">
@@ -13043,6 +13051,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T191428Z" creationid="Marc Riera" creationdate="20221210T191428Z">
         <seg>Cada vegada que es modifica el fitxer &lt;f0&gt;project_save.tmx&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every time you create the translated files (see &lt;l0/&gt;, above), OmegaT creates three translation memories that contain the state of the translation of the files currently in the &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214841Z" creationid="Marc Riera" creationdate="20221213T214841Z">
+        <seg>Cada vegada que creeu els fitxers traduïts (consulteu l'apartat &lt;l0/&gt;, més amunt), l'OmegaT crea tres memòries de traducció que contenen l'estat de la traducció dels fitxers que hi ha actualmente en la carpeta &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21333,6 +21349,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modifications made outside OmegaT can be reinserted in OmegaT (and thus in the project translation memory, to keep it up to date) either by entering them manually in the relevant segments, or by aligning the original file and the final translated file to create a new translation memory (TMX) file that will be put in the &lt;l0/&gt; folder of your project folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T215050Z" creationid="Marc Riera" creationdate="20221213T215050Z">
+        <seg>Les modificacions externes a l'OmegaT es poden tornar a introduir a l'OmegaT (i a la memòria de traducció del projecte, per a mantenir-la al dia) introduint-les manualment en els segments pertinents, o bé alineant el fitxer original i el fitxer traduït final per a crear un fitxer de memòria de traducció (TMX) nou per a la carpeta &lt;l0/&gt;del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modifications made to any glossary are immediately recognized by OmegaT displayed in the &lt;l0/&gt; pane.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T102136Z" creationid="Marc Riera" creationdate="20221206T102136Z">
@@ -24260,6 +24284,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T140804Z" creationid="Marc Riera" creationdate="20221211T140804Z">
         <seg>Una vegada baixat el projecte, s'instal·la localment i només cal obrir-lo localment per a sincronitzar-lo amb el servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the translated files have been created, you can open them in their original application to check their contents and eventually further modify them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214926Z" creationid="Marc Riera" creationdate="20221213T214926Z">
+        <seg>Una vegada creats els fitxers traduïts, podeu obrir-los amb l'aplicació original per a comprovar-ne el contingut i, si cal, modificar-los.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32085,6 +32117,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T120440Z" creationid="Marc Riera" creationdate="20221204T110037Z">
         <seg>Aquestes ordres es defineixen en l'apartat &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such external modifications will &lt;e0&gt;not&lt;/e0&gt; be reflected in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214654Z" creationid="Marc Riera" creationdate="20221213T214654Z">
+        <seg>Aquestes modificacions externes &lt;e0&gt;no&lt;/e0&gt; es veuran reflectides en l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40906,6 +40946,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can access and modify the project settings with &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214711Z" creationid="Marc Riera" creationdate="20221213T214711Z">
+        <seg>Podeu accedir als paràmetres del projecte i modificar-los amb &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can access the global rules with &lt;l0/&gt; in the &lt;l1/&gt; menu.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T110044Z" creationid="Marc Riera" creationdate="20221206T110044Z">
@@ -41160,6 +41208,14 @@ d'allà.</seg>
         <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T220202Z" creationid="mgalo" creationdate="20181114T122709Z">
+        <seg>Podeu crear un projecte nou per a cada tasca nova o bé podeu afegir fitxers d'origen nous a un projecte existent en qualsevol moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create a new project for each new job, or you can add new source files to an existing project at any time.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214755Z" creationid="Marc Riera" creationdate="20221213T214726Z">
         <seg>Podeu crear un projecte nou per a cada tasca nova o bé podeu afegir fitxers d'origen nous a un projecte existent en qualsevol moment.</seg>
       </tuv>
     </tu>
@@ -41733,6 +41789,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T194228Z" creationid="Marc Riera" creationdate="20221210T194228Z">
         <seg>El fitxer traduït no s'obre?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your translations are &lt;e0&gt;always&lt;/e0&gt; stored in &lt;l1/&gt;, the project translation memory, located in the &lt;l2/&gt; folder of your project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214547Z" creationid="Marc Riera" creationdate="20221213T214547Z">
+        <seg>Les traduccions &lt;e0&gt;sempre&lt;/e0&gt; s'emmagatzemen en el fitxer &lt;l1/&gt;, la memòria de traducció del projecte, en la carpeta &lt;l2/&gt; del projecte.</seg>
       </tuv>
     </tu>
     <tu>
