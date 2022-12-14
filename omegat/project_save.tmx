@@ -3794,10 +3794,26 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Forward-Backward&lt;/g0&gt;: An alternative algorithm that can be used to align the documents.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T204952Z" creationid="Marc Riera" creationdate="20221214T204805Z">
+        <seg>&lt;g0&gt;Endavant-endarrere&lt;/g0&gt;: algorisme alternatiu que es pot utilitzar per a alinear els fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Heapwise&lt;/g0&gt;: This mode compares the documents globally.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201037Z" creationid="Marc Riera" creationdate="20221206T201037Z">
         <seg>&lt;g0&gt;Per conjunt&lt;/g0&gt;: aquest mode compara els documents globalment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;ID&lt;/g0&gt;: This mode applies to files consisting of &lt;l1&gt;key = value&lt;/l1&gt; entries.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T204728Z" creationid="Marc Riera" creationdate="20221214T204728Z">
+        <seg>&lt;g0&gt;ID&lt;/g0&gt;: aquest mode s'aplica als fitxers formats per entrades de &lt;l1&gt;clau = valor&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3818,10 +3834,26 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Normal&lt;/g0&gt;: The default statistical distribution used to align the documents.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T204948Z" creationid="Marc Riera" creationdate="20221214T204910Z">
+        <seg>&lt;g0&gt;Normal&lt;/g0&gt;: distribució estadística per defecte utilitzada per a alinear els fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Parsewise&lt;/g0&gt;: This mode compares the documents segment by segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201056Z" creationid="Marc Riera" creationdate="20221206T201056Z">
         <seg>&lt;g0&gt;Per processament&lt;/g0&gt;: aquest mode compara els documents segment per segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Poisson&lt;/g0&gt;: An alternative statistical distribution that can be used to align the documents.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T204944Z" creationid="Marc Riera" creationdate="20221214T204944Z">
+        <seg>&lt;g0&gt;Poisson&lt;/g0&gt;: distribució estadística alternativa que es pot utilitzar per a alinear els fitxers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3966,6 +3998,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T205830Z" creationid="Marc Riera" creationdate="20220621T205830Z">
         <seg>&lt;g0&gt;Sense traduir&lt;/g0&gt;: cerca només en els segments sense traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Viterbi&lt;/g0&gt;: The default algorithms used to align the documents.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T204957Z" creationid="Marc Riera" creationdate="20221214T204744Z">
+        <seg>&lt;g0&gt;Viterbi&lt;/g0&gt;: algoritme per defecte utilitzat per a alinear els fitxers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5274,6 +5314,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After selecting the language and files, click &lt;g0&gt;OK&lt;/g0&gt; button to bring up the &lt;g1&gt;Align&lt;/g1&gt; window, which shows the results of the automatic alignment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T204551Z" creationid="Marc Riera" creationdate="20221214T204551Z">
+        <seg>Després de seleccionar la llengua i els fitxers, feu clic en el botó &lt;g0&gt;D'acord&lt;/g0&gt; per a obrir la finestra &lt;g1&gt;Alineació&lt;/g1&gt;, que mostra els resultats de l'alineació automàtica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After several of these operations, select &lt;m0&gt;&lt;g1&gt;Edit&lt;/g1&gt;&lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T150423Z" creationid="Marc Riera" creationdate="20220506T150328Z">
@@ -6387,6 +6435,14 @@ inesperat però correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As with the algorithms, there is no hard-and-fast rule on which statistical distribution you should choose.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205022Z" creationid="Marc Riera" creationdate="20221214T205022Z">
+        <seg>De la mateixa manera que els algorismes, no hi ha cap regla ràpida i senzilla sobre quina distribució estadística triar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Asks for the page URL and downloads it into the &lt;l0/&gt; folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214850Z" creationid="Marc Riera" creationdate="20221207T214850Z">
@@ -7424,6 +7480,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, the aligner highlights all numbers in the source and target segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205353Z" creationid="Marc Riera" creationdate="20221214T205353Z">
+        <seg>Per defecte, l'alineador ressalta totes les xifres en els segments d'origen i de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the encoding of the translated file is the same as that of the source file.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084037Z" creationid="Marc Riera" creationdate="20221214T084037Z">
@@ -7767,6 +7831,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220447Z" creationid="Marc Riera" creationdate="20221208T220447Z">
         <seg>Canvia les majúscules del text seleccionat en el segment de destinació a l'opció seleccionada, o canvia cíclicament entre les opcions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing a parameter immediately recalculates the alignment, allowing you to quickly try different combinations to obtain the best results.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T204659Z" creationid="Marc Riera" creationdate="20221214T204659Z">
+        <seg>En modificar un paràmetre, es torna a calcular l'alineació immediatament, la qual cosa us permet provar ràpidament diferents combinacions per a obtenir els millors resultats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8560,6 +8632,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T170243Z" creationid="Marc Riera" creationdate="20221210T170243Z">
         <seg>En fer clic en un, es desarà el projecte actual, es tancarà i s'obrirà el projecte seleccionat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clicking this button lets you edit the segmentation rules that apply to this project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205420Z" creationid="Marc Riera" creationdate="20221214T205420Z">
+        <seg>Si feu clic en aquest botó, podeu editar les regles de segmentació que s'apliquen a aquest projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17111,6 +17191,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If you are working with one of each, you can try to switch between the two to see which one yields better results.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205229Z" creationid="Marc Riera" creationdate="20221214T205229Z">
+        <seg>Si treballeu amb un de cada, podeu intentar canviar entre els dos per a veure quin dona millors resultats.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you can program in another language, you can write code to support the core application.</seg>
@@ -17202,6 +17290,14 @@ extensions dels fitxers.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T211711Z" creationid="Alexandra" creationdate="20150526T105347Z">
         <seg>Si teniu una aversió natural a la lectura d'instruccions i la vostra actitud amb el programari nou es basa a fer clic en cada botó que veieu fins que passa alguna cosa semblant a l'efecte desitjat, aleshores l'OmegaT probablement no és adequat per a vós.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have a translation project open, the aligner will automatically use the languages from that project, as well the project-specific segmentation rules, if any.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T204521Z" creationid="Marc Riera" creationdate="20221214T204521Z">
+        <seg>Si teniu un projecte de traducció obert, l'alineador utilitzarà automàticament les llengües i les regles de segmentació específiques del projecte, si n'hi ha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18677,6 +18773,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121317Z" creationid="Marc Riera" creationdate="20220611T121317Z">
         <seg>També es pot canviar la posició d'un nom de fitxer, fent-hi clic i prement els botons &lt;g0&gt;Mou...&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It also shows an &lt;g0&gt;Average score&lt;/g0&gt; result for the alignment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T204627Z" creationid="Marc Riera" creationdate="20221214T204609Z">
+        <seg>També mostra una &lt;g0&gt;puntuació mitjana&lt;/g0&gt; per al resultat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34087,6 +34191,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The aligner automatically selects the counter based on the source and target languages of files to align.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205157Z" creationid="Marc Riera" creationdate="20221214T205157Z">
+        <seg>L'alineador selecciona automàticament el recompte en funció de les llengües d'origen i destinació dels fitxers que voleu alinear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The aligner can read all the file formats supported by OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200859Z" creationid="Marc Riera" creationdate="20221206T200859Z">
@@ -34099,6 +34211,22 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200536Z" creationid="Marc Riera" creationdate="20221206T200536Z">
         <seg>L'alineador no us permet desar la feina durant l'alineació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The aligner includes tags in the segments by default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205331Z" creationid="Marc Riera" creationdate="20221214T205331Z">
+        <seg>L'alineador inclou les etiquetes dels segments per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The aligner uses sentence segmentation by default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205239Z" creationid="Marc Riera" creationdate="20221214T205239Z">
+        <seg>L'alineador utilitza la segmentació per frases per defecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34132,6 +34260,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224335Z" creationid="Marc Riera" creationdate="20220130T224335Z">
         <seg>Les opcions disponibles són:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The available parameters and options are:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T204702Z" creationid="Marc Riera" creationdate="20221214T204702Z">
+        <seg>Els paràmetres i opcions disponibles són:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36032,6 +36168,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T185021Z" creationid="Marc Riera" creationdate="20201125T185021Z">
         <seg>Ara bé, hi ha prou marge en el projecte perquè els usuaris suggereixin millores i influeixin en el curs del desenvolupament futur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There is no hard-and-fast rule on which algorithm you should choose.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T204824Z" creationid="Marc Riera" creationdate="20221214T204824Z">
+        <seg>No hi ha cap regla ràpida i senzilla sobre quin algorisme triar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38915,6 +39059,30 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T203357Z" creationid="Marc Riera" creationdate="20221124T203357Z">
         <seg>Desmarqueu la casella per a inhabilitar-ho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uncheck the check box to apply the &lt;l0/&gt; option.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205342Z" creationid="Marc Riera" creationdate="20221214T205342Z">
+        <seg>Desmarqueu la casella per a aplicar l'opció &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uncheck the check box to turn off highlighting.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205400Z" creationid="Marc Riera" creationdate="20221214T205400Z">
+        <seg>Desmarqueu la casella per a desactivar el ressaltat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uncheck the check box to use paragraph segmentation (see &lt;l0/&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205319Z" creationid="Marc Riera" creationdate="20221214T205319Z">
+        <seg>Desmarqueu la casella per a utilitzar la segmentació per paràgrafs (consulteu &lt;l0/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
