@@ -3111,6 +3111,22 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Dhttp.proxyHost=.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T094128Z" creationid="Marc Riera" creationdate="20221214T094128Z">
+        <seg>-Dhttp.proxyHost=.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Dhttp.proxyPort=.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T094130Z" creationid="Marc Riera" creationdate="20221214T094130Z">
+        <seg>-Dhttp.proxyPort=.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-Duser.country=CC</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202017Z" creationid="Marc Riera" creationdate="20221210T202017Z">
@@ -4246,6 +4262,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;meta name="robots" content="index, follow"&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091738Z" creationid="Marc Riera" creationdate="20221214T091738Z">
+        <seg>&lt;meta name="robots" content="index, follow"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
@@ -4616,6 +4640,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212713Z" creationid="Marc Riera" creationdate="20201130T212713Z">
         <seg>Un projecte en equip es pot obrir i traduir fora de línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A value of 0 sets no limits.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T090256Z" creationid="Marc Riera" creationdate="20221214T090256Z">
+        <seg>Un valor de 0 equival a no tenir cap límit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5316,6 +5348,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Aggregate tags</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T090343Z" creationid="Marc Riera" creationdate="20221214T090343Z">
+        <seg>Agrega les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Aggressive &amp;Font Fallback</seg>
@@ -5626,6 +5666,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T153604Z" creationid="mgalo" creationdate="20181110T002718Z">
         <seg>Permet l'edició de les eti&amp;quetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allow blank target segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091900Z" creationid="Marc Riera" creationdate="20221214T091900Z">
+        <seg>Permet els segments de destinació buits</seg>
       </tuv>
     </tu>
     <tu>
@@ -6487,6 +6535,14 @@ inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151500Z" creationid="Marc Riera" creationdate="20220130T224523Z">
         <seg>Substitueix automàticament «nplurals=ENTER; plural=EXPRESSIÓ;» en la capçalera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto replace plural specification</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091944Z" creationid="Marc Riera" creationdate="20221214T091944Z">
+        <seg>Substitueix automàticament l'especificació de plurals</seg>
       </tuv>
     </tu>
     <tu>
@@ -8773,6 +8829,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Comments and sheet names.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T090308Z" creationid="Marc Riera" creationdate="20221214T090308Z">
+        <seg>Comentaris i noms dels fulls.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Commit Source Files</seg>
@@ -8867,6 +8931,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T125837Z" creationid="Marc Riera" creationdate="20190520T125837Z">
         <seg>Compatibilitat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Compatibility with OmegaT 2.6</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T085343Z" creationid="Marc Riera" creationdate="20221214T085343Z">
+        <seg>Compatibilitat amb l'OmegaT 2.6</seg>
       </tuv>
     </tu>
     <tu>
@@ -12445,6 +12517,14 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Enable this option if you need to work with XLIFF files created with OmegaT 2.6.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T085351Z" creationid="Marc Riera" creationdate="20221214T085351Z">
+        <seg>Habiliteu aquesta opció si necessiteu treballar amb fitxers XLIFF creats amb l'OmegaT 2.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Enabled</seg>
@@ -14138,6 +14218,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T210438Z" creationid="Alexandra" creationdate="20150526T102710Z">
         <seg>Els fitxers en formats antics del MS Word, Excel i Powerpoint es poden traduir després de convertir-los als formats actuals del Microsoft Office equivalents, o bé al format Office Open XML, conversió que es pot realitzar mitjançant l'OpenOffice.org o el LibreOffice (també lliures).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Files in the &lt;l0/&gt; folder are overwritten everytime you create them if they are created with the same name.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T093829Z" creationid="Marc Riera" creationdate="20221214T093829Z">
+        <seg>Els fitxers de la carpeta &lt;l0/&gt; se sobreescriuen cada vegada que els creeu si es creen amb el mateix nom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17373,6 +17461,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Ignore PO header</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091936Z" creationid="Marc Riera" creationdate="20221214T091936Z">
+        <seg>Ignora la capçalera del fitxer PO</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Ignore glossary case</seg>
@@ -17387,6 +17483,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220422Z" creationid="Marc Riera" creationdate="20220130T220422Z">
         <seg>Ignora les coincidències amb majúscules i minúscules molt diferents (p. ex., «FOO» i «foo»)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore tags that contain translate="no"</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091800Z" creationid="Marc Riera" creationdate="20221214T091800Z">
+        <seg>Ignora les etiquetes que contenen «translate="no"»</seg>
       </tuv>
     </tu>
     <tu>
@@ -17421,6 +17525,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204427Z" creationid="Marc Riera" creationdate="20221124T204427Z">
         <seg>Paràgrafs ignorats (expressió regular)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignored paragraphs at loading (regular expression)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091654Z" creationid="Marc Riera" creationdate="20221214T091654Z">
+        <seg>Paràgrafs ignorats en carregar (expressió regular)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17848,6 +17960,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221116T224218Z" creationid="Marc Riera" creationdate="20221116T224218Z">
         <seg>La contrasenya és incorrecta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), and sheet names.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T093148Z" creationid="Marc Riera" creationdate="20221214T093148Z">
+        <seg>Entrades d'índex, adreces d'interès, referències d'adreces d'interès, notes, comentaris, notes de la presentació, enllaços (URL) i noms dels fulls.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18947,6 +19067,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Java 9 and above requires UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T093101Z" creationid="Marc Riera" creationdate="20221214T093101Z">
+        <seg>El Java 9 i les versions posteriors requereixen la codificació UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Java Properties XML</seg>
@@ -18970,6 +19098,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T154347Z" creationid="mgalo" creationdate="20181109T224848Z">
         <seg>Opcions del filtre de paquets de recursos del Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Java Resource bundle</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091959Z" creationid="Marc Riera" creationdate="20221214T091959Z">
+        <seg>Paquet de recursos del Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -19135,6 +19271,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T210848Z" creationid="Marc Riera" creationdate="20221124T210848Z">
         <seg>Conserva els codis literals d'Unico&amp;de (\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep Unicode literals (\\uXXXX)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T093112Z" creationid="Marc Riera" creationdate="20221214T093112Z">
+        <seg>Conserva els codis literals d'Unicode (\uXXXX)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19923,6 +20067,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191040Z" creationid="Marc Riera" creationdate="20221201T191040Z">
         <seg>Salt de línia, seguit de qualsevol caràcter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line length</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T090217Z" creationid="Marc Riera" creationdate="20221214T090217Z">
+        <seg>Longitud de línia</seg>
       </tuv>
     </tu>
     <tu>
@@ -21099,6 +21251,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180212T221507Z" creationid="Marc Riera" creationdate="20180212T221507Z">
         <seg>Maximitza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maximum line length</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T090239Z" creationid="Marc Riera" creationdate="20221214T090239Z">
+        <seg>Longitud de línia màxima</seg>
       </tuv>
     </tu>
     <tu>
@@ -23349,6 +23509,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT always reproduces the source contents when a segment is not provided.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091908Z" creationid="Marc Riera" creationdate="20221214T091908Z">
+        <seg>L'OmegaT sempre reprodueix el contingut original quan no es proporciona un segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically chose the 'Yes' option.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T171952Z" creationid="Marc Riera" creationdate="20221117T171952Z">
@@ -23887,6 +24055,14 @@ està a punt per a executar-se.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT parameters</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T094133Z" creationid="Marc Riera" creationdate="20221214T094133Z">
+        <seg>Paràmetres de l'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT projects are &lt;e1&gt;not&lt;/e1&gt; stored inside OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T205135Z" creationid="Marc Riera" creationdate="20221206T205135Z">
@@ -24018,6 +24194,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T123958Z" creationid="Marc Riera" creationdate="20221211T123958Z">
         <seg>L'OmegaT utilitza sistemes de control de versions col·laboratius per a compartir dades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT uses the default encoding of the operating system for text files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T093803Z" creationid="Marc Riera" creationdate="20221214T093803Z">
+        <seg>L'OmegaT utilitza la codificació per defecte del sistema operatiu per als fitxers de text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24614,6 +24798,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T145215Z" creationid="Alexandra" creationdate="20150526T100814Z">
         <seg>Format OpenDocument (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Document Format (ODF) files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T093128Z" creationid="Marc Riera" creationdate="20221214T093128Z">
+        <seg>Fitxers en format OpenDocument (ODF)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27890,6 +28082,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091836Z" creationid="Marc Riera" creationdate="20221214T091836Z">
+        <seg>Suprimeix les cadenes sense traduir en els fitxers de destinació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Removing them from the translatable contents ensures that you will not erase or modify them by mistake.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T082357Z" creationid="Marc Riera" creationdate="20221214T082357Z">
@@ -30501,6 +30701,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the filter in the list and click &lt;g0&gt;Options...&lt;/g0&gt; to modify them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T085338Z" creationid="Marc Riera" creationdate="20221214T085338Z">
+        <seg>Seleccioneu el filtre de la llista i feu clic en &lt;g0&gt;Opcions...&lt;/g0&gt; per a modificar-les.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the first segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220307T225126Z" creationid="Marc Riera" creationdate="20220307T225126Z">
@@ -31286,6 +31494,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T143809Z" creationid="mgalo" creationdate="20181109T231827Z">
         <seg>Dissen&amp;ys de les diapositives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slide comments, slide masters, and slide layouts.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T090332Z" creationid="Marc Riera" creationdate="20221214T090332Z">
+        <seg>Comentaris de les diapositives, diapositives mestres i dissenys de diapositives.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32097,6 +32313,22 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Start a new paragraph on</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091641Z" creationid="Marc Riera" creationdate="20221214T091641Z">
+        <seg>Comença un nou paràgraf amb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new paragraph on Word soft-returns</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091629Z" creationid="Marc Riera" creationdate="20221214T091629Z">
+        <seg>Inicia un paràgraf nou en els salts de línia suaus del Word</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Start a new paragraph on:</seg>
@@ -32780,6 +33012,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tag shortcuts</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T085402Z" creationid="Marc Riera" creationdate="20221214T085402Z">
+        <seg>Dreceres d'etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tag shortcuts (do not apply to OmegaT 2.6 compatible files):</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202426Z" creationid="Marc Riera" creationdate="20221124T202426Z">
@@ -33205,6 +33445,14 @@ L'àmbit d'una substitució de text són els segments de destinació del project
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224338Z" creationid="Marc Riera" creationdate="20220130T224338Z">
         <seg>Fitxers de text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text files do not have generic paragraph markers.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T090203Z" creationid="Marc Riera" creationdate="20221214T090203Z">
+        <seg>Els fitxers de text no tenen marcadors de paràgraf genèrics.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34310,6 +34558,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The filter checks printf variables ('%s', etc.) by default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091855Z" creationid="Marc Riera" creationdate="20221214T091855Z">
+        <seg>El filtre comprova les variables del printf («%s», etc.) per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The filters originate from the European Union DGT version of OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T135325Z" creationid="Marc Riera" creationdate="20221211T135325Z">
@@ -35358,6 +35614,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The target filename pattern uses a special syntax.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T093848Z" creationid="Marc Riera" creationdate="20221214T093848Z">
+        <seg>El patró de nom dels fitxers de destinació utilitza una sintaxi especial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The team functionality offers industrial grade robustness and flexibility to synchronize project resources among team members, while allowing easy resolution of conflicts between different translations.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T215110Z" creationid="Marc Riera" creationdate="20221211T215110Z">
@@ -35871,6 +36135,14 @@ la ubicació de la carpeta de configuració de l'OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155436Z" creationid="Marc Riera" creationdate="20221201T155436Z">
         <seg>Aquests fitxers registren diversos missatges de l'estat intern i els esdeveniments del programa generats durant l'execució de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These option specify the way OmegaT creates tags from the XLIFF contents.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T085412Z" creationid="Marc Riera" creationdate="20221214T085412Z">
+        <seg>Aquesta opció especifica la manera en què l'OmegaT crea les etiquetes a partir del contingut del fitxer XLIFF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36664,10 +36936,34 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option allows for that.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T093115Z" creationid="Marc Riera" creationdate="20221214T093115Z">
+        <seg>Aquesta opció ho permet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123228Z" creationid="Marc Riera" creationdate="20221209T123228Z">
         <seg>Aquesta opció mostra els &lt;u0&gt;caràcters de control bidireccional&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option forces Java 8 compatibility.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T093105Z" creationid="Marc Riera" creationdate="20221214T093105Z">
+        <seg>Aquesta opció força la compatibilitat amb el Java 8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option is convenient when dealing with HTML parts that only contain non translatable text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091722Z" creationid="Marc Riera" creationdate="20221214T091722Z">
+        <seg>Aquesta opció és pràctica en tractar parts de fitxers HTML que només contenen text no traduïble.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37239,6 +37535,14 @@ tots els paràmetres als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To ignore this content:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091736Z" creationid="Marc Riera" creationdate="20221214T091736Z">
+        <seg>Per a ignorar aquest contingut:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T214849Z" creationid="Marc Riera" creationdate="20201130T214849Z">
@@ -37691,6 +37995,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Translate blank source segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091930Z" creationid="Marc Riera" creationdate="20221214T091930Z">
+        <seg>Tradueix els segments d'origen buits</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translate the file</seg>
@@ -37700,12 +38012,28 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Translate the following attributes</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091635Z" creationid="Marc Riera" creationdate="20221214T091635Z">
+        <seg>Tradueix els atributs següents</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translate the following attributes:</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181109T235247Z" creationid="mgalo" creationdate="20181109T235247Z">
         <seg>Tradueix els atributs següents:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate the following elements</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T093132Z" creationid="Marc Riera" creationdate="20221214T093132Z">
+        <seg>Tradueix els elements següents</seg>
       </tuv>
     </tu>
     <tu>
@@ -39594,6 +39922,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T124022Z" creationid="Marc Riera" creationdate="20221209T124022Z">
         <seg>Utilitzeu aquesta funció quan tingueu problemes en reordenar la disposició de la finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this option to leave a non translated segment blank.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091925Z" creationid="Marc Riera" creationdate="20221214T091925Z">
+        <seg>Utilitzeu aquesta opció per a deixar buits els segments sense traduir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44953,6 +45289,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>if checked, OmegaT changes the state of the XLIFF target part to "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T085456Z" creationid="Marc Riera" creationdate="20221214T085456Z">
+        <seg>Si es marca, l'OmegaT canvia l'estat de la part de destinació del fitxer XLIFF a "needs-review-translation" en comptes de "translated".</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>ignored_words.txt.</seg>
@@ -45653,6 +45997,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084227Z" creationid="Marc Riera" creationdate="20221214T084227Z">
         <seg>Nom del fitxer d'origen, sense l'extensió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>name=robots</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091740Z" creationid="Marc Riera" creationdate="20221214T091740Z">
+        <seg>name=robots</seg>
       </tuv>
     </tu>
     <tu>
@@ -46608,6 +46960,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081940Z" creationid="Marc Riera" creationdate="20221201T081940Z">
         <seg>source.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>specifies the maximum number of characters before breaking a long line.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T090233Z" creationid="Marc Riera" creationdate="20221214T090233Z">
+        <seg>Especifica el nombre màxim de caracters abans de trencar una línia llarga.</seg>
       </tuv>
     </tu>
     <tu>
