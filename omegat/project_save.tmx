@@ -4183,6 +4183,54 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt;: &lt;f1&gt;docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084521Z" creationid="Marc Riera" creationdate="20221214T084521Z">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt;: &lt;f1&gt;docx&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt;: &lt;f1&gt;xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084521Z" creationid="Marc Riera" creationdate="20221214T084521Z">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt;: &lt;f1&gt;xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt;: &lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084523Z" creationid="Marc Riera" creationdate="20221214T084523Z">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt;: &lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt;: &lt;f1&gt;Document&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084518Z" creationid="Marc Riera" creationdate="20221214T084518Z">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt;: &lt;f1&gt;Document&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt;: &lt;f1&gt;Document.xx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084519Z" creationid="Marc Riera" creationdate="20221214T084519Z">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt;: &lt;f1&gt;Document.xx&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt;: &lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084520Z" creationid="Marc Riera" creationdate="20221214T084520Z">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt;: &lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;Regular expressions&lt;/l0&gt; are a powerful way to look for instances of a string.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T204307Z" creationid="Marc Riera" creationdate="20220621T204307Z">
@@ -6307,6 +6355,14 @@ inesperat però correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Associating a file extension to a filter is not sufficient to have the filter properly handle the file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T083943Z" creationid="Marc Riera" creationdate="20221214T083943Z">
+        <seg>L'associació d'una extensió de fitxer a un filtre no és suficient perquè el filtre tracti correctament el fitxer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Association</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131556Z" creationid="Marc Riera" creationdate="20221211T131556Z">
@@ -6919,6 +6975,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Both dialogs allow you to customize the filename patterns for the source and target files associated to this the filter, and select their respective encoding.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T083704Z" creationid="Marc Riera" creationdate="20221214T083704Z">
+        <seg>Tots dos quadres de diàlegs us permeten personalitzar els patrons de nom de fitxer per als fitxers d'origen i destinació associats a aquest el filtre i seleccionar la codificació corresponent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Break rule, box checked, lower in the list</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191841Z" creationid="Marc Riera" creationdate="20221201T191841Z">
@@ -7300,6 +7364,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T122711Z" creationid="Marc Riera" creationdate="20221206T122711Z">
         <seg>Per defecte, és la carpeta del projecte en si, però podeu canviar-ne la ubicació perquè sigui més pràctic compartir els fitxers de memòries de traducció exportats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, the encoding of the translated file is the same as that of the source file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084037Z" creationid="Marc Riera" creationdate="20221214T084037Z">
+        <seg>Per defecte, la codificació del fitxer traduït és la mateixa que la del fitxer d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11642,6 +11714,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Double-click the editable fields to make simple modifications or click on the &lt;g0&gt;Edit...&lt;/g0&gt; button to access the modification dialog.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T083629Z" creationid="Marc Riera" creationdate="20221214T083629Z">
+        <seg>Feu doble clic en els camps editables per a aplicar modificacions senzilles o feu clic en el botó &lt;g0&gt;Edita...&lt;/g0&gt; per a accedir al quadre de diàleg de modificació.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Doubled blanks</seg>
@@ -14413,6 +14493,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>For example, the pattern &lt;l0&gt;.xhtml&lt;/l0&gt; registered in the XHTML filter matches any file with the &lt;f1&gt;xhtml&lt;/f1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T083848Z" creationid="Marc Riera" creationdate="20221214T083848Z">
+        <seg>Per exemple, el patró &lt;l0&gt;.xhtml&lt;/l0&gt; registrat en el filtre XHTML coincideix amb qualsevol fitxer amb l'extensió &lt;f1&gt;xhtml&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
@@ -16629,6 +16717,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If such a file is found in the &lt;l2/&gt; folder, the file will be handled by the XHTML filter.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T083949Z" creationid="Marc Riera" creationdate="20221214T083917Z">
+        <seg>Si es troba un fitxer així en la carpeta &lt;l2/&gt;, el fitxer es tractarà amb el filtre XHTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the alignment looks as if it could be improved, try changing the parameters.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T145700Z" creationid="Marc Riera" creationdate="20220506T145700Z">
@@ -16750,6 +16846,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the source documents contain whitespace used to control the layout, the whitespace that must be will retained in the translated document.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T082541Z" creationid="Marc Riera" creationdate="20221214T082541Z">
+        <seg>Si els documents d'origen contenen espais en blanc per a controlar la disposició, s'ha de conservar l'espai en blanc en el document traduït.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there are duplicated (non-unique) segments in the source documents, checking this option will set the first translated segment as the default translation and automatically use the same target text in the remaining repeated segments.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T132953Z" creationid="Marc Riera" creationdate="20221206T132953Z">
@@ -16794,6 +16898,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170443Z" creationid="Packard Bell" creationdate="20150605T161235Z">
         <seg>Si no entren en conflicte amb les dreceres del sistema, haurien d'estar disponibles en l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this option is checked, only the previous/next segments or a segment identifier will be used to characterize an alternative translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T082616Z" creationid="Marc Riera" creationdate="20221214T082616Z">
+        <seg>Si es marca aquesta opció, s'utilitzaran només els segments anteriors/següents o un identificador de segment per a identificar una traducció alternativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17063,6 +17175,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T112510Z" creationid="Marc Riera" creationdate="20221206T112510Z">
         <seg>Si només voleu reduir el nombre d'etiquetes, podeu utilitzar l'script &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you keep the leading and trailing tags, make sure that they are leading and trailing as well in the translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T082420Z" creationid="Marc Riera" creationdate="20221214T082420Z">
+        <seg>Si conserveu les etiquetes inicials i finals, assegureu-vos que també siguin inicials i finals en la traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17426,6 +17546,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T112459Z" creationid="Marc Riera" creationdate="20221206T112459Z">
         <seg>En la majoria dels casos, això no hauria d'impedir l'obertura del fitxer traduït.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In non-segmented projects, disable this option to make leading and trailing whitespace modifiable in the translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T082519Z" creationid="Marc Riera" creationdate="20221214T082519Z">
+        <seg>En els projectes sense segmentar, inhabiliteu aquesta opció per a poder modificar els espais en blanc inicials i finals en la traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19554,6 +19682,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Leading and trailing tags are generally required by OmegaT to properly recreate the translated segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T082327Z" creationid="Marc Riera" creationdate="20221214T082327Z">
+        <seg>Normalment, l'OmegaT requereix les etiquetes inicials i finals per a recrear correctament el segment traduït.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Learn</seg>
@@ -21545,6 +21681,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T150838Z" creationid="mgalo" creationdate="20181113T095532Z">
         <seg>URL del servidor del Moses:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most file formats allow various possible encodings.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084029Z" creationid="Marc Riera" creationdate="20221214T084029Z">
+        <seg>La majoria dels formats de fitxers permeten diverses codificacions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27746,6 +27890,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Removing them from the translatable contents ensures that you will not erase or modify them by mistake.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T082357Z" creationid="Marc Riera" creationdate="20221214T082357Z">
+        <seg>Si les suprimiu del contingut traduïble, us assegureu que no les esborrareu ni modificareu per error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rename it &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T193833Z" creationid="Marc Riera" creationdate="20221210T193833Z">
@@ -29748,6 +29900,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;u0&gt; Oracle documentation&lt;/u0&gt; for examples.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084355Z" creationid="Marc Riera" creationdate="20221214T084355Z">
+        <seg>Consulteu la &lt;u0&gt;Documentació d'Oracle&lt;/u0&gt; per a veure exemples.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;u0&gt;TMX 1.4b Specification&lt;/u0&gt; for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T122927Z" creationid="Marc Riera" creationdate="20221206T122927Z">
@@ -29983,6 +30143,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T105057Z" creationid="mgalo" creationdate="20181112T105057Z">
         <seg>Text dels segments amb notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segments with the same characteristics located in other files will be translated the same way.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T082623Z" creationid="Marc Riera" creationdate="20221214T082623Z">
+        <seg>Els segments amb les mateixes característiques en altres fitxers es traduiran de la mateixa manera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30712,6 +30880,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Several filters offer options.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T085324Z" creationid="Marc Riera" creationdate="20221214T085324Z">
+        <seg>Hi ha diversos filtres que ofereixen opcions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Share TMs</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T123816Z" creationid="Marc Riera" creationdate="20221211T123816Z">
@@ -31417,6 +31593,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T174212Z" creationid="Marc Riera" creationdate="20221210T174212Z">
         <seg>Fitxers d'origen... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source and translated file encoding</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084013Z" creationid="Marc Riera" creationdate="20221214T084013Z">
+        <seg>Codificació dels fitxers d'origen i destinació</seg>
       </tuv>
     </tu>
     <tu>
@@ -32734,6 +32918,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Target file names</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084511Z" creationid="Marc Riera" creationdate="20221214T084511Z">
+        <seg>Noms dels fitxers de destinació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Target files</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T141457Z" creationid="Marc Riera" creationdate="20221211T141457Z">
@@ -33907,6 +34099,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The default pattern.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084120Z" creationid="Marc Riera" creationdate="20221214T084120Z">
+        <seg>Patró per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The default setting for a translation project is to create &lt;e0&gt;sentences&lt;/e0&gt; by splitting the &lt;e1&gt;paragraph blocks&lt;/e1&gt; found in the document.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T220557Z" creationid="Marc Riera" creationdate="20221211T220557Z">
@@ -33927,6 +34127,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T105508Z" creationid="Marc Riera" creationdate="20221206T105508Z">
         <seg>Aquest quadre de diàleg s'utilitza per a definir les propietats inicials del projecte en crear-ne un de nou i també per modificar-les més tard, quan ja s'ha creat el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dialog offers various options:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084054Z" creationid="Marc Riera" creationdate="20221214T084054Z">
+        <seg>El quadre de diàleg ofereix diverses opcions:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35012,6 +35220,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215008Z" creationid="Marc Riera" creationdate="20180214T223325Z">
         <seg>La llengua dels fitxers d'origen que heu especificat no és vàlida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source file name is one of the elements that characterize an alternative translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T082548Z" creationid="Marc Riera" creationdate="20221214T082548Z">
+        <seg>El nom del fitxer d'origen és un dels elements que caracteritzen una traducció alternativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36808,6 +37024,14 @@ tots els paràmetres als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add a filter pattern, click on &lt;g0&gt;Add...&lt;/g0&gt; to open a similar dialog.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T083643Z" creationid="Marc Riera" creationdate="20221214T083643Z">
+        <seg>Per a afegir un patró de filtre, feu clic en &lt;g0&gt;Afegeix&lt;/g0&gt; per a obrir un quadre de diàleg similar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add a new source file:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212419Z" creationid="Marc Riera" creationdate="20201130T212419Z">
@@ -36853,6 +37077,14 @@ tots els paràmetres als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215949Z" creationid="Marc Riera" creationdate="20221207T215949Z">
         <seg>Per a assignar un número a un script:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To associate a filter to a file, OmegaT checks its file extension and attempts to match it to a source filename patterns in a filter.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T083802Z" creationid="Marc Riera" creationdate="20221214T083802Z">
+        <seg>Per a associar un filtre a un fitxer, OmegaT comprova la seva extensió de fitxer i intenta fer-lo coincidir amb els patrons del nom de fitxer d'origen en un filtre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37597,6 +37829,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T141112Z" creationid="mgalo" creationdate="20181109T131707Z">
         <seg>El camí del fitxer traduït no pot ser idèntic al del fitxer d'origen:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated filename</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084048Z" creationid="Marc Riera" creationdate="20221214T084048Z">
+        <seg>Nom del fitxer traduït</seg>
       </tuv>
     </tu>
     <tu>
@@ -39265,6 +39505,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220347Z" creationid="Marc Riera" creationdate="20220130T220347Z">
         <seg>Utilitza els termes que apareixen separats en el text d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;g0&gt;Filename Variables&lt;/g0&gt; drop-down menu to customize the target file name.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T083752Z" creationid="Marc Riera" creationdate="20221214T083752Z">
+        <seg>Utilitzeu el menú desplegable &lt;g0&gt;Variables de nom del fitxer&lt;/g0&gt; per a personalitzar el nom del fitxer de destinació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41176,6 +41424,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T095728Z" creationid="Marc Riera" creationdate="20221206T095728Z">
         <seg>Podeu canviar-ne el nom i la ubicació en el quadre de diàleg &lt;l0/&gt;, però heu de donar-li l'extensió &lt;f1&gt;.txt&lt;/f1&gt; o &lt;f2&gt;.utf8&lt;/f2&gt;, i emmagatzemar-lo en la carpeta &lt;l3/&gt; o en una de les seves subcarpetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change or add filename patterns to associate different files to a filter.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T083932Z" creationid="Marc Riera" creationdate="20221214T083932Z">
+        <seg>Podeu canviar o afegir patrons de nom del fitxer per a associar diferents fitxers a un filtre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43646,6 +43902,22 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>encoding of the source file</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084440Z" creationid="Marc Riera" creationdate="20221214T084440Z">
+        <seg>Codificació del fitxer d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>encoding of the target file</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084448Z" creationid="Marc Riera" creationdate="20221214T084448Z">
+        <seg>Codificació del fitxer de destinació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>entry_activated</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134445Z" creationid="Marc Riera" creationdate="20221209T134445Z">
@@ -44014,6 +44286,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T084428Z" creationid="Marc Riera" creationdate="20221205T084428Z">
         <seg>helpUpdateCheckMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>host name on the system</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084432Z" creationid="Marc Riera" creationdate="20221214T084432Z">
+        <seg>Nom de l'ordinador en el sistema</seg>
       </tuv>
     </tu>
     <tu>
@@ -45361,6 +45641,22 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>name of the operating system</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084401Z" creationid="Marc Riera" creationdate="20221214T084401Z">
+        <seg>Nom del sistema operatiu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>name of the source file, without the extension</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084227Z" creationid="Marc Riera" creationdate="20221214T084227Z">
+        <seg>Nom del fitxer d'origen, sense l'extensió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>new_file</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134448Z" creationid="Marc Riera" creationdate="20221209T134448Z">
@@ -45762,6 +46058,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212654Z" creationid="Marc Riera" creationdate="20201130T212654Z">
         <seg>O bé, obriu el projecte des de la línia d'ordres amb l'opció &lt;c0&gt;--no-team&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>original file extension</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084234Z" creationid="Marc Riera" creationdate="20221214T084234Z">
+        <seg>Extensió del fitxer original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46342,6 +46646,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>system time when the file is was created</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084344Z" creationid="Marc Riera" creationdate="20221214T084328Z">
+        <seg>Hora del sistema en crear el fitxer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>t</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113111Z" creationid="Marc Riera" creationdate="20221129T113111Z">
@@ -46364,6 +46676,38 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165756Z" creationid="Marc Riera" creationdate="20200802T165756Z">
         <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target language code (xx)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084303Z" creationid="Marc Riera" creationdate="20221214T084303Z">
+        <seg>Codi de la llengua de destinació (xx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target language+region (xx-YY)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084254Z" creationid="Marc Riera" creationdate="20221214T084254Z">
+        <seg>Llengua de destinació+regió (xx-YY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target language+region code (xx_YY)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084247Z" creationid="Marc Riera" creationdate="20221214T084247Z">
+        <seg>Llengua de destinació+codi de regió (xx_YY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target region code (YY)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084310Z" creationid="Marc Riera" creationdate="20221214T084310Z">
+        <seg>Codi de la regió de destinació (YY)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46639,6 +46983,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212841Z" creationid="Marc Riera" creationdate="20201130T212841Z">
         <seg>Utilitzeu &lt;m0&gt; &lt;g1&gt;Projecte&lt;/g1&gt; &lt;g2&gt;Publica els fitxers d'origen&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>user’s login name</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084412Z" creationid="Marc Riera" creationdate="20221214T084412Z">
+        <seg>Nom d'inici de sessió de l'usuari</seg>
       </tuv>
     </tu>
     <tu>
