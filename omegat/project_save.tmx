@@ -3778,6 +3778,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Close&lt;/g0&gt;: This closes the &lt;g1&gt;Align&lt;/g1&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205647Z" creationid="Marc Riera" creationdate="20221214T205647Z">
+        <seg>&lt;g0&gt;Tanca&lt;/g0&gt;: tanca el quadre de diàleg &lt;g1&gt;Alineació&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Close&lt;/g0&gt;: close the window without any change.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T152521Z" creationid="Marc Riera" creationdate="20220611T152521Z">
@@ -7488,6 +7496,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, the aligner uses &lt;l0&gt;\d+&lt;/l0&gt; to highlight numbers.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205550Z" creationid="Marc Riera" creationdate="20221214T205550Z">
+        <seg>Per defecte, l'alineador utilitza &lt;l0&gt;\d+&lt;/l0&gt; per a ressaltar les xifres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the encoding of the translated file is the same as that of the source file.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084037Z" creationid="Marc Riera" creationdate="20221214T084037Z">
@@ -8636,10 +8652,18 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clicking this button lets you edit the file filters that apply to this project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205451Z" creationid="Marc Riera" creationdate="20221214T205451Z">
+        <seg>Si feu clic en aquest botó, podeu editar els filtres de fitxers que s'apliquen al projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clicking this button lets you edit the segmentation rules that apply to this project.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205420Z" creationid="Marc Riera" creationdate="20221214T205420Z">
-        <seg>Si feu clic en aquest botó, podeu editar les regles de segmentació que s'apliquen a aquest projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205425Z" creationid="Marc Riera" creationdate="20221214T205420Z">
+        <seg>Si feu clic en aquest botó, podeu editar les regles de segmentació que s'apliquen al projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9594,6 +9618,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202620Z" creationid="Marc Riera" creationdate="20221124T202620Z">
         <seg>Copyright © 2000-2022 Keith Godfrey, Maxym Mykhalchuk et al.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Corrections</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205710Z" creationid="Marc Riera" creationdate="20221214T205710Z">
+        <seg>Correccions</seg>
       </tuv>
     </tu>
     <tu>
@@ -17379,6 +17411,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you modify the file filters, you will be asked if you want to save those changes when you exit the aligner.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205508Z" creationid="Marc Riera" creationdate="20221214T205508Z">
+        <seg>Si modifiqueu els filtres de fitxers, se us demanarà si voleu desar els canvis quan sortiu de l'alineador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you need a separate review process, you can for example use the &lt;l0/&gt; panes for problematic segments, or use &lt;l1/&gt; to filter segments based on criteria that you set, and review only those, etc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222943Z" creationid="Marc Riera" creationdate="20221211T222943Z">
@@ -17697,6 +17737,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T143806Z" creationid="Marc Riera" creationdate="20221211T143806Z">
         <seg>En un projecte en equip, els paràmetres de configuració bàsics del projecte local sempre se substitueixen per la configuració del servidor definida pel gestor del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition, the &lt;g0&gt;File&lt;/g0&gt; menu provides the following commands:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205611Z" creationid="Marc Riera" creationdate="20221214T205611Z">
+        <seg>A més, el menú &lt;g0&gt;Fitxer&lt;/g0&gt; proporciona les ordres següents:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41787,6 +41835,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>You can also call this command by pressing &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;W&lt;/k4&gt;&lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205707Z" creationid="Marc Riera" creationdate="20221214T205707Z">
+        <seg>També podeu executar aquesta ordre prement &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;W&lt;/k4&gt;&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
@@ -42238,6 +42294,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214433Z" creationid="Marc Riera" creationdate="20221207T214433Z">
         <seg>Podeu utilitzar les fletxes per a seleccionar un fitxer i obrir-lo per a traduir-lo prement &lt;k1&gt;Retorn&lt;/k1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use this command to parse and align the files again if you had to modify their contents.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205634Z" creationid="Marc Riera" creationdate="20221214T205634Z">
+        <seg>Podeu utilitzar aquesta ordre per a analitzar i tornar a alinear els fitxers si n'heu modificat el contingut.</seg>
       </tuv>
     </tu>
     <tu>
