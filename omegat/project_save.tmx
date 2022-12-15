@@ -14711,6 +14711,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, use the pattern &lt;l0&gt;read*&lt;/l0&gt; if you want to have the text filter handle readme files (&lt;l1&gt;readme, read.me&lt;/l1&gt;, or &lt;l2&gt;readme.txt&lt;/l2&gt;).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T103626Z" creationid="Marc Riera" creationdate="20221215T103626Z">
+        <seg>Per exemple, utilitzeu el patró &lt;l0&gt;read*&lt;/l0&gt; si voleu que el filtre de text tracti fitxers Llegeix-me (&lt;l1&gt;readme, read.me&lt;/l1&gt; o &lt;l2&gt;readme.txt&lt;/l2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For file formats and filters that support comments (e.g. PO-filter), displays the comments for the translator concerning the active segment, if any.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T213403Z" creationid="Marc Riera" creationdate="20221124T213403Z">
@@ -32037,6 +32045,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T203427Z" creationid="Marc Riera" creationdate="20221124T203427Z">
         <seg>Patró de nom del fitxer d'origen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename patterns use wild card characters : the &lt;l0&gt;*&lt;/l0&gt; character matches zero or more characters, while the &lt;l1&gt;?&lt;/l1&gt; character matches exactly one character.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T103656Z" creationid="Marc Riera" creationdate="20221215T103656Z">
+        <seg>Els patrons de nom del fitxer d'origen utilitzen caràcters de comodí: el caràcter &lt;l0&gt;*&lt;/l0&gt; coincideix amb zero o més caràcters, mentre que el caràcter &lt;l1&gt;?&lt;/l1&gt; coincideix exactament amb un caràcter.</seg>
       </tuv>
     </tu>
     <tu>
