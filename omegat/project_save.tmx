@@ -34725,6 +34725,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The file structure must also be compatible with the filter: even if you associate &lt;l0&gt;.odt&lt;/l0&gt; to the XHMTL filter, the filter will not be able to understand the contents of a LibreOffice Writer file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T082645Z" creationid="Marc Riera" creationdate="20221215T082645Z">
+        <seg>L'estructura del fitxer també ha de ser compatible amb el filtre: encara que associeu l'extensió &lt;l0&gt;.odt&lt;/l0&gt; al filtre XHMTL, el filtre no podrà processar el contingut d'un fitxer del LibreOffice Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The files are downloadable directly from &lt;u0&gt;https://omegat.org&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T210256Z" creationid="Marc Riera" creationdate="20221206T210256Z">
