@@ -19372,6 +19372,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java 8 requires ISO-8859-1 encoding and uses Unicode literals for characters outside that character set.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T203308Z" creationid="Marc Riera" creationdate="20221215T203308Z">
+        <seg>El Java 8 requereix la codificació ISO-8859-1 i utilitza codis literals d'Unicode per a caràcters aliens a aquest joc de caràcters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java 9 and above requires UTF-8 encoding.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T093101Z" creationid="Marc Riera" creationdate="20221214T093101Z">
@@ -25842,6 +25850,14 @@ la carpeta d'inici.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Override the plural specification in the header and use the target language default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T203043Z" creationid="Marc Riera" creationdate="20221215T203043Z">
+        <seg>Sobreescriu l'especificació de plurals de la capçalera i utilitza el valor per defecte de la llengua de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Overwrite Mode</seg>
@@ -25940,6 +25956,22 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224342Z" creationid="Marc Riera" creationdate="20220130T224342Z">
         <seg>Fitxers PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PO files that use &lt;l0&gt;msgid&lt;/l0&gt; as an ID code, use &lt;l1&gt;msgstr&lt;/l1&gt; as the source container and expect the translation to overwrite &lt;l2&gt;msgstr&lt;/l2&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T203215Z" creationid="Marc Riera" creationdate="20221215T203215Z">
+        <seg>Fitxers PO que utilitzen l'element &lt;l0&gt;msgid&lt;/l0&gt; com a codi d'ID, &lt;l1&gt;msgstr&lt;/l1&gt; com a contenidor del text d'origen i que esperen que la traducció sobreescrigui l'element &lt;l2&gt;msgstr&lt;/l2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PO files that use &lt;l0&gt;msgid&lt;/l0&gt; as the source container and expect the translation to be put in &lt;l1&gt;msgstr&lt;/l1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T203126Z" creationid="Marc Riera" creationdate="20221215T203126Z">
+        <seg>Fitxers PO que utilitzen l'element &lt;l0&gt;msgid&lt;/l0&gt; com a contenidor del text d'origen i que esperen que la traducció s'indiqui en l'element &lt;l1&gt;msgstr&lt;/l1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31925,6 +31957,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some applications require some Unicode literals to be kept.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T203319Z" creationid="Marc Riera" creationdate="20221215T203319Z">
+        <seg>Algunes aplicacions requereixen conservar alguns codis literals d'Unicode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some expressions specify a position rather than a character.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113544Z" creationid="Marc Riera" creationdate="20221129T113544Z">
@@ -34368,6 +34408,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The PO header will not be displayed for translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T203024Z" creationid="Marc Riera" creationdate="20221215T203024Z">
+        <seg>La capçalera del fitxer PO no es mostrarà per a la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T154947Z" creationid="Packard Bell" creationdate="20150605T160453Z">
@@ -35018,6 +35066,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201127T185451Z" creationid="Alexandra" creationdate="20150526T134427Z">
         <seg>Fitxers d'aquest lloc web en un paquet còmode per als qui vulguin localitzar-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The filter checks Java MessageFormat patterns (e.g. \{0\}) by default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T203235Z" creationid="Marc Riera" creationdate="20221215T203235Z">
+        <seg>El filtre comprova els patrons de MessageFormat del Java (p. ex. m \{0\}) per defecte.</seg>
       </tuv>
     </tu>
     <tu>
