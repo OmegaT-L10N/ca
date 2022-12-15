@@ -5725,6 +5725,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the tags that are marked with &lt;c0&gt;translate="no"&lt;/c0&gt; will be ignored.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T174434Z" creationid="Marc Riera" creationdate="20221215T174434Z">
+        <seg>S'ignoraran totes les etiquetes marcades amb &lt;c0&gt;translate="no"&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All variables (e.g., %s, %-s)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212007Z" creationid="Marc Riera" creationdate="20221124T212007Z">
@@ -17755,8 +17763,8 @@ feu doble clic en la drecera.</seg>
       <tuv lang="en">
         <seg>Ignored &lt;meta&gt; tags "content" attribute</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204526Z" creationid="Marc Riera" creationdate="20221124T204526Z">
-        <seg>Atribut "content" de les etiquetes &lt;meta&gt; ignorat</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T174346Z" creationid="Marc Riera" creationdate="20221124T204526Z">
+        <seg>Atribut «content» de les etiquetes &lt;meta&gt; ignorat</seg>
       </tuv>
     </tu>
     <tu>
