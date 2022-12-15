@@ -7074,6 +7074,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Blank source segments sometimes act as placeholders for parts that do not exist in the source language but are necessary in the target language.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T203015Z" creationid="Marc Riera" creationdate="20221215T203015Z">
+        <seg>Els segments d'origen buits de vegades actuen com a marcadors de posició de parts que no existeixen en la llengua d'origen però que són necessàries en la llengua de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Block the creation of translated files with tag &amp;issues</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212138Z" creationid="Marc Riera" creationdate="20221124T212116Z">
@@ -8978,6 +8986,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T090308Z" creationid="Marc Riera" creationdate="20221214T090308Z">
         <seg>Comentaris i noms dels fulls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comments within an HTML file are generally addressed to developers.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T181417Z" creationid="Marc Riera" creationdate="20221215T181417Z">
+        <seg>Els comentaris dins d'un fitxer HTML generalment s'adrecen als desenvolupadors.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15983,6 +15999,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T170959Z" creationid="Alexandra" creationdate="20150526T110328Z">
         <seg>Heu escrit mai un article per la revista de la vostra associació professional?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Having untranslated contents in the translated files sometimes create compatibility issues.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T181505Z" creationid="Marc Riera" creationdate="20221215T181505Z">
+        <seg>Deixar contingut sense traduir en els fitxers traduïts de vegades crea problemes de compatibilitat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33826,6 +33850,14 @@ L'àmbit d'una substitució de text són els segments de destinació del project
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text in HTML comments (between &lt;l0&gt;&lt;!--&lt;/l0&gt; and &lt;l1&gt;--&gt;&lt;/l1&gt;) will not be copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T181449Z" creationid="Marc Riera" creationdate="20221215T181442Z">
+        <seg>El text en els comentaris HTML (entre &lt;l0&gt;&lt;!--&lt;/l0&gt; i &lt;l1&gt;--&gt;&lt;/l1&gt;) no es copiarà al fitxer traduït.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text in source segments that matches is shown in italics.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224848Z" creationid="Marc Riera" creationdate="20220130T224848Z">
@@ -37408,6 +37440,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option converts such multiple continuous whitespace characters into a single space in the translated document.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T181406Z" creationid="Marc Riera" creationdate="20221215T181406Z">
+        <seg>Aquesta opció converteix diversos caràcters d'espai en blanc seguit en un sol espai en el fitxer traduït.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123228Z" creationid="Marc Riera" creationdate="20221209T123228Z">
@@ -40418,6 +40458,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091925Z" creationid="Marc Riera" creationdate="20221214T091925Z">
         <seg>Utilitzeu aquesta opció per a deixar buits els segments sense traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this option to provide a translation based on the associated comments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T181519Z" creationid="Marc Riera" creationdate="20221215T181519Z">
+        <seg>Utilitzeu aquesta opció per a proporcionar una traducció basada en els comentaris associats.</seg>
       </tuv>
     </tu>
     <tu>
