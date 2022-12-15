@@ -16062,6 +16062,14 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Here, you can decide whether to add or modify the declaration of the target file</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T180521Z" creationid="Marc Riera" creationdate="20221215T180521Z">
+        <seg>Aquí podeu decidir si s'ha d'afegir o modificar la declaració del fitxer de destinació:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Hide '{0}'</seg>
@@ -25072,6 +25080,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the options not available under the XHTML files filter (see above) are described here.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T180429Z" creationid="Marc Riera" creationdate="20221215T180429Z">
+        <seg>Aquí només es descriuen les opcions no disponibles en el filtre de fitxers XHTML (consulteu l'apartat anterior).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only this preference currently requires manual modification.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155350Z" creationid="Marc Riera" creationdate="20221201T155350Z">
@@ -32133,6 +32149,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source and target files sometimes require a different encoding.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T180506Z" creationid="Marc Riera" creationdate="20221215T180506Z">
+        <seg>De vegades, els fitxers d'origen i de destinació requereixen una codificació diferent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source and translated file encoding</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084013Z" creationid="Marc Riera" creationdate="20221214T084013Z">
@@ -34840,6 +34864,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T103929Z" creationid="Marc Riera" creationdate="20221215T103920Z">
         <seg>La manera més fàcil de modificar-lo és utilitzar el quadre de diàleg &lt;g0&gt;Edició del patró&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The encoding of an HTML document is generally declared within a &lt;meta&gt; element situated in the &lt;head&gt; element.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T180458Z" creationid="Marc Riera" creationdate="20221215T180458Z">
+        <seg>La codificació d'un fitxer HTML generalment es declara dins d'un element &lt;meta&gt; en l'element &lt;head&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41328,6 +41360,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Whitespace outside the tags is considered non significant in HTML/XHTML.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T181345Z" creationid="Marc Riera" creationdate="20221215T181345Z">
+        <seg>Els espais en blanc fora de les etiquetes es considera no rellevant en el format HTML/XHTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Whitespaces</seg>
@@ -43435,6 +43475,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T084533Z" creationid="Marc Riera" creationdate="20221205T084533Z">
         <seg>alt shift RIGHT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>always, based on the file filter settings,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T180533Z" creationid="Marc Riera" creationdate="20221215T180533Z">
+        <seg>Sempre, a partir dels paràmetres del filtre de fitxers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46622,6 +46670,22 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>only if the file already has a &lt;head&gt; tag,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T180545Z" creationid="Marc Riera" creationdate="20221215T180545Z">
+        <seg>Només si el fitxer ja té una etiqueta &lt;head&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>only if the file already has a declaration,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T180550Z" creationid="Marc Riera" creationdate="20221215T180550Z">
+        <seg>Només si el fitxer ja té una declaració.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>open ${targetRoot}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T163542Z" creationid="Marc Riera" creationdate="20221201T163542Z">
@@ -46906,6 +46970,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132406Z" creationid="Marc Riera" creationdate="20221211T132406Z">
         <seg>Desenvolupeu un filtre per al format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or never and only save the target file in the encoding specified in the file filter settings.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T180610Z" creationid="Marc Riera" creationdate="20221215T180610Z">
+        <seg>Mai i només desar el fitxer de destinació en la codificació especificada en els paràmetres del filtre de fitxers.</seg>
       </tuv>
     </tu>
     <tu>
