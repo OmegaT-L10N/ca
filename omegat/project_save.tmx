@@ -4459,6 +4459,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;span translate="no"&gt;This content is not translatable&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T111724Z" creationid="Marc Riera" creationdate="20221215T111724Z">
+        <seg>&lt;span translate="no"&gt;Aquest contingut no és traduïble&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
@@ -10786,6 +10794,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221005T200527Z" creationid="Marc Riera" creationdate="20221005T200527Z">
         <seg>Per defecte, és «xml».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Define the attribute values that make a tag non-translatable.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T111607Z" creationid="Marc Riera" creationdate="20221215T111607Z">
+        <seg>Definiu els valors d'atribut que fan que una etiqueta sigui no traduïble.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47831,6 +47847,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T111412Z" creationid="Marc Riera" creationdate="20221215T111412Z">
         <seg>Utilitzeu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use: &lt;l0&gt;translate=no&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T111758Z" creationid="Marc Riera" creationdate="20221215T111758Z">
+        <seg>Utilitzeu: &lt;l0&gt;translate=no&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
