@@ -40330,6 +40330,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User can select from three options, Previous and next paragraphs, &lt;trans unit&gt; ID, or, &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T110800Z" creationid="Marc Riera" creationdate="20221215T110800Z">
+        <seg>L'usuari pot seleccionar tres opcions, «Paràgrafs anteriors i següents», «ID de l'element &lt;trans unit&gt;» o «Atribut resname de l'element &lt;trans unit&gt; si està disponible». Si no està disponible, s'utilitzarà l'ID com a alternativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User canceled signing (no passphrase provided)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220307T193526Z" creationid="Marc Riera" creationdate="20220307T193526Z">
