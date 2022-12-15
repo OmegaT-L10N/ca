@@ -16980,6 +16980,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If the file name is ambiguous, variables of the form &lt;l0&gt;${nameonly&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt; can be used.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T105536Z" creationid="Marc Riera" creationdate="20221215T105536Z">
+        <seg>Si el nom del fitxer és ambigu, es poden utilitzar variables com ara &lt;l0&gt;${nameonly&lt;/l0&gt;&lt;e1&gt;-número d'extensió&lt;/e1&gt;} i &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;número d'extensió}&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If the filter has any options, you may change them by clicking Options.</seg>
