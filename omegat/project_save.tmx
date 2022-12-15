@@ -6491,6 +6491,14 @@ inesperat però correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At loading, any paragraph matching the regular expression will be ignored and will not be displayed for translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T111321Z" creationid="Marc Riera" creationdate="20221215T111321Z">
+        <seg>En carregar el fitxer, qualsevol paràgraf que coincideixi amb l'expressió regular s'ignorarà i no es mostrarà per a la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the bottom of the window, right-click on an unassigned number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221621Z" creationid="Marc Riera" creationdate="20221208T221621Z">
@@ -11587,6 +11595,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Do not add quotation marks and separate the values with a comma.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T111407Z" creationid="Marc Riera" creationdate="20221215T111407Z">
+        <seg>No afegiu cometes i separeu els valors per comes.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Do not allow creating translated documents with tag &amp;issues</seg>
@@ -12642,6 +12658,14 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T174021Z" creationid="Marc Riera" creationdate="20221117T174021Z">
         <seg>Habiliteu-les a «Preferències &gt; Desament i sortida...».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable this option if soft-returns are intended to be paragraph starters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T111226Z" creationid="Marc Riera" creationdate="20221215T111219Z">
+        <seg>Habiliteu aquesta opció si voleu que els salts de línia suaus iniciïn els paràgrafs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17675,6 +17699,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091800Z" creationid="Marc Riera" creationdate="20221214T091800Z">
         <seg>Ignora les etiquetes que contenen «translate="no"»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore the content part of &lt;meta name="robots" content="index, follow"&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T111546Z" creationid="Marc Riera" creationdate="20221215T111546Z">
+        <seg>Ignorar la part «content» de &lt;meta name="robots" content="index, follow"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33902,6 +33934,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T111304Z" creationid="Marc Riera" creationdate="20221215T111304Z">
+        <seg>L'etiqueta HTML &lt;br&gt; constituirà un salt de paràgraf per a la segmentació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;e0&gt;Key identifiers&lt;/e0&gt; above enable us to avoid listing multiple notations for every shortcut.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T081753Z" creationid="Marc Riera" creationdate="20221205T081753Z">
@@ -35674,6 +35714,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T202507Z" creationid="Marc Riera" creationdate="20220621T202507Z">
         <seg>Els segments es mostren en l'ordre d'aparició en el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selected attributes will appear as translatable segments in the &lt;g0&gt;Editor&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T111238Z" creationid="Marc Riera" creationdate="20221215T111238Z">
+        <seg>Els atributs seleccionats apareixeran com a segments traduïbles en la subfinestra &lt;g0&gt;Editor&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41219,6 +41267,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074200Z" creationid="Marc Riera" creationdate="20190925T074200Z">
         <seg>Espai en blanc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whitespace (i.e., spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T111153Z" creationid="Marc Riera" creationdate="20221215T111153Z">
+        <seg>Es conservaran els espais en blanc (espais i línies noves), encara que aquesta opció no estigui definida en el document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47767,6 +47823,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212841Z" creationid="Marc Riera" creationdate="20201130T212841Z">
         <seg>Utilitzeu &lt;m0&gt; &lt;g1&gt;Projecte&lt;/g1&gt; &lt;g2&gt;Publica els fitxers d'origen&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T111412Z" creationid="Marc Riera" creationdate="20221215T111412Z">
+        <seg>Utilitzeu:</seg>
       </tuv>
     </tu>
     <tu>
