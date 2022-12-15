@@ -19038,6 +19038,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It represents the complete filename of the source file, including the extension.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T103940Z" creationid="Marc Riera" creationdate="20221215T103940Z">
+        <seg>Representa el nom complet del fitxer d'origen, incloent-hi l'extensió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It takes the following form:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T090949Z" creationid="Marc Riera" creationdate="20221205T090949Z">
@@ -21627,6 +21635,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Microsoft target locale</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T103958Z" creationid="Marc Riera" creationdate="20221215T103958Z">
+        <seg>Configuració regional de destinació de Microsoft</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mine</seg>
@@ -23709,6 +23725,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT can automatically create new file names for the files you create, by adding a language code or a time stamp, for example.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T103858Z" creationid="Marc Riera" creationdate="20221215T103858Z">
+        <seg>L'OmegaT pot crear automàticament noms de fitxers nous per als fitxers que creeu i, per exemple, afegir-hi un codi de llengua o una marca de temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
@@ -24052,6 +24076,14 @@ de la llicència o bé (si ho preferiu) qualsevol altra versió posterior.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties, for example).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T103834Z" creationid="Marc Riera" creationdate="20221215T103834Z">
+        <seg>L'OmegaT té instruccions per a utilitzar una codificació obligatòria per a certs formats de fitxer (per exemple, propietats del Java).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
@@ -24362,6 +24394,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T093803Z" creationid="Marc Riera" creationdate="20221214T093803Z">
         <seg>L'OmegaT utilitza la codificació per defecte del sistema operatiu per als fitxers de text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT uses the encoding declaration in the source file, if present, to identify the encoding (HTML or XML based files).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T103814Z" creationid="Marc Riera" creationdate="20221215T103814Z">
+        <seg>L'OmegaT utilitza la declaració de codificació en el fitxer d'origen, si està present, per a identificar la codificació (fitxers HTML o basats en XML).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30967,6 +31007,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Selecting the &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; option leaves the choice of encoding to OmegaT, based on the following criteria:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T103753Z" creationid="Marc Riera" creationdate="20221215T103753Z">
+        <seg>Si seleccioneu l'opció &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt;, l'OmegaT decidirà la codificació segons els criteris següents:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Selection of alternative icons for use with OmegaT.</seg>
@@ -34660,6 +34708,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The easiest way to modify it is to use the &lt;g0&gt;Edit Pattern&lt;/g0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T103929Z" creationid="Marc Riera" creationdate="20221215T103920Z">
+        <seg>La manera més fàcil de modificar-lo és utilitzar el quadre de diàleg &lt;g0&gt;Edició del patró&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The encoding used to read reference glossaries depends on their file extension:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T170118Z" creationid="Marc Riera" creationdate="20221201T170118Z">
@@ -35659,6 +35715,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T082637Z" creationid="Marc Riera" creationdate="20221205T082637Z">
         <seg>El flux de treball més fàcil, al seu torn, li ha permès centrar-se millor en la traducció en si.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source and target encoding fields use drop-down menus listing all supported encodings.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T103717Z" creationid="Marc Riera" creationdate="20221215T103717Z">
+        <seg>Els camps de codificació dels fitxers d'origen i destinació utilitzen menús desplegables que indiquen totes les codificacions admeses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40449,6 +40513,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T190451Z" creationid="Marc Riera" creationdate="20221203T190451Z">
         <seg>Ús de dreceres per a simplificar el procés de traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using this pattern assigns the translated file the exact same name as the source file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T103946Z" creationid="Marc Riera" creationdate="20221215T103946Z">
+        <seg>L'ús d'aquest patró assigna al fitxer traduït el mateix nom que el fitxer d'origen.</seg>
       </tuv>
     </tu>
     <tu>
