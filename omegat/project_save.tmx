@@ -5000,6 +5000,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Exported TMs</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T154843Z" creationid="Marc Riera" creationdate="20221217T154843Z">
+        <seg>Accedeix als continguts del projecte/Memòries de traducció exportades</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Access Project Contents/Glossaries</seg>
@@ -5035,12 +5043,28 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/TMs</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T154830Z" creationid="Marc Riera" creationdate="20221217T154830Z">
+        <seg>Accedeix als continguts del projecte/Memòries de traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Access Project Contents/Target Files</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T171146Z" creationid="Marc Riera" creationdate="20220611T171146Z">
         <seg>Accedeix als continguts del projecte/Fitxers de destinació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Writable Glossary</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T154849Z" creationid="Marc Riera" creationdate="20221217T154849Z">
+        <seg>Accedeix als continguts del projecte/Glossari modificable</seg>
       </tuv>
     </tu>
     <tu>
@@ -5146,6 +5170,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083717Z" creationid="mgalo" creationdate="20181112T091403Z">
         <seg>Afegeix una entrada al glossari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add MediaWiki Page...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T154807Z" creationid="Marc Riera" creationdate="20221217T154807Z">
+        <seg>Baixa una pàgina del MediaWiki...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6484,8 +6516,8 @@ inesperat però correcte.</seg>
       <tuv lang="en">
         <seg>As shown in the &lt;l0&gt;Edit menu table&lt;/l0&gt; below, the function code for the &lt;g1&gt;Create Alternative Translation&lt;/g1&gt; function is &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T152944Z" creationid="Marc Riera" creationdate="20221217T152944Z">
-        <seg>Com es mostra en la &lt;l0&gt;taula del menú «Edita»&lt;/l0&gt; a continuació, el codi de funció per a &lt;g1&gt;Crea una traducció alternativa&lt;/g1&gt; és &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T154741Z" creationid="Marc Riera" creationdate="20221217T152944Z">
+        <seg>Com es mostra en la &lt;l0&gt;taula del menú Edita&lt;/l0&gt; a continuació, el codi de funció per a &lt;g1&gt;Crea una traducció alternativa&lt;/g1&gt; és &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31698,6 +31730,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Shortcuts in parentheses are alternatives for the same function found in the &lt;f1&gt;EditorShortcuts.properties&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T154645Z" creationid="Marc Riera" creationdate="20221217T154645Z">
+        <seg>Les dreceres entre parèntesis són alternatives per a la mateixa funció en el fitxer &lt;f1&gt;EditorShortcuts.properties&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Show &amp;longer target terms first</seg>
@@ -35398,6 +35438,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165117Z" creationid="Stephanie" creationdate="20150722T180054Z">
         <seg>La sintaxi completa de les pulsacions de tecles (dreceres) es defineix en la documentació següent del Java 1.6 d'Oracle (en la part inferior de la pàgina): &lt;u0&gt;Dreceres de pulsacions de tecles del Java 1.6&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The functions that can be modified in the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file, along with their default values, are presented in the tables below.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T154620Z" creationid="Marc Riera" creationdate="20221217T154606Z">
+        <seg>En les taules següents es presenten les funcions que es poden modificar en el fitxer &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;, juntament amb els valors per defecte.</seg>
       </tuv>
     </tu>
     <tu>
