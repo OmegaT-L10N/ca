@@ -4311,6 +4311,22 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;altGraph&lt;/l0&gt; refers to the &lt;e1&gt;Alt&lt;/e1&gt; key to the right of the spacebar on keyboards with two &lt;e2&gt;Alt&lt;/e2&gt; keys.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T121326Z" creationid="Marc Riera" creationdate="20221217T121326Z">
+        <seg>&lt;l0&gt;altGraph&lt;/l0&gt; fa referència a la tecla &lt;e1&gt;Alt&lt;/e1&gt; situada a la dreta de la barra d'espai en els teclats amb dues tecles &lt;e2&gt;Alt&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;meta&lt;/l0&gt; refers to the key with the Windows logo on most keyboards for Windows or Linux systems, and to the &lt;l1&gt;command&lt;/l1&gt; on macOS.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T121242Z" creationid="Marc Riera" creationdate="20221217T121242Z">
+        <seg>&lt;l0&gt;meta&lt;/l0&gt; fa referència a la tecla amb el logotip del Windows en la majoria de teclats per als sistemes Windows o Linux, i a la tecla &lt;l1&gt;ordre&lt;/l1&gt; del macOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;meta name="robots" content="index, follow"&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091738Z" creationid="Marc Riera" creationdate="20221214T091738Z">
@@ -4545,6 +4561,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113625Z" creationid="Marc Riera" creationdate="20221129T113625Z">
         <seg>Caràcter seguit de «u».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A comment line starts with a &lt;c0&gt;#&lt;/c0&gt;, and everything after that is ignored by the applicaton.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T121653Z" creationid="Marc Riera" creationdate="20221217T121653Z">
+        <seg>Una línia amb un comentari comença per &lt;c0&gt;#&lt;/c0&gt; i l'aplicació ignora tot el contingut posterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5326,6 +5350,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T172735Z" creationid="Marc Riera" creationdate="20221201T172735Z">
         <seg>Després de dividir el fitxer d'origen en unitats estructurals, l'OmegaT divideix aquestes unitats en segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After quickly tapping &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;I&lt;/k2&gt;&lt;/k0&gt; to insert the match, she makes the necessary changes to match the revised text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T114720Z" creationid="Marc Riera" creationdate="20221217T114655Z">
+        <seg>Després de prémer ràpidament &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;I&lt;/k2&gt;&lt;/k0&gt; per a inserir la coincidència, aplica els canvis necessaris per a ajustar el text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6442,6 +6474,14 @@ inesperat però correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As she savours her coffee, the translator reflects on how much more smoothly she was able to use the various OmegaT functions compared to when she had just gotten started and spent a lot of time clicking through menus.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T115946Z" creationid="Marc Riera" creationdate="20221217T115946Z">
+        <seg>Mentre assaboreix un cafè, la traductora reflexiona sobre la facilitat amb què ha pogut utilitzar les funcions de l'OmegaT en comparació amb quan començava i dedicava molt de temps a fer clic en els menús.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As stated above, OmegaT tags are LTR strings.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170826Z" creationid="Marc Riera" creationdate="20210521T170826Z">
@@ -6528,6 +6568,14 @@ inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T131559Z" creationid="mgalo" creationdate="20181114T123008Z">
         <seg>Quan acabeu la traducció, l'OmegaT exporta tres memòries de traducció anomenades &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; i &lt;f2&gt;omegat&lt;/f2&gt; en la carpeta del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At the same time, the translator realized that during her session, she used the menu and cursor keys to select the &lt;l0/&gt; function several times, and decides to &lt;l1&gt;add a new shortcut&lt;/l1&gt; to streamline that part of the process as well.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T120435Z" creationid="Marc Riera" creationdate="20221217T120435Z">
+        <seg>Alhora, la traductora s'ha adonat que durant la sessió ha utilitzat el menú i les tecles de direcció per a seleccionar la funció &lt;l0/&gt; diverses vegades, i decideix &lt;l1&gt;afegir una drecera nova&lt;/l1&gt; per a simplificar també aquesta part del procés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7548,6 +7596,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084037Z" creationid="Marc Riera" creationdate="20221214T084037Z">
         <seg>Per defecte, la codificació del fitxer traduït és la mateixa que la del fitxer d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By the time she gets near the end of the section, she has also used &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;R&lt;/k2&gt;&lt;/k0&gt; once or twice to replace already automatically entered fuzzy matches from the previous translation with better matches from earlier in the current section.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T115455Z" creationid="Marc Riera" creationdate="20221217T115455Z">
+        <seg>Quan arriba a la fi de la secció, també ha utilitzat &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;R&lt;/k2&gt;&lt;/k0&gt; una o dues vegades per a substituir les coincidències parcials introduïdes automàticament a partir de la traducció anterior per coincidències millors d'algun segment anterior de la secció actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16337,6 +16393,14 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>However, you may want to remove the &lt;k0&gt;S&lt;/k0&gt; key from the shortcut to make it only &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;W&lt;/k3&gt;&lt;/k1&gt; (or &lt;k4&gt;&lt;k5&gt;Command&lt;/k5&gt;&lt;k6&gt;W&lt;/k6&gt;&lt;/k4&gt; on macOS) to match the shortcut you use in other applications.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T123254Z" creationid="Marc Riera" creationdate="20221217T123254Z">
+        <seg>Ara bé, és possible que vulgueu suprimir la tecla &lt;k0&gt;S&lt;/k0&gt; de la drecera perque sigui només &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;W&lt;/k3&gt;&lt;/k1&gt; (o &lt;k4&gt;&lt;k5&gt;Ordre&lt;/k5&gt;&lt;k6&gt;W&lt;/k6&gt;&lt;/k4&gt; en el macOS) perquè coincideixi amb la drecera que utilitzeu en altres aplicacions.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Howto - Adding a preview function to OmegaT</seg>
@@ -17687,6 +17751,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If your language pair calls for the frequent use &lt;l0&gt;alternative translations&lt;/l0&gt;, you may want to assign a shortcut to that function since it does not have one by default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T123618Z" creationid="Marc Riera" creationdate="20221217T123618Z">
+        <seg>Si el parell de llengües fa un ús freqüent de les &lt;l0&gt;traduccions alternatives&lt;/l0&gt;, és possible que vulgueu assignar una drecera a aquesta funció, ja que no en té cap per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
@@ -18692,6 +18764,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T092306Z" creationid="mgalo" creationdate="20181112T092306Z">
         <seg>Inici ràpid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead of reaching for the mouse, she unlocks the cursor with &lt;l0&gt;&lt;k1&gt;F2&lt;/k1&gt;&lt;/l0&gt;, uses the cursor keys and standard system shortcuts to navigate to the term and select it, and then presses &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; to &lt;l6&gt;call up the glossary entry dialog&lt;/l6&gt; to enter the source term, and then switches back to the editor and repeats the process to enter the target term.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T114313Z" creationid="Marc Riera" creationdate="20221217T114313Z">
+        <seg>En comptes d'utilitzar el ratolí, desbloqueja el cursor amb &lt;l0&gt;&lt;k1&gt;F2&lt;/k1&gt;&lt;/l0&gt;, utilitza les tecles de direcció i les dreceres del sistema estàndard per a navegar fins al terme i seleccionar-lo, i prem &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt; per a &lt;l6&gt;obrir el quadre de diàleg d'entrada del glossari&lt;/l6&gt; i afegir terme d'origen, i després torna a l'editor i repeteix el procés per a afegir el terme de destinació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20055,6 +20135,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T144742Z" creationid="Marc Riera" creationdate="20190924T144742Z">
         <seg>Posteriorment no caldrà que estigueu en línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Later on, the translator comes up with a better way to phrase a somewhat thorny expression that had come up earlier, so she selects it in the source text, presses &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; &lt;l3&gt;to find&lt;/l3&gt; it, and then uses &lt;k4&gt;&lt;k5&gt;C&lt;/k5&gt;&lt;k6&gt;J&lt;/k6&gt;&lt;/k4&gt; to immediately jump to that segment from the search dialog.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T115757Z" creationid="Marc Riera" creationdate="20221217T115757Z">
+        <seg>Més endavant, a la traductora se li acut una manera millor de formular una expressió difícil que havia trobat abans; la selecciona en el text d'origen, prem &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; &lt;l3&gt;per a cercar-la&lt;/l3&gt; i &lt;k4&gt;&lt;k5&gt;C&lt;/k5&gt;&lt;k6&gt;J&lt;/k6&gt;&lt;/k4&gt; per a saltar immediatament al segment des del quadre de diàleg de cerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23845,6 +23933,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT assigns shortcuts to most of the functions available in the &lt;l0/&gt;, &lt;l1/&gt;, and &lt;l2/&gt; menus and to a number of functions in the Editor window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T120503Z" creationid="Marc Riera" creationdate="20221217T120503Z">
+        <seg>L'OmegaT assigna dreceres a la majoria de les funcions disponibles en els menús &lt;l0/&gt;, &lt;l1/&gt; i &lt;l2/&gt; i a diverses funcions de la subfinestra «Editor».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically chose the 'Yes' option.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T171952Z" creationid="Marc Riera" creationdate="20221117T171952Z">
@@ -24471,6 +24567,14 @@ installed on your system.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T123521Z" creationid="Marc Riera" creationdate="20191110T185053Z">
         <seg>L'OmegaT requereix que tingueu instal·lada la versió 1.8 o posterior del Java
 Runtime Environment (JRE) en el sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT runs on any platform that runs a Java Runtime Environment (Windows, macOS, and Linux being the most mainstream).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T114125Z" creationid="Marc Riera" creationdate="20221217T114125Z">
+        <seg>L'OmegaT funciona en qualsevol plataforma que executi una versió del Java Runtime Environment (Windows, macOS i Linux són les principals).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25280,6 +25384,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195348Z" creationid="Marc Riera" creationdate="20221206T195348Z">
         <seg>Obriu-lo en GUI de l'OmegaT per a convertir-lo al nou format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; you have copied to &lt;l1&gt;your configuration folder&lt;/l1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T123734Z" creationid="Marc Riera" creationdate="20221217T123734Z">
+        <seg>Obriu el fitxer &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; que heu copiat a la &lt;l1&gt;carpeta de configuració&lt;/l1&gt; amb un editor de text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31728,6 +31840,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since OmegaT has registered her navigation history, she only needs to use &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;J&lt;/k3&gt;&lt;/k0&gt; to immediately continue from where she left off.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T115829Z" creationid="Marc Riera" creationdate="20221217T115829Z">
+        <seg>Com que l'OmegaT ha enregistrat l'historial de navegació, només cal que utilitzi &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;J&lt;/k3&gt;&lt;/k0&gt; per a continuar immediatament on ho havia deixat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since a standard space character is often used as a boundary for a segment, if you want to merge two parts that are separated by a space character,</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T220908Z" creationid="Marc Riera" creationdate="20221211T220908Z">
@@ -34070,6 +34190,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;c0&gt;shortcut&lt;/c0&gt; represents the key combination pressed by the user.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T121116Z" creationid="Marc Riera" creationdate="20221217T121116Z">
+        <seg>La &lt;c0&gt;drecera&lt;/c0&gt; representa la combinació de tecles que prem l'usuari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;e0&gt;Key identifiers&lt;/e0&gt; above enable us to avoid listing multiple notations for every shortcut.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T081753Z" creationid="Marc Riera" creationdate="20221205T081753Z">
@@ -34640,6 +34768,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The basic syntax of the shortcut definitions files is simply:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T121040Z" creationid="Marc Riera" creationdate="20221217T121040Z">
+        <seg>La sintaxi bàsica dels fitxers de definició de dreceres és molt senzilla:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The beginning of a line</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113553Z" creationid="Marc Riera" creationdate="20221129T113553Z">
@@ -34944,6 +35080,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T103929Z" creationid="Marc Riera" creationdate="20221215T103920Z">
         <seg>La manera més fàcil de modificar-lo és utilitzar el quadre de diàleg &lt;g0&gt;Edició del patró&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The easiest way to modify the shortcuts is to download copies of the default files to &lt;l0&gt;your configuration folder&lt;/l0&gt;, as noted above, and make the changes you want there.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T121757Z" creationid="Marc Riera" creationdate="20221217T121757Z">
+        <seg>La manera més fàcil de modificar les dreceres és baixar còpies dels fitxers per defecte a la &lt;l0&gt;carpeta de configuració&lt;/l0&gt;, com s'ha indicat anteriorment, i aplicar els canvis que vulgueu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35428,6 +35572,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The macOS files must be renamed &lt;l0/&gt; and &lt;l1/&gt; for OmegaT to recognize them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T120749Z" creationid="Marc Riera" creationdate="20221217T120749Z">
+        <seg>S'ha de canviar el nom dels fitxers del macOS a &lt;l0/&gt; i &lt;l1/&gt; perquè l'OmegaT els reconegui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The main part of the window is divided into three columns:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200929Z" creationid="Marc Riera" creationdate="20221206T200929Z">
@@ -35482,6 +35634,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081934Z" creationid="Marc Riera" creationdate="20221201T081934Z">
         <seg>El més recent és &lt;f0&gt;OmegaT.log&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The next section describes the syntax used in the shortcut definition files, and provides an example modification.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T120824Z" creationid="Marc Riera" creationdate="20221217T120824Z">
+        <seg>La secció següent descriu la sintaxi utilitzada en els fitxers de definició de dreceres i proporciona exemples de modificacions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36105,6 +36265,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T164327Z" creationid="mgalo" creationdate="20181113T095524Z">
         <seg>No s'admet la direcció que heu especificat per a la traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The steps below demonstrate how to assign the &lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt; shortcut to the &lt;l3/&gt; function.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T123703Z" creationid="Marc Riera" creationdate="20221217T123640Z">
+        <seg>Els passos següents mostren com assignar la drecera &lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt; a la funció &lt;l3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37038,6 +37206,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190925T074115Z" creationid="Marc Riera" creationdate="20190925T074115Z">
         <seg>S'executarà aquesta ordre després de crear els documents traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This continues, with the occasional sequence of &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;2&lt;/k5&gt;&lt;/k3&gt; (or other number) followed by &lt;k6&gt;&lt;k7&gt;C&lt;/k7&gt;&lt;k8&gt;I&lt;/k8&gt;&lt;/k6&gt; when one of the matches from 2 to 5 is more suitable.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T114824Z" creationid="Marc Riera" creationdate="20221217T114824Z">
+        <seg>Això continua; ocasionalment, utilitza la seqüència &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;2&lt;/k5&gt;&lt;/k3&gt; (o un número diferent) seguida de &lt;k6&gt;&lt;k7&gt;C&lt;/k7&gt;&lt;k8&gt;I&lt;/k8&gt;&lt;/k6&gt; quan una de les coincidències de 2 a 5 és més adequada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40462,6 +40638,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the tables in the &lt;l0/&gt; section below to find the values for &lt;c1&gt;function code&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T121101Z" creationid="Marc Riera" creationdate="20221217T121101Z">
+        <seg>Utilitzeu les taules de la secció &lt;l0/&gt; a continuació per a trobar els valors de &lt;c1&gt;codi de funció&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the various &lt;l0/&gt; options and move the &lt;l1/&gt; around to obtain the layout that fits your workflow best:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222330Z" creationid="Marc Riera" creationdate="20221211T222330Z">
@@ -42443,6 +42627,14 @@ d'allà.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>You can copy the default OmegaT shortcut files from the OmegaT development site on Sourceforge to &lt;l0&gt;your configuration folder&lt;/l0&gt; and modify them to suit your needs:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T120720Z" creationid="Marc Riera" creationdate="20221217T120720Z">
+        <seg>Podeu copiar els fitxers de dreceres per defecte de l'OmegaT del lloc de desenvolupament de l'OmegaT de Sourceforge a la &lt;l0&gt;carpeta de configuració&lt;/l0&gt; i modificar-les com vulgueu:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
@@ -42613,6 +42805,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225402Z" creationid="Marc Riera" creationdate="20201003T225402Z">
         <seg>Si voleu, podeu superposar les subfinestres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can refer to the &lt;l1&gt;table presenting the different editor shortcuts&lt;/l1&gt; to find the values for keys such as &lt;l2&gt;Home&lt;/l2&gt;, &lt;l3&gt;Page Up&lt;/l3&gt;, or the arrow keys.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T121609Z" creationid="Marc Riera" creationdate="20221217T121609Z">
+        <seg>Podeu consultar la &lt;l1&gt;taula amb les diferents dreceres de l'editor&lt;/l1&gt; per a trobar els valors de tecles com ara &lt;l2&gt;Inici&lt;/l2&gt;, &lt;l3&gt;Re Pàg&lt;/l3&gt; o les tecles de direcció.</seg>
       </tuv>
     </tu>
     <tu>
