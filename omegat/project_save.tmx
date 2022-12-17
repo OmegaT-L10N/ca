@@ -10999,10 +10999,26 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Delete Next Token</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T180332Z" creationid="Marc Riera" creationdate="20221217T180332Z">
+        <seg>Suprimeix la paraula següent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delete OmegaT</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T205231Z" creationid="Marc Riera" creationdate="20221206T205231Z">
         <seg>Desinstal·lació de l'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete Previous Token</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T180324Z" creationid="Marc Riera" creationdate="20221217T180324Z">
+        <seg>Suprimeix la paraula anterior</seg>
       </tuv>
     </tu>
     <tu>
@@ -15875,6 +15891,38 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Go to First Segment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T180337Z" creationid="Marc Riera" creationdate="20221217T180337Z">
+        <seg>Ves al primer segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Last Segment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T180407Z" creationid="Marc Riera" creationdate="20221217T180407Z">
+        <seg>Ves al darrer segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Next Segment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T180028Z" creationid="Marc Riera" creationdate="20221217T180028Z">
+        <seg>Ves al segment següent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Next Segment (not TAB)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T180058Z" creationid="Marc Riera" creationdate="20221217T180058Z">
+        <seg>Ves al segment següent (sense Tab)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Go to Preferences &gt; External Search to enable.</seg>
@@ -15889,6 +15937,22 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T214830Z" creationid="Marc Riera" creationdate="20221123T214830Z">
         <seg>Aneu a «Preferències &gt; Cerques externes globals» per a habilitar-les.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Previous Segment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T180031Z" creationid="Marc Riera" creationdate="20221217T180031Z">
+        <seg>Ves al segment anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Previous Segment (not TAB)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T180106Z" creationid="Marc Riera" creationdate="20221217T180106Z">
+        <seg>Ves al segment anterior (sense Tab)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18559,6 +18623,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T163429Z" creationid="Marc Riera" creationdate="20221201T163429Z">
         <seg>Insereix un caràcter de control bidireccional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Linebreak</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T180110Z" creationid="Marc Riera" creationdate="20221217T180110Z">
+        <seg>Insereix un salt de línia</seg>
       </tuv>
     </tu>
     <tu>
@@ -25432,6 +25504,14 @@ la carpeta d'inici.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Open Context Menu</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T180023Z" creationid="Marc Riera" creationdate="20221217T180023Z">
+        <seg>Obre el menú contextual</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Open Document Format (LibreOffice, OpenOffice.org)</seg>
@@ -32115,10 +32195,34 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skip Next Token</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T180413Z" creationid="Marc Riera" creationdate="20221217T180413Z">
+        <seg>Omet la paraula següent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skip Next Token with Selection</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T180436Z" creationid="Marc Riera" creationdate="20221217T180436Z">
+        <seg>Omet la paraula següent amb selecció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skip PO header</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224508Z" creationid="Marc Riera" creationdate="20220130T224508Z">
         <seg>Omet la capçalera del fitxer PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skip Previous Token</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T180421Z" creationid="Marc Riera" creationdate="20221217T180421Z">
+        <seg>Omet la paraula anterior</seg>
       </tuv>
     </tu>
     <tu>
@@ -33424,6 +33528,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134709Z" creationid="Marc Riera" creationdate="20221209T134709Z">
         <seg>Canvia el tema de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch RtL/LtR Orientation</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T180245Z" creationid="Marc Riera" creationdate="20221217T180245Z">
+        <seg>Canvia l'orientació RTL/LTR</seg>
       </tuv>
     </tu>
     <tu>
@@ -36355,6 +36467,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T190216Z" creationid="Marc Riera" creationdate="20221203T190216Z">
         <seg>Les dreceres s'indiquen al costat de cada element del menú; això us permet aprendre dreceres noves gradualment a mesura que utilitzeu el programari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The shortcuts that can be modified in the &lt;f0&gt;EditorShortcuts.properties&lt;/f0&gt; file, along with their default values, are presented in the table below</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T180017Z" creationid="Marc Riera" creationdate="20221217T180017Z">
+        <seg>En la taula següent es presenten les dreceres que es poden modificar en el fitxer &lt;f0&gt;EditorShortcuts.properties&lt;/f0&gt;, juntament amb els valors per defecte.</seg>
       </tuv>
     </tu>
     <tu>
