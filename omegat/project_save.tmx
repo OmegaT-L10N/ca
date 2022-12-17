@@ -5518,6 +5518,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Agressive Font Fallback</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T175436Z" creationid="Marc Riera" creationdate="20221217T175436Z">
+        <seg>Substitució de font forçada</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Alex Buloichik</seg>
@@ -18467,10 +18475,42 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Bidi Control Character/Left-to-Right Embedding (LRE U+202A)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T175347Z" creationid="Marc Riera" creationdate="20221217T175347Z">
+        <seg>Insereix un caràcter de control bidireccional/Incrustació d'esquerra a dreta (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Bidi Control Character/Left-to-Right Mark (LRM U+200E)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T175000Z" creationid="Marc Riera" creationdate="20221217T175000Z">
         <seg>Insereix un caràcter de control bidireccional/Marca d'esquerra a dreta (LRM U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Bidi Control Character/Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T175427Z" creationid="Marc Riera" creationdate="20221217T175427Z">
+        <seg>Insereix un caràcter de control bidireccional/Fi del format direccional (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Bidi Control Character/Right-to-Left Embedding (RLE U+202B)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T175358Z" creationid="Marc Riera" creationdate="20221217T175358Z">
+        <seg>Insereix un caràcter de control bidireccional/Incrustació de dreta a esquerra (RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Bidi Control Character/Right-to-Left Mark (RLM U+200F)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T175156Z" creationid="Marc Riera" creationdate="20221217T175156Z">
+        <seg>Insereix un caràcter de control bidireccional/Marca de dreta a esquerra (RLM U+200F)</seg>
       </tuv>
     </tu>
     <tu>
