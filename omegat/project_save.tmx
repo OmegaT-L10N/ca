@@ -5553,6 +5553,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Align File...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T175518Z" creationid="Marc Riera" creationdate="20221217T175518Z">
+        <seg>Alinea fitxers...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Align Files</seg>
@@ -6796,6 +6804,22 @@ inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161858Z" creationid="Packard Bell" creationdate="20150605T161858Z">
         <seg>Emplenament automàtic/Glossari...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-completion/History Completion</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T175739Z" creationid="Marc Riera" creationdate="20221217T175739Z">
+        <seg>Emplenament automàtic/Emplenament a partir de l'historial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-completion/History Prediction</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T175755Z" creationid="Marc Riera" creationdate="20221217T175755Z">
+        <seg>Emplenament automàtic/Predicció a partir de l'historial</seg>
       </tuv>
     </tu>
     <tu>
@@ -11359,6 +11383,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Dictionary/Use Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T175726Z" creationid="Marc Riera" creationdate="20221217T175726Z">
+        <seg>Diccionari/Utilitza les coincidències parcials per a les entrades del diccionari</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Diego Merino - Translator EN &gt; ES</seg>
@@ -15792,6 +15824,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Glossary/Use Fuzzy Matching for Glossary Entries</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T175710Z" creationid="Marc Riera" creationdate="20221217T175710Z">
+        <seg>Glossari/Utilitza les coincidències parcials per a les entrades del glossari</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Glossary/Use Stemming for Glossary Entries</seg>
@@ -19246,6 +19286,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>It is not possible to add a shortcut to call the script editor, or to modify the shortcuts assigned to the scripts.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T175543Z" creationid="Marc Riera" creationdate="20221217T175543Z">
+        <seg>No és possible afegir una drecera que obri l'editor de scripts ni modificar les dreceres assignades als scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
@@ -19681,6 +19729,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T202052Z" creationid="Marc Riera" creationdate="20201010T202052Z">
         <seg>Julian Rippon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jump to Entry in Editor</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T175938Z" creationid="Marc Riera" creationdate="20221217T175938Z">
+        <seg>Ves a l'entrada en l'editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -21070,6 +21126,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Machine Translate/Automatically Fetch Translations</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T175601Z" creationid="Marc Riera" creationdate="20221217T175556Z">
+        <seg>Traducció automàtica/Obtén les traduccions automàticament</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Machine Translation</seg>
@@ -22116,6 +22180,14 @@ durant la primera execució.</seg>
         <seg>Modification Info/Display Selected</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104908Z" creationid="Packard Bell" creationdate="20150605T161811Z">
+        <seg>Informació de modificació/Mostra-la per al segment actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modification Info/Display for Current Segment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T175500Z" creationid="Marc Riera" creationdate="20221217T175500Z">
         <seg>Informació de modificació/Mostra-la per al segment actual</seg>
       </tuv>
     </tu>
@@ -34411,6 +34483,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T184115Z" creationid="Marc Riera" creationdate="20221213T184115Z">
         <seg>El &lt;l0/&gt; proporciona un accés fàcil a algunes funcions freqüents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; item in the &lt;l1/&gt; menu is an exception.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T175529Z" creationid="Marc Riera" creationdate="20221217T175529Z">
+        <seg>L'element &lt;l0/&gt; del menú &lt;l1/&gt; és una excepció.</seg>
       </tuv>
     </tu>
     <tu>
