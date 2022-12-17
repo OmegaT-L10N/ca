@@ -10934,6 +10934,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Delete the &lt;c0&gt;#&lt;/c0&gt; at the beginning of the line so OmegaT will recognize the shortcut, and add &lt;o1&gt;alt X&lt;/o1&gt; after the &lt;c2&gt;=&lt;/c2&gt; sign at the end of the line:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T153518Z" creationid="Marc Riera" creationdate="20221217T153518Z">
+        <seg>Suprimiu el caràcter &lt;c0&gt;#&lt;/c0&gt; inicial de la línia perquè l'OmegaT reconegui la drecera i afegiu &lt;o1&gt;alt X&lt;/o1&gt; després del signe &lt;c2&gt;=&lt;/c2&gt; final:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Deleted</seg>
@@ -30254,6 +30262,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192226Z" creationid="Marc Riera" creationdate="20221124T192226Z">
         <seg>També podeu cercar en una estructura de carpetes específica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searching for that code in the file will bring you to the following line:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T153007Z" creationid="Marc Riera" creationdate="20221217T153007Z">
+        <seg>Si cerqueu aquest codi en el fitxer, trobareu la línia següent:</seg>
       </tuv>
     </tu>
     <tu>
