@@ -130,6 +130,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${dictRoot}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175906Z" creationid="Marc Riera" creationdate="20221218T175906Z">
+        <seg>${dictRoot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${extension}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195403Z" creationid="Marc Riera" creationdate="20221206T195403Z">
@@ -154,6 +162,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${fileExtension}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175921Z" creationid="Marc Riera" creationdate="20221218T175921Z">
+        <seg>${fileExtension}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${fileNameOnly}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175920Z" creationid="Marc Riera" creationdate="20221218T175920Z">
+        <seg>${fileNameOnly}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${fileName}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175918Z" creationid="Marc Riera" creationdate="20221218T175918Z">
+        <seg>${fileName}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${filePath}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175916Z" creationid="Marc Riera" creationdate="20221218T175916Z">
+        <seg>${filePath}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${fileShortPath}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175917Z" creationid="Marc Riera" creationdate="20221218T175917Z">
+        <seg>${fileShortPath}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${filename}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195400Z" creationid="Marc Riera" creationdate="20221206T195400Z">
@@ -162,10 +210,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${glossaryRoot}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175901Z" creationid="Marc Riera" creationdate="20221218T175901Z">
+        <seg>${glossaryRoot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${nameOnly}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195402Z" creationid="Marc Riera" creationdate="20221206T195402Z">
         <seg>${nameOnly}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${projectName}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175855Z" creationid="Marc Riera" creationdate="20221218T175855Z">
+        <seg>${projectName}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${projectRoot}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175856Z" creationid="Marc Riera" creationdate="20221218T175856Z">
+        <seg>${projectRoot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${sourceLang}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175909Z" creationid="Marc Riera" creationdate="20221218T175909Z">
+        <seg>${sourceLang}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${sourceRoot}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175858Z" creationid="Marc Riera" creationdate="20221218T175858Z">
+        <seg>${sourceRoot}</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +306,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${targetLang}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175914Z" creationid="Marc Riera" creationdate="20221218T175914Z">
+        <seg>${targetLang}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${targetLocaleLCID}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195420Z" creationid="Marc Riera" creationdate="20221206T195420Z">
@@ -234,10 +330,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${targetRoot}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175900Z" creationid="Marc Riera" creationdate="20221218T175900Z">
+        <seg>${targetRoot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${timestamp-????}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195411Z" creationid="Marc Riera" creationdate="20221206T195411Z">
         <seg>${timestamp-????}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${tmAutoRoot}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175905Z" creationid="Marc Riera" creationdate="20221218T175905Z">
+        <seg>${tmAutoRoot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${tmOtherLangRoot}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175908Z" creationid="Marc Riera" creationdate="20221218T175908Z">
+        <seg>${tmOtherLangRoot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${tmRoot}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175903Z" creationid="Marc Riera" creationdate="20221218T175903Z">
+        <seg>${tmRoot}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3319,6 +3447,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>/bin/bash&lt;/l0&gt; or &lt;l1&gt;#!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175951Z" creationid="Marc Riera" creationdate="20221218T175951Z">
+        <seg>/bin/bash&lt;/l0&gt; o &lt;l1&gt;#!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>/opt/omegat/</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215101Z" creationid="Marc Riera" creationdate="20221123T215101Z">
@@ -3331,6 +3467,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201921Z" creationid="Marc Riera" creationdate="20221210T201921Z">
         <seg>/opt/omegat/OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>/usr/bin/env python3&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175954Z" creationid="Marc Riera" creationdate="20221218T175954Z">
+        <seg>/usr/bin/env python3&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4022,6 +4166,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T205830Z" creationid="Marc Riera" creationdate="20220621T205830Z">
         <seg>&lt;g0&gt;Sense traduir&lt;/g0&gt;: cerca només en els segments sense traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;User Manual...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;F1&lt;/k2&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175816Z" creationid="Marc Riera" creationdate="20221218T175816Z">
+        <seg>&lt;g0&gt;Manual d'usuari...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;F1&lt;/k2&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21074,6 +21226,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Linux and macOS</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175944Z" creationid="Marc Riera" creationdate="20221218T175944Z">
+        <seg>Linux i macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Linux binary version of Toxic.</seg>
@@ -27447,6 +27607,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Post-Processing Commands</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175842Z" creationid="Marc Riera" creationdate="20221218T175842Z">
+        <seg>Ordres de postprocessament</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Post-processing command failed.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180308Z" creationid="Marc Riera" creationdate="20221124T180308Z">
@@ -31380,6 +31548,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l1/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175736Z" creationid="Marc Riera" creationdate="20221218T175736Z">
+        <seg>Consulteu les preferències de &lt;l1/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l1/&gt; project property for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175204Z" creationid="Marc Riera" creationdate="20221218T175204Z">
@@ -34749,6 +34925,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T134135Z" creationid="Marc Riera" creationdate="20190924T134135Z">
         <seg>Telegram</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Template Variables</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175847Z" creationid="Marc Riera" creationdate="20221218T175847Z">
+        <seg>Variables de plantilla</seg>
       </tuv>
     </tu>
     <tu>
@@ -41977,6 +42161,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User Defined Scripts</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175933Z" creationid="Marc Riera" creationdate="20221218T175933Z">
+        <seg>Scripts definits per l'usuari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User Guide...</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T190825Z" creationid="Marc Riera" creationdate="20221203T190825Z">
@@ -42322,6 +42514,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T111117Z" creationid="mgalo" creationdate="20181112T111117Z">
         <seg>Valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Variable name</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175853Z" creationid="Marc Riera" creationdate="20221218T175853Z">
+        <seg>Nom de la variable</seg>
       </tuv>
     </tu>
     <tu>
