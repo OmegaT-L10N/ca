@@ -3626,6 +3626,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c0&gt;# -*- coding: &lt;charset&gt; -*-&lt;/c0&gt;,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175153Z" creationid="Marc Riera" creationdate="20221218T175153Z">
+        <seg>&lt;c0&gt;# -*- coding: &lt;joc de caràcters&gt; -*-&lt;/c0&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c0&gt;# -*- coding: &lt;p1&gt;&lt;charset&gt;&lt;/p1&gt; -*-&lt;/c0&gt;,</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T102849Z" creationid="Marc Riera" creationdate="20221201T165751Z">
@@ -5809,6 +5817,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T160506Z" creationid="Packard Bell" creationdate="20150605T160734Z">
         <seg>Tots els llenguatges tenen accés al model d'objectes de l'OmegaT, amb el projecte com a objecte superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the parameters located in a &lt;l0&gt;project folder&lt;/l0&gt; will apply to that project regardless of which version of OmegaT opens it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175544Z" creationid="Marc Riera" creationdate="20221218T175544Z">
+        <seg>Tots els paràmetres en una &lt;l0&gt;carpeta de projecte&lt;/l0&gt; s'aplicaran al projecte independentment de la versió de l'OmegaT que l'obri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14694,6 +14710,14 @@ els fils de teranyina t'aparten.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files in the &lt;l0/&gt; folder are overwritten every time you create them if they are created with the same name.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174920Z" creationid="Marc Riera" creationdate="20221218T174920Z">
+        <seg>Els fitxers de la carpeta &lt;l0/&gt; se sobreescriuen cada vegada que els creeu si es creen amb el mateix nom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files in the &lt;l0/&gt; folder are overwritten everytime you create them if they are created with the same name.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T093829Z" creationid="Marc Riera" creationdate="20221214T093829Z">
@@ -17565,6 +17589,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the file name is ambiguous, variables of the form &lt;l0&gt;${nameonly-&lt;/l0&gt;&lt;e1&gt;extension number&lt;/e1&gt;} and &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;extension number} &lt;/e3&gt; can be used.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175000Z" creationid="Marc Riera" creationdate="20221218T175000Z">
+        <seg>Si el nom del fitxer és ambigu, es poden utilitzar variables com ara &lt;l0&gt;${nameonly-&lt;/l0&gt;&lt;e1&gt;número d'extensió&lt;/e1&gt;} i &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;número d'extensió}&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the file name is ambiguous, variables of the form &lt;l0&gt;${nameonly&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt; can be used.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T105536Z" creationid="Marc Riera" creationdate="20221215T105536Z">
@@ -19635,6 +19667,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T092706Z" creationid="Marc Riera" creationdate="20221206T092706Z">
         <seg>S'anomena glossari &lt;e1&gt;modificable&lt;/e1&gt; per aquesta raó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is called the &lt;e2&gt;writable&lt;/e2&gt; glossary for this reason.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175124Z" creationid="Marc Riera" creationdate="20221218T175124Z">
+        <seg>S'anomena glossari &lt;e2&gt;modificable&lt;/e2&gt; per aquesta raó.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22630,6 +22670,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modified local file filters are saved in the &lt;l0/&gt; file, located in the project folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174836Z" creationid="Marc Riera" creationdate="20221218T174836Z">
+        <seg>Els filtres de fitxers locals modificats es desen en el fitxer &lt;l0/&gt;, dins de la carpeta del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modified preferences are stored in the configuration folder used by the project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160157Z" creationid="Marc Riera" creationdate="20221201T160157Z">
@@ -24330,6 +24378,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 5.8.0 and later can also run with Java 11 Runtime Environment on any platforms.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175428Z" creationid="Marc Riera" creationdate="20221218T175428Z">
+        <seg>L'OmegaT 5.8.0 i les versions posteriors també es poden executar amb el Java 11 Runtime Environment en qualsevol plataforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT 5.8.0 requires a Java 8 Runtime Environment (JRE) to run.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T210138Z" creationid="Marc Riera" creationdate="20221206T210138Z">
@@ -25636,6 +25692,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T105127Z" creationid="Marc Riera" creationdate="20221209T105127Z">
         <seg>Quan hàgiu fet això, podeu suprimir el fitxer baixat, que ja no és necessari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once you have done this, you can delete the downloaded package as it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175515Z" creationid="Marc Riera" creationdate="20221218T175515Z">
+        <seg>Quan hàgiu fet això, podeu suprimir el paquet baixat, que ja no és necessari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31119,6 +31183,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;The Eclipse Temurin™ project&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175451Z" creationid="Marc Riera" creationdate="20221218T175451Z">
+        <seg>Consulteu &lt;u0&gt;Projecte Eclipse Temurin™&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Unicode Bidirectional Algorithm&lt;/u0&gt; for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221040Z" creationid="Marc Riera" creationdate="20221208T221040Z">
@@ -31300,9 +31372,41 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l1/&gt; chapter for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174841Z" creationid="Marc Riera" creationdate="20221218T174841Z">
+        <seg>Consulteu el capítol &lt;l1/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; project property for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175204Z" creationid="Marc Riera" creationdate="20221218T175204Z">
+        <seg>Consulteu la propietat del projecte &lt;l1/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; section.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175530Z" creationid="Marc Riera" creationdate="20221218T175530Z">
+        <seg>Consulteu la secció &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;u0&gt; Oracle documentation&lt;/u0&gt; for examples.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084355Z" creationid="Marc Riera" creationdate="20221214T084355Z">
+        <seg>Consulteu la &lt;u0&gt;Documentació d'Oracle&lt;/u0&gt; per a veure exemples.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174931Z" creationid="Marc Riera" creationdate="20221218T174931Z">
         <seg>Consulteu la &lt;u0&gt;Documentació d'Oracle&lt;/u0&gt; per a veure exemples.</seg>
       </tuv>
     </tu>
@@ -33189,6 +33293,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T203427Z" creationid="Marc Riera" creationdate="20221124T203427Z">
         <seg>Patró de nom del fitxer d'origen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename patterns use wild card characters : The &lt;l0&gt;*&lt;/l0&gt; character matches zero or more characters, while the &lt;l1&gt;?&lt;/l1&gt; character matches exactly one character.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174916Z" creationid="Marc Riera" creationdate="20221218T174916Z">
+        <seg>Els patrons de nom del fitxer d'origen utilitzen caràcters comodí: el caràcter &lt;l0&gt;*&lt;/l0&gt; coincideix amb zero o més caràcters, mentre que el caràcter &lt;l1&gt;?&lt;/l1&gt; coincideix exactament amb un caràcter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36095,6 +36207,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder contains two files: &lt;f1&gt;index.html&lt;/f1&gt; (the user manual entry file) and &lt;f2&gt;OmegaT.app&lt;/f2&gt; (the application).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175508Z" creationid="Marc Riera" creationdate="20221218T175508Z">
+        <seg>La carpeta conté dos fitxers: &lt;f1&gt;index.html&lt;/f1&gt; (fitxer d'entrades del manual d'usuari) i &lt;f2&gt;OmegaT.app&lt;/f2&gt; (aplicació).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder structure reflects the copied contents and files that are not supported by OmegaT’s file filters will be copied without modifications.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T122515Z" creationid="Marc Riera" creationdate="20221206T122515Z">
@@ -37019,6 +37139,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T121549Z" creationid="Marc Riera" creationdate="20221209T121549Z">
         <seg>Podeu baixar el codi font de la versió actual directament des de la &lt;u0&gt;pàgina de baixada&lt;/u0&gt; de l'OmegaT, o bé clonar-los des dels dipòsits de &lt;u1&gt;Sourceforge&lt;/u1&gt; o &lt;u2&gt;GitHub&lt;/u2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source code for the current version can be either be downloaded directly from the OmegaT &lt;u0&gt;download page&lt;/u0&gt;, or cloned from the &lt;u1&gt;Sourceforge&lt;/u1&gt; or &lt;u2&gt;GitHub&lt;/u2&gt; repositories.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175600Z" creationid="Marc Riera" creationdate="20221218T175600Z">
+        <seg>Podeu baixar el codi font de la versió actual directament des de la &lt;u0&gt;pàgina de baixada&lt;/u0&gt; de l'OmegaT, o bé clonar-lo des dels dipòsits de &lt;u1&gt;Sourceforge&lt;/u1&gt; o &lt;u2&gt;GitHub&lt;/u2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41442,6 +41570,22 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to directly access it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175130Z" creationid="Marc Riera" creationdate="20221218T175130Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a accedir-hi directament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to enter new terms in this glossary.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175117Z" creationid="Marc Riera" creationdate="20221218T175117Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a afegir termes nous a aquest glossari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to obtain more information.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121420Z" creationid="Marc Riera" creationdate="20221218T121420Z">
@@ -41677,6 +41821,30 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; project property to limit the scope of the segmentation rules to the current project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175331Z" creationid="Marc Riera" creationdate="20221218T175331Z">
+        <seg>Utilitzeu la propietat del projecte &lt;l0/&gt; per a limitar l'àmbit de les regles de segmentació al projecte actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; project property to select the type of segmentation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175304Z" creationid="Marc Riera" creationdate="20221218T175304Z">
+        <seg>Utilitzeu la propietat del projecte &lt;l0/&gt; per a seleccionar el tipus de segmentació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; project property to set the location of the reference glossaries folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175218Z" creationid="Marc Riera" creationdate="20221218T175218Z">
+        <seg>Utilitzeu la propietat del projecte &lt;l0/&gt; per a definir la ubicació de la carpeta de glossaris de referència.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;l0&gt;option&lt;/l0&gt; to set the location of the reference glossaries folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T100028Z" creationid="Marc Riera" creationdate="20221206T100028Z">
@@ -41830,6 +41998,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T162049Z" creationid="Packard Bell" creationdate="20150605T162049Z">
         <seg>Manual d'usuari...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User can select from three options, Previous and next paragraphs, &lt;trans unit&gt; ID, or &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175010Z" creationid="Marc Riera" creationdate="20221218T175010Z">
+        <seg>L'usuari pot seleccionar tres opcions, «Paràgrafs anteriors i següents», «ID de l'element &lt;trans unit&gt;» o «Atribut resname de l'element &lt;trans unit&gt; si està disponible». Si no està disponible, s'utilitzarà l'ID com a alternativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43442,6 +43618,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can achieve a similar result by starting OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175353Z" creationid="Marc Riera" creationdate="20221218T175353Z">
+        <seg>Podeu aconseguir un resultat similar iniciant l'OmegaT des de la línia d'ordres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can adapt the displayed information to your needs.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T124002Z" creationid="Marc Riera" creationdate="20221209T124002Z">
@@ -43950,6 +44134,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134518Z" creationid="Marc Riera" creationdate="20221209T134518Z">
         <seg>A continuació, podeu fer clic en el número per a executar l'script assignat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can then open it in a text editor and modify it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175141Z" creationid="Marc Riera" creationdate="20221218T175141Z">
+        <seg>També podeu obrir-lo en un editor de text i modificar-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47077,6 +47269,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://projects.eclipse.org/projects/adoptium.temurin</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175430Z" creationid="Marc Riera" creationdate="20221218T175430Z">
+        <seg>https://projects.eclipse.org/projects/adoptium.temurin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://regex101.com</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113747Z" creationid="Marc Riera" creationdate="20221129T113747Z">
@@ -49065,6 +49265,14 @@ for (i in 0 ..&lt; files.size())
         <seg>system time when the file is was created</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084344Z" creationid="Marc Riera" creationdate="20221214T084328Z">
+        <seg>Hora del sistema en crear el fitxer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>system time when the file was created</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174924Z" creationid="Marc Riera" creationdate="20221218T174924Z">
         <seg>Hora del sistema en crear el fitxer</seg>
       </tuv>
     </tu>
