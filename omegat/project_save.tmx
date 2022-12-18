@@ -3866,6 +3866,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;In this manual:&lt;/e0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;E&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221433Z" creationid="Marc Riera" creationdate="20221218T221433Z">
+        <seg>&lt;e0&gt;Aquest manual:&lt;/e0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;E&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T160030Z" creationid="Marc Riera" creationdate="20220611T160030Z">
@@ -6254,6 +6262,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>An OmegaT translation project consists of a number of resources stored in separate folders, of an &lt;l0&gt;&lt;f1&gt;omegat.project&lt;/f1&gt;&lt;/l0&gt; file that stores the location of all the resources and of a &lt;l2&gt;&lt;f3&gt;project_save.tmx&lt;/f3&gt;&lt;/l2&gt; translation memory file that stores all the translations made while working on that project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221212Z" creationid="Marc Riera" creationdate="20221218T221212Z">
+        <seg>Un projecte de traducció de l'OmegaT consisteix en una sèrie de recursos emmagatzemats en carpetes independents, un fitxer &lt;l0&gt;&lt;f1&gt;omegat.project&lt;/f1&gt;&lt;/l0&gt; que emmagatzema la ubicació de tots els recursos i un fitxer de memòria de traducció &lt;l2&gt;&lt;f3&gt;project_save.tmx&lt;/f3&gt;&lt;/l2&gt; que emmagatzema totes les traduccions fetes durant la traducció del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>An error occurred</seg>
@@ -7660,6 +7676,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Buttons</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221237Z" creationid="Marc Riera" creationdate="20221218T221237Z">
+        <seg>Botons</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Buttons are very few in OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T155119Z" creationid="Marc Riera" creationdate="20221129T155119Z">
@@ -8247,6 +8271,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212055Z" creationid="Marc Riera" creationdate="20221124T212055Z">
         <seg>El canvi d'ordre de les etiquetes podria generar errors en el fitxer traduït!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapters, how-to and appendices</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221345Z" creationid="Marc Riera" creationdate="20221218T221345Z">
+        <seg>Capítols, guies i annexos</seg>
       </tuv>
     </tu>
     <tu>
@@ -8960,6 +8992,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T093333Z" creationid="Marc Riera" creationdate="20221205T093333Z">
         <seg>Feu clic en &lt;l0/&gt; o &lt;l1/&gt; i afegiu fitxers d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221241Z" creationid="Marc Riera" creationdate="20221218T221241Z">
+        <seg>Feu clic en &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14828,6 +14868,14 @@ els fils de teranyina t'aparten.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files and folders</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221301Z" creationid="Marc Riera" creationdate="20221218T221301Z">
+        <seg>Fitxers i carpetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files containing formatting (ODF, HTML, or other documents) are divided at block-level (paragraph) tags.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T172714Z" creationid="Marc Riera" creationdate="20221201T172714Z">
@@ -18178,6 +18226,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have not yet installed OmegaT, see the &lt;l0/&gt; how-to.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221443Z" creationid="Marc Riera" creationdate="20221218T221443Z">
+        <seg>Si encara no heu instal·lat l'OmegaT, consulteu la guia &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you haven't yet saved the project, this manually confirms whether you really wish to quit.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T230819Z" creationid="Marc Riera" creationdate="20201129T230819Z">
@@ -20309,6 +20365,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Just follow the simple steps described in the &lt;l0/&gt; how-to.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221220Z" creationid="Marc Riera" creationdate="20221218T221220Z">
+        <seg>Només cal que seguiu els passos senzills que es descriuen en la guia &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Keep</seg>
@@ -21214,6 +21278,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T204052Z" creationid="Marc Riera" creationdate="20201010T204052Z">
         <seg>A continuació es proporcionen enllaços a diverses versions de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Links to external resources</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221358Z" creationid="Marc Riera" creationdate="20221218T221358Z">
+        <seg>Enllaços a recursos externs</seg>
       </tuv>
     </tu>
     <tu>
@@ -22473,6 +22545,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T190627Z" creationid="Marc Riera" creationdate="20221203T190627Z">
         <seg>Element del menú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu items</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221231Z" creationid="Marc Riera" creationdate="20221218T221231Z">
+        <seg>Elements del menú</seg>
       </tuv>
     </tu>
     <tu>
@@ -26934,6 +27014,14 @@ s'esvaeix com la boira.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Panes, windows, dialogs</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221253Z" creationid="Marc Riera" creationdate="20221218T221253Z">
+        <seg>Subfinestres, finestres i quadres de diàleg</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Paragraph delimitation</seg>
@@ -27695,6 +27783,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200122T222429Z" creationid="Marc Riera" creationdate="20200122T222429Z">
         <seg>No s'han enviat les credencials predefinides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preference settings and project properties</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221329Z" creationid="Marc Riera" creationdate="20221218T221329Z">
+        <seg>Paràmetres de les preferències i propietats del projecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -35343,6 +35439,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; chapter.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221352Z" creationid="Marc Riera" creationdate="20221218T221352Z">
+        <seg>El capítol &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; command should only be used by the project administrator.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T142201Z" creationid="Marc Riera" creationdate="20221211T142201Z">
@@ -35399,10 +35503,42 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221257Z" creationid="Marc Riera" creationdate="20221218T221257Z">
+        <seg>La subfinestra &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221337Z" creationid="Marc Riera" creationdate="20221218T221337Z">
+        <seg>El paràmetre &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0&gt; &lt;f1&gt;omegat.project&lt;/f1&gt; &lt;/l0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221316Z" creationid="Marc Riera" creationdate="20221218T221316Z">
+        <seg>El fitxer &lt;l0&gt;&lt;f1&gt;omegat.project&lt;/f1&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l1/&gt; is also available in the Editor pane.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T184139Z" creationid="Marc Riera" creationdate="20221213T184139Z">
         <seg>També teniu disponible el &lt;l1/&gt; en la subfinestra «Editor».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221415Z" creationid="Marc Riera" creationdate="20221218T221415Z">
+        <seg>La &lt;u0&gt;Documentació d'expressions regulars del Java&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41738,6 +41874,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; if you don’t remember where your project is.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221532Z" creationid="Marc Riera" creationdate="20221218T221532Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; si no recordeu on és el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access it directly.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174612Z" creationid="Marc Riera" creationdate="20221218T174612Z">
@@ -41790,6 +41934,22 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174657Z" creationid="Marc Riera" creationdate="20221218T174657Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a visualitzar el contingut del fitxer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt;, and select an empty folder or create a new one with the name of your project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221450Z" creationid="Marc Riera" creationdate="20221218T221450Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt;, seleccioneu una carpeta buida o creeu-ne una de nova amb el nom del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221235Z" creationid="Marc Riera" creationdate="20221218T221235Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
