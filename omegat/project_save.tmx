@@ -17582,6 +17582,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the location matches both rules, it is considered either as a break, or as a non-break, depending on what the rule defined.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120618Z" creationid="Marc Riera" creationdate="20221218T120618Z">
+        <seg>Si la ubicació coincideix amb les dues regles, es considera una separació o no, en funció del que defineixi la regla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the project contains files but their content is not displayed here:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T173745Z" creationid="Marc Riera" creationdate="20221124T173745Z">
@@ -18619,6 +18627,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T212551Z" creationid="Marc Riera" creationdate="20221208T212516Z">
         <seg>Aquesta guia: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this manual: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120656Z" creationid="Marc Riera" creationdate="20221218T120638Z">
+        <seg>Aquest manual: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24250,6 +24266,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 5.8.0 - User Manual</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120242Z" creationid="Marc Riera" creationdate="20221218T120242Z">
+        <seg>OmegaT 5.8.0 - Manual d'usuari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT 5.8.0 and later also support Java 11 Runtime Environment on any platforms.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T210226Z" creationid="Marc Riera" creationdate="20221206T210226Z">
@@ -24971,6 +24995,14 @@ està a punt per a executar-se.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T205135Z" creationid="Marc Riera" creationdate="20221206T205135Z">
         <seg>Els projectes de l'OmegaT &lt;e1&gt;no&lt;/e1&gt; s'emmagatzemen dins de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT provides developers with thorough documentation to create file filter plugins.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120555Z" creationid="Marc Riera" creationdate="20221218T120555Z">
+        <seg>L'OmegaT proporciona una documentació exhaustiva de desenvolupament per a crear connectors de filtres de fitxers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30926,6 +30958,22 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0&gt;above&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120549Z" creationid="Marc Riera" creationdate="20221218T120549Z">
+        <seg>Consulteu &lt;l0&gt;l'apartat anterior&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;below&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120543Z" creationid="Marc Riera" creationdate="20221218T120543Z">
+        <seg>Consulteu &lt;l0&gt;l'apartat següent&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;spellchecker files&lt;/l0&gt; for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T183921Z" creationid="Marc Riera" creationdate="20221217T183921Z">
@@ -31124,10 +31172,50 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; appendix if you want to modify or add shortcuts.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120439Z" creationid="Marc Riera" creationdate="20221218T120439Z">
+        <seg>Consulteu l'annex &lt;l0/&gt; si voleu modificar o afegir dreceres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; chapter for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120511Z" creationid="Marc Riera" creationdate="20221218T120511Z">
+        <seg>Consulteu el capítol &lt;l0/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; how-to for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120632Z" creationid="Marc Riera" creationdate="20221218T120632Z">
+        <seg>Consulteu la guia &lt;l0/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; menu for more navigation options.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222531Z" creationid="Marc Riera" creationdate="20221211T222531Z">
         <seg>Consulteu el menú &lt;l0/&gt; per a conèixer més opcions de navegació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; option for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120352Z" creationid="Marc Riera" creationdate="20221218T120352Z">
+        <seg>Consulteu l'opció &lt;l0/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; section for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120533Z" creationid="Marc Riera" creationdate="20221218T120533Z">
+        <seg>Consulteu la secció &lt;l0/&gt; per a conèixer més detalls.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32191,6 +32279,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T215741Z" creationid="Marc Riera" creationdate="20221211T215741Z">
         <seg>Les dreceres són omnipresents en aquesta guia i segur que en poc temps recordareu les poques que són útils al llarg d'un dia normal de traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shortcuts are ubiquitous in this manual and you should be able very shortly to remember the few that are useful in the course of a standard translation day.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120434Z" creationid="Marc Riera" creationdate="20221218T120434Z">
+        <seg>Les dreceres són omnipresents en aquest manual i segur que en poc temps recordareu les poques que són útils al llarg d'un dia normal de traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35303,6 +35399,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The aligner does not allow you to save your work partway through an alignment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120355Z" creationid="Marc Riera" creationdate="20221218T120355Z">
+        <seg>L'alineador no us permet desar la feina durant l'alineació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The aligner includes tags in the segments by default.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205331Z" creationid="Marc Riera" creationdate="20221214T205331Z">
@@ -37107,6 +37211,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The translator has enabled the &lt;l0&gt;auto-completion&lt;/l0&gt; to automatically display not only history predictions, but also glossary terms, and pre-defined short strings, which can be entered with simple arrow navigation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120717Z" creationid="Marc Riera" creationdate="20221218T120717Z">
+        <seg>La traductora ha habilitat l'&lt;l0&gt;emplenament automàtic&lt;/l0&gt; per a mostrar automàticament no només les prediccions de l'historial, sinó també els termes dels glossaris i cadenes curtes predefinides, que es poden introduir fàcilment amb les fletxes de navegació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translator then reaches a revised section of the text where the &lt;l0/&gt; pane shows a number of similar segments from the previous job.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T082553Z" creationid="Marc Riera" creationdate="20221205T082553Z">
@@ -37866,6 +37978,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This continues, with the occasional sequence of &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;2&lt;/k2&gt;&lt;/k0&gt; (or other number) followed by &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;I&lt;/k5&gt;&lt;/k3&gt; when one of the matches from 2 to 5 is more suitable.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120756Z" creationid="Marc Riera" creationdate="20221218T120756Z">
+        <seg>Això continua; ocasionalment, utilitza la seqüència &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;2&lt;/k2&gt;&lt;/k0&gt; (o un número diferent) seguida de &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;I&lt;/k5&gt;&lt;/k3&gt; quan una de les coincidències de 2 a 5 és més adequada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This continues, with the occasional sequence of &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;2&lt;/k5&gt;&lt;/k3&gt; (or other number) followed by &lt;k6&gt;&lt;k7&gt;C&lt;/k7&gt;&lt;k8&gt;I&lt;/k8&gt;&lt;/k6&gt; when one of the matches from 2 to 5 is more suitable.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T114824Z" creationid="Marc Riera" creationdate="20221217T114824Z">
@@ -37918,6 +38038,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T155409Z" creationid="Marc Riera" creationdate="20221129T155409Z">
         <seg>Aquest document és la guia d'usuari oficial de l'OmegaT, l'eina lliure de traducció assistida per ordinador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document is the official user manual to OmegaT, the free Computer-Assisted Translation tool.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120252Z" creationid="Marc Riera" creationdate="20221218T120252Z">
+        <seg>Aquest document és el manual d'usuari oficial de l'OmegaT, l'eina lliure de traducció assistida per ordinador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41094,6 +41222,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T215853Z" creationid="Marc Riera" creationdate="20221211T215853Z">
         <seg>Utilitzeu &lt;l0/&gt;, seleccioneu una carpeta buida o creeu-ne una de nova amb el nom del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access this tool.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120345Z" creationid="Marc Riera" creationdate="20221218T120345Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a accedir a aquesta eina.</seg>
       </tuv>
     </tu>
     <tu>
