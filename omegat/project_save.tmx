@@ -15028,6 +15028,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>For details, see:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174819Z" creationid="Marc Riera" creationdate="20221218T174819Z">
+        <seg>Per a conèixer més detalls, consulteu:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
@@ -17905,6 +17913,14 @@ extensions dels fitxers.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160301Z" creationid="Marc Riera" creationdate="20221201T160301Z">
         <seg>Si no utilitzeu la carpeta de configuració per defecte, totes les modificacions aplicades a &lt;l0/&gt; s'emmagatzemaran en la carpeta de configuració especificada i no apareixeran quan torneu a treballar amb la carpeta de configuració per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you do not use the default configuration folder, all modifications made in the &lt;l0&gt;preferences&lt;/l0&gt; will be stored in the specified configuration folder and will not appear when you resume work with the default configuration folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174629Z" creationid="Marc Riera" creationdate="20221218T174629Z">
+        <seg>Si no utilitzeu la carpeta de configuració per defecte, totes les modificacions aplicades a les &lt;l0&gt;preferències&lt;/l0&gt; s'emmagatzemaran en la carpeta de configuració especificada i no apareixeran quan torneu a treballar amb la carpeta de configuració per defecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31252,6 +31268,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; preference for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174803Z" creationid="Marc Riera" creationdate="20221218T174803Z">
+        <seg>Consulteu les preferències de &lt;l0/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; preferences for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T160800Z" creationid="Marc Riera" creationdate="20221218T160754Z">
@@ -32864,6 +32888,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
         <seg>Some preference do not have an equivalent in the user interface.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155331Z" creationid="Marc Riera" creationdate="20221201T155331Z">
+        <seg>Algunes preferències no tenen un equivalent en la interfície d'usuari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some preferences do not have an equivalent in the user interface.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174632Z" creationid="Marc Riera" creationdate="20221218T174632Z">
         <seg>Algunes preferències no tenen un equivalent en la interfície d'usuari.</seg>
       </tuv>
     </tu>
@@ -38213,10 +38245,26 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;original text&lt;/e0&gt; from of the current segment when the &lt;l1/&gt; preference is enabled.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174733Z" creationid="Marc Riera" creationdate="20221218T174733Z">
+        <seg>Aquest fitxer conté el &lt;e0&gt;text original&lt;/e0&gt; del segment actual quan la preferència &lt;l1/&gt; està habilitada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file contains the &lt;e0&gt;translated text&lt;/e0&gt; from the current segment when &lt;l1/&gt; is active.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155721Z" creationid="Marc Riera" creationdate="20221201T155721Z">
         <seg>Aquest fitxer conté el &lt;e0&gt;text traduït&lt;/e0&gt; del segment actual quan &lt;l1/&gt; està actiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;translated text&lt;/e0&gt; from the current segment when the &lt;l1/&gt; preference is enabled.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174743Z" creationid="Marc Riera" creationdate="20221218T174743Z">
+        <seg>Aquest fitxer conté el &lt;e0&gt;text traduït&lt;/e0&gt; del segment actual quan la preferència &lt;l1/&gt; està habilitada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38265,6 +38313,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T163806Z" creationid="Marc Riera" creationdate="20221213T163806Z">
         <seg>Aquest fitxer no és un arxiu de connector.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file stores the currently selected text when &lt;l0/&gt;&lt;l1/&gt; is used.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174718Z" creationid="Marc Riera" creationdate="20221218T174718Z">
+        <seg>Aquest fitxer emmagatzema el text seleccionat actualment quan s'utilitza &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39268,6 +39324,14 @@ tots els paràmetres als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201210T185623Z" creationid="Alexandra" creationdate="20150526T103044Z">
         <seg>Per a obtenir l'OpenOffice.org o el LibreOffice, seguiu l'enllaç del botó «Programari de tercers» a l'esquerra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To prevent the Source Files list window from automatically opening when a project is loaded, find &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; and replace &lt;t1&gt;true&lt;/t1&gt; to &lt;t2&gt;false&lt;/t2&gt;:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174641Z" creationid="Marc Riera" creationdate="20221218T174641Z">
+        <seg>Per a impedir que la finestra amb llista de fitxers d'origen s'obri automàticament en carregar un projecte, cerqueu &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; i substituïu &lt;t1&gt;true&lt;/t1&gt; per &lt;t2&gt;false&lt;/t2&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41362,6 +41426,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access it directly.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174612Z" creationid="Marc Riera" creationdate="20221218T174612Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a accedir-hi directament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access this tool.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120345Z" creationid="Marc Riera" creationdate="20221218T120345Z">
@@ -41382,6 +41454,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121104Z" creationid="Marc Riera" creationdate="20221218T121104Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a obrir el quadre de diàleg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to view the contents of the file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174657Z" creationid="Marc Riera" creationdate="20221218T174657Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a visualitzar el contingut del fitxer.</seg>
       </tuv>
     </tu>
     <tu>
