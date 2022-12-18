@@ -4573,6 +4573,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A comment line starts with a &lt;c0&gt;#&lt;/c0&gt;, and everything after that is ignored by the application.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120917Z" creationid="Marc Riera" creationdate="20221218T120917Z">
+        <seg>Una línia amb un comentari comença per &lt;c0&gt;#&lt;/c0&gt; i l'aplicació ignora tot el contingut posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A comment line starts with a &lt;c0&gt;#&lt;/c0&gt;, and everything after that is ignored by the applicaton.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T121653Z" creationid="Marc Riera" creationdate="20221217T121653Z">
@@ -8840,6 +8848,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214048Z" creationid="Marc Riera" creationdate="20221207T214048Z">
         <seg>En fer clic en qualsevol fitxer, s'obre en l'&lt;l0/&gt; per a la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clicking on any file will open it in the &lt;l0/&gt; pane for translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121409Z" creationid="Marc Riera" creationdate="20221218T121409Z">
+        <seg>En fer clic en qualsevol fitxer, s'obre la subfinestra &lt;l0/&gt; per a la traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18151,6 +18167,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If your language pair calls for the frequent use of &lt;l0&gt;alternative translations&lt;/l0&gt;, you may want to assign a shortcut to that function since it does not have one by default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121018Z" creationid="Marc Riera" creationdate="20221218T121018Z">
+        <seg>Si el parell de llengües fa un ús freqüent de les &lt;l0&gt;traduccions alternatives&lt;/l0&gt;, és possible que vulgueu assignar una drecera a aquesta funció, ja que no en té cap per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
@@ -25071,6 +25095,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T114125Z" creationid="Marc Riera" creationdate="20221217T114125Z">
         <seg>L'OmegaT funciona en qualsevol plataforma que executi una versió del Java Runtime Environment (Windows, macOS i Linux són les principals).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT synchronises the Editor contents with the selected result, so she can edit the segments right away.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120853Z" creationid="Marc Riera" creationdate="20221218T120853Z">
+        <seg>L'OmegaT sincronitza el contingut de l'editor amb el resultat seleccionat, de manera que pot editar els segments immediatament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32232,6 +32264,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>She now decides to review the annoted segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120819Z" creationid="Marc Riera" creationdate="20221218T120819Z">
+        <seg>Ara decideix revisar els segments amb notes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Shift</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T190312Z" creationid="Marc Riera" creationdate="20221203T190312Z">
@@ -35707,6 +35747,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The default shortcut for &lt;l0&gt;closing a project&lt;/l0&gt; is defined on Windows and Linux as:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120936Z" creationid="Marc Riera" creationdate="20221218T120936Z">
+        <seg>La drecera per defecte per a &lt;l0&gt;tancar un projecte&lt;/l0&gt; és la següent en el Windows i el Linux:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The dialog is used to set the initial project properties when creating a new project and also to modify them later, after the project has been created.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T105508Z" creationid="Marc Riera" creationdate="20221206T105508Z">
@@ -36382,6 +36430,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The next time you start OmegaT, your new shortcut should be active and displayed next to the name of the function in the menu.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121037Z" creationid="Marc Riera" creationdate="20221218T121037Z">
+        <seg>La pròxima vegada que inicieu l'OmegaT, la drecera nova hauria d'estar activa i mostrar-se al costat del nom de la funció en el menú.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The number of &lt;e0&gt;Unique&lt;/e0&gt; segments is calculated by removing the number of duplicate segments from the total segment number.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215649Z" creationid="Marc Riera" creationdate="20221207T215649Z">
@@ -37021,6 +37077,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The steps below demonstrate how to assign the &lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt; shortcut to the &lt;l3/&gt;&lt;l4/&gt; menu item.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121031Z" creationid="Marc Riera" creationdate="20221218T121031Z">
+        <seg>Els passos següents mostren com assignar la drecera &lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt; a l'element del menú &lt;l3/&gt;&lt;l4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The steps to set up a team project are the following:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202248Z" creationid="Marc Riera" creationdate="20221210T202248Z">
@@ -37231,6 +37295,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T220934Z" creationid="Marc Riera" creationdate="20221207T214909Z">
         <seg>Les dues accions són equivalents a anar al menú &lt;l0/&gt; i executar les ordres &lt;l1/&gt; i &lt;l2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The two actions are equivalent to using the &lt;l0/&gt;&lt;l1/&gt; and &lt;l2/&gt;&lt;l3/&gt; menu items.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121444Z" creationid="Marc Riera" creationdate="20221218T121444Z">
+        <seg>Les dues accions són equivalents a utilitzar els elements del menú &lt;l0/&gt;&lt;l1/&gt; i &lt;l2/&gt;&lt;l3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37783,6 +37855,14 @@ en sou víctima d'una.</seg>
         <seg>They will now be availabe in OmegaT as long as there are no conflicts with other functions or with system-wide shortcuts.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T154521Z" creationid="Marc Riera" creationdate="20221217T154521Z">
+        <seg>Ara estaran disponibles en l'OmegaT sempre que no hi hagi conflictes amb altres funcions o amb les dreceres del sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They will now be available in OmegaT as long as there are no conflicts with other functions or with system-wide shortcuts.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121040Z" creationid="Marc Riera" creationdate="20221218T121040Z">
         <seg>Ara estaran disponibles en l'OmegaT sempre que no hi hagi conflictes amb altres funcions o amb les dreceres del sistema.</seg>
       </tuv>
     </tu>
@@ -38759,6 +38839,14 @@ tots els paràmetres als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This window is displayed automatically when OmegaT loads a project, and at any time by using &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121400Z" creationid="Marc Riera" creationdate="20221218T121400Z">
+        <seg>Aquesta finestra es mostra automàticament quan l'OmegaT carrega un projecte i en qualsevol moment amb &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T145859Z" creationid="Marc Riera" creationdate="20220506T145859Z">
@@ -39005,6 +39093,14 @@ tots els paràmetres als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To do so, modify the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; as follows for Windows or Linux:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121003Z" creationid="Marc Riera" creationdate="20221218T120955Z">
+        <seg>Per a fer-ho, modifiqueu el fitxer &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; així per al Windows i el Linux:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To do so, modify the &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt; as follows:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T091349Z" creationid="Marc Riera" creationdate="20221205T091327Z">
@@ -39091,6 +39187,14 @@ tots els paràmetres als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215016Z" creationid="Marc Riera" creationdate="20221207T215016Z">
         <seg>Per a impedir que la finestra amb llista de fitxers d'origen s'obri automàticament en carregar un projecte, canvieu &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; a &lt;t1&gt;false&lt;/t1&gt; en el fitxer de configuració &lt;l2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To keep the Source Files list window to automatically open when a project is loaded, you can manually change the &lt;l0/&gt; configuration file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121512Z" creationid="Marc Riera" creationdate="20221218T121512Z">
+        <seg>Per a impedir que la finestra amb llista de fitxers d'origen s'obri automàticament en carregar un projecte, podeu modificar manualment el fitxer de configuració &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41230,6 +41334,22 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120345Z" creationid="Marc Riera" creationdate="20221218T120345Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a accedir a aquesta eina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to obtain more information.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121420Z" creationid="Marc Riera" creationdate="20221218T121420Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a obtenir més informació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to open the dialog.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121104Z" creationid="Marc Riera" creationdate="20221218T121104Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a obrir el quadre de diàleg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44672,6 +44792,14 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and on macOS as:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120945Z" creationid="Marc Riera" creationdate="20221218T120945Z">
+        <seg>I en el macOS és la següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>and the text after the location corresponds to the associated &lt;e0&gt;After&lt;/e0&gt; rule.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T173016Z" creationid="Marc Riera" creationdate="20221201T172953Z">
@@ -45295,6 +45423,22 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl alt E</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121051Z" creationid="Marc Riera" creationdate="20221218T121051Z">
+        <seg>ctrl alt E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl alt N</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121047Z" creationid="Marc Riera" creationdate="20221218T121047Z">
+        <seg>ctrl alt N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl shift C</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T083700Z" creationid="Marc Riera" creationdate="20221205T083700Z">
@@ -45331,6 +45475,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T083651Z" creationid="Marc Riera" creationdate="20221205T083651Z">
         <seg>ctrl shift I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift K</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121043Z" creationid="Marc Riera" creationdate="20221218T121043Z">
+        <seg>ctrl shift K</seg>
       </tuv>
     </tu>
     <tu>
@@ -46185,6 +46337,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>gotoEditorPanelMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121050Z" creationid="Marc Riera" creationdate="20221218T121050Z">
+        <seg>gotoEditorPanelMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>gotoHistoryBackMenuItem</seg>
@@ -46254,6 +46414,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104340Z" creationid="Marc Riera" creationdate="20220612T104340Z">
         <seg>gotoNextUntranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoNotesPanelMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121046Z" creationid="Marc Riera" creationdate="20221218T121046Z">
+        <seg>gotoNotesPanelMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -47577,6 +47745,22 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta alt E</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121053Z" creationid="Marc Riera" creationdate="20221218T121053Z">
+        <seg>meta alt E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta alt N</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121049Z" creationid="Marc Riera" creationdate="20221218T121049Z">
+        <seg>meta alt N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta shift C</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T083701Z" creationid="Marc Riera" creationdate="20221205T083701Z">
@@ -47613,6 +47797,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T083653Z" creationid="Marc Riera" creationdate="20221205T083653Z">
         <seg>meta shift I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift K</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121044Z" creationid="Marc Riera" creationdate="20221218T121044Z">
+        <seg>meta shift K</seg>
       </tuv>
     </tu>
     <tu>
@@ -48122,6 +48314,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T192823Z" creationid="Marc Riera" creationdate="20221210T192823Z">
         <seg>Com a còpia de seguretat periòdica, cada 3 minuts per defecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or as follows for macOS:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121009Z" creationid="Marc Riera" creationdate="20221218T121009Z">
+        <seg>O així per al macOS:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49278,6 +49478,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T202057Z" creationid="Marc Riera" creationdate="20201010T202057Z">
         <seg>weLocalize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;c0&gt;modifier&lt;/c0&gt; can be: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, or &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120909Z" creationid="Marc Riera" creationdate="20221218T120909Z">
+        <seg>on &lt;c0&gt;modificador&lt;/c0&gt; pot ser: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt; o &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
       </tuv>
     </tu>
     <tu>
