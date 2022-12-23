@@ -6245,6 +6245,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although you can run OmegaT directly from the available files, you can also run the &lt;c0&gt;linux-install.sh&lt;/c0&gt; script found there to have OmegaT installed in more appropriate locations.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T121655Z" creationid="Marc Riera" creationdate="20221223T121655Z">
+        <seg>Tot i que podeu executar l'OmegaT directament des dels fitxers disponibles, també podeu executar l'script &lt;c0&gt;linux-install.sh&lt;/c0&gt; per a instal·lar l'OmegaT en una ubicació més adequada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although you can run OmegaT directly from the available files, you can also run the &lt;f0&gt;linux-install.sh&lt;/f0&gt; script found there to have OmegaT installed in more appropriate locations.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T114443Z" creationid="Marc Riera" creationdate="20221209T114443Z">
@@ -18002,6 +18010,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204408Z" creationid="Marc Riera" creationdate="20221124T204408Z">
         <seg>Si hi ha una declaració, s'utilitzarà la codificació que s'hi indiqui, independentment d'aquests paràmetres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there isn’t one, it installs the program in &lt;c1&gt;/opt/omegat/OmegaT_{{site.data.versions.standard.name}}&lt;/c1&gt; and sets it as the default version (in &lt;c2&gt;/opt/omegat/OmegaT-default&lt;/c2&gt;).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T121752Z" creationid="Marc Riera" creationdate="20221223T121752Z">
+        <seg>Si no n'hi ha cap, instal·la el programa en la carpeta &lt;c1&gt;/opt/omegat/OmegaT_{{site.data.versions.standard.name}}&lt;/c1&gt; i l'estableix com a versió per defecte (en la carpeta &lt;c2&gt;/opt/omegat/OmegaT-default&lt;/c2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30576,6 +30592,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Running the script will require you to enter your &lt;c0&gt;sudo&lt;/c0&gt; password.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T121703Z" creationid="Marc Riera" creationdate="20221223T121703Z">
+        <seg>En executar l'script haureu d'introduir la contrasenya de &lt;c0&gt;sudo&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Running the script will require you to enter your &lt;f0&gt;sudo&lt;/f0&gt; password.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T104919Z" creationid="Marc Riera" creationdate="20221209T104919Z">
@@ -36982,6 +37006,14 @@ l'àrea d'accés ràpid.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The instructions given here apply to people who download the package from the &lt;a0&gt;https://omegat.org&lt;/a0&gt; site and install it manually.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T121631Z" creationid="Marc Riera" creationdate="20221223T121631Z">
+        <seg>Les instruccions indicades aquí s'apliquen a la baixada del paquet des del lloc &lt;a0&gt;https://omegat.org&lt;/a0&gt; i la instal·lació manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The instructions given here apply to people who download the package from the &lt;u0&gt;https://omegat.org&lt;/u0&gt; site and install it manually.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T104901Z" creationid="Marc Riera" creationdate="20221209T104901Z">
@@ -37497,6 +37529,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T225156Z" creationid="mgalo" creationdate="20181115T225156Z">
         <seg>S'està executant l'script «{0}»...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The script checks for an existing installation of the same OmegaT version in &lt;c0&gt;/opt/omegat/&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T121718Z" creationid="Marc Riera" creationdate="20221223T121718Z">
+        <seg>L'script comprova si hi ha una instal·lació existent de la mateixa versió de l'OmegaT en la carpeta &lt;c0&gt;/opt/omegat/&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38830,6 +38870,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121635Z" creationid="Marc Riera" creationdate="20220611T121635Z">
         <seg>Això copia els fitxers seleccionats a la carpeta &lt;f2&gt;source&lt;/f2&gt; i torna a carregar el projecte per a importar els fitxers nous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This creates a folder called &lt;c0&gt;OmegaT&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T121802Z" creationid="Marc Riera" creationdate="20221223T121802Z">
+        <seg>Això crea una carpeta anomenada &lt;c0&gt;OmegaT&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44321,6 +44369,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201121T225747Z" creationid="Alexandra" creationdate="20150526T124622Z">
         <seg>També podeu accedir al manual d'usuari proporcionat amb l'OmegaT sense iniciar el programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also change this later by editing &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T121622Z" creationid="Marc Riera" creationdate="20221223T121622Z">
+        <seg>També podeu canviar-lo més endavant editant el fitxer &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
