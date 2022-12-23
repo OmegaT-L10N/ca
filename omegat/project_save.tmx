@@ -2321,6 +2321,14 @@ Per a afegir fitxers al projecte, feu clic en el botó «Copia fitxers a la carp
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>(Software that does this is called "machine translation".</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T114007Z" creationid="Marc Riera" creationdate="20221223T114007Z">
+        <seg>(El programari que fa això s'anomena «traducció automàtica».</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
@@ -4629,6 +4637,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T144229Z" creationid="Marc Riera" creationdate="20201010T183310Z">
         <seg>L'&lt;s0&gt;OmegaT&lt;/s0&gt; és una aplicació lliure de memòria de traducció que funciona en el Windows, macOS, Linux...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a translation memory application that works on Windows, macOS, Linux… It is a tool intended for professional translators.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T113953Z" creationid="Marc Riera" creationdate="20221223T113953Z">
+        <seg>L'&lt;s0&gt;OmegaT&lt;/s0&gt; és una aplicació de memòria de traducció que funciona en el Windows, macOS, Linux, etc. És una eina pensada per a professionals de la traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22679,6 +22695,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Microsoft Office Word, Excel, PowerPoint (2007 or later)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T114236Z" creationid="Marc Riera" creationdate="20221223T114236Z">
+        <seg>Microsoft Word, Excel, PowerPoint (2007 o posterior)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Microsoft Open XML</seg>
@@ -24879,6 +24903,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT can interface to some machine translation programs or Internet services)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T114040Z" creationid="Marc Riera" creationdate="20221223T114040Z">
+        <seg>L'OmegaT pot connectar-se a programari o serveis d'Internet de traducció automàtica).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT can read conformant TMX memories produced by other tools.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T123616Z" creationid="Marc Riera" creationdate="20221211T123606Z">
@@ -26477,6 +26509,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200121T221651Z" creationid="Marc Riera" creationdate="20180214T224447Z">
         <seg>Opcions del filtre OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenDocument Format (native file format for LibreOffice, Apache OpenOffice)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T114308Z" creationid="Marc Riera" creationdate="20221223T114308Z">
+        <seg>Format OpenDocument (format de fitxer natiu del LibreOffice i l'Apache OpenOffice)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35421,6 +35461,14 @@ L'àmbit d'una substitució de text són els segments de destinació del project
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>That means that users like you can download and use it with no restrictions.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T114057Z" creationid="Marc Riera" creationdate="20221223T114057Z">
+        <seg>Això significa que els usuaris poden de baixar-lo i utilitzar-lo sense restriccions.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>That means there are only a few thousand left!</seg>
@@ -44004,6 +44052,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>You are also free to copy it and pass it on to other people and even modify OmegaT to suit your own requirements.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T114152Z" creationid="Marc Riera" creationdate="20221223T114152Z">
+        <seg>També sou lliure de copiar-lo, enviar-lo a altres persones i, fins i tot, modificar l'OmegaT per a ajustar-lo a les vostres pròpies necessitats.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You are also free to copy it and pass it on to other people.</seg>
@@ -50670,6 +50726,14 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T181753Z" creationid="Marc Riera" creationdate="20190520T120556Z">
         <seg>«{0}» ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>…and around 30 other file formats</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T114315Z" creationid="Marc Riera" creationdate="20221223T114315Z">
+        <seg>...i uns 30 altres formats de fitxer</seg>
       </tuv>
     </tu>
     <tu>
