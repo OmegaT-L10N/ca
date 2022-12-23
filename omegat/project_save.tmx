@@ -6029,10 +6029,26 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the parameters located in a Project Folder will apply to that project regardless of which version of OmegaT opens it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122718Z" creationid="Marc Riera" creationdate="20221223T122718Z">
+        <seg>Tots els paràmetres en una carpeta de projecte s'aplicaran al projecte independentment de la versió de l'OmegaT que l'obri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the parameters located in the &lt;l0/&gt; will be shared unless you specify a different configuration folder with the &lt;l1&gt;--config-dir=&lt;path&gt;&lt;/l1&gt; option from the &lt;l2/&gt; on the command line .</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T121137Z" creationid="Marc Riera" creationdate="20221209T121137Z">
         <seg>Tots els paràmetres de la &lt;l0/&gt; es compartiran, llevat que especifiqueu una carpeta de configuració diferent amb l'opció &lt;l1&gt;--config-dir=&lt;camílt&gt;&lt;/l1&gt; de les &lt;l2/&gt; en la línia d'ordres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the parameters located in the Configuration Folder will be shared unless you specify a different configuration folder with the &lt;c0&gt;--config-dir=&lt;path&gt;&lt;/c0&gt; option from the OmegaT options on the command line .</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122705Z" creationid="Marc Riera" creationdate="20221223T122705Z">
+        <seg>Tots els paràmetres de la carpeta de configuració es compartiran, llevat que especifiqueu una carpeta de configuració diferent amb l'opció &lt;c0&gt;--config-dir=&lt;camí&gt;&lt;/c0&gt; de les opcions de l'OmegaT en la línia d'ordres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12632,6 +12648,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download the &lt;s0&gt; &lt;e1&gt;Cross-platform without JRE&lt;/e1&gt; &lt;/s0&gt; version.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122434Z" creationid="Marc Riera" creationdate="20221223T122434Z">
+        <seg>Baixeu la versió &lt;s0&gt;&lt;e1&gt;Multiplataforma sense el JRE&lt;/e1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T215022Z" creationid="Marc Riera" creationdate="20201130T215022Z">
@@ -13923,6 +13947,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T075457Z" creationid="Marc Riera" creationdate="20191113T072223Z">
         <seg>Esdeveniment: canvi de projecte - «{0}».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Eventually, drag and drop &lt;c0&gt;OmegaT.app&lt;/c0&gt; onto the Dock to easily access it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122403Z" creationid="Marc Riera" creationdate="20221223T122403Z">
+        <seg>Finalment, arrossegueu i deixeu anar el fitxer &lt;c0&gt;OmegaT.app&lt;/c0&gt; en el dock per a accedir-hi fàcilment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17298,6 +17330,14 @@ l'hivern ja és aquí.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T163651Z" creationid="Marc Riera" creationdate="20191110T232028Z">
         <seg>IBM Watson no està disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IBM provides JREs for Linux PowerPC at &lt;a0&gt;https://developer.ibm.com/languages/java/semeru-runtimes/downloads/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122505Z" creationid="Marc Riera" creationdate="20221223T122505Z">
+        <seg>IBM proporciona JRE per a PowerPC amb Linux en la pàgina &lt;a0&gt;https://developer.ibm.com/languages/java/semeru-runtimes/downloads/&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25093,6 +25133,30 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT for Beginners tutorial (2014 edition)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122839Z" creationid="Marc Riera" creationdate="20221223T122839Z">
+        <seg>Tutorial de l'OmegaT per a principiants (edició de 2014)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT for CAT beginners (2020, in Japanese)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122808Z" creationid="Marc Riera" creationdate="20221223T122808Z">
+        <seg>OmegaT per a principiants de TAO (2020, en japonès)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT for CAT beginners tutorial (2020 edition)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122812Z" creationid="Marc Riera" creationdate="20221223T122747Z">
+        <seg>Tutorial de l'OmegaT per a principiants de TAO (edició de 2020)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
@@ -25487,6 +25551,14 @@ està a punt per a executar-se.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT projects are &lt;s2&gt; &lt;e3&gt;not&lt;/e3&gt; &lt;/s2&gt; stored inside OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122556Z" creationid="Marc Riera" creationdate="20221223T122556Z">
+        <seg>Els projectes de l'OmegaT &lt;s2&gt;&lt;e3&gt;no&lt;/e3&gt;&lt;/s2&gt; s'emmagatzemen dins de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT provides developers with thorough documentation to create file filter plugins.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120555Z" creationid="Marc Riera" creationdate="20221218T120555Z">
@@ -25875,6 +25947,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111610Z" creationid="Marc Riera" creationdate="20221209T111610Z">
         <seg>Les preferències de l'OmegaT s'emmagatzemen en la carpeta de configuració i la versió nova &lt;e0&gt;no&lt;/e0&gt; les modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT’s preferences are stored in the configuration folder and will &lt;s0&gt; &lt;e1&gt;not&lt;/e1&gt; &lt;/s0&gt; be modified by the new version.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122533Z" creationid="Marc Riera" creationdate="20221223T122533Z">
+        <seg>Les preferències de l'OmegaT s'emmagatzemen en la carpeta de configuració i la versió nova &lt;s0&gt;&lt;e1&gt;no&lt;/e1&gt;&lt;/s0&gt; les modifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27245,6 +27325,14 @@ s'esvaeix com la boira.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T114159Z" creationid="Marc Riera" creationdate="20221129T114159Z">
         <seg>Segmentació per paràgrafs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Parameter files that are included in the downloaded OmegaT package (especially the &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt; for Windows and the &lt;c1&gt;Configuration.properties&lt;/c1&gt; and &lt;c2&gt;Info.plist&lt;/c2&gt; files for macOS packages) might be overwritten or deleted, so you may want to create a backup before upgrading, if you have been using these files to modify OmegaT’s launch parameters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122628Z" creationid="Marc Riera" creationdate="20221223T122628Z">
+        <seg>Els fitxers de paràmetres que s'inclouen en el paquet de l'OmegaT baixat (especialment els fitxers &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt; per als paquets del Windows i &lt;c1&gt;Configuration.properties&lt;/c1&gt; i &lt;c2&gt;Info.plist&lt;/c2&gt; per als paquets del macOS) es poden sobreescriure o suprimir. És possible que vulgueu crear una còpia de seguretat abans d'actualitzar si heu utilitzat aquests fitxers per a modificar els paràmetres d'inici de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28711,6 +28799,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111637Z" creationid="Marc Riera" creationdate="20221209T111637Z">
         <seg>&lt;e0&gt;No&lt;/e0&gt; es modificaran ni suprimiran els projectes que hàgiu creat anteriorment o que utilitzeu actualment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Projects that you have created in the past or are currently using will &lt;s0&gt; &lt;e1&gt;not&lt;/e1&gt; &lt;/s0&gt; be modified or deleted.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122542Z" creationid="Marc Riera" creationdate="20221223T122542Z">
+        <seg>&lt;s0&gt;&lt;e1&gt;No&lt;/e1&gt;&lt;/s0&gt; es modificaran ni suprimiran els projectes que hàgiu creat anteriorment o que utilitzeu actualment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35638,6 +35734,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;c0&gt;plugins&lt;/c0&gt; and &lt;c1&gt;scripts&lt;/c1&gt; folders might be overwritten, so you may want to create a backup before upgrading.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122609Z" creationid="Marc Riera" creationdate="20221223T122609Z">
+        <seg>És possible que se sobreescriguin les carpetes &lt;c0&gt;plugins&lt;/c0&gt; i &lt;c1&gt;scripts&lt;/c1&gt;, per la qual cosa pot ser que vulgueu fer una còpia de seguretat abans de l'actualització.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;c0&gt;shortcut&lt;/c0&gt; represents the key combination pressed by the user.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T121116Z" creationid="Marc Riera" creationdate="20221217T121116Z">
@@ -35811,6 +35915,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131130Z" creationid="Marc Riera" creationdate="20221211T131130Z">
         <seg>Filtres &lt;u0&gt;StaX&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Eclipse Foundation provides OpenJDK Runtime Environments JREs for many systems at &lt;a0&gt;https://adoptium.net/temurin&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122450Z" creationid="Marc Riera" creationdate="20221223T122450Z">
+        <seg>La Fundació Eclipse proporciona JRE de l'entorn d'execució OpenJDK per a molts sistemes en la pàgina &lt;a0&gt;https://adoptium.net/temurin&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36318,6 +36430,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164958Z" creationid="Marc Riera" creationdate="20220625T164958Z">
         <seg>Es mostren els canvis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The changes between your version and the current version are documented in the development site’s &lt;a0&gt;changes.txt&lt;/a0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122517Z" creationid="Marc Riera" creationdate="20221223T122517Z">
+        <seg>Els canvis entre la vostra versió i la versió actual estan documentats en el fitxer &lt;a0&gt;changes.txt&lt;/a0&gt; del lloc de desenvolupament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39170,6 +39290,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T105143Z" creationid="Marc Riera" creationdate="20221209T105143Z">
         <seg>Aquesta informació s'aplica a tots els sistemes amb una versió del Java compatible amb el Java 8 Runtime Environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This information applies to all systems that have a Java version compatible with Java {{site.data.versions.standard.java_version}} Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122415Z" creationid="Marc Riera" creationdate="20221223T122415Z">
+        <seg>Aquesta informació s'aplica a tots els sistemes amb una versió del Java compatible amb el Java {{site.data.versions.standard.java_version}} Runtime Environment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46015,6 +46143,22 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201120T162505Z" creationid="Marc Riera" creationdate="20201120T162505Z">
         <seg>bitext2tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by Hiroshi Miura</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122831Z" creationid="Marc Riera" creationdate="20221223T122831Z">
+        <seg>Hiroshi Miura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by Susan Welsh, Marc Prior and Hiroshi Miura</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122827Z" creationid="Marc Riera" creationdate="20221223T122827Z">
+        <seg>Susan Welsh, Marc Prior i Hiroshi Miura</seg>
       </tuv>
     </tu>
     <tu>
