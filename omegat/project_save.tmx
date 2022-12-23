@@ -6170,6 +6170,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also, consider testing &lt;a0&gt;nightly builds&lt;/a0&gt; of OmegaT that may contain even more new and fascinating bugs!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T121226Z" creationid="Marc Riera" creationdate="20221223T121226Z">
+        <seg>També poden provar les &lt;a0&gt;compilacions nocturnes&lt;/a0&gt; de l'OmegaT, que poden contenir errors encara més recents i fascinants!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Enter&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220714Z" creationid="Marc Riera" creationdate="20221204T220714Z">
@@ -6546,8 +6554,8 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201125T212159Z" creationid="Alexandra" creationdate="20150526T130600Z">
-        <seg>i quan trobin coses que no funcionen o deficiències en la documentació, avisar-nos.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T121155Z" creationid="Alexandra" creationdate="20150526T130600Z">
+        <seg>i, quan trobin coses que no funcionen o deficiències en la documentació, avisar-nos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12690,6 +12698,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T114031Z" creationid="Marc Riera" creationdate="20221209T114031Z">
         <seg>Per qüestions de llicències, l'equip de l'OmegaT recomana l'entorn d'execució del Java Eclipse Temurin proporcionat pel Projecte Adoptium de la Fundació Eclipse, però qualsevol entorn d'execució compatible amb el Java 8 hauria de funcionar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Due to licensing considerations, the OmegaT team recommends the Java runtime Eclipse Temurin provided by the Eclipse Foundation's Adoptium Project, but any Java {{site.data.versions.standard.java_version}} compatible runtime environment should work.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T121602Z" creationid="Marc Riera" creationdate="20221223T121602Z">
+        <seg>Per qüestions de llicències, l'equip de l'OmegaT recomana l'entorn d'execució del Java Eclipse Temurin proporcionat pel Projecte Adoptium de la Fundació Eclipse, però qualsevol entorn d'execució compatible amb el Java {{site.data.versions.standard.java_version}} hauria de funcionar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25748,6 +25764,22 @@ la carpeta d'inici.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT {{site.data.versions.standard.name}} and later also support Java 11 Runtime Environment on any platforms.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T121517Z" creationid="Marc Riera" creationdate="20221223T121517Z">
+        <seg>L'OmegaT {{site.data.versions.standard.name}} i les versions posteriors també són compatibles amb el Java 11 Runtime Environment en qualsevol plataforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT {{site.data.versions.standard.name}} requires a Java {{site.data.versions.standard.java_version}} Runtime Environment (JRE) to run.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T121438Z" creationid="Marc Riera" creationdate="20221223T121438Z">
+        <seg>L'OmegaT {{site.data.versions.standard.name}} requereix el Java {{site.data.versions.standard.java_version}} Runtime Environment (JRE) per a executar-se.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
@@ -27100,6 +27132,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T104517Z" creationid="Marc Riera" creationdate="20221209T104517Z">
         <seg>Els paquets sense el Java depenen d'una instal·lació del Java 8 Runtime Environment en el sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Packages without Java rely on a Java {{site.data.versions.standard.java_version}} Runtime Environment installed systemwide.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T121502Z" creationid="Marc Riera" creationdate="20221223T121502Z">
+        <seg>Els paquets sense el Java depenen d'una instal·lació del Java {{site.data.versions.standard.java_version}} Runtime Environment en el sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34167,6 +34207,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Standard: OmegaT {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T121330Z" creationid="Marc Riera" creationdate="20221223T121330Z">
+        <seg>Estàndard: OmegaT {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Start Pinpoint Align</seg>
@@ -36617,6 +36665,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T082645Z" creationid="Marc Riera" creationdate="20221215T082645Z">
         <seg>L'estructura del fitxer també ha de ser compatible amb el filtre: encara que associeu l'extensió &lt;l0&gt;.odt&lt;/l0&gt; al filtre XHMTL, el filtre no podrà processar el contingut d'un fitxer del LibreOffice Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The files are downloadable directly from &lt;a0&gt;https://omegat.org&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221223T121343Z" creationid="Marc Riera" creationdate="20221223T121343Z">
+        <seg>Els fitxers es poden baixar directament des del lloc web &lt;a0&gt;https://omegat.org&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
