@@ -9144,6 +9144,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on &lt;l0/&gt; to use project specific segmentation rules (local rules) and not the global rules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T171119Z" creationid="Marc Riera" creationdate="20221224T171119Z">
+        <seg>Feu clic en &lt;l0/&gt; per a utilitzar les regles de segmentació específiques del projecte (regles locals) i no les regles globals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on &lt;l0/&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221241Z" creationid="Marc Riera" creationdate="20221218T221241Z">
@@ -42598,6 +42606,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access the global segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T171109Z" creationid="Marc Riera" creationdate="20221224T171109Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a accedir a les regles de segmentació globals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access this tool.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120345Z" creationid="Marc Riera" creationdate="20221218T120345Z">
@@ -44868,6 +44884,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111805Z" creationid="Marc Riera" creationdate="20221209T111805Z">
         <seg>També podeu executar l'aplicació directament amb l'ordre següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also start OmegaT from the command line with a project specific configuration setting to achieve a similar result.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T171133Z" creationid="Marc Riera" creationdate="20221224T171133Z">
+        <seg>També podeu iniciar l'OmegaT des de la línia d'ordres amb un paràmetre de configuració específica del projecte per a aconseguir un resultat similar.</seg>
       </tuv>
     </tu>
     <tu>
