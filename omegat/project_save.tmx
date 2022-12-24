@@ -4380,6 +4380,30 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;C&lt;/k0&gt;&lt;k1&gt;J&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104712Z" creationid="Marc Riera" creationdate="20221224T104712Z">
+        <seg>&lt;k0&gt;C&lt;/k0&gt;&lt;k1&gt;J&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;C&lt;/k0&gt;&lt;k1&gt;N&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104709Z" creationid="Marc Riera" creationdate="20221224T104709Z">
+        <seg>&lt;k0&gt;C&lt;/k0&gt;&lt;k1&gt;N&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;C&lt;/k0&gt;&lt;k1&gt;P&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104711Z" creationid="Marc Riera" creationdate="20221224T104711Z">
+        <seg>&lt;k0&gt;C&lt;/k0&gt;&lt;k1&gt;P&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
@@ -4843,6 +4867,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T112005Z" creationid="Marc Riera" creationdate="20221129T112005Z">
         <seg>Enllaç a la pàgina d'assistència.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A more detailed &lt;a0&gt;explanation of free software&lt;/a0&gt; can be found on the Free Software Foundation website.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104511Z" creationid="Marc Riera" creationdate="20221224T104511Z">
+        <seg>Podeu trobar una &lt;a0&gt;explicació del programari lliure&lt;/a0&gt; més detallada en el lloc web de la Free Software Foundation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8209,6 +8241,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Case sensitive</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104859Z" creationid="Marc Riera" creationdate="20221224T104859Z">
+        <seg>Distingeix entre majúscules i minúscules</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Catalan</seg>
@@ -9564,6 +9604,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150801T115207Z" creationid="Alexandra" creationdate="20150526T102544Z">
         <seg>Compatible amb altres aplicacions de memòries de traducció (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Compatible with other translation memory applications via exchange formats such as TMX, TTX, TXML, XLIFF, SDLXLIFF</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104229Z" creationid="Marc Riera" creationdate="20221224T104229Z">
+        <seg>Compatible amb altres aplicacions de memòries de traducció mitjançant formats dintercanvi, com ara TMX, TTX, TXML, XLIFF o SDLXLIFF</seg>
       </tuv>
     </tu>
     <tu>
@@ -14007,6 +14055,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Exact search</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104916Z" creationid="Marc Riera" creationdate="20221224T104916Z">
+        <seg>Cerca exacta</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Example - Search and Replace</seg>
@@ -15781,6 +15837,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T152012Z" creationid="mgalo" creationdate="20181113T085106Z">
         <seg>No distingeixis entre els &amp;caràcters d'amplada completa i mitja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full/Half-width char insensitive</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104740Z" creationid="Marc Riera" creationdate="20221224T104740Z">
+        <seg>No distingeixis entre els caràcters d'amplada completa i mitja</seg>
       </tuv>
     </tu>
     <tu>
@@ -18560,6 +18624,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you're a programmer, and you happen to know Java, please check the &lt;a0&gt;OmegaT contribution guide&lt;/a0&gt;, or its document source text in the &lt;a1&gt;source code&lt;/a1&gt; under /docs_devel for information on how to get started.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104350Z" creationid="Marc Riera" creationdate="20221224T104350Z">
+        <seg>Si programeu i teniu coneixements del Java, consulteu la &lt;a0&gt;guia de contribució a l'OmegaT&lt;/a0&gt; o el text d'origen del document en el &lt;a1&gt;codi font&lt;/a1&gt;, en la carpeta /docs_devel, per a obtenir informació sobre com començar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If your language pair calls for the frequent use &lt;l0&gt;alternative translations&lt;/l0&gt;, you may want to assign a shortcut to that function since it does not have one by default.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T123618Z" creationid="Marc Riera" creationdate="20221217T123618Z">
@@ -18933,6 +19005,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In source</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104843Z" creationid="Marc Riera" creationdate="20221224T104843Z">
+        <seg>En el text d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In that case, each paragraph (as defined in the original document format) is displayed as a single segment, and the translator is free to reorganize the sentences within the segment in the translation.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T172558Z" creationid="Marc Riera" creationdate="20221201T172558Z">
@@ -19075,6 +19155,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201002Z" creationid="Marc Riera" creationdate="20221206T201002Z">
         <seg>En aquest pas, la part inferior de la finestra presenta diversos paràmetres i opcions que podeu canviar si creieu que es pot millorar l'alineació inicial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In translation</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104830Z" creationid="Marc Riera" creationdate="20221224T104830Z">
+        <seg>En la traducció</seg>
       </tuv>
     </tu>
     <tu>
@@ -19687,6 +19775,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150526T102535Z" creationid="Alexandra" creationdate="20150526T102535Z">
         <seg>Corrector ortogràfic integral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Integral spelling checker that uses Hunspell dictionaries (same as in other software such as LibreOffice or Mozilla FireFox)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104210Z" creationid="Marc Riera" creationdate="20221224T104210Z">
+        <seg>Correcció ortogràfica integral amb diccionaris del Hunspell (igual que altres programaris com el LibreOffice o el Mozilla Firefox)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20659,6 +20755,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T232947Z" creationid="Marc Riera" creationdate="20180214T224432Z">
         <seg>Text Clau=Valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keyword search</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104913Z" creationid="Marc Riera" creationdate="20221224T104913Z">
+        <seg>Cerca per paraules clau</seg>
       </tuv>
     </tu>
     <tu>
@@ -22666,6 +22770,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Memory</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104753Z" creationid="Marc Riera" creationdate="20221224T104753Z">
+        <seg>Memòria</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Menu Item</seg>
@@ -24582,6 +24694,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Number of matching segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104729Z" creationid="Marc Riera" creationdate="20221224T104729Z">
+        <seg>Nombre de segments coincidents</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Number of matching segments:</seg>
@@ -25672,6 +25792,22 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212102Z" creationid="Marc Riera" creationdate="20201130T212102Z">
         <seg>En primer lloc, cal &lt;l0&gt;configurar&lt;/l0&gt; els projectes en equip de l'OmegaT en un servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT the CAT power tools</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104033Z" creationid="Marc Riera" creationdate="20221224T104033Z">
+        <seg>OmegaT, una eina de TAO potent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT the CAT power tools(in Japanese)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104038Z" creationid="Marc Riera" creationdate="20221224T104038Z">
+        <seg>OmegaT, una eina de TAO potent (en japonès)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30402,6 +30538,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Results display</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104725Z" creationid="Marc Riera" creationdate="20221224T104725Z">
+        <seg>Visualització dels resultats</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Retrieve collection list...</seg>
@@ -31466,6 +31610,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search type</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104918Z" creationid="Marc Riera" creationdate="20221224T104918Z">
+        <seg>Tipus de cerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T215212Z" creationid="Marc Riera" creationdate="20221208T215212Z">
@@ -31674,6 +31826,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T114240Z" creationid="Marc Riera" creationdate="20221129T114240Z">
         <seg>Consulteu &lt;l2/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l6/&gt;&lt;l7/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104924Z" creationid="Marc Riera" creationdate="20221224T104924Z">
+        <seg>Consulteu &lt;l6/&gt;&lt;l7/&gt; per a conèixer més detalls.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33147,6 +33307,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T113417Z" creationid="Marc Riera" creationdate="20180221T113417Z">
         <seg>Mostra les &amp;opcions avançades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show Advanced Options</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104744Z" creationid="Marc Riera" creationdate="20221224T104744Z">
+        <seg>Mostra les opcions avançades</seg>
       </tuv>
     </tu>
     <tu>
@@ -39496,6 +39664,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This menu gives you access to information that will help you make the best of OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104610Z" creationid="Marc Riera" creationdate="20221224T104610Z">
+        <seg>Aquest menú us dona accés a informació que us ajudarà a treure el màxim profit de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This number is displayed in brackets, next to the "Project file" title</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121140Z" creationid="Marc Riera" creationdate="20220611T121140Z">
@@ -40686,6 +40862,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Translated</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104817Z" creationid="Marc Riera" creationdate="20221224T104817Z">
+        <seg>Traduït</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translated File Encoding</seg>
@@ -40847,6 +41031,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T225709Z" creationid="mgalo" creationdate="20181115T225709Z">
         <seg>No s'ha definit cap ubicació per als fitxers traduïts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated or untranslated</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104824Z" creationid="Marc Riera" creationdate="20221224T104824Z">
+        <seg>Traduït o sense traduir</seg>
       </tuv>
     </tu>
     <tu>
@@ -41863,6 +42055,14 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191207T225407Z" creationid="Marc Riera" creationdate="20180214T223916Z">
         <seg>La versió del fitxer de projecte ({0}) és incompatible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Untranslated</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104800Z" creationid="Marc Riera" creationdate="20221224T104800Z">
+        <seg>Sense traduir</seg>
       </tuv>
     </tu>
     <tu>
