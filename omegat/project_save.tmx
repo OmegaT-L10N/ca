@@ -8883,6 +8883,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the &lt;o0&gt;Use local segmentation rules&lt;/o0&gt; box, and adjust the segmentation rules as desired.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T172039Z" creationid="Marc Riera" creationdate="20221224T172039Z">
+        <seg>Marqueu la casella &lt;o0&gt;Utilitza regles de segmentació locals&lt;/o0&gt; i ajusteu les regles de segmentació com vulgueu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the tag issues again.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220327Z" creationid="Marc Riera" creationdate="20221124T220327Z">
@@ -9477,6 +9485,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T221454Z" creationid="mgalo" creationdate="20181112T110530Z">
         <seg>Ordres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Commands specified here are only available to this project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T172148Z" creationid="Marc Riera" creationdate="20221224T172148Z">
+        <seg>Les ordres especificades aquí només estan disponibles per a aquest projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25161,6 +25177,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT can automatically run commands after the target files have been created.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T172109Z" creationid="Marc Riera" creationdate="20221224T172109Z">
+        <seg>L'OmegaT pot executar ordres automàticament després que s'hagin creat els fitxers de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
@@ -32395,6 +32419,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segmentation rules found when you open the &lt;l0/&gt; preferences (use &lt;l1/&gt;&lt;l2/&gt;) are the global rules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T172028Z" creationid="Marc Riera" creationdate="20221224T172028Z">
+        <seg>Les regles de segmentació que veieu quan obriu les preferències de &lt;l0/&gt; (utilitzeu &lt;l1/&gt;&lt;l2/&gt;) són regles globals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segmentation rules found when you open the &lt;l0/&gt; preferences (with &lt;l1/&gt; in the &lt;l2/&gt; menu) are global rules.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T112139Z" creationid="Marc Riera" creationdate="20221206T112139Z">
@@ -34376,6 +34408,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200123T222024Z" creationid="Marc Riera" creationdate="20191113T071455Z">
         <seg>Indiqueu una drecera amb «&amp;»: «F&amp;oobar» per a utilitzar «O»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify here the commands that will be run.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T172113Z" creationid="Marc Riera" creationdate="20221224T172113Z">
+        <seg>Indiqueu aquí les ordres que s'executaran.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37847,6 +37887,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project will store the new set of rules in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder, and the rules will supersede the global segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T172048Z" creationid="Marc Riera" creationdate="20221224T172048Z">
+        <seg>El projecte emmagatzemarà el nou conjunt de regles en el fitxer &lt;l0/&gt; de la carpeta &lt;l1/&gt; i les regles substituiran les regles de segmentació globals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project will store the new set of rules in the &lt;l0/&gt; file of its &lt;l1/&gt; folder, and the rules will supersede the global segmentation rules.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T112246Z" creationid="Marc Riera" creationdate="20221206T112246Z">
@@ -38939,6 +38987,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110042Z" creationid="Marc Riera" creationdate="20221204T105943Z">
         <seg>Es desen a &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are saved in the &lt;l0/&gt; file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T172153Z" creationid="Marc Riera" creationdate="20221224T172153Z">
+        <seg>Es desen en el fitxer &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42626,6 +42682,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120345Z" creationid="Marc Riera" creationdate="20221218T120345Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a accedir a aquesta eina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to assign an alternative translation to segments that require a different translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T172059Z" creationid="Marc Riera" creationdate="20221224T172059Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a assignar una traducció alternativa als segments que requereixen una traducció diferent.</seg>
       </tuv>
     </tu>
     <tu>
