@@ -4932,6 +4932,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A number of issues come from not selecting the right language here, or from not matching it in other preferences.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T170937Z" creationid="Marc Riera" creationdate="20221224T170937Z">
+        <seg>Hi ha diversos errors provocats per no seleccionar la llengua correcta aquí, o que no coincideixi en altres preferències.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A period followed by a whitespace</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191716Z" creationid="Marc Riera" creationdate="20221201T191000Z">
@@ -20955,6 +20963,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T105845Z" creationid="Marc Riera" creationdate="20221206T105845Z">
         <seg>Els codis de llengua s'utilitzen en les &lt;l0/&gt;, les &lt;l1/&gt;, el &lt;l2/&gt;, el &lt;l3/&gt;, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language codes are used in various places in OmegaT:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T170553Z" creationid="Marc Riera" creationdate="20221224T170553Z">
+        <seg>Els codis de llengua s'utilitzen en diverses parts de l'OmegaT:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50576,6 +50592,38 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225506Z" creationid="Marc Riera" creationdate="20201003T225506Z">
         <seg>tm/penalty-xxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>to apply the segmentation rules defined in the &lt;l0/&gt; preferences,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T170622Z" creationid="Marc Riera" creationdate="20221224T170622Z">
+        <seg>Per a aplicar les regles de segmentació definides en les preferències de &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>to find grammatical and typographical mistakes from the rules set in the &lt;l0/&gt; preferences, etc.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T170658Z" creationid="Marc Riera" creationdate="20221224T170658Z">
+        <seg>Per a cercar errors gramaticals i tipogràfics a partir de les regles establertes en les preferències del &lt;l0/&gt;, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>to find spelling mistakes from the dictionaries installed in the &lt;l0/&gt; preferences,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T170641Z" creationid="Marc Riera" creationdate="20221224T170641Z">
+        <seg>Per a cercar errors ortogràfics a partir dels diccionaris instal·lats en les preferències de &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>to get results in the &lt;l0/&gt; pane,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221224T170603Z" creationid="Marc Riera" creationdate="20221224T170603Z">
+        <seg>Per a obtenir resultats en la subfinestra &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
