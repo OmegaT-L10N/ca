@@ -5725,6 +5725,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>After the project is downloaded, it is installed locally and only needs to be opened locally to synchronize with the server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124308Z" creationid="Marc Riera" creationdate="20221225T124308Z">
+        <seg>Una vegada baixat el projecte, s'instal·la localment i només cal obrir-lo localment per a sincronitzar-lo amb el servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
@@ -13644,6 +13652,14 @@ is the language code and YY is the region or country code (optional).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the URL provided by the team project administrator in the &lt;g0&gt;Repository URL:&lt;/g0&gt; field at the top of the dialog, and specify a folder for the project in the &lt;g1&gt;New Local Project Folder:&lt;/g1&gt; field.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124429Z" creationid="Marc Riera" creationdate="20221225T124429Z">
+        <seg>Indiqueu l'URL proporcionat l'administrador del projecte en equip en el camp &lt;g0&gt;URL del dipòsit:&lt;/g0&gt; de la part superior del quadre de diàleg, i indiqueu una carpeta per al projecte en el camp &lt;g1&gt;Carpeta de projecte local nova&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the URL provided by the team project manager in the &lt;g0&gt;Repository URL:&lt;/g0&gt; field at the top of the dialog, and specify a folder for the project in the &lt;g1&gt;New Local Project Folder:&lt;/g1&gt; field.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T143041Z" creationid="Marc Riera" creationdate="20221211T143018Z">
@@ -18595,8 +18611,8 @@ extensions dels fitxers.</seg>
       <tuv lang="en">
         <seg>If you first download the remote project using an &lt;f0&gt;omegat.project&lt;/f0&gt; file provided by the project administrator, OmegaT will use the mappings in that file, if any.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T144208Z" creationid="Marc Riera" creationdate="20221211T144208Z">
-        <seg>Si primer baixeu el projecte remot mitjançant un fitxer &lt;f0&gt;megat.project&lt;/f0&gt; proporcionat pel gestor del projecte, l'OmegaT utilitzarà les assignacions en aquest fitxer, si n'hi ha.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124510Z" creationid="Marc Riera" creationdate="20221211T144208Z">
+        <seg>Si primer baixeu el projecte remot mitjançant un fitxer &lt;f0&gt;omegat.project&lt;/f0&gt; proporcionat per l'administrador del projecte, l'OmegaT utilitzarà les assignacions en aquest fitxer, si n'hi ha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19075,8 +19091,8 @@ feu doble clic en la drecera.</seg>
       <tuv lang="en">
         <seg>In a team project, the basic configuration parameters of the local project are always overridden by the configuration on the server that was set by the project administrator.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T143806Z" creationid="Marc Riera" creationdate="20221211T143806Z">
-        <seg>En un projecte en equip, els paràmetres de configuració bàsics del projecte local sempre se substitueixen per la configuració del servidor definida pel gestor del projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124533Z" creationid="Marc Riera" creationdate="20221211T143806Z">
+        <seg>En un projecte en equip, els paràmetres de configuració bàsics del projecte local sempre se substitueixen per la configuració del servidor definida per l'administrador del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21555,8 +21571,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Leave the &lt;g2&gt;Default branch&lt;/g2&gt; option checked unless the project administrator has provided instructions for using a custom branch.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T143115Z" creationid="Marc Riera" creationdate="20221211T143115Z">
-        <seg>Deixeu marcada l'opció &lt;g2&gt;Branca per defecte&lt;/g2&gt;, excepte si el gestor del projecte us ha donat instruccions per a utilitzar una branca personalitzada.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124437Z" creationid="Marc Riera" creationdate="20221211T143115Z">
+        <seg>Deixeu marcada l'opció &lt;g2&gt;Branca per defecte&lt;/g2&gt;, excepte si l'administrador del projecte us ha donat instruccions per a utilitzar una branca personalitzada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30642,6 +30658,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repository credentials are stored in the &lt;l0/&gt; file and can be deleted from the &lt;l1/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124324Z" creationid="Marc Riera" creationdate="20221225T124324Z">
+        <seg>Les credencials del dipòsit s'emmagatzemen en el fitxer &lt;l0/&gt; i es poden suprimir des de les preferències de &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repository mappings</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T141443Z" creationid="Marc Riera" creationdate="20221211T141443Z">
@@ -33900,6 +33924,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since synchronization takes place by default every three minutes, project members will sometime translate or modify a segment that has already been translated by another member but not synchronized yet.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124336Z" creationid="Marc Riera" creationdate="20221225T124336Z">
+        <seg>Com que, per defecte, el projecte se sincronitza cada 3 minuts, de vegades els membres del projecte traduiran o modificaran un segment traduït per un altre membre però que encara no s'havia sincronitzat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since the first few pages have not changed, the translator is greeted with a screenful of already translated segments from the previous job's memory upon opening the project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T082028Z" creationid="Marc Riera" creationdate="20221205T082028Z">
@@ -36816,6 +36848,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T142617Z" creationid="Marc Riera" creationdate="20221211T142617Z">
         <seg>La funció de cerca els permet filtrar la subfinestra «Editor» segons el contingut traduït per una persona determinada, segons el contingut traduït després o abans d'un moment determinat, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Search function allows them to filter the editor pane on contents translated by a given person, or on contents translated after or before a given time, for example.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124356Z" creationid="Marc Riera" creationdate="20221225T124356Z">
+        <seg>La funció de cerca els permet filtrar la subfinestra «Editor» segons el contingut traduït per una persona determinada o segons el contingut traduït després o abans d'un moment determinat, per exemple.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40467,8 +40507,8 @@ des del servidor.</seg>
       <tuv lang="en">
         <seg>This task is normally performed by the project administrator.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221211T142219Z" creationid="Marc Riera" creationdate="20221211T142219Z">
-        <seg>Aquesta tasca normalment la duu a terme el gestor del projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124522Z" creationid="Marc Riera" creationdate="20221211T142219Z">
+        <seg>Aquesta tasca normalment la duu a terme l'administrador del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43226,6 +43266,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221224T172059Z" creationid="Marc Riera" creationdate="20221224T172059Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a assignar una traducció alternativa als segments que requereixen una traducció diferent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to bring up the &lt;g2&gt;Download Team Project&lt;/g2&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124410Z" creationid="Marc Riera" creationdate="20221225T124410Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a mostrar el quadre de diàleg &lt;g2&gt;Baixada d'un projecte en equip&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
