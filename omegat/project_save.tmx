@@ -10168,6 +10168,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Conversely, you can ask your partner to write the project TMX files to a folder on a shared disk that you will assign as your &lt;l0/&gt; folder for the current translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T213133Z" creationid="Marc Riera" creationdate="20221225T213133Z">
+        <seg>De la mateixa manera, podeu demanar-li que desi els fitxers TMX del projecte en una carpeta en un disc compartit que assignareu com a carpeta &lt;l0/&gt; per a la traducció actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Conversely, you can ask your partner to write the project TMX files to a folder on a shared disk that you will use as your &lt;l0/&gt; folder for the current translation.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T130602Z" creationid="Marc Riera" creationdate="20221211T130602Z">
@@ -18907,6 +18915,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you write the TMX file to a folder on a shared disk, you can ask your partner to assign that folder as the &lt;l0/&gt; folder for the current translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T213117Z" creationid="Marc Riera" creationdate="20221225T213117Z">
+        <seg>Si deseu el fitxer TMX en una carpeta en un disc compartit, podeu demanar a l'altra persona que assigni aquesta carpeta com a carpeta &lt;l0/&gt; per a la traducció actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you write the TMX file to a folder on a shared disk, you can ask your partner to use that folder as the &lt;l0/&gt; folder for the current translation.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T130526Z" creationid="Marc Riera" creationdate="20221211T130526Z">
@@ -25752,6 +25768,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT instantaneously recognizes modifications to TMX files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T213142Z" creationid="Marc Riera" creationdate="20221225T213142Z">
+        <seg>L'OmegaT reconeix al moment les modificacions dels fitxers TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT introduction tutorial</seg>
@@ -32568,10 +32592,26 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; project property for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T213050Z" creationid="Marc Riera" creationdate="20221225T213050Z">
+        <seg>Consulteu la propietat del projecte &lt;l0/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; project property.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212343Z" creationid="Marc Riera" creationdate="20221225T212343Z">
         <seg>Consulteu la propietat del projecte &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; section above.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T213103Z" creationid="Marc Riera" creationdate="20221225T213103Z">
+        <seg>Consulteu la secció &lt;l0/&gt; anterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32644,6 +32684,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175530Z" creationid="Marc Riera" creationdate="20221218T175530Z">
         <seg>Consulteu la secció &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l2/&gt; preference for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T213245Z" creationid="Marc Riera" creationdate="20221225T213239Z">
+        <seg>Consulteu la preferència &lt;l2/&gt; per a conèixer més detalls.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35373,6 +35421,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Such matches are by default limited to the source and target languages defined in the &lt;l1/&gt; dialog, but you can also add matches in languages that are not the target language.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T213228Z" creationid="Marc Riera" creationdate="20221225T213228Z">
+        <seg>Per defecte, aquestes coincidències es limiten a les llengües d'origen i de destinació definides en el quadre de diàleg &lt;l1/&gt;, però també podeu afegir coincidències en llengües que no siguin la llengua de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Such sharing works well when the lag between TMX updates is not important, for example, a translator sends data to a reviewer a few times a day.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T130850Z" creationid="Marc Riera" creationdate="20221211T130850Z">
@@ -37014,6 +37070,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The TMX files located in the exported translation memory folder now contain only the original and translated text from the files you copied into the source folder, in the selected language pair.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T213042Z" creationid="Marc Riera" creationdate="20221225T213042Z">
+        <seg>Els fitxers TMX de la carpeta de memòries de traducció exportades ara contenen només el text original i traduït, en el parell de llengües seleccionat, dels fitxers que heu copiat a la carpeta «source».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The TMX files will contain only the segments that correspond to the current contents of the &lt;l0/&gt; folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T122607Z" creationid="Marc Riera" creationdate="20221206T122607Z">
@@ -37686,6 +37750,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165922Z" creationid="Stephanie" creationdate="20150722T181600Z">
         <seg>La primera és la drecera per a &lt;g0&gt;Obre un projecte&lt;/g0&gt; i la segona és per a &lt;g1&gt;Crea una entrada en el glossari&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The first line is the original English, the second an old French version with an arbitrary language code, the third the Japanese version with an equally arbitrary language code, and the 4th the current translation to French.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T213317Z" creationid="Marc Riera" creationdate="20221225T213317Z">
+        <seg>La primera línia és el text original en anglès, la segona és una versió anterior en francès amb un codi de llengua arbitrari, la tercera és la versió en japonès amb un altre codi de llengua arbitrari i la quarta és la traducció actual al francès.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39403,6 +39475,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Therefore, any time one side creates or modifies such a TMX using &lt;l0/&gt;&lt;l1/&gt;, the other side does not need to do anything to have that TMX recognized locally.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T213147Z" creationid="Marc Riera" creationdate="20221225T213147Z">
+        <seg>Per tant, cada vegada que un usuari creï o modifiqui un fitxer TMX mitjançant &lt;l0/&gt;&lt;l1/&gt;, l'altre usuari no haurà de fer res perquè el fitxer TMX es reconegui localment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Therefore, it is recommended that you divide the files to align into shorter files that you can comfortably align in a single session.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200553Z" creationid="Marc Riera" creationdate="20221206T200553Z">
@@ -39814,6 +39894,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T130821Z" creationid="Marc Riera" creationdate="20221211T130821Z">
         <seg>Aquest mètode també funciona igual de bé per a compartir glossaris en què el fitxer &lt;l0/&gt;, amb el nom adequat per a evitar sobreescriptures, és en la &lt;l1/&gt;. L'altre usuari només l'utilitzarà com a referència i viceversa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This approach to sharing works well when the lag between TMX updates is not important: a translator sending data to a reviewer a few times a day, for example.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T213210Z" creationid="Marc Riera" creationdate="20221225T213210Z">
+        <seg>Aquest mètode d'ús compartit funciona bé quan el retard entre les actualitzacions dels fitxers TMX no és important: per exemple, quan un traductor envia les dades a un revisor unes poques vegades al dia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43414,6 +43502,22 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to check for possible issues.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212918Z" creationid="Marc Riera" creationdate="20221225T212918Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a comprovar si hi ha errors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to create the TMX files that correspond to the current contents.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212924Z" creationid="Marc Riera" creationdate="20221225T212924Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a crear els fitxers TMX corresponents al contingut actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to directly access it.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175130Z" creationid="Marc Riera" creationdate="20221218T175130Z">
@@ -43426,6 +43530,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175117Z" creationid="Marc Riera" creationdate="20221218T175117Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a afegir termes nous a aquest glossari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to find any untranslated segments (and translate them, if need be).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212913Z" creationid="Marc Riera" creationdate="20221225T212913Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a cercar qualsevol segment sense traduir (i traduir-lo, si cal).</seg>
       </tuv>
     </tu>
     <tu>
