@@ -5751,6 +5751,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After you generate the target files use &lt;l0/&gt;&lt;l1/&gt; to add them to the server, if the project administrator has requested you to do so.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124802Z" creationid="Marc Riera" creationdate="20221225T124802Z">
+        <seg>Després de generar els fitxers de destinació, utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a afegir-los al servidor, si l'administrador del projecte us ho ha demanat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After you generate the target files, and if the project administrator requests so, you can use the &lt;l0/&gt; command to add them to the server.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T142043Z" creationid="Marc Riera" creationdate="20221211T142043Z">
@@ -6873,6 +6881,14 @@ inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T215911Z" creationid="Marc Riera" creationdate="20201130T215911Z">
         <seg>Com que les entrades poden barrejar termes de glossaris prioritaris i no prioritaris, els termes del glossari prioritari es mostren en negreta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As in regular local projects, the configuration of the team project is defined by the contents &lt;f0&gt;omegat.project&lt;/f0&gt; file and the optional use of special files for project-specific filters or segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124706Z" creationid="Marc Riera" creationdate="20221225T124706Z">
+        <seg>Com en els projectes locals normals, la configuració del projecte en equip es defineix segons el contingut del fitxer &lt;f0&gt;omegat.project&lt;/f0&gt; i l'ús opcional de fitxers especials per a filtres o regles de segmentació específics del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13022,6 +13038,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During synchronization, all other local files are overwritten with the versions on the remote server, exept for &lt;f0&gt;omegat.project&lt;/f0&gt; (see below).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124645Z" creationid="Marc Riera" creationdate="20221225T124645Z">
+        <seg>Durant la sincronització, la resta de fitxers locals se sobreescriuen amb les versions del servidor remot, excepte el fitxer&lt;f0&gt;omegat.project&lt;/f0&gt; (consulteu l'apartat següent).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During synchronization, all the other local files are overwritten with the versions on the remote server, exept for &lt;f0&gt;omegat.project&lt;/f0&gt;, see below.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T143517Z" creationid="Marc Riera" creationdate="20221211T143517Z">
@@ -19085,6 +19109,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T124427Z" creationid="Marc Riera" creationdate="20201010T202653Z">
         <seg>A PCW.GR (en grec).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a team project, the basic configuration parameters of the local project are always overridden by the configuration on the server originally set by the project administrator.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124718Z" creationid="Marc Riera" creationdate="20221225T124718Z">
+        <seg>En un projecte en equip, els paràmetres de configuració bàsics del projecte local sempre se substitueixen per la configuració del servidor definida originalment per l'administrador del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26796,6 +26828,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the project administrator should use &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124738Z" creationid="Marc Riera" creationdate="20221225T124738Z">
+        <seg>Només l'administrador del projecte hauria d'utilitzar &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only this preference currently requires manual modification.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155350Z" creationid="Marc Riera" creationdate="20221201T155350Z">
@@ -32536,6 +32576,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l1/&gt; section for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124814Z" creationid="Marc Riera" creationdate="20221225T124814Z">
+        <seg>Consulteu la secció &lt;l1/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l1/&gt; section.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175530Z" creationid="Marc Riera" creationdate="20221218T175530Z">
@@ -35463,6 +35511,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T141259Z" creationid="Marc Riera" creationdate="20221211T141259Z">
         <seg>Sincronització</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronizing the project adds translations made by all team members to local copies of the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124634Z" creationid="Marc Riera" creationdate="20221225T124634Z">
+        <seg>La sincronització del projecte incorpora les traduccions de tots els membres de l'equip a les còpies locals del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40288,6 +40344,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T143610Z" creationid="Marc Riera" creationdate="20221211T143610Z">
         <seg>Això vol dir que la funció de desament automàtic també sincronitza periòdicament les versions locals amb la versió del servidor segons l'interval especificat en l'apartat &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This means the automatic save function also regularly synchronizes local versions with the version on the server at the interval specified in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124658Z" creationid="Marc Riera" creationdate="20221225T124658Z">
+        <seg>Això vol dir que la funció de desament automàtic també sincronitza periòdicament les versions locals amb la versió del servidor segons l'interval especificat en la preferència &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
