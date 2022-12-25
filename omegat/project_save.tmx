@@ -38641,6 +38641,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The writable glossary is the file that OmegaT uses when you add translated glossary terms to your project with the &lt;l0/&gt;&lt;l1/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T094757Z" creationid="Marc Riera" creationdate="20221225T094757Z">
+        <seg>El glossari modificable és el fitxer que l'OmegaT utilitza quan afegiu termes del glossari traduïts al projecte amb el menú &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The writable project glossary is located in the &lt;l0/&gt; folder by default and called &lt;l1/&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T095640Z" creationid="Marc Riera" creationdate="20221206T095640Z">
@@ -40397,6 +40405,14 @@ tots els paràmetres als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T202042Z" creationid="Marc Riera" creationdate="20201010T202042Z">
         <seg>Fins al moment, els patrocinadors han estat els següents:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To define exclusions, use the &lt;u1&gt;Apache ant syntax&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T094739Z" creationid="Marc Riera" creationdate="20221225T094739Z">
+        <seg>Per a definir exclusions, utilitzeu la &lt;u1&gt;sintaxi de l'Apache Ant&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42722,6 +42738,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T215853Z" creationid="Marc Riera" creationdate="20221211T215853Z">
         <seg>Utilitzeu &lt;l0/&gt;, seleccioneu una carpeta buida o creeu-ne una de nova amb el nom del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; and its submenus to access all the project ressource locations.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T094644Z" creationid="Marc Riera" creationdate="20221225T094644Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; i els submenús per a accedir a totes les ubicacions de recursos del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48910,6 +48934,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T120544Z" creationid="Marc Riera" creationdate="20221206T120544Z">
         <seg>No es té en compte en la finestra &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>is not taken into account in the various statistics reports (use &lt;l0/&gt;&lt;l1/&gt;, etc.), and</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T094719Z" creationid="Marc Riera" creationdate="20221225T094719Z">
+        <seg>No es té en compte en els informes d'estadístiques (utilitzeu &lt;l0/&gt;&lt;l1/&gt;, etc.).</seg>
       </tuv>
     </tu>
     <tu>
