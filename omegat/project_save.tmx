@@ -39434,6 +39434,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This action will fix any internal tag consistency issues due to not inserting tags properly while entering the translation in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T122020Z" creationid="Marc Riera" creationdate="20221225T122020Z">
+        <seg>Aquesta acció corregirà qualsevol error intern de coherència de les etiquetes per no inserir correctament les etiquetes en la traducció amb l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This action will fix the internal tag consistency issues that might have been induced by not properly inserting the tags in the translation while in OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200718Z" creationid="Marc Riera" creationdate="20221210T200718Z">
