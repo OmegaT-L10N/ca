@@ -14139,6 +14139,14 @@ ningú no sent els vostres crits.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Every time you save the project data (use &lt;l0/&gt;&lt;l1/&gt;), or when making a regular backup, OmegaT saves the current state of the translation into &lt;f2&gt;project_save.tmx&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120315Z" creationid="Marc Riera" creationdate="20221225T120315Z">
+        <seg>Cada vegada que deseu les dades del projecte (utilitzeu &lt;l0/&gt;&lt;l1/&gt;), o quan feu una còpia de seguretat periòdica, l'OmegaT desa l'estat actual de la traducció en el fitxer &lt;f2&gt;project_save.tmx&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Every time you use &lt;l0/&gt;, or as a regular backup every 3 minutes by default, OmegaT saves the current state of the translation into &lt;f1&gt;project_save.tmx&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T194849Z" creationid="Marc Riera" creationdate="20221210T194849Z">
