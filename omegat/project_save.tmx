@@ -6262,6 +6262,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also remember not to modify the project configuration or add TMX files in the meantime, as doing so may affect the results.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120453Z" creationid="Marc Riera" creationdate="20221225T120453Z">
+        <seg>Recordeu també no modificar la configuració del projecte ni afegir fitxers TMX durant el procés, ja que pot afectar els resultats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also, consider testing &lt;a0&gt;nightly builds&lt;/a0&gt; of OmegaT that may contain even more new and fascinating bugs!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221223T121226Z" creationid="Marc Riera" creationdate="20221223T121226Z">
@@ -9322,6 +9330,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Close the project to prevent any changes to the current status of the backup files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120325Z" creationid="Marc Riera" creationdate="20221225T120325Z">
+        <seg>Tanqueu el projecte per a impedir cap modificació de l'estat actual dels fitxers de còpia de seguretat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Close the project, preventing any modification to the current status of the backup files.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T193820Z" creationid="Marc Riera" creationdate="20221210T193820Z">
@@ -9855,6 +9871,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Consider safely storing all the different files you are renaming for eventual reuse.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120442Z" creationid="Marc Riera" creationdate="20221225T120442Z">
+        <seg>Penseu en la possibilitat d'emmagatzemar de manera segura els diferents fitxers amb el nom canviat en cas que els hàgiu de reutilitzar.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Consists of a model student's manual with instructions to trainers for adaptation, and sample resources.</seg>
@@ -10228,6 +10252,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201057Z" creationid="Marc Riera" creationdate="20221210T201057Z">
         <seg>Copieu un dels fitxers originals a la carpeta de configuració nova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the contents of the various user folders to the equivalent location in the new project (source files, reference translation memory files, glossary files).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120552Z" creationid="Marc Riera" creationdate="20221225T120552Z">
+        <seg>Copieu el contingut de les diferents carpetes d'usuari a l'equivalent en el projecte nou (fitxers d'origen, fitxers de memòria de traducció de referència i fitxers de glossari).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14348,6 +14380,14 @@ els fils de teranyina t'aparten.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exercise caution with changes made to files in the source folder, the segmentation rules, or the file filters, partway through a project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120507Z" creationid="Marc Riera" creationdate="20221225T120507Z">
+        <seg>Aneu amb compte si apliqueu canvis als fitxers de la carpeta «source», a les regles de segmentació o als filtres de fitxers al llarg d'un projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Existing source files can be modified, but the commit operation must be carried out before an automatic save and before the project is reloaded or closed.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T213435Z" creationid="Marc Riera" creationdate="20201130T213435Z">
@@ -15292,6 +15332,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181110T001821Z" creationid="mgalo" creationdate="20181110T001821Z">
         <seg>Finès</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fix all tag issues found in your documents.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120711Z" creationid="Marc Riera" creationdate="20221225T120711Z">
+        <seg>Corregiu tots els errors d'etiquetes dels fitxers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19198,6 +19246,22 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200339Z" creationid="Marc Riera" creationdate="20221210T200339Z">
         <seg>En el projecte original, seleccioneu la memòria de traducció (còpia de seguretat o no) amb més probabilitat de contenir les dades que cerqueu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the old project, select the translation memory file (main or backup) most likely to contain the data you are looking for.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120610Z" creationid="Marc Riera" creationdate="20221225T120610Z">
+        <seg>En el projecte original, seleccioneu el fitxer de memòria de traducció (principal o còpia de seguretat) amb més probabilitat de contenir les dades que cerqueu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the rare case where your computer freezes and OmegaT does not have time to close properly, some important files can be corrupted and keep your project from reopening after you reboot your system.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120540Z" creationid="Marc Riera" creationdate="20221225T120540Z">
+        <seg>En casos poc habituals en què l'ordinador es bloquegi i l'OmegaT no tingui temps de tancar-se correctament, alguns fitxers importants poden quedar trencats i impedir que es pugui tornar a obrir el projecte després de reiniciar l'ordinador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23350,6 +23414,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T083055Z" creationid="Marc Riera" creationdate="20221205T083055Z">
         <seg>Modificació d'una drecera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modifying any of those after you have started your translation could result in some segments disapparing or new segments appearing unexpectedly.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120521Z" creationid="Marc Riera" creationdate="20221225T120521Z">
+        <seg>Les modificacions després de començar la traducció poden provocar que alguns segments desapareguin o que apareguin segments nous de manera inesperada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30102,6 +30174,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rename it &lt;f0&gt;project_save.tmx&lt;/f0&gt; if necessary.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120616Z" creationid="Marc Riera" creationdate="20221225T120616Z">
+        <seg>Canviu-ne el nom a &lt;f0&gt;project_save.tmx&lt;/f0&gt;, si cal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rename it &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T193833Z" creationid="Marc Riera" creationdate="20221210T193833Z">
@@ -30113,6 +30193,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
         <seg>Rename the current &lt;f0&gt;project_save.tmx &lt;/f0&gt;file (to &lt;f1&gt;project_save.tmx.tmp&lt;/f1&gt;, for example).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T195308Z" creationid="Marc Riera" creationdate="20221210T195308Z">
+        <seg>Canvieu el nom del fitxer &lt;f0&gt;project_save.tmx&lt;/f0&gt; actual (a &lt;f1&gt;project_save.tmx.tmp&lt;/f1&gt;, per exemple).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rename the current &lt;f0&gt;project_save.tmx&lt;/f0&gt; file (to &lt;f1&gt;project_save.tmx.tmp&lt;/f1&gt;, for example).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120339Z" creationid="Marc Riera" creationdate="20221225T120339Z">
         <seg>Canvieu el nom del fitxer &lt;f0&gt;project_save.tmx&lt;/f0&gt; actual (a &lt;f1&gt;project_save.tmx.tmp&lt;/f1&gt;, per exemple).</seg>
       </tuv>
     </tu>
@@ -39370,6 +39458,22 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This action will restore your translation to its state at the point the selected backup was created.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120403Z" creationid="Marc Riera" creationdate="20221225T120403Z">
+        <seg>Aquesta acció restaurarà la traducció a l'estat en el moment en què es va crear la còpia de seguretat seleccionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This action will set the new project the state of your translation at the point the selected project translation memory was created in the old project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120645Z" creationid="Marc Riera" creationdate="20221225T120637Z">
+        <seg>Aquesta acció restaurarà l'estat de la traducció en el projecte nou al moment en què es va crear la memòria de traducció del projecte seleccionada en el projecte original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This applies also to the &lt;l2&gt;Project files&lt;/l2&gt; window.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163806Z" creationid="Marc Riera" creationdate="20220625T163806Z">
@@ -42878,6 +42982,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; and focus on &lt;g2&gt;Tag issues&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120704Z" creationid="Marc Riera" creationdate="20221225T120704Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; i centreu-vos en &lt;g2&gt;Errors d'etiquetes&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; and its submenus to access all the project ressource locations.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T094644Z" creationid="Marc Riera" creationdate="20221225T094644Z">
@@ -42962,6 +43074,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121104Z" creationid="Marc Riera" creationdate="20221218T121104Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a obrir el quadre de diàleg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to recreate the documents.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120717Z" creationid="Marc Riera" creationdate="20221225T120717Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a recrear els fitxers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45761,6 +45881,14 @@ d'una finestra del Finder per a poder-la executar des de qualsevol lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T193921Z" creationid="Marc Riera" creationdate="20221210T193921Z">
         <seg>Podeu repetir aquesta operació si necessiteu trobar situacions anteriors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may repeat this operation as needed to find older states.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120418Z" creationid="Marc Riera" creationdate="20221225T120418Z">
+        <seg>Podeu repetir aquesta operació si necessiteu recuperar situacions anteriors.</seg>
       </tuv>
     </tu>
     <tu>
