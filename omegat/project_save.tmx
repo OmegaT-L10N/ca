@@ -4934,8 +4934,8 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>A number of free software third party utilities provide such “round-trip” conversion, including:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123129Z" creationid="Marc Riera" creationdate="20221225T123129Z">
-        <seg>Hi ha diverses eines lliures de tercers que proporcionen aquesta conversió «bidireccional», com ara:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123320Z" creationid="Marc Riera" creationdate="20221225T123129Z">
+        <seg>Hi ha diverses eines lliures de tercers que proporcionen aquesta conversió bidireccional, com ara:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26362,6 +26362,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT's po support is robust enough to handle most po files, but OmegaT's default XLIFF filter is not sufficient to support XLIFF files created by Rainbow, OpenXLIFF or other CAT tools.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123256Z" creationid="Marc Riera" creationdate="20221225T123256Z">
+        <seg>La compatibilitat de l'OmegaT amb el format PO és prou robusta per a tractar la majoria de fitxers PO, però el filtre XLIFF per defecte de l'OmegaT no és suficient per a tractar els fitxers XLIFF creats pel Rainbow, l'OpenXLIFF o altres eines de TAO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT's po support is robust enough to handle most po files, but OmegaT's default XLIFF filter will not be sufficient to support XLIFF files created by Rainbow, OpenXLIFF or any other CAT tool.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T134435Z" creationid="Marc Riera" creationdate="20221211T134435Z">
@@ -34177,6 +34185,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some formats, like PDF, cannot be properly handled through “round trip” conversions.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123300Z" creationid="Marc Riera" creationdate="20221225T123300Z">
+        <seg>Alguns formats, com el PDF, no es poden tractar correctament amb conversions bidireccionals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some plugins can make this task easier.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T184042Z" creationid="Marc Riera" creationdate="20221217T184042Z">
@@ -39456,6 +39472,14 @@ en sou víctima d'una.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They require an intermediate conversion to a supported format that serves as a base to manually create a proper target language document.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123346Z" creationid="Marc Riera" creationdate="20221225T123346Z">
+        <seg>Requereixen una conversió intermèdia a un format compatible, que s'utilitza com a base per a crear manualment un document adequat en la llengua de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They will appear as separate segments in the editor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T110944Z" creationid="Marc Riera" creationdate="20221215T110944Z">
@@ -39499,6 +39523,14 @@ en sou víctima d'una.</seg>
         <seg>Third-party plugin</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131305Z" creationid="Marc Riera" creationdate="20221211T131305Z">
+        <seg>Connectors de tercers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Third-party plugins</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123413Z" creationid="Marc Riera" creationdate="20221225T123413Z">
         <seg>Connectors de tercers</seg>
       </tuv>
     </tu>
@@ -44380,6 +44412,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When installed, the plugin offers direct access to the added formats and also allows you to associate a custom filter parameters file created in Rainbow.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123440Z" creationid="Marc Riera" creationdate="20221225T123440Z">
+        <seg>Quan s'instal·la, el connector ofereix accés directe als formats afegits i també permet associar un fitxer de paràmetres del filtre personalitzat que heu creat amb el Rainbow.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When installed, the plugin offers direct access to the added formats and also allows you to associate a custom filter parameters file that you have created in Rainbow.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T135237Z" creationid="Marc Riera" creationdate="20221211T135237Z">
@@ -45662,6 +45702,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T135033Z" creationid="Marc Riera" creationdate="20221206T135033Z">
         <seg>Les podeu habilitar marcant &lt;l0/&gt; en les preferències de &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can find a number of online or offline utilities that convert PDF to common office formats, but the conversion will always require extensive manual adjustments to the target document before a proper PDF document can be produced.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123408Z" creationid="Marc Riera" creationdate="20221225T123408Z">
+        <seg>Trobareu diverses eines en línia o fora de línia que ofereixen una conversió de PDF a formats d'ofimàtica habituals, però la conversió sempre requerirà moltes modificacions manuals en el document de destinació per a produir un document PDF adequat.</seg>
       </tuv>
     </tu>
     <tu>
