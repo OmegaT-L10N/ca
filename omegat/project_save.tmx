@@ -20195,6 +20195,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is automatically created the first time a term is added.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T094802Z" creationid="Marc Riera" creationdate="20221225T094802Z">
+        <seg>Es crea automàticament la primera vegada que s'afegeix un terme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is called the &lt;e1&gt;writable&lt;/e1&gt; glossary for this reason.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T092706Z" creationid="Marc Riera" creationdate="20221206T092706Z">
@@ -32500,6 +32508,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Segments that have been translated will be replaced by their translation and untranslated segments will remain in the source language.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T094811Z" creationid="Marc Riera" creationdate="20221225T094811Z">
+        <seg>Els segments traduïts se substituiran per la traducció i els segments sense traduir romandran en la llengua d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segments with notes</seg>
@@ -39296,6 +39312,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T183620Z" creationid="Marc Riera" creationdate="20221217T183620Z">
         <seg>Això normalment es pot fer a través d'una interfície web, una aplicació gràfica o la línia d'ordres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This checkbox lets you choose in which format you want OmegaT to create the above TMX files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T094824Z" creationid="Marc Riera" creationdate="20221225T094824Z">
+        <seg>Aquesta casella de selecció us permet triar en quin format voleu que l'OmegaT creï els fitxers TMX anteriors.</seg>
       </tuv>
     </tu>
     <tu>
