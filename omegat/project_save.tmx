@@ -6725,6 +6725,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any writable folder can be used instead of the project &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212734Z" creationid="Marc Riera" creationdate="20221225T212734Z">
+        <seg>Es pot utilitzar qualsevol carpeta modificable en comptes de la carpeta &lt;l0/&gt; del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T164548Z" creationid="Packard Bell" creationdate="20150605T161057Z">
@@ -10312,6 +10320,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy only the documents whose content you want to include into the &lt;f0&gt;source&lt;/f0&gt; folder of your project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212848Z" creationid="Marc Riera" creationdate="20221225T212848Z">
+        <seg>Copieu només els documents amb contingut que vulgueu incloure a la carpeta &lt;f0&gt;source&lt;/f0&gt; del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the contents of the various user folders to the equivalent location in the new project (source files, reference translation memory files, glossary files).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120552Z" creationid="Marc Riera" creationdate="20221225T120552Z">
@@ -11698,6 +11714,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225101Z" creationid="mgalo" creationdate="20181112T110722Z">
         <seg>Separador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending on how reliable a given memory is, you might prefer to put it in one of the following subfolders:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212558Z" creationid="Marc Riera" creationdate="20221225T212558Z">
+        <seg>En funció de la fiabilitat de cada memòria, preferireu copiar-la en una o altra de les subcarpetes següents:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25467,6 +25491,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT can read TMX-standard compliant memories produced by other tools.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212709Z" creationid="Marc Riera" creationdate="20221225T212709Z">
+        <seg>L'OmegaT pot llegir memòries que segueixin l'estàndard TMX generades per altres eines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT can read conformant TMX memories produced by other tools.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T123616Z" creationid="Marc Riera" creationdate="20221211T123606Z">
@@ -32512,6 +32544,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; pane for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212357Z" creationid="Marc Riera" creationdate="20221225T212357Z">
+        <seg>Consulteu la subfinestra &lt;l0/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; preference for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174803Z" creationid="Marc Riera" creationdate="20221218T174803Z">
@@ -32524,6 +32564,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T160800Z" creationid="Marc Riera" creationdate="20221218T160754Z">
         <seg>Consulteu les preferències de &lt;l0/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; project property.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212343Z" creationid="Marc Riera" creationdate="20221225T212343Z">
+        <seg>Consulteu la propietat del projecte &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32580,6 +32628,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124814Z" creationid="Marc Riera" creationdate="20221225T124814Z">
         <seg>Consulteu la secció &lt;l1/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; section of the project property dialog.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212754Z" creationid="Marc Riera" creationdate="20221225T212754Z">
+        <seg>Consulteu la secció &lt;l1/&gt; del quadre de diàleg de propietats del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39123,6 +39179,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Their content comes from the global project memory (the &lt;l0/&gt; file) but is &lt;e1&gt;strictly limited&lt;/e1&gt; to what you have translated so far.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212431Z" creationid="Marc Riera" creationdate="20221225T212431Z">
+        <seg>El contingut prové de la memòria del projecte global (fitxer &lt;l0/&gt;), però &lt;e1&gt;es limita estrictament&lt;/e1&gt; al que heu traduït fins al moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Their content comes the global project memory (&lt;l0/&gt;) but is &lt;e1&gt;strictly limited&lt;/e1&gt; to what you have translated so far.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T121434Z" creationid="Marc Riera" creationdate="20221211T121434Z">
@@ -41168,6 +41232,14 @@ tots els paràmetres als valors per defecte.</seg>
         <seg>To reuse translation memories from a previous project you have 2 options:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T121522Z" creationid="Marc Riera" creationdate="20221211T121522Z">
+        <seg>Teniu dues opcions per a reutilitzar les memòries de traducció d'un projecte anterior:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To reuse translation memories from a previous project you have two options:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212458Z" creationid="Marc Riera" creationdate="20221225T212458Z">
         <seg>Teniu dues opcions per a reutilitzar les memòries de traducció d'un projecte anterior:</seg>
       </tuv>
     </tu>
@@ -44481,6 +44553,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>When a project is initially created, it comes with its own empty project translation memory, the &lt;l0/&gt; file, located in the &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212330Z" creationid="Marc Riera" creationdate="20221225T212330Z">
+        <seg>Quan es crea un projecte, inclou una memòria de traducció del projecte buida, el fitxer &lt;l0/&gt;, en la carpeta &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
@@ -44650,6 +44730,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T120415Z" creationid="Marc Riera" creationdate="20221211T120415Z">
         <seg>Quan utilitzeu &lt;l0/&gt; per a crear els fitxers de destinació per a un projecte, l'OmegaT també genera tres memòries de traducció que reflecteixen l'estat actual de la traducció dels fitxers de la carpeta «source» (consulteu &lt;l1/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you use &lt;l0/&gt;&lt;l1/&gt; to create the target documents for a project, OmegaT also outputs three translation memories that reflect the current state of the translation for the files in the source folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212416Z" creationid="Marc Riera" creationdate="20221225T212416Z">
+        <seg>Quan utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a crear els fitxers de destinació per a un projecte, l'OmegaT també genera tres memòries de traducció que reflecteixen l'estat actual de la traducció dels fitxers de la carpeta «source».</seg>
       </tuv>
     </tu>
     <tu>
@@ -45688,6 +45776,14 @@ d'allà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also use the &lt;l0/&gt;&lt;l1/&gt; tool to create a TMX from two files in a format that OmegaT supports.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212452Z" creationid="Marc Riera" creationdate="20221225T212452Z">
+        <seg>També podeu utilitzar l'eina &lt;l0/&gt;&lt;l1/&gt; per a crear un fitxer TMX a partir de dos fitxers en un format compatible amb l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can always access it directly from &lt;l0/&gt; in the &lt;l1/&gt; menu.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T112159Z" creationid="Marc Riera" creationdate="20221129T112159Z">
@@ -46220,6 +46316,14 @@ un comportament inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T103402Z" creationid="Marc Riera" creationdate="20180210T213002Z">
         <seg>Podeu intentar resoldre el problema d'una de les maneres següents:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may want to store translation memories in separate folders, by client or area of specialty so you can reuse them quickly when the need arises.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212715Z" creationid="Marc Riera" creationdate="20221225T212715Z">
+        <seg>És possible que vulgueu emmagatzemar les memòries de traducció en carpetes independents, per client o per especialitat, per a reutilitzar-les ràpidament quan calgui.</seg>
       </tuv>
     </tu>
     <tu>
