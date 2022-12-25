@@ -14123,6 +14123,14 @@ ningú no sent els vostres crits.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Every time the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file is modified:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T095443Z" creationid="Marc Riera" creationdate="20221225T095443Z">
+        <seg>Cada vegada que es modifica el fitxer &lt;f0&gt;project_save.tmx&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Every time you create the translated files (see &lt;l0/&gt;, above), OmegaT creates three translation memories that contain the state of the translation of the files currently in the &lt;l1/&gt; folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214841Z" creationid="Marc Riera" creationdate="20221213T214841Z">
@@ -25284,6 +25292,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT creates a backup file named &lt;f0&gt;project_save.tmx.bak&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T095613Z" creationid="Marc Riera" creationdate="20221225T095613Z">
+        <seg>l'OmegaT crear un fitxer de còpia de seguretat anomenat &lt;f0&gt;project_save.tmx.bak&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT creates a backup with the name &lt;f0&gt;project_save.tmx.bak&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T192908Z" creationid="Marc Riera" creationdate="20221210T192908Z">
@@ -25707,6 +25723,14 @@ està a punt per a executar-se.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T191410Z" creationid="Marc Riera" creationdate="20221210T191410Z">
         <seg>L'OmegaT conserva un màxim de10 d'aquests fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT keeps up to ten of those files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T095437Z" creationid="Marc Riera" creationdate="20221225T095437Z">
+        <seg>L'OmegaT conserva un màxim de 10 d'aquests fitxers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35960,6 +35984,14 @@ L'àmbit d'una substitució de text són els segments de destinació del project
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That file is a copy of &lt;f0&gt;project_save.tmx&lt;/f0&gt; &lt;e1&gt;before&lt;/e1&gt; it was modified.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T095643Z" creationid="Marc Riera" creationdate="20221225T095643Z">
+        <seg>Aquest fitxer és una còpia de &lt;f0&gt;project_save.tmx&lt;/f0&gt; &lt;e1&gt;abans&lt;/e1&gt; de la modificació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That file is a copy of &lt;f0&gt;project_save.tmx&lt;/f0&gt; &lt;e1&gt;before&lt;/e1&gt; the modification.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T192935Z" creationid="Marc Riera" creationdate="20221210T192935Z">
@@ -44166,6 +44198,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you open a project, OmegaT backs up the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file to a timestamped backup file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T095431Z" creationid="Marc Riera" creationdate="20221225T095431Z">
+        <seg>Quan obriu un projecte, l'OmegaT crea una còpia del fitxer &lt;f0&gt;project_save.tmx&lt;/f0&gt; en un fitxer de còpia de seguretat amb una marca de temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you use &lt;l0/&gt; to create the target documents for a project, OmegaT also outputs three translation memories that reflect the current state of the translation for the files in the source folder (see &lt;l1/&gt;).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T120415Z" creationid="Marc Riera" creationdate="20221211T120415Z">
@@ -47809,6 +47849,14 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>either after saving the project data (use &lt;l0/&gt;&lt;l1/&gt;),</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T095626Z" creationid="Marc Riera" creationdate="20221225T095532Z">
+        <seg>després de desar les dades del projecte (utilitzeu &lt;l0/&gt;&lt;l1/&gt;),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>either after using &lt;l0/&gt;,</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T192809Z" creationid="Marc Riera" creationdate="20221210T192809Z">
@@ -50102,6 +50150,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212654Z" creationid="Marc Riera" creationdate="20201130T212654Z">
         <seg>O bé, obriu el projecte des de la línia d'ordres amb l'opció &lt;c0&gt;--no-team&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or when making a regular backup (every 3 minutes by default),</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T095620Z" creationid="Marc Riera" creationdate="20221225T095545Z">
+        <seg>o bé en fer una còpia de seguretat (cada 3 minuts per defecte),</seg>
       </tuv>
     </tu>
     <tu>
