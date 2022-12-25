@@ -4932,6 +4932,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A number of free software third party utilities provide such “round-trip” conversion, including:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123129Z" creationid="Marc Riera" creationdate="20221225T123129Z">
+        <seg>Hi ha diverses eines lliures de tercers que proporcionen aquesta conversió «bidireccional», com ara:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A number of issues come from not selecting the right language here, or from not matching it in other preferences.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221224T170937Z" creationid="Marc Riera" creationdate="20221224T170937Z">
@@ -6939,6 +6947,14 @@ inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221109T205934Z" creationid="Marc Riera" creationdate="20221109T205934Z">
         <seg>A&amp;ssigna una drecera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Associate the format to an already supported format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123100Z" creationid="Marc Riera" creationdate="20221225T123100Z">
+        <seg>Associeu el format a un format ja compatible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10161,6 +10177,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Convert the format to an already supported format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123103Z" creationid="Marc Riera" creationdate="20221225T123103Z">
+        <seg>Convertiu el format a un format ja compatible.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Converting all .DOCX in the project...</seg>
@@ -11754,6 +11778,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190925T073909Z" creationid="Marc Riera" creationdate="20190925T073909Z">
         <seg>S'està detectant...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Develop a filter for the format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123108Z" creationid="Marc Riera" creationdate="20221225T123108Z">
+        <seg>Desenvolupeu un filtre per al format.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14531,6 +14563,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113410Z" creationid="Marc Riera" creationdate="20221129T113410Z">
         <seg>Expressió</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extend OmegaT with third-party plugins that support the format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123106Z" creationid="Marc Riera" creationdate="20221225T123106Z">
+        <seg>Amplieu l'OmegaT amb connectors de tercers que ofereixin compatibilitat amb el format.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18692,6 +18732,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T212701Z" creationid="mgalo" creationdate="20181115T120359Z">
         <seg>Si necessiteu assistència amb cap aspecte de l'OmegaT, podeu unir-vos al &lt;u1&gt;grup d'usuaris de l'OmegaT&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need to support formats that are not covered by OmegaT, there are four ways to do so:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123050Z" creationid="Marc Riera" creationdate="20221225T123050Z">
+        <seg>Si necessiteu la compatibilitat amb formats que l'OmegaT no admet, teniu quatre maneres de fer-ho:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22957,6 +23005,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Maxprograms also distributes &lt;u1&gt;XLIFF Manager&lt;/u1&gt;, a graphical user interface for the OpenXLIFF Filters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123236Z" creationid="Marc Riera" creationdate="20221225T123236Z">
+        <seg>Maxprograms també distribueix l'eina &lt;u1&gt;XLIFF Manager&lt;/u1&gt;, una interfície gràfica d'usuari per als filtres OpenXLIFF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Maxprograms also distributes &lt;u1&gt;XLIFF Manager&lt;/u1&gt;, which is a graphical user interface for the OpenXLIFF Filters.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T133512Z" creationid="Marc Riera" creationdate="20221211T133428Z">
@@ -27084,6 +27140,14 @@ la carpeta d'inici.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OpenXLIFF supports a number of file filters, including some not supported natively by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123227Z" creationid="Marc Riera" creationdate="20221225T123227Z">
+        <seg>L'OpenXLIFF admet diversos filtres de fitxers, alguns dels quals no són compatibles nativament amb l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Opening input file '{0}'</seg>
@@ -29464,6 +29528,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rainbow can create XLIFF 1.2 compliant files or OmegaT projects from all the files set as “input” files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123213Z" creationid="Marc Riera" creationdate="20221225T123213Z">
+        <seg>El Rainbow pot crear fitxers XLIFF 1.2 vàlids o projectes de l'OmegaT a partir de tots els fitxers establerts com a fitxers d'entrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rainbow supported files are converted into XLIFF and inserted as source files into a full fledged OmegaT project that you can open with OmegaT right away.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132945Z" creationid="Marc Riera" creationdate="20221211T132945Z">
@@ -29476,6 +29548,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132818Z" creationid="Marc Riera" creationdate="20221211T131516Z">
         <seg>Rainbow, component de l'&lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rainbow-supported files are converted into XLIFF and inserted as source files into a full fledged OmegaT project that you can open with OmegaT right away.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123219Z" creationid="Marc Riera" creationdate="20221225T123219Z">
+        <seg>Els fitxers compatibles amb el Rainbow es converteixen al format XLIFF i s'insereixen com a fitxers d'origen en un projecte complet de l'OmegaT que podeu obrir immediatament amb el programa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36599,6 +36679,14 @@ la carpeta actual en el seu lloc.</seg>
         <seg>The Okapi Framework comes with a number of file filters, among which some that are not supported natively by OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132846Z" creationid="Marc Riera" creationdate="20221211T132846Z">
+        <seg>L'Okapi Framework incorpora diversos filtres de fitxers, alguns dels quals no són compatibles nativament amb l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Okapi Framework comes with a number of file filters, including some not supported natively by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123157Z" creationid="Marc Riera" creationdate="20221225T123157Z">
         <seg>L'Okapi Framework incorpora diversos filtres de fitxers, alguns dels quals no són compatibles nativament amb l'OmegaT.</seg>
       </tuv>
     </tu>
