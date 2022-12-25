@@ -8883,6 +8883,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the &lt;o0&gt;Use local file filter settings&lt;/o0&gt; box, and adjust the settings as desired.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T093641Z" creationid="Marc Riera" creationdate="20221225T093641Z">
+        <seg>Marqueu la casella &lt;o0&gt;Utilitza paràmetres de filtres locals&lt;/o0&gt; i ajusteu els paràmetres com vulgueu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the &lt;o0&gt;Use local segmentation rules&lt;/o0&gt; box, and adjust the segmentation rules as desired.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221224T172039Z" creationid="Marc Riera" creationdate="20221224T172039Z">
@@ -32176,6 +32184,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; section of the &lt;l1/&gt; how-to for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T093716Z" creationid="Marc Riera" creationdate="20221225T093716Z">
+        <seg>Consulteu la secció &lt;l0/&gt; de la guia &lt;l1/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; window for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T160647Z" creationid="Marc Riera" creationdate="20221218T160647Z">
@@ -34881,6 +34897,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T120440Z" creationid="Marc Riera" creationdate="20221204T110037Z">
         <seg>Aquestes ordres es defineixen en l'apartat &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such commands are defined in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T093622Z" creationid="Marc Riera" creationdate="20221225T093622Z">
+        <seg>Aquestes ordres es defineixen en la preferència &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37871,10 +37895,26 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project will store the new set of external searches in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder, and the settings will supersede the global external searches settings.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T093729Z" creationid="Marc Riera" creationdate="20221225T093729Z">
+        <seg>El projecte emmagatzemarà el nou conjunt de cerques externes en el fitxer &lt;l0/&gt; de la carpeta &lt;l1/&gt; i els paràmetres substituiran els paràmetres de cerca externa globals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project will store the new set of external searches in the &lt;l0/&gt; file of its &lt;l1/&gt; folder, and the settings will supersede the global external searches settings.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T134850Z" creationid="Marc Riera" creationdate="20221206T134850Z">
         <seg>El projecte emmagatzemarà el nou conjunt de cerques externes en el fitxer &lt;l0/&gt; de la carpeta &lt;l1/&gt; i els paràmetres substituiran els paràmetres de cerca externa globals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project will store the new set of file filters in the &lt;l0/&gt; file located in its omegat folder, and the settings will supersede the global file filter settings.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T093655Z" creationid="Marc Riera" creationdate="20221225T093655Z">
+        <seg>El projecte emmagatzemarà el nou conjunt de filtres de fitxers en el fitxer &lt;l0/&gt; de la carpeta «omegat» i els paràmetres substituiran els paràmetres de filtres de fitxers globals.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38958,10 +38998,26 @@ en sou víctima d'una.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are defined in the &lt;l0/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T093722Z" creationid="Marc Riera" creationdate="20221225T093722Z">
+        <seg>Es defineixen en les preferències de &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They are found in &lt;l0/&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110056Z" creationid="Marc Riera" creationdate="20221204T110056Z">
         <seg>Són a &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are found in the &lt;l0/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T093630Z" creationid="Marc Riera" creationdate="20221225T093630Z">
+        <seg>Es troben en les preferències de &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40348,6 +40404,14 @@ tots els paràmetres als valors per defecte.</seg>
         <seg>To delete project specific external searches, click &lt;g0&gt;Remove&lt;/g0&gt; or remove that file.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T134918Z" creationid="Marc Riera" creationdate="20221206T134918Z">
+        <seg>Per a suprimir les cerques externes específiques del projecte, feu clic en &lt;g0&gt;Suprimeix&lt;/g0&gt; o suprimiu el fitxer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To delete project specific external searches, click on &lt;g0&gt;Remove&lt;/g0&gt; or remove that file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T093740Z" creationid="Marc Riera" creationdate="20221225T093740Z">
         <seg>Per a suprimir les cerques externes específiques del projecte, feu clic en &lt;g0&gt;Suprimeix&lt;/g0&gt; o suprimiu el fitxer.</seg>
       </tuv>
     </tu>
@@ -42658,6 +42722,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221532Z" creationid="Marc Riera" creationdate="20221218T221532Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; si no recordeu on és el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; or &lt;l2/&gt;&lt;l3/&gt; to create the target files and trigger the command launch.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T093608Z" creationid="Marc Riera" creationdate="20221225T093608Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; o &lt;l2/&gt;&lt;l3/&gt; per a crear els fitxers de destinació i que s'executi l'ordre.</seg>
       </tuv>
     </tu>
     <tu>
