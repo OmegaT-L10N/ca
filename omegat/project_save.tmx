@@ -10230,6 +10230,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Copy &lt;e0&gt;one&lt;/e0&gt; of the old files into the new configuration folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T122101Z" creationid="Marc Riera" creationdate="20221225T122101Z">
+        <seg>Copieu &lt;e0&gt;un&lt;/e0&gt; dels fitxers originals a la carpeta de configuració nova.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Copy Files to Source Folder...</seg>
@@ -16640,6 +16648,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go back to Step 5.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T122137Z" creationid="Marc Riera" creationdate="20221225T122137Z">
+        <seg>Torneu al pas 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go back to step 5.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T194519Z" creationid="Marc Riera" creationdate="20221210T194506Z">
@@ -18469,6 +18485,14 @@ extensions dels fitxers.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200906Z" creationid="Marc Riera" creationdate="20221210T200906Z">
         <seg>Si no podeu utilitzar els menús de l'OmegaT, utilitzeu &lt;l0/&gt; per a trobar la ubicació de la carpeta de configuració.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you can’t use OmegaT’s menus, see the &lt;l0/&gt; chapter to find the configuration folder location.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T122052Z" creationid="Marc Riera" creationdate="20221225T122052Z">
+        <seg>Si no podeu utilitzar els menús de l'OmegaT, consulteu el capítol &lt;l0/&gt; per a trobar la ubicació de la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29709,6 +29733,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regularly practice “emergency measures” such as restoring translations from a project to make sure you won’t lose too much time the day you need to use those skills.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T122216Z" creationid="Marc Riera" creationdate="20221225T122216Z">
+        <seg>Feu «pràctiques d'emergència» periòdicament, com ara restaurar les traduccions d'un projecte, per a assegurar-vos que no perdeu massa temps si us trobeu en una situació així.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regularly “practice emergency” measures such as restoring translations from a project, to make sure you won’t lose too much time the day you need to use those skills.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201823Z" creationid="Marc Riera" creationdate="20221210T201823Z">
@@ -30051,6 +30083,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201147Z" creationid="Marc Riera" creationdate="20221210T201147Z">
         <seg>Suprimiu-lo de la carpeta de configuració i procediu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove it from the configuration folder and, restart OmegaT, and proceed with your work.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T122128Z" creationid="Marc Riera" creationdate="20221225T122128Z">
+        <seg>Suprimiu-lo de la carpeta de configuració, reinicieu l'OmegaT i procediu amb la feina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40605,6 +40645,14 @@ tots els paràmetres als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To avoid losing important data, make regular copies of the &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; file to a backup medium such as a USB key, an external hard drive, or a cloud service.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T122204Z" creationid="Marc Riera" creationdate="20221225T122204Z">
+        <seg>Per a evitar perdre dades importants, feu còpies periòdiques del fitxer &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; a un dispositiu de còpia de seguretat, com una unitat USB, un disc dur extern o un servei en el núvol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To avoid losing important data, make regular copies of the file &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; to a backup media, such as a USB key or an external hard drive, or to a cloud service.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201345Z" creationid="Marc Riera" creationdate="20221210T201345Z">
@@ -43026,6 +43074,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174612Z" creationid="Marc Riera" creationdate="20221218T174612Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a accedir-hi directament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access the configuration folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T122039Z" creationid="Marc Riera" creationdate="20221225T122039Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a accedir a la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46590,6 +46646,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113057Z" creationid="Marc Riera" creationdate="20221129T113057Z">
         <seg>^\w+:$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>above and continue until you are satisfied.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T122149Z" creationid="Marc Riera" creationdate="20221225T122144Z">
+        <seg>i continueu fins que us agradi el resultat.</seg>
       </tuv>
     </tu>
     <tu>
