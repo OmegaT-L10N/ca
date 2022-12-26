@@ -18338,6 +18338,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the format of your file is not listed, use third-party plugins or convert the file to a format that is supported.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233349Z" creationid="Marc Riera" creationdate="20221226T233349Z">
+        <seg>Si el format del fitxer apareix en la llista, utilitzeu connectors de tercers o convertiu el fitxer en un format compatible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the format you want to translate is structurally close to an already supported format, just add its file extension to the supported format extension list, or change the file extension to one that is accepted by the file filter that you want to use.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132628Z" creationid="Marc Riera" creationdate="20221211T132628Z">
@@ -18661,6 +18669,14 @@ extensions dels fitxers.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T112406Z" creationid="Marc Riera" creationdate="20221206T112406Z">
         <seg>Si no activeu aquesta opció, es pot assignar una traducció diferent a tots els segments, encara que estiguin duplicats en el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you do not see the contents of a file in the &lt;l0/&gt; pane, that file might be empty, or in a format that is not supported by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221226T232648Z" creationid="Marc Riera" creationdate="20221226T232648Z">
+        <seg>Si no veieu el contingut d'un fitxer en la subfinestra &lt;l0/&gt;, és possible que el fitxer estigui buit o que tingui un format no compatible amb l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19373,6 +19389,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164337Z" creationid="Marc Riera" creationdate="20220625T164337Z">
         <seg>En aquest cas, «yy» és el nombre de repeticions del segment en el projecte.&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In that dialog, select the languages of your source and translated files, set the various options, and click on &lt;g0&gt;OK&lt;/g0&gt; to continue.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221226T232608Z" creationid="Marc Riera" creationdate="20221226T232608Z">
+        <seg>En aquest quadre de diàleg, seleccioneu les llengües dels fitxers d'origen i de destinació, definiu les diferents opcions i feu clic en el botó &lt;g0&gt;D'acord&lt;/g0&gt; per a continuar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41331,6 +41355,14 @@ tots els paràmetres als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To learn how to launch OmegaT, see the &lt;l0/&gt; how-to.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221226T232554Z" creationid="Marc Riera" creationdate="20221226T232554Z">
+        <seg>Per a aprendre a iniciar l'OmegaT, consulteu la guia &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T154642Z" creationid="Packard Bell" creationdate="20150529T163754Z">
@@ -43594,6 +43626,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212918Z" creationid="Marc Riera" creationdate="20221225T212918Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a comprovar si hi ha errors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to come back to this dialog after you have created the project,.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221226T232621Z" creationid="Marc Riera" creationdate="20221226T232621Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a tornar a aquest quadre de diàleg després de crear el projecte.</seg>
       </tuv>
     </tu>
     <tu>
