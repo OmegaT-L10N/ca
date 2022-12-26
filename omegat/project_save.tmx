@@ -5534,6 +5534,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Add a segmentation rule to segment further them, or an exception rule to merge them with the part they were split from.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233431Z" creationid="Marc Riera" creationdate="20221226T233431Z">
+        <seg>Afegiu una regla de segmentació per a segmentar-los més, o bé una regla d'excepció per a combinar-los amb la part de la qual s'han dividit.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
@@ -5797,6 +5805,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222453Z" creationid="Marc Riera" creationdate="20221211T222453Z">
         <seg>Després d'escriure la traducció d'un segment, utilitzeu &lt;l0/&gt; per a desplaçar-vos al segment sense traduir següent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After you have typed the translation of a segment, use &lt;l0/&gt;&lt;l1/&gt; to move to the next untranslated segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233647Z" creationid="Marc Riera" creationdate="20221226T233647Z">
+        <seg>Després d'escriure la traducció d'un segment, utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a desplaçar-vos al segment sense traduir següent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16784,6 +16800,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go back to OmegaT and use &lt;l0/&gt;&lt;l1/&gt; to have OmegaT recognize the change.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233516Z" creationid="Marc Riera" creationdate="20221226T233516Z">
+        <seg>Torneu a l'OmegaT i utilitzeu &lt;l0/&gt;&lt;l1/&gt; perquè l'OmegaT reconegui el canvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go back to Step 5.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T122137Z" creationid="Marc Riera" creationdate="20221225T122137Z">
@@ -18827,6 +18851,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222943Z" creationid="Marc Riera" creationdate="20221211T222943Z">
         <seg>Si necessiteu un procés de revisió independent, podeu utilitzar, per exemple, la subfinestra &lt;l0/&gt; per als segments problemàtics, o &lt;l1/&gt; per a filtrar els segments en funció de criteris que hàgiu definit i revisar només aquests segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need a specific review process you can, for example:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233716Z" creationid="Marc Riera" creationdate="20221226T233716Z">
+        <seg>Si necessiteu un procés de revisió específic, teniu aquestes opcions, per exemple:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25663,6 +25695,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not assign different statuses to translated segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233700Z" creationid="Marc Riera" creationdate="20221226T233700Z">
+        <seg>L'OmegaT no assigna diferents estats als segments traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have different statuses for translated segments.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222537Z" creationid="Marc Riera" creationdate="20221211T222537Z">
@@ -27937,6 +27977,14 @@ s'esvaeix com la boira.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225151Z" creationid="Marc Riera" creationdate="20191112T225151Z">
         <seg>Format dels límits dels paràgrafs:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph delimitations are defined in the &lt;l2/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233627Z" creationid="Marc Riera" creationdate="20221226T233627Z">
+        <seg>Les delimitacions de paràgraf es defineixen en la preferència &lt;l2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30647,6 +30695,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151457Z" creationid="Marc Riera" creationdate="20220130T220401Z">
         <seg>Substitueix les coincidències del glossari en inserir el text d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace it with a non-breakable space.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233503Z" creationid="Marc Riera" creationdate="20221226T233503Z">
+        <seg>Substituïu-lo per un espai no separable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36787,6 +36843,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; pane is where you type your translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233631Z" creationid="Marc Riera" creationdate="20221226T233631Z">
+        <seg>La subfinestra &lt;l0/&gt; és on escriviu la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; pane.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221257Z" creationid="Marc Riera" creationdate="20221218T221257Z">
@@ -38981,6 +39045,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T164327Z" creationid="mgalo" creationdate="20181113T095524Z">
         <seg>No s'admet la direcció que heu especificat per a la traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The standard space character is often used as a segment boundary.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233440Z" creationid="Marc Riera" creationdate="20221226T233440Z">
+        <seg>El caràcter d'espai estàndard s'utilitza sovint com a límit de segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41466,6 +41538,14 @@ tots els paràmetres als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222430Z" creationid="Marc Riera" creationdate="20221211T222430Z">
         <seg>Per a veure l'eficiència que podeu aconseguir amb les dreceres, consulteu &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To see how efficient you can be with shortcuts, see the &lt;l0/&gt; section.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233642Z" creationid="Marc Riera" creationdate="20221226T233642Z">
+        <seg>Per a veure l'eficiència que podeu aconseguir amb les dreceres, consulteu la secció &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44934,6 +45014,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you leave the segment, its translation is automatically stored into the &lt;l0/&gt; file and will be used as reference for the rest of your translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233652Z" creationid="Marc Riera" creationdate="20221226T233652Z">
+        <seg>Quan abandoneu el segment, la traducció s'emmagatzema automàticament en el fitxer &lt;l0/&gt; i s'utilitzarà com a referència per a la resta de la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you left-click the number, the selected script will run.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T155510Z" creationid="Marc Riera" creationdate="20220611T155510Z">
@@ -46192,6 +46280,14 @@ trobar el text de la llicència a /docs/OmegaT-license.txt</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can follow the steps below to merge two text sections separated by a space character:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233452Z" creationid="Marc Riera" creationdate="20221226T233452Z">
+        <seg>Podeu seguir els passos següents per a combinar dues seccions de text separades per un caràcter d'espai:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can force issue checking each time you leave a segment (see &lt;l0/&gt;) and block translated files creation if tag issues are found (see &lt;l1/&gt;).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T221607Z" creationid="Marc Riera" creationdate="20221207T221607Z">
@@ -46297,6 +46393,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T223247Z" creationid="Marc Riera" creationdate="20221211T223247Z">
         <seg>Podeu substituir termes amb &lt;l0/&gt; mitjançant un quadre de diàleg similar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can replace terms with the &lt;l0/&gt; function using a similar dialog.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233821Z" creationid="Marc Riera" creationdate="20221226T233821Z">
+        <seg>Podeu substituir termes amb la funció &lt;l0/&gt; mitjançant un quadre de diàleg similar.</seg>
       </tuv>
     </tu>
     <tu>
