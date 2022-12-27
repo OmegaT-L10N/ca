@@ -6294,6 +6294,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also remember not modifying the project configuration or adding TMX files in the meantime, as that may affect the results.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221227T104104Z" creationid="Marc Riera" creationdate="20221227T104104Z">
+        <seg>Recordeu també no modificar la configuració del projecte ni afegir fitxers TMX durant el procés, ja que pot afectar els resultats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also remember not modifying the project configuration or adding TMX files on the meantime, as that may affect the results.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T195513Z" creationid="Marc Riera" creationdate="20221210T195513Z">
@@ -14327,6 +14335,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214841Z" creationid="Marc Riera" creationdate="20221213T214841Z">
         <seg>Cada vegada que creeu els fitxers traduïts (consulteu l'apartat &lt;l0/&gt;, més amunt), l'OmegaT crea tres memòries de traducció que contenen l'estat de la traducció dels fitxers que hi ha actualmente en la carpeta &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every time you save the project data (use &lt;l0/&gt;&lt;l1/&gt;), or as a regular backup every 3 minutes by default, OmegaT saves the current state of the translation into &lt;f2&gt;project_save.tmx&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221227T104003Z" creationid="Marc Riera" creationdate="20221227T104003Z">
+        <seg>Cada vegada que deseu les dades del projecte (utilitzeu &lt;l0/&gt;&lt;l1/&gt;), o quan feu una còpia de seguretat periòdica (cada 3 minuts per defecte), l'OmegaT desa l'estat actual de la traducció en el fitxer &lt;f2&gt;project_save.tmx&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39443,6 +39459,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Their content comes from the global project memory (&lt;l0/&gt;) but is &lt;e1&gt;strictly limited&lt;/e1&gt; to what you have translated so far.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221227T104117Z" creationid="Marc Riera" creationdate="20221227T104117Z">
+        <seg>El contingut prové de la memòria del projecte global (&lt;l0/&gt;), però &lt;e1&gt;es limita estrictament&lt;/e1&gt; al que heu traduït fins al moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Their content comes from the global project memory (the &lt;l0/&gt; file) but is &lt;e1&gt;strictly limited&lt;/e1&gt; to what you have translated so far.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212431Z" creationid="Marc Riera" creationdate="20221225T212431Z">
@@ -43742,6 +43766,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to check for possible issues,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221227T104206Z" creationid="Marc Riera" creationdate="20221227T104206Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a comprovar si hi ha errors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to check for possible issues.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212918Z" creationid="Marc Riera" creationdate="20221225T212918Z">
@@ -43778,6 +43810,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175117Z" creationid="Marc Riera" creationdate="20221218T175117Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a afegir termes nous a aquest glossari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to find any untranslated segments (and eventually translate them),</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221227T104224Z" creationid="Marc Riera" creationdate="20221227T104224Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a cercar qualsevol segment sense traduir (i traduir-lo, si cal).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46220,6 +46260,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T193009Z" creationid="Marc Riera" creationdate="20221210T193009Z">
         <seg>Podeu controlar la freqüència amb què es desa el fitxer en l'apartat &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can control the frequency of the file saving in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221227T104050Z" creationid="Marc Riera" creationdate="20221227T104050Z">
+        <seg>Podeu controlar la freqüència de les còpies de seguretat periòdiques amb les preferències de &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
