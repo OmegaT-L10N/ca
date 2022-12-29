@@ -6262,6 +6262,22 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows you to activate/deactivate fuzzy matching for dictionary maches.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221229T104539Z" creationid="Marc Riera" creationdate="20221229T104539Z">
+        <seg>Us permet activar o desactivar les coincidències parcials per a les coincidències del diccionari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allows you to activate/deactivate fuzzy matching for glossary maches.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221229T104532Z" creationid="Marc Riera" creationdate="20221229T104532Z">
+        <seg>Us permet activar o desactivar les coincidències parcials per a les coincidències del glossari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows you to activate/deactivate the Machine Translation tools offered.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T220641Z" creationid="Marc Riera" creationdate="20201130T220641Z">
@@ -27479,6 +27495,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221229T104553Z" creationid="Marc Riera" creationdate="20221229T104553Z">
+        <seg>Obre les preferències de &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0/&gt; window, which allows you to set the location where scripts are stored, as well was write and run scripts, and assign them a shortcut.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221545Z" creationid="Marc Riera" creationdate="20221208T221545Z">
@@ -32896,6 +32920,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l3/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221229T104506Z" creationid="Marc Riera" creationdate="20221229T104506Z">
+        <seg>Consulteu les preferències de &lt;l3/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;u0&gt; Oracle documentation&lt;/u0&gt; for examples.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084355Z" creationid="Marc Riera" creationdate="20221214T084355Z">
@@ -33605,6 +33637,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160738Z" creationid="Marc Riera" creationdate="20221201T160738Z">
         <seg>Seleccioneu les diferents opcions per a activar-les.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the various options to activate/deactivate them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221229T104550Z" creationid="Marc Riera" creationdate="20221229T104550Z">
+        <seg>Seleccioneu les diferents opcions per a activar-les o desactivar-les.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40772,6 +40812,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This menu gives quick access to a few frequently used preferences.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221229T104459Z" creationid="Marc Riera" creationdate="20221229T104459Z">
+        <seg>Aquest menú proporciona un accés ràpid a diverses funcions freqüents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This menu gives you access to information that will help you make the best of OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104610Z" creationid="Marc Riera" creationdate="20221224T104610Z">
@@ -43754,6 +43802,22 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221224T171109Z" creationid="Marc Riera" creationdate="20221224T171109Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a accedir a les regles de segmentació globals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access the local file filter preferences.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221229T104609Z" creationid="Marc Riera" creationdate="20221229T104603Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a accedir a les preferències dels filtres de fitxers locals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access the local segmentation rules preferences.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221229T104623Z" creationid="Marc Riera" creationdate="20221229T104623Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a accedir a les preferències de les regles de segmentació locals.</seg>
       </tuv>
     </tu>
     <tu>
