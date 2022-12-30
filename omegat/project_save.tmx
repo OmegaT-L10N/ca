@@ -11756,6 +11756,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deleting the contents of the &lt;l0/&gt; folder will &lt;e1&gt;never&lt;/e1&gt; impact the content of your translations.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T190653Z" creationid="Marc Riera" creationdate="20221230T190653Z">
+        <seg>Suprimir el contingut de la carpeta &lt;l0/&gt; no tindrà &lt;e1&gt;mai&lt;/e1&gt; cap impacte en el contingut de les traduccions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Deleting the contents of the &lt;l0/&gt; folder will &lt;e1&gt;never&lt;/e1&gt; impact your translations.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214618Z" creationid="Marc Riera" creationdate="20221213T214618Z">
@@ -18990,6 +18998,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200124T232248Z" creationid="Marc Riera" creationdate="20180212T224925Z">
         <seg>Si heu utilitzat l'script «linux-install.sh», podeu executar l'OmegaT amb:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to keep files from being overwritten, change their name after you create them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T190615Z" creationid="Marc Riera" creationdate="20221230T190615Z">
+        <seg>Si voleu impedir que se sobreescriguin els fitxers, canvieu-ne el nom després de crear-los.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41686,6 +41702,14 @@ tots els paràmetres als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To see the list of files in the project, use &lt;l2/&gt; from the same menu.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T190715Z" creationid="Marc Riera" creationdate="20221230T190715Z">
+        <seg>Per a veure la llista de fitxers del projecte, utilitzeu &lt;l2/&gt; des del mateix menú.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To specify a glossary in the latin encoding, for example, use:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T103027Z" creationid="Marc Riera" creationdate="20221206T103027Z">
@@ -43638,6 +43662,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to check your tags before you generate your translated files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T190521Z" creationid="Marc Riera" creationdate="20221230T190521Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a comprovar les etiquetes abans de generar els fitxers traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; and focus on &lt;g1&gt;Tag issues&lt;/g1&gt; .</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T194309Z" creationid="Marc Riera" creationdate="20221210T194309Z">
@@ -44177,6 +44209,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; option to perform various checks on the contents of your translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T190547Z" creationid="Marc Riera" creationdate="20221230T190547Z">
+        <seg>Utilitzeu l'opció &lt;l0/&gt; per a aplicar diverses comprovacions en el contingut de la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;l0/&gt; project property to limit the scope of the segmentation rules to the current project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175331Z" creationid="Marc Riera" creationdate="20221218T175331Z">
@@ -44238,6 +44278,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222330Z" creationid="Marc Riera" creationdate="20221211T222330Z">
         <seg>Utilitzeu les diferents opcions del menú &lt;l0/&gt; i desplaceu les &lt;l1/&gt; per a obtenir la disposició que s'ajusti millor al vostre flux de treball:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the various options in the &lt;l0/&gt; menu and move the various &lt;l1&gt;panes&lt;/l1&gt; around to obtain the layout that fits your workflow best:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T190948Z" creationid="Marc Riera" creationdate="20221230T190948Z">
+        <seg>Utilitzeu les diferents opcions del menú &lt;l0/&gt; i desplaceu les &lt;l1&gt;subfinestres&lt;/l1&gt; per a obtenir la disposició que s'ajusti millor al vostre flux de treball:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45247,6 +45295,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Whenever you want to see what your translation will look like in its final format, use &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T190555Z" creationid="Marc Riera" creationdate="20221230T190555Z">
+        <seg>Sempre que vulgueu veure com serà la traducció en el format final, utilitzeu &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Whenever you want to see what your translation will look like in its final format, use &lt;l0/&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214106Z" creationid="Marc Riera" creationdate="20221213T214106Z">
@@ -46022,10 +46078,26 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can access and modify the project settings using &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T190701Z" creationid="Marc Riera" creationdate="20221230T190701Z">
+        <seg>Podeu accedir als paràmetres del projecte i modificar-los amb &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can access and modify the project settings with &lt;l0/&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214711Z" creationid="Marc Riera" creationdate="20221213T214711Z">
         <seg>Podeu accedir als paràmetres del projecte i modificar-los amb &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can access the contents of all resources at any time with the &lt;l3/&gt; option.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T190723Z" creationid="Marc Riera" creationdate="20221230T190723Z">
+        <seg>Podeu accedir al contingut de tots els recursos en qualsevol moment amb l'opció &lt;l3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46276,6 +46348,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T112159Z" creationid="Marc Riera" creationdate="20221129T112159Z">
         <seg>Sempre podeu accedir-hi directament des de &lt;l0/&gt; en el menú &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can automate file name changes using the &lt;l0/&gt; option for the file filter.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T190631Z" creationid="Marc Riera" creationdate="20221230T190631Z">
+        <seg>Podeu automatitzar els canvis de nom dels fitxers utilitzant l'opció &lt;l0/&gt; per al filtre de fitxers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47049,6 +47129,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214547Z" creationid="Marc Riera" creationdate="20221213T214547Z">
         <seg>Les traduccions &lt;e0&gt;sempre&lt;/e0&gt; s'emmagatzemen en el fitxer &lt;l1/&gt;, la memòria de traducció del projecte, en la carpeta &lt;l2/&gt; del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your translations are &lt;e0&gt;always&lt;/e0&gt; stored in the &lt;l1/&gt; file, which is the project translation memory, located in the &lt;l2/&gt; folder of your project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T190642Z" creationid="Marc Riera" creationdate="20221230T190642Z">
+        <seg>Les traduccions &lt;e0&gt;sempre&lt;/e0&gt; s'emmagatzemen en el fitxer &lt;l1/&gt;, que és la memòria de traducció del projecte, en la carpeta &lt;l2/&gt; del projecte.</seg>
       </tuv>
     </tu>
     <tu>
