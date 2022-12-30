@@ -4118,6 +4118,22 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Insert Missing Source Tags&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;T&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235412Z" creationid="Marc Riera" creationdate="20221230T235412Z">
+        <seg>&lt;g0&gt;Insereix les etiquetes del text d'origen que falten&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;T&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Insert Source&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;I&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234954Z" creationid="Marc Riera" creationdate="20221230T234954Z">
+        <seg>&lt;g0&gt;Insereix el text d'origen&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;I&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Keep&lt;/g0&gt;: The segment pairs in rows that have this box checked are saved to the translation memory file.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201826Z" creationid="Marc Riera" creationdate="20221206T201826Z">
@@ -4222,6 +4238,22 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Replace with Machine Translation&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;M&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235223Z" creationid="Marc Riera" creationdate="20221230T235223Z">
+        <seg>&lt;g0&gt;Substitueix per la traducció automàtica&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;M&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Replace with Source&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;R&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234936Z" creationid="Marc Riera" creationdate="20221230T234936Z">
+        <seg>&lt;g0&gt;Substitueix pel text d'origen&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;R&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Replace:&lt;/g0&gt; operates a "one by one" replacement, by the mean of buttons in the header of the Editor pane.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T152422Z" creationid="Marc Riera" creationdate="20220611T152422Z">
@@ -4298,6 +4330,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220846Z" creationid="Marc Riera" creationdate="20221208T220846Z">
         <seg>&lt;g0&gt;Selecciona la coincidència anterior&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;k3&gt;↑&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Select Source Text&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;A&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235122Z" creationid="Marc Riera" creationdate="20221230T235122Z">
+        <seg>&lt;g0&gt;Selecciona el text d'origen&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;A&lt;/k4&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18633,6 +18673,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the &lt;l0/&gt; preference is disabled, use this action a first time to fetch the translation and a second time to insert it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235320Z" creationid="Marc Riera" creationdate="20221230T235320Z">
+        <seg>Si la preferència &lt;l0/&gt; està inhabilitada, utilitzeu aquesta acció una primera vegada per a obtenir la traducció i una segona vegada per a inserir-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the alignment looks as if it could be improved, try changing the parameters.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T145700Z" creationid="Marc Riera" creationdate="20220506T145700Z">
@@ -20381,8 +20429,8 @@ feu doble clic en la drecera.</seg>
       <tuv lang="en">
         <seg>Inserts the remaining missing source tags at the cursor position.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214640Z" creationid="Marc Riera" creationdate="20221208T214640Z">
-        <seg>Insereix les etiquetes que falten del text d'origen en la posició del cursor.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235427Z" creationid="Marc Riera" creationdate="20221208T214640Z">
+        <seg>Insereix les etiquetes del text d'origen que falten en la posició del cursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24929,6 +24977,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No action is taken if no machine translation service has been activated in the &lt;l0/&gt;&lt;l1/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235337Z" creationid="Marc Riera" creationdate="20221230T235337Z">
+        <seg>No ocorre cap acció si no s'ha activat cap servei de traducció automàtica en el menú &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No action is taken, if no Machine Translation service has been activated (in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Machine Translate&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T162405Z" creationid="Marc Riera" creationdate="20220625T162340Z">
@@ -27208,6 +27264,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222233Z" creationid="Marc Riera" creationdate="20221211T222233Z">
         <seg>Quan hàgiu acabat els passos anteriors, els fitxers d'origen apareixeran en l'OmegaT en una disposició similar a la següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once copied to the OS clipboard, it can also be used in web searches and otherwise.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235212Z" creationid="Marc Riera" creationdate="20221230T235212Z">
+        <seg>Quan s'ha copiat al porta-retalls del sistema operatiu, també es pot utilitzar en cerques web i altres llocs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39518,6 +39582,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234529Z" creationid="Marc Riera" creationdate="20221230T234529Z">
         <seg>El text seleccionat té prioritat sobre la coincidència seleccionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selection can be directly used in OmegaT for &lt;l0&gt;internal searches&lt;/l0&gt;, &lt;l1&gt;replacements&lt;/l1&gt;, &lt;l2&gt;glossary term entry&lt;/l2&gt;, &lt;l3&gt;external searches&lt;/l3&gt;, etc.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235308Z" creationid="Marc Riera" creationdate="20221230T235308Z">
+        <seg>La selecció es pot utilitzar directament en l'OmegaT per a &lt;l0&gt;cerques internes&lt;/l0&gt;, &lt;l1&gt;substitucions&lt;/l1&gt;, &lt;l2&gt;introducció de termes al glossari&lt;/l2&gt;, &lt;l3&gt;cerques externes&lt;/l3&gt;, etc.</seg>
       </tuv>
     </tu>
     <tu>
