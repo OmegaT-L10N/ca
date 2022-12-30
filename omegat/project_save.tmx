@@ -4006,6 +4006,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Close&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;W&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193256Z" creationid="Marc Riera" creationdate="20221230T193256Z">
+        <seg>&lt;g0&gt;Tanca&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;W&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Close&lt;/g0&gt;: This closes the &lt;g1&gt;Align&lt;/g1&gt; dialog.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205647Z" creationid="Marc Riera" creationdate="20221214T205647Z">
@@ -4018,6 +4026,22 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T152521Z" creationid="Marc Riera" creationdate="20220611T152521Z">
         <seg>&lt;g0&gt;Tanca:&lt;/g0&gt; tanca la finestra sense aplicar cap canvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Create Current Translated File&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;D&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193526Z" creationid="Marc Riera" creationdate="20221230T193526Z">
+        <seg>&lt;g0&gt;Crea el fitxer traduït actual&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;D&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Create Translated Files&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;D&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193513Z" creationid="Marc Riera" creationdate="20221230T193513Z">
+        <seg>&lt;g0&gt;Crea els fitxers traduïts&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;D&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4070,10 +4094,26 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;New...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193159Z" creationid="Marc Riera" creationdate="20221230T193159Z">
+        <seg>&lt;g0&gt;Crea...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Normal&lt;/g0&gt;: The default statistical distribution used to align the documents.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T204948Z" creationid="Marc Riera" creationdate="20221214T204910Z">
         <seg>&lt;g0&gt;Normal&lt;/g0&gt;: distribució estadística per defecte utilitzada per a alinear els fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Open...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;O&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193210Z" creationid="Marc Riera" creationdate="20221230T193210Z">
+        <seg>&lt;g0&gt;Obre...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;O&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4094,6 +4134,30 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Properties...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;E&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193537Z" creationid="Marc Riera" creationdate="20221230T193537Z">
+        <seg>&lt;g0&gt;Propietats...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;E&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Quit&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;Q&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193647Z" creationid="Marc Riera" creationdate="20221230T193647Z">
+        <seg>&lt;g0&gt;Surt&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;Q&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Reload&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;F5&lt;/k2&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193226Z" creationid="Marc Riera" creationdate="20221230T193226Z">
+        <seg>&lt;g0&gt;Torna a carregar&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;F5&lt;/k2&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Replace All&lt;/g0&gt;: operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T152308Z" creationid="Marc Riera" creationdate="20220611T152308Z">
@@ -4106,6 +4170,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T152422Z" creationid="Marc Riera" creationdate="20220611T152422Z">
         <seg>&lt;g0&gt;Substitueix:&lt;/g0&gt; aplica una substitució «d'un en un», mitjançant botons en la capçalera de l'editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Save&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193313Z" creationid="Marc Riera" creationdate="20221230T193313Z">
+        <seg>&lt;g0&gt;Desa&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4170,6 +4242,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220846Z" creationid="Marc Riera" creationdate="20221208T220846Z">
         <seg>&lt;g0&gt;Selecciona la coincidència anterior&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;k3&gt;↑&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Source Files...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;L&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193548Z" creationid="Marc Riera" creationdate="20221230T193548Z">
+        <seg>&lt;g0&gt;Fitxers d'origen...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;L&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27704,6 +27784,22 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the file in its associated application, if it exists.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193629Z" creationid="Marc Riera" creationdate="20221230T193629Z">
+        <seg>Obre el fitxer amb l'aplicació associada si existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the file in its associated application.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193604Z" creationid="Marc Riera" creationdate="20221230T193604Z">
+        <seg>Obre el fitxer amb l'aplicació associada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the file in its associated applicationif it exists.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T181646Z" creationid="Marc Riera" creationdate="20221210T181646Z">
@@ -31995,6 +32091,22 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Saves the project translation memory (&lt;l0/&gt;) and closes the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193304Z" creationid="Marc Riera" creationdate="20221230T193304Z">
+        <seg>Desa la memòria de traducció del projecte (&lt;l0/&gt;) i tanca el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the project translation memory (&lt;l0/&gt;).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193323Z" creationid="Marc Riera" creationdate="20221230T193323Z">
+        <seg>Desa la memòria de traducció del projecte (&lt;l0/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Saves the project translation memory and closes the project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T171611Z" creationid="Marc Riera" creationdate="20221210T171611Z">
@@ -32864,6 +32976,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; chapter for more details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193554Z" creationid="Marc Riera" creationdate="20221230T193554Z">
+        <seg>Consulteu el capítol &lt;l0/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; how-to for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120632Z" creationid="Marc Riera" creationdate="20221218T120632Z">
@@ -32980,6 +33100,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174841Z" creationid="Marc Riera" creationdate="20221218T174841Z">
         <seg>Consulteu el capítol &lt;l1/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; how-to for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193336Z" creationid="Marc Riera" creationdate="20221230T193336Z">
+        <seg>Consulteu la guia &lt;l1/&gt; per a conèixer més detalls.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43611,6 +43739,14 @@ Versió nova: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uploads locally added or modified files from the &lt;f0&gt;source&lt;/f0&gt; folder to the team project repository.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193344Z" creationid="Marc Riera" creationdate="20221230T193344Z">
+        <seg>Puja els fitxers afegits o modificats localment de la carpeta &lt;f0&gt;source&lt;/f0&gt; al dipòsit del projecte en equip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uploads locally added or modified files in the &lt;f0&gt;source&lt;/f0&gt; folder to the team project repository.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T172904Z" creationid="Marc Riera" creationdate="20221210T172904Z">
@@ -45368,6 +45504,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T135237Z" creationid="Marc Riera" creationdate="20221211T135237Z">
         <seg>Quan s'instal·la, el connector ofereix accés directe als formats afegits i també permet associar un fitxer de paràmetres del filtre personalitzat que heu creat amb el Rainbow.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When reloading a team project, OmegaT reloads the remote properties, not the local properties.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193241Z" creationid="Marc Riera" creationdate="20221230T193241Z">
+        <seg>Quan es torna a carregar un projecte en equip, l'OmegaT torna a carregar les propietats remotes, no les propietats locals.</seg>
       </tuv>
     </tu>
     <tu>
