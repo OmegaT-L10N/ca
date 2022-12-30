@@ -4078,6 +4078,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Export Selection&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234635Z" creationid="Marc Riera" creationdate="20221230T234635Z">
+        <seg>&lt;g0&gt;Exporta la selecció&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Forward-Backward&lt;/g0&gt;: An alternative algorithm that can be used to align the documents.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T204952Z" creationid="Marc Riera" creationdate="20221214T204805Z">
@@ -4098,6 +4106,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T204728Z" creationid="Marc Riera" creationdate="20221214T204728Z">
         <seg>&lt;g0&gt;ID&lt;/g0&gt;: aquest mode s'aplica als fitxers formats per entrades de &lt;l1&gt;clau = valor&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Insert Match or Selection&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;I&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234845Z" creationid="Marc Riera" creationdate="20221230T234845Z">
+        <seg>&lt;g0&gt;Insereix la coincidència o la selecció&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;I&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4174,6 +4190,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Redo Last Action&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;Y&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234455Z" creationid="Marc Riera" creationdate="20221230T234455Z">
+        <seg>&lt;g0&gt;Refés la darrera acció&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;Y&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Reload&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;F5&lt;/k2&gt;&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193226Z" creationid="Marc Riera" creationdate="20221230T193226Z">
@@ -4186,6 +4210,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T152308Z" creationid="Marc Riera" creationdate="20220611T152308Z">
         <seg>&lt;g0&gt;Substitueix-ho tot&lt;/g0&gt;: substitueix tots els resultats (després de mostrar una finestra de confirmació que indica el nombre de resultats).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Replace With Match or Selection&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;R&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234526Z" creationid="Marc Riera" creationdate="20221230T234526Z">
+        <seg>&lt;g0&gt;Substitueix per la coincidència o la selecció&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;R&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18227,6 +18259,14 @@ no cal introduir el camí complet.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a part of the target segment has been selected, that part will be overwriten.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234559Z" creationid="Marc Riera" creationdate="20221230T234559Z">
+        <seg>Si s'ha seleccionat una part del segment de destinació, se sobreescriu la part seleccionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T202624Z" creationid="Marc Riera" creationdate="20220621T202624Z">
@@ -20319,6 +20359,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161924Z" creationid="Marc Riera" creationdate="20220625T161924Z">
         <seg>Insereix la coincidència parcial seleccionada en la posició del cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the currently selected fuzzy match or the text selected in the &lt;l0/&gt; pane at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234915Z" creationid="Marc Riera" creationdate="20221230T234915Z">
+        <seg>Insereix la coincidència parcial seleccionada o el text seleccionat en la subfinestra &lt;l0/&gt; en la posició del cursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27204,6 +27252,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once the segment is left, the modification history is lost.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234442Z" creationid="Marc Riera" creationdate="20221230T234442Z">
+        <seg>En sortir del segment, es perd l'historial de modificacions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once the translated files have been created, you can open them in their original application to check their contents and eventually further modify them.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214926Z" creationid="Marc Riera" creationdate="20221213T214926Z">
@@ -30297,6 +30353,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Reapplies the modifications that were cancelled while the segment is current.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234510Z" creationid="Marc Riera" creationdate="20221230T234510Z">
+        <seg>Torna a aplicar les modificacions cancel·lades amb el segment actiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Recursi&amp;ve search</seg>
@@ -31227,6 +31291,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T213209Z" creationid="Marc Riera" creationdate="20221208T213209Z">
         <seg>Substitueix tot el segment de destinació pel segment d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replaces the target segment with the currently selected fuzzy match (by default the first match is selected) or with the text selected in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234834Z" creationid="Marc Riera" creationdate="20221230T234834Z">
+        <seg>Substitueix el segment de destinació per la coincidència parcial seleccionada (per defecte, se selecciona la primera coincidència) o pel text seleccionat en la subfinestra &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33152,6 +33224,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; pane description for details..</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234542Z" creationid="Marc Riera" creationdate="20221230T234542Z">
+        <seg>Consulteu la descripció de la subfinestra &lt;l0/&gt; per conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; pane for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212357Z" creationid="Marc Riera" creationdate="20221225T212357Z">
@@ -33308,6 +33388,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T213245Z" creationid="Marc Riera" creationdate="20221225T213239Z">
         <seg>Consulteu la preferència &lt;l2/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l2/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234621Z" creationid="Marc Riera" creationdate="20221230T234621Z">
+        <seg>Consulteu les preferències de &lt;l2/&gt; per a conèixer més detalls.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34137,6 +34225,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220830Z" creationid="Marc Riera" creationdate="20221208T220830Z">
         <seg>Selecciona la coincidència parcial anterior, següent o núm. &lt;v0&gt;n&lt;/v0&gt; de la subfinestra «Coincidències parcials» per a substituir o inserir-la en el segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selects the source text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234606Z" creationid="Marc Riera" creationdate="20221230T234606Z">
+        <seg>Selecciona el text d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39414,6 +39510,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T111238Z" creationid="Marc Riera" creationdate="20221215T111238Z">
         <seg>Els atributs seleccionats apareixeran com a segments traduïbles en la subfinestra &lt;g0&gt;Editor&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selected text has priority over the selected match.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234529Z" creationid="Marc Riera" creationdate="20221230T234529Z">
+        <seg>El text seleccionat té prioritat sobre la coincidència seleccionada.</seg>
       </tuv>
     </tu>
     <tu>
