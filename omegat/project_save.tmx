@@ -5569,6 +5569,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Add reminders in the &lt;l0/&gt; pane for problematic segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T191101Z" creationid="Marc Riera" creationdate="20221230T191101Z">
+        <seg>Afegiu recordatoris a la subfinestra &lt;l0/&gt; per als segments problemàtics.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Add terms to a glossary whilst translating in OmegaT</seg>
@@ -36931,6 +36939,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; function lets you search the entire project for terms, sentence fragments and so on, using exact, keyword, or regular expression searches.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T191419Z" creationid="Marc Riera" creationdate="20221230T191419Z">
+        <seg>La funció &lt;l0/&gt; us permet cercar termes, fragments de frases i més en tot el projecte, mitjançant cerques exactes, per paraules clau o amb expressions regulars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; gives easy access to some frequently used functions.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T184115Z" creationid="Marc Riera" creationdate="20221213T184115Z">
@@ -41449,6 +41465,14 @@ tots els paràmetres als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To display paragraph delimitations and see which paragraph each segment is part of, use &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T191004Z" creationid="Marc Riera" creationdate="20221230T191004Z">
+        <seg>Per a mostrar els límits dels paràgrafs i veure de quin paràgraf forma part cada segment, utilitzeu &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To display paragraph marks and see which paragraph each segment is part of, use &lt;l0/&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222346Z" creationid="Marc Riera" creationdate="20221211T222346Z">
@@ -43798,6 +43822,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; and the &lt;l2/&gt; preferences to manage glossary matches.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T191257Z" creationid="Marc Riera" creationdate="20221230T191257Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; i les preferències de &lt;l2/&gt; per a gestionar les coincidències del glossari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; if you don’t remember where your project is.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221532Z" creationid="Marc Riera" creationdate="20221218T221532Z">
@@ -43858,6 +43890,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120345Z" creationid="Marc Riera" creationdate="20221218T120345Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a accedir a aquesta eina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to add terms to your glossary.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T191234Z" creationid="Marc Riera" creationdate="20221230T191234Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a afegir termes al glossari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43926,6 +43966,22 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to enter the Notes pane and add your remark,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T191137Z" creationid="Marc Riera" creationdate="20221230T191137Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a accedir a la subfinestra Notes i afegiu o modifiqueu un comentari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to filter segments based on criteria that you set, and review only those.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T191227Z" creationid="Marc Riera" creationdate="20221230T191227Z">
+        <seg>Useu &lt;l0/&gt;&lt;l1/&gt; per a filtrar els segments segons uns criteris que hàgiu establert i reviseu només aquests segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to find any untranslated segments (and eventually translate them),</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221227T104224Z" creationid="Marc Riera" creationdate="20221227T104224Z">
@@ -43962,6 +44018,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120717Z" creationid="Marc Riera" creationdate="20221225T120717Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a recrear els fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to return to the Editor pane and resume your translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T191150Z" creationid="Marc Riera" creationdate="20221230T191150Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a tornar a la subfinestra Editor i repreneu la traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45206,6 +45270,22 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you enter a segment containing terms that match entries in your glossaries, those terms and their translations will be displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T191341Z" creationid="Marc Riera" creationdate="20221230T191319Z">
+        <seg>Quan accediu a un segment amb termes que coincideixen amb les entrades dels glossaris, els termes i les traduccions corresponents es mostraran en la subfinestra &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you enter a segment that matches part of the content of the project translation memories, OmegaT displays the matches in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T191336Z" creationid="Marc Riera" creationdate="20221230T191336Z">
+        <seg>Quan accediu a un segment que coincideix amb part del contingut de les memòries de traducció del projecte, l'OmegaT mostra les coincidències en la subfinestra &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you enter a segment that matches some of the content of the project translation memories, OmegaT displays the matches in the &lt;l0/&gt; pane.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T223048Z" creationid="Marc Riera" creationdate="20221211T223048Z">
@@ -46284,6 +46364,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
         <seg>També podeu arrossegar manualment el fitxer «OmegaT.exe»
 al menú d'inici, a l'escriptori o a l'àrea d'accés ràpid per a enllaçar-lo des
 d'allà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also narrow the scope of the search based on information such as author or date.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T191444Z" creationid="Marc Riera" creationdate="20221230T191444Z">
+        <seg>També podeu restringir l'àmbit de la cerca segons informació com l'autor o la data.</seg>
       </tuv>
     </tu>
     <tu>
