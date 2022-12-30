@@ -33256,6 +33256,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the file filter &lt;l0&gt;options&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T230136Z" creationid="Marc Riera" creationdate="20221230T230136Z">
+        <seg>Consulteu les &lt;l0&gt;opcions&lt;/l0&gt; del filtre de fitxers per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the user guide for instructions.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215215Z" creationid="Marc Riera" creationdate="20221124T215215Z">
@@ -36534,6 +36542,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tags: OmegaT tags are never counted in the statistics but in some cases can split terms and create discrepancies in the way OmegaT counts them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232348Z" creationid="Marc Riera" creationdate="20221230T232348Z">
+        <seg>Etiquetes: les etiquetes de l'OmegaT no es compten mai en les estadístiques, però en alguns casos poden dividir termes i crear discrepàncies en la manera de comptar-les en l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tags: OmegaT tags are never counted in the statistics but in some cases can split terms and create discrepencies in the way OmegaT counts them.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T221131Z" creationid="Marc Riera" creationdate="20221207T221117Z">
@@ -38027,6 +38043,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T220211Z" creationid="Marc Riera" creationdate="20221207T220211Z">
         <seg>Les dades també es desen en un fitxer de text en la carpeta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The data is saved in the &lt;l0/&gt; file located in the &lt;l1/&gt; folder of the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T230111Z" creationid="Marc Riera" creationdate="20221230T230111Z">
+        <seg>Les dades es desen en el fitxer &lt;l0/&gt; de la carpeta &lt;l1/&gt; del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41700,6 +41724,14 @@ tots els paràmetres als valors per defecte.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>To block translated files creation if tag issues are found, enable the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T230057Z" creationid="Marc Riera" creationdate="20221230T230057Z">
+        <seg>Per a impedir la creació dels fitxers traduïts si es detecten errors d'etiquetes, habiliteu la preferència &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
@@ -41863,6 +41895,14 @@ tots els paràmetres als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T194154Z" creationid="Alexandra" creationdate="20150526T123729Z">
         <seg>Per a trobar la versió més adequada per a vós, seguiu l'enllaç següent al selector de baixades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To force issue checking each time you leave a segment, enable the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T230059Z" creationid="Marc Riera" creationdate="20221230T230041Z">
+        <seg>Per a forçar la comprovació d'errors cada vegada que sortiu d'un segment, habiliteu la preferència &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
