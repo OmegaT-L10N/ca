@@ -3926,6 +3926,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;In this manual:&lt;/e0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193146Z" creationid="Marc Riera" creationdate="20221230T193146Z">
+        <seg>&lt;e0&gt;Aquest manual:&lt;/e0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T160030Z" creationid="Marc Riera" creationdate="20220611T160030Z">
@@ -14751,6 +14759,14 @@ els fils de teranyina t'aparten.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Extension of source file without a dot</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192736Z" creationid="Marc Riera" creationdate="20221230T192736Z">
+        <seg>Extensió del fitxer d'origen sense punt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External GPG did not return a valid signature; got: {0}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T161954Z" creationid="Marc Riera" creationdate="20220506T161949Z">
@@ -16177,58 +16193,74 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full name of source file</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192723Z" creationid="Marc Riera" creationdate="20221230T192723Z">
+        <seg>Nom complet del fitxer d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full path to source file</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192649Z" creationid="Marc Riera" creationdate="20221230T192644Z">
+        <seg>Camí complet al fitxer d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full path to the TM auto folder</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192620Z" creationid="Marc Riera" creationdate="20221230T192620Z">
-        <seg>Camí complet a la carpeta de memòries de traducció «auto».</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192655Z" creationid="Marc Riera" creationdate="20221230T192620Z">
+        <seg>Camí complet a la carpeta de memòries de traducció «auto»</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Full path to the TM root folder</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192607Z" creationid="Marc Riera" creationdate="20221230T192607Z">
-        <seg>Camí complet a la carpeta arrel de memòries de traducció.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192657Z" creationid="Marc Riera" creationdate="20221230T192607Z">
+        <seg>Camí complet a la carpeta arrel de memòries de traducció</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Full path to the dictionary folder</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192628Z" creationid="Marc Riera" creationdate="20221230T192628Z">
-        <seg>Camí complet a la carpeta de diccionaris.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192653Z" creationid="Marc Riera" creationdate="20221230T192628Z">
+        <seg>Camí complet a la carpeta de diccionaris</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Full path to the glossary folder</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192557Z" creationid="Marc Riera" creationdate="20221230T192557Z">
-        <seg>Camí complet a la carpeta de glossaris.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192659Z" creationid="Marc Riera" creationdate="20221230T192557Z">
+        <seg>Camí complet a la carpeta de glossaris</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Full path to the project folder</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192533Z" creationid="Marc Riera" creationdate="20221230T192533Z">
-        <seg>Camí complet a la carpeta del projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192705Z" creationid="Marc Riera" creationdate="20221230T192533Z">
+        <seg>Camí complet a la carpeta del projecte</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Full path to the source folder</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192545Z" creationid="Marc Riera" creationdate="20221230T192545Z">
-        <seg>Camí complet a la carpeta de fitxers d'origen.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192703Z" creationid="Marc Riera" creationdate="20221230T192545Z">
+        <seg>Camí complet a la carpeta de fitxers d'origen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Full path to the target folder</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192553Z" creationid="Marc Riera" creationdate="20221230T192553Z">
-        <seg>Camí complet a la carpeta de fitxers de destinació.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192701Z" creationid="Marc Riera" creationdate="20221230T192553Z">
+        <seg>Camí complet a la carpeta de fitxers de destinació</seg>
       </tuv>
     </tu>
     <tu>
@@ -19365,6 +19397,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124533Z" creationid="Marc Riera" creationdate="20221211T143806Z">
         <seg>En un projecte en equip, els paràmetres de configuració bàsics del projecte local sempre se substitueixen per la configuració del servidor definida per l'administrador del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition to a regular command, you can call a script.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192750Z" creationid="Marc Riera" creationdate="20221230T192750Z">
+        <seg>A més d'una ordre normal, es pot executar un script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24285,6 +24325,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Name of source file without extension</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192729Z" creationid="Marc Riera" creationdate="20221230T192729Z">
+        <seg>Nom del fitxer d'origen sense extensió</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Name:</seg>
@@ -24309,6 +24357,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T105134Z" creationid="mgalo" creationdate="20181112T101359Z">
         <seg>Traducció automàtica neuronal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Never run post-processing scripts from untrusted sources.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192758Z" creationid="Marc Riera" creationdate="20221230T192758Z">
+        <seg>No executeu mai scripts de postprocessament de fonts no fiables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34280,6 +34336,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simple example of a post-processing commands:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192912Z" creationid="Marc Riera" creationdate="20221230T192912Z">
+        <seg>Exemple senzill d'ordres de postprocessament:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simple expressions</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113406Z" creationid="Marc Riera" creationdate="20221129T113406Z">
@@ -34989,6 +35053,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source file name relative to given root</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192721Z" creationid="Marc Riera" creationdate="20221230T192721Z">
+        <seg>Nom del fitxer d'origen relatiu a la carpeta arrel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source filename pattern</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192928Z" creationid="Marc Riera" creationdate="20221124T192928Z">
@@ -35084,6 +35156,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215017Z" creationid="mgalo" creationdate="20181115T225744Z">
         <seg>La carpeta de fitxers d'origen {0} no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source language</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192637Z" creationid="Marc Riera" creationdate="20221230T192637Z">
+        <seg>Llengua d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -36392,6 +36472,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215147Z" creationid="mgalo" creationdate="20181115T225753Z">
         <seg>La carpeta de fitxers de destinació {0} no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target language</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192640Z" creationid="Marc Riera" creationdate="20221230T192640Z">
+        <seg>Llengua de destinació</seg>
       </tuv>
     </tu>
     <tu>
@@ -38540,8 +38628,8 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       <tuv lang="en">
         <seg>The name of the project directory</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192529Z" creationid="Marc Riera" creationdate="20221230T192529Z">
-        <seg>Nom de la carpeta del projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192708Z" creationid="Marc Riera" creationdate="20221230T192529Z">
+        <seg>Nom de la carpeta del projecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -40920,6 +41008,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104610Z" creationid="Marc Riera" creationdate="20221224T104610Z">
         <seg>Aquest menú us dona accés a informació que us ajudarà a treure el màxim profit de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This menu gives you access to project management commands.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193130Z" creationid="Marc Riera" creationdate="20221230T193130Z">
+        <seg>Aquest menú us permet accedir a les ordres de gestió del projecte.</seg>
       </tuv>
     </tu>
     <tu>
