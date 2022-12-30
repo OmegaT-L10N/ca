@@ -7327,6 +7327,14 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232713Z" creationid="Marc Riera" creationdate="20221230T232713Z">
+        <seg>Segments propagats automàticament</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Auto-completion</seg>
@@ -7753,6 +7761,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T170607Z" creationid="Alexandra" creationdate="20150526T132305Z">
         <seg>A continuació trobareu una llista dels àmbits en què els voluntaris serien més que benvinguts!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>BiDi Control Characters</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232703Z" creationid="Marc Riera" creationdate="20221230T232703Z">
+        <seg>Caràcters de control bidireccional</seg>
       </tuv>
     </tu>
     <tu>
@@ -12569,6 +12585,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T114405Z" creationid="Marc Riera" creationdate="20221129T114405Z">
         <seg>Mostra la llista de noves funcionalitats, millores i correccions d'errors per a cada versió nova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the time and the author of the last change made to a segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T233157Z" creationid="Marc Riera" creationdate="20221230T233157Z">
+        <seg>Mostra l'hora i l'autoria de la darrera modificació d'un segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18216,6 +18240,14 @@ als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, all the source segments will be shown and marked in green.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232610Z" creationid="Marc Riera" creationdate="20221230T232610Z">
+        <seg>Si es marca, tots els segments d'origen es mostren i es marquen en color verd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, non-breakable spaces will be displayed with a gray background.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T124250Z" creationid="Marc Riera" creationdate="20221209T124250Z">
@@ -18236,6 +18268,14 @@ als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T124323Z" creationid="Marc Riera" creationdate="20221209T124323Z">
         <seg>Si es marca, els segments propagats automàticament (a partir de fitxers TMX de la carpeta &lt;l0/&gt;, per exemple) es marquen amb diversos colors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, segments that have been auto-populated are marked in various colors.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232746Z" creationid="Marc Riera" creationdate="20221230T232746Z">
+        <seg>Si es marca, els segments propagats automàticament es marquen amb diversos colors.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18419,6 +18459,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220503Z" creationid="Marc Riera" creationdate="20221208T220503Z">
         <seg>Si no s'ha seleccionat cap text, l'OmegaT selecciona la paraula que comença pel caràcter immediatament a la dreta del cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If not checked, only the current source segments will be shown.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232652Z" creationid="Marc Riera" creationdate="20221230T232631Z">
+        <seg>Si no es marca, només es mostren els segments d'origen actuals.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19017,6 +19065,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221707Z" creationid="Marc Riera" creationdate="20221208T221707Z">
         <seg>Si heu definit cerques externes en l'apartat &lt;l0/&gt;, aquí se n'indiquen els noms i hi podeu accedir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have defined external searches in the &lt;l0/&gt; preferences, their names are listed and accessible here.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232437Z" creationid="Marc Riera" creationdate="20221230T232437Z">
+        <seg>Si heu definit cerques externes en les preferències de &lt;l0/&gt;, aquí se n'indiquen els noms i hi podeu accedir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24973,6 +25029,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232659Z" creationid="Marc Riera" creationdate="20221230T232659Z">
+        <seg>Espais no separables</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Non-GUI mode options:
@@ -24983,6 +25047,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
         <seg>Opcions del mode sense GUI:
 	--quiet
 		Redueix els resultats en la sortida estàndard de la línia d'ordres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-Unique Segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232641Z" creationid="Marc Riera" creationdate="20221230T232641Z">
+        <seg>Segments no únics</seg>
       </tuv>
     </tu>
     <tu>
@@ -27743,6 +27815,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0/&gt; window, which allows you to set the location where scripts are stored, as well as write and run scripts, and assign them a shortcut.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232422Z" creationid="Marc Riera" creationdate="20221230T232422Z">
+        <seg>Obre la finestra &lt;l0/&gt;, que us permet definir la ubicació on s'emmagatzemen els scripts, escriure i executar scripts i assignar-los una drecera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0/&gt; window, which allows you to set the location where scripts are stored, as well was write and run scripts, and assign them a shortcut.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221545Z" creationid="Marc Riera" creationdate="20221208T221545Z">
@@ -28274,6 +28354,14 @@ s'esvaeix com la boira.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232515Z" creationid="Marc Riera" creationdate="20221230T232515Z">
+        <seg>Límits dels paràgrafs</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Paragraph delimitation</seg>
@@ -28295,8 +28383,8 @@ s'esvaeix com la boira.</seg>
       <tuv lang="en">
         <seg>Paragraph delimitations are defined in the &lt;l2/&gt; preference.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233627Z" creationid="Marc Riera" creationdate="20221226T233627Z">
-        <seg>Les delimitacions de paràgraf es defineixen en la preferència &lt;l2/&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232531Z" creationid="Marc Riera" creationdate="20221226T233627Z">
+        <seg>Els límits dels paràgrafs es defineixen en la preferència &lt;l2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33056,6 +33144,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; preference in the &lt;l1/&gt; dialog for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232409Z" creationid="Marc Riera" creationdate="20221230T232409Z">
+        <seg>Consulteu la preferència &lt;l0/&gt; del quadre de diàleg &lt;l1/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; preferences for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T160800Z" creationid="Marc Riera" creationdate="20221218T160754Z">
@@ -33473,6 +33569,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T094811Z" creationid="Marc Riera" creationdate="20221225T094811Z">
         <seg>Els segments traduïts se substituiran per la traducció i els segments sense traduir romandran en la llengua d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segments with Notes</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232656Z" creationid="Marc Riera" creationdate="20221230T232656Z">
+        <seg>Segments amb notes</seg>
       </tuv>
     </tu>
     <tu>
@@ -35141,6 +35245,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T174212Z" creationid="Marc Riera" creationdate="20221210T174212Z">
         <seg>Fitxers d'origen... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232602Z" creationid="Marc Riera" creationdate="20221230T232602Z">
+        <seg>Segments d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -41164,6 +41276,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This menu allows you to select the information you want to OmegaT to display.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232506Z" creationid="Marc Riera" creationdate="20221230T232506Z">
+        <seg>Aquest menú us permet seleccionar la informació que voleu que mostri l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This menu displays entries only when a project is open.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161729Z" creationid="Marc Riera" creationdate="20220625T161729Z">
@@ -41224,6 +41344,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T181406Z" creationid="Marc Riera" creationdate="20221215T181406Z">
         <seg>Aquesta opció converteix diversos caràcters d'espai en blanc seguit en un sol espai en el fitxer traduït.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option displays &lt;u0&gt;Unicode Bidirectional Algorithm&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232726Z" creationid="Marc Riera" creationdate="20221230T232726Z">
+        <seg>Aquesta opció mostra l'&lt;u0&gt;algorisme de control bidireccional&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42559,6 +42687,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Translated Segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232442Z" creationid="Marc Riera" creationdate="20221230T232442Z">
+        <seg>Segments traduïts</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translated document created</seg>
@@ -43707,6 +43843,14 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104800Z" creationid="Marc Riera" creationdate="20221224T104800Z">
         <seg>Sense traduir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232447Z" creationid="Marc Riera" creationdate="20221230T232447Z">
+        <seg>Segments sense traduir</seg>
       </tuv>
     </tu>
     <tu>
@@ -46860,6 +47004,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T164447Z" creationid="Marc Riera" creationdate="20220611T164447Z">
         <seg>Podeu canviar les dreceres ja assignades i afegir dreceres noves desant un fitxer de definició de drecera a carpeta de preferències de l'OmegaT (accessible des del menú &lt;m0&gt; &lt;g1&gt;Opcions&lt;/g1&gt; &lt;g2&gt;Accedeix a la carpeta de configuració&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the paragraph delimitation string in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232558Z" creationid="Marc Riera" creationdate="20221230T232558Z">
+        <seg>Podeu canviar la cadena de límit dels paràgrafs amb la preferència &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
