@@ -3942,6 +3942,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;In this manual:&lt;/e0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;Z&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234246Z" creationid="Marc Riera" creationdate="20221230T234246Z">
+        <seg>&lt;e0&gt;Aquest manual:&lt;/e0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;Z&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T160030Z" creationid="Marc Riera" creationdate="20220611T160030Z">
@@ -4322,6 +4330,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T205852Z" creationid="Marc Riera" creationdate="20220621T205852Z">
         <seg>&lt;g0&gt;Traduït&lt;/g0&gt;: cerca només en els segments traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Undo Last Action&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;Z&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234345Z" creationid="Marc Riera" creationdate="20221230T234345Z">
+        <seg>&lt;g0&gt;Desfés la darrera acció&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;Z&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8445,6 +8461,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T145636Z" creationid="mgalo" creationdate="20181112T102836Z">
         <seg>S'ha cancel·lat la creació del nou projecte en equip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cancels the modifications made to the segment while the segment is current.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234428Z" creationid="Marc Riera" creationdate="20221230T234428Z">
+        <seg>Cancel·la les modificacions aplicades amb el segment actiu.</seg>
       </tuv>
     </tu>
     <tu>
