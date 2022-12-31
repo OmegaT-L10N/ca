@@ -95,6 +95,28 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg># OmegaT.exe runtime configuration
+	# To use a parameter, remove the '#' before the '-'
+	# Memory
+	-Xmx1024M
+	# Language
+	-Duser.language=FR
+	# Country
+	-Duser.country=CA</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092737Z" creationid="Marc Riera" creationdate="20221231T092737Z">
+        <seg># OmegaT.exe runtime configuration
+	# To use a parameter, remove the '#' before the '-'
+	# Memory
+	-Xmx1024M
+	# Language
+	-Duser.language=FR
+	# Country
+	-Duser.country=CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg># editMultipleAlternate=</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T083214Z" creationid="Marc Riera" creationdate="20221205T083214Z">
@@ -5177,6 +5199,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A character preceded by the letter “q”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092423Z" creationid="Marc Riera" creationdate="20221231T092423Z">
+        <seg>Un caràcter precedit per la lletra «q».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A comment line starts with a &lt;c0&gt;#&lt;/c0&gt;, and everything after that is ignored by the application.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120917Z" creationid="Marc Riera" creationdate="20221218T120917Z">
@@ -5207,6 +5237,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T191504Z" creationid="Alexandra" creationdate="20150526T134139Z">
         <seg>Hi ha disponible un tutorial detallat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A few additional resources are presented below.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092554Z" creationid="Marc Riera" creationdate="20221231T092554Z">
+        <seg>A continuació es presenten alguns recursos addicionals.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9575,6 +9613,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200726T103043Z" creationid="Marc Riera" creationdate="20200726T103043Z">
         <seg>Classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Classes</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092322Z" creationid="Marc Riera" creationdate="20221231T092322Z">
+        <seg>Classes</seg>
       </tuv>
     </tu>
     <tu>
@@ -14861,6 +14907,14 @@ ningú no sent els vostres crits.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Examples of classes</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092327Z" creationid="Marc Riera" creationdate="20221231T092327Z">
+        <seg>Exemples de classes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Examples of regular expressions that use the above expressions</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113641Z" creationid="Marc Riera" creationdate="20221129T113641Z">
@@ -15171,6 +15225,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113410Z" creationid="Marc Riera" creationdate="20221129T113410Z">
         <seg>Expressió</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expressions that mark a position</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092400Z" creationid="Marc Riera" creationdate="20221231T092400Z">
+        <seg>Expressions que marquen una posició</seg>
       </tuv>
     </tu>
     <tu>
@@ -15970,6 +16032,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181111T231843Z" creationid="mgalo" creationdate="20181111T231843Z">
         <seg>Filtres...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find an email address.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092539Z" creationid="Marc Riera" creationdate="20221231T092539Z">
+        <seg>Cerca una adreça electrònica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21422,6 +21492,14 @@ en la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It will also find patterns such as “5136/36/71”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092524Z" creationid="Marc Riera" creationdate="20221231T092524Z">
+        <seg>També trobarà patrons com «5136/36/71».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It will be created the first time you add an entry to the glossary.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T165822Z" creationid="Marc Riera" creationdate="20221201T165822Z">
@@ -23093,6 +23171,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Lots of expressions</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092252Z" creationid="Marc Riera" creationdate="20221231T092252Z">
+        <seg>Moltes expressions</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Lucene (Apache License 2.0)</seg>
@@ -23641,6 +23727,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221109T210003Z" creationid="Marc Riera" creationdate="20221109T210003Z">
         <seg>Contrasenya mestra:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092301Z" creationid="Marc Riera" creationdate="20221231T092301Z">
+        <seg>Coincidència</seg>
       </tuv>
     </tu>
     <tu>
@@ -38101,6 +38195,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The Java technical reference is useful as a canonical reference.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092559Z" creationid="Marc Riera" creationdate="20221231T092559Z">
+        <seg>La referència tècnica del Java és útil com a referència canònica.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The Latest version requires Java {{site.data.versions.latest.java_version}}.</seg>
@@ -39553,6 +39655,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The official reference for regular expressions used in Java.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092611Z" creationid="Marc Riera" creationdate="20221231T092611Z">
+        <seg>Referència oficial per a les expressions regulars utilitzades en el Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The open-source philosophy</seg>
@@ -39583,6 +39693,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T174313Z" creationid="Marc Riera" creationdate="20221210T174313Z">
         <seg>Les opcions es mostren en color gris si els fitxers no existeixen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The options for the program start-up will be read from the &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092711Z" creationid="Marc Riera" creationdate="20221231T092711Z">
+        <seg>Les opcions per a iniciar el programa es llegiran del fitxer &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, que resideix en la mateixa carpeta que el fitxer exe i que podeu editar per a reflectir la vostra configuració.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40079,6 +40197,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T180017Z" creationid="Marc Riera" creationdate="20221217T180017Z">
         <seg>En la taula següent es presenten les dreceres que es poden modificar en el fitxer &lt;f0&gt;EditorShortcuts.properties&lt;/f0&gt;, juntament amb els valors per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The simplest way to launch OmegaT is to execute the &lt;f0&gt;OmegaT.exe&lt;/f0&gt; program.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092642Z" creationid="Marc Riera" creationdate="20221231T092642Z">
+        <seg>La manera més senzilla d'iniciar l'OmegaT és executar el programa &lt;f0&gt;OmegaT.exe&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42148,6 +42274,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120847Z" creationid="Marc Riera" creationdate="20201003T223303Z">
         <seg>Aquest script està dissenyat per a executar-se en l'OmegaT 3.6 o posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This section presents a few examples demonstrating how the various expressions described above can be combined to perform powerful searches in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092500Z" creationid="Marc Riera" creationdate="20221231T092500Z">
+        <seg>Aquesta secció presenta alguns exemples que demostren com es poden combinar les diferents expressions descrites anteriorment per a fer cerques potents en l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51481,6 +51615,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113750Z" creationid="Marc Riera" creationdate="20221129T113750Z">
         <seg>https://www.regular-expressions.info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.regular-expressions.info/unicode.html</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092346Z" creationid="Marc Riera" creationdate="20221231T092346Z">
+        <seg>https://www.regular-expressions.info/unicode.html</seg>
       </tuv>
     </tu>
     <tu>
