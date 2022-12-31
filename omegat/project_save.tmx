@@ -4062,6 +4062,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Create Glossary Entry...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;G&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235738Z" creationid="Marc Riera" creationdate="20221230T235738Z">
+        <seg>&lt;g0&gt;Crea una entrada en el glossari...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;G&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Create Translated Files&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;D&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193513Z" creationid="Marc Riera" creationdate="20221230T193513Z">
@@ -4122,6 +4130,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235412Z" creationid="Marc Riera" creationdate="20221230T235412Z">
         <seg>&lt;g0&gt;Insereix les etiquetes del text d'origen que falten&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;T&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Insert Next Missing Tag&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;T&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235712Z" creationid="Marc Riera" creationdate="20221230T235712Z">
+        <seg>&lt;g0&gt;Insereix l'etiqueta que falta següent&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;T&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4254,6 +4270,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Replace...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;K&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T000110Z" creationid="Marc Riera" creationdate="20221231T000110Z">
+        <seg>&lt;g0&gt;Substitueix...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;K&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Replace:&lt;/g0&gt; operates a "one by one" replacement, by the mean of buttons in the header of the Editor pane.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T152422Z" creationid="Marc Riera" creationdate="20220611T152422Z">
@@ -4274,6 +4298,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T205750Z" creationid="Marc Riera" creationdate="20220621T205750Z">
         <seg>&lt;g0&gt;Cerca a &gt; Fitxers&lt;/g0&gt;: cerca en un únic fitxer o en una carpeta que contingui diversos fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Search...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;F&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235900Z" creationid="Marc Riera" creationdate="20221230T235900Z">
+        <seg>&lt;g0&gt;Cerca...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;F&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6449,6 +6481,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214826Z" creationid="Marc Riera" creationdate="20221208T214826Z">
         <seg>Permet a l'usuari crear una entrada en el fitxer &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allows the user to create an entry in the project writable glossary (&lt;l0/&gt;).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235755Z" creationid="Marc Riera" creationdate="20221230T235755Z">
+        <seg>Permet a l'usuari crear una entrada en el glossari modificable del projecte (&lt;l0/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20268,8 +20308,8 @@ feu doble clic en la drecera.</seg>
       <tuv lang="en">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20191112T214838Z" creationid="Marc Riera" creationdate="20180210T213714Z">
-        <seg>Insereix les e&amp;tiquetes que falten del text d'origen</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235508Z" creationid="Marc Riera" creationdate="20180210T213714Z">
+        <seg>Insereix les e&amp;tiquetes del text d'origen que falten</seg>
       </tuv>
     </tu>
     <tu>
@@ -20302,8 +20342,8 @@ feu doble clic en la drecera.</seg>
       <tuv lang="en">
         <seg>Insert Next Missing T&amp;ag</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175955Z" creationid="Marc Riera" creationdate="20221124T175955Z">
-        <seg>Insereix la següent etiquet&amp;a que falta</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235520Z" creationid="Marc Riera" creationdate="20221124T175955Z">
+        <seg>Insereix l'etiquet&amp;a que falta següent</seg>
       </tuv>
     </tu>
     <tu>
@@ -20311,8 +20351,8 @@ feu doble clic en la drecera.</seg>
       <tuv lang="en">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
-      <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161505Z" creationid="Packard Bell" creationdate="20150605T161505Z">
-        <seg>Insereix la següent etiqueta que falta</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235547Z" creationid="Packard Bell" creationdate="20150605T161505Z">
+        <seg>Insereix l'etiqueta que falta següent</seg>
       </tuv>
     </tu>
     <tu>
@@ -20421,8 +20461,8 @@ feu doble clic en la drecera.</seg>
       <tuv lang="en">
         <seg>Inserts the next missing tag at the cursor position.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214700Z" creationid="Marc Riera" creationdate="20221208T214700Z">
-        <seg>Insereix la següent etiqueta que falta en la posició del cursor.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235601Z" creationid="Marc Riera" creationdate="20221208T214700Z">
+        <seg>Insereix l'etiqueta que falta següent en la posició del cursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27891,6 +27931,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T171633Z" creationid="Marc Riera" creationdate="20221210T171633Z">
         <seg>Obre un quadre de diàleg on podeu enganxar l'URL de la pàgina del MediaWiki que voleu traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens a new &lt;l0/&gt; window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235913Z" creationid="Marc Riera" creationdate="20221230T235913Z">
+        <seg>Obre una finestra de &lt;l0/&gt; nova.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38552,6 +38600,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The exported contents are copied to the &lt;l0/&gt; file located in the &lt;l1&gt;configuration&lt;/l1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235725Z" creationid="Marc Riera" creationdate="20221230T235725Z">
+        <seg>Els continguts exportats es copien al fitxer &lt;l0/&gt; de la carpeta de &lt;l1&gt;configuració&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The exported contents are copied to the file &lt;f0&gt;selection.txt&lt;/f0&gt; located in the User's preference files folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T162702Z" creationid="Marc Riera" creationdate="20220625T162702Z">
@@ -38670,6 +38726,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165922Z" creationid="Stephanie" creationdate="20150722T181600Z">
         <seg>La primera és la drecera per a &lt;g0&gt;Obre un projecte&lt;/g0&gt; i la segona és per a &lt;g1&gt;Crea una entrada en el glossari&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The first is to call the dialog and then manually fill in the various fields.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235817Z" creationid="Marc Riera" creationdate="20221230T235807Z">
+        <seg>La primera és obrir el quadre de diàleg i emplenar manualment els diferents camps.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48027,6 +48091,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T100201Z" creationid="mgalo" creationdate="20181112T100201Z">
         <seg>[Parcial]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[Optional] Press &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235849Z" creationid="Marc Riera" creationdate="20221230T235849Z">
+        <seg>(Opcional) Premeu &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
