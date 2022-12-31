@@ -4230,6 +4230,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Register Identical Translation&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T000155Z" creationid="Marc Riera" creationdate="20221231T000155Z">
+        <seg>&lt;g0&gt;Registra una traducció idèntica&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Reload&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;F5&lt;/k2&gt;&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193226Z" creationid="Marc Riera" creationdate="20221230T193226Z">
@@ -18713,6 +18721,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the &lt;l0/&gt; preference is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T000122Z" creationid="Marc Riera" creationdate="20221231T000122Z">
+        <seg>Si la preferència &lt;l0/&gt; està inhabilitada, aquesta funció us permet seleccionar la paraula seleccionada en els diccionaris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the &lt;l0/&gt; preference is disabled, use this action a first time to fetch the translation and a second time to insert it.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235320Z" creationid="Marc Riera" creationdate="20221230T235320Z">
@@ -20479,6 +20495,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T213215Z" creationid="Marc Riera" creationdate="20221208T213215Z">
         <seg>Insereix el segment d'origen en la posició del cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the selected Unicode control character.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T000135Z" creationid="Marc Riera" creationdate="20221231T000135Z">
+        <seg>Insereix el caràcter de control d'Unicode seleccionat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41598,16 +41622,24 @@ des del servidor.</seg>
       <tuv lang="en">
         <seg>This menu gives you access to project management commands.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193130Z" creationid="Marc Riera" creationdate="20221230T193130Z">
-        <seg>Aquest menú us permet accedir a les ordres de gestió del projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T000407Z" creationid="Marc Riera" creationdate="20221230T193130Z">
+        <seg>Aquest menú us dona accés a les ordres de gestió del projecte.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This menu gives you access to segment edition commands.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234237Z" creationid="Marc Riera" creationdate="20221230T234237Z">
-        <seg>Aquest menú us permet accedir a les ordres d'edició de segments.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T000401Z" creationid="Marc Riera" creationdate="20221230T234237Z">
+        <seg>Aquest menú us dona accés a les ordres d'edició de segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This menu gives you access to the segment and panes navigation commands.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T000350Z" creationid="Marc Riera" creationdate="20221231T000304Z">
+        <seg>Aquest menú us dona accés a les ordres de navegació pels segments i subfinestres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45190,6 +45222,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221252Z" creationid="Marc Riera" creationdate="20221208T221252Z">
         <seg>Utilitzeu aquesta ordre per a registrar una traducció com a idèntica al text d'origen, encara que no s'hagi marcat &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this command to register a translation as identical to the source, even if the &lt;l0/&gt; preference is not enabled.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T000212Z" creationid="Marc Riera" creationdate="20221231T000212Z">
+        <seg>Utilitzeu aquesta ordre per a registrar una traducció com a idèntica al text d'origen, encara que no s'hagi habilitat la preferència &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
