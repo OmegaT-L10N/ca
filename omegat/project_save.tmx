@@ -104,14 +104,14 @@
 	# Country
 	-Duser.country=CA</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092737Z" creationid="Marc Riera" creationdate="20221231T092737Z">
-        <seg># OmegaT.exe runtime configuration
-	# To use a parameter, remove the '#' before the '-'
-	# Memory
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092907Z" creationid="Marc Riera" creationdate="20221231T092737Z">
+        <seg># Configuració d'execució del programa OmegaT.exe
+	# Per a utilitzar un paràmetre, elimineu el caràcter«#» abans de «-»
+	# Memòria
 	-Xmx1024M
-	# Language
+	# Llengua
 	-Duser.language=FR
-	# Country
+	# País
 	-Duser.country=CA</seg>
       </tuv>
     </tu>
@@ -2368,6 +2368,14 @@ Per a afegir fitxers al projecte, feu clic en el botó «Copia fitxers a la carp
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>(This can vary depending on your distribution.)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093006Z" creationid="Marc Riera" creationdate="20221231T093006Z">
+        <seg>(Això pot variar en funció de la distribució).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>(X)HTML Filter Options</seg>
@@ -3337,6 +3345,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Dsun.java2d.noddraw=false</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092911Z" creationid="Marc Riera" creationdate="20221231T092911Z">
+        <seg>-Dsun.java2d.noddraw=false</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-Duser.country=CC</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202017Z" creationid="Marc Riera" creationdate="20221210T202017Z">
@@ -3777,6 +3793,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T184451Z" creationid="mgalo" creationdate="20181112T102949Z">
         <seg>&lt;No hi ha cap suggeriment&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;OmegaT options&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093105Z" creationid="Marc Riera" creationdate="20221231T093105Z">
+        <seg>&lt;opcions de l'OmegaT&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4751,6 +4775,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;java parameters&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093047Z" creationid="Marc Riera" creationdate="20221231T093047Z">
+        <seg>&lt;paràmetres del Java&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;F&lt;/k3&gt;&lt;/k0&gt; reuses the most recent still open Search window (instead of opening a new one).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220120Z" creationid="Marc Riera" creationdate="20221208T220120Z">
@@ -4975,6 +5007,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T105814Z" creationid="Marc Riera" creationdate="20190521T105814Z">
         <seg>&lt;cap&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;-h&lt;/o0&gt;, &lt;o1&gt;--help&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093209Z" creationid="Marc Riera" creationdate="20221231T093209Z">
+        <seg>&lt;o0&gt;-h&lt;/o0&gt;, &lt;o1&gt;--help&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10307,6 +10347,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Configuration.properties</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092918Z" creationid="Marc Riera" creationdate="20221231T092918Z">
+        <seg>Configuration.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"Confirmeu" o "confirma"? La màquina parla a l'usuari, o l'usuari a la màquina?</note>
       <tuv lang="en">
         <seg>Confirm</seg>
@@ -10511,6 +10559,14 @@ una descripció de com s'ha produït aquest error.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T183628Z" creationid="Marc Riera" creationdate="20221217T183628Z">
         <seg>Consulteu la documentació del servidor o del servei d'allotjament per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consult the documentation for your system for more information.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092942Z" creationid="Marc Riera" creationdate="20221231T092942Z">
+        <seg>Consulteu la documentació del sistema per a conèixer més informació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12645,6 +12701,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T232516Z" creationid="Marc Riera" creationdate="20190520T120615Z">
         <seg>Inhabilita la regla «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093238Z" creationid="Marc Riera" creationdate="20221231T093238Z">
+        <seg>Inhabilita la funcionalitat de projecte en equip.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19096,6 +19160,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the language is not available, OmegaT defaults to English even if the system uses a different default language.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093132Z" creationid="Marc Riera" creationdate="20221231T093132Z">
+        <seg>Si la llengua no està disponible, per defecte l'OmegaT s'inicia en anglès encara que el sistema utilitzi una llengua per defecte diferent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the location matches both rules, it is considered either as a break, or as a non-break, depending of what the rule defined.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T173034Z" creationid="Marc Riera" creationdate="20221201T173034Z">
@@ -20445,6 +20517,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T221744Z" creationid="mgalo" creationdate="20181112T221744Z">
         <seg>Informació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Info.plist</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092920Z" creationid="Marc Riera" creationdate="20221231T092920Z">
+        <seg>Info.plist</seg>
       </tuv>
     </tu>
     <tu>
@@ -27005,6 +27085,14 @@ està a punt per a executar-se.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T122343Z" creationid="Marc Riera" creationdate="20201010T202239Z">
         <seg>OmegaT en la Viquipèdia &lt;s0&gt;25 llengües&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT options</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093205Z" creationid="Marc Riera" creationdate="20221231T093205Z">
+        <seg>Opcions de l'OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -35185,6 +35273,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151202Z" creationid="mgalo" creationdate="20181112T101953Z">
         <seg>Mostra la barra de substitució</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show usage information.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093219Z" creationid="Marc Riera" creationdate="20221231T093219Z">
+        <seg>Mostra informació sobre l'ús.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51797,6 +51893,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201930Z" creationid="Marc Riera" creationdate="20221210T201930Z">
         <seg>java -jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -jar &lt;java parameters&gt; path/to/OmegaT.jar &lt;OmegaT options&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093033Z" creationid="Marc Riera" creationdate="20221231T093033Z">
+        <seg>java -jar &lt;paràmetres del Java&gt; camí/a/OmegaT.jar &lt;opcions de l'OmegaT&gt;</seg>
       </tuv>
     </tu>
     <tu>
