@@ -2733,6 +2733,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>--ITokenizer=&lt;classname&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093314Z" creationid="Marc Riera" creationdate="20221231T093314Z">
+        <seg>--ITokenizer=&lt;nom de la classe&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>--ITokenizer=&lt;classname&gt;
@@ -2759,6 +2767,14 @@ per a editar-lo com a projecte en equip.)</seg>
 	--ITokenizerTarget=&lt;nom de la classe&gt;
 	  Lematitzador de la llengua d'origen o de destinació que s'utilitzarà
 	  (substitueix els paràmetres del projecte).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--ITokenizerTarget=&lt;classname&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093319Z" creationid="Marc Riera" creationdate="20221231T093319Z">
+        <seg>--ITokenizerTarget=&lt;nom de la classe&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6748,6 +6764,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Almost all parameters presented in this section can be used in a config file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093344Z" creationid="Marc Riera" creationdate="20221231T093344Z">
+        <seg>Gairebé tots els paràmetres presentats en aquesta secció es poden utilitzar en un fitxer de configuració.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alongside an existing version</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T205221Z" creationid="Marc Riera" creationdate="20221206T205221Z">
@@ -7191,6 +7215,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T091325Z" creationid="Marc Riera" creationdate="20221231T091325Z">
         <seg>Qualsevol caràcter que &lt;e0&gt;no&lt;/e0&gt; sigui «a», «b» ni «c».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any files also named test.html in other subfolders will be ignored.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093445Z" creationid="Marc Riera" creationdate="20221231T093445Z">
+        <seg>S'ignorarà qualsevol fitxer que també s'anomeni «test.html» en altres subcarpetes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27962,6 +27994,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only translate &lt;f0&gt;test.html&lt;/f0&gt; file in the source folder itself.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093451Z" creationid="Marc Riera" creationdate="20221231T093414Z">
+        <seg>Tradueix només el fitxer &lt;f0&gt;test.html&lt;/f0&gt; de la carpeta arrel de fitxers d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only works if a spelling dictionary is installed.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215852Z" creationid="Marc Riera" creationdate="20221207T215852Z">
@@ -36280,6 +36320,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Specifies the output format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093555Z" creationid="Marc Riera" creationdate="20221231T093555Z">
+        <seg>Especifica el format de sortida.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
@@ -36312,6 +36360,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T091206Z" creationid="Marc Riera" creationdate="20180214T224508Z">
         <seg>Indiqueu el comportament de la gestió de les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify the TMX file to be created with:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093500Z" creationid="Marc Riera" creationdate="20221231T093500Z">
+        <seg>Especifiqueu el fitxer TMX que s'ha de crear amb:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37858,6 +37914,14 @@ L'àmbit d'una substitució de text són els segments de destinació del project
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202223Z" creationid="Marc Riera" creationdate="20221206T202223Z">
         <seg>Aquesta carpeta conté tots els fitxers necessaris per a executar l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That folder must contain a translation in the target language of the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093542Z" creationid="Marc Riera" creationdate="20221231T093542Z">
+        <seg>Aquesta carpeta ha de contenir una traducció en la llengua de destinació del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40049,6 +40113,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215035Z" creationid="Marc Riera" creationdate="20221123T215035Z">
         <seg>Les ubicacions recomanades o per defecte són les següents:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The resulting TMX file is saved in the /omegat folder as align.tmx.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093528Z" creationid="Marc Riera" creationdate="20221231T093528Z">
+        <seg>El fitxer TMX resultant es desa en la carpeta «/omegat» amb el nom «align.tmx».</seg>
       </tuv>
     </tu>
     <tu>
@@ -42274,6 +42346,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option prevents that error.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093257Z" creationid="Marc Riera" creationdate="20221231T093257Z">
+        <seg>Aquesta opció evita aquest error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This parameter file contains customized autotext parameters.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160055Z" creationid="Marc Riera" creationdate="20221201T160055Z">
@@ -43450,6 +43530,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170335Z" creationid="Marc Riera" creationdate="20210521T170335Z">
         <seg>Traducció d'un fitxer PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate all HTML files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093404Z" creationid="Marc Riera" creationdate="20221231T093404Z">
+        <seg>Tradueix tots els fitxers HTML.</seg>
       </tuv>
     </tu>
     <tu>
