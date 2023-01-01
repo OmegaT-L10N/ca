@@ -4036,6 +4036,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Maximizes&lt;/e0&gt; the pane</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202349Z" creationid="Marc Riera" creationdate="20230101T202349Z">
+        <seg>&lt;e0&gt;Maximitza&lt;/e0&gt; la subfinestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Minimizes&lt;/e0&gt; the pane, so that it only shows as a tab at the bottom of the window.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202341Z" creationid="Marc Riera" creationdate="20230101T202341Z">
@@ -4084,10 +4092,34 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Restores&lt;/e0&gt; a maximized pane to its previous layout.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202406Z" creationid="Marc Riera" creationdate="20230101T202355Z">
+        <seg>&lt;e0&gt;Restaura&lt;/e0&gt; una subfinestra maximitzada a la disposició anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Returns&lt;/e0&gt; the pane to the main window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202433Z" creationid="Marc Riera" creationdate="20230101T202433Z">
+        <seg>&lt;e0&gt;Retorna&lt;/e0&gt; la subfinestra a la finestra principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Sentence segmentation&lt;/e0&gt; relies on a number of rules (called &lt;e1&gt;segmentation rules&lt;/e1&gt;) that define what constitutes a sentence in the source language.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T115521Z" creationid="Marc Riera" creationdate="20221203T115521Z">
         <seg>La &lt;e0&gt;segmentació per frases&lt;/e0&gt; es basa en una sèrie de regles (anomenades &lt;e1&gt;regles de segmentació&lt;/e1&gt;) que defineixen què constitueix una frase en la llengua d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Undocks&lt;/e0&gt; the pane from the main window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202422Z" creationid="Marc Riera" creationdate="20230101T202422Z">
+        <seg>&lt;e0&gt;Desacobla&lt;/e0&gt; la subfinestra de la finestra principal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10664,6 +10696,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Context menus</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202522Z" creationid="Marc Riera" creationdate="20230101T202522Z">
+        <seg>Menús contextuals</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Continue</seg>
@@ -13373,6 +13413,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Doing so shows a tab with the name of the pane at the top of the group.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202455Z" creationid="Marc Riera" creationdate="20230101T202455Z">
+        <seg>En fer-ho, es mostra una pestanya amb el nom de la subfinestra en la part superior del grup.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>DokuWiki</seg>
@@ -14113,6 +14161,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T084439Z" creationid="Marc Riera" creationdate="20221205T084439Z">
         <seg>Funcions de l'editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editor pane</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202811Z" creationid="Marc Riera" creationdate="20230101T202811Z">
+        <seg>Subfinestra «Editor»</seg>
       </tuv>
     </tu>
     <tu>
@@ -16984,6 +17040,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180212T221417Z" creationid="Marc Riera" creationdate="20180212T221417Z">
         <seg>Coincidències parcials</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fuzzy Matches pane</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202819Z" creationid="Marc Riera" creationdate="20230101T202819Z">
+        <seg>Subfinestra «Coincidències parcials»</seg>
       </tuv>
     </tu>
     <tu>
@@ -27713,6 +27777,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;Menu&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202750Z" creationid="Marc Riera" creationdate="20230101T202750Z">
+        <seg>Windows i Linux: &lt;k0&gt;Menú&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows this manual font fallback mechanism has been known to interfere with the standard font fallback, causing undesirable font substitutions.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T125313Z" creationid="Marc Riera" creationdate="20221209T124642Z">
@@ -27725,6 +27797,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202234Z" creationid="Marc Riera" creationdate="20221206T202234Z">
         <seg>macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt; &lt;k1&gt;S&lt;/k1&gt; &lt;k2&gt;Esc&lt;/k2&gt; &lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202759Z" creationid="Marc Riera" creationdate="20230101T202759Z">
+        <seg>macOS: &lt;k0&gt; &lt;k1&gt;S&lt;/k1&gt; &lt;k2&gt;Esc&lt;/k2&gt; &lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29077,6 +29157,14 @@ s'esvaeix com la boira.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225328Z" creationid="Marc Riera" creationdate="20201003T225328Z">
         <seg>Subfinestres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Panes can be resized by dragging the separators between them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202518Z" creationid="Marc Riera" creationdate="20230101T202518Z">
+        <seg>Podeu canviar la mida de les subfinestres arrossegant els separadors entre elles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35835,6 +35923,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123300Z" creationid="Marc Riera" creationdate="20221225T123300Z">
         <seg>Alguns formats, com el PDF, no es poden tractar correctament amb conversions bidireccionals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some panes have a context menu.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202524Z" creationid="Marc Riera" creationdate="20230101T202524Z">
+        <seg>Algunes subfinestres tenen un menú contextual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45620,6 +45716,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to go back to the default layout if you lost track of the changes you made to the user interface, and cannot see some panes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202700Z" creationid="Marc Riera" creationdate="20230101T202700Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a tornar a la disposició per defecte si no recordeu els canvis que heu aplicat a la interfície d'usuari i no podeu veure algunes subfinestres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to obtain more information.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121420Z" creationid="Marc Riera" creationdate="20221218T121420Z">
@@ -48134,6 +48238,14 @@ d'allà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can call that menu using the standard method for your OS, or with the OmegaT defined shortcuts:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202741Z" creationid="Marc Riera" creationdate="20230101T202741Z">
+        <seg>Podeu obrir aquest menú mitjançant el mètode estàndard del sistema operatiu o amb les dreceres definides per a l'OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can change its name and location in the &lt;l0/&gt; dialog, but you must give it a &lt;f1&gt;.txt&lt;/f1&gt; or &lt;f2&gt;.utf8&lt;/f2&gt; extension, and store it within the &lt;l3/&gt; folder or in one of its subfolders.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T095728Z" creationid="Marc Riera" creationdate="20221206T095728Z">
@@ -48339,6 +48451,14 @@ trobar el text de la llicència a /docs/OmegaT-license.txt</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T123130Z" creationid="Marc Riera" creationdate="20190520T123130Z">
         <seg>Podeu anar a la &lt;a0&gt;pàgina d'inici&lt;/a0&gt; i potser hi trobareu la informació que necessiteu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can group panes in the same area of the window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202439Z" creationid="Marc Riera" creationdate="20230101T202439Z">
+        <seg>Podeu agrupar subfinestres a la mateixa àrea de la finestra.</seg>
       </tuv>
     </tu>
     <tu>
