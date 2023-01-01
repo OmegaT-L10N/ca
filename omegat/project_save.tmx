@@ -10728,6 +10728,30 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Contributing</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T194419Z" creationid="Marc Riera" creationdate="20230101T194419Z">
+        <seg>Col·laboració</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contribution Guide</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T194514Z" creationid="Marc Riera" creationdate="20230101T194514Z">
+        <seg>Guia de col·laboració</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contribution Guide source text</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T194537Z" creationid="Marc Riera" creationdate="20230101T194537Z">
+        <seg>Text d'origen de la guia de col·laboració</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
@@ -13263,6 +13287,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T170622Z" creationid="Alexandra" creationdate="20150526T132213Z">
         <seg>Redacció de documentació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Documentation for developers</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T194444Z" creationid="Marc Riera" creationdate="20230101T194444Z">
+        <seg>Documentació per a desenvolupadors</seg>
       </tuv>
     </tu>
     <tu>
@@ -38289,6 +38321,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Contribution Guide source text in the OmegaT repository.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T194557Z" creationid="Marc Riera" creationdate="20230101T194557Z">
+        <seg>Text d'origen de la guia de col·laboració en el dipòsit de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Eclipse Foundation provides OpenJDK Runtime Environments JREs for many systems at &lt;a0&gt;https://adoptium.net/temurin&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122450Z" creationid="Marc Riera" creationdate="20221223T122450Z">
@@ -38438,6 +38478,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123157Z" creationid="Marc Riera" creationdate="20221225T123157Z">
         <seg>L'Okapi Framework incorpora diversos filtres de fitxers, alguns dels quals no són compatibles nativament amb l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT Contribution Guide.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T194525Z" creationid="Marc Riera" creationdate="20230101T194525Z">
+        <seg>Guia de col·laboració de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38806,6 +38854,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113553Z" creationid="Marc Riera" creationdate="20221129T113553Z">
         <seg>Inici d'una línia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The best way for developers to have a smooth experience when proposing such changes is to follow the guidelines defined on the &lt;a0&gt;Contributing to OmegaT page&lt;/a0&gt;, which is part of the larger &lt;a1&gt;Documentation for developers&lt;/a1&gt; OmegaT offers.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T201710Z" creationid="Marc Riera" creationdate="20230101T201710Z">
+        <seg>La millor manera que els desenvolupadors tinguin una bona experiència en proposar canvis és seguir les pautes definides en la pàgina &lt;a0&gt;Col·laboració amb l'OmegaT&lt;/a0&gt;, que forma part de la &lt;a1&gt;documentació per a desenvolupadors&lt;/a1&gt; que ofereix l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42983,6 +43039,14 @@ tots els paràmetres als valors per defecte.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>To find out how to help, have a look at our documentation for developers:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T194509Z" creationid="Marc Riera" creationdate="20230101T194509Z">
+        <seg>Per a conèixer com ajudar, consulteu la documentació per a desenvolupadors:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
@@ -46545,6 +46609,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T170612Z" creationid="mgalo" creationdate="20181112T090001Z">
         <seg>Avís: el canvi d'ordre de les etiquetes podria generar errors en el document traduït!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We always welcome new contributors!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T194456Z" creationid="Marc Riera" creationdate="20230101T194456Z">
+        <seg>Sempre donem la benvinguda a nous col·laboradors!</seg>
       </tuv>
     </tu>
     <tu>
