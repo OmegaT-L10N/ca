@@ -4036,6 +4036,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Minimizes&lt;/e0&gt; the pane, so that it only shows as a tab at the bottom of the window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202341Z" creationid="Marc Riera" creationdate="20230101T202341Z">
+        <seg>&lt;e0&gt;Minimitza&lt;/e0&gt; la subfinestra, de manera que només es mostra com una pestanya en la part inferior de la finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Note:&lt;/e0&gt; the above information applies only to PDF files with a text layer.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170359Z" creationid="Marc Riera" creationdate="20210521T170359Z">
@@ -22984,6 +22992,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Lists the various extra &lt;e0&gt;actions&lt;/e0&gt; available in the pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202140Z" creationid="Marc Riera" creationdate="20230101T202140Z">
+        <seg>Indica les diferents &lt;e0&gt;accions&lt;/e0&gt; addicionals disponibles en la subfinestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
@@ -29044,6 +29060,14 @@ Vanishing like mist</seg>
         <seg>La pàgina s'escapa dels dits,
 el pols batega fort i frenètic,
 s'esvaeix com la boira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pane widgets</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202112Z" creationid="Marc Riera" creationdate="20230101T202112Z">
+        <seg>Ginys de les subfinestres</seg>
       </tuv>
     </tu>
     <tu>
@@ -40771,6 +40795,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The top right corner of a pane will show different icons depending on the type of pane and its current status:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202101Z" creationid="Marc Riera" creationdate="20230101T202101Z">
+        <seg>La cantonada superior dreta d'una subfinestra mostrarà icones diferents en funció del tipus de subfinestra i de l'estat actual:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The total number of segments, the number of unique segments in the whole project, and the number of unique segments already translated are shown at the bottom.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214305Z" creationid="Marc Riera" creationdate="20221207T214305Z">
@@ -48130,6 +48162,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232558Z" creationid="Marc Riera" creationdate="20221230T232558Z">
         <seg>Podeu canviar la cadena de límit dels paràgrafs amb la preferència &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the position of a pane, or even undock it as a separate window, by clicking and holding its name and dragging it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202043Z" creationid="Marc Riera" creationdate="20230101T202043Z">
+        <seg>Podeu canviar la posició d'una subfinestra o, fins i tot, desacoblar-la com a finestra independent, fent clic i arrosegant-la pel nom.</seg>
       </tuv>
     </tu>
     <tu>
