@@ -3643,6 +3643,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T203033Z" creationid="Marc Riera" creationdate="20230101T203033Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>103/114</seg>
@@ -7774,6 +7782,14 @@ inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Auto-completion menu</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T203021Z" creationid="Marc Riera" creationdate="20230101T203021Z">
+        <seg>Menú d'emplenament automàtic</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Auto-completion/Auto-text...</seg>
@@ -10689,6 +10705,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Context menu</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202947Z" creationid="Marc Riera" creationdate="20230101T202947Z">
+        <seg>Menú contextual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Context menu priority:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T214848Z" creationid="Marc Riera" creationdate="20221123T214848Z">
@@ -12008,12 +12032,28 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Cursor lock</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202931Z" creationid="Marc Riera" creationdate="20230101T202931Z">
+        <seg>Bloqueig del cursor</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Cursor locked</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T220131Z" creationid="Marc Riera" creationdate="20191112T220131Z">
         <seg>Cursor blocat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cursor status</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T203109Z" creationid="Marc Riera" creationdate="20230101T203109Z">
+        <seg>Estat del cursor</seg>
       </tuv>
     </tu>
     <tu>
@@ -12252,6 +12292,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161250Z" creationid="Packard Bell" creationdate="20150605T161250Z">
         <seg>Drecera per defecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default shortcut:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202949Z" creationid="Marc Riera" creationdate="20230101T202949Z">
+        <seg>Drecera per defecte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13699,6 +13747,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Dragging and dropping</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T203202Z" creationid="Marc Riera" creationdate="20230101T203202Z">
+        <seg>Arrossegar i deixar anar</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Drop TMX files here to add them to the project.</seg>
@@ -14257,6 +14313,14 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120715Z" creationid="mgalo" creationdate="20181218T201621Z">
         <seg>L'adreça URL del dipòsit en l'assignació és buida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Empty translations</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202847Z" creationid="Marc Riera" creationdate="20230101T202847Z">
+        <seg>Traduccions buides</seg>
       </tuv>
     </tu>
     <tu>
@@ -16094,6 +16158,14 @@ els fils de teranyina t'aparten.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files can be dragged and dropped on certain panes, with the following results:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T203220Z" creationid="Marc Riera" creationdate="20230101T203220Z">
+        <seg>Podeu arrossegar i deixar anar fitxers en determinades subfinestres, amb els resultats següents:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files containing formatting (ODF, HTML, or other documents) are divided at block-level (paragraph) tags.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T172714Z" creationid="Marc Riera" creationdate="20221201T172714Z">
@@ -17500,6 +17572,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210414T142036Z" creationid="Marc Riera" creationdate="20210414T142036Z">
         <seg>Nota del glossari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary pane</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202827Z" creationid="Marc Riera" creationdate="20230101T202827Z">
+        <seg>Subfinestra «Glossari»</seg>
       </tuv>
     </tu>
     <tu>
@@ -20440,6 +20520,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the file</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T203114Z" creationid="Marc Riera" creationdate="20230101T203114Z">
+        <seg>En el fitxer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the old project, select the translation memory (backup or not) most likely to contain the data you are looking for.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200339Z" creationid="Marc Riera" creationdate="20221210T200339Z">
@@ -20460,6 +20548,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120540Z" creationid="Marc Riera" creationdate="20221225T120540Z">
         <seg>En casos poc habituals en què l'ordinador es bloquegi i l'OmegaT no tingui temps de tancar-se correctament, alguns fitxers importants poden quedar trencats i impedir que es pugui tornar a obrir el projecte després de reiniciar l'ordinador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the segment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T203119Z" creationid="Marc Riera" creationdate="20230101T203119Z">
+        <seg>En el segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -24623,6 +24719,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modifications can include:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202843Z" creationid="Marc Riera" creationdate="20230101T202843Z">
+        <seg>Les modificacions poden incloure:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modifications made outside OmegaT can be reinserted in OmegaT (and thus in the project translation memory, to keep it up to date) either by entering them manually in the relevant segments, or by aligning the original file and the final translated file to create a new translation memory (TMX) file that will be put in the &lt;l0/&gt; folder of your project folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T215050Z" creationid="Marc Riera" creationdate="20221213T215050Z">
@@ -25218,6 +25322,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T122524Z" creationid="Marc Riera" creationdate="20190520T122524Z">
         <seg>Nom: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigation</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T203023Z" creationid="Marc Riera" creationdate="20230101T203023Z">
+        <seg>Navegació</seg>
       </tuv>
     </tu>
     <tu>
@@ -26140,6 +26252,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T224917Z" creationid="Marc Riera" creationdate="20191110T224917Z">
         <seg>Notificació (fixa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notifications</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202829Z" creationid="Marc Riera" creationdate="20230101T202829Z">
+        <seg>Notificacions</seg>
       </tuv>
     </tu>
     <tu>
@@ -27729,6 +27849,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt; &lt;k1&gt;INSERT&lt;/k1&gt; &lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202916Z" creationid="Marc Riera" creationdate="20230101T202916Z">
+        <seg>Windows i Linux: &lt;k0&gt; &lt;k1&gt;INSERT&lt;/k1&gt; &lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T144944Z" creationid="Marc Riera" creationdate="20221211T144944Z">
@@ -27833,6 +27961,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;&lt;k1&gt;S&lt;/k1&gt;&lt;k2&gt;Esc&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202959Z" creationid="Marc Riera" creationdate="20230101T202959Z">
+        <seg>macOS: &lt;k0&gt;&lt;k1&gt;S&lt;/k1&gt;&lt;k2&gt;Esc&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T081824Z" creationid="Marc Riera" creationdate="20221205T081824Z">
@@ -27845,6 +27981,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215830Z" creationid="Marc Riera" creationdate="20221207T215830Z">
         <seg>macOS: &lt;k0&gt;&lt;k1&gt;Maj&lt;/k1&gt;&lt;k2&gt;Ordre&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;F3&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202923Z" creationid="Marc Riera" creationdate="20230101T202923Z">
+        <seg>macOS: &lt;k0&gt;F3&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28986,6 +29130,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T220122Z" creationid="Marc Riera" creationdate="20191112T220122Z">
         <seg>Mode de sobreescriptura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwriting</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202902Z" creationid="Marc Riera" creationdate="20230101T202902Z">
+        <seg>Sobreescriptura</seg>
       </tuv>
     </tu>
     <tu>
@@ -39535,6 +39687,14 @@ en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The first match</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T203032Z" creationid="Marc Riera" creationdate="20230101T203032Z">
+        <seg>Primera coincidència</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The first of these is the &lt;a0&gt;OmegaT user group&lt;/a0&gt;.</seg>
@@ -41748,6 +41908,22 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120645Z" creationid="Marc Riera" creationdate="20221225T120637Z">
         <seg>Aquesta acció restaurarà l'estat de la traducció en el projecte nou al moment en què es va crear la memòria de traducció del projecte seleccionada en el projecte original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This allows you to select text using the keyboard.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202938Z" creationid="Marc Riera" creationdate="20230101T202938Z">
+        <seg>Això us permet seleccionar text amb el teclat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This also applies to the &lt;l1/&gt; window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T203225Z" creationid="Marc Riera" creationdate="20230101T203225Z">
+        <seg>Això també s'aplica a la finestra &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44243,6 +44419,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Translations equal to the source</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202857Z" creationid="Marc Riera" creationdate="20230101T202857Z">
+        <seg>Traduccions iguals al text d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translator comments:</seg>
@@ -46076,6 +46260,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T182343Z" creationid="Marc Riera" creationdate="20221217T182343Z">
         <seg>Ús del sistema de control de versions local per a crear una còpia local (clonació)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the same key to lock the cursor again.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202945Z" creationid="Marc Riera" creationdate="20230101T202945Z">
+        <seg>Utilitzeu la mateixa tecla per a tornar a blocar el cursor.</seg>
       </tuv>
     </tu>
     <tu>
