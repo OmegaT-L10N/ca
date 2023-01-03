@@ -39211,6 +39211,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The command is passed to Java runtime exec as a string with the template values expanded.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T143243Z" creationid="Marc Riera" creationdate="20230103T143243Z">
+        <seg>L'ordre s'envia a l'executable del </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
