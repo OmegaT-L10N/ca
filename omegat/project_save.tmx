@@ -4452,6 +4452,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Reload&lt;/g0&gt;: This command reloads the file from the disk.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T183702Z" creationid="Marc Riera" creationdate="20230103T183702Z">
+        <seg>&lt;g0&gt;Torna a carregar&lt;/g0&gt;: aquesta ordre torna a carregar el fitxer des del disc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Replace All&lt;/g0&gt;: operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T152308Z" creationid="Marc Riera" creationdate="20220611T152308Z">
@@ -6561,6 +6569,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223655Z" creationid="Marc Riera" creationdate="20201003T223655Z">
         <seg>Tots els fitxers DOCX del projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All available actions can be accessed from the &lt;g0&gt;Edit&lt;/g0&gt; menu or by pressing the corresponding shortcut key.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T183949Z" creationid="Marc Riera" creationdate="20230103T183949Z">
+        <seg>Podeu accedir a totes les accions disponibles des del menú &lt;g0&gt;Edita&lt;/g0&gt; o prement la tecla de drecera corresponent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13522,6 +13538,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200621Z" creationid="Marc Riera" creationdate="20221206T200621Z">
         <seg>Fer-ho té el benefici afegit de reduir les diferències en l'alineació automàtica inicial, de manera que el pas de correcció manual és més fàcil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Doing so in this step cancels the alignment without saving any data to a translation memory file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T183734Z" creationid="Marc Riera" creationdate="20230103T183734Z">
+        <seg>Si ho feu en aquest pas, es cancel·la l'alineació sense desar cap dada en un fitxer de memòria de traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21637,8 +21661,8 @@ feu doble clic en la drecera.</seg>
       <tuv lang="en">
         <seg>It can also be called by clicking the &lt;g1&gt;Reset&lt;/g1&gt; at the bottom right of the window or pressing &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;R&lt;/k5&gt;&lt;/k2&gt;</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T183647Z" creationid="Marc Riera" creationdate="20230103T183647Z">
-        <seg>També podeu executar-ho fent clic en &lt;g1&gt;Reinicialitza&lt;/g1&gt; en la part inferior dreta de la finestra o prement &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;R&lt;/k5&gt;&lt;/k2&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T183746Z" creationid="Marc Riera" creationdate="20230103T183647Z">
+        <seg>També podeu accedir-hi fent clic en &lt;g1&gt;Reinicialitza&lt;/g1&gt; en la part inferior dreta de la finestra o prement &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;R&lt;/k5&gt;&lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23834,6 +23858,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T125823Z" creationid="Marc Riera" creationdate="20190520T125823Z">
         <seg>Manual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Manual adjustments are generally required after the initial automatic alignment process.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T183855Z" creationid="Marc Riera" creationdate="20230103T183855Z">
+        <seg>Normalment, cal aplicar ajustaments manuals després del procés d'alineació automàtica inicial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28190,6 +28222,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214926Z" creationid="Marc Riera" creationdate="20221213T214926Z">
         <seg>Una vegada creats els fitxers traduïts, podeu obrir-los amb l'aplicació original per a comprovar-ne el contingut i, si cal, modificar-los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once you are satisfied with the results of this step, click the &lt;g0&gt;Continue&lt;/g0&gt; button to proceed to the next one.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T183838Z" creationid="Marc Riera" creationdate="20230103T183838Z">
+        <seg>Quan estigueu satisfet amb els resultats d'aquest pas, feu clic en el botó &lt;g0&gt;Continua&lt;/g0&gt; per a passar al següent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38601,6 +38641,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g0&gt;Edit&lt;/g0&gt; menu is grayed out in this step.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T183802Z" creationid="Marc Riera" creationdate="20230103T183802Z">
+        <seg>El menú &lt;g0&gt;Edita&lt;/g0&gt; apareix desactivat en aquest pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;g0&gt;Viterbi&lt;/g0&gt; and &lt;g1&gt;Forward-Backward&lt;/g1&gt; algorithms are two different calculation methods.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T122046Z" creationid="Marc Riera" creationdate="20220611T122037Z">
@@ -39181,6 +39229,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221226T225322Z" creationid="Marc Riera" creationdate="20221226T225322Z">
         <seg>L'acció associada a un element també suggereix la funció en cas que la manera de mostrar-ho no transmeti les diferències visuals: &lt;e0&gt;utilitzeu&lt;/e0&gt; un element del menú o &lt;e1&gt;feu clic&lt;/e1&gt; en un botó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The aligner also allows you to edit the contents of a segment, which can be useful if you notice errors such as a spelling mistake in a segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T183935Z" creationid="Marc Riera" creationdate="20230103T183935Z">
+        <seg>L'alineador també us permet editar el contingut d'un segment, la qual cosa pot ser útil si detecteu errors en un segment, com ara un error ortogràfic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40318,6 +40374,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The most common actions are also accessible from the buttons to the right of the main pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T184011Z" creationid="Marc Riera" creationdate="20230103T184011Z">
+        <seg>Les accions més habituals també són accessibles amb els botons a la dreta de la subfinestra principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The most current info about OmegaT can be found at:</seg>
@@ -40925,6 +40989,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165015Z" creationid="Stephanie" creationdate="20150722T175751Z">
         <seg>La sintaxi de definició de les dreceres és la següent: &lt;c0&gt;&lt;codi d'element del menú&gt;=&lt;drecera&gt;&lt;/c0&gt;, en què &lt;e1&gt;&lt;codi d'element del menú&gt;&lt;/e1&gt; és un codi de les taules següents i &lt;e2&gt;&lt;drecera&gt;&lt;/e2&gt; és una combinació de tecles especificada per l'usuari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The shortcut keys are well worth remembering if you use the aligner often or work on large documents, as they allow you to carry out actions very quickly.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T184325Z" creationid="Marc Riera" creationdate="20230103T184325Z">
+        <seg>Val la pena recordar les dreceres del teclat si utilitzeu l'alineador sovint o si treballeu amb documents grans, ja que us permeten dur a terme accions molt ràpidament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42587,6 +42659,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T230710Z" creationid="Marc Riera" creationdate="20201129T230710Z">
         <seg>Aquesta funció és específica dels projectes en equip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This generally involves moving segments up or down to align them with the correct segments in the other language, as well as splitting or merging segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T183911Z" creationid="Marc Riera" creationdate="20230103T183911Z">
+        <seg>Això generalment implica moure segments amunt o avall per a alinear-los amb els segments correctes en l'altra llengua, i també dividir o fusionar segments.</seg>
       </tuv>
     </tu>
     <tu>
