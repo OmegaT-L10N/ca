@@ -4500,6 +4500,22 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Reset&lt;/g0&gt;: This command restores all parameters to their default value.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T155512Z" creationid="Marc Riera" creationdate="20230103T155512Z">
+        <seg>&lt;g0&gt;Reinicialitza&lt;/g0&gt;: aquesta ordre restaura tots els paràmetres al valor per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Save TMX...&lt;/g0&gt;: This item is grayed out until the next step is complete.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T155552Z" creationid="Marc Riera" creationdate="20230103T155552Z">
+        <seg>&lt;g0&gt;Desa en TMX...&lt;/g0&gt;: aquest element apareix desactivat fins que es completa el pas següent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Save&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193313Z" creationid="Marc Riera" creationdate="20221230T193313Z">
@@ -20127,6 +20143,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T214537Z" creationid="mgalo" creationdate="20181114T120359Z">
         <seg>Si els fitxers d'origen són fitxers amb format (per exemple, fitxers del Microsoft Word, del LibreOffice Writer o HTML), l'OmegaT convertirà el format en etiquetes que envolten el text que s'ha de traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your texts contain other elements that would be useful to highlight, modify the regular expression to include those elements, separated by a &lt;l1&gt;|&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T155433Z" creationid="Marc Riera" creationdate="20230103T155433Z">
+        <seg>Si els textos contenen altres elements que considereu útils ressaltar, modifiqueu l'expressió regular perquè inclogui aquests elements, separats per &lt;l1&gt;|&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
