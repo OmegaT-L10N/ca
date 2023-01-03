@@ -7248,6 +7248,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>And the script must be executable.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T143802Z" creationid="Marc Riera" creationdate="20230103T143641Z">
+        <seg>Finalment, l'script ha de ser executable.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
@@ -9010,6 +9018,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201101T015521Z" creationid="Marc Riera" creationdate="20201101T015521Z">
         <seg>Això no obstant, algunes característiques del programa han estat encarregades per patrocinadors comercials que posteriorment les han donat a la comunitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chaining commands with &lt;l2&gt;&amp;&amp;&lt;/l2&gt; or &lt;l3&gt;||&lt;/l3&gt; or pipes &lt;l4&gt;|&lt;/l4&gt; will not work here.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T143800Z" creationid="Marc Riera" creationdate="20230103T143800Z">
+        <seg>No es poden encadenar ordres amb &lt;l2&gt;&amp;&amp;&lt;/l2&gt; o &lt;l3&gt;||&lt;/l3&gt; ni utilitzar canonades (&lt;l4&gt;|&lt;/l4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28581,6 +28597,30 @@ la carpeta d'inici.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Open the target folder in Linux</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T143656Z" creationid="Marc Riera" creationdate="20230103T143656Z">
+        <seg>Obre la carpeta de destinació en el Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the target folder in Windows Powershell</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T143705Z" creationid="Marc Riera" creationdate="20230103T143705Z">
+        <seg>Obre la carpeta de destinació en el Windows Powershell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the target folder in macOS</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T143701Z" creationid="Marc Riera" creationdate="20230103T143701Z">
+        <seg>Obre la carpeta de destinació en el macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Open {0} Source Files</seg>
@@ -32987,6 +33027,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T151243Z" creationid="mgalo" creationdate="20181113T090239Z">
         <seg>SQLJet (llicència GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>STDOUT and STDERR are written to the &lt;l0&gt;omegat.log&lt;/l0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T143539Z" creationid="Marc Riera" creationdate="20230103T143539Z">
+        <seg>STDOUT i STDERR s'escriuen en el fitxer &lt;l0&gt;omegat.log&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37511,6 +37559,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TM Root + tmx2source (See the &lt;l0/&gt; how-to for details.)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T143506Z" creationid="Marc Riera" creationdate="20230103T143506Z">
+        <seg>Carpeta arrel de memòries de traducció + tmx2source (consulteu la guia &lt;l0/&gt; per a conèixer més detalls).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TMX Level 1</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220824T080001Z" creationid="Marc Riera" creationdate="20220824T080001Z">
@@ -38015,6 +38071,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T211818Z" creationid="Marc Riera" creationdate="20221124T211818Z">
         <seg>Plantilla per als segments sense data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Template variables can be used with both regular commands and custom scripts.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T143518Z" creationid="Marc Riera" creationdate="20230103T143518Z">
+        <seg>Les variables de plantilla es poden utilitzar amb ordres normals i scripts personalitzats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38872,6 +38936,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The PATH OmegaT uses may not be the same as the current user’s PATH.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T143630Z" creationid="Marc Riera" creationdate="20230103T143630Z">
+        <seg>És possible que el valor PATH que utilitza l'OmegaT no sigui el mateix que el de l'usuari actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The PO filter threw an exception:</seg>
@@ -39550,6 +39622,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The exit code and STDERR or the last STDOUT will appear on the status bar.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T143554Z" creationid="Marc Riera" creationdate="20230103T143554Z">
+        <seg>El codi de sortida i STDERR o el darrer STDOUT apareixeran en la barra d'estat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The export translation memory folder does not exist!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190954Z" creationid="Marc Riera" creationdate="20221124T190954Z">
@@ -39831,6 +39911,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T201710Z" creationid="Marc Riera" creationdate="20220621T201710Z">
         <seg>Estan disponibles els mètodes de cerca següents:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following template variables are always available.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T143357Z" creationid="Marc Riera" creationdate="20230103T143357Z">
+        <seg>Les variables de plantilla següents sempre estan disponibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40261,6 +40349,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220922T070110Z" creationid="Marc Riera" creationdate="20220922T070110Z">
         <seg>S'ha desat el fitxer original com a còpia de seguretat: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The other items on the template list are environment variables for your system.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T143412Z" creationid="Marc Riera" creationdate="20230103T143412Z">
+        <seg>La resta d'elements de la llista de plantilles són variables d'entorn del sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49019,6 +49115,14 @@ d'una finestra del Finder per a poder-la executar des de qualsevol lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You may need to use an absolute path for your script.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T143526Z" creationid="Marc Riera" creationdate="20230103T143526Z">
+        <seg>És possible que hàgiu d'utilitzar un camí absolut per a l'script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You may repeat this operation as needed for locating older situations.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T193921Z" creationid="Marc Riera" creationdate="20221210T193921Z">
@@ -49101,6 +49205,14 @@ un comportament inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T121400Z" creationid="Marc Riera" creationdate="20180214T223223Z">
         <seg>Especifiqueu-ne la ubicació nova o torneu-les a crear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should use a shebang, e.g. &lt;l0&gt;#!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T143839Z" creationid="Marc Riera" creationdate="20230103T143839Z">
+        <seg>Heu d'utilitzar un shebang; per exemple, &lt;l0&gt;#!</seg>
       </tuv>
     </tu>
     <tu>
