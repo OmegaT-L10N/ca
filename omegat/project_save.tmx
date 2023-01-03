@@ -4140,6 +4140,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e1&gt;Use it with caution!&lt;/e1&gt; Clicking this button will discard all your changes and bring you back to the first step.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T190056Z" creationid="Marc Riera" creationdate="20230103T190056Z">
+        <seg>&lt;e1&gt;Aneu amb compte!&lt;/e1&gt; En fer clic en aquest botó, es descartaran tots els canvis i tornareu al primer pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Allow blank translations in the target file&lt;/g0&gt;:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224454Z" creationid="Marc Riera" creationdate="20220130T224454Z">
@@ -6491,8 +6499,8 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>Aligner "Needs Review" group</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220514Z" creationid="Marc Riera" creationdate="20221124T220514Z">
-        <seg>Grup «Pendent de revisió» de l'alineador</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T185807Z" creationid="Marc Riera" creationdate="20221124T220514Z">
+        <seg>Grup «Necessita revisió» de l'alineador</seg>
       </tuv>
     </tu>
     <tu>
@@ -9856,6 +9864,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220320Z" creationid="mgalo" creationdate="20181112T113524Z">
         <seg>Suprimeix la marca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clear Mark (&lt;k0&gt;C&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T185904Z" creationid="Marc Riera" creationdate="20230103T185904Z">
+        <seg>Suprimeix la marca (&lt;k0&gt;C&lt;/k0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24102,6 +24118,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Needs Review (&lt;k0&gt;R&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T185817Z" creationid="Marc Riera" creationdate="20230103T185732Z">
+        <seg>Marca com a «Necessita revisió» (&lt;k0&gt;R&lt;/k0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Non-Breakable Spaces</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123152Z" creationid="Marc Riera" creationdate="20221209T123152Z">
@@ -31536,6 +31560,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Realign Pending (&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;R&lt;/k2&gt;&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T185914Z" creationid="Marc Riera" creationdate="20230103T185914Z">
+        <seg>Torna a alinear els pendents (&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;R&lt;/k2&gt;&lt;/k0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reapplies the modifications that were cancelled while the segment is current.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234510Z" creationid="Marc Riera" creationdate="20221230T234510Z">
@@ -34883,6 +34915,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segments aligned with this method are automatically marked as accepted.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T190010Z" creationid="Marc Riera" creationdate="20230103T190010Z">
+        <seg>Els segments alineats amb aquest mètode es marquen automàticament com a acceptats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segments are by default &lt;e0&gt;paragraphs&lt;/e0&gt; defined by the file format itself.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T172513Z" creationid="Marc Riera" creationdate="20221201T172513Z">
@@ -37191,6 +37231,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200121T223137Z" creationid="Marc Riera" creationdate="20200121T223137Z">
         <seg>Inicia l'alineació per clics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start Pinpoint Align (&lt;k0&gt;Space&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T185954Z" creationid="Marc Riera" creationdate="20230103T185954Z">
+        <seg>Inicia l'alineació per clics (&lt;k0&gt;Espai&lt;/k0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41844,6 +41892,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>There is also a &lt;g0&gt;Reset&lt;/g0&gt; button at the bottom of the window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T190030Z" creationid="Marc Riera" creationdate="20230103T190030Z">
+        <seg>També hi ha un botó &lt;g0&gt;Reinicialitza&lt;/g0&gt; en la part inferior de la finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>There is however considerable scope within the project for users to suggest improvements and influence the course of future development.</seg>
@@ -43154,6 +43210,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option is also accessible from the &lt;g4&gt;View&lt;/g4&gt; menu.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T190020Z" creationid="Marc Riera" creationdate="20230103T190020Z">
+        <seg>Aquesta opció també és accessible des del menú &lt;g4&gt;Visualització&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option is convenient when dealing with HTML parts that only contain non translatable text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091722Z" creationid="Marc Riera" creationdate="20221214T091722Z">
@@ -44147,6 +44211,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T152201Z" creationid="Marc Riera" creationdate="20191113T181018Z">
         <seg>Canvia la selecció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggle Selected (&lt;k0&gt;K&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T185928Z" creationid="Marc Riera" creationdate="20230103T185928Z">
+        <seg>Canvia la selecció (&lt;k0&gt;K&lt;/k0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46796,6 +46868,22 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T103817Z" creationid="Marc Riera" creationdate="20221206T103817Z">
         <seg>Utilitzeu aquest botó per a crear regles locals específiques del vostre projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this command to confirm that the alignment of the segments in the selected row or block of rows is correct.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T185838Z" creationid="Marc Riera" creationdate="20230103T185838Z">
+        <seg>Utilitzeu aquesta ordre per a confirmar que l'alineació dels segments de la fila o del bloc de files seleccionat és correcta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this command to identify a row or block of rows for which the alignment of the segments is in doubt.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T185855Z" creationid="Marc Riera" creationdate="20230103T185855Z">
+        <seg>Utilitzeu aquesta ordre per a identificar una fila o un bloc de files en què l'alineació dels segments és dubtosa.</seg>
       </tuv>
     </tu>
     <tu>
