@@ -6575,8 +6575,8 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>All available actions can be accessed from the &lt;g0&gt;Edit&lt;/g0&gt; menu or by pressing the corresponding shortcut key.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T183949Z" creationid="Marc Riera" creationdate="20230103T183949Z">
-        <seg>Podeu accedir a totes les accions disponibles des del menú &lt;g0&gt;Edita&lt;/g0&gt; o prement la tecla de drecera corresponent.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T184331Z" creationid="Marc Riera" creationdate="20230103T183949Z">
+        <seg>Podeu accedir a totes les accions disponibles des del menú &lt;g0&gt;Edita&lt;/g0&gt; o prement la drecera del teclat corresponent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6962,6 +6962,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T193721Z" creationid="Marc Riera" creationdate="20201121T123010Z">
         <seg>Alternativament, si ja sabeu quina versió voleu baixar, feu clic en el botó per a veure les diferents versions de l'OmegaT disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, you can press the arrow keys while holding &lt;k0&gt;Shift&lt;/k0&gt; to select consecutive segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T184514Z" creationid="Marc Riera" creationdate="20230103T184514Z">
+        <seg>Com a alternativa, podeu prémer les tecles de direcció mentre manteniu premuda la tecla &lt;k0&gt;Maj&lt;/k0&gt; per a seleccionar segments consecutius.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20838,6 +20846,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Individual segments can be selected with the mouse or the arrow keys.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T184405Z" creationid="Marc Riera" creationdate="20230103T184405Z">
+        <seg>Podeu seleccionar segments individualment amb el ratolí o les tecles de direcció.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Infix</seg>
@@ -24569,6 +24585,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Merge (&lt;k0&gt;M&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T184550Z" creationid="Marc Riera" creationdate="20230103T184550Z">
+        <seg>Uneix (&lt;k0&gt;M&lt;/k0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Merge alternate definition for the same term</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220439Z" creationid="Marc Riera" creationdate="20220130T220439Z">
@@ -25179,6 +25203,14 @@ s'ha perdut en el paradís.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Move Down (&lt;k0&gt;D&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T184533Z" creationid="Marc Riera" creationdate="20230103T184533Z">
+        <seg>Mou avall (&lt;k0&gt;D&lt;/k0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Move F&amp;irst</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204850Z" creationid="Marc Riera" creationdate="20221124T204850Z">
@@ -25204,6 +25236,14 @@ s'ha perdut en el paradís.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Move Up (&lt;k0&gt;U&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T184526Z" creationid="Marc Riera" creationdate="20230103T184526Z">
+        <seg>Mou amunt (&lt;k0&gt;U&lt;/k0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Move the folder to an appropriate location such
@@ -25212,6 +25252,14 @@ as the Applications folder.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200124T225024Z" creationid="Marc Riera" creationdate="20200122T230757Z">
         <seg>Moveu la carpeta a una ubicació
 adequada, com ara la carpeta «Aplicacions».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moves the selected segment, or block of consecutive segments, up one row.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T184738Z" creationid="Marc Riera" creationdate="20230103T184738Z">
+        <seg>Mou el segment o el bloc de segments consecutius seleccionat una fila amunt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34623,6 +34671,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Segment blocks can be selected with the mouse by clicking the first segment, and holding the &lt;k0&gt;Shift&lt;/k0&gt; key while clicking the last segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T184445Z" creationid="Marc Riera" creationdate="20230103T184445Z">
+        <seg>Es poden seleccionar blocs de segments amb el ratolí fent clic en el primer segment i mantenint premuda la tecla &lt;k0&gt;Maj&lt;/k0&gt; mentre es fa clic en el darrer segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segment marker background</seg>
@@ -36989,6 +37045,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Split (&lt;k0&gt;S&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T184541Z" creationid="Marc Riera" creationdate="20230103T184541Z">
+        <seg>Divideix (&lt;k0&gt;S&lt;/k0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Split Text</seg>
@@ -39318,6 +39382,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T203821Z" creationid="Marc Riera" creationdate="20201010T203821Z">
         <seg>L'aplicació s'executa en el vostre ordinador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The available actions are presented below.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T184517Z" creationid="Marc Riera" creationdate="20230103T184517Z">
+        <seg>Les accions disponibles es presenten a continuació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42665,8 +42737,8 @@ des del servidor.</seg>
       <tuv lang="en">
         <seg>This generally involves moving segments up or down to align them with the correct segments in the other language, as well as splitting or merging segments.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T183911Z" creationid="Marc Riera" creationdate="20230103T183911Z">
-        <seg>Això generalment implica moure segments amunt o avall per a alinear-los amb els segments correctes en l'altra llengua, i també dividir o fusionar segments.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T184602Z" creationid="Marc Riera" creationdate="20230103T183911Z">
+        <seg>Això generalment implica moure segments amunt o avall per a alinear-los amb els segments correctes en l'altra llengua, i també dividir o unir segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43798,6 +43870,14 @@ tots els paràmetres als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201210T185623Z" creationid="Alexandra" creationdate="20150526T103044Z">
         <seg>Per a obtenir l'OpenOffice.org o el LibreOffice, seguiu l'enllaç del botó «Programari de tercers» a l'esquerra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To perform an action, select the applicable segment or block of consecutive segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T184348Z" creationid="Marc Riera" creationdate="20230103T184348Z">
+        <seg>Per a aplicar una acció, seleccioneu el segment o bloc de segments consecutius.</seg>
       </tuv>
     </tu>
     <tu>
