@@ -14134,6 +14134,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit (&lt;k0&gt;E&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T185552Z" creationid="Marc Riera" creationdate="20230103T185552Z">
+        <seg>Edita (&lt;k0&gt;E&lt;/k0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit &gt; Create Glossary Entry (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): add a new glossary item.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T201630Z" creationid="Marc Riera" creationdate="20220621T201630Z">
@@ -19295,6 +19303,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If only one segment is selected, the aligner will merge it with the following segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T185523Z" creationid="Marc Riera" creationdate="20230103T185523Z">
+        <seg>Si només se selecciona un segment, l'alineador l'unirà al segment següent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If part of the target segment has been selected, this function overwrites the selected portion.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161931Z" creationid="Marc Riera" creationdate="20220625T161931Z">
@@ -19621,6 +19637,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T141143Z" creationid="Marc Riera" creationdate="20201125T141143Z">
         <seg>Si aquesta versió no està disponible, podeu provar de &lt;a0&gt;baixar la versió sense signar&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If two or more segments are selected, they will all be merged, but remain in separate cells.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T185546Z" creationid="Marc Riera" creationdate="20230103T185546Z">
+        <seg>Si se seleccionen dos o més segments, s'uniran tots, però romandran en cel·les independents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20701,6 +20725,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T155745Z" creationid="Marc Riera" creationdate="20201125T155745Z">
         <seg>En aquest cas, no seleccioneu la versió per defecte; seleccioneu una versió diferent (p. ex., estàndard o més recent) i seleccioneu una versió «sense el Java».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this dialog, the &lt;k2&gt;Enter&lt;/k2&gt; enters a line break in the text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T185644Z" creationid="Marc Riera" creationdate="20230103T185640Z">
+        <seg>En aquest quadre de diàleg, la tecla &lt;k2&gt;Retorn&lt;/k2&gt; afegeix un salt de línia al text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24014,6 +24046,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T225048Z" creationid="mgalo" creationdate="20181112T113427Z">
         <seg>Marca com a «Acceptat»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Accepted (&lt;k0&gt;A&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T185702Z" creationid="Marc Riera" creationdate="20230103T185702Z">
+        <seg>Marca com a «Acceptat» (&lt;k0&gt;A&lt;/k0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42427,6 +42467,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This command can only be performed on a single segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T185604Z" creationid="Marc Riera" creationdate="20230103T185604Z">
+        <seg>Aquesta ordre només es pot aplicar en un únic segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This command cannot restore that status after the user moves to a different segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T212641Z" creationid="Marc Riera" creationdate="20221208T212641Z">
@@ -46611,6 +46659,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T145846Z" creationid="Marc Riera" creationdate="20220506T145846Z">
         <seg>Utilitzeu el mode de comparació &lt;g0&gt;ID&lt;/g0&gt; per a alinear textos Clau=Valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;g1&gt;OK&lt;/g1&gt; button to close the dialog when finished.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T185623Z" creationid="Marc Riera" creationdate="20230103T185623Z">
+        <seg>Utilitzeu el botó &lt;g1&gt;D'acord&lt;/g1&gt; per a tancar el quadre de diàleg quan hàgiu acabat.</seg>
       </tuv>
     </tu>
     <tu>
