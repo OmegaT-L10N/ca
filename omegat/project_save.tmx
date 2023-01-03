@@ -4156,6 +4156,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Character&lt;/g0&gt;: The basic unit used to determine the size of segments in languages that do not use a space to delimit words.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T155108Z" creationid="Marc Riera" creationdate="20230103T155039Z">
+        <seg>&lt;g0&gt;Caràcters&lt;/g0&gt;: unitat bàsica utilitzada per a determinar la mida dels segments en les llengües que no utilitzen espais per a delimitar les paraules.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Check Issues...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;V&lt;/k4&gt;&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T224928Z" creationid="Marc Riera" creationdate="20221230T224928Z">
@@ -4688,6 +4696,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T204957Z" creationid="Marc Riera" creationdate="20221214T204744Z">
         <seg>&lt;g0&gt;Viterbi&lt;/g0&gt;: algoritme per defecte utilitzat per a alinear els fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Word&lt;/g0&gt;: The basic unit used to determine the size of segments in languages that use a space to delimit words.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T155104Z" creationid="Marc Riera" creationdate="20230103T155104Z">
+        <seg>&lt;g0&gt;Paraules&lt;/g0&gt;: unitat bàsica utilitzada per a determinar la mida dels segments en les llengües que utilitzen espais per a delimitar les paraules.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19893,6 +19909,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you modify the segmentation rules, you will be asked if you want to save those changes when you exit the aligner.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T155240Z" creationid="Marc Riera" creationdate="20230103T155240Z">
+        <seg>Si modifiqueu les regles de segmentació, se us demanarà si voleu desar els canvis quan tanqueu l'alineador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you need a separate review process, you can for example use the &lt;l0/&gt; panes for problematic segments, or use &lt;l1/&gt; to filter segments based on criteria that you set, and review only those, etc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222943Z" creationid="Marc Riera" creationdate="20221211T222943Z">
@@ -21601,6 +21625,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T122315Z" creationid="Alexandra" creationdate="20150526T124646Z">
         <seg>El trobareu en la carpeta «docs» en la carpeta de programa de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It defaults to &lt;g0&gt;Character&lt;/g0&gt; if at least one of the languages involved does not delimit words with spaces, and to &lt;g1&gt;Word&lt;/g1&gt; otherwise.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T155155Z" creationid="Marc Riera" creationdate="20230103T155155Z">
+        <seg>Per defecte és &lt;g0&gt;Caràcters&lt;/g0&gt; si almenys una de les llengües implicades no delimita les paraules amb espais; en cas contrari, és &lt;g1&gt;Paraules&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39169,6 +39201,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The aligner uses the regular expression &lt;c0&gt;\d+&lt;/c0&gt; to highlight all numbers in the source and target segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T155217Z" creationid="Marc Riera" creationdate="20230103T155217Z">
+        <seg>L'alineador utilitza l'expressió regular &lt;c0&gt;\d+&lt;/c0&gt; per a ressaltar tots els dígits en els segments d'origen i de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The application folder contains the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; application and a number of other important files.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215018Z" creationid="Marc Riera" creationdate="20221123T215018Z">
@@ -39457,6 +39497,22 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165633Z" creationid="Stephanie" creationdate="20150722T181508Z">
         <seg>Les dreceres per defecte de l'OmegaT per al Mac també estan disponibles a SourceForge; totes utilitzen «meta» en comptes de «ctrl»: &lt;u0&gt;Dreceres per defecte de l'OmegaT per al Mac&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default choice is &lt;g0&gt;Yes&lt;/g0&gt;, which may not be what you want if you edited the general OmegaT file filters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T155319Z" creationid="Marc Riera" creationdate="20230103T155319Z">
+        <seg>L'opció per defecte és &lt;g0&gt;Sí&lt;/g0&gt;, que potser no és el que voleu si heu editat els filtres de fitxers generals de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default choice is &lt;g0&gt;Yes&lt;/g0&gt;, which may not be what you want if you edited the general OmegaT segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T155306Z" creationid="Marc Riera" creationdate="20230103T155306Z">
+        <seg>L'opció per defecte és &lt;g0&gt;Sí&lt;/g0&gt;, que potser no és el que voleu si heu editat les regles de segmentació generals de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42854,6 +42910,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220033Z" creationid="Marc Riera" creationdate="20220130T220033Z">
         <seg>Aquesta opció és útil per a alguns sistemes d'entrada de caràcters xinesos, japonesos o coreans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option lets you enter a regular expression to define the pattern used for highlighting text in the source and target segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T155359Z" creationid="Marc Riera" creationdate="20230103T155359Z">
+        <seg>Aquesta opció us permet indicar una expressió regular per a definir el patró utilitzat per a ressaltar el text en els segments d'origen i de destinació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48830,6 +48894,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T233225Z" creationid="Marc Riera" creationdate="20221230T233225Z">
         <seg>Podeu modificar la informació que es mostra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can modify the regular expression to add highlighted parts.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230103T155221Z" creationid="Marc Riera" creationdate="20230103T155221Z">
+        <seg>Podeu modificar l'expressió regular per a afegir parts ressaltades.</seg>
       </tuv>
     </tu>
     <tu>
