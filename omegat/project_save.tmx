@@ -5434,6 +5434,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;2003&lt;/t0&gt; in the fuzzy match:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183457Z" creationid="Marc Riera" creationdate="20230104T183457Z">
+        <seg>&lt;t0&gt;2003&lt;/t0&gt; en la coincidència parcial:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
@@ -5735,6 +5743,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212713Z" creationid="Marc Riera" creationdate="20201130T212713Z">
         <seg>Un projecte en equip es pot obrir i traduir fora de línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A translation that is identical to the source text is not recognized as a translation by default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183539Z" creationid="Marc Riera" creationdate="20230104T183539Z">
+        <seg>Una traducció idèntica al text d'origen per defecte no es reconeix com a traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28180,6 +28196,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT inserts the translation with the highest match percentage above the value you set in this dialog.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183328Z" creationid="Marc Riera" creationdate="20230104T183328Z">
+        <seg>L'OmegaT insereix la traducció amb el percentatge de coincidència més alt per sobre del valor que definiu en aquest quadre de diàleg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT instantaneously notices modifications to TMX files.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T130618Z" creationid="Marc Riera" creationdate="20221211T130618Z">
@@ -29395,6 +29419,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T120910Z" creationid="Marc Riera" creationdate="20201010T201730Z">
         <seg>Ara bé, l'equip de desenvolupament només els inclourà en l'OmegaT si considera que resulten beneficiosos per als usuaris del programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only integers and simple floats (e.g., 5.4) are considered.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183446Z" creationid="Marc Riera" creationdate="20230104T183446Z">
+        <seg>Només es tenen en compte els nombres enters i decimals senzills (per exemple, 5.4).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39321,6 +39353,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tags should generally not be modified, but that is possible when this option is enabled.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T184134Z" creationid="Marc Riera" creationdate="20230104T184134Z">
+        <seg>En general, no s'han de modificar les etiquetes, però és possible quan aquesta opció està habilitada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tags that do not enclose translatable text will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T111039Z" creationid="Marc Riera" creationdate="20221215T111039Z">
@@ -40018,6 +40058,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T142810Z" creationid="Marc Riera" creationdate="20221206T142810Z">
         <seg>El botó &lt;g0&gt;Navega&lt;/g0&gt; està disponible per a tots els recursos del projecte definits per l'usuari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;g0&gt;Delimiter&lt;/g0&gt;defines the delimiter between command parameters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183127Z" creationid="Marc Riera" creationdate="20230104T183127Z">
+        <seg>El &lt;g0&gt;delimitador&lt;/g0&gt;defineix el delimitador entre els paràmetres de l'ordre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44615,6 +44663,22 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This opens a search for the {target} term on DuckDuckGo with a number of search parameters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183111Z" creationid="Marc Riera" creationdate="20230104T183111Z">
+        <seg>Això obre una cerca del terme {target} a DuckDuckGo amb una sèrie de paràmetres de cerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This opens the dictionary application that implements the &lt;c0&gt;dict&lt;/c0&gt; protocol on your machine looking for the {target} term.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183253Z" creationid="Marc Riera" creationdate="20230104T183253Z">
+        <seg>Això obre l'aplicació de diccionari que implementa el protocol &lt;c0&gt;dict&lt;/c0&gt; en l'ordinador i cerca el terme {target}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option allows for that.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T093115Z" creationid="Marc Riera" creationdate="20221214T093115Z">
@@ -46692,10 +46756,18 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>URL search example</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183058Z" creationid="Marc Riera" creationdate="20230104T183058Z">
+        <seg>Exemple de cerca per URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>URL searches as well as commands must contain the string &lt;l0&gt;{target}&lt;/l0&gt; to be accepted.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183039Z" creationid="Marc Riera" creationdate="20230104T183039Z">
-        <seg>Les cerques d'URL, així com les ordres, han de contenir la cadena &lt;l0&gt;{target}&lt;/l0&gt; perquè s'acceptin.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183103Z" creationid="Marc Riera" creationdate="20230104T183039Z">
+        <seg>Les cerques per URL, així com les ordres, han de contenir la cadena &lt;l0&gt;{target}&lt;/l0&gt; perquè s'acceptin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48549,10 +48621,26 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this option temporarily for parts of the translation that do not require much transformation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183303Z" creationid="Marc Riera" creationdate="20230104T183303Z">
+        <seg>Utilitzeu aquesta opció temporalment per a parts de la traducció que no requereixin gaire transformació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use this option to also mark the first such segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T113559Z" creationid="Marc Riera" creationdate="20230104T113559Z">
         <seg>Utilitzeu aquesta opció per a marcar també el primer segment d'aquesta mena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this option to force OmegaT to register such entries and count them as translated.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183557Z" creationid="Marc Riera" creationdate="20230104T183557Z">
+        <seg>Utilitzeu aquesta opció per a forçar que l'OmegaT registri aquestes entrades i les compti com a traduïdes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49317,10 +49405,26 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When OmegaT enters a segment,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183815Z" creationid="Marc Riera" creationdate="20230104T183815Z">
+        <seg>Quan l'OmegaT accedeix a un segment:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When OmegaT reads files, it puts a non-breaking marker at every exception location.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105244Z" creationid="Marc Riera" creationdate="20230104T105244Z">
         <seg>Quan l'OmegaT llegeix els fitxers, col·loca un marcador no separable en cada ubicació d'excepció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a fuzzy match is inserted, OmegaT tries to adapt the numbers in the fuzzy match to the numbers in the source.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183422Z" creationid="Marc Riera" creationdate="20230104T183422Z">
+        <seg>Quan s'insereix una coincidència parcial, l'OmegaT intenta adaptar els nombres de la coincidència parcial als nombres del text d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49435,6 +49539,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T140916Z" creationid="Marc Riera" creationdate="20221211T140916Z">
         <seg>Quan això succeeix, els membres han de seleccionar la traducció adequada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the match is inserted, OmegaT will convert &lt;t0&gt;2003&lt;/t0&gt; to &lt;t1&gt;2001&lt;/t1&gt;:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183521Z" creationid="Marc Riera" creationdate="20230104T183521Z">
+        <seg>Quan s'insereixi la coincidència, l'OmegaT convertirà &lt;t0&gt;2003&lt;/t0&gt; a &lt;t1&gt;2001&lt;/t1&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50635,6 +50747,14 @@ d'allà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also register the prefix in the &lt;l0/&gt; preference to include it in the tag issues checking process and make sure you do not forget it in your translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183357Z" creationid="Marc Riera" creationdate="20230104T183357Z">
+        <seg>També podeu registrar el prefix en la preferència &lt;l0/&gt; per a incloure'l en el procés de comprovació d'errors d'etiquetes i assegurar-vos que no l'oblideu en la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also run the application directly with the following command:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111805Z" creationid="Marc Riera" creationdate="20221209T111805Z">
@@ -50897,6 +51017,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T135033Z" creationid="Marc Riera" creationdate="20221206T135033Z">
         <seg>Les podeu habilitar marcant &lt;l0/&gt; en les preferències de &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can enter your translation right away.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183309Z" creationid="Marc Riera" creationdate="20230104T183309Z">
+        <seg>Podeu introduir la traducció immediatament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52480,6 +52608,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201120T162505Z" creationid="Marc Riera" creationdate="20201120T162505Z">
         <seg>bitext2tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>both located in the &lt;l0&gt;scripting folder&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183827Z" creationid="Marc Riera" creationdate="20230104T183827Z">
+        <seg>Tots dos fitxers són en la &lt;l0&gt;carpeta de scripts&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56687,6 +56823,22 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T101153Z" creationid="Marc Riera" creationdate="20230104T101153Z">
         <seg>la preferència &lt;l0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the content of the source part is copied to the &lt;l0/&gt; file,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183847Z" creationid="Marc Riera" creationdate="20230104T183847Z">
+        <seg>El contingut de la part d'origen es copia al fitxer &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the content of the target part (if any) is copied to the &lt;l0/&gt; file,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183858Z" creationid="Marc Riera" creationdate="20230104T183858Z">
+        <seg>El contingut de la part de destinació (si n'hi ha) es copia al fitxer &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
