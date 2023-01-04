@@ -13501,6 +13501,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Display all source segments in bold</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110635Z" creationid="Marc Riera" creationdate="20230104T110635Z">
+        <seg>Mostra tots els segments d'origen en negreta</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Display context description for TBX &amp;glossaries</seg>
@@ -40858,6 +40866,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The date when the segment was last changed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110616Z" creationid="Marc Riera" creationdate="20230104T110616Z">
+        <seg>Data de la darrera modificació del segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The default OmegaT shortcuts are available from Sourceforge: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165547Z" creationid="Stephanie" creationdate="20150722T181432Z">
@@ -42225,6 +42241,22 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214928Z" creationid="Marc Riera" creationdate="20221208T214928Z">
         <seg>La segona és seleccionar elements en una de les subfinestres de l'OmegaT i obrir el quadre de diàleg després de cada selecció perquè l'OmegaT introdueixi els elements automàticament en els diversos camps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The segment source language.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110626Z" creationid="Marc Riera" creationdate="20230104T110626Z">
+        <seg>Llengua d'origen del segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The segment target language.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110631Z" creationid="Marc Riera" creationdate="20230104T110631Z">
+        <seg>Llengua de destinació del segment</seg>
       </tuv>
     </tu>
     <tu>
