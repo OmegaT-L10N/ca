@@ -15937,6 +15937,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Exception rules should be listed &lt;e0&gt;above&lt;/e0&gt; break rules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T192230Z" creationid="Marc Riera" creationdate="20230104T192230Z">
+        <seg>Les regles d'excepció s'han d'indicar &lt;e0&gt;per sobre&lt;/e0&gt; de regles de divisió.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Exception while editing options:</seg>
@@ -17320,6 +17328,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174819Z" creationid="Marc Riera" creationdate="20221218T174819Z">
         <seg>Per a conèixer més detalls, consulteu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;e0&gt;period followed by a space&lt;/e0&gt; generally defines a sentence end in English.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T192423Z" creationid="Marc Riera" creationdate="20230104T192423Z">
+        <seg>Per exemple, un &lt;e0&gt;punt seguit d'un espai&lt;/e0&gt; generalment defineix un final de frase en anglès.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38401,6 +38417,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify text combinations that are exceptions to a break rule.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T192323Z" creationid="Marc Riera" creationdate="20230104T192323Z">
+        <seg>Especifiqueu combinacions de text que siguin excepcions a una regla de divisió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify the TMX file to be created with:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093500Z" creationid="Marc Riera" creationdate="20221231T093500Z">
@@ -45343,6 +45367,14 @@ tots els paràmetres als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thus, when translating from Canadian French the rules for Canadian French—if any—will apply first, followed by the rules for French and lastly, by the generic rules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T192210Z" creationid="Marc Riera" creationdate="20230104T192210Z">
+        <seg>Així, quan traduïu del francès canadenc, s'aplicaran primer les regles del francès canadenc (si n'hi ha), seguides de les regles del francès i, finalment, les regles genèriques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tick or untick the appropriate boxes to change these settings.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195335Z" creationid="Marc Riera" creationdate="20221206T195335Z">
@@ -45548,10 +45580,26 @@ tots els paràmetres als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To define a break rule, check the &lt;g0&gt;Break/Exception&lt;/g0&gt; box.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T192356Z" creationid="Marc Riera" creationdate="20230104T192356Z">
+        <seg>Per a definir una regla de divisió, marqueu la casella &lt;g0&gt;Divisió/excepció&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To define a list of tags, group each tag between parentheses and separate the groups with &lt;l0&gt;|&lt;/l0&gt; (equivalent to "OR" in regular expressions).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T185350Z" creationid="Marc Riera" creationdate="20230104T185350Z">
         <seg>Per a definir una llista d'etiquetes, agrupeu cada etiqueta entre parèntesis i separeu els grups amb &lt;l0&gt;|&lt;/l0&gt; (equivalent a «OR» en expressions regulars).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To define an exception rule, leave the &lt;g0&gt;Break/Exception &lt;/g0&gt;check box unchecked.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T192254Z" creationid="Marc Riera" creationdate="20230104T192254Z">
+        <seg>Per a definir una regla d'excepció, deixeu la casella de selecció &lt;g0&gt;Divisió/excepció&lt;/g0&gt; sense marcar.</seg>
       </tuv>
     </tu>
     <tu>
