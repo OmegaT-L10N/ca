@@ -30866,6 +30866,30 @@ s'esvaeix com la boira.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Percentage calculated with the &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T190443Z" creationid="Marc Riera" creationdate="20230104T190437Z">
+        <seg>Percentatge calculat amb l'opció &lt;g0&gt;Text complet, amb etiquetes i xifres&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Percentage calculated with the &lt;g0&gt;No tags and no numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T190504Z" creationid="Marc Riera" creationdate="20230104T190504Z">
+        <seg>Percentatge calculat amb l'opció &lt;g0&gt;Sense etiquetes ni xifres&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Percentage calculated with the &lt;g0&gt;Stemming, no tags and no numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T190412Z" creationid="Marc Riera" creationdate="20230104T190412Z">
+        <seg>Percentatge calculat amb l'opció &lt;g0&gt;Lematització, sense etiquetes ni xifres&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
@@ -34462,6 +34486,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T151201Z" creationid="mgalo" creationdate="20181109T233557Z">
         <seg>SVNKit (llicència TMate)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Same as ${diff}, but with the differences (what is to be inserted and deleted) inverted.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T190353Z" creationid="Marc Riera" creationdate="20230104T190353Z">
+        <seg>Igual que ${diff}, però amb les diferències (el que s'ha d'inserir i el que s'ha suprimit) invertides.</seg>
       </tuv>
     </tu>
     <tu>
