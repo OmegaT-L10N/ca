@@ -5680,6 +5680,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A set must be given a name.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183012Z" creationid="Marc Riera" creationdate="20230104T183012Z">
+        <seg>Un conjunt ha de tenir un nom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A shortcut based workflow</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T190438Z" creationid="Marc Riera" creationdate="20221203T190438Z">
@@ -6993,6 +7001,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T214844Z" creationid="Marc Riera" creationdate="20221123T214844Z">
         <seg>Permet les ordres de cerca externa locals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allow local post-processing commands</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T182708Z" creationid="Marc Riera" creationdate="20230104T182708Z">
+        <seg>Permet les ordres de postprocessament locals</seg>
       </tuv>
     </tu>
     <tu>
@@ -11220,6 +11236,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Context Menu Priority</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T182845Z" creationid="Marc Riera" creationdate="20230104T182845Z">
+        <seg>Prioritat en el menú contextual</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Context Menu Priority:</seg>
@@ -14601,6 +14625,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each set represents a group of web searches or local commands that are launched simultaneously.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183006Z" creationid="Marc Riera" creationdate="20230104T183006Z">
+        <seg>Cada conjunt representa un grup de cerques web o ordres locals que s'inicien simultàniament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each time the cursor moves to the next character, OmegaT checks whether:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T172923Z" creationid="Marc Riera" creationdate="20221201T172900Z">
@@ -17383,6 +17415,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T120316Z" creationid="Marc Riera" creationdate="20221206T120309Z">
         <seg>Per raons de seguretat, les ordres de postprocessament locals estan inhabilitades per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For security reasons, the &lt;l0&gt;local post-processing commands&lt;/l0&gt; are disabled by default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T182718Z" creationid="Marc Riera" creationdate="20230104T182718Z">
+        <seg>Per raons de seguretat, les &lt;l0&gt;ordres de postprocessament locals&lt;/l0&gt; estan inhabilitades per defecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24304,6 +24344,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local post-processing commands are saved in the &lt;l0/&gt; file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T182748Z" creationid="Marc Riera" creationdate="20230104T182748Z">
+        <seg>Les ordres de postprocessament locals es desen en el fitxer &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local project commands are disabled for security reasons.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T214817Z" creationid="Marc Riera" creationdate="20221123T214817Z">
@@ -29300,10 +29348,18 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only activate this option if you trust the source of that file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T182807Z" creationid="Marc Riera" creationdate="20230104T182807Z">
+        <seg>Activeu aquesta opció només si confieu en la font del fitxer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only enable local post-processing commands if you trust the source of that file.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110002Z" creationid="Marc Riera" creationdate="20221204T110002Z">
-        <seg>Habiliteu les ordres de postprocessament locals només si confieu en l'origen del fitxer.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T182822Z" creationid="Marc Riera" creationdate="20221204T110002Z">
+        <seg>Habiliteu les ordres de postprocessament locals només si confieu en la font del fitxer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33698,6 +33754,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210915T185410Z" creationid="Marc Riera" creationdate="20210915T185410Z">
         <seg>Reinicieu l'OmegaT per a aplicar aquests canvis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restart OmegaT to apply this change.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T182953Z" creationid="Marc Riera" creationdate="20230104T182953Z">
+        <seg>Reinicieu l'OmegaT per a aplicar aquest canvi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38632,6 +38696,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Such commands are defined in the &lt;l0/&gt; window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T182740Z" creationid="Marc Riera" creationdate="20230104T182740Z">
+        <seg>Aquestes ordres es defineixen en la finestra &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Such external modifications will &lt;e0&gt;not&lt;/e0&gt; be reflected in OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214654Z" creationid="Marc Riera" creationdate="20221213T214654Z">
@@ -41845,6 +41917,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The name will be displayed at the bottom of the &lt;l0/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183017Z" creationid="Marc Riera" creationdate="20230104T183017Z">
+        <seg>El nom es mostrarà en la part inferior del menú &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The next section describes the syntax used in the shortcut definition files, and provides an example modification.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T120824Z" creationid="Marc Riera" creationdate="20221217T120824Z">
@@ -44567,6 +44647,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option enables you to change the order of the commands in the Editor pane &lt;l0&gt;context menu&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T182910Z" creationid="Marc Riera" creationdate="20230104T182910Z">
+        <seg>Aquesta opció us permet canviar l'ordre de les ordres en el &lt;l0&gt;menú contextual&lt;/l0&gt; de la subfinestra «Editor».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option forces Java 8 compatibility.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T093105Z" creationid="Marc Riera" creationdate="20221214T093105Z">
@@ -46604,6 +46692,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>URL searches as well as commands must contain the string &lt;l0&gt;{target}&lt;/l0&gt; to be accepted.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183039Z" creationid="Marc Riera" creationdate="20230104T183039Z">
+        <seg>Les cerques d'URL, així com les ordres, han de contenir la cadena &lt;l0&gt;{target}&lt;/l0&gt; perquè s'acceptin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>URL, Model ID, Login ID, Password</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T093052Z" creationid="Marc Riera" creationdate="20230104T093052Z">
@@ -46634,6 +46730,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T110526Z" creationid="mgalo" creationdate="20181112T110526Z">
         <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URLs are opened with the default web browser, one per tab.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183051Z" creationid="Marc Riera" creationdate="20230104T183051Z">
+        <seg>Els URL s'obren amb el navegador web per defecte, un per pestanya.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48869,6 +48973,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Values around 100 display commands at the top, and values around 900 display them at the bottom.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T182944Z" creationid="Marc Riera" creationdate="20230104T182944Z">
+        <seg>Els valors propers a 100 mostren les ordres en la part superior, mentre que els valors propers a 900 les mostren en la part inferior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Variable name</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175853Z" creationid="Marc Riera" creationdate="20221218T175853Z">
@@ -50448,6 +50560,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T120345Z" creationid="Marc Riera" creationdate="20221206T120345Z">
         <seg>També podeu definir ordres de postprocessament globals disponibles per a tots els projectes que comparteixen la mateixa carpeta de configuració.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also define local post-processing commands available only to a given project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T182736Z" creationid="Marc Riera" creationdate="20230104T182736Z">
+        <seg>També podeu definir ordres de postprocessament locals disponibles només per a un projecte determinat.</seg>
       </tuv>
     </tu>
     <tu>
