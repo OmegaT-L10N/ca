@@ -6340,6 +6340,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional themes can be added as plugins.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T101738Z" creationid="Marc Riera" creationdate="20230104T101738Z">
+        <seg>Es poden afegir temes addicionals com a connectors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional variants are available for &lt;l0&gt;${nameOnly}&lt;/l0&gt; and &lt;l1&gt;${Extension}&lt;/l1&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T105541Z" creationid="Marc Riera" creationdate="20221215T105418Z">
@@ -7614,6 +7622,22 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191113T073037Z" creationid="Marc Riera" creationdate="20191113T073037Z">
         <seg>Corre&amp;geix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apply a different font size to the dictionary pane</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102316Z" creationid="Marc Riera" creationdate="20230104T102316Z">
+        <seg>Aplica una mida de lletra diferent a la subfinestra «Diccionari»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apply this font to tabular data (project files, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102238Z" creationid="Marc Riera" creationdate="20230104T102238Z">
+        <seg>Aplica-ho a les taules (fitxers del projecte, estadístiques, etc.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8931,6 +8955,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, the dictionary pane uses the same font size as the main window panes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102346Z" creationid="Marc Riera" creationdate="20230104T102329Z">
+        <seg>Per defecte, la subfinestra «Diccionari» utilitza la mateixa mida de lletra que les subfinestres de la finestra principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the encoding of the translated file is the same as that of the source file.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084037Z" creationid="Marc Riera" creationdate="20221214T084037Z">
@@ -9442,6 +9474,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112632Z" creationid="Marc Riera" creationdate="20180221T112632Z">
         <seg>Caràcters (sense espais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters that are not supported will appear as squares.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102230Z" creationid="Marc Riera" creationdate="20230104T102230Z">
+        <seg>Els caràcters no admesos es mostraran com a quadrats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10321,6 +10361,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T155047Z" creationid="Marc Riera" creationdate="20221129T155047Z">
         <seg>Col·laboració</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Colors</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102318Z" creationid="Marc Riera" creationdate="20230104T102318Z">
+        <seg>Colors</seg>
       </tuv>
     </tu>
     <tu>
@@ -20072,6 +20120,14 @@ extensions dels fitxers.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you disable this function you will need to use &lt;l0/&gt;&lt;l1/&gt; to search for dictionary matches.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T101651Z" creationid="Marc Riera" creationdate="20230104T101651Z">
+        <seg>Si inhabiliteu aquesta funció, haureu d'utilitzar &lt;l0/&gt;&lt;l1/&gt; per a cercar coincidències en el diccionari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you disable this option, machine translations will only be fetched when you use &lt;l0/&gt;&lt;l1/&gt; in the current segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T092859Z" creationid="Marc Riera" creationdate="20230104T092859Z">
@@ -20414,6 +20470,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200726T112208Z" creationid="Marc Riera" creationdate="20190520T124111Z">
         <seg>Si voleu utilitzar l'OmegaT en la mateixa llengua que heu utilitzat durant la instal·lació, marqueu la casella següent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you work in a language pair that uses different writing systems, make sure you choose a font that can display both languages correctly.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102212Z" creationid="Marc Riera" creationdate="20230104T102212Z">
+        <seg>Si treballeu en un parell de llengües que utilitza sistemes d'escriptura diferents, assegureu-vos de triar una lletra que pugui mostrar correctament les dues llengües.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26644,6 +26708,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not all natively provided Java themes are compatible with OmegaT operation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T101812Z" creationid="Marc Riera" creationdate="20230104T101812Z">
+        <seg>No tots els temes del Java proporcionats de manera nativa són compatibles amb el funcionament de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not all of the Okapi Framework file filters are included into the file filter plugin.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T135202Z" creationid="Marc Riera" creationdate="20221211T135202Z">
@@ -27799,6 +27871,14 @@ de la llicència o bé (si ho preferiu) qualsevol altra versió posterior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is bundled with a script called &lt;l0/&gt; that provides a default dark theme.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102426Z" creationid="Marc Riera" creationdate="20230104T102426Z">
+        <seg>L'OmegaT inclou un script anomenat &lt;l0/&gt; que proporciona un tema fosc per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is designed not only to facilitate the translation process, but also to ensure the translator does not have to worry about losing data.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T215121Z" creationid="Marc Riera" creationdate="20221211T215121Z">
@@ -28216,6 +28296,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T122504Z" creationid="Marc Riera" creationdate="20180221T114709Z">
         <seg>L'OmegaT utilitza les biblioteques següents:
 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT uses the same font for both the source and target languages.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102146Z" creationid="Marc Riera" creationdate="20230104T102146Z">
+        <seg>L'OmegaT utilitza la mateixa lletra per a les llengües d'origen i de destinació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30816,6 +30904,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preferences here define how the contents of the &lt;l0/&gt; folder are displayed in the &lt;l1/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T101634Z" creationid="Marc Riera" creationdate="20230104T101634Z">
+        <seg>Aquestes preferències defineixen com es mostren els continguts de la carpeta &lt;l0/&gt; en la subfinestra &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preferences set in this dialog are saved to the default &lt;l0&gt;configuration folder&lt;/l0&gt; and apply to all translation projects unless you have specified a different configuration folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T092650Z" creationid="Marc Riera" creationdate="20230104T092650Z">
@@ -33254,6 +33350,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restores the OmegaT window panes to their default arrangement.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102028Z" creationid="Marc Riera" creationdate="20230104T102028Z">
+        <seg>Reinicialitza la disposició de les subfinestres de l'OmegaT a la disposició per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restores the components of the main OmegaT window to their default state.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220644Z" creationid="Marc Riera" creationdate="20220130T220644Z">
@@ -34167,6 +34271,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Scripts can be used to set predefined themes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102418Z" creationid="Marc Riera" creationdate="20230104T102418Z">
+        <seg>Es poden utilitzar scripts per a establir temes predefinits.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Scripts/procedures are available to enable you to do the following:</seg>
@@ -34286,6 +34398,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151331Z" creationid="Packard Bell" creationdate="20150529T111030Z">
         <seg>Cerca i substitueix...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search automatically</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T101637Z" creationid="Marc Riera" creationdate="20230104T101637Z">
+        <seg>Cerca automàticament</seg>
       </tuv>
     </tu>
     <tu>
@@ -35047,6 +35167,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l1/&gt; window for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102432Z" creationid="Marc Riera" creationdate="20230104T102432Z">
+        <seg>Consulteu la finestra &lt;l1/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l2/&gt; preference for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T213245Z" creationid="Marc Riera" creationdate="20221225T213239Z">
@@ -35726,6 +35854,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a theme for the OmegaT user interface.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T101731Z" creationid="Marc Riera" creationdate="20230104T101731Z">
+        <seg>Seleccioneu un tema per a la interfície d'usuari de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select appropriate version</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220724Z" creationid="Marc Riera" creationdate="20221124T220724Z">
@@ -35788,6 +35924,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220307T225126Z" creationid="Marc Riera" creationdate="20220307T225126Z">
         <seg>Seleccioneu el primer segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the font and font size used to display the text in the main window panes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102135Z" creationid="Marc Riera" creationdate="20230104T102127Z">
+        <seg>Seleccioneu la lletra i la mida utilitzats per a mostrar el text en les subfinestres de la finestra principal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36788,6 +36932,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T203319Z" creationid="Marc Riera" creationdate="20221215T203319Z">
         <seg>Algunes aplicacions requereixen conservar alguns codis literals d'Unicode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some dictionary drivers provided as plugins do not support this feature.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T101724Z" creationid="Marc Riera" creationdate="20230104T101717Z">
+        <seg>Alguns controladors de diccionari proporcionats com a connectors no són compatibles amb aquesta característica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38390,6 +38542,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231849Z" creationid="Marc Riera" creationdate="20191112T231849Z">
         <seg>Visualització de taula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tabular data is by default displayed in a monospaced font that keeps columns properly aligned.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102304Z" creationid="Marc Riera" creationdate="20230104T102304Z">
+        <seg>Per defecte, les dades de les taules es mostren amb un tipus de lletra monoespaiat que manté les columnes alineades correctament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41930,6 +42090,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The themes also provide predefined set of default colors.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T101743Z" creationid="Marc Riera" creationdate="20230104T101743Z">
+        <seg>Els temes també proporcionen un conjunt predefinit de colors per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The third column can be used for additional information.</seg>
@@ -43065,6 +43233,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T215939Z" creationid="Marc Riera" creationdate="20220130T215916Z">
         <seg>Podeu accedir a aquest quadre de diàleg seleccionant &lt;m0&gt; &lt;g1&gt;Opcions&lt;/g1&gt; &lt;g2&gt;Preferències...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This dialog lists the file filters available to projects that do not use local file filters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102900Z" creationid="Marc Riera" creationdate="20230104T102900Z">
+        <seg>Aquest quadre de diàleg enumera els filtres de fitxers disponibles per als projectes que no utilitzen filtres de fitxers locals.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47123,12 +47299,28 @@ El valor actual és de {0} MB.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Use condensed view</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T101700Z" creationid="Marc Riera" creationdate="20230104T101700Z">
+        <seg>Utilitza la visualització compacta</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Use custom templates for modification &amp;info</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T225347Z" creationid="Marc Riera" creationdate="20191112T225347Z">
         <seg>Utilitza plantilles personalitzades per a la &amp;informació de modificació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use fuzzy matching</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T101656Z" creationid="Marc Riera" creationdate="20230104T101656Z">
+        <seg>Utilitza les coincidències parcials</seg>
       </tuv>
     </tu>
     <tu>
@@ -47473,6 +47665,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this feature when you are unable to restore the desired arrangement after undocking, moving, or hiding one or more panes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102049Z" creationid="Marc Riera" creationdate="20230104T102049Z">
+        <seg>Utilitzeu aquesta característica quan no pugueu reinicialitzar la disposició desitjada després de desacoblar, moure o amagar una o més subfinestres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use this function when you run into problems while rearranging the window layout.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T124022Z" creationid="Marc Riera" creationdate="20221209T124022Z">
@@ -47780,6 +47980,14 @@ El valor actual és de {0} MB.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200123T160410Z" creationid="Marc Riera" creationdate="20180212T231833Z">
         <seg>Instal·lació de l'OmegaT amb Java Web Start (tots els sistemes operatius)
 =========================================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using a proportional font will break that layout.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102311Z" creationid="Marc Riera" creationdate="20230104T102311Z">
+        <seg>L'ús d'una lletra proporcional trencarà aquesta disposició.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49591,6 +49799,14 @@ d'allà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can assign different colors for the various parts of the user interface.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102402Z" creationid="Marc Riera" creationdate="20230104T102402Z">
+        <seg>Podeu assignar colors diferents a les diverses parts de la interfície d'usuari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can automate file name changes using the &lt;l0/&gt; option for the file filter.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T190631Z" creationid="Marc Riera" creationdate="20221230T190631Z">
@@ -50057,6 +50273,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214433Z" creationid="Marc Riera" creationdate="20221207T214433Z">
         <seg>Podeu utilitzar les fletxes per a seleccionar un fitxer i obrir-lo per a traduir-lo prement &lt;k1&gt;Retorn&lt;/k1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use it when panes do not appear as expected after an OmegaT upgrade.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102106Z" creationid="Marc Riera" creationdate="20230104T102106Z">
+        <seg>Podeu utilitzar-la quan les subfinestres no apareguin com esperàveu després d'una actualització de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
