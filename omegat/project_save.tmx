@@ -46457,8 +46457,8 @@ El valor actual és de {0} MB.</seg>
       <tuv lang="en">
         <seg>Use &amp;Fuzzy Matching</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180005Z" creationid="Marc Riera" creationdate="20221124T180005Z">
-        <seg>Utiliza les &amp;coincidències parcials</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T094610Z" creationid="Marc Riera" creationdate="20221124T180005Z">
+        <seg>Utilitza les &amp;coincidències parcials</seg>
       </tuv>
     </tu>
     <tu>
@@ -46508,8 +46508,8 @@ El valor actual és de {0} MB.</seg>
       <tuv lang="en">
         <seg>Use &amp;fuzzy matching</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T214801Z" creationid="Marc Riera" creationdate="20221123T214801Z">
-        <seg>Utiliza les &amp;coincidències parcials</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T094626Z" creationid="Marc Riera" creationdate="20221123T214801Z">
+        <seg>Utilitza les &amp;coincidències parcials</seg>
       </tuv>
     </tu>
     <tu>
@@ -46525,8 +46525,8 @@ El valor actual és de {0} MB.</seg>
       <tuv lang="en">
         <seg>Use &amp;stemming</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221123T213712Z" creationid="Marc Riera" creationdate="20221123T213712Z">
-        <seg>Utiliza la &amp;lematització</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T094616Z" creationid="Marc Riera" creationdate="20221123T213712Z">
+        <seg>Utilitza la &amp;lematització</seg>
       </tuv>
     </tu>
     <tu>
@@ -47114,6 +47114,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T132840Z" creationid="Marc Riera" creationdate="20221124T203318Z">
         <seg>Utilitza paràme&amp;tres de filtres de fitxers locals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use stemming</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T094559Z" creationid="Marc Riera" creationdate="20230104T094559Z">
+        <seg>Utilitza la lematització</seg>
       </tuv>
     </tu>
     <tu>
@@ -48148,6 +48156,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200742Z" creationid="Marc Riera" creationdate="20221210T200742Z">
         <seg>Independentment del que proveu, no trobeu la manera de solucionar-ho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a glossary term is a compound word, the term will match even if the words appear separately in the source text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T094552Z" creationid="Marc Riera" creationdate="20230104T094552Z">
+        <seg>Quan un terme del glossari és una paraula composta, el terme coincidirà encara que les paraules apareguin per separat en el text d'origen.</seg>
       </tuv>
     </tu>
     <tu>
