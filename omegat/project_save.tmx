@@ -6424,6 +6424,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional plugins can be found on the &lt;u0&gt;OmegaT development site&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T191837Z" creationid="Marc Riera" creationdate="20230104T191826Z">
+        <seg>Podeu trobar connectors addicionals en el &lt;u0&gt;lloc de desenvolupament de l'OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional themes can be added as plugins.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T101738Z" creationid="Marc Riera" creationdate="20230104T101738Z">
@@ -8578,6 +8586,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201121T111254Z" creationid="Marc Riera" creationdate="20201121T111254Z">
         <seg>Abans de continuar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Before resetting the master password, always make a backup of that information, because it will be deleted and will have to be re-entered.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T191734Z" creationid="Marc Riera" creationdate="20230104T191734Z">
+        <seg>Abans de reinicialitzar la contrasenya mestra, feu sempre una còpia de seguretat d'aquesta informació, perquè se suprimirà i l'haureu de tornar a introduir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20828,6 +20844,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you use an authenticated proxy server to access the Internet, enter your credentials here.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T191032Z" creationid="Marc Riera" creationdate="20230104T191032Z">
+        <seg>Si utilitzeu un servidor intermediari autenticat per a accedir a Internet, introduïu les credencials aquí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you use local rules, you can still access the global rules, but modifying them will have no effect on your project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T115756Z" creationid="Marc Riera" creationdate="20221203T115756Z">
@@ -31350,6 +31374,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180212T221053Z" creationid="Marc Riera" creationdate="20180212T221053Z">
         <seg>Connectors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugins are installed either in the &lt;l0/&gt; folder under the &lt;l1&gt;application folder&lt;/l1&gt;, or in the platform-specific &lt;l2&gt;configuration folder&lt;/l2&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T191806Z" creationid="Marc Riera" creationdate="20230104T191806Z">
+        <seg>Els connectors s'instal·len en la carpeta &lt;l0/&gt; de la &lt;l1&gt;carpeta de l'aplicació&lt;/l1&gt;, o en la &lt;l2&gt;carpeta de configuració&lt;/l2&gt; específica del sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48901,6 +48933,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T113559Z" creationid="Marc Riera" creationdate="20230104T113559Z">
         <seg>Utilitzeu aquesta opció per a marcar també el primer segment d'aquesta mena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this option to choose whether to be automatically notified of updates to OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T191900Z" creationid="Marc Riera" creationdate="20230104T191900Z">
+        <seg>Utilitzeu aquesta opció per a triar si voleu rebre notificacions automàtiques de les actualitzacions de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
