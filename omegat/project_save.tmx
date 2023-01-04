@@ -280,6 +280,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${fuzzyFlag}${sourceText} ${targetText}
+&lt;${score}/${noStemScore}/${adjustedScore}%
+${filePath}&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110333Z" creationid="Marc Riera" creationdate="20230104T110333Z">
+        <seg>${fuzzyFlag}${sourceText} ${targetText}
+&lt;${score}/${noStemScore}/${adjustedScore}%
+${filePath}&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${glossaryRoot}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175901Z" creationid="Marc Riera" creationdate="20221218T175901Z">
@@ -292,6 +304,14 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085616Z" creationid="Marc Riera" creationdate="20230104T085616Z">
         <seg>${id}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${id}.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110325Z" creationid="Marc Riera" creationdate="20230104T110325Z">
+        <seg>${id}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3914,6 +3934,22 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;${score}/${noStemScore}/${adjustedScore}%&gt; ${fuzzyFlag} ${fileNameOnly}
+[NEW]▷ ${diff}
+			
+[OLD]◀ ${diffReversed}
+◀ ${targetText}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110350Z" creationid="Marc Riera" creationdate="20230104T110350Z">
+        <seg>&lt;${score}/${noStemScore}/${adjustedScore}%&gt; ${fuzzyFlag} ${fileNameOnly}
+[NOU]▷ ${diff}
+			
+[ANTERIOR]◀ ${diffReversed}
+◀ ${targetText}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;&amp;br&gt; (breaks)</seg>
@@ -5679,6 +5715,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A string that shows the differences between the source and the match.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110429Z" creationid="Marc Riera" creationdate="20230104T110429Z">
+        <seg>Cadena que mostra les diferències entre el text d'origen i la coincidència</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A team project can be opened and translated offline.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212713Z" creationid="Marc Riera" creationdate="20201130T212713Z">
@@ -6952,6 +6996,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Allow tag editing</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105749Z" creationid="Marc Riera" creationdate="20230104T105749Z">
+        <seg>Permet l'edició de les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Allow to save password as plain text</seg>
@@ -6967,6 +7019,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T090227Z" creationid="mgalo" creationdate="20181112T085853Z">
         <seg>Permet que les etiquetes del text traduït estiguin en un ordre di&amp;ferent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allow translated tags to be in a different order</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110007Z" creationid="Marc Riera" creationdate="20230104T110007Z">
+        <seg>Permet que les etiquetes del text traduït estiguin en un ordre diferent</seg>
       </tuv>
     </tu>
     <tu>
@@ -8540,6 +8600,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Block the creation of translated files with tag issues</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110026Z" creationid="Marc Riera" creationdate="20230104T110026Z">
+        <seg>Impedeix la creació de fitxers traduïts amb problemes d'etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Blog pages on OmegaT.</seg>
@@ -9811,6 +9879,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check issues when leaving a segment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105814Z" creationid="Marc Riera" creationdate="20230104T105814Z">
+        <seg>Comprova si hi ha errors en sortir d'un segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check it if you need information on OmegaT's evolution.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T111924Z" creationid="Marc Riera" creationdate="20221129T111924Z">
@@ -9824,6 +9900,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150636Z" creationid="Marc Riera" creationdate="20190924T150636Z">
         <seg>Comprova el nombre d'etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check printf function variables</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105918Z" creationid="Marc Riera" creationdate="20230104T105918Z">
+        <seg>Comprova les variables de la funció «printf»</seg>
       </tuv>
     </tu>
     <tu>
@@ -9859,6 +9943,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T200440Z" creationid="Marc Riera" creationdate="20201010T200440Z">
         <seg>Comprova els patrons de MessageFormat del &amp;Java senzills (p. ex.: {0}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check simple Java MessageFormat placeholders</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110000Z" creationid="Marc Riera" creationdate="20230104T105937Z">
+        <seg>Comprova els patrons de MessageFormat del Java senzills</seg>
       </tuv>
     </tu>
     <tu>
@@ -11573,6 +11665,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Count flagged text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110032Z" creationid="Marc Riera" creationdate="20230104T110032Z">
+        <seg>Compta el text marcat i les etiquetes personalitzades en les estadístiques</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Counter:</seg>
@@ -13001,6 +13101,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190925T073909Z" creationid="Marc Riera" creationdate="20190925T073909Z">
         <seg>S'està detectant...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Determine how to handle tags in TMX files generated by other tools.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110304Z" creationid="Marc Riera" creationdate="20230104T110304Z">
+        <seg>Determina com tractar les etiquetes dels fitxers TMX generats per altres eines.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15890,6 +15998,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220824T080014Z" creationid="Marc Riera" creationdate="20220824T080014Z">
         <seg>Carpeta de les memòries de traducció exportades:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export the segment to a text file</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105609Z" creationid="Marc Riera" creationdate="20230104T105609Z">
+        <seg>Exporta el segment a un fitxer de text</seg>
       </tuv>
     </tu>
     <tu>
@@ -21325,6 +21441,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include matches from other languages</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110308Z" creationid="Marc Riera" creationdate="20230104T110308Z">
+        <seg>Inclou les coincidències en altres llengües</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Include pattern</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190812Z" creationid="Marc Riera" creationdate="20221124T190812Z">
@@ -21415,6 +21539,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T005706Z" creationid="Alexandra" creationdate="20150526T155815Z">
         <seg>Informació sobre els procediments i característiques de l'OmegaT per a usuaris avançats que es poden trobar en altres llocs web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initial number of loaded segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105908Z" creationid="Marc Riera" creationdate="20230104T105908Z">
+        <seg>Nombre inicial de segments carregats</seg>
       </tuv>
     </tu>
     <tu>
@@ -25336,6 +25468,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Minimal threshold to show a fuzzy match</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110129Z" creationid="Marc Riera" creationdate="20230104T110129Z">
+        <seg>Llindar mínim per a mostrar una coincidència parcial</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Minimal threshold to show a fuzzy match:</seg>
@@ -27226,6 +27366,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Number of the match from 1 to 5</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110407Z" creationid="Marc Riera" creationdate="20230104T110407Z">
+        <seg>Número de la coincidència, de l'1 al 5</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Number of unique segments</seg>
@@ -28330,6 +28478,14 @@ installed on your system.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T123521Z" creationid="Marc Riera" creationdate="20191110T185053Z">
         <seg>L'OmegaT requereix que tingueu instal·lada la versió 1.8 o posterior del Java
 Runtime Environment (JRE) en el sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT runs an issues check on the segment as you leave it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105828Z" creationid="Marc Riera" creationdate="20230104T105828Z">
+        <seg>L'OmegaT executa una comprovació d'errors en el segment en sortir-ne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30271,6 +30427,14 @@ s'esvaeix com la boira.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T230317Z" creationid="Marc Riera" creationdate="20191110T230317Z">
         <seg>Separació de paràgrafs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph delimitation format</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105912Z" creationid="Marc Riera" creationdate="20230104T105912Z">
+        <seg>Format dels límits dels paràgrafs</seg>
       </tuv>
     </tu>
     <tu>
@@ -34151,6 +34315,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Save auto-populated status</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105837Z" creationid="Marc Riera" creationdate="20230104T105837Z">
+        <seg>Desa l'estat de propagació automàtica</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Save changes to filter settings?</seg>
@@ -34174,6 +34346,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T154917Z" creationid="Marc Riera" creationdate="20220506T154917Z">
         <seg>Desa la font de la &amp;traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save origin of translation</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105902Z" creationid="Marc Riera" creationdate="20230104T105858Z">
+        <seg>Desa la font de la traducció</seg>
       </tuv>
     </tu>
     <tu>
@@ -35319,6 +35499,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt;&lt;l1/&gt; menu for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110022Z" creationid="Marc Riera" creationdate="20230104T110017Z">
+        <seg>Consulteu el menú &lt;l0/&gt;&lt;l1/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l1/&gt; appendix for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102922Z" creationid="Marc Riera" creationdate="20230104T102922Z">
@@ -35387,6 +35575,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102432Z" creationid="Marc Riera" creationdate="20230104T102432Z">
         <seg>Consulteu la finestra &lt;l1/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105724Z" creationid="Marc Riera" creationdate="20230104T105724Z">
+        <seg>Consulteu la finestra &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36090,6 +36286,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220724Z" creationid="Marc Riera" creationdate="20221124T220724Z">
         <seg>Seleccioneu la versió adequada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select how tags of non-OmegaT TMXs should be displayed</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110251Z" creationid="Marc Riera" creationdate="20230104T110251Z">
+        <seg>Seleccioneu la manera com es mostraran les etiquetes dels fitxers TMX d'altres aplicacions</seg>
       </tuv>
     </tu>
     <tu>
@@ -36836,6 +37040,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T215023Z" creationid="Marc Riera" creationdate="20221211T215023Z">
         <seg>Uns paràmetres senzills permeten als traductors compartir fàcilment els recursos i treballar conjuntament en un projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simple variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105932Z" creationid="Marc Riera" creationdate="20230104T105932Z">
+        <seg>Variables senzilles (p. ex., «%s», «%d»)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38183,6 +38395,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T152352Z" creationid="mgalo" creationdate="20181112T115220Z">
         <seg>Pas 2: feu les correccions manuals necessàries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stop at untranslated and alternatives translations</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105740Z" creationid="Marc Riera" creationdate="20230104T105740Z">
+        <seg>Atura't en els segments sense traduir i amb traduccions alternatives</seg>
       </tuv>
     </tu>
     <tu>
@@ -39754,6 +39974,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; script does something similar but for the whole project at once.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105718Z" creationid="Marc Riera" creationdate="20230104T105718Z">
+        <seg>L'script &lt;l0/&gt; fa una acció similar, però per a tot el projecte alhora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; section at the end of this appendix provides a few starting points to explore advanced or complex uses beyond the scope of this manual.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T090930Z" creationid="Marc Riera" creationdate="20221231T090930Z">
@@ -39847,6 +40075,22 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201121T225554Z" creationid="Alexandra" creationdate="20150526T124708Z">
         <seg>Manual d'usuari en HTML per a la versió estàndard de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The ID of the translator who created the segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110540Z" creationid="Marc Riera" creationdate="20230104T110540Z">
+        <seg>ID del traductor que ha creat el segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The ID of the translator who last changed the segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110604Z" creationid="Marc Riera" creationdate="20230104T110604Z">
+        <seg>ID del traductor que ha modificat el segment per darrera vegada</seg>
       </tuv>
     </tu>
     <tu>
@@ -40104,6 +40348,30 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192220Z" creationid="Marc Riera" creationdate="20201124T192220Z">
         <seg>La versió estàndard requereix el Java {{site.data.versions.standard.java_version}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TM file full path.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110524Z" creationid="Marc Riera" creationdate="20230104T110524Z">
+        <seg>Camí complet del fitxer de la memòria de traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TM file relative path.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110531Z" creationid="Marc Riera" creationdate="20230104T110531Z">
+        <seg>Camí relatiu del fitxer de la memòria de traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TM filename, without the extension.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110507Z" creationid="Marc Riera" creationdate="20230104T110507Z">
+        <seg>Nom del fitxer de la memòria de traducció, sense l'extensió</seg>
       </tuv>
     </tu>
     <tu>
@@ -40582,6 +40850,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The date when the segment was created.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110547Z" creationid="Marc Riera" creationdate="20230104T110547Z">
+        <seg>Data de creació del segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The default OmegaT shortcuts are available from Sourceforge: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165547Z" creationid="Stephanie" creationdate="20150722T181432Z">
@@ -40908,6 +41184,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T181529Z" creationid="Marc Riera" creationdate="20221210T181529Z">
         <seg>Els fitxers s'obren en l'aplicació per defecte establerta pel sistema operatiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The files are overwritten when OmegaT enters a new segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105702Z" creationid="Marc Riera" creationdate="20230104T105702Z">
+        <seg>Els fitxers se sobreescriuen quan l'OmegaT accedeix a segment nou.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41510,6 +41794,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215845Z" creationid="Marc Riera" creationdate="20221207T215845Z">
         <seg>L'opció sempre està seleccionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The option is equivalent to using &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105833Z" creationid="Marc Riera" creationdate="20230104T105833Z">
+        <seg>L'opció és equivalent a utilitzar &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42170,6 +42462,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The source text of the match</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110416Z" creationid="Marc Riera" creationdate="20230104T110416Z">
+        <seg>Text d'origen de la coincidència</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The specified dictionary folder cannot be used.</seg>
@@ -42309,6 +42609,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T093848Z" creationid="Marc Riera" creationdate="20221214T093848Z">
         <seg>El patró de nom dels fitxers de destinació utilitza una sintaxi especial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The target text of the match</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110439Z" creationid="Marc Riera" creationdate="20230104T110439Z">
+        <seg>Text de destinació de la coincidència</seg>
       </tuv>
     </tu>
     <tu>
@@ -43756,6 +44064,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160124Z" creationid="Marc Riera" creationdate="20221201T160124Z">
         <seg>Aquesta carpeta proporciona una ubicació alternativa per als connectors d'extensió de l'OmegaT instal·lats manualment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This function has no relation to the &lt;l0/&gt; function.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105621Z" creationid="Marc Riera" creationdate="20230104T105621Z">
+        <seg>Aquesta funció no té cap relació amb la funció &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50119,6 +50435,14 @@ d'allà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can apply a penalty to such matches.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110319Z" creationid="Marc Riera" creationdate="20230104T110319Z">
+        <seg>Podeu aplicar una penalització a aquestes coincidències.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can assign different colors for the various parts of the user interface.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102402Z" creationid="Marc Riera" creationdate="20230104T102402Z">
@@ -50195,6 +50519,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163626Z" creationid="Marc Riera" creationdate="20220625T163626Z">
         <seg>Podeu canviar la posició de qualsevol subfinestra o fins i tot desacoblar-la a una finestra independent fent clic i arrossegant la subfinestra pel seu nom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the threshold here.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110134Z" creationid="Marc Riera" creationdate="20230104T110134Z">
+        <seg>Aquí podeu canviar el llindar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51560,6 +51892,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T115125Z" creationid="Marc Riera" creationdate="20180221T113721Z">
         <seg>Tots els segments coincidents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>also stops at segments with alternative translations.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105746Z" creationid="Marc Riera" creationdate="20230104T105746Z">
+        <seg>també s'atura en els segments amb traduccions alternatives.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56980,6 +57320,14 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181111T230845Z" creationid="mgalo" creationdate="20181111T230845Z">
         <seg>▼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>⥤ ${id}.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110336Z" creationid="Marc Riera" creationdate="20230104T110336Z">
+        <seg>⥤ ${id}.</seg>
       </tuv>
     </tu>
     <tu>
