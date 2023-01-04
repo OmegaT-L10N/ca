@@ -8920,6 +8920,22 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Calling the command on the same selection one more time merges the contents of all selected cells into a single cell.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T082515Z" creationid="Marc Riera" creationdate="20230104T082515Z">
+        <seg>Si es torna a executar l'ordre sobre la mateixa selecció, s'uneix el contingut de totes les cel·les seleccionades en una única cel·la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Calling this command opens the &lt;g0&gt;Edit Text&lt;/g0&gt; dialog, which allows you to make changes to the text of the segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T082552Z" creationid="Marc Riera" creationdate="20230104T082552Z">
+        <seg>Amb aquesta ordre s'obre el quadre de diàleg &lt;g0&gt;Edició del text&lt;/g0&gt;, que us permet aplicar canvis al text del segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Camtasia for Windows</seg>
@@ -19661,6 +19677,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T185546Z" creationid="Marc Riera" creationdate="20230103T185546Z">
         <seg>Si se seleccionen dos o més segments, s'uniran tots, però romandran en cel·les independents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If two or more segments occupying separate cells in the same row (segments that do not have a &lt;g0&gt;Keep&lt;/g0&gt; check box on the same line as their cell) are selected, this command will split them the selected cells back into separate rows (with a &lt;g1&gt;Keep&lt;/g1&gt; check box).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T082429Z" creationid="Marc Riera" creationdate="20230104T082429Z">
+        <seg>Si se seleccionen dos o més segments que ocupen cel·les independents de la mateixa fila (segments que no tenen una casella de selecció (&lt;g0&gt;Conserva&lt;/g0&gt; en la mateixa línia que la seva cel·la), aquesta ordre les tornarà a dividir en files independents (amb una casella de selecció &lt;g1&gt;Conserva&lt;/g1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42880,6 +42904,22 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This highlights the corresponding &lt;g0&gt;Keep&lt;/g0&gt; column in green.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T082730Z" creationid="Marc Riera" creationdate="20230104T082730Z">
+        <seg>Això ressalta la columna &lt;g0&gt;Conserva&lt;/g0&gt; corresponent de color verd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This highlights the corresponding &lt;g0&gt;Keep&lt;/g0&gt; column in red.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T082736Z" creationid="Marc Riera" creationdate="20230104T082736Z">
+        <seg>Això ressalta la columna &lt;g0&gt;Conserva&lt;/g0&gt; corresponent de color vermell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This information applies to all systems that have a Java version compatible with Java 8 Runtime Environment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T105143Z" creationid="Marc Riera" creationdate="20221209T105143Z">
@@ -46116,6 +46156,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Enter&lt;/k2&gt;&lt;/k0&gt; to close it without using the mouse.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T082627Z" creationid="Marc Riera" creationdate="20230104T082621Z">
+        <seg>Utilitzeu &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Retorn&lt;/k2&gt;&lt;/k0&gt; per a tancar-lo sense utilitzar el ratolí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt; to open and &lt;k3&gt;Esc&lt;/k3&gt; to close it.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121033Z" creationid="Marc Riera" creationdate="20220611T121033Z">
@@ -46900,6 +46948,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T000212Z" creationid="Marc Riera" creationdate="20221231T000212Z">
         <seg>Utilitzeu aquesta ordre per a registrar una traducció com a idèntica al text d'origen, encara que no s'hagi habilitat la preferència &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this command to remove one or more marks set by the &lt;g0&gt;Mark Accepted&lt;/g0&gt; or &lt;g1&gt;Mark Needs Review&lt;/g1&gt; commands.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T084746Z" creationid="Marc Riera" creationdate="20230104T084746Z">
+        <seg>Utilitzeu aquesta ordre per a suprimir una o més marques establertes per les ordres &lt;g0&gt;Marca com a «Acceptat»&lt;/g0&gt; o &lt;g1&gt;Marca com a «Necessita revisió»&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
