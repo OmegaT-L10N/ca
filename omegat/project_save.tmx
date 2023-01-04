@@ -6332,6 +6332,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional layouts can be added as plugins.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T095652Z" creationid="Marc Riera" creationdate="20230104T095652Z">
+        <seg>Es poden afegir disposicions addicionals com a connectors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional variants are available for &lt;l0&gt;${nameOnly}&lt;/l0&gt; and &lt;l1&gt;${Extension}&lt;/l1&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T105541Z" creationid="Marc Riera" creationdate="20221215T105418Z">
@@ -23236,6 +23244,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Layout</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T095637Z" creationid="Marc Riera" creationdate="20230104T095637Z">
+        <seg>Disposició</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Lead developer</seg>
@@ -24949,6 +24965,14 @@ durant la primera execució.</seg>
         <seg>Merge alternate definition for the same term</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220439Z" creationid="Marc Riera" creationdate="20220130T220439Z">
+        <seg>Combina les definicions alternatives per al mateix terme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definition of the same term</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T095700Z" creationid="Marc Riera" creationdate="20230104T095700Z">
         <seg>Combina les definicions alternatives per al mateix terme</seg>
       </tuv>
     </tu>
@@ -28266,6 +28290,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224118Z" creationid="Marc Riera" creationdate="20180214T224118Z">
         <seg>L'OmegaT intentarà tornar a segmentar el fitxer TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will use the associated tokenizer to find matches.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T095615Z" creationid="Marc Riera" creationdate="20230104T095615Z">
+        <seg>L'OmegaT utilitzarà el lematitzador associat per a cercar coincidències.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35634,6 +35666,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T203344Z" creationid="Marc Riera" creationdate="20221124T203344Z">
         <seg>Seleccioneu un filtre i feu clic en «Edita...» o «Opcions» per a personalitzar-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a layout for the glossary pane contents.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T095646Z" creationid="Marc Riera" creationdate="20230104T095646Z">
+        <seg>Seleccioneu una disposició per al contingut de la subfinestra «Glossari».</seg>
       </tuv>
     </tu>
     <tu>
@@ -48393,6 +48433,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T095431Z" creationid="Marc Riera" creationdate="20221225T095431Z">
         <seg>Quan obriu un projecte, l'OmegaT crea una còpia del fitxer &lt;f0&gt;project_save.tmx&lt;/f0&gt; en un fitxer de còpia de seguretat amb una marca de temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you use</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T095618Z" creationid="Marc Riera" creationdate="20230104T095618Z">
+        <seg>Quan utilitzeu</seg>
       </tuv>
     </tu>
     <tu>
