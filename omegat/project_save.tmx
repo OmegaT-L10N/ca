@@ -9103,6 +9103,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, stemming is used to determine the closest matches displayed in the &lt;g0&gt;Fuzzy Matches&lt;/g0&gt; panel.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T185947Z" creationid="Marc Riera" creationdate="20230104T185947Z">
+        <seg>Per defecte, s'utilitza la lematització per a determinar les coincidències més properes que es mostren en la subfinestra &lt;g0&gt;Coincidències parcials&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, that folder is the project folder itself but you can change its location to make it more practical to share exported TM files.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T122711Z" creationid="Marc Riera" creationdate="20221206T122711Z">
@@ -20780,6 +20788,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you try to create the translated files, OmegaT will display the issues dialog until no issues are found.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T185253Z" creationid="Marc Riera" creationdate="20230104T185253Z">
+        <seg>Si intenteu crear els fitxers traduïts, l'OmegaT mostrarà el quadre de diàleg d'errors fins que no n'hi hagi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you use local rules, you can still access the global rules, but modifying them will have no effect on your project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T115756Z" creationid="Marc Riera" creationdate="20221203T115756Z">
@@ -24114,6 +24130,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231320Z" creationid="Marc Riera" creationdate="20191112T231320Z">
         <seg>Visualització de llista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>List of projects for which login details have been stored in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T185531Z" creationid="Marc Riera" creationdate="20230104T185531Z">
+        <seg>Llista de projectes per als quals s'han desat detalls d'inici de sessió en l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33078,6 +33102,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Remove a project from this list if you want OmegaT to ask you for its credentials the next time you access it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T185921Z" creationid="Marc Riera" creationdate="20230104T185921Z">
+        <seg>Suprimiu un projecte d'aquesta llista si voleu que l'OmegaT us demani les credencials la pròxima vegada que hi accediu.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remove all text except tags, or all tags except text</seg>
@@ -39816,6 +39848,14 @@ L'àmbit d'una substitució de text són els segments de destinació del project
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Text in the target segment matching this expression is marked in red and identified as an extraneous tag for issue checking purposes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T185507Z" creationid="Marc Riera" creationdate="20230104T185507Z">
+        <seg>El text del segment de destinació que coincideix amb aquesta expressió es marca de color vermell i s'identifica com a etiqueta estranya en la comprovació d'errors.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Text to be removed</seg>
@@ -42001,6 +42041,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183017Z" creationid="Marc Riera" creationdate="20230104T183017Z">
         <seg>El nom es mostrarà en la part inferior del menú &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The name you enter here will be attached to all the segments you translate.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T185517Z" creationid="Marc Riera" creationdate="20230104T185517Z">
+        <seg>El nom que indiqueu aquí s'adjuntarà a tots els segments que traduïu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45356,6 +45404,14 @@ tots els paràmetres als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To define a list of tags, group each tag between parentheses and separate the groups with &lt;l0&gt;|&lt;/l0&gt; (equivalent to "OR" in regular expressions).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T185350Z" creationid="Marc Riera" creationdate="20230104T185350Z">
+        <seg>Per a definir una llista d'etiquetes, agrupeu cada etiqueta entre parèntesis i separeu els grups amb &lt;l0&gt;|&lt;/l0&gt; (equivalent a «OR» en expressions regulars).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To define exclusions, use the &lt;u1&gt;Apache ant syntax&lt;/u1&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T094739Z" creationid="Marc Riera" creationdate="20221225T094739Z">
@@ -45587,6 +45643,14 @@ tots els paràmetres als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201210T185623Z" creationid="Alexandra" creationdate="20150526T103044Z">
         <seg>Per a obtenir l'OpenOffice.org o el LibreOffice, seguiu l'enllaç del botó «Programari de tercers» a l'esquerra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To obtain more literal matches closer to 100%, select the &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T190031Z" creationid="Marc Riera" creationdate="20230104T190031Z">
+        <seg>Per a obtenir coincidències més literals més properes al 100 %, seleccioneu l'opció &lt;g0&gt;Text complet, incloent-hi etiquetes i números&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47322,6 +47386,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Unlike OmegaT tags, flagged text and custom tags are by default counted in the statistics.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T185321Z" creationid="Marc Riera" creationdate="20230104T185310Z">
+        <seg>A diferència de les etiquetes de l'OmegaT, el text marcat i les etiquetes personalitzades es compten en les estadístiques per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
@@ -48343,6 +48415,22 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T132840Z" creationid="Marc Riera" creationdate="20221124T203318Z">
         <seg>Utilitza paràme&amp;tres de filtres de fitxers locals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use parentheses and &lt;l0&gt;|&lt;/l0&gt; to have OmegaT consider the two tags: &lt;u1&gt;(\d+)|(&lt;/?[^&gt;]+&gt;)&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T185435Z" creationid="Marc Riera" creationdate="20230104T185435Z">
+        <seg>Utilitzeu parèntesis i &lt;l0&gt;|&lt;/l0&gt; perquè l'OmegaT tingui en compte les dues etiquetes: &lt;u1&gt;(\d+)|(&lt;/?[^&gt;]+&gt;)&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use regular expressions to define custom tags.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T185314Z" creationid="Marc Riera" creationdate="20230104T185314Z">
+        <seg>Utilitzeu expressions regulars per a definir etiquetes personalitzades.</seg>
       </tuv>
     </tu>
     <tu>
