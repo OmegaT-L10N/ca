@@ -152,10 +152,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${adjustedScore}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085626Z" creationid="Marc Riera" creationdate="20230104T085626Z">
+        <seg>${adjustedScore}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${changeDate}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085632Z" creationid="Marc Riera" creationdate="20230104T085632Z">
+        <seg>${changeDate}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${changeID}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085631Z" creationid="Marc Riera" creationdate="20230104T085631Z">
+        <seg>${changeID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${dictRoot}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175906Z" creationid="Marc Riera" creationdate="20221218T175906Z">
         <seg>${dictRoot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${diffReversed}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085619Z" creationid="Marc Riera" creationdate="20230104T085619Z">
+        <seg>${diffReversed}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${diff}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085618Z" creationid="Marc Riera" creationdate="20230104T085618Z">
+        <seg>${diff}</seg>
       </tuv>
     </tu>
     <tu>
@@ -232,6 +272,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${fuzzyFlag}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085634Z" creationid="Marc Riera" creationdate="20230104T085634Z">
+        <seg>${fuzzyFlag}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${glossaryRoot}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175901Z" creationid="Marc Riera" creationdate="20221218T175901Z">
@@ -240,10 +288,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${id}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085616Z" creationid="Marc Riera" creationdate="20230104T085616Z">
+        <seg>${id}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${initialCreationDate}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085630Z" creationid="Marc Riera" creationdate="20230104T085630Z">
+        <seg>${initialCreationDate}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${initialCreationID}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085629Z" creationid="Marc Riera" creationdate="20230104T085629Z">
+        <seg>${initialCreationID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${nameOnly}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195402Z" creationid="Marc Riera" creationdate="20221206T195402Z">
         <seg>${nameOnly}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${noStemScore}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085624Z" creationid="Marc Riera" creationdate="20230104T085624Z">
+        <seg>${noStemScore}</seg>
       </tuv>
     </tu>
     <tu>
@@ -264,6 +344,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${score}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085622Z" creationid="Marc Riera" creationdate="20230104T085622Z">
+        <seg>${score}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${sourceLanguage}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085636Z" creationid="Marc Riera" creationdate="20230104T085636Z">
+        <seg>${sourceLanguage}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${sourceLang}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175909Z" creationid="Marc Riera" creationdate="20221218T175909Z">
@@ -276,6 +372,14 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175858Z" creationid="Marc Riera" creationdate="20221218T175858Z">
         <seg>${sourceRoot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${sourceText}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085617Z" creationid="Marc Riera" creationdate="20230104T085617Z">
+        <seg>${sourceText}</seg>
       </tuv>
     </tu>
     <tu>
@@ -356,6 +460,14 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175900Z" creationid="Marc Riera" creationdate="20221218T175900Z">
         <seg>${targetRoot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetText}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085620Z" creationid="Marc Riera" creationdate="20230104T085620Z">
+        <seg>${targetText}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5677,6 +5789,22 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API client ID</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085821Z" creationid="Marc Riera" creationdate="20230104T085821Z">
+        <seg>ID de client de l'API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>API key</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085858Z" creationid="Marc Riera" creationdate="20230104T085858Z">
+        <seg>Clau de l'API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>API key (optional)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215157Z" creationid="Marc Riera" creationdate="20221124T215157Z">
@@ -6305,6 +6433,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T105019Z" creationid="Marc Riera" creationdate="20221209T105019Z">
         <seg>Després de desempaquetar el fitxer o quan s'hagi completat la instal·lació, podeu suprimir el fitxer baixat, que ja no és necessari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After you finish aligning the two columns, click the &lt;g0&gt;Save TMX...&lt;/g0&gt; button to create the translation memory.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085149Z" creationid="Marc Riera" creationdate="20230104T085149Z">
+        <seg>Després d'acabar l'alineació de les dues columnes, feu clic en el botó &lt;g0&gt;Desa en TMX...&lt;/g0&gt; per a crear la memòria de traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12391,6 +12527,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default display</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085653Z" creationid="Marc Riera" creationdate="20230104T085653Z">
+        <seg>Visualització per defecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default editor writing space</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T203910Z" creationid="Marc Riera" creationdate="20230101T203910Z">
@@ -13079,6 +13223,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Display TBX glossaries context description</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085913Z" creationid="Marc Riera" creationdate="20230104T085913Z">
+        <seg>Mostra la descripció de context dels glossaris en format TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Display all &amp;source segments in bold</seg>
@@ -13247,6 +13399,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200124T222411Z" creationid="mgalo" creationdate="20181115T223949Z">
         <seg>Mostra les entrades del glossari que apareixen en els fitxers de glossari de la carpeta «/glossary/» si estan presents en el segment d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the list of all the installed plugins.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085715Z" creationid="Marc Riera" creationdate="20230104T085715Z">
+        <seg>Mostra la llista de tots els connectors instal·lats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14580,6 +14740,14 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191113T072753Z" creationid="Marc Riera" creationdate="20191113T072753Z">
         <seg>Finalitza el canvi de base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Engine</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085804Z" creationid="Marc Riera" creationdate="20230104T085804Z">
+        <seg>Motor</seg>
       </tuv>
     </tu>
     <tu>
@@ -18951,6 +19119,14 @@ no cal introduir el camí complet.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If OmegaT detects an update, it will display a link to the download page.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085728Z" creationid="Marc Riera" creationdate="20230104T085728Z">
+        <seg>Si l'OmegaT detecta una actualització, mostrarà un enllaç a la pàgina de baixada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If OmegaT does not work as expected at this point, feel free to reach out for support.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201135Z" creationid="Marc Riera" creationdate="20221210T201032Z">
@@ -20479,6 +20655,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In addition to the &lt;g0&gt;Save TMX...&lt;/g0&gt; button, the bottom part of the &lt;g1&gt;Align&lt;/g1&gt; window in the manual correction step features the same &lt;g2&gt;Highlight&lt;/g2&gt; check box and &lt;g3&gt;Pattern...&lt;/g3&gt; button as in the first step.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085257Z" creationid="Marc Riera" creationdate="20230104T085250Z">
+        <seg>A més del botó &lt;g0&gt;Desa en TMX...&lt;/g0&gt;, la part inferior de la finestra &lt;g1&gt;Alineació&lt;/g1&gt; en el pas de correcció manual inclou la mateixa casella de selecció &lt;g2&gt;Ressalta&lt;/g2&gt; i el botó &lt;g3&gt;Patró...&lt;/g3&gt; del primer pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In addition, the &lt;g0&gt;File&lt;/g0&gt; menu provides the following commands:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205611Z" creationid="Marc Riera" creationdate="20221214T205611Z">
@@ -21793,6 +21977,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T122315Z" creationid="Alexandra" creationdate="20150526T124646Z">
         <seg>El trobareu en la carpeta «docs» en la carpeta de programa de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It can be helpful to run the &lt;g0&gt;Realign Pending&lt;/g0&gt; command after using pinpoint align a few times.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085355Z" creationid="Marc Riera" creationdate="20230104T085346Z">
+        <seg>Pot ser útil executar l'ordre &lt;g0&gt;Torna a alinear els pendents&lt;/g0&gt; després d'utilitzar l'alineació per clics unes quantes vegades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23286,6 +23478,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T075131Z" creationid="mgalo" creationdate="20181109T224700Z">
         <seg>Longitud de línia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Link</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085807Z" creationid="Marc Riera" creationdate="20230104T085807Z">
+        <seg>Enllaç</seg>
       </tuv>
     </tu>
     <tu>
@@ -24797,6 +24997,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Microsoft translator</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085816Z" creationid="Marc Riera" creationdate="20230104T085816Z">
+        <seg>Microsoft Translator</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mine</seg>
@@ -25535,12 +25743,28 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>MyMemory (human translation)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085849Z" creationid="Marc Riera" creationdate="20230104T085849Z">
+        <seg>MyMemory (traducció humana)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>MyMemory (human)</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181113T094903Z" creationid="mgalo" creationdate="20181113T094903Z">
         <seg>MyMemory (memòria col·laborativa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MyMemory (machine translation)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085833Z" creationid="Marc Riera" creationdate="20230104T085833Z">
+        <seg>MyMemory (traducció automàtica)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28530,6 +28754,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only rows with a checked &lt;g0&gt;Keep&lt;/g0&gt; box in the first column are saved to the translation memory.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085209Z" creationid="Marc Riera" creationdate="20230104T085209Z">
+        <seg>Només les files amb la casella &lt;g0&gt;Conserva&lt;/g0&gt; marcada en la primera columna es desen en la memòria de traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only rows with the &lt;g0&gt;Keep&lt;/g0&gt; box ticked in the first column will be included when the translation memory is created.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T122705Z" creationid="Marc Riera" creationdate="20220611T122705Z">
@@ -31247,6 +31479,14 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Provider list</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085754Z" creationid="Marc Riera" creationdate="20230104T085754Z">
+        <seg>Llista de proveïdors</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Provides filters for handling further file formats, including Trados TTX, and Markdown.</seg>
@@ -32692,6 +32932,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Required credentials</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085802Z" creationid="Marc Riera" creationdate="20230104T085802Z">
+        <seg>Credencials necessàries</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Requirements</seg>
@@ -34073,6 +34321,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
         <seg>Secure Store</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T114556Z" creationid="Marc Riera" creationdate="20190924T114556Z">
+        <seg>Emmagatzematge segur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Secure store</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085710Z" creationid="Marc Riera" creationdate="20230104T085710Z">
         <seg>Emmagatzematge segur</seg>
       </tuv>
     </tu>
@@ -45270,6 +45526,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>URL, key</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085840Z" creationid="Marc Riera" creationdate="20230104T085840Z">
+        <seg>URL, clau</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>URL:</seg>
@@ -46984,6 +47248,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this command to switch the &lt;g0&gt;Keep&lt;/g0&gt; check box of the selected row or block of rows from checked to unchecked, or vice versa.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085324Z" creationid="Marc Riera" creationdate="20230104T085324Z">
+        <seg>Utilitzeu aquesta ordre per a canviar la casella de selecció &lt;g0&gt;Conserva&lt;/g0&gt; de la fila o del bloc de files seleccionat de marcada a desmarcada, o viceversa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use this command to uncheck the &lt;g0&gt;Keep&lt;/g0&gt; check box for all rows.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T084820Z" creationid="Marc Riera" creationdate="20230104T084820Z">
@@ -48646,6 +48918,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150029Z" creationid="Marc Riera" creationdate="20190924T150029Z">
         <seg>X|Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yandex</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085904Z" creationid="Marc Riera" creationdate="20230104T085904Z">
+        <seg>Yandex</seg>
       </tuv>
     </tu>
     <tu>
@@ -52431,6 +52711,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://www.apertium.org</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085844Z" creationid="Marc Riera" creationdate="20230104T085844Z">
+        <seg>http://www.apertium.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://www.iana.org/assignments/character-sets/character-sets.xhtml</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T165754Z" creationid="Marc Riera" creationdate="20221201T165754Z">
@@ -52506,6 +52794,22 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231404Z" creationid="Marc Riera" creationdate="20201129T231404Z">
         <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://cloud.google.com/translate/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085901Z" creationid="Marc Riera" creationdate="20230104T085901Z">
+        <seg>https://cloud.google.com/translate/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://cloud.google.com/translate/docs/reference/rest/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085900Z" creationid="Marc Riera" creationdate="20230104T085900Z">
+        <seg>https://cloud.google.com/translate/docs/reference/rest/</seg>
       </tuv>
     </tu>
     <tu>
@@ -52653,6 +52957,22 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131345Z" creationid="Marc Riera" creationdate="20221211T131345Z">
         <seg>https://maxprograms.com/products/xliffmanager.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://mymemory.translated.net/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085837Z" creationid="Marc Riera" creationdate="20230104T085837Z">
+        <seg>https://mymemory.translated.net/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://mymemory.translated.net/doc/cat.php</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085834Z" creationid="Marc Riera" creationdate="20230104T085834Z">
+        <seg>https://mymemory.translated.net/doc/cat.php</seg>
       </tuv>
     </tu>
     <tu>
@@ -52930,10 +53250,26 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://www.deepl.com/en/pro</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085811Z" creationid="Marc Riera" creationdate="20230104T085811Z">
+        <seg>https://www.deepl.com/en/pro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://www.gala-global.org/tmx-14b#SectionIntroduction</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110247Z" creationid="Marc Riera" creationdate="20221204T110247Z">
         <seg>https://www.gala-global.org/tmx-14b#SectionIntroduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.ibm.com/watson</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085852Z" creationid="Marc Riera" creationdate="20230104T085852Z">
+        <seg>https://www.ibm.com/watson</seg>
       </tuv>
     </tu>
     <tu>
@@ -52943,6 +53279,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T231427Z" creationid="Marc Riera" creationdate="20201129T231427Z">
         <seg>https://www.libreoffice.org/discover/draw/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.microsoft.com/en-us/translator/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085823Z" creationid="Marc Riera" creationdate="20230104T085823Z">
+        <seg>https://www.microsoft.com/en-us/translator/</seg>
       </tuv>
     </tu>
     <tu>
@@ -52967,6 +53311,22 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T163417Z" creationid="Marc Riera" creationdate="20221201T163417Z">
         <seg>https://www.unicode.org/reports/tr9/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://yandex.com/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085908Z" creationid="Marc Riera" creationdate="20230104T085908Z">
+        <seg>https://yandex.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://yandex.com/dev/dictionary/keys/get/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085906Z" creationid="Marc Riera" creationdate="20230104T085906Z">
+        <seg>https://yandex.com/dev/dictionary/keys/get/</seg>
       </tuv>
     </tu>
     <tu>
