@@ -9444,6 +9444,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change the default interval (3 minutes) depending on the characteristics of the project:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T181146Z" creationid="Marc Riera" creationdate="20230104T181146Z">
+        <seg>Canvieu l'interval per defecte (3 minuts) en funció de les característiques del projecte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Change the name of the rule set and the language pattern to the desired label and corresponding pattern.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105213Z" creationid="Marc Riera" creationdate="20230104T105201Z">
@@ -10704,6 +10712,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105422Z" creationid="Marc Riera" creationdate="20230104T105422Z">
         <seg>Les ordres s'obren en la línia d'ordres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Commands specified here are available to all the projects that use the same configuration folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T182657Z" creationid="Marc Riera" creationdate="20230104T182657Z">
+        <seg>Les ordres especificades aquí estan disponibles per a tots els projectes que utilitzen la mateixa carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24377,6 +24393,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Longer intervals for team projects hosted on external servers.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T181208Z" creationid="Marc Riera" creationdate="20230104T181208Z">
+        <seg>Intervals més llargs per a projectes en equip allotjats en servidors externs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Looking for a GPG executable: path {0} from $PATH is not accessible; skipping</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T162025Z" creationid="Marc Riera" creationdate="20220506T162025Z">
@@ -27817,6 +27841,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221224T172109Z" creationid="Marc Riera" creationdate="20221224T172109Z">
         <seg>L'OmegaT pot executar ordres automàticament després que s'hagin creat els fitxers de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT can automatically run commands after you use &lt;l0/&gt;&lt;l1/&gt; or &lt;l2/&gt;&lt;l3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T181223Z" creationid="Marc Riera" creationdate="20230104T181223Z">
+        <seg>L'OmegaT pot executar ordres automàticament després d'utilitzar &lt;l0/&gt;&lt;l1/&gt; o &lt;l2/&gt;&lt;l3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36860,6 +36892,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220612T103610Z" creationid="Marc Riera" creationdate="20220612T103605Z">
         <seg>Maj+F3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Short intervals (10 seconds minimum) for projects synchronized on an internal server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T181158Z" creationid="Marc Riera" creationdate="20230104T181158Z">
+        <seg>Intervals curts (mínim de 10 segons) per a projectes sincronitzats en un servidor intern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50721,6 +50761,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T184840Z" creationid="Marc Riera" creationdate="20221213T184840Z">
         <seg>Podeu definir etiquetes personalitzades que es gestionaran de la mateixa manera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can define such commands here.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T181226Z" creationid="Marc Riera" creationdate="20230104T181226Z">
+        <seg>Aquí podeu definir aquestes ordres.</seg>
       </tuv>
     </tu>
     <tu>
