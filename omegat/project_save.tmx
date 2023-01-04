@@ -17292,6 +17292,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For content with paired tags (as in HTML) the tooltips can be simplified when you hover on them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T190735Z" creationid="Marc Riera" creationdate="20230104T190735Z">
+        <seg>Per al contingut amb etiquetes aparellades (com ara l'HTML), els indicadors de funció es poden simplificar quan passeu el cursor per sobre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For details, see:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174819Z" creationid="Marc Riera" creationdate="20221218T174819Z">
@@ -20032,6 +20040,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161915Z" creationid="Marc Riera" creationdate="20220625T161915Z">
         <seg>Si hi ha text seleccionat en la coincidència parcial, només la selecció substituirà tot el segment de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If source segments are displayed in normal face, you can use this option to display only the current source segment in bold.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T190639Z" creationid="Marc Riera" creationdate="20230104T190639Z">
+        <seg>Si els segments d'origen es mostren amb gruix normal, podeu utilitzar aquesta opció per a mostrar només el segment d'origen actual en negreta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39402,6 +39418,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Tag tooltips display the actual content of the tag.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T190710Z" creationid="Marc Riera" creationdate="20230104T190710Z">
+        <seg>Els indicadors de funció de les etiquetes mostren el contingut real de l'etiqueta.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Tag validation failed</seg>
@@ -46563,6 +46587,18 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Translation last modified by suzume on Oct 6, 2022 at 2:18:27 PM
+[[チューリッヒ大学]]大学院博士課程修了。
+[[Université de Zurich]] Elle finit sa thèse de doctorat.&lt;segment 0178&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T190910Z" creationid="Marc Riera" creationdate="20230104T190834Z">
+        <seg>Darrera modificació de la traducció: suzume, el 6 d'oct. 2022 a les 14:18:27
+[[チューリッヒ大学]]大学院博士課程修了。
+[[Université de Zurich]] Elle finit sa thèse de doctorat.&lt;segment 0178&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Translation last modified by {0} on {1} at {2}</seg>
@@ -48261,6 +48297,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T184243Z" creationid="Marc Riera" creationdate="20230104T184243Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a identificar els segments que pertanyen al mateix paràgraf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to mark the second and subsequent non-unique segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T190659Z" creationid="Marc Riera" creationdate="20230104T190659Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a marcar el segon segment no únic i els següents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57079,6 +57123,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183858Z" creationid="Marc Riera" creationdate="20230104T183858Z">
         <seg>El contingut de la part de destinació (si n'hi ha) es copia al fitxer &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the default setting shows who last modified the translation and when:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T190816Z" creationid="Marc Riera" creationdate="20230104T190816Z">
+        <seg>Els paràmetres per defecte mostren qui ha modificat la traducció per darrera vegada i quan:</seg>
       </tuv>
     </tu>
     <tu>
