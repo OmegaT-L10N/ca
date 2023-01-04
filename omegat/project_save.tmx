@@ -19202,6 +19202,14 @@ no cal introduir el camí complet.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a glossary item has multiple definitions, they will be displayed on the same line.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T101622Z" creationid="Marc Riera" creationdate="20230104T101622Z">
+        <seg>Si un element del glossari té diverses definicions, es mostraran en la mateixa línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a part of the target segment has been selected, that part will be overwriten.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234559Z" creationid="Marc Riera" creationdate="20221230T234559Z">
@@ -20534,6 +20542,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220422Z" creationid="Marc Riera" creationdate="20220130T220422Z">
         <seg>Ignora les coincidències amb majúscules i minúscules molt diferents (p. ex., «FOO» i «foo»)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore matches with very different case (e.g., USER vs user)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T101238Z" creationid="Marc Riera" creationdate="20230104T101238Z">
+        <seg>Ignora les coincidències amb majúscules i minúscules molt diferents (p. ex., «USUARI» i «usuari»)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24773,6 +24789,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220455Z" creationid="Marc Riera" creationdate="20221124T220455Z">
         <seg>Coincidències sense canviar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches with very different case are not displayed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T101248Z" creationid="Marc Riera" creationdate="20230104T101248Z">
+        <seg>No es mostren les coincidències amb majúscules i minúscules molt diferents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54713,6 +54737,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>or</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T101155Z" creationid="Marc Riera" creationdate="20230104T101155Z">
+        <seg>o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>or as a regular backup every 3 minutes by default,</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T192823Z" creationid="Marc Riera" creationdate="20221210T192823Z">
@@ -55453,6 +55485,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>the &lt;l0/&gt; preference, etc.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T101153Z" creationid="Marc Riera" creationdate="20230104T101153Z">
+        <seg>la preferència &lt;l0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>the files are read by the aligner, which attempts to match the segments that correspond to one another in the original and translated texts,</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200853Z" creationid="Marc Riera" creationdate="20221206T200853Z">
@@ -55583,6 +55623,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221224T170603Z" creationid="Marc Riera" creationdate="20221224T170603Z">
         <seg>Per a obtenir resultats en la subfinestra &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>to insert the source content in the target segment, words with a glossary entry will automatically be replaced by their translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T101223Z" creationid="Marc Riera" creationdate="20230104T101223Z">
+        <seg>per inserir el text d'origen en el segment de destinació, les paraules amb una entrada en el glossari se substituiran automàticament per la traducció corresponent.</seg>
       </tuv>
     </tu>
     <tu>
