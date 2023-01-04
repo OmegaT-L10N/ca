@@ -19070,6 +19070,14 @@ als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If any rows have been marked as accepted, use this command to update the alignment for the remaining rows.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T084801Z" creationid="Marc Riera" creationdate="20230104T084801Z">
+        <seg>Si s'ha marcat qualsevol fila com a acceptada, utilitzeu aquesta ordre per actualitzar l'alineació de les files restants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, all the source segments will be shown and marked in green.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232610Z" creationid="Marc Riera" creationdate="20221230T232610Z">
@@ -19435,6 +19443,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155550Z" creationid="Marc Riera" creationdate="20221201T155550Z">
         <seg>Si s'utilitzen les funcions aplicables, aquesta carpeta pot contenir fins a tres fitxers de text:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the corresponding segments are several rows apart and you want to quickly align them, use this command to set the first segment and then click on the corresponding segment in the other column.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085115Z" creationid="Marc Riera" creationdate="20230104T085047Z">
+        <seg>Si els segments corresponents estan separats per diverses files i voleu alinear-los ràpidament, utilitzeu aquesta ordre per a marcar el primer segment i, a continuació, feu clic en el segment corresponent de l'altra columna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46920,6 +46936,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this command to check the &lt;g0&gt;Keep&lt;/g0&gt; box for all rows.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T084812Z" creationid="Marc Riera" creationdate="20230104T084812Z">
+        <seg>Utilitzeu aquesta ordre per a marcar la casella &lt;g0&gt;Conserva&lt;/g0&gt; per a totes les files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use this command to confirm that the alignment of the segments in the selected row or block of rows is correct.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T185838Z" creationid="Marc Riera" creationdate="20230103T185838Z">
@@ -46954,8 +46978,16 @@ El valor actual és de {0} MB.</seg>
       <tuv lang="en">
         <seg>Use this command to remove one or more marks set by the &lt;g0&gt;Mark Accepted&lt;/g0&gt; or &lt;g1&gt;Mark Needs Review&lt;/g1&gt; commands.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T084746Z" creationid="Marc Riera" creationdate="20230104T084746Z">
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T084754Z" creationid="Marc Riera" creationdate="20230104T084746Z">
         <seg>Utilitzeu aquesta ordre per a suprimir una o més marques establertes per les ordres &lt;g0&gt;Marca com a «Acceptat»&lt;/g0&gt; o &lt;g1&gt;Marca com a «Necessita revisió»&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this command to uncheck the &lt;g0&gt;Keep&lt;/g0&gt; check box for all rows.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T084820Z" creationid="Marc Riera" creationdate="20230104T084820Z">
+        <seg>Utilitzeu aquesta ordre per a desmarcar la casella &lt;g0&gt;Conserva&lt;/g0&gt; per a totes les files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49034,6 +49066,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212452Z" creationid="Marc Riera" creationdate="20221225T212452Z">
         <seg>També podeu utilitzar l'eina &lt;l0/&gt;&lt;l1/&gt; per a crear un fitxer TMX a partir de dos fitxers en un format compatible amb l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also use the arrow keys and press &lt;k0&gt;Space&lt;/k0&gt; in the corresponding segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085124Z" creationid="Marc Riera" creationdate="20230104T085124Z">
+        <seg>També podeu utilitzar les tecles de direcció i prémer &lt;k0&gt;Espai&lt;/k0&gt; en el segment corresponent.</seg>
       </tuv>
     </tu>
     <tu>
