@@ -9867,8 +9867,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Check Java MessageFormat placeholders in file formats other than the Java Bundles format.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T151734Z" creationid="Marc Riera" creationdate="20230105T151734Z">
-        <seg>Comprova els marcadors de posició de MessageFormat del Java en formats de fitxer diferents del format PO.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T151750Z" creationid="Marc Riera" creationdate="20230105T151734Z">
+        <seg>Comprova els marcadors de posició de MessageFormat del Java en formats de fitxer diferents de paquets del Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40884,6 +40884,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T205528Z" creationid="Alexandra" creationdate="20150526T102629Z">
         <seg>El JRE ara s'inclou amb l'OmegaT i no cal obtenir-lo per separat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Java Bundles filter already handles placeholders marked with &lt;l0&gt;{#}&lt;/l0&gt; where &lt;l1&gt;#&lt;/l1&gt; is a number.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T151825Z" creationid="Marc Riera" creationdate="20230105T151825Z">
+        <seg>El filtre de paquets del Java ja tracta els marcadors de posició marcats amb &lt;l0&gt;{#}&lt;/l0&gt;, on &lt;l1&gt;#&lt;/l1&gt; és un nombre.</seg>
       </tuv>
     </tu>
     <tu>
