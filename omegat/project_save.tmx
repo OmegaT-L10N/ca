@@ -5978,6 +5978,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Absolutely none of your data (history, etc.) is &lt;e0&gt;ever&lt;/e0&gt; sent to an external server by OmegaT for processing.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T100523Z" creationid="Marc Riera" creationdate="20230105T100523Z">
+        <seg>L'OmegaT no envia &lt;e0&gt;mai&lt;/e0&gt; cap de les dades (historial, etc.) a un servidor extern per a processar-les.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access &amp;Configurat&amp;ion Folder</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T172857Z" creationid="Marc Riera" creationdate="20221117T172857Z">
@@ -6882,6 +6890,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>All prediction/completion results are computed locally.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T100531Z" creationid="Marc Riera" creationdate="20230105T100531Z">
+        <seg>Tots els resultats de predicció i emplenament es calculen localment.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>All preferences protected by the master password will be reset.</seg>
@@ -7313,6 +7329,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Packard Bell" changedate="20150605T161840Z" creationid="Packard Bell" creationdate="20150605T161840Z">
         <seg>Confirma sempre en sortir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An &lt;e1&gt;FR-FR&lt;/e1&gt; dictionary will not spellcheck &lt;e2&gt;FR&lt;/e2&gt; target segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T100607Z" creationid="Marc Riera" creationdate="20230105T100607Z">
+        <seg>Un diccionari per a &lt;e1&gt;FR-FR&lt;/e1&gt; no comprovarà l'ortografia dels segments de destinació en &lt;e2&gt;FR&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10414,6 +10438,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T084259Z" creationid="Marc Riera" creationdate="20230105T084259Z">
         <seg>Feu clic en &lt;g0&gt;Taula de caràcters&lt;/g0&gt; per a definir les opcions d'emplenament automàtic de la taula de caràcters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;g0&gt;Enable history completion&lt;/g0&gt; or &lt;g1&gt;Enable history prediction&lt;/g1&gt; to set history based completions.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T100427Z" creationid="Marc Riera" creationdate="20230105T100427Z">
+        <seg>Feu clic en &lt;g0&gt;Habilita l'emplenament a partir de l'historial&lt;/g0&gt; o &lt;g1&gt;Habilita la predicció a partir de l'historial&lt;/g1&gt; per a definir l'emplenament a partir de l'historial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19970,6 +20002,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If necessary, modify the name of the dictionary or change your project’s language settings.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T100622Z" creationid="Marc Riera" creationdate="20230105T100622Z">
+        <seg>Si cal, modifiqueu el nom del diccionari o canvieu els paràmetres de llengua del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If no custom mappings have been defined for the remote project, but local mappings have been customized, the local settings are preserved without affecting the settings on the server.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T144032Z" creationid="Marc Riera" creationdate="20221211T144032Z">
@@ -20120,6 +20160,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T083949Z" creationid="Marc Riera" creationdate="20221214T083917Z">
         <seg>Si es troba un fitxer així en la carpeta &lt;l2/&gt;, el fitxer es tractarà amb el filtre XHTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, typing the first letter of a translated glossary entry, or &lt;l1&gt;&lt;&lt;/l1&gt; for a tag, automatically launches the auto-completer.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T143749Z" creationid="Marc Riera" creationdate="20230105T143749Z">
+        <seg>Si l'opció &lt;g0&gt;Mostra suggeriments rellevants automàticament&lt;/g0&gt; està marcada, teclejant la primera lletra d'una entrada del glossari traduïda, o &lt;l1&lt;&lt;/l1&gt; per a una etiqueta, llança automàticament l'autocompletador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28299,6 +28347,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T095818Z" creationid="Marc Riera" creationdate="20221206T095818Z">
         <seg>Els fitxers de glossari de l'OmegaT són fitxers de text sense format que contenen llistes de tres columnes; el terme d'origen en la primera columna, un terme de destinació opcional en la segona columna i un comentari opcional en la tercera columna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has a built-in spellchecker but requires you to install spellchecking dictionaries based on your target languages.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T100554Z" creationid="Marc Riera" creationdate="20230105T100554Z">
+        <seg>L'OmegaT té un corrector ortogràfic integrat, però cal que instal·leu diccionaris ortogràfics en funció de les vostres llengües de destinació.</seg>
       </tuv>
     </tu>
     <tu>
