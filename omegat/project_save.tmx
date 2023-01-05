@@ -10401,6 +10401,30 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;g0&gt;Autotext&lt;/g0&gt; to configure the Autotext options, and to add or remove entries.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T084241Z" creationid="Marc Riera" creationdate="20230105T084241Z">
+        <seg>Feu clic en &lt;g0&gt;Text automàtic&lt;/g0&gt; per a configurar les opcions del text automàtic i afegir o suprimir entrades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;g0&gt;Character Table&lt;/g0&gt; to set the Character table auto-completer options.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T084259Z" creationid="Marc Riera" creationdate="20230105T084259Z">
+        <seg>Feu clic en &lt;g0&gt;Taula de caràcters&lt;/g0&gt; per a definir les opcions d'emplenament automàtic de la taula de caràcters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;g0&gt;Glossary&lt;/g0&gt; to configure the auto-completer glossary view.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T084218Z" creationid="Marc Riera" creationdate="20230105T084218Z">
+        <seg>Feu clic en &lt;g0&gt;Glossari&lt;/g0&gt; per a configurar la visualització de glossari de l'emplenament automàtic.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
@@ -17328,6 +17352,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174819Z" creationid="Marc Riera" creationdate="20221218T174819Z">
         <seg>Per a conèixer més detalls, consulteu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;e0&gt;Mrs. Dalloway&lt;/e0&gt; should not be split in two segments even though a break rule for &lt;e1&gt;period followed by a space&lt;/e1&gt; generally defines a sentence.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T084012Z" creationid="Marc Riera" creationdate="20230105T084012Z">
+        <seg>Per exemple, &lt;e0&gt;Mrs. Dalloway&lt;/e0&gt; no s'ha de dividir en dos segments tot i que una regla de divisió per a &lt;e1&gt;punt seguit d'un espai&lt;/e1&gt; generalment defineix una frase.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31038,6 +31070,14 @@ everything.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Places that do not have such markers and that match break rules will be break locations.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T083944Z" creationid="Marc Riera" creationdate="20230105T083944Z">
+        <seg>Els llocs que no tinguin aquests marcadors i que coincideixin amb les regles de divisió seran punts de divisió.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Plain text</seg>
@@ -40229,6 +40269,30 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;e0&gt; After&lt;/e0&gt; pattern identifies the parts that are after the break or exception point.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T084135Z" creationid="Marc Riera" creationdate="20230105T084135Z">
+        <seg>El patró &lt;e0&gt;posterior&lt;/e0&gt; identifica les parts després del punt de divisió o excepció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;e0&gt;Before&lt;/e0&gt; and&lt;e1&gt; After&lt;/e1&gt; patterns are regular expressions.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T084158Z" creationid="Marc Riera" creationdate="20230105T084158Z">
+        <seg>Els patrons &lt;e0&gt;anterior&lt;/e0&gt; i &lt;e1&gt;posterior&lt;/e1&gt; són expressions regulars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;e0&gt;Before&lt;/e0&gt; pattern identifies the parts that are before the break or exception point.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T084125Z" creationid="Marc Riera" creationdate="20230105T084125Z">
+        <seg>El patró &lt;e0&gt;anterior&lt;/e0&gt; identifica les parts abans del punt de divisió o excepció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;e0&gt;Key identifiers&lt;/e0&gt; above enable us to avoid listing multiple notations for every shortcut.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T081753Z" creationid="Marc Riera" creationdate="20221205T081753Z">
@@ -42614,6 +42678,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T215315Z" creationid="Marc Riera" creationdate="20221211T215315Z">
         <seg>El disseny robust de l'OmegaT fa que sigui &lt;e0&gt;extremadament&lt;/e0&gt; poc probable que perdeu més d'uns pocs minuts de feina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The rules for &lt;e0&gt;FR-CA&lt;/e0&gt; should be set higher than those for &lt;e1&gt;FR.*&lt;/e1&gt;, which should themselves be higher than the generic &lt;e2&gt;.*&lt;/e2&gt; set.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T083909Z" creationid="Marc Riera" creationdate="20230105T083909Z">
+        <seg>Les regles per a &lt;e0&gt;FR-CA&lt;/e0&gt; han d'estar més amunt que les regles per a &lt;e1&gt;FR.*&lt;/e1&gt;, que alhora han d'estar més amunt que les del conjunt genèric &lt;e2&gt;.*&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
