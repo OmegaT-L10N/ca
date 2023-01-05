@@ -9864,6 +9864,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Check Java MessageFormat placeholders in file formats other than the Java Bundles format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T151734Z" creationid="Marc Riera" creationdate="20230105T151734Z">
+        <seg>Comprova els marcadors de posició de MessageFormat del Java en formats de fitxer diferents del format PO.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check LanguageTools rules</seg>
@@ -20114,6 +20122,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If none are displayed it either means that you have not yet installed a spelling dictionary, or that your project uses a specific configuration folder that does not contain yet a spelling dictionary.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T151112Z" creationid="Marc Riera" creationdate="20230105T151112Z">
+        <seg>Si no se'n mostra cap, significa que encara no s'ha instal·lat cap diccionari ortogràfic, o bé que el projecte utilitza una carpeta de configuració específica que encara no conté cap diccionari ortogràfic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If not checked, only the current source segments will be shown.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232652Z" creationid="Marc Riera" creationdate="20221230T232631Z">
@@ -20688,6 +20704,14 @@ extensions dels fitxers.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T185542Z" creationid="Marc Riera" creationdate="20221203T185542Z">
         <seg>Si canvieu la segmentació durant la traducció, haureu de tornar a carregar el projecte perquè la nova segmentació tingui efecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you check &lt;g0&gt;Show in Editor context menu&lt;/g0&gt;, the set name will also be displayed in the &lt;l1&gt;context menu&lt;/l1&gt; if a string is selected.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T151142Z" creationid="Marc Riera" creationdate="20230105T151142Z">
+        <seg>Si marqueu &lt;g0&gt;Mostra en el menú contextual de l'editor&lt;/g0&gt;, el nom de conjunt també es mostrarà en el &lt;l1&gt;menú contextual&lt;/l1&gt; si se selecciona una cadena.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22842,6 +22866,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175124Z" creationid="Marc Riera" creationdate="20221218T175124Z">
         <seg>S'anomena glossari &lt;e2&gt;modificable&lt;/e2&gt; per aquesta raó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is generally in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T151044Z" creationid="Marc Riera" creationdate="20230105T151044Z">
+        <seg>Normalment, és en la carpeta &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35685,6 +35717,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l3&gt;spellchecker files&lt;/l3&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T151023Z" creationid="Marc Riera" creationdate="20230105T151023Z">
+        <seg>Consulteu &lt;l3&gt;fitxers de correcció ortogràfica&lt;/l3&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l6/&gt;&lt;l7/&gt; for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104924Z" creationid="Marc Riera" creationdate="20221224T104924Z">
@@ -42098,6 +42138,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T122515Z" creationid="Marc Riera" creationdate="20221206T122515Z">
         <seg>L'estructura de la carpeta reflecteix els continguts copiats i els fitxers no compatibles amb els filtres de fitxers de l'OmegaT es copiaran sense modificacions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where OmegaT will install and search for spelling dictionaries.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T151032Z" creationid="Marc Riera" creationdate="20230105T151032Z">
+        <seg>Carpeta on l'OmegaT instal·larà i cercarà diccionaris ortogràfics.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49148,6 +49196,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175218Z" creationid="Marc Riera" creationdate="20221218T175218Z">
         <seg>Utilitzeu la propietat del projecte &lt;l0/&gt; per a definir la ubicació de la carpeta de glossaris de referència.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;l0&gt;editor context menu&lt;/l0&gt; to correct the mistake, to &lt;g1&gt;Ignore All&lt;/g1&gt; or to &lt;g2&gt;Add to Dictionary&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T151013Z" creationid="Marc Riera" creationdate="20230105T151008Z">
+        <seg>Utilitzeu el &lt;l0&gt;menú contextual de l'editor&lt;/l0&gt; per a corregir l'error o seleccionar &lt;g1&gt;Ignora-ho tot&lt;/g1&gt; o &lt;g2&gt;Afegeix al diccionari&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
