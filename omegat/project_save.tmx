@@ -3571,6 +3571,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T185101Z" creationid="Marc Riera" creationdate="20230105T185101Z">
+        <seg>...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>...and around 30 other file formats</seg>
@@ -3959,6 +3967,24 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;/repositories&gt;
+&lt;/project&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T185050Z" creationid="Marc Riera" creationdate="20230105T185050Z">
+        <seg>&lt;/repositories&gt;
+&lt;/project&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T185052Z" creationid="Marc Riera" creationdate="20230105T185052Z">
+        <seg>&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;EMPTY&gt;</seg>
@@ -4301,6 +4327,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T190056Z" creationid="Marc Riera" creationdate="20230103T190056Z">
         <seg>&lt;e1&gt;Aneu amb compte!&lt;/e1&gt; En fer clic en aquest botó, es descartaran tots els canvis i tornareu al primer pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;external_command&gt;&lt;/external_command&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T185100Z" creationid="Marc Riera" creationdate="20230105T185100Z">
+        <seg>&lt;external_command&gt;&lt;/external_command&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5254,6 +5288,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="/" repository="/"/&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T185056Z" creationid="Marc Riera" creationdate="20230105T185056Z">
+        <seg>&lt;mapping local="/" repository="/"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;meta name="robots" content="index, follow"&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091738Z" creationid="Marc Riera" creationdate="20221214T091738Z">
@@ -5327,6 +5369,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T162157Z" creationid="Marc Riera" creationdate="20220611T162157Z">
         <seg>&lt;r0&gt;Nota:&lt;/r0&gt; és possible impedir que es mostri la finestra en obrir un projecte definint el valor de &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; en &lt;e2&gt;false&lt;/e2&gt; en el fitxer &lt;f3&gt;omegat.prefs&lt;/f3&gt; (hi podeu accedir des del menú &lt;m4&gt; &lt;g5&gt;Opcions&lt;/g5&gt; &lt;g6&gt;Accedeix a la carpeta de configuració&lt;/g6&gt; &lt;/m4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repositories&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T185058Z" creationid="Marc Riera" creationdate="20230105T185058Z">
+        <seg>&lt;repositories&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5667,6 +5717,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191716Z" creationid="Marc Riera" creationdate="20221201T191000Z">
         <seg>Punt seguir d'un espai en blanc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A project is a folder containing, at a minimum, the following:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T185112Z" creationid="Marc Riera" creationdate="20230105T185112Z">
+        <seg>Un projecte és una carpeta que conté, com a mínim, el següent:</seg>
       </tuv>
     </tu>
     <tu>
@@ -42140,6 +42198,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The file must have one word per line.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184957Z" creationid="Marc Riera" creationdate="20230105T184957Z">
+        <seg>El fitxer ha de tenir una paraula per línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The file structure must also be compatible with the filter: even if you associate &lt;l0&gt;.odt&lt;/l0&gt; to the XHMTL filter, the filter will not be able to understand the contents of a LibreOffice Writer file.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T082645Z" creationid="Marc Riera" creationdate="20221215T082645Z">
@@ -42176,6 +42242,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105702Z" creationid="Marc Riera" creationdate="20230104T105702Z">
         <seg>Els fitxers se sobreescriuen quan l'OmegaT accedeix a segment nou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The files created here will reflect the current state of the translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T185042Z" creationid="Marc Riera" creationdate="20230105T185042Z">
+        <seg>Els fitxers creats aquí reflectiran l'estat actual de la traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45148,6 +45222,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder is initially empty.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184954Z" creationid="Marc Riera" creationdate="20230105T184954Z">
+        <seg>Inicialment, aquesta carpeta està buida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder provides an alternative location for manually installed OmegaT extension plugins.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160124Z" creationid="Marc Riera" creationdate="20221201T160124Z">
@@ -46330,6 +46412,14 @@ tots els paràmetres als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091736Z" creationid="Marc Riera" creationdate="20221214T091736Z">
         <seg>Per a ignorar aquest contingut:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To install dictionaries:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T185005Z" creationid="Marc Riera" creationdate="20230105T185005Z">
+        <seg>Per a instal·lar diccionaris:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48965,10 +49055,26 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to generate it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184904Z" creationid="Marc Riera" creationdate="20230105T184904Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a generar-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to go back to the default layout if you lost track of the changes you made to the user interface, and cannot see some panes.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202700Z" creationid="Marc Riera" creationdate="20230101T202700Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a tornar a la disposició per defecte si no recordeu els canvis que heu aplicat a la interfície d'usuari i no podeu veure algunes subfinestres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to highlight them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T185029Z" creationid="Marc Riera" creationdate="20230105T185029Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a ressaltar-los.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49017,6 +49123,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T191150Z" creationid="Marc Riera" creationdate="20221230T191150Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a tornar a la subfinestra Editor i repreneu la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to update it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184924Z" creationid="Marc Riera" creationdate="20230105T184924Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a actualitzar-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54839,6 +54953,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>files_order.txt</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184851Z" creationid="Marc Riera" creationdate="20230105T184851Z">
+        <seg>files_order.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>filters.xml</seg>
@@ -55926,6 +56048,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>ignored_words.txt</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184856Z" creationid="Marc Riera" creationdate="20230105T184856Z">
+        <seg>ignored_words.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>ignored_words.txt.</seg>
@@ -56131,6 +56261,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181109T235351Z" creationid="mgalo" creationdate="20181109T235351Z">
         <seg>lan&amp;g (atribut de llengua)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>last_entry.properties</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184849Z" creationid="Marc Riera" creationdate="20230105T184849Z">
+        <seg>last_entry.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -56748,6 +56886,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081740Z" creationid="Marc Riera" creationdate="20221201T081740Z">
         <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat.project</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184846Z" creationid="Marc Riera" creationdate="20230105T184846Z">
+        <seg>omegat.project</seg>
       </tuv>
     </tu>
     <tu>
@@ -57472,12 +57618,52 @@ for (i in 0 ..&lt; files.size())
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>project_save.tmx</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184942Z" creationid="Marc Riera" creationdate="20230105T184942Z">
+        <seg>project_save.tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>project_save.tmx.bak</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184938Z" creationid="Marc Riera" creationdate="20230105T184938Z">
+        <seg>project_save.tmx.bak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>project_save.tmx.timestamp.bak</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184936Z" creationid="Marc Riera" creationdate="20230105T184936Z">
+        <seg>project_save.tmx.marcatemporal.bak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>project_stats.txt</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184911Z" creationid="Marc Riera" creationdate="20230105T184911Z">
+        <seg>project_stats.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>project_stats_match.txt</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225531Z" creationid="Marc Riera" creationdate="20201003T225531Z">
         <seg>project_stats_match.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>project_stats_match_per_file.txt</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184907Z" creationid="Marc Riera" creationdate="20230105T184907Z">
+        <seg>project_stats_match_per_file.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -57961,6 +58147,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225506Z" creationid="Marc Riera" creationdate="20201003T225506Z">
         <seg>tm/penalty-xxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm/tmx2source</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T185012Z" creationid="Marc Riera" creationdate="20230105T185012Z">
+        <seg>tm/tmx2source</seg>
       </tuv>
     </tu>
     <tu>
