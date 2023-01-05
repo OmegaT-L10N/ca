@@ -16519,6 +16519,14 @@ els fils de teranyina t'aparten.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External searches are either web searches or local commands that take the string selected in the Editor as a parameter.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144815Z" creationid="Marc Riera" creationdate="20230105T144815Z">
+        <seg>Les cerques externes són cerques web o ordres locals que accepten la cadena seleccionada en l'editor com a paràmetre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External spellcheck</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134610Z" creationid="Marc Riera" creationdate="20221209T134610Z">
@@ -17583,6 +17591,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T134957Z" creationid="Marc Riera" creationdate="20221206T134957Z">
         <seg>Per raons de seguretat, les cerques externes locals estan inhabilitades per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For security reasons, &lt;l0&gt;local externam searches&lt;/l0&gt; are disabled by default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144853Z" creationid="Marc Riera" creationdate="20230105T144853Z">
+        <seg>Per raons de seguretat, les &lt;l0&gt;cerques externes locals&lt;/l0&gt; estan inhabilitades per defecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24539,6 +24555,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110512Z" creationid="Marc Riera" creationdate="20221204T110512Z">
         <seg>Les ordres locals s'executen abans que les ordres globals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local external search commands are saved in the &lt;l0/&gt; file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144904Z" creationid="Marc Riera" creationdate="20230105T144904Z">
+        <seg>Les ordres de cerca externa locals es desen en el fitxer &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36892,10 +36916,26 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the location of the language checker.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144655Z" creationid="Marc Riera" creationdate="20230105T144655Z">
+        <seg>Seleccioneu la ubicació del corrector lingüístic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the method using the radio buttons.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T201658Z" creationid="Marc Riera" creationdate="20220621T201658Z">
         <seg>Seleccioneu el mètode amb els botons d'opció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the rules depending on whether they are relevant to the type of text you are translating.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144756Z" creationid="Marc Riera" creationdate="20230105T144756Z">
+        <seg>Seleccioneu les regles en funció de si són rellevants per al tipus de text que traduïu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40646,6 +40686,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l1&gt;{target}&lt;/l1&gt; placeholder will be replaced by the string that was selected in the Editor.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T145645Z" creationid="Marc Riera" creationdate="20230105T145645Z">
+        <seg>El marcador de posició &lt;l1&gt;{target}&lt;/l1&gt; se substituirà per la cadena seleccionada en l'editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221415Z" creationid="Marc Riera" creationdate="20221218T221415Z">
@@ -43552,6 +43600,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T135240Z" creationid="Marc Riera" creationdate="20201125T135240Z">
         <seg>Versió perquè l'instal·li l'usuari, familiar per als usuaris existents de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The web searches are opened in the default browser and the commands are equivalent to items launched on the command line.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144834Z" creationid="Marc Riera" creationdate="20230105T144834Z">
+        <seg>Les cerques web s'obren en el navegador per defecte i les ordres són equivalents a elements iniciats en la línia d'ordres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49540,6 +49596,14 @@ El valor actual és de {0} MB.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200123T160410Z" creationid="Marc Riera" creationdate="20180212T231833Z">
         <seg>Instal·lació de l'OmegaT amb Java Web Start (tots els sistemes operatius)
 =========================================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using a different language checker on your local machine than the one supplied with OmegaT allows you to customize the verification rules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144733Z" creationid="Marc Riera" creationdate="20230105T144733Z">
+        <seg>L'ús d'un corrector lingüístic de l'ordinador diferent del que es proporciona amb l'OmegaT us permet personalitzar les regles de correcció.</seg>
       </tuv>
     </tu>
     <tu>
