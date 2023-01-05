@@ -6440,6 +6440,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T183425Z" creationid="Marc Riera" creationdate="20230105T183425Z">
+        <seg>Aquí podeu trobar scripts addicionals: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional themes can be added as plugins.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T101738Z" creationid="Marc Riera" creationdate="20230104T101738Z">
@@ -14785,6 +14793,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each event corresponds to a subfolder under the &lt;l1/&gt; folder:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T183504Z" creationid="Marc Riera" creationdate="20230105T183504Z">
+        <seg>Cada esdeveniment correspon a una subcarpeta de la carpeta &lt;l1/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each of the three files constitutes a bilingual export of the current content of your translation.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T120422Z" creationid="Marc Riera" creationdate="20221211T120422Z">
@@ -19832,8 +19848,8 @@ no cal introduir el camí complet.)</seg>
       <tuv lang="en">
         <seg>If a list of scripts is not displayed on the left side of the script editor window, use the Scripting window &lt;g0&gt;File&lt;/g0&gt; &gt; &lt;g1&gt;Set Scripts Folder...&lt;/g1&gt; menu to locate the place where scripts are stored.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T183355Z" creationid="Marc Riera" creationdate="20230105T183355Z">
-        <seg>Si no es mostra una llista de scripts en el costat esquerre de la finestra de l'editor de scripts, utilitzeu el menú &lt;g0&gt;Fitxer&lt;/g0&gt; &gt; &lt;g1&gt;&lt;/g1&gt; de la finestra «Scripts» per localitzar la ubicació on s'emmagatzemen els scripts.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T183411Z" creationid="Marc Riera" creationdate="20230105T183355Z">
+        <seg>Si no es mostra una llista de scripts en el costat esquerre de la finestra de l'editor de scripts, utilitzeu el menú &lt;g0&gt;Fitxer&lt;/g0&gt; &gt; &lt;g1&gt;Defineix la carpeta de scripts&lt;/g1&gt; de la finestra «Scripts» per localitzar la ubicació on s'emmagatzemen els scripts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23377,6 +23393,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T161020Z" creationid="Marc Riera" creationdate="20221206T161020Z">
         <seg>Salta al segment amb el número indicat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Just copy the file and put it in the &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T183436Z" creationid="Marc Riera" creationdate="20230105T183436Z">
+        <seg>Només cal que copieu el fitxer a la carpeta &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35275,6 +35299,30 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Scripts in this folder will be launched before OmegaT shuts down.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T183517Z" creationid="Marc Riera" creationdate="20230105T183517Z">
+        <seg>Els scripts d'aquesta carpeta s'executaran abans de sortir de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scripts in this folder will be launched when editing a new segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T183543Z" creationid="Marc Riera" creationdate="20230105T183543Z">
+        <seg>Els scripts d'aquesta carpeta s'executaran en editar un segment nou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scripts in this folder will be launched when the scripting engine is available, shortly after OmegaT is launched.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T183534Z" creationid="Marc Riera" creationdate="20230105T183534Z">
+        <seg>Els scripts d'aquesta carpeta s'executaran quan el motor de scripts estigui disponible, poc després d'iniciar l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Scripts/procedures are available to enable you to do the following:</seg>
@@ -38169,6 +38217,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T150107Z" creationid="Mariona" creationdate="20181218T200917Z">
         <seg>Sembla que algunes carpetes del projecte han canviat d'ubicació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some scripts are &lt;e0&gt;event&lt;/e0&gt; based and can be made to be triggered automatically when a given event takes place.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T183454Z" creationid="Marc Riera" creationdate="20230105T183454Z">
+        <seg>Alguns scripts es basen en &lt;e0&gt;esdeveniments&lt;/e0&gt; i es poden activar automàticament quan es produeix un esdeveniment determinat.</seg>
       </tuv>
     </tu>
     <tu>
