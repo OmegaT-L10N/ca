@@ -10047,6 +10047,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Check printf variables in file formats other than the PO format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T145943Z" creationid="Marc Riera" creationdate="20230105T145943Z">
+        <seg>Comprova les variables de «printf» en formats de fitxer diferents del format PO.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Check punctuation at segment end</seg>
@@ -13009,6 +13017,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221005T200527Z" creationid="Marc Riera" creationdate="20221005T200527Z">
         <seg>Per defecte, és «xml».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Define or reset the master password used to protect login credentials as well as access keys for machine translation services.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T150836Z" creationid="Marc Riera" creationdate="20230105T150836Z">
+        <seg>Definiu o reinicialitzeu la contrasenya mestra utilitzada per a protegir les credencials d'inici de sessió i les claus d'accés als serveis de traducció automàtica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17502,6 +17518,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, use &lt;u0&gt;\d+&lt;/u0&gt; to treat all numbers as tags, enabling you to check that numbers have not been accidentally changed in the translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T150123Z" creationid="Marc Riera" creationdate="20230105T150123Z">
+        <seg>Per exemple, utilitzeu &lt;u0&gt;\d+&lt;/u0&gt; per a tractar tots els dígits com a etiquetes, la qual cosa us permet comprovar que no s'han modificat els nombres per accident en la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, use the pattern &lt;l0&gt;read*&lt;/l0&gt; if you want to have the text filter handle readme files (&lt;l1&gt;readme, read.me&lt;/l1&gt;, or &lt;l2&gt;readme.txt&lt;/l2&gt;).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T103626Z" creationid="Marc Riera" creationdate="20221215T103626Z">
@@ -21823,6 +21847,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T093148Z" creationid="Marc Riera" creationdate="20221214T093148Z">
         <seg>Entrades d'índex, adreces d'interès, referències d'adreces d'interès, notes, comentaris, notes de la presentació, enllaços (URL) i noms dels fulls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T150252Z" creationid="Marc Riera" creationdate="20230105T150252Z">
+        <seg>Indica que aquesta coincidència és parcial (actualment només per a traduccions de fitxers PO amb la marca «#fuzzy»).</seg>
       </tuv>
     </tu>
     <tu>
@@ -36464,6 +36496,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segments that receive automated translation at that time can be marked in the &lt;g2&gt;Editor&lt;/g2&gt; pane by using &lt;l3/&gt;.&lt;l4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T145847Z" creationid="Marc Riera" creationdate="20230105T145847Z">
+        <seg>Els segments que reben una traducció propagada automàticament d'aquesta manera es poden marcar en la subfinestra &lt;g2&gt;Editor&lt;/g2&gt; mitjançant &lt;l3/&gt;.&lt;l4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segments with Notes</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232656Z" creationid="Marc Riera" creationdate="20221230T232656Z">
@@ -37567,6 +37607,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T171601Z" creationid="Marc Riera" creationdate="20221210T171601Z">
         <seg>De la mateixa manera, el contingut de la carpeta &lt;l1/&gt; es reconeix automàticament i no cal tornar a carregar el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similarly, use &lt;u0&gt;&lt;/?[^&gt;]+&gt;&lt;/u0&gt; to make sure that HTML (or similar) tags entered into the source text are preserved without modification in the translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T150231Z" creationid="Marc Riera" creationdate="20230105T150231Z">
+        <seg>De la mateixa manera, utilitzeu &lt;u0&gt;&lt;/?[^&gt;]+&gt;&lt;/u0&gt; per a assegurar-vos que les etiquetes HTML (o similars) introduïdes en el text d'origen es conserven sense modificacions en la traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39777,6 +39825,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tags in a different order than the source will not appear in the list of tag issues.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T150035Z" creationid="Marc Riera" creationdate="20230105T150035Z">
+        <seg>Les etiquetes en un ordre diferent de l'ordre del text original no apareixeran en la llista d'errors d'etiquetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tags should generally not be modified, but that is possible when this option is enabled.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T184134Z" creationid="Marc Riera" creationdate="20230104T184134Z">
@@ -40978,6 +41034,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T143630Z" creationid="Marc Riera" creationdate="20230103T143630Z">
         <seg>És possible que el valor PATH que utilitza l'OmegaT no sigui el mateix que el de l'usuari actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The PO filter already handles variables marked with &lt;l0&gt;%&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T145959Z" creationid="Marc Riera" creationdate="20230105T145959Z">
+        <seg>El filtre del format PO ja tracta les variables marcades amb &lt;l0&gt;%&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47001,6 +47065,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation memories located in &lt;l0/&gt; and &lt;l1/&gt; can auto-populate the project memory.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T145751Z" creationid="Marc Riera" creationdate="20230105T145751Z">
+        <seg>Les memòries de traducció de les carpetes &lt;l0/&gt; i &lt;l1/&gt; es poden propagar automàticament a la memòria del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation memories to export</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110241Z" creationid="Marc Riera" creationdate="20221204T110241Z">
@@ -50183,6 +50255,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T135237Z" creationid="Marc Riera" creationdate="20221211T135237Z">
         <seg>Quan s'instal·la, el connector ofereix accés directe als formats afegits i també permet associar un fitxer de paràmetres del filtre personalitzat que heu creat amb el Rainbow.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When machine translation is enabled, OmegaT registers the name of the engine that was used to populate a given segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T145921Z" creationid="Marc Riera" creationdate="20230105T145921Z">
+        <seg>Quan s'habilita la traducció automàtica, l'OmegaT registra el nom del motor utilitzat per a traduir un segment determinat.</seg>
       </tuv>
     </tu>
     <tu>
