@@ -8400,6 +8400,14 @@ inesperat però correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Available languages</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144154Z" creationid="Marc Riera" creationdate="20230105T144154Z">
+        <seg>Llengües disponibles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Available languages:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214535Z" creationid="Marc Riera" creationdate="20221124T214535Z">
@@ -13200,6 +13208,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Depending on your internet connection it may take a while before the dictionary is installed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144306Z" creationid="Marc Riera" creationdate="20230105T144306Z">
+        <seg>En funció de la connexió a Internet, la instal·lació del diccionari pot tardar una estona.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Description</seg>
@@ -13860,6 +13876,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085715Z" creationid="Marc Riera" creationdate="20230104T085715Z">
         <seg>Mostra la llista de tots els connectors instal·lats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the list of available dictionaries from the above URL.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144229Z" creationid="Marc Riera" creationdate="20230105T144229Z">
+        <seg>Mostra la llista de diccionaris disponibles en l'URL anterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15078,6 +15102,14 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202847Z" creationid="Marc Riera" creationdate="20230101T202847Z">
         <seg>Traduccions buides</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable after installing a spellchecking dictionary.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144139Z" creationid="Marc Riera" creationdate="20230105T144139Z">
+        <seg>Habiliteu-ho després d'instal·lar un diccionari de correcció ortogràfica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20166,8 +20198,8 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       <tuv lang="en">
         <seg>If the &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, typing the first letter of a translated glossary entry, or &lt;l1&gt;&lt;&lt;/l1&gt; for a tag, automatically launches the auto-completer.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T143749Z" creationid="Marc Riera" creationdate="20230105T143749Z">
-        <seg>Si l'opció &lt;g0&gt;Mostra suggeriments rellevants automàticament&lt;/g0&gt; està marcada, teclejant la primera lletra d'una entrada del glossari traduïda, o &lt;l1&lt;&lt;/l1&gt; per a una etiqueta, llança automàticament l'autocompletador.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T143851Z" creationid="Marc Riera" creationdate="20230105T143749Z">
+        <seg>Si l'opció &lt;g0&gt;Mostra automàticament els suggeriments rellevants&lt;/g0&gt; està marcada, l'emplenament automàtic s'inicia automàticament quan escriviu la primera lletra d'una entrada del glossari traduïda o &lt;l1&gt;&lt;&lt;/l1&gt; en el cas d'una etiqueta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22219,6 +22251,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214813Z" creationid="Marc Riera" creationdate="20221124T214813Z">
         <seg>Error d'instal·lació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install new language...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144222Z" creationid="Marc Riera" creationdate="20230105T144222Z">
+        <seg>Instal·la una llengua nova...</seg>
       </tuv>
     </tu>
     <tu>
@@ -29090,10 +29130,26 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will underline spelling mistakes with red wavy-lines.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144143Z" creationid="Marc Riera" creationdate="20230105T144143Z">
+        <seg>L'OmegaT subratllarà els errors ortogràfics amb línies ondulades vermelles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will use the associated tokenizer to find matches.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T095615Z" creationid="Marc Riera" creationdate="20230104T095615Z">
         <seg>L'OmegaT utilitzarà el lematitzador associat per a cercar coincidències.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will use the language dictionary that has the same name as the target language code set in the &lt;l0/&gt; project property.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T143947Z" creationid="Marc Riera" creationdate="20230105T143921Z">
+        <seg>L'OmegaT utilitzarà el diccionari de la llengua que tingui el mateix nom que el codi de la llengua de destinació definit en les propietats del projecte de &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36804,6 +36860,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the dictionaries that you want to install and click &lt;g0&gt;Install&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144246Z" creationid="Marc Riera" creationdate="20230105T144246Z">
+        <seg>Seleccioneu els diccionaris que voleu instal·lar i feu clic en &lt;g0&gt;Instal·la&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the filter in the list and click &lt;g0&gt;Options...&lt;/g0&gt; to modify them.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T085338Z" creationid="Marc Riera" creationdate="20221214T085338Z">
@@ -38579,6 +38643,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Spellcheck the translation</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144122Z" creationid="Marc Riera" creationdate="20230105T144026Z">
+        <seg>Comprova l'ortografia de la traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Spellchecker</seg>
@@ -38594,6 +38666,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T093142Z" creationid="mgalo" creationdate="20181112T093142Z">
         <seg>Configuració del corrector ortogràfic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spellchecking dictionaries location</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144152Z" creationid="Marc Riera" creationdate="20230105T144152Z">
+        <seg>Ubicació dels diccionaris de correcció ortogràfica</seg>
       </tuv>
     </tu>
     <tu>
@@ -41442,6 +41522,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The default URL where OmegaT will look for dictionaries to install.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144417Z" creationid="Marc Riera" creationdate="20230105T144417Z">
+        <seg>URL per defecte on l'OmegaT cercarà diccionaris per a instal·lar-los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The default choice is &lt;g0&gt;Yes&lt;/g0&gt;, which may not be what you want if you edited the general OmegaT file filters.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T155319Z" creationid="Marc Riera" creationdate="20230103T155319Z">
@@ -42183,6 +42271,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T221815Z" creationid="Marc Riera" creationdate="20221207T221803Z">
         <seg>La llista sota aquest element mostra 12 ranures possibles per a scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of dictionaries that are present in the above folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144202Z" creationid="Marc Riera" creationdate="20230105T144202Z">
+        <seg>Llista de diccionaris presents en la carpeta anterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44161,6 +44257,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T230602Z" creationid="Marc Riera" creationdate="20191112T230602Z">
         <seg>Sembla que l'URL no és vàlid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This action requires an internet connection</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144237Z" creationid="Marc Riera" creationdate="20230105T144237Z">
+        <seg>Aquesta acció requereix una connexió a Internet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47171,6 +47275,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T173518Z" creationid="Marc Riera" creationdate="20191110T222905Z">
         <seg>L'URL no té la destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL of downloadable spellchecking dictionaries</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144217Z" creationid="Marc Riera" creationdate="20230105T144217Z">
+        <seg>URL dels diccionaris de correcció ortogràfica en línia</seg>
       </tuv>
     </tu>
     <tu>
@@ -51172,6 +51284,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T185008Z" creationid="Marc Riera" creationdate="20221213T185008Z">
         <seg>També podeu definir cadenes perquè l'OmegaT us avisi si les deixeu en una traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also download dictionaries from other locations, or copy dictionaries installed locally.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144426Z" creationid="Marc Riera" creationdate="20230105T144426Z">
+        <seg>També podeu baixar diccionaris d'altres ubicacions o copiar diccionaris instal·lats localment.</seg>
       </tuv>
     </tu>
     <tu>
