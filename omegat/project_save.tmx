@@ -9135,6 +9135,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, scripts are stored in the &lt;l0/&gt; folder of the OmegaT application folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T183130Z" creationid="Marc Riera" creationdate="20230105T183130Z">
+        <seg>Per defecte, els scripts s'emmagatzemen en la carpeta &lt;l0/&gt; de la carpeta de l'aplicació OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, segmentation rules are global and apply to all projects.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T103810Z" creationid="Marc Riera" creationdate="20221206T103810Z">
@@ -19822,6 +19830,14 @@ no cal introduir el camí complet.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a list of scripts is not displayed on the left side of the script editor window, use the Scripting window &lt;g0&gt;File&lt;/g0&gt; &gt; &lt;g1&gt;Set Scripts Folder...&lt;/g1&gt; menu to locate the place where scripts are stored.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T183355Z" creationid="Marc Riera" creationdate="20230105T183355Z">
+        <seg>Si no es mostra una llista de scripts en el costat esquerre de la finestra de l'editor de scripts, utilitzeu el menú &lt;g0&gt;Fitxer&lt;/g0&gt; &gt; &lt;g1&gt;&lt;/g1&gt; de la finestra «Scripts» per localitzar la ubicació on s'emmagatzemen els scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a part of the target segment has been selected, that part will be overwriten.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234559Z" creationid="Marc Riera" creationdate="20221230T234559Z">
@@ -26829,6 +26845,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204935Z" creationid="Marc Riera" creationdate="20221124T204935Z">
         <seg>Llengua i país nous</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New scripts added there will appear in the list of available scripts in the left-hand panel of the window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T183153Z" creationid="Marc Riera" creationdate="20230105T183153Z">
+        <seg>Els scripts nous que afegiu apareixeran en la llista de scripts disponibles de la subfinestra esquerra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35236,6 +35260,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scripts are short programs (similar to macros in office applications) that can be used to automate tasks as well as to extend or customize OmegaT functionality.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T183034Z" creationid="Marc Riera" creationdate="20230105T183034Z">
+        <seg>Els scripts són petits programes (similars a les macros de les aplicacions d'ofimàtica) que es poden utilitzar per a automatitzar tasques, així com ampliar o personalitzar la funcionalitat de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scripts can be used to set predefined themes.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102418Z" creationid="Marc Riera" creationdate="20230104T102418Z">
@@ -41111,6 +41143,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Scripting window allows you to load an existing script and run it on the current project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T183109Z" creationid="Marc Riera" creationdate="20230105T183109Z">
+        <seg>La finestra «Scripts» us permet carregar un script existent i executar-lo en el projecte actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T154947Z" creationid="Packard Bell" creationdate="20150605T160453Z">
@@ -44287,6 +44327,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201124T193022Z" creationid="Marc Riera" creationdate="20201124T193022Z">
         <seg>Es poden trobar a les carpetes de les versions compilades corresponents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can be written by users in any language understood by the underlying Java virtual machine.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T183057Z" creationid="Marc Riera" creationdate="20230105T183057Z">
+        <seg>Els poden escriure els usuaris en qualsevol llenguatge que pugui processar la màquina virtual del Java subjacent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48657,6 +48705,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221229T104623Z" creationid="Marc Riera" creationdate="20221229T104623Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a accedir a les preferències de les regles de segmentació locals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access the window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T183118Z" creationid="Marc Riera" creationdate="20230105T183118Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a accedir a la finestra.</seg>
       </tuv>
     </tu>
     <tu>
