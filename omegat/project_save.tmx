@@ -10563,6 +10563,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click the name of a script in the list in the left-hand panel.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184152Z" creationid="Marc Riera" creationdate="20230105T184152Z">
+        <seg>Feu clic en el nom d'un script en la llista de la subfinestra esquerra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clicking on an assigned slot launches the script assigned to that slot.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T221832Z" creationid="Marc Riera" creationdate="20221207T221832Z">
@@ -24410,6 +24418,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Linux users: depending on the configuration of your operating system, you may not have permission to write to the default scripts folder location.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184221Z" creationid="Marc Riera" creationdate="20230105T184221Z">
+        <seg>Usuaris del Linux: en funció de la configuració del sistema operatiu, és possible que no tingueu permís per a escriure en la ubicació de la carpeta de scripts per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Linux with 64-bit JRE</seg>
@@ -28347,6 +28363,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202022Z" creationid="Marc Riera" creationdate="20221206T202014Z">
         <seg>OmegaT té dues versions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT comes with a number of scripts developed by OmegaT contributors.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184234Z" creationid="Marc Riera" creationdate="20230105T184234Z">
+        <seg>L'OmegaT incorpora una sèrie de scripts desenvolupats pels col·laboradors de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35284,6 +35308,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scripts are also launched when you are executing other scripts.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184138Z" creationid="Marc Riera" creationdate="20230105T184138Z">
+        <seg>Els scripts també s'iniciaran quan executeu altres scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scripts are short programs (similar to macros in office applications) that can be used to automate tasks as well as to extend or customize OmegaT functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T183034Z" creationid="Marc Riera" creationdate="20230105T183034Z">
@@ -35296,6 +35328,30 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102418Z" creationid="Marc Riera" creationdate="20230104T102418Z">
         <seg>Es poden utilitzar scripts per a establir temes predefinits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scripts in the folder will be launched when a new word is edited in the Editor window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184101Z" creationid="Marc Riera" creationdate="20230105T184101Z">
+        <seg>Els scripts de la carpeta s'executaran quan s'editi una paraula nova en la subfinestra «Editor».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scripts in the folder will be launched when the editor switches to the next file in the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184037Z" creationid="Marc Riera" creationdate="20230105T184037Z">
+        <seg>Els scripts de la carpeta s'executaran quan l'editor canviï al fitxer següent del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scripts in the folder will be launched when the state of the project changes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184123Z" creationid="Marc Riera" creationdate="20230105T184123Z">
+        <seg>Els scripts de la carpeta s'iniciaran quan canviï l'estat del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42693,6 +42749,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The new word is available with "newWord".</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184114Z" creationid="Marc Riera" creationdate="20230105T184114Z">
+        <seg>La paraula nova està disponible amb «newWord».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The next section describes the syntax used in the shortcut definition files, and provides an example modification.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T120824Z" creationid="Marc Riera" creationdate="20221217T120824Z">
@@ -49365,6 +49429,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202945Z" creationid="Marc Riera" creationdate="20230101T202945Z">
         <seg>Utilitzeu la mateixa tecla per a tornar a blocar el cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the script editor to open, run, or modify scripts directly, or to write new scripts for your own use.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184251Z" creationid="Marc Riera" creationdate="20230105T184251Z">
+        <seg>Utilitzeu l'editor de scripts per a obrir, executar o modificar els scripts directament, o per a escriure scripts nous per al vostre propi ús.</seg>
       </tuv>
     </tu>
     <tu>
