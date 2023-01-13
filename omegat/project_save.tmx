@@ -13735,6 +13735,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Displa&amp;y Whitespace</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230113T103414Z" creationid="Marc Riera" creationdate="20230113T103414Z">
+        <seg>Mostra els espa&amp;is en blanc</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Displa&amp;y source terms</seg>
@@ -13753,12 +13761,44 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Bidi Control Characters</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230113T103421Z" creationid="Marc Riera" creationdate="20230113T103421Z">
+        <seg>Mostra els caràcters de control &amp;bidireccional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230113T103502Z" creationid="Marc Riera" creationdate="20230113T103502Z">
+        <seg>Mostra la informació de &amp;modificació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230113T103401Z" creationid="Marc Riera" creationdate="20230113T103401Z">
+        <seg>Mostra els espais &amp;no separables</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Display &amp;None</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T095532Z" creationid="mgalo" creationdate="20181112T095532Z">
         <seg>&amp;No la mostris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230113T103338Z" creationid="Marc Riera" creationdate="20230113T103338Z">
+        <seg>Mostra els límits dels &amp;paràgrafs</seg>
       </tuv>
     </tu>
     <tu>
@@ -19306,12 +19346,52 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230113T103428Z" creationid="Marc Riera" creationdate="20230113T103428Z">
+        <seg>Ressalta els segments propagats &amp;automàticament</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230113T103327Z" creationid="Marc Riera" creationdate="20230113T103327Z">
+        <seg>Ressalta els segments &amp;traduïts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230113T103333Z" creationid="Marc Riera" creationdate="20230113T103333Z">
+        <seg>Ressalta els segments sense trad&amp;uir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Non-Unique Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230113T103345Z" creationid="Marc Riera" creationdate="20230113T103345Z">
+        <seg>Ressalta els se&amp;gments no únics</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Highlight Pattern...</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T183221Z" creationid="Marc Riera" creationdate="20201128T183221Z">
         <seg>Patró de ressaltat...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Segments &amp;with Notes</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230113T103354Z" creationid="Marc Riera" creationdate="20230113T103354Z">
+        <seg>Ressalta els segments amb &amp;notes</seg>
       </tuv>
     </tu>
     <tu>
@@ -25288,6 +25368,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T095818Z" creationid="mgalo" creationdate="20181112T095818Z">
         <seg>Marca els &amp;caràcters de control d'algorisme bidireccional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark &amp;Language Checker Issues</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230113T103441Z" creationid="Marc Riera" creationdate="20230113T103441Z">
+        <seg>Marca els errors del corrector &amp;lingüístic</seg>
       </tuv>
     </tu>
     <tu>
@@ -49271,6 +49359,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230113T103449Z" creationid="Marc Riera" creationdate="20230113T103449Z">
+        <seg>Utilitza la substitució de font &amp;forçada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Create Glossary Entry in the Edit menu to add new entries.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T104510Z" creationid="Marc Riera" creationdate="20221124T212535Z">
@@ -55107,6 +55203,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>for &amp;All Segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230113T103528Z" creationid="Marc Riera" creationdate="20230113T103528Z">
+        <seg>&amp;Tots els segments</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>for (i in 0 ..&lt; files.size())</seg>
@@ -55122,6 +55226,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200802T165742Z" creationid="Marc Riera" creationdate="20200802T165742Z">
         <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for Current &amp;Segment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230113T103523Z" creationid="Marc Riera" creationdate="20230113T103523Z">
+        <seg>&amp;Segment actual</seg>
       </tuv>
     </tu>
     <tu>
