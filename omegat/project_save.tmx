@@ -6595,6 +6595,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After reloading the old project, its translation memory will be applied to the new source files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184640Z" creationid="Marc Riera" creationdate="20230126T184640Z">
+        <seg>Després de tornar a carregar el projecte, la memòria de traducció s'aplicarà als nous fitxers d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After selecting the language and files, click &lt;g0&gt;OK&lt;/g0&gt; button to bring up the &lt;g1&gt;Align&lt;/g1&gt; window, which shows the results of the automatic alignment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T204551Z" creationid="Marc Riera" creationdate="20221214T204551Z">
@@ -19972,6 +19980,14 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Identical segments will be automatically translated.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184700Z" creationid="Marc Riera" creationdate="20230126T184700Z">
+        <seg>Els segments idèntics es traduiran de manera automàtica.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Identifier used for alternative translations</seg>
@@ -27378,6 +27394,22 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Next Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184503Z" creationid="Marc Riera" creationdate="20230126T184503Z">
+        <seg>Segment de tm/auto/ següent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184525Z" creationid="Marc Riera" creationdate="20230126T184525Z">
+        <seg>Segment de tm/enforce/ següent</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Next Translated Segment</seg>
@@ -28773,6 +28805,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T192908Z" creationid="Marc Riera" creationdate="20221210T192908Z">
         <seg>L'OmegaT crea una còpia de seguretat amb el nom &lt;f0&gt;project_save.tmx.bak&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT creates backups of your project settings to ensure it can retrieve them in case of problem.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184439Z" creationid="Marc Riera" creationdate="20230126T184439Z">
+        <seg>L'OmegaT crea còpies de seguretat dels paràmetres del projecte per a assegurar que pot recuperar-los en cas que hi hagi un problema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32523,6 +32563,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220705Z" creationid="Marc Riera" creationdate="20221204T220705Z">
         <seg>Segment anterior &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;P&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Previous Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184512Z" creationid="Marc Riera" creationdate="20230126T184512Z">
+        <seg>Segment de tm/auto/ anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Previous Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184535Z" creationid="Marc Riera" creationdate="20230126T184535Z">
+        <seg>Segment de tm/enforce/ anterior</seg>
       </tuv>
     </tu>
     <tu>
@@ -54758,6 +54814,14 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl alt COMMA</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184506Z" creationid="Marc Riera" creationdate="20230126T184506Z">
+        <seg>ctrl alt COMMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl alt E</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121051Z" creationid="Marc Riera" creationdate="20221218T121051Z">
@@ -54770,6 +54834,30 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121047Z" creationid="Marc Riera" creationdate="20221218T121047Z">
         <seg>ctrl alt N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl alt PERIOD</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184527Z" creationid="Marc Riera" creationdate="20230126T184527Z">
+        <seg>ctrl alt PERIOD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl alt shift COMMA</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184515Z" creationid="Marc Riera" creationdate="20230126T184515Z">
+        <seg>ctrl alt shift COMMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl alt shift PERIOD</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184545Z" creationid="Marc Riera" creationdate="20230126T184545Z">
+        <seg>ctrl alt shift PERIOD</seg>
       </tuv>
     </tu>
     <tu>
@@ -55801,10 +55889,42 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>gotoNextXAutoMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184504Z" creationid="Marc Riera" creationdate="20230126T184504Z">
+        <seg>gotoNextXAutoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoNextXEnforcedMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184526Z" creationid="Marc Riera" creationdate="20230126T184526Z">
+        <seg>gotoNextXEnforcedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>gotoNotesPanelMenuItem</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121046Z" creationid="Marc Riera" creationdate="20221218T121046Z">
         <seg>gotoNotesPanelMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoPrevXAutoMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184513Z" creationid="Marc Riera" creationdate="20230126T184513Z">
+        <seg>gotoPrevXAutoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoPrevXEnforcedMenuItem</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184544Z" creationid="Marc Riera" creationdate="20230126T184544Z">
+        <seg>gotoPrevXEnforcedMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -57264,6 +57384,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta alt COMMA</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184507Z" creationid="Marc Riera" creationdate="20230126T184507Z">
+        <seg>meta alt COMMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta alt E</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121053Z" creationid="Marc Riera" creationdate="20221218T121053Z">
@@ -57276,6 +57404,30 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121049Z" creationid="Marc Riera" creationdate="20221218T121049Z">
         <seg>meta alt N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta alt PERIOD</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184528Z" creationid="Marc Riera" creationdate="20230126T184528Z">
+        <seg>meta alt PERIOD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta alt shift COMMA</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184516Z" creationid="Marc Riera" creationdate="20230126T184516Z">
+        <seg>meta alt shift COMMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta alt shift PERIOD</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184547Z" creationid="Marc Riera" creationdate="20230126T184547Z">
+        <seg>meta alt shift PERIOD</seg>
       </tuv>
     </tu>
     <tu>
