@@ -33759,6 +33759,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Remote repository git+ssh credential error: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T085407Z" creationid="Marc Riera" creationdate="20230126T085407Z">
+        <seg>S'ha produït un error de credencials del git+ssh del dipòsit remot: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
