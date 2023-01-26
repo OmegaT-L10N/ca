@@ -7381,6 +7381,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alternatively, put the reference memories from the old project in the &lt;l0/&gt; folder of the new one.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184728Z" creationid="Marc Riera" creationdate="20230126T184728Z">
+        <seg>Com a alternativa, copieu les memòries de referència del projecte anterior a la carpeta &lt;l0/&gt; del projecte nou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alternatively, you can press the arrow keys while holding &lt;k0&gt;Shift&lt;/k0&gt; to select consecutive segments.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T184514Z" creationid="Marc Riera" creationdate="20230103T184514Z">
@@ -13363,6 +13371,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Depending on how reliable the memory is, you can prefer to put it in one of the following subfolders:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184744Z" creationid="Marc Riera" creationdate="20230126T184744Z">
+        <seg>En funció de la fiabilitat de la memòria, preferireu copiar-la en una o altra de les subcarpetes següents:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Depending on the original format, OmegaT, however, will present this sentence in a fashion similar to this one:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T184659Z" creationid="Marc Riera" creationdate="20221213T184659Z">
@@ -15373,6 +15389,14 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Enable the &lt;l0/&gt; option to have OmegaT remember that the inserted matches came from those folders.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184817Z" creationid="Marc Riera" creationdate="20230126T184817Z">
+        <seg>Habiliteu l'opció &lt;l0/&gt; perquè l'OmegaT recordi que les coincidències inserides provenien d'aquestes carpetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
@@ -16181,6 +16205,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223031Z" creationid="Marc Riera" creationdate="20180214T223031Z">
         <seg>Coincidència exacta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exact matches coming from the &lt;l0/&gt; and the &lt;l1/&gt; subfolders will be automatically inserted into the translation, without the prefix that is inserted by OmegaT when it inserts matches above a set threshold.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T185108Z" creationid="Marc Riera" creationdate="20230126T185108Z">
+        <seg>Les coincidències exactes de les subcarpetes &lt;l0/&gt; i &lt;l1/&gt; s'inseriran automàticament en la traducció, sense el prefix que l'OmegaT afegeix quan insereix coincidències per sobre d'un llindar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21272,6 +21304,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233716Z" creationid="Marc Riera" creationdate="20221226T233716Z">
         <seg>Si necessiteu un procés de revisió específic, teniu aquestes opcions, per exemple:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u0&gt;OmegaT user groups.&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T185149Z" creationid="Marc Riera" creationdate="20230126T185149Z">
+        <seg>Si necessiteu ajuda amb qualsevol aspecte de l'OmegaT, no dubteu a unir-vos als &lt;u0&gt;grups d'usuaris de l'OmegaT&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38333,6 +38373,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Similar segments will be provided with matches from the project translated memory as you enter them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T185021Z" creationid="Marc Riera" creationdate="20230126T185004Z">
+        <seg>Els segments similars tindran coincidències de la memòria de traducció del projecte quan hi accediu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Similarly, links to the various parts of the manual are displayed in a way that make it easier to identify the function of the linked item.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221226T225343Z" creationid="Marc Riera" creationdate="20221226T225343Z">
@@ -50159,6 +50207,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T185441Z" creationid="Marc Riera" creationdate="20230103T185441Z">
         <seg>Utilitzeu el ratolí o les tecles de direcció per a col·locar el cursor en la ubicació on voleu dividir el text i feu clic en &lt;g1&gt;D'acord&lt;/g1&gt; o premeu &lt;k2&gt;Retorn&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the navigation menus found in &lt;l0/&gt;&lt;l1/&gt; to navigate to an automatically inserted segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T185136Z" creationid="Marc Riera" creationdate="20230126T185136Z">
+        <seg>Utilitzeu els menús de navegació de &lt;l0/&gt;&lt;l1/&gt; per a navegar a un segment inserit automàticament.</seg>
       </tuv>
     </tu>
     <tu>
