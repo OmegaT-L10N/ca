@@ -7592,6 +7592,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows the user to create an entry in the project writable glossary (the &lt;l0/&gt; file).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175126Z" creationid="Marc Riera" creationdate="20230130T175126Z">
+        <seg>Permet a l'usuari crear una entrada en el glossari modificable del projecte (fitxer &lt;l0/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows the user to select the interval between automatic project data saves.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T113720Z" creationid="Marc Riera" creationdate="20230104T113720Z">
@@ -21014,6 +21022,14 @@ no cal introduir el camí complet.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a part of the target segment has been selected, that part will be overwritten.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175014Z" creationid="Marc Riera" creationdate="20230130T175014Z">
+        <seg>Si s'ha seleccionat una part del segment de destinació, se sobreescriu la part seleccionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T202624Z" creationid="Marc Riera" creationdate="20220621T202624Z">
@@ -21535,6 +21551,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
         <seg>If the &lt;l0/&gt; preference is disabled, use this action a first time to fetch the translation and a second time to insert it.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235320Z" creationid="Marc Riera" creationdate="20221230T235320Z">
+        <seg>Si la preferència &lt;l0/&gt; està inhabilitada, utilitzeu aquesta acció una primera vegada per a obtenir la traducció i una segona vegada per a inserir-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the &lt;l0/&gt; preference is disabled, use this action once to fetch the translation, and a second time to insert it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175115Z" creationid="Marc Riera" creationdate="20230130T175115Z">
         <seg>Si la preferència &lt;l0/&gt; està inhabilitada, utilitzeu aquesta acció una primera vegada per a obtenir la traducció i una segona vegada per a inserir-la.</seg>
       </tuv>
     </tu>
@@ -23426,6 +23450,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Bidi Control Character</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175231Z" creationid="Marc Riera" creationdate="20230130T175231Z">
+        <seg>Insereix un caràcter de control bidireccional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Bidi Control Character/Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T175347Z" creationid="Marc Riera" creationdate="20221217T175347Z">
@@ -23714,6 +23746,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T000135Z" creationid="Marc Riera" creationdate="20221231T000135Z">
         <seg>Insereix el caràcter de control d'Unicode seleccionat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the selected Unicode directional formatting character.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175246Z" creationid="Marc Riera" creationdate="20230130T175246Z">
+        <seg>Insereix el caràcter de format direccional d'Unicode seleccionat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31487,6 +31527,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once copied to the OS clipboard, it can also be used in web searches and elsewhere.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175102Z" creationid="Marc Riera" creationdate="20230130T175102Z">
+        <seg>Quan s'ha copiat al porta-retalls del sistema operatiu, també es pot utilitzar en cerques web i altres llocs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once copied to the OS clipboard, it can also be used in web searches and otherwise.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235212Z" creationid="Marc Riera" creationdate="20221230T235212Z">
@@ -36110,6 +36158,22 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234834Z" creationid="Marc Riera" creationdate="20221230T234834Z">
         <seg>Substitueix el segment de destinació per la coincidència parcial seleccionada (per defecte, se selecciona la primera coincidència) o pel text seleccionat en la subfinestra &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replaces the target segment with the currently selected fuzzy match (the first match by default) or with the text selected in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175033Z" creationid="Marc Riera" creationdate="20230130T175033Z">
+        <seg>Substitueix el segment de destinació per la coincidència parcial seleccionada (per defecte, la primera coincidència) o pel text seleccionat en la subfinestra &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replaces the target segment with the translation provided by the selected machine translation service.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175108Z" creationid="Marc Riera" creationdate="20230130T175108Z">
+        <seg>Substitueix el segment de destinació per la traducció proporcionada pel servei de traducció automàtica seleccionat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43190,6 +43254,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;F&lt;/k3&gt;&lt;/k0&gt; combination reuses the most recent still open Search window instead of opening a new one.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175216Z" creationid="Marc Riera" creationdate="20230130T175216Z">
+        <seg>La combinació &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;F&lt;/k3&gt;&lt;/k0&gt; reutilitza la finestra de cerca més recent encara oberta en comptes d'obrir-ne una de nova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; chapter.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221352Z" creationid="Marc Riera" creationdate="20221218T221352Z">
@@ -46025,6 +46097,38 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235308Z" creationid="Marc Riera" creationdate="20221230T235308Z">
         <seg>La selecció es pot utilitzar directament en l'OmegaT per a &lt;l0&gt;cerques internes&lt;/l0&gt;, &lt;l1&gt;substitucions&lt;/l1&gt;, &lt;l2&gt;introducció de termes al glossari&lt;/l2&gt;, &lt;l3&gt;cerques externes&lt;/l3&gt;, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selection can be used directly in OmegaT for &lt;l0&gt;internal searches&lt;/l0&gt;, &lt;l1&gt;replacements&lt;/l1&gt;, &lt;l2&gt;entering glossary terms&lt;/l2&gt;, &lt;l3&gt;external searches&lt;/l3&gt;, and so on.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175056Z" creationid="Marc Riera" creationdate="20230130T175056Z">
+        <seg>La selecció es pot utilitzar directament en l'OmegaT per a &lt;l0&gt;cerques internes&lt;/l0&gt;, &lt;l1&gt;substitucions&lt;/l1&gt;, &lt;l2&gt;introducció de termes en el glossari&lt;/l2&gt;, &lt;l3&gt;cerques externes&lt;/l3&gt;, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selection is entered in the &lt;g0&gt;Comment&lt;/g0&gt; field.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175154Z" creationid="Marc Riera" creationdate="20230130T175154Z">
+        <seg>S'introdueix la selecció en el camp &lt;g0&gt;Comentari&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selection is entered in the &lt;g0&gt;Source term&lt;/g0&gt; field.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175139Z" creationid="Marc Riera" creationdate="20230130T175139Z">
+        <seg>S'introdueix la selecció en el camp &lt;g0&gt;Terme d'origen&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selection is entered in the &lt;g0&gt;Target term&lt;/g0&gt; field.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175148Z" creationid="Marc Riera" creationdate="20230130T175148Z">
+        <seg>S'introdueix la selecció en el camp &lt;g0&gt;Terme de destinació&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59450,6 +59554,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T163417Z" creationid="Marc Riera" creationdate="20221201T163417Z">
         <seg>https://www.unicode.org/reports/tr9/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.unicode.org/reports/tr9/#Directional_Formatting_Characters</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175233Z" creationid="Marc Riera" creationdate="20230130T175233Z">
+        <seg>https://www.unicode.org/reports/tr9/#Directional_Formatting_Characters</seg>
       </tuv>
     </tu>
     <tu>
