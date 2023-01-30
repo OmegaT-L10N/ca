@@ -7042,6 +7042,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>After you have translated each segment, press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; to move to the next untranslated segment (or &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;Shift&lt;/k5&gt;&lt;k6&gt;U&lt;/k6&gt;&lt;/k3&gt; to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183600Z" creationid="Marc Riera" creationdate="20230130T183600Z">
+        <seg>Quan hàgiu traduït un segment, premeu &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; per a desplaçar-vos al segment sense traduir següent (o &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;Maj&lt;/k5&gt;&lt;k6&gt;U&lt;/k6&gt;&lt;/k3&gt; per a desplaçar-vos al segment traduït següent).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
@@ -8673,6 +8681,14 @@ inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230123T214619Z" creationid="Marc Riera" creationdate="20230123T214619Z">
         <seg>Intenta substituir les xifres de les coi&amp;ncidències parcials</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Attempt to replace fuzzy match numbers</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T184047Z" creationid="Marc Riera" creationdate="20230130T184047Z">
+        <seg>Intenta substituir les xifres de les coincidències parcials</seg>
       </tuv>
     </tu>
     <tu>
@@ -15584,6 +15600,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>During translation, use the &lt;g11&gt;Edit&lt;/g11&gt; and &lt;g12&gt;Go To&lt;/g12&gt; menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183638Z" creationid="Marc Riera" creationdate="20230130T183638Z">
+        <seg>Mentre traduïu, podeu utilitzar els menús &lt;g11&gt;Edita&lt;/g11&gt; i &lt;g12&gt;Ves a&lt;/g12&gt; per a realitzar diverses funcions útils.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
@@ -21572,6 +21596,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If that content was originally enclosed in paired tags, the paired tags can be removed from the tooltip for better readability.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T184236Z" creationid="Marc Riera" creationdate="20230130T184236Z">
+        <seg>Si el contingut originalment es trobava entre un parell d'etiquetes, es pot suprimir el parell d'etiquetes de l'indicador de funció perquè sigui més fàcil de llegir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If that variant is not available, the user interface follows the same priority as above.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134445Z" creationid="Marc Riera" creationdate="20230130T134445Z">
@@ -21981,6 +22013,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T142424Z" creationid="Marc Riera" creationdate="20230130T142424Z">
         <seg>Si esteu creant un projecte nou buit, podeu seguir el &lt;l0&gt;procediment amb la GUI&lt;/l0&gt; o crear-lo directament des de la línia d'ordres: &lt;c1&gt;java -jar OmegaT.jar team init &lt;llengua d'origen&gt; &lt;llengua de destinació&gt;&lt;/c1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183515Z" creationid="Marc Riera" creationdate="20230130T183515Z">
+        <seg>Si us interessen altres paràmetres d'aquest quadre de diàleg, podeu tornar-hi en qualsevol moment prement &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22452,6 +22492,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you place such translation memory files in the &lt;f6&gt;tm&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183944Z" creationid="Marc Riera" creationdate="20230130T183944Z">
+        <seg>Si col·loqueu aquestes memòries de traducció en la subcarpeta &lt;f6&gt;tm&lt;/f6&gt; d'un projecte, l'OmegaT hi cercarà automàticament segments similars als del projecte, anomenats «coincidències parcials».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you select a text string (in any pane) before calling the function, the text will be pasted by default in the &lt;g0&gt;Search for:&lt;/g0&gt; field.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220039Z" creationid="Marc Riera" creationdate="20221208T220039Z">
@@ -22513,6 +22561,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214518Z" creationid="Marc Riera" creationdate="20221213T214518Z">
         <seg>Si voleu impedir que se sobreescriguin els fitxers, canvieu-ne el nom després de crear-los o automatitzeu la modificació del nom amb &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to know more, read the user manual.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183338Z" creationid="Marc Riera" creationdate="20230130T183338Z">
+        <seg>Si voleu conèixer més detalls, llegiu el manual d'usuari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24422,6 +24478,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is distributed under the terms of the &lt;e0&gt;GNU General Public License, version 3.0&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183431Z" creationid="Marc Riera" creationdate="20230130T183431Z">
+        <seg>Es distribueix sota els termes de la &lt;e0&gt;Llicència Pública General GNU, versió 3.0&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is generally in the &lt;l0/&gt; folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T151044Z" creationid="Marc Riera" creationdate="20230105T151044Z">
@@ -24434,6 +24498,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T175543Z" creationid="Marc Riera" creationdate="20221217T175543Z">
         <seg>No és possible afegir una drecera que obri l'editor de scripts ni modificar les dreceres assignades als scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; for the &lt;g3&gt;Text Search&lt;/g3&gt; dialog at any time.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T184020Z" creationid="Marc Riera" creationdate="20230130T184020Z">
+        <seg>De vegades resulta útil cercar paraules o expressions tant en el text d'origen com en la traducció. Per a fer-ho, en qualsevol moment podeu prémer &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; per a obrir el quadre de diàleg &lt;g3&gt;Cerca de text&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30555,6 +30627,14 @@ actualitzats.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT is a free computer-assisted translation (CAT) solution for professional translators.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183407Z" creationid="Marc Riera" creationdate="20230130T183407Z">
+        <seg>L'OmegaT és solució lliure de traducció assistida per ordinador (TAO) per a traductors professionals.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
@@ -31169,6 +31249,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will then copy the selected files to the &lt;f2&gt;source&lt;/f2&gt; subfolder of your newly created project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183530Z" creationid="Marc Riera" creationdate="20230130T183530Z">
+        <seg>D'aquesta manera, l'OmegaT copiarà els fitxers seleccionats a la subcarpeta &lt;f2&gt;source&lt;/f2&gt; del nou projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will then remember your credentials for that specific project unless you explicitly delete them.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T141256Z" creationid="Marc Riera" creationdate="20221211T141256Z">
@@ -31699,6 +31787,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175515Z" creationid="Marc Riera" creationdate="20221218T175515Z">
         <seg>Quan hàgiu fet això, podeu suprimir el paquet baixat, que ja no és necessari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;D&lt;/k2&gt;&lt;/k0&gt; to generate the target files, which will be created in the &lt;f3&gt;target&lt;/f3&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183718Z" creationid="Marc Riera" creationdate="20230130T183718Z">
+        <seg>Quan us hàgiu assegurat que en la vostra traducció no hi ha cap error d'etiquetes, premeu &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;D&lt;/k2&gt;&lt;/k0&gt; per a generar els fitxers de destinació. Els fitxers es crearan en la subcarpeta &lt;f3&gt;target&lt;/f3&gt; del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45089,6 +45185,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The freedom to study how OmegaT works, and change it so it does your computing as you wish.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183456Z" creationid="Marc Riera" creationdate="20230130T183456Z">
+        <seg>Llibertat d'estudiar el funcionament de l'OmegaT i modificar-lo perquè funcioni com vulgueu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165117Z" creationid="Stephanie" creationdate="20150722T180054Z">
@@ -47250,6 +47354,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200553Z" creationid="Marc Riera" creationdate="20221206T200553Z">
         <seg>Per tant, es recomana dividir els fitxers que vulgueu alinear en fitxers més curts que pugueu alinear còmodament en una única sessió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183654Z" creationid="Marc Riera" creationdate="20230130T183654Z">
+        <seg>Per tant, premeu &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Maj&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt; abans de generar els fitxers traduïts per a comprovar que les etiquetes siguin correctes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49694,6 +49806,14 @@ tots els paràmetres als valors per defecte.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183748Z" creationid="Marc Riera" creationdate="20230130T183740Z">
+        <seg>Per a veure els paràmetres inicials del projecte, premeu &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt; per a obrir el quadre de diàleg Propietats del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
@@ -49733,6 +49853,14 @@ tots els paràmetres als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T193713Z" creationid="mgalo" creationdate="20181114T122907Z">
         <seg>Per a veure una llista amb els fitxers del projecte, premeu &lt;k2&gt;Ctrl+L&lt;/k2&gt; per a obrir el quadre de diàleg &lt;g1&gt;Fitxers del projecte&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To see a list of files in the project, open the &lt;g3&gt;Project Files&lt;/g3&gt; dialog by pressing &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;L&lt;/k6&gt;&lt;/k4&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183933Z" creationid="Marc Riera" creationdate="20230130T183813Z">
+        <seg>Per a veure una llista amb els fitxers del projecte, obrir el quadre de diàleg &lt;g3&gt;Fitxers del projecte&lt;/g3&gt; prement &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;L&lt;/k6&gt;&lt;/k4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51901,6 +52029,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;g1&gt;&gt; Project&lt;/g1&gt; &lt;g2&gt;&gt; Access Project Contents&lt;/g2&gt; to access the files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183321Z" creationid="Marc Riera" creationdate="20230130T183321Z">
+        <seg>Utilitzeu &lt;g1&gt;&gt; Projecte&lt;/g1&gt; &lt;g2&gt;&gt; Accedeix als continguts del projecte&lt;/g2&gt; per a accedir als fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Enter&lt;/k2&gt;&lt;/k0&gt; to close it without using the mouse.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T082627Z" creationid="Marc Riera" creationdate="20230104T082621Z">
@@ -53889,6 +54025,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When a fuzzy match is inserted, OmegaT tries to replace the numbers in the fuzzy match with the numbers in the source text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T184114Z" creationid="Marc Riera" creationdate="20230130T184101Z">
+        <seg>Quan s'insereix una coincidència parcial, l'OmegaT intenta substituir les xifres de la coincidència parcial per les xifres del text d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When a glossary term is a compound word, the term will match even if the words appear separately in the source text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T094552Z" creationid="Marc Riera" creationdate="20230104T094552Z">
@@ -53975,6 +54119,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T205005Z" creationid="Marc Riera" creationdate="20221124T205005Z">
         <seg>En accedir a un segment buit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When hovering on an OmegaT tag, OmegaT displays a tooltip that contains the original content of the tag.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T184150Z" creationid="Marc Riera" creationdate="20230130T184150Z">
+        <seg>En passar el ratolí per una etiqueta, l'OmegaT mostra un indicador de funció amb el contingut original de l'etiqueta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54202,6 +54354,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T194011Z" creationid="mgalo" creationdate="20181114T115814Z">
         <seg>Si voleu veure com quedaria la vostra traducció amb el format final, premeu &lt;k2&gt;Ctrl+D&lt;/k2&gt; per a generar els documents traduïts. Aquests documents es desaran en la subcarpeta &lt;f3&gt;/target/&lt;/f3&gt; del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;D&lt;/k9&gt;&lt;/k7&gt; to generate the translated documents, which will be created in the &lt;f10&gt;target&lt;/f10&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183622Z" creationid="Marc Riera" creationdate="20230130T183622Z">
+        <seg>Si voleu veure com quedaria la vostra traducció amb el format final, premeu &lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;D&lt;/k9&gt;&lt;/k7&gt; per a generar els documents traduïts. Aquests documents es desaran en la subcarpeta &lt;f10&gt;target&lt;/f10&gt; del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55089,6 +55249,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T124002Z" creationid="Marc Riera" creationdate="20221209T124002Z">
         <seg>Podeu adaptar la informació mostrada a les vostres necessitats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add a new term to the glossary by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;, or copy existing glossaries to the &lt;f4&gt;glossary&lt;/f4&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T184006Z" creationid="Marc Riera" creationdate="20230130T184006Z">
+        <seg>Premeu &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Maj&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt; per a afegir termes nous al glossari o copieu glossaris existents a la subcarpeta &lt;f4&gt;glossary&lt;/f4&gt; de la carpeta del projecte perquè l'OmegaT hi cerqui paraules automàticament.</seg>
       </tuv>
     </tu>
     <tu>
