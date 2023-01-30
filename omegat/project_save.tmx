@@ -5469,6 +5469,18 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;
+	&lt;mapping local="" repository=""/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152819Z" creationid="Marc Riera" creationdate="20230130T152819Z">
+        <seg>&lt;repository type="svn" url="https://dipòsit_d'un_projecte_en_equip_de_l'OmegaT"&gt;
+	&lt;mapping local="" repository=""/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
@@ -7242,6 +7254,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212709Z" creationid="Marc Riera" creationdate="20201130T212709Z">
         <seg>Tots els canvis se sincronitzaran la pròxima vegada que hi hagi una connexió disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152849Z" creationid="Marc Riera" creationdate="20230130T152849Z">
+        <seg>Tots els continguts de l'URL &lt;f0&gt;https://dipòsit_d'un_projecte_en_equip_de_l'OmegaT&lt;/f0&gt; s'assigna al projecte local de l'OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -26179,6 +26199,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T211925Z" creationid="Alexandra" creationdate="20150526T132203Z">
         <seg>Molts dels qui llegiu això sou traductors que heu traduït una gran quantitat de documentació per a l'usuari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for projects in a subfolder of the repository:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152857Z" creationid="Marc Riera" creationdate="20230130T152857Z">
+        <seg>Assignació per a projectes en una subcarpeta del dipòsit:</seg>
       </tuv>
     </tu>
     <tu>
