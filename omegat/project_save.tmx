@@ -7810,6 +7810,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any paragraph matching the regular expression is ignored while loading and is not displayed for translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T105111Z" creationid="Marc Riera" creationdate="20230130T105111Z">
+        <seg>En carregar el fitxer, qualsevol paràgraf que coincideixi amb l'expressió regular s'ignorarà i no es mostrarà per a la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any single digit from 0 to 9.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T091015Z" creationid="Marc Riera" creationdate="20221231T091015Z">
@@ -24148,6 +24156,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language codes are used in various places in OmegaT to:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T105959Z" creationid="Marc Riera" creationdate="20230130T105959Z">
+        <seg>Els codis de llengua s'utilitzen en diverses parts de l'OmegaT amb diverses finalitats:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language codes are used in various places in OmegaT:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221224T170553Z" creationid="Marc Riera" creationdate="20221224T170553Z">
@@ -25764,6 +25780,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T122713Z" creationid="Marc Riera" creationdate="20221209T122713Z">
         <seg>Marca els límits dels paràgrafs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Repeated Segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T105228Z" creationid="Marc Riera" creationdate="20230130T105228Z">
+        <seg>Marca els segments repetits</seg>
       </tuv>
     </tu>
     <tu>
@@ -28797,6 +28821,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT automatically selects the tokenizers that correspond to the source and target languages but you can manually modify those settings.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110041Z" creationid="Marc Riera" creationdate="20230130T110041Z">
+        <seg>L'OmegaT selecciona automàticament els lematitzadors que corresponen a les llengües d'origen i de destinació, però podeu modificar els paràmetres manualment.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
@@ -31654,6 +31686,14 @@ s'esvaeix com la boira.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T114159Z" creationid="Marc Riera" creationdate="20221129T114159Z">
         <seg>Segmentació per paràgrafs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraphs ignored when loading (regular expression)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T105058Z" creationid="Marc Riera" creationdate="20230130T105058Z">
+        <seg>Paràgrafs ignorats en carregar (expressió regular)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45787,6 +45827,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This dialog is used to set the initial project properties when creating a new project or to modify them later, after the project has been created.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T105945Z" creationid="Marc Riera" creationdate="20230130T105945Z">
+        <seg>Aquest quadre de diàleg s'utilitza per a definir les propietats inicials del projecte en crear-ne un de nou o per a modificar-les més tard, quan ja s'ha creat el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog lists the file filters available to projects that do not use local file filters.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102900Z" creationid="Marc Riera" creationdate="20230104T102900Z">
@@ -45962,6 +46010,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155605Z" creationid="Marc Riera" creationdate="20221201T155605Z">
         <seg>Aquest fitxer emmagatzema el text actualment seleccionat quan s'utilitza l'ordre &lt;l0/&gt; del menú &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This filter is the original OmegaT XLIFF filter.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T105125Z" creationid="Marc Riera" creationdate="20230130T105125Z">
+        <seg>Aquest filtre és el filtre XLIFF original de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53562,6 +53618,14 @@ un comportament inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>You should only use it to avoir compatibility issues with previous projects containing files you handled with that filter.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T105130Z" creationid="Marc Riera" creationdate="20230130T105130Z">
+        <seg>Només l'hauríeu d'utilitzar per a evitar problemes de compatibilitat amb projectes anteriors que continguin fitxers tractats amb aquest filtre.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>You should specify their new location or recreate them.</seg>
@@ -54415,6 +54479,14 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and so on.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110038Z" creationid="Marc Riera" creationdate="20230130T110038Z">
+        <seg>Altres funcions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>and the text after the location corresponds to the associated &lt;e0&gt;After&lt;/e0&gt; rule.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T173016Z" creationid="Marc Riera" creationdate="20221201T172953Z">
@@ -54444,6 +54516,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134443Z" creationid="Marc Riera" creationdate="20221209T134443Z">
         <seg>application_startup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>apply the segmentation rules defined in the &lt;l0/&gt; preferences,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110013Z" creationid="Marc Riera" creationdate="20230130T110013Z">
+        <seg>Aplicar les regles de segmentació definides en les preferències de &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55269,6 +55349,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>ctrl shift X</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T105218Z" creationid="Marc Riera" creationdate="20230130T105218Z">
+        <seg>ctrl shift X</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>currSegment = files[i].entries[j];</seg>
@@ -55899,6 +55987,22 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>find grammatical and typographical mistakes from the rules set in the &lt;l0/&gt; preferences,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110020Z" creationid="Marc Riera" creationdate="20230130T110020Z">
+        <seg>Cercar errors gramaticals i tipogràfics a partir de les regles establertes en les preferències del &lt;l0/&gt;, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>find spelling mistakes from the dictionaries installed in the &lt;l0/&gt; preferences,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110016Z" creationid="Marc Riera" creationdate="20230130T110016Z">
+        <seg>Cercar errors ortogràfics a partir dels diccionaris instal·lats en les preferències de &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>find the location of that space,</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T220921Z" creationid="Marc Riera" creationdate="20221211T220921Z">
@@ -55994,6 +56098,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T163748Z" creationid="Marc Riera" creationdate="20221213T163748Z">
         <seg>és parcial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>get results in the &lt;l0/&gt; pane,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110009Z" creationid="Marc Riera" creationdate="20230130T110009Z">
+        <seg>Obtenir resultats en la subfinestra &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57017,6 +57129,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>if checked, OmegaT changes the XLIFF target state to “needs-review-translation” instead of “translated”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T105205Z" creationid="Marc Riera" creationdate="20230130T105205Z">
+        <seg>Si es marca, l'OmegaT canvia l'estat de destinació del fitxer XLIFF a "needs-review-translation" en comptes de "translated".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>if checked, OmegaT changes the state of the XLIFF target part to "needs-review-translation" instead of "translated"</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T085456Z" creationid="Marc Riera" creationdate="20221214T085456Z">
@@ -57804,6 +57924,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T083403Z" creationid="Marc Riera" creationdate="20221205T083403Z">
         <seg>meta shift W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift X</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T105219Z" creationid="Marc Riera" creationdate="20230130T105219Z">
+        <seg>meta shift X</seg>
       </tuv>
     </tu>
     <tu>
