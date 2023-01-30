@@ -4747,6 +4747,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Remove Translation&lt;/g0&gt;&lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;X&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175324Z" creationid="Marc Riera" creationdate="20230130T175324Z">
+        <seg>&lt;g0&gt;Suprimeix la traducció&lt;/g0&gt;&lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;X&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Replace All&lt;/g0&gt;: operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T152308Z" creationid="Marc Riera" creationdate="20220611T152308Z">
@@ -9247,6 +9255,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Bidi control characters are available from &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175659Z" creationid="Marc Riera" creationdate="20230130T175659Z">
+        <seg>Els caràcters de control bidireccional estan disponibles en el menú &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Bidirectional control characters</seg>
@@ -12780,6 +12796,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200259Z" creationid="Marc Riera" creationdate="20221210T194203Z">
         <seg>Creeu un projecte nou amb els mateixos paràmetres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a section of text that flows in the direction opposite that of the segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175537Z" creationid="Marc Riera" creationdate="20230130T175537Z">
+        <seg>Crear una secció de text en la direcció contrària a la del segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23656,6 +23680,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T211840Z" creationid="mgalo" creationdate="20181108T133933Z">
         <seg>Insereix un caràcter de control d'Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert an invisible character with a strong directionality to force a specific position for a character with weak or neutral directionality.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175618Z" creationid="Marc Riera" creationdate="20230130T175618Z">
+        <seg>Inserir un caràcter invisible amb direccionalitat forta per a forçar una posició específica per a un caràcter amb direccionalitat dèbil o neutral.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44579,6 +44611,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The entry will be grayed if only one translation is available.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175307Z" creationid="Marc Riera" creationdate="20230130T175307Z">
+        <seg>L'entrada estarà atenuada si només hi ha una traducció disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The entry will be greyed if only one translation is available.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221108Z" creationid="Marc Riera" creationdate="20221208T221108Z">
@@ -46509,6 +46549,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The target document contains nothing for this segment, while the Editor marks it with the &lt;l0&gt;&lt;EMPTY&gt;&lt;/l0&gt; identifier.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175412Z" creationid="Marc Riera" creationdate="20230130T175412Z">
+        <seg>El fitxer de destinació no conté res per a aquest segment, mentre que l'editor el marca amb l'identificador &lt;l0&gt;&lt;EMPTY&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The target filename pattern uses a special syntax.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T093848Z" creationid="Marc Riera" creationdate="20221214T093848Z">
@@ -47399,6 +47447,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201124T193022Z" creationid="Marc Riera" creationdate="20201124T193022Z">
         <seg>Es poden trobar a les carpetes de les versions compilades corresponents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can be used to:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175517Z" creationid="Marc Riera" creationdate="20230130T175517Z">
+        <seg>Es poden utilitzar per a:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48364,6 +48420,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is useful with character entry systems that use &lt;k0&gt;Enter&lt;/k0&gt; to validate input.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175440Z" creationid="Marc Riera" creationdate="20230130T175440Z">
+        <seg>Això és útil per als sistemes d'entrada de caràcters que utilitzen &lt;k0&gt;Retorn&lt;/k0&gt; per a validar l'entrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is where you type and edit your translation.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163812Z" creationid="Marc Riera" creationdate="20220625T163812Z">
@@ -48531,6 +48595,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T000401Z" creationid="Marc Riera" creationdate="20221230T234237Z">
         <seg>Aquest menú us dona accés a les ordres d'edició de segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This menu gives you access to the segment and pane navigation commands.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175425Z" creationid="Marc Riera" creationdate="20230130T175425Z">
+        <seg>Aquest menú us dona accés a les ordres de navegació pels segments i subfinestres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52093,6 +52165,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to display the characters for easier manipulation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175304Z" creationid="Marc Riera" creationdate="20230130T175304Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a mostrar els caràcters i manipular-los més fàcilment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to enter new terms in this glossary.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175117Z" creationid="Marc Riera" creationdate="20221218T175117Z">
@@ -52217,6 +52297,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T191150Z" creationid="Marc Riera" creationdate="20221230T191150Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a tornar a la subfinestra Editor i repreneu la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to show a visual indication of their position.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175715Z" creationid="Marc Riera" creationdate="20230130T175715Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a mostrar una indicació visual de la posició.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55405,6 +55493,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083655Z" creationid="mgalo" creationdate="20181112T091253Z">
         <seg>Podeu crear entrades del glossari amb l'opció «Crea una entrada en el glossari...» del menú «Edita».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create two kinds of embeddings depending on the directionality of the segment:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175734Z" creationid="Marc Riera" creationdate="20230130T175734Z">
+        <seg>Podeu crear dos tipus d'incrustacions en funció de la direccionalitat del segment:</seg>
       </tuv>
     </tu>
     <tu>
