@@ -10180,6 +10180,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change the language codes to reflect your source and target languages.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T182912Z" creationid="Marc Riera" creationdate="20230130T182912Z">
+        <seg>Canvieu els codis de llengua perquè reflecteixin les vostres llengües d'origen i destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Change the name of the rule set and the language pattern to the desired label and corresponding pattern.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105213Z" creationid="Marc Riera" creationdate="20230104T105201Z">
@@ -11086,6 +11094,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T121629Z" creationid="mgalo" creationdate="20181115T224232Z">
         <seg>S'ha fet clic en l'element del menú «{0}».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;g0&gt;Add Files...&lt;/g0&gt; and add the files that you want to translate.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183030Z" creationid="Marc Riera" creationdate="20230130T183030Z">
+        <seg>Feu clic en &lt;g0&gt;Afegeix fitxers...&lt;/g0&gt; i afegiu els fitxers que voleu traduir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20447,6 +20463,14 @@ l'hivern ja és aquí.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hit &lt;k0&gt;F1&lt;/k0&gt; or access the &lt;g1&gt;&gt; Help&lt;/g1&gt; menu to open the user manual.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T182826Z" creationid="Marc Riera" creationdate="20230130T182826Z">
+        <seg>Premeu &lt;k0&gt;F1&lt;/k0&gt; o accediu al menú &lt;g1&gt;&gt; Ajuda&lt;/g1&gt; per a obrir el manual d'usuari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hovering on an underlined term displays the matching target term.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123853Z" creationid="Marc Riera" creationdate="20221209T123853Z">
@@ -24549,6 +24573,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It now displays them segment per segment for you to translate them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183104Z" creationid="Marc Riera" creationdate="20230130T183104Z">
+        <seg>Ara els mostra segment per segment perquè els traduïu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It represents the complete filename of the source file, including the extension.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T103940Z" creationid="Marc Riera" creationdate="20221215T103940Z">
@@ -24581,6 +24613,14 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T213206Z" creationid="Marc Riera" creationdate="20180221T111739Z">
         <seg>No s'han pogut crear els documents traduïts perquè hi ha etiquetes que falten o que estan malmeses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will also create an empty translation memory that it will fill in the background, one segment at as time as you type your translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T182949Z" creationid="Marc Riera" creationdate="20230130T182949Z">
+        <seg>També crearà una memòria de traducció buida que anirà emplenant en segon terme, segment a segment, a mesura que escriviu la traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27281,6 +27321,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220502Z" creationid="Marc Riera" creationdate="20221124T220502Z">
         <seg>Coincidències suprimides inactives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches for that memory will eventually appear in the &lt;g0&gt;Fuzzy Match&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183015Z" creationid="Marc Riera" creationdate="20230130T183015Z">
+        <seg>Les coincidències d'aquesta memòria apareixeran en algun moment en la subfinestra &lt;g0&gt;Coincidències parcials&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49731,8 +49779,8 @@ tots els paràmetres als valors per defecte.</seg>
       <tuv lang="en">
         <seg>To start using OmegaT with minimal settings, do this:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T183125Z" creationid="Marc Riera" creationdate="20230126T183125Z">
-        <seg>Per a començar a utilitzar l'OmegaT amb una configuració mínima, feu sel següent:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T182853Z" creationid="Marc Riera" creationdate="20230126T183125Z">
+        <seg>Per a començar a utilitzar l'OmegaT amb una configuració mínima, feu el següent:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50711,6 +50759,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T082748Z" creationid="mgalo" creationdate="20181112T094102Z">
         <seg>Escriviu l'ID de la regla nova</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type the translation of the first segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183111Z" creationid="Marc Riera" creationdate="20230130T183111Z">
+        <seg>Escriviu la traducció del primer segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51817,6 +51873,22 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T084023Z" creationid="mgalo" creationdate="20181108T151506Z">
         <seg>Utilitza la &amp;lematització per a les entrades del glossari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;g0&gt;&gt; Project&lt;/g0&gt; &lt;g1&gt;&gt; New...&lt;/g1&gt; to create a new project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T182848Z" creationid="Marc Riera" creationdate="20230130T182848Z">
+        <seg>Utilitzeu &lt;g0&gt;&gt; Projecte&lt;/g0&gt; &lt;g1&gt;&gt; Crea...&lt;/g1&gt; per a crear un projecte nou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;g0&gt;&gt; Project&lt;/g0&gt;&lt;g1&gt;&gt; Create Translated Files&lt;/g1&gt; to create the translated document at any time.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183218Z" creationid="Marc Riera" creationdate="20230130T183218Z">
+        <seg>Utilitzeu &lt;g0&gt;&gt; Projecte&lt;/g0&gt;&lt;g1&gt;&gt; Crea els fitxers traduïts&lt;/g1&gt; per a crear el fitxer traduït en qualsevol moment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62794,10 +62866,34 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>→ OmegaT will copy the selected files into the project that you created in the previous step.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183052Z" creationid="Marc Riera" creationdate="20230130T183052Z">
+        <seg>→ L'OmegaT copiarà els fitxers seleccionats al projecte que heu creat en el pas anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>→ OmegaT will create a folder set that contains your files.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230126T183155Z" creationid="Marc Riera" creationdate="20230126T183155Z">
         <seg>→ L'OmegaT crearà un conjunt de carpetes que conté els vostres fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will register that segment into the project translation memory and will move the cursor to the next segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183147Z" creationid="Marc Riera" creationdate="20230130T183147Z">
+        <seg>→ L'OmegaT enregistrarà aquest segment en la memòria de traducció del projecte i desplaçarà el cursor al segment següent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will store the translated files into the &lt;g0&gt;target&lt;/g0&gt; folder of the project that was created in the first step.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183251Z" creationid="Marc Riera" creationdate="20230130T183251Z">
+        <seg>→ L'OmegaT emmagatzemarà els fitxers traduïts en la carpeta &lt;g0&gt;target&lt;/g0&gt; del projecte creat en el primer pas.</seg>
       </tuv>
     </tu>
     <tu>
