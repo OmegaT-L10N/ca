@@ -4299,6 +4299,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Minimizes&lt;/e0&gt; the pane to a tab at the bottom of the window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T174103Z" creationid="Marc Riera" creationdate="20230130T174103Z">
+        <seg>&lt;e0&gt;Minimitza&lt;/e0&gt; la subfinestra a una pestanya en la part inferior de la finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Minimizes&lt;/e0&gt; the pane, so that it only shows as a tab at the bottom of the window.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202341Z" creationid="Marc Riera" creationdate="20230101T202341Z">
@@ -7380,6 +7388,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the colors indicated in the descriptions can be modified in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173628Z" creationid="Marc Riera" creationdate="20230130T173628Z">
+        <seg>Tots els colors indicats en les descripcions es poden modificar amb la preferència &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T161423Z" creationid="Marc Riera" creationdate="20230130T161423Z">
@@ -9980,6 +9996,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cancels modifications made to the segment while it is current.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T174130Z" creationid="Marc Riera" creationdate="20230130T174130Z">
+        <seg>Cancel·la les modificacions aplicades al segment actiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancels the modifications made to the segment while the segment is current.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234428Z" creationid="Marc Riera" creationdate="20221230T234428Z">
@@ -10778,6 +10802,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T220118Z" creationid="Marc Riera" creationdate="20220130T220118Z">
         <seg>Marqueu aquesta casella per a enviar només els segments sense traduir als serveis de traducció automàtica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check this option if OmegaT does not display certain glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T174026Z" creationid="Marc Riera" creationdate="20230130T174026Z">
+        <seg>Marqueu aquesta opció si l'OmegaT no mostra correctament determinats caràcters (fins i tot si teniu instal·lats en l'ordinador les lletres amb els caràcters en qüestió).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14419,6 +14451,38 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Display Bidi Control Characters</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173800Z" creationid="Marc Riera" creationdate="20230130T173800Z">
+        <seg>Mostra els caràcters de control bidireccional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Modification Info</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T174029Z" creationid="Marc Riera" creationdate="20230130T174029Z">
+        <seg>Mostra la informació de modificació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173750Z" creationid="Marc Riera" creationdate="20230130T173750Z">
+        <seg>Mostra els espais no separables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173636Z" creationid="Marc Riera" creationdate="20230130T173636Z">
+        <seg>Mostra els límits dels paràgrafs</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Display Source Segments</seg>
@@ -14441,6 +14505,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085913Z" creationid="Marc Riera" creationdate="20230104T085913Z">
         <seg>Mostra la descripció de context dels glossaris en format TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Whitespace</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173756Z" creationid="Marc Riera" creationdate="20230130T173756Z">
+        <seg>Mostra els espais en blanc</seg>
       </tuv>
     </tu>
     <tu>
@@ -20185,6 +20257,14 @@ l'hivern ja és aquí.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173928Z" creationid="Marc Riera" creationdate="20230130T173928Z">
+        <seg>Ressalta els segments propagats automàticament</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight Non-Unique Se&amp;gments</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230113T103345Z" creationid="Marc Riera" creationdate="20230113T103345Z">
@@ -20210,10 +20290,42 @@ l'hivern ja és aquí.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight Repeated Segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173715Z" creationid="Marc Riera" creationdate="20230130T173715Z">
+        <seg>Ressalta els segments repetits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight Segments &amp;with Notes</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230113T103354Z" creationid="Marc Riera" creationdate="20230113T103354Z">
         <seg>Ressalta els segments amb &amp;notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Segments with Notes</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173747Z" creationid="Marc Riera" creationdate="20230130T173747Z">
+        <seg>Ressalta els segments amb notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Translated Segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173631Z" creationid="Marc Riera" creationdate="20230130T173631Z">
+        <seg>Ressalta els segments traduïts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173633Z" creationid="Marc Riera" creationdate="20230130T173633Z">
+        <seg>Ressalta els segments sense traduir</seg>
       </tuv>
     </tu>
     <tu>
@@ -20955,10 +21067,26 @@ als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, all the source segments are shown and highlighted in green.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173709Z" creationid="Marc Riera" creationdate="20230130T173709Z">
+        <seg>Si es marca, tots els segments d'origen es mostren i es ressalten en color verd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, all the source segments will be shown and marked in green.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232610Z" creationid="Marc Riera" creationdate="20221230T232610Z">
         <seg>Si es marca, tots els segments d'origen es mostren i es marquen en color verd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, non-breakable spaces are displayed with a gray background.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173817Z" creationid="Marc Riera" creationdate="20230130T173817Z">
+        <seg>Si es marca, els espais no separables es mostren amb un fons de color gris.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20979,6 +21107,14 @@ als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, repeated segments are highlighted in pale gray.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173744Z" creationid="Marc Riera" creationdate="20230130T173744Z">
+        <seg>Si es marca, els segments repetits es ressalten en color gris pàl·lid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, segments that have been auto-populated (from TMXs placed in &lt;l0/&gt; for example) are marked in various colors.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T124323Z" creationid="Marc Riera" creationdate="20221209T124323Z">
@@ -20987,10 +21123,26 @@ als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, segments that have been auto-populated are highlighted in various colors.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T174011Z" creationid="Marc Riera" creationdate="20230130T174011Z">
+        <seg>Si es marca, els segments propagats automàticament es ressalten amb diversos colors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, segments that have been auto-populated are marked in various colors.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232746Z" creationid="Marc Riera" creationdate="20221230T232746Z">
         <seg>Si es marca, els segments propagats automàticament es marquen amb diversos colors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, segments with notes are highlighted in cyan.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173824Z" creationid="Marc Riera" creationdate="20230130T173824Z">
+        <seg>Si es marca, els segments amb notes es ressalten en color cian.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21037,6 +21189,14 @@ als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, translated segments are highlighted in yellow.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173645Z" creationid="Marc Riera" creationdate="20230130T173645Z">
+        <seg>Si es marca, els segments traduïts es ressalten en color groc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, translated segments will be marked in yellow.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123059Z" creationid="Marc Riera" creationdate="20221209T122637Z">
@@ -21045,10 +21205,26 @@ als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, untranslated segments are highlighted in violet.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173658Z" creationid="Marc Riera" creationdate="20230130T173658Z">
+        <seg>Si es marca, els segments sense traduir es ressalten en color porpra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, untranslated segments will be marked in violet.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123054Z" creationid="Marc Riera" creationdate="20221209T122709Z">
         <seg>Si es marca, els segments sense traduir es marquen en color porpra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, white spaces are displayed as a small dot.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173809Z" creationid="Marc Riera" creationdate="20230130T173809Z">
+        <seg>Si es marca, els espais blancs es mostren com un punt volat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21198,6 +21374,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T151112Z" creationid="Marc Riera" creationdate="20230105T151112Z">
         <seg>Si no se'n mostra cap, significa que encara no s'ha instal·lat cap diccionari ortogràfic, o bé que el projecte utilitza una carpeta de configuració específica que encara no conté cap diccionari ortogràfic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If not checked, only the current source segments is shown.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173727Z" creationid="Marc Riera" creationdate="20230130T173727Z">
+        <seg>Si no es marca, només es mostra el segment d'origen actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26641,6 +26825,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Mark Language Checker Issues</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T174017Z" creationid="Marc Riera" creationdate="20230130T174017Z">
+        <seg>Marca els errors del corrector lingüístic</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Mark Needs Review</seg>
@@ -27548,6 +27740,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T175500Z" creationid="Marc Riera" creationdate="20221217T175500Z">
         <seg>Informació de modificació/Mostra-la per al segment actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modification history is lost upon leaving the segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T174144Z" creationid="Marc Riera" creationdate="20230130T174144Z">
+        <seg>L'historial de modificacions es perd en sortir del segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34829,6 +35029,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reapplies modifications that were cancelled while the segment is current.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T174154Z" creationid="Marc Riera" creationdate="20230130T174154Z">
+        <seg>Torna a aplicar les modificacions cancel·lades amb el segment actiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reapplies the modifications that were cancelled while the segment is current.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234510Z" creationid="Marc Riera" creationdate="20221230T234510Z">
@@ -39259,6 +39467,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223805Z" creationid="Marc Riera" creationdate="20201003T223805Z">
         <seg>Opcions seleccionades:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selected text has priority over the selected match.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T174201Z" creationid="Marc Riera" creationdate="20230130T174201Z">
+        <seg>El text seleccionat té prioritat sobre la coincidència seleccionada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45035,6 +45251,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The main window consists of several panes, described here, menus, described in the &lt;l0/&gt; chapter, and a status bar, described &lt;l1&gt;below&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T174039Z" creationid="Marc Riera" creationdate="20230130T174039Z">
+        <seg>La finestra principal està formada per diverses subfinestres, que es descriuen aquí, diferents menús descrits en el capítol &lt;l0/&gt; i una barra d'estat descrita &lt;l1&gt;a continuació&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The main window consists of several panes, the main menu and a status bar.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163559Z" creationid="Marc Riera" creationdate="20220625T163559Z">
@@ -46308,6 +46532,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202101Z" creationid="Marc Riera" creationdate="20230101T202101Z">
         <seg>La cantonada superior dreta d'una subfinestra mostrarà icones diferents en funció del tipus de subfinestra i de l'estat actual:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The top right corner of each pane shows different icons depending on the type of pane and its current status:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T174053Z" creationid="Marc Riera" creationdate="20230130T174053Z">
+        <seg>La cantonada superior dreta de cada subfinestra mostra icones diferents en funció del tipus de subfinestra i de l'estat actual:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48078,6 +48310,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This marking has priority over &lt;g0&gt;Highlight Translated Segments&lt;/g0&gt; and &lt;g1&gt;Highlight Untranslated Segments&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173836Z" creationid="Marc Riera" creationdate="20230130T173836Z">
+        <seg>Aquesta marca té prioritat sobre &lt;g0&gt;Ressalta els segments traduïts&lt;/g0&gt; i &lt;g1&gt;Ressalta els segments sense traduir&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This marking has priority over &lt;g0&gt;Mark Translated Segments&lt;/g0&gt; and &lt;g1&gt;Mark Untranslated Segments&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T125152Z" creationid="Marc Riera" creationdate="20221209T125152Z">
@@ -48251,6 +48491,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T123228Z" creationid="Marc Riera" creationdate="20221209T123228Z">
         <seg>Aquesta opció mostra els &lt;u0&gt;caràcters de control bidireccional&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option displays Unicode directional formatting characters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173850Z" creationid="Marc Riera" creationdate="20230130T173850Z">
+        <seg>Aquesta opció mostra els caràcters de format direccional d'Unicode.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51813,6 +52061,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to insert a selection of characters directly from the OmegaT interface.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173924Z" creationid="Marc Riera" creationdate="20230130T173918Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a inserir una selecció de caràcters directament des de la interfície de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to mark the second and subsequent copy of a repeated segments.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230126T191702Z" creationid="Marc Riera" creationdate="20230126T191702Z">
@@ -51913,6 +52169,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230113T103449Z" creationid="Marc Riera" creationdate="20230113T103449Z">
         <seg>Utilitza la substitució de font &amp;forçada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Aggressive Font Fallback</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T174020Z" creationid="Marc Riera" creationdate="20230130T174020Z">
+        <seg>Utilitza la substitució de font forçada</seg>
       </tuv>
     </tu>
     <tu>
