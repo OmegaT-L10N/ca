@@ -11227,6 +11227,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clicking that icon presents actions available to correct or ignore the error.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163604Z" creationid="Marc Riera" creationdate="20230130T163604Z">
+        <seg>En fer clic en aquesta icona, teniu accions disponibles per a corregir o ignorar l'error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clicking this button lets you edit the file filters that apply to this project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205451Z" creationid="Marc Riera" creationdate="20221214T205451Z">
@@ -13485,6 +13493,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom tags and flagged text: as with OmegaT tags, they are not counted by default in the statistics, but you can have OmegaT count them as words.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163621Z" creationid="Marc Riera" creationdate="20230130T163621Z">
+        <seg>Etiquetes personalitzades i text marcat: de la mateixa manera que les etiquetes de l'OmegaT, per defecte no es compten en les estadístiques, però podeu fer que l'OmegaT ho compti com a paraules.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Customization</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T190534Z" creationid="Marc Riera" creationdate="20221203T190534Z">
@@ -14616,6 +14632,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the individual match statistics, which consist of the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters, for each file in the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163654Z" creationid="Marc Riera" creationdate="20230130T163654Z">
+        <seg>Mostra les estadístiques de coincidències individuals: nombre de repeticions, coincidències exactes, coincidències parcials i no concordances per segments, paraules i caràcters, per a cada ditxer del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the list of all the installed plugins.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085715Z" creationid="Marc Riera" creationdate="20230104T085715Z">
@@ -14644,6 +14668,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T114405Z" creationid="Marc Riera" creationdate="20221129T114405Z">
         <seg>Mostra la llista de noves funcionalitats, millores i correccions d'errors per a cada versió nova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the match statistics for the project, which consist of the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163625Z" creationid="Marc Riera" creationdate="20230130T163625Z">
+        <seg>Mostra les estadístiques de coincidències del projecte: nombre de repeticions, coincidències exactes, coincidències parcials i no concordances per segments, paraules i caràcters.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21956,6 +21988,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232437Z" creationid="Marc Riera" creationdate="20221230T232437Z">
         <seg>Si heu definit cerques externes en les preferències de &lt;l0/&gt;, aquí se n'indiquen els noms i hi podeu accedir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have defined external searches in the &lt;l0/&gt; preferences, they are listed and accessible here.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163716Z" creationid="Marc Riera" creationdate="20230130T163716Z">
+        <seg>Si heu definit cerques externes en les preferències de &lt;l0/&gt;, s'indiquen i hi podeu accedir aquí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49163,6 +49203,14 @@ tots els paràmetres als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174641Z" creationid="Marc Riera" creationdate="20221218T174641Z">
         <seg>Per a impedir que la finestra amb llista de fitxers d'origen s'obri automàticament en carregar un projecte, cerqueu &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; i substituïu &lt;t1&gt;true&lt;/t1&gt; per &lt;t2&gt;false&lt;/t2&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To prevent the creation of translated files if tag issues are found, enable the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163614Z" creationid="Marc Riera" creationdate="20230130T163614Z">
+        <seg>Per a impedir la creació dels fitxers traduïts si es detecten errors d'etiquetes, habiliteu la preferència &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
