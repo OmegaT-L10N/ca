@@ -3072,6 +3072,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=[console mode name]</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135549Z" creationid="Marc Riera" creationdate="20230130T135549Z">
+        <seg>--mode=[nom del mode de consola]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=[console mode name]
 	  Specify a mode other than default (GUI).</seg>
       </tuv>
@@ -3131,6 +3139,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202155Z" creationid="Marc Riera" creationdate="20221210T202155Z">
         <seg>--mode=console-align &lt;e0&gt;--alignDir=&lt;e1&gt;&lt;camí&gt;&lt;/e1&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-align &lt;e0&gt;--alignDir=&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T140003Z" creationid="Marc Riera" creationdate="20230130T140003Z">
+        <seg>--mode=console-align &lt;e0&gt;--alignDir=&lt;camí&gt;&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5614,6 +5630,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A Java .properties file to use for interface text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135540Z" creationid="Marc Riera" creationdate="20230130T135540Z">
+        <seg>Fitxer .properties del Java que voleu utilitzar per al text de la interfície.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A character followed by a “u”.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113625Z" creationid="Marc Riera" creationdate="20221129T113625Z">
@@ -5708,6 +5732,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T202608Z" creationid="Marc Riera" creationdate="20220621T202608Z">
         <seg>Si un fitxer no té cap entrada coincident, es mostrarà buit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A file written in the Java .properties format used to specify a batch of command line options.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135321Z" creationid="Marc Riera" creationdate="20230130T135321Z">
+        <seg>Fitxer escrit en el format .properties del Java utilitzat per a especificar un lot d'opcions de la línia d'ordres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5882,6 +5914,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T161334Z" creationid="Marc Riera" creationdate="20201122T161334Z">
         <seg>Té un amplíssim ventall de funcions, una interfície neta i, el que és més important, un desenvolupament de codi obert constant i habitual!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A whitelist of regular expressions defining the source files to process.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135753Z" creationid="Marc Riera" creationdate="20230130T135753Z">
+        <seg>Llista d'expressions regulars que defineixen els fitxers d'origen permesos que s'han de processar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8972,6 +9012,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T222717Z" creationid="Marc Riera" creationdate="20191110T222717Z">
         <seg>Tots dos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Both Java parameters and OmegaT options can be used.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135341Z" creationid="Marc Riera" creationdate="20230130T135341Z">
+        <seg>Es poden utilitzar tant paràmetres del Java com opcions de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19630,6 +19678,14 @@ l'hivern ja és aquí.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here are some typical examples:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135850Z" creationid="Marc Riera" creationdate="20230130T135850Z">
+        <seg>Aquí teniu alguns exemples habituals:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here are the default OmegaT.jar locations for each major platform:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133528Z" creationid="Marc Riera" creationdate="20230130T133528Z">
@@ -22230,6 +22286,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In such cases, options defined in the config file take precedence over any option with duplicate functionality also passed on the command line.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135516Z" creationid="Marc Riera" creationdate="20230130T135516Z">
+        <seg>En aquests casos, les opcions definides en el fitxer de configuració tenen prioritat sobre qualsevol opció amb funcionalitat duplicada que també s'hagi indicat en la línia d'ordres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In that case, OmegaT shares information with online services:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230108T124918Z" creationid="Marc Riera" creationdate="20230108T124918Z">
@@ -22444,6 +22508,22 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215801Z" creationid="Marc Riera" creationdate="20221207T215801Z">
         <seg>En aquest manual: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this mode OmegaT will create a TMX for the whole project using only the source files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135910Z" creationid="Marc Riera" creationdate="20230130T135910Z">
+        <seg>En aquest mode, l'OmegaT crearà un TMX per a tot el projecte utilitzant només els fitxers d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this mode, OmegaT attempts to translate the files in the source folder with the available translation memories.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135623Z" creationid="Marc Riera" creationdate="20230130T135623Z">
+        <seg>En aquest mode, l'OmegaT intenta traduir els fitxers de la carpeta d'origen amb les memòries de traducció disponibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23605,6 +23685,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201104Z" creationid="Marc Riera" creationdate="20221206T201104Z">
         <seg>Només es mostra quan està disponible per als fitxers que s'estan alineant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible to combine &lt;c0&gt;--config-file&lt;/c0&gt; with other command line options compatible with launching the GUI.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135501Z" creationid="Marc Riera" creationdate="20230130T135501Z">
+        <seg>És possible combinar &lt;c0&gt;--config-file&lt;/c0&gt; amb altres opcions de la línia d'ordres compatibles amb iniciar la GUI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30905,6 +30993,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only translate the &lt;f0&gt;test.html&lt;/f0&gt; file in the &lt;f1&gt;dir-10&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135902Z" creationid="Marc Riera" creationdate="20230130T135902Z">
+        <seg>Tradueix només el fitxer &lt;f0&gt;test.html&lt;/f0&gt; de la carpeta &lt;f1&gt;dir-10&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only works if a spelling dictionary is installed.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215852Z" creationid="Marc Riera" creationdate="20221207T215852Z">
@@ -34402,6 +34498,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Remember that in regular expressions, the period and backslash character must be escaped: &lt;c0&gt;\.&lt;/c0&gt; and &lt;c1&gt;\\&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135840Z" creationid="Marc Riera" creationdate="20230130T135840Z">
+        <seg>Recordeu que, en les expressions regulars, el punt i la barra inclinada inversa s'han d'escapar: &lt;c0&gt;\.&lt;/c0&gt; i &lt;c1&gt;\\&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Remember where you are creating the project, because you will need to return to it later.</seg>
@@ -34734,6 +34838,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220336Z" creationid="Marc Riera" creationdate="20191112T231620Z">
         <seg>Text de destinació suprimit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove the initial &lt;c0&gt;-D&lt;/c0&gt; or &lt;c1&gt;-X&lt;/c1&gt; to use Java parameters:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135414Z" creationid="Marc Riera" creationdate="20230130T135414Z">
+        <seg>Suprimiu l'opció &lt;c0&gt;-D&lt;/c0&gt; o &lt;c1&gt;-X&lt;/c1&gt; inicial per a utilitzar paràmetres del Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -40065,6 +40177,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135602Z" creationid="Marc Riera" creationdate="20230130T135602Z">
+        <seg>Permet especificar un mode diferent de la GUI per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify a source- or target-language tokenizer (using this option overrides project settings).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135129Z" creationid="Marc Riera" creationdate="20230130T135129Z">
@@ -43735,6 +43855,14 @@ en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The following options are available:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135614Z" creationid="Marc Riera" creationdate="20230130T135614Z">
+        <seg>Estan disponibles les opcions següents:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
@@ -44231,6 +44359,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The notable exception is &lt;c0&gt;remote-project&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135442Z" creationid="Marc Riera" creationdate="20230130T135442Z">
+        <seg>L'excepció notable és &lt;c0&gt;remote-project&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The number must correspond to at least 2 MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134538Z" creationid="Marc Riera" creationdate="20230130T134538Z">
@@ -44296,6 +44432,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The options are presented as a list of &lt;p0&gt;key=value&lt;/p0&gt; pairs.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135335Z" creationid="Marc Riera" creationdate="20230130T135335Z">
+        <seg>Les opcions es presenten com una llista de parells &lt;p0&gt;clau=valor&lt;/p0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The options for the program start-up will be read from the &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092711Z" creationid="Marc Riera" creationdate="20221231T092711Z">
@@ -44332,6 +44476,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T143412Z" creationid="Marc Riera" creationdate="20230103T143412Z">
         <seg>La resta d'elements de la llista de plantilles són variables d'entorn del sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135930Z" creationid="Marc Riera" creationdate="20230130T135930Z">
+        <seg>Fitxer TMX pseudotraduït de sortida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46978,6 +47130,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164457Z" creationid="Marc Riera" creationdate="20220625T164457Z">
         <seg>Això és útil per als documents que contenen marques, noms o altres noms propis, o bé parts en una tercera llengua que no cal traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is useful if OmegaT is run on a server with TMX files automatically fed to a project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135704Z" creationid="Marc Riera" creationdate="20230130T135704Z">
+        <seg>Això és útil si s'executa l'OmegaT en un servidor i s'afegeixen automàticament fitxers TMX a un projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52191,6 +52351,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180212T222717Z" creationid="Marc Riera" creationdate="20180212T222717Z">
         <seg>Què és l'OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What to fill the pseudotranslated TMX with.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135952Z" creationid="Marc Riera" creationdate="20230130T135952Z">
+        <seg>Contingut que voleu incloure en el fitxer TMX pseudotraduït.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60472,6 +60640,16 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T111758Z" creationid="Marc Riera" creationdate="20221215T111758Z">
         <seg>Utilitzeu: &lt;l0&gt;translate=no&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>user.language=fr
+config-dir="path/to/new/configdir"</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135437Z" creationid="Marc Riera" creationdate="20230130T135437Z">
+        <seg>user.language=fr
+config-dir="camí/a/una/carpeta/de/configuració"</seg>
       </tuv>
     </tu>
     <tu>
