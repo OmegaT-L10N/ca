@@ -5150,6 +5150,18 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;
+	&lt;/mapping&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T155215Z" creationid="Marc Riera" creationdate="20230130T155215Z">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;
+	&lt;/mapping&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;java parameters&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093047Z" creationid="Marc Riera" creationdate="20221231T093047Z">
@@ -20221,6 +20233,14 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>However, the &lt;f2&gt;readme.bak&lt;/f2&gt; is also included.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T155228Z" creationid="Marc Riera" creationdate="20230130T155228Z">
+        <seg>Ara bé, també s'inclou el fitxer &lt;f2&gt;readme.bak&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
@@ -26219,6 +26239,22 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mapping for additional sources from a remote repository, with filters:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T155210Z" creationid="Marc Riera" creationdate="20230130T155210Z">
+        <seg>Mapatge de fitxers d'origen addicionals d'un repositori remot, amb filtres:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for extra source files from the web:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T155250Z" creationid="Marc Riera" creationdate="20230130T155250Z">
+        <seg>Assignació de fitxers d'origen addicionals des d'Internet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mapping for projects in a subfolder of the repository:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152857Z" creationid="Marc Riera" creationdate="20230130T152857Z">
@@ -26240,6 +26276,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190801Z" creationid="Marc Riera" creationdate="20221124T190801Z">
         <seg>Assignació de carpetes locals a carpetes remotes en dipòsits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping with renaming:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T155259Z" creationid="Marc Riera" creationdate="20230130T155259Z">
+        <seg>Assignació amb canvi de nom:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47740,6 +47784,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This makes it possible to rename the file to translate.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T155307Z" creationid="Marc Riera" creationdate="20230130T155307Z">
+        <seg>Això permet canviar el nom del fitxer per a traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This marking has priority over &lt;g0&gt;Mark Translated Segments&lt;/g0&gt; and &lt;g1&gt;Mark Untranslated Segments&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T125152Z" creationid="Marc Riera" creationdate="20221209T125152Z">
@@ -54192,6 +54244,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201004T094632Z" creationid="mgalo" creationdate="20181114T123843Z">
         <seg>Premeu &lt;k0&gt;Ctrl+Maj+G&lt;/k0&gt; per a afegir termes nous al glossari o copieu glossaris existents a la subcarpeta &lt;f1&gt;/glossary/&lt;/f1&gt; de la carpeta del projecte perquè l'OmegaT hi cerqui paraules automàticament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add as many mappings as you want, but one of the mappings must include the &lt;f0&gt;omegat.project&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T155346Z" creationid="Marc Riera" creationdate="20230130T155346Z">
+        <seg>Podeu afegir tantes assignacions com vulgueu, però una de les assignacions ha d'incloure el fitxer &lt;f0&gt;omegat.project&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
