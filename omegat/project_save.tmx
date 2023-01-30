@@ -3502,10 +3502,26 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Dhttp.proxyHost=&lt;proxy IP&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134551Z" creationid="Marc Riera" creationdate="20230130T134551Z">
+        <seg>-Dhttp.proxyHost=&lt;IP del servidor intermediari&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-Dhttp.proxyPort=.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T094130Z" creationid="Marc Riera" creationdate="20221214T094130Z">
         <seg>-Dhttp.proxyPort=.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Dhttp.proxyPort=&lt;port number&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134626Z" creationid="Marc Riera" creationdate="20230130T134626Z">
+        <seg>-Dhttp.proxyPort=&lt;número de port&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5342,6 +5358,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T105814Z" creationid="Marc Riera" creationdate="20190521T105814Z">
         <seg>&lt;cap&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--remote-project&lt;/o0&gt; &lt;e1&gt;&lt;path-to-omegat-project-file&gt;&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134848Z" creationid="Marc Riera" creationdate="20230130T134848Z">
+        <seg>&lt;o0&gt;--remote-project&lt;/o0&gt; &lt;e1&gt;&lt;camí a un fitxer de projecte de l'OmegaT&gt;&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14350,6 +14374,22 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not lock the omegat.project file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135023Z" creationid="Marc Riera" creationdate="20230130T135023Z">
+        <seg>No bloquegis el fitxer omegat.project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not remember the last folder opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135104Z" creationid="Marc Riera" creationdate="20230130T135104Z">
+        <seg>No recordis la darrera carpeta oberta en el selector de fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not segment after Ms.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191450Z" creationid="Marc Riera" creationdate="20221201T191450Z">
@@ -14837,6 +14877,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122434Z" creationid="Marc Riera" creationdate="20221223T122434Z">
         <seg>Baixeu la versió &lt;s0&gt;&lt;e1&gt;Multiplataforma sense el JRE&lt;/e1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download the OmegaT project from the URL specified in &lt;e0&gt;&lt;path-to-omegat-project-file&gt;&lt;/e0&gt;, and load it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134925Z" creationid="Marc Riera" creationdate="20230130T134925Z">
+        <seg>Baixa el projecte de l'OmegaT des de l'URL especificat en &lt;e0&gt;&lt;camí a un fitxer de projecte de l'OmegaT&gt;&lt;/e0&gt; i el carrega.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20806,6 +20854,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If that variant is not available, the user interface follows the same priority as above.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134445Z" creationid="Marc Riera" creationdate="20230130T134445Z">
+        <seg>Si aquesta variant no està disponible, la interfície d'usuari segueix la mateixa prioritat anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, typing the first letter of a translated glossary entry, or &lt;l1&gt;&lt;&lt;/l1&gt; for a tag, automatically launches the auto-completer.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T143851Z" creationid="Marc Riera" creationdate="20230105T143749Z">
@@ -22573,6 +22629,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195449Z" creationid="Marc Riera" creationdate="20221005T195449Z">
         <seg>Inicialitza un projecte en equip mínim amb les llengües especificades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialize a team project using &lt;e0&gt;SL&lt;/e0&gt; and &lt;e1&gt;TL&lt;/e1&gt; as the source and target two-letter language codes, respectively.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135016Z" creationid="Marc Riera" creationdate="20230130T135016Z">
+        <seg>Inicialitza un projecte en equip amb &lt;e0&gt;SL&lt;/e0&gt; i &lt;e1&gt;TL&lt;/e1&gt; com a codis de llengua de dues lletres d'origen i destinació, respectivament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24626,6 +24690,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192411Z" creationid="Marc Riera" creationdate="20201124T192411Z">
         <seg>Versió més recent: {{site.data.versions.latest.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launch the GUI and load the specified project</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134929Z" creationid="Marc Riera" creationdate="20230130T134828Z">
+        <seg>Inicia la GUI i carrega el projecte especificat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30488,6 +30560,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On some platforms, the omegat.project file is locked by default and attempting to open an already open project in another instance of OmegaT results in an error.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135054Z" creationid="Marc Riera" creationdate="20230130T135054Z">
+        <seg>En algunes plataformes, el fitxer omegat.project està bloquejat per defecte i es produeix un error si s'intenta obrir un projecte que ja està obert en una altra instància de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165324Z" creationid="Stephanie" creationdate="20150722T180911Z">
@@ -33667,6 +33747,22 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Proxy host ip address</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134543Z" creationid="Marc Riera" creationdate="20230130T134543Z">
+        <seg>Adreça IP del servidor intermediari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Proxy host port number</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134620Z" creationid="Marc Riera" creationdate="20230130T134620Z">
+        <seg>Número de port del servidor intermediari</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Publicity</seg>
@@ -34810,10 +34906,42 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace &lt;c0&gt;&lt;proxy IP&gt;&lt;/c0&gt; with the IP address of your proxy server, if your system uses one.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134618Z" creationid="Marc Riera" creationdate="20230130T134618Z">
+        <seg>Substituïu &lt;c0&gt;&lt;IP del servidor intermediari&lt;/c0&gt; per l'adreça IP del servidor intermediari, si el vostre sistema n'utilitza un.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace &lt;c0&gt;CC&lt;/c0&gt; with the desired two-letter country code from the &lt;u1&gt;ISO 3166-1 alpha-2&lt;/u1&gt; list.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134428Z" creationid="Marc Riera" creationdate="20230130T134428Z">
+        <seg>Substituïu &lt;c0&gt;CC&lt;/c0&gt; pel codi de país de dues lletres que vulgueu de la llista &lt;u1&gt;ISO 3166-1 alpha-2&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace &lt;c0&gt;LL&lt;/c0&gt; with the desired two-letter language code from the &lt;u1&gt;ISO 639.1&lt;/u1&gt; list.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134351Z" creationid="Marc Riera" creationdate="20230130T134351Z">
         <seg>Substituïu &lt;c0&gt;LL&lt;/c0&gt; pel codi de llengua de dues lletres que vulgueu de la llista &lt;u1&gt;ISO 639.1&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace &lt;c0&gt;SIZE&lt;/c0&gt; with a number consisting of a multiple of 1024 followed by &lt;c1&gt;k&lt;/c1&gt; for kilobytes, &lt;c2&gt;m&lt;/c2&gt; for megabytes, or &lt;c3&gt;g&lt;/c3&gt; for gigabytes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134529Z" creationid="Marc Riera" creationdate="20230130T134529Z">
+        <seg>Substituïu&lt;c0&gt;MIDA&lt;/c0&gt; per un nombre que sigui un múltiple de 1024 seguit de &lt;c1&gt;k&lt;/c1&gt; per a kilobytes, &lt;c2&gt;m&lt;/c2&gt; per a megabytes o &lt;c3&gt;g&lt;/c3&gt; per a gigabytes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace &lt;o0&gt;&lt;port number&gt;&lt;/o0&gt; with the port number your system uses to access the proxy server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134644Z" creationid="Marc Riera" creationdate="20230130T134644Z">
+        <seg>Substituïu &lt;o0&gt;&lt;número de port&lt;/o0&gt; pel número de port que utilitza el sistema per a accedir al servidor intermediari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39937,6 +40065,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify a source- or target-language tokenizer (using this option overrides project settings).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135129Z" creationid="Marc Riera" creationdate="20230130T135129Z">
+        <seg>Especifica un lematitzador en la llengua d'origen o de destinació (l'ús d0aquesta opció substitueix els paràmetres del projecte).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify here the commands that will be run.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221224T172113Z" creationid="Marc Riera" creationdate="20221224T172113Z">
@@ -43536,6 +43672,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder used to read and write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135139Z" creationid="Marc Riera" creationdate="20230130T135139Z">
+        <seg>Carpeta utilitzada per a llegir i escriure els fitxers de configuració de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder where OmegaT will install and search for spelling dictionaries.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T151032Z" creationid="Marc Riera" creationdate="20230105T151032Z">
@@ -44083,6 +44227,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121037Z" creationid="Marc Riera" creationdate="20221218T121037Z">
         <seg>La pròxima vegada que inicieu l'OmegaT, la drecera nova hauria d'estar activa i mostrar-se al costat del nom de la funció en el menú.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The number must correspond to at least 2 MB.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134538Z" creationid="Marc Riera" creationdate="20230130T134538Z">
+        <seg>El nombre ha de correspondre a almenys 2 MB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47117,6 +47269,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T092807Z" creationid="Marc Riera" creationdate="20230104T092807Z">
         <seg>Aquesta opció canvia la tecla de validació dels segments a &lt;k0&gt;Tab&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter combines with the previous user interface language parameter to specify a regional variant.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134434Z" creationid="Marc Riera" creationdate="20230130T134434Z">
+        <seg>Aquest paràmetre es combina amb el paràmetre de llengua de la interfície d'usuari anterior per a especificar una variant regional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51203,6 +51363,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this option if you want to prevent OmegaT from synchronizing the project contents.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134938Z" creationid="Marc Riera" creationdate="20230130T134938Z">
+        <seg>Utilitzeu aquesta opció si voleu evitar que l'OmegaT sincronitzi el contingut del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use this option temporarily for parts of the translation that do not require much transformation.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183303Z" creationid="Marc Riera" creationdate="20230104T183303Z">
@@ -51582,6 +51750,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T124317Z" creationid="Marc Riera" creationdate="20230130T124317Z">
         <seg>L'ús de la línia d'ordres permet establir diverses opcions que controlen o modifiquen el comportament de l'aplicació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using this parameter launches OmegaT with the user interface in the specified language, if available (even partially).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134409Z" creationid="Marc Riera" creationdate="20230130T134409Z">
+        <seg>L'ús d'aquest paràmetre inicia l'OmegaT amb la interfície d'usuari en la llengua especificada, si està disponible (fins i tot parcialment).</seg>
       </tuv>
     </tu>
     <tu>
@@ -53398,6 +53574,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T223231Z" creationid="Marc Riera" creationdate="20221211T223231Z">
         <seg>També podeu centrar-vos només en els resultats filtrant-los en l'editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also get a list of these options in the terminal with the &lt;c0&gt;java -jar OmegaT.jar --help&lt;/c0&gt; command.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134654Z" creationid="Marc Riera" creationdate="20230130T134654Z">
+        <seg>També podeu obtenir una llista d'aquestes opcions en el terminal amb l'ordre &lt;c0&gt;java -jar OmegaT.jar --help&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59175,6 +59359,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>path to an omegat project</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134811Z" creationid="Marc Riera" creationdate="20230130T134811Z">
+        <seg>camí a un projecte de l'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>path/to/OmegaT.jar</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201946Z" creationid="Marc Riera" creationdate="20221210T201946Z">
@@ -59869,6 +60061,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081942Z" creationid="Marc Riera" creationdate="20221201T081942Z">
         <seg>target.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>team init &lt;e0&gt;SL&lt;/e0&gt; &lt;e1&gt;TL&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134942Z" creationid="Marc Riera" creationdate="20230130T134942Z">
+        <seg>team init &lt;e0&gt;SL&lt;/e0&gt; &lt;e1&gt;TL&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
