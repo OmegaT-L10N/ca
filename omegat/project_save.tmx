@@ -4355,6 +4355,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T124125Z" creationid="Marc Riera" creationdate="20230130T124125Z">
+        <seg>El fitxer &lt;f0&gt;OmegaT.app&lt;/f0&gt; pot fer ús dels serveis del macOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Allow blank translations in the target file&lt;/g0&gt;:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224454Z" creationid="Marc Riera" creationdate="20220130T224454Z">
@@ -17853,6 +17861,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;l1&gt;user.language=ja&lt;/l1&gt; (without the &lt;l2&gt;#&lt;/l2&gt;) will launch OmegaT with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T123826Z" creationid="Marc Riera" creationdate="20230130T123826Z">
+        <seg>Per exemple, &lt;l1&gt;user.language=ja&lt;/l1&gt; (sense &lt;l2&gt;#&lt;/l2&gt;) iniciarà l'OmegaT amb la interfície d'usuari en japonès.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
@@ -17908,6 +17924,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T201537Z" creationid="Marc Riera" creationdate="20201010T201537Z">
         <seg>Per exemple, no hi ha res que impedeixi que un usuari escrigui el seu propi manual d'usuari o que enregistri un vídeo de demostració de l'OmegaT; si el projecte considera que és prou interessant, és molt probable que es distribueixi a la comunitat d'usuaris de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, to change the amount of memory available uncomment the line</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T123856Z" creationid="Marc Riera" creationdate="20230130T123856Z">
+        <seg>Per exemple, per a canviar la quantitat de memòria disponible, suprimiu el comentari de la línia</seg>
       </tuv>
     </tu>
     <tu>
@@ -18001,6 +18025,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192803Z" creationid="Marc Riera" creationdate="20201124T192751Z">
         <seg>Per a la majoria d'usuaris, no són d'interès.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For predefined options, remove the &lt;l0&gt;#&lt;/l0&gt; symbol before a parameter to enable it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T123840Z" creationid="Marc Riera" creationdate="20230130T123840Z">
+        <seg>Per a les opcions predefinides, suprimiu el símbol &lt;l0&gt;#&lt;/l0&gt; abans d'un paràmetre per a habilitar-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20177,6 +20209,14 @@ no cal introduir el camí complet.)</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T171205Z" creationid="Marc Riera" creationdate="20221117T171205Z">
         <seg>Si no s'especifica --stats-type, es detecta
 	    el format a partir de l'extensió del fitxer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;f0&gt;.jar&lt;/f0&gt; files are properly associated with the Java 8 Runtime Environment and your PATH settings are correct, you can also simply click (or double-click) on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T124305Z" creationid="Marc Riera" creationdate="20230130T124229Z">
+        <seg>Si els fitxers &lt;f0&gt;.jar&lt;/f0&gt; estan associats correctament al Java 8 Runtime Environment i els paràmetres del PATH són correctes, també podeu simplement fer clic (o doble clic) en el fitxer &lt;f1&gt;OmegaT.jar&lt;/f1&gt; per a iniciar-lo directament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24603,6 +24643,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Launching OmegaT from the command line also creates a new OmegaT instance for each launch.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T124354Z" creationid="Marc Riera" creationdate="20230130T124354Z">
+        <seg>Si inicieu l'OmegaT des de la línia d'ordres, també es crea una instància nova de l'OmegaT cada vegada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Layout</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T095637Z" creationid="Marc Riera" creationdate="20230104T095637Z">
@@ -26477,6 +26525,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T215107Z" creationid="Marc Riera" creationdate="20201130T215107Z">
         <seg>Diccionari Merriam Webster: ús</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Methods vary from one system to another, but in general, once OmegaT is installed, you can launch it directly from the command line.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T124151Z" creationid="Marc Riera" creationdate="20230130T124151Z">
+        <seg>Els mètodes varien d'un sistema a un altre però, en general, una vegada instal·lat l'OmegaT, es pot iniciar directament des de la línia d'ordres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37197,6 +37253,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l1/&gt; section below for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T123747Z" creationid="Marc Riera" creationdate="20230130T123739Z">
+        <seg>Consulteu la secció &lt;l1/&gt; a continuació per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l1/&gt; section for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124814Z" creationid="Marc Riera" creationdate="20221225T124814Z">
@@ -41699,6 +41763,22 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T081753Z" creationid="Marc Riera" creationdate="20221205T081753Z">
         <seg>Els &lt;e0&gt;identificadors de les tecles&lt;/e0&gt; anteriors ens permeten evitar indicar més d'una representació per a cada drecera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Configuration.properties&lt;/f0&gt; file is located in the &lt;f1&gt;Contents/Resources/&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T123727Z" creationid="Marc Riera" creationdate="20230130T123727Z">
+        <seg>El fitxer &lt;f0&gt;Configuration.properties&lt;/f0&gt; es troba en la carpeta &lt;f1&gt;Contents/Resources/&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Info.plist&lt;/f0&gt; file is located in the &lt;f1&gt;Contents/&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T123733Z" creationid="Marc Riera" creationdate="20230130T123733Z">
+        <seg>El fitxer &lt;f0&gt;Info.plist&lt;/f0&gt; es troba en la carpeta &lt;f1&gt;Contents/&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47086,6 +47166,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will launch OmegaT with 6 GB of memory; change the &lt;l0&gt;6g&lt;/l0&gt; to the desired amount.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T124112Z" creationid="Marc Riera" creationdate="20230130T124112Z">
+        <seg>Això iniciarà l'OmegaT amb 6 GB de memòria; canvieu el valor &lt;l0&gt;6g&lt;/l0&gt; a la quantitat desitjada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will reset all
 settings to their defaults.</seg>
       </tuv>
@@ -51003,6 +51091,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use your text editor of choice to modify the files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T123758Z" creationid="Marc Riera" creationdate="20230130T123758Z">
+        <seg>Utilitzeu el vostre editor de text preferit per a modificar els fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Used when launching OmegaT from the command line.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T111830Z" creationid="Marc Riera" creationdate="20221129T111830Z">
@@ -51294,6 +51390,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T190451Z" creationid="Marc Riera" creationdate="20221203T190451Z">
         <seg>Ús de dreceres per a simplificar el procés de traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using the command line allows you to set various options that control or modify the behavior of the application.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T124317Z" creationid="Marc Riera" creationdate="20230130T124317Z">
+        <seg>L'ús de la línia d'ordres permet establir diverses opcions que controlen o modifiquen el comportament de l'aplicació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53058,6 +53162,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also define and save sets of options in scripts that you can then use to launch OmegaT for a particular purpose.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T124330Z" creationid="Marc Riera" creationdate="20230130T124330Z">
+        <seg>També podeu definir i desar els conjunts d'opcions en scripts que podeu utilitzar per a iniciar l'OmegaT amb una finalitat concreta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also define global post-processing commands available to all projects that share the same configuration folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T120345Z" creationid="Marc Riera" creationdate="20221206T120345Z">
@@ -53382,6 +53494,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214755Z" creationid="Marc Riera" creationdate="20221213T214726Z">
         <seg>Podeu crear un projecte nou per a cada tasca nova o bé podeu afegir fitxers d'origen nous a un projecte existent en qualsevol moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create a script that includes the desired command line launch parameters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T124204Z" creationid="Marc Riera" creationdate="20230130T124204Z">
+        <seg>Podeu crear un script que inclogui els paràmetres d'inici de la línia d'ordres que vulgueu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53739,6 +53859,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175141Z" creationid="Marc Riera" creationdate="20221218T175141Z">
         <seg>També podeu obrir-lo en un editor de text i modificar-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can thus use multiple projects simultaneously, each with its own parameters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T124417Z" creationid="Marc Riera" creationdate="20230130T124417Z">
+        <seg>D'aquesta manera, podeu utilitzar diversos projectes alhora, cadascun amb paràmetres propis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55142,6 +55270,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132400Z" creationid="Marc Riera" creationdate="20221211T132400Z">
         <seg>Amplieu l'OmegaT amb connectors de tercers que ofereixin compatibilitat amb el format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by removing the &lt;l0&gt;&lt;!--&lt;/l0&gt; and &lt;l1&gt;--&gt;&lt;/l1&gt; markers.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T123925Z" creationid="Marc Riera" creationdate="20230130T123925Z">
+        <seg>suprimint els marcadors &lt;l0&gt;&lt;!--&lt;/l0&gt; i &lt;l1&gt;--&gt;&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
