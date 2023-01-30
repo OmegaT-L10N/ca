@@ -6359,6 +6359,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Accessing a team project requires the following information:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T144210Z" creationid="Marc Riera" creationdate="20230130T144210Z">
+        <seg>L'accés a un projecte en equip requereix la informació següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Actions &amp; Settings</seg>
@@ -6707,6 +6715,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Administrators have two options for sending the location of the project to the translators:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T144355Z" creationid="Marc Riera" creationdate="20230130T144355Z">
+        <seg>Els administradors tenen dues opcions per a enviar la ubicació del projecte als traductors:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Advice: if OmegaT works slowly in Remote Desktop sessions under Windows, you may use this option:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T120453Z" creationid="Marc Riera" creationdate="20230130T120453Z">
@@ -6719,6 +6735,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T114250Z" creationid="Marc Riera" creationdate="20221129T114250Z">
         <seg>Després</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After creating the accounts, the administrator must send the translators their individual credentials.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T144233Z" creationid="Marc Riera" creationdate="20230130T144233Z">
+        <seg>Després de crear els comptes, l'administrador ha d'enviar als traductors les credencials individuals.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6786,12 +6810,28 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>After the project is ready and has been uploaded to the server, the team project administrator has to set up access for the translators.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T144203Z" creationid="Marc Riera" creationdate="20230130T144203Z">
+        <seg>Quan el projecte estigui a punt i s'hagi pujat al servidor, l'administrador del projecte en equip ha de configurar l'accés per als traductors.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T213717Z" creationid="mgalo" creationdate="20181114T114705Z">
         <seg>Un cop s'hagin carregat els fitxers d'origen a la subfinestra &lt;g3&gt;Editor&lt;/g3&gt;, podeu tancar el quadre de diàleg &lt;g4&gt;Fitxers del projecte&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After the team project administrator confirms that a translator has been able to open the team project, it is a good idea to make sure that the &lt;l0&gt;project statistics&lt;/l0&gt; are the same for both the administrator (on the server) and the translator (locally).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T145856Z" creationid="Marc Riera" creationdate="20230130T145856Z">
+        <seg>Després que l'administrador del projecte en equip confirmi que un traductor ha pogut obrir el projecte en equip, és bona idea assegurar-se que les &lt;l0&gt;estadístiques del projecte&lt;/l0&gt; siguin les mateixes tant per a l'administrador (en el servidor) com per al traductor (localment).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17699,6 +17739,14 @@ els fils de teranyina t'aparten.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Finally, publish your project to the remote server (&lt;c0&gt;commit&lt;/c0&gt; in SVN, &lt;c1&gt;commit&lt;/c1&gt; and &lt;c2&gt;push&lt;/c2&gt; in Git).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T144148Z" creationid="Marc Riera" creationdate="20230130T144148Z">
+        <seg>Finalment, publiqueu el projecte en el servidor remot (&lt;c0&gt;commit&lt;/c0&gt; en l'SVN; &lt;c1&gt;commit&lt;/c1&gt; i &lt;c2&gt;push&lt;/c2&gt; en el Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find an email address.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092539Z" creationid="Marc Riera" creationdate="20221231T092539Z">
@@ -21183,6 +21231,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the server is self-hosted and does not have a provision for translators to register an account themselves, the team project administrator must create accounts with write access for the translators.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T144318Z" creationid="Marc Riera" creationdate="20230130T144318Z">
+        <seg>Si el servidor està autoallotjat i no ofereix un mètode perquè els traductors registrin un compte pel seu compte, l'administrador del projecte en equip ha de crear comptes amb accés d'escriptura per als traductors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the server relies on username/password authentication, OmegaT will present you with an &lt;g0&gt;Authentication&lt;/g0&gt; dialog to enter your username and password either when you first download the project or later on in the process.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T143318Z" creationid="Marc Riera" creationdate="20221211T143318Z">
@@ -21498,6 +21554,14 @@ extensions dels fitxers.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T165855Z" creationid="Marc Riera" creationdate="20221201T165855Z">
         <seg>Si trieu utilitzar un fitxer existent com a glossari per defecte, totes les entrades noves es registraran en el format separat per tabuladors i es desaran en UTF-8 per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you created the project from the GUI, you then have to explicitly add it to the version control system (&lt;c0&gt;add&lt;/c0&gt; in both SVN and Git).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T144109Z" creationid="Marc Riera" creationdate="20230130T144109Z">
+        <seg>Si heu creat el projecte des de la GUI, haureu d'afegir-lo explícitament al sistema de control de versions (&lt;c0&gt;add&lt;/c0&gt; tant a l'SVN com al Git).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33884,6 +33948,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Projects on a hosting service</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T144212Z" creationid="Marc Riera" creationdate="20230130T144212Z">
+        <seg>Projectes en un servei d'allotjament</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Projects on a self-hosted server</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T144219Z" creationid="Marc Riera" creationdate="20230130T144219Z">
+        <seg>Projectes en un servidor autoallotjat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Projects that you have created in the past or are currently using will &lt;e0&gt;not&lt;/e0&gt; be modified or deleted.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111637Z" creationid="Marc Riera" creationdate="20221209T111637Z">
@@ -38795,6 +38875,22 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Send a URL and ask the translators to use &lt;l0/&gt;&lt;l1/&gt; to create a local copy of the project on their own system.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T144639Z" creationid="Marc Riera" creationdate="20230130T144639Z">
+        <seg>Enviar un URL i demanar als traductors que utilitzin &lt;l0/&gt;&lt;l1/&gt; per a crear una còpia local del projecte en el sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Send an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing the project URL, and then have the translators copy it to an empty folder and open it in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T144704Z" creationid="Marc Riera" creationdate="20230130T144704Z">
+        <seg>Enviar un fitxer &lt;f0&gt;omegat.project&lt;/f0&gt; que contingui l'URL del projecte i demanar els traductors que el copiïn a una carpeta buida i l'obrin amb l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sentence case</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220555Z" creationid="Marc Riera" creationdate="20221208T220555Z">
@@ -43096,6 +43192,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The administrator will then grant write access to the repository to those accounts.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T144337Z" creationid="Marc Riera" creationdate="20230130T144337Z">
+        <seg>A continuació, l'administrador concedirà accés d'escriptura al dipòsit a aquests comptes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The aligner also allows you to edit the contents of a segment, which can be useful if you notice errors such as a spelling mistake in a segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T183935Z" creationid="Marc Riera" creationdate="20230103T183935Z">
@@ -45780,6 +45884,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The translators will have to create an account for the service, and send their user name to the team project administrator.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T144348Z" creationid="Marc Riera" creationdate="20230130T144348Z">
+        <seg>Els traductors hauran de crear un compte per al servei i enviar el seu nom d'usuari a l'administrador del projecte en equip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The two actions are equivalent to using the &lt;l0/&gt; menu commands &lt;l1/&gt; and &lt;l2/&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T220934Z" creationid="Marc Riera" creationdate="20221207T214909Z">
@@ -46717,6 +46829,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T123240Z" creationid="Marc Riera" creationdate="20200122T222220Z">
         <seg>Aquesta trucada ha d'estar en el fil del Swing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be useful if the project is set up to use different &lt;l1&gt;mappings&lt;/l1&gt; for each translator.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T144409Z" creationid="Marc Riera" creationdate="20230130T144409Z">
+        <seg>Això pot ser útil si el projecte està configurat per a utilitzar &lt;l1&gt;assignacions&lt;/l1&gt; diferents per a cada traductor.</seg>
       </tuv>
     </tu>
     <tu>
