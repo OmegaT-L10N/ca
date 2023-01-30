@@ -12133,6 +12133,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the files to translate to the source/ folder, and use your SVN or Git client, or the command line, to add and publish them to the repository.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T142659Z" creationid="Marc Riera" creationdate="20230130T142659Z">
+        <seg>Copieu els fitxers per a traduir a la carpeta «source/» i utilitzeu un client de l'SVN o el Git, o bé la línia d'ordres, per a afegir-los i publicar-los en el dipòsit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the folder to a suitable location (e.g. &lt;c3&gt;Applications&lt;/c3&gt;).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122356Z" creationid="Marc Riera" creationdate="20221223T122356Z">
@@ -21347,6 +21355,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are converting an existing project, make sure you delete any files in the project that you do not need or want to upload to the server before proceeding to the next step.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T142621Z" creationid="Marc Riera" creationdate="20230130T142621Z">
+        <seg>Si esteu convertint un projecte existent, assegureu-vos que suprimiu qualsevol fitxer del projecte que no necessiteu ni vulgueu pujar al servidor abans de continuar amb el pas següent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are creating a new empty project, you can follow the &lt;l0&gt;GUI procedure&lt;/l0&gt;, or create it directly from the command line: &lt;c1&gt;java -jar OmegaT.jar team init &lt;source language&gt; &lt;target language&gt;&lt;/c1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T142424Z" creationid="Marc Riera" creationdate="20230130T142424Z">
@@ -25920,6 +25936,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T134524Z" creationid="Marc Riera" creationdate="20221211T134524Z">
         <seg>Assegureu-vos que enteneu els requisits de format quan comenceu a treballar en un fitxer PDF o similar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make the necessary changes to the project properties at this stage, including local file filters or segmentation settings.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T142451Z" creationid="Marc Riera" creationdate="20230130T142451Z">
+        <seg>Apliqueu els canvis necessaris a les propietats del projecte en aquesta fase, incloent-hi els filtres de fitxers o els paràmetres de segmentació locals.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37273,8 +37297,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>See &lt;l0&gt;spellchecker files&lt;/l0&gt; for details.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T183921Z" creationid="Marc Riera" creationdate="20221217T183921Z">
-        <seg>Consulteu &lt;l0&gt;fitxers de correcció ortogràfica&lt;/l0&gt; per a conèixer més detalls.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T142557Z" creationid="Marc Riera" creationdate="20221217T183921Z">
+        <seg>Consulteu l'apartat sobre &lt;l0&gt;fitxers de correcció ortogràfica&lt;/l0&gt; per a conèixer més detalls.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37537,6 +37561,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193554Z" creationid="Marc Riera" creationdate="20221230T193554Z">
         <seg>Consulteu el capítol &lt;l0/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; dialog for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T142503Z" creationid="Marc Riera" creationdate="20230130T142503Z">
+        <seg>Consulteu el quadre de diàleg &lt;l0/&gt; per a conèixer més detalls.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39249,6 +39281,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230126T185021Z" creationid="Marc Riera" creationdate="20230126T185004Z">
         <seg>Els segments similars tindran coincidències de la memòria de traducció del projecte quan hi accediu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similarly add any relevant lists of spellchecker files you want to make available to everyone working on the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T142528Z" creationid="Marc Riera" creationdate="20230130T142528Z">
+        <seg>De la mateixa manera, afegiu qualsevol llista rellevant de fitxers de correcció ortogràfica que vulgueu posar a disposició de totes les persones que treballin en el projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46746,6 +46786,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This command also automatically registers the project in the version control system.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T142431Z" creationid="Marc Riera" creationdate="20230130T142431Z">
+        <seg>Aquesta ordre també registra automàticament el projecte en el sistema de control de versions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This command can only be performed on a single segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T185604Z" creationid="Marc Riera" creationdate="20230103T185604Z">
@@ -50907,6 +50955,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120345Z" creationid="Marc Riera" creationdate="20221218T120345Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a accedir a aquesta eina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to add files from OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T142704Z" creationid="Marc Riera" creationdate="20230130T142704Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a afegir fitxers des de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
