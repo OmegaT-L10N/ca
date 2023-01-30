@@ -5768,6 +5768,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A list of mapping parameters is presented below, and examples of their use are provided in the next section.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T151848Z" creationid="Marc Riera" creationdate="20230130T151848Z">
+        <seg>A continuació es presenta una llista dels paràmetres d'assignació i també es proporcionen exemples d'ús en la secció següent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A more detailed &lt;a0&gt;explanation of free software&lt;/a0&gt; can be found on the Free Software Foundation website.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104511Z" creationid="Marc Riera" creationdate="20221224T104511Z">
@@ -8213,6 +8221,14 @@ inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201014Z" creationid="Marc Riera" creationdate="20221206T201014Z">
         <seg>En general, com més baixa sigui la puntuació, més precisa serà l'alineació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As above, but for files that should be part of the mapping.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152636Z" creationid="Marc Riera" creationdate="20230130T152636Z">
+        <seg>Igual que l'anterior, però per als fitxers que voleu que formin part de l'assignació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13453,6 +13469,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Default project mapping:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152738Z" creationid="Marc Riera" creationdate="20230130T152738Z">
+        <seg>Assignació de projecte per defecte:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Default shortcut</seg>
@@ -16566,6 +16590,30 @@ ningú no sent els vostres crits.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151511Z" creationid="Marc Riera" creationdate="20190924T143751Z">
         <seg>Exemple: cerca i substitució</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example mappings</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152728Z" creationid="Marc Riera" creationdate="20230130T152728Z">
+        <seg>Exemple d'assignacions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files in the project, even if they are located in an excluded folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152718Z" creationid="Marc Riera" creationdate="20230130T152718Z">
+        <seg>Exemple: &lt;u0&gt;**/*.docx&lt;/u0&gt; per a afegir tots els fitxers .docx en el projecte, encara que es trobin en una carpeta exclosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; excludes files that have /excludedfolder/ in the path, as well as files with the &lt;f1&gt;.txt&lt;/f1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152619Z" creationid="Marc Riera" creationdate="20230130T152619Z">
+        <seg>Exemple: &lt;u0&gt;**/carpetaexclosa/**;*.txt&lt;/u0&gt; exclou els fitxers que tenen /carpetaexclosa/ en el camí, i també els fitxers amb l'extensió &lt;f1&gt;.txt&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27898,6 +27946,22 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Name of the local folder or file, relative to the root of the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152221Z" creationid="Marc Riera" creationdate="20230130T152221Z">
+        <seg>Nom de la carpeta o del fitxer local, relatiu a l'arrel del projecte de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Name of the remote folder or file, relative to the repository url.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152530Z" creationid="Marc Riera" creationdate="20230130T152530Z">
+        <seg>Nom de la carpeta o del fitxer remot, relatiu a l'URL del dipòsit.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Name:</seg>
@@ -34832,6 +34896,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote location or folder of the files to translate.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152119Z" creationid="Marc Riera" creationdate="20230130T152119Z">
+        <seg>Ubicació o carpeta remota dels fitxers per a traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote project file lacks git setting.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220824T075908Z" creationid="Marc Riera" creationdate="20220824T075908Z">
@@ -39565,6 +39637,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T220908Z" creationid="Marc Riera" creationdate="20221211T220908Z">
         <seg>Com que sovint s'utilitza un caràcter d'espai estàndard com a límit d'un segment, si voleu combinar dues parts separades per un caràcter d'espai:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since files are included by default unless specifically excluded, this option is only necessary to specify exceptions to an exclusion pattern.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152702Z" creationid="Marc Riera" creationdate="20230130T152702Z">
+        <seg>Com que els fitxers s'inclouen per defecte llevat que s'excloguin específicament, aquesta opció només és necessària per a especificar excepcions d'un patró d'exclusió.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46857,6 +46937,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can be either &lt;e0&gt;http&lt;/e0&gt; (which includes https), &lt;e1&gt;svn&lt;/e1&gt;, &lt;e2&gt;git&lt;/e2&gt;, or &lt;e3&gt;file&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152106Z" creationid="Marc Riera" creationdate="20230130T152106Z">
+        <seg>Pot ser &lt;e0&gt;http&lt;/e0&gt; (que inclou https), &lt;e1&gt;svn&lt;/e1&gt;, &lt;e2&gt;git&lt;/e2&gt; o &lt;e3&gt;fitxer&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can be useful if the project is set up to use different &lt;l1&gt;mappings&lt;/l1&gt; for each translator.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T144409Z" creationid="Marc Riera" creationdate="20230130T144409Z">
@@ -51433,6 +51521,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Use a semicolon to separate different patterns.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152208Z" creationid="Marc Riera" creationdate="20230130T152208Z">
+        <seg>Utilitzeu un punt i coma per a separar patrons diferents.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Use all mine</seg>
@@ -51991,6 +52087,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202353Z" creationid="Marc Riera" creationdate="20221210T202353Z">
         <seg>Ús de memòries de traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use wildcards (following the Apache Ant style: *, ?, **) to add patterns for files that should not be part of the mapping.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152554Z" creationid="Marc Riera" creationdate="20230130T152554Z">
+        <seg>Utilitzeu comodins (seguint l'estil de l'Apache Ant: *, ?, **) per a afegir patrons per a fitxers que no voleu que formin part de l'assignació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57396,6 +57500,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>excludes</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152158Z" creationid="Marc Riera" creationdate="20230130T152158Z">
+        <seg>excludes</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>extensions:</seg>
@@ -58674,6 +58786,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>includes</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152201Z" creationid="Marc Riera" creationdate="20230130T152201Z">
+        <seg>includes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>index.html</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215253Z" creationid="Marc Riera" creationdate="20221123T215253Z">
@@ -58980,6 +59100,22 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210514T154147Z" creationid="Marc Riera" creationdate="20210514T154147Z">
         <seg>El macOS intenta incrementar la seguretat dificultant l'execució de programes sense verificar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>mapping local</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152154Z" creationid="Marc Riera" creationdate="20230130T152125Z">
+        <seg>mapping local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>mapping repository</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152156Z" creationid="Marc Riera" creationdate="20230130T152156Z">
+        <seg>mapping repository</seg>
       </tuv>
     </tu>
     <tu>
@@ -60370,6 +60506,22 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T082016Z" creationid="Marc Riera" creationdate="20221201T082016Z">
         <seg>repositories.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>repository type</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152149Z" creationid="Marc Riera" creationdate="20230130T152048Z">
+        <seg>repository type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>repository url</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152152Z" creationid="Marc Riera" creationdate="20230130T152110Z">
+        <seg>repository url</seg>
       </tuv>
     </tu>
     <tu>
