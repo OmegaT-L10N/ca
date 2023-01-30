@@ -7606,6 +7606,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although the mapping feature is primarily intended for gathering source files from disparate locations, it can also be used for other types of files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T151811Z" creationid="Marc Riera" creationdate="20230130T151811Z">
+        <seg>Tot i que la característica d'assignació està destinada principalment a recopilar fitxers d'origen de llocs diferents, també es pot utilitzar per a altres tipus de fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although you can run OmegaT directly from the available files, you can also run the &lt;c0&gt;linux-install.sh&lt;/c0&gt; script found there to have OmegaT installed in more appropriate locations.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221223T121655Z" creationid="Marc Riera" creationdate="20221223T121655Z">
@@ -23893,6 +23901,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T092715Z" creationid="Marc Riera" creationdate="20230104T092715Z">
         <seg>És possible utilitzar una carpeta de configuració de l'OmegaT diferent per a definir configuracions específiques del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible to map various remote locations to local files via the OmegaT user interface using &lt;l0/&gt; in the &lt;l1/&gt; dialog, or by editing the &lt;l2/&gt; file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T151747Z" creationid="Marc Riera" creationdate="20230130T151747Z">
+        <seg>És possible assignar diverses ubicacions remotes a fitxers locals a través de la interfície d'usuari de l'OmegaT utilitzant &lt;l0/&gt; en el quadre de diàleg &lt;l1/&gt;, o bé editant el fitxer &lt;l2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
