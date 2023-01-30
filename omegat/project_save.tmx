@@ -10677,6 +10677,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on &lt;l0/&gt; to use project-specific (local) segmentation rules rather than the global rules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110119Z" creationid="Marc Riera" creationdate="20230130T110119Z">
+        <seg>Feu clic en &lt;l0/&gt; per a utilitzar les regles de segmentació específiques del projecte (regles locals) i no les regles globals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on &lt;l0/&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221241Z" creationid="Marc Riera" creationdate="20221218T221241Z">
@@ -15657,6 +15665,14 @@ is the language code and YY is the region or country code (optional).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the commands you want to run in this field.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110306Z" creationid="Marc Riera" creationdate="20230130T110306Z">
+        <seg>Indiqueu les ordres que vulgueu executar en aquest camp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the name of this set:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215418Z" creationid="Marc Riera" creationdate="20221124T215418Z">
@@ -19787,6 +19803,14 @@ l'hivern ja és aquí.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, their original translation will still be in the project memory.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110133Z" creationid="Marc Riera" creationdate="20230130T110133Z">
+        <seg>Malgrat tot, la traducció original es conservarà en la memòria del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, you may want to remove the &lt;k0&gt;S&lt;/k0&gt; key from the shortcut to make it only &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;W&lt;/k3&gt;&lt;/k1&gt; (or &lt;k4&gt;&lt;k5&gt;Command&lt;/k5&gt;&lt;k6&gt;W&lt;/k6&gt;&lt;/k4&gt; on macOS) to match the shortcut you use in other applications.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T103829Z" creationid="Marc Riera" creationdate="20221217T123254Z">
@@ -20871,6 +20895,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there are repeated segments in the source documents, checking this option will set the first translated segment as the default translation and automatically use the same target text in the remaining repeated segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110222Z" creationid="Marc Riera" creationdate="20230130T110222Z">
+        <seg>Si hi ha segments repetits en els documents d'origen i marqueu aquesta opció, es definirà el primer segment traduït com a traducció per defecte i s'utilitzarà automàticament el mateix text de destinació en els segments repetits restants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there is a conflict between the remote and local versions of the &lt;f0&gt;omegat.project&lt;/f0&gt; and the local version is overwritten, OmegaT creates a backup file called &lt;f1&gt;omegat.project.YYYYMMDDhhmm.bak&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T144244Z" creationid="Marc Riera" creationdate="20221211T144244Z">
@@ -21296,6 +21328,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T171917Z" creationid="Marc Riera" creationdate="20201125T171917Z">
         <seg>Si instal·leu la versió de l'OmegaT amb el JRE encara que ja tingueu instal·lat el JRE a l'ordinador, el JRE de l'OmegaT s'instal·larà per separat i no entrarà en conflicte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you just need to reduce the number of tags in a &lt;a0&gt;Microsoft Word&lt;/a0&gt; (2007 and later) document, you can use the &lt;l1/&gt; script.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110251Z" creationid="Marc Riera" creationdate="20230130T110251Z">
+        <seg>Si només voleu reduir el nombre d'etiquetes en un document del &lt;a0&gt;Microsoft Word&lt;/a0&gt; (2007 o posterior, podeu utilitzar l'script &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34947,6 +34987,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Resource folders can be located anywhere on your system, including on shared disks.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110511Z" creationid="Marc Riera" creationdate="20230130T110511Z">
+        <seg>Les carpetes de recursos poden ser en qualsevol lloc del sistema, fins i tot en discs compartits.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Resource name</seg>
@@ -34970,6 +35018,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T142720Z" creationid="Marc Riera" creationdate="20221206T142720Z">
         <seg>No cal que els recursos siguin en la carpeta del projecte per defecte que crea l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resources do not have to be stored in the default project folder that OmegaT creates.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110558Z" creationid="Marc Riera" creationdate="20230130T110558Z">
+        <seg>No cal que els recursos estiguin emmagatzemats en la carpeta del projecte per defecte que crea l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36821,6 +36877,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; appendix for general explanations about segmentation (global or local, paragraph or sentence, settings, and so on).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110138Z" creationid="Marc Riera" creationdate="20230130T110138Z">
+        <seg>Consulteu l'annex &lt;l0/&gt; per a veure explicacions generals sobre la segmentació (global o local, per paràgrafs o per frases, paràmetres, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; appendix if you want to modify or add shortcuts.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120439Z" creationid="Marc Riera" creationdate="20221218T120439Z">
@@ -38063,6 +38127,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T114207Z" creationid="Marc Riera" creationdate="20221129T114207Z">
         <seg>Segmentació per frases</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sentence-level segmentation splits paragraphs or other text blocks in the source file into segments based on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110108Z" creationid="Marc Riera" creationdate="20230130T110108Z">
+        <seg>La segmentació per frases divideix els paràgrafs o altres blocs de text dels fitxers d'origen en segments segons les regles de segmentació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40779,6 +40851,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tags are generally useful to reproduce specific layouts or characteristics of the source text in the translated text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110226Z" creationid="Marc Riera" creationdate="20230130T110226Z">
+        <seg>Les etiquetes són útils generalment per a reproduir disposicions o característiques específiques del text d'origen en el text traduït.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tags are generally useful to reproduce specific layouts or characteristics of the source text into the translated text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T123836Z" creationid="Marc Riera" creationdate="20221206T123836Z">
@@ -41555,6 +41635,14 @@ la carpeta actual en el seu lloc.</seg>
         <seg>The &lt;g0&gt;Browse&lt;/g0&gt; button is available for all the user-defined project resources.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T142810Z" creationid="Marc Riera" creationdate="20221206T142810Z">
+        <seg>El botó &lt;g0&gt;Navega&lt;/g0&gt; està disponible per a tots els recursos del projecte definits per l'usuari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;g0&gt;Browse&lt;/g0&gt; button is available for all user-definable project resources.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110542Z" creationid="Marc Riera" creationdate="20230130T110542Z">
         <seg>El botó &lt;g0&gt;Navega&lt;/g0&gt; està disponible per a tots els recursos del projecte definits per l'usuari.</seg>
       </tuv>
     </tu>
@@ -43940,10 +44028,26 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project will store the new set of external searches in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110417Z" creationid="Marc Riera" creationdate="20230130T110417Z">
+        <seg>El projecte emmagatzemarà el nou conjunt de cerques externes en el fitxer &lt;l0/&gt; de la carpeta &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project will store the new set of external searches in the &lt;l0/&gt; file of its &lt;l1/&gt; folder, and the settings will supersede the global external searches settings.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T134850Z" creationid="Marc Riera" creationdate="20221206T134850Z">
         <seg>El projecte emmagatzemarà el nou conjunt de cerques externes en el fitxer &lt;l0/&gt; de la carpeta &lt;l1/&gt; i els paràmetres substituiran els paràmetres de cerca externa globals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project will store the new set of file filters in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110335Z" creationid="Marc Riera" creationdate="20230130T110335Z">
+        <seg>El projecte emmagatzemarà el nou conjunt de filtres de fitxers en el fitxer &lt;l0/&gt; de la carpeta &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43968,6 +44072,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221224T172048Z" creationid="Marc Riera" creationdate="20221224T172048Z">
         <seg>El projecte emmagatzemarà el nou conjunt de regles en el fitxer &lt;l0/&gt; de la carpeta &lt;l1/&gt; i les regles substituiran les regles de segmentació globals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project will store the new set of rules in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110203Z" creationid="Marc Riera" creationdate="20230130T110203Z">
+        <seg>El projecte emmagatzemarà el nou conjunt de regles en el fitxer &lt;l0/&gt; de la carpeta &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44139,6 +44251,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110631Z" creationid="Marc Riera" creationdate="20230104T110631Z">
         <seg>Llengua de destinació del segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The segmentation rules presented when you open the &lt;l0/&gt; preferences (using &lt;l1/&gt;&lt;l2/&gt;) are the global rules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110147Z" creationid="Marc Riera" creationdate="20230130T110147Z">
+        <seg>Les regles de segmentació que veieu quan obriu les preferències de &lt;l0/&gt; (utilitzeu &lt;l1/&gt;&lt;l2/&gt;) són regles globals.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45212,10 +45332,34 @@ la ubicació de la carpeta de configuració de l'OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These rules will supersede the global segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110212Z" creationid="Marc Riera" creationdate="20230130T110212Z">
+        <seg>Aquestes regles substituiran les regles de segmentació globals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These settings apply to OmegaT level, to all projects.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T221106Z" creationid="Marc Riera" creationdate="20201130T221106Z">
         <seg>Aquests paràmetres s'apliquen a l'OmegaT, a tots els projectes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These settings will supersede the global external searches settings.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110430Z" creationid="Marc Riera" creationdate="20230130T110430Z">
+        <seg>Aquests paràmetres substituiran els paràmetres de cerques externes globals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These settings will supersede the global file filter settings.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110359Z" creationid="Marc Riera" creationdate="20230130T110359Z">
+        <seg>Aquests paràmetres substituiran els paràmetres dels filtres de fitxers globals.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46808,6 +46952,14 @@ tots els paràmetres als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will split or merge some previously translated segments, which will therefore no longer be translated.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110127Z" creationid="Marc Riera" creationdate="20230130T110127Z">
+        <seg>Això dividirà o fusionarà alguns segments que ja s'havien traduït, que deixaran de considerar-se traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This window is accessible by selecting &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Scripting...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T154748Z" creationid="Marc Riera" creationdate="20220611T154748Z">
@@ -47142,6 +47294,14 @@ tots els paràmetres als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To delete project specific external searches, click on the &lt;g0&gt;Remove&lt;/g0&gt; button or remove that file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110439Z" creationid="Marc Riera" creationdate="20230130T110439Z">
+        <seg>Per a suprimir les cerques externes específiques del projecte, feu clic en el botó &lt;g0&gt;Suprimeix&lt;/g0&gt; o suprimiu el fitxer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To disable local segmentation rules, disable this option or remove that file.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T112303Z" creationid="Marc Riera" creationdate="20221206T112303Z">
@@ -47153,6 +47313,14 @@ tots els paràmetres als valors per defecte.</seg>
         <seg>To disable project specific file filters, uncheck the box or remove that file.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T133104Z" creationid="Marc Riera" creationdate="20221206T133104Z">
+        <seg>Per a inhabilitar els filtres de fitxers específics del projecte, desmarqueu la casella o suprimiu el fitxer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To disable project-specific file filters, uncheck the box or remove that file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110405Z" creationid="Marc Riera" creationdate="20230130T110405Z">
         <seg>Per a inhabilitar els filtres de fitxers específics del projecte, desmarqueu la casella o suprimiu el fitxer.</seg>
       </tuv>
     </tu>
@@ -49719,6 +49887,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; and its submenus to access the locations of the project resources.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110536Z" creationid="Marc Riera" creationdate="20230130T110536Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; i els submenús per a accedir a totes les ubicacions de recursos del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; and the &lt;l2/&gt; preferences to manage glossary matches.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T191257Z" creationid="Marc Riera" creationdate="20221230T191257Z">
@@ -49739,6 +49915,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T093608Z" creationid="Marc Riera" creationdate="20221225T093608Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; o &lt;l2/&gt;&lt;l3/&gt; per a crear els fitxers de destinació i que s'executi l'ordre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; or &lt;l2/&gt;&lt;l3/&gt; to create the target files and trigger the command.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110323Z" creationid="Marc Riera" creationdate="20230130T110323Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; o &lt;l2/&gt;&lt;l3/&gt; per a crear els fitxers de destinació i executar l'ordre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51423,6 +51607,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T094552Z" creationid="Marc Riera" creationdate="20230104T094552Z">
         <seg>Quan un terme del glossari és una paraula composta, el terme coincidirà encara que les paraules apareguin per separat en el text d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a new project is created, OmegaT proposes a default project folder structure that contains all the resources used in the translation, but that structure is not compulsory.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110501Z" creationid="Marc Riera" creationdate="20230130T110501Z">
+        <seg>Quan es crea un projecte, l'OmegaT proposa crear una estructura de carpetes del projecte per defecte que conté tots els recursos utilitzats en la traducció, però aquesta estructura no és obligatòria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53221,6 +53413,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can modify the structure of your project by adding or removing files from the folders, or even by changing the folders used by the project at any time, even during the course of the translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110530Z" creationid="Marc Riera" creationdate="20230130T110530Z">
+        <seg>Podeu modificar l'estructura del projecte afegint o suprimint fitxers de les carpetes o, fins i tot, canviant les carpetes que utilitza el projecte en qualsevol moment, fins i tot durant la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can modify them freely to improve the segmentation of a document or add additional general rules.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T091140Z" creationid="Marc Riera" creationdate="20221231T091140Z">
@@ -53297,6 +53497,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
         <seg>You can select any folder that you want to hold your resources, even folders located on shared disks.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T142743Z" creationid="Marc Riera" creationdate="20221206T142743Z">
+        <seg>Podeu seleccionar qualsevol carpeta que vulgueu que contingui els recursos, fins i tot carpetes en discs compartits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select any folder you want to hold your resources, including folders on shared disks.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110604Z" creationid="Marc Riera" creationdate="20230130T110604Z">
         <seg>Podeu seleccionar qualsevol carpeta que vulgueu que contingui els recursos, fins i tot carpetes en discs compartits.</seg>
       </tuv>
     </tu>
