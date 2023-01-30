@@ -5482,6 +5482,18 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;
+	&lt;mapping local="" repository="En-US_DE_project"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T161347Z" creationid="Marc Riera" creationdate="20230130T161347Z">
+        <seg>&lt;repository type="svn" url="https://dipòsit_de_tots_els_projectes_en_equip_de_l'OmegaT"&gt;
+	&lt;mapping local="" repository="Projecte_En-US_DE"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;
 	&lt;mapping local="" repository=""/&gt;
 &lt;/repository&gt;</seg>
