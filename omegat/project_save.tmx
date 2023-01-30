@@ -7624,6 +7624,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT team projects synchronizes the project translation memory &lt;l0/&gt; and the project writable glossary &lt;l1/&gt; between the hosting server and all the participating team members, and manages all possible conflicts between them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T141408Z" creationid="Marc Riera" creationdate="20230130T141408Z">
+        <seg>Un projecte en equip de l'OmegaT sincronitza la memòria de traducció del projecte &lt;l0/&gt; i el glossari modificable del projecte &lt;l1/&gt; entre el servidor d'allotjament i tots els membres participants de l'equip, i gestiona tots els possibles conflictes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An OmegaT translation project consists of a number of resources in separate folders.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T135050Z" creationid="Marc Riera" creationdate="20221206T135050Z">
@@ -8198,6 +8206,14 @@ inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T143658Z" creationid="Marc Riera" creationdate="20221211T143658Z">
         <seg>Com en els projectes locals normals, la configuració del projecte en equip es defineix segons el contingut del fitxer &lt;f0&gt;omegat.project&lt;/f0&gt; i l'ús opcional de fitxers especials per a filtres o regles de segmentació específics del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As information on those topics is readily available, this manual limits itself to describing their use in the context of an OmegaT team project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T141330Z" creationid="Marc Riera" creationdate="20230130T141330Z">
+        <seg>Com que hi ha molta informació disponible sobre aquests temes, aquest manual es limita a descriure el seu ús en el context d'un projecte en equip de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12468,8 +12484,8 @@ si cal fer res més.</seg>
       <tuv lang="en">
         <seg>Create an empty repository on your VCS hosting server</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T182327Z" creationid="Marc Riera" creationdate="20221217T182327Z">
-        <seg>Creació d'un dipòsit buit en el servidor d'allotjament del sistema de control de versions</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T141217Z" creationid="Marc Riera" creationdate="20221217T182327Z">
+        <seg>Creació d'un dipòsit buit en el servidor d'allotjament del VCS</seg>
       </tuv>
     </tu>
     <tu>
@@ -19734,6 +19750,14 @@ l'hivern ja és aquí.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here are the steps to set up a team project:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T141412Z" creationid="Marc Riera" creationdate="20230130T141412Z">
+        <seg>Aquests són els passos per a crear un projecte en equip:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here is a possible alternative:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T190222Z" creationid="Marc Riera" creationdate="20230104T190222Z">
@@ -21322,6 +21346,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If you are creating a new empty project, you can follow the &lt;l0&gt;GUI procedure&lt;/l0&gt;, or create it directly from the command line: &lt;c1&gt;java -jar OmegaT.jar team init &lt;source language&gt; &lt;target language&gt;&lt;/c1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T142424Z" creationid="Marc Riera" creationdate="20230130T142424Z">
+        <seg>Si esteu creant un projecte nou buit, podeu seguir el &lt;l0&gt;procediment amb la GUI&lt;/l0&gt; o crear-lo directament des de la línia d'ordres: &lt;c1&gt;java -jar OmegaT.jar team init &lt;llengua d'origen&gt; &lt;llengua de destinació&gt;&lt;/c1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
@@ -21721,6 +21753,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T090951Z" creationid="Marc Riera" creationdate="20221231T090951Z">
         <seg>Si necessiteu ajuda per a un cas concret, també podeu preguntar-ho en els diferents canals d'assistència.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need to perform translation or review tasks on that project, use OmegaT to download a separate copy of the team project and work from there.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T141502Z" creationid="Marc Riera" creationdate="20230130T141502Z">
+        <seg>Si heu de fer tasques de traducció o revisió en aquest projecte, utilitzeu l'OmegaT per a baixar una còpia independent del projecte en equip i treballeu des d'allà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25912,6 +25952,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T223809Z" creationid="Marc Riera" creationdate="20221211T223809Z">
         <seg>Gestió de les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Managing a team project calls for some knowledge of either the &lt;e0&gt;SVN&lt;/e0&gt; or &lt;e1&gt;Git&lt;/e1&gt; version control system (&lt;e2&gt;VCS&lt;/e2&gt; in the rest of this section).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T141207Z" creationid="Marc Riera" creationdate="20230130T141207Z">
+        <seg>La gestió d'un projecte en equip requereix un cert coneixement dels sistemes de control de versions &lt;e0&gt;SVN&lt;/e0&gt; o &lt;e1&gt;Git&lt;/e1&gt; (&lt;e2&gt;VCS&lt;/e2&gt; al llarg d'aquesta secció).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34376,8 +34424,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Register the project files into the local VCS</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T182435Z" creationid="Marc Riera" creationdate="20221217T182435Z">
-        <seg>Registre dels fitxers del projecte amb el sistema de control de versions local</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T141243Z" creationid="Marc Riera" creationdate="20221217T182435Z">
+        <seg>Registre dels fitxers del projecte amb el VCS local</seg>
       </tuv>
     </tu>
     <tu>
@@ -44293,6 +44341,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The local repository is used to add the initial project to the server, and can also be used for maintenance tasks, such as deleting files, that cannot be performed directly within OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T141438Z" creationid="Marc Riera" creationdate="20230130T141438Z">
+        <seg>El dipòsit local s'utilitza per a afegir el projecte inicial al servidor, i també es pot utilitzar per a tasques de manteniment, com ara la supressió de fitxers, que no es poden fer directament des de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The location depends on the operating system and launch options.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T163132Z" creationid="Marc Riera" creationdate="20221201T163132Z">
@@ -51461,8 +51517,8 @@ El valor actual és de {0} MB.</seg>
       <tuv lang="en">
         <seg>Use the local VCS to make a local copy (clone)</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T182343Z" creationid="Marc Riera" creationdate="20221217T182343Z">
-        <seg>Ús del sistema de control de versions local per a crear una còpia local (clonació)</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T141226Z" creationid="Marc Riera" creationdate="20221217T182343Z">
+        <seg>Ús del VCS local per a crear una còpia local (clonació)</seg>
       </tuv>
     </tu>
     <tu>
