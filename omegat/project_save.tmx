@@ -14650,6 +14650,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T121838Z" creationid="Marc Riera" creationdate="20230130T121838Z">
+        <seg>Feu doble clic en el fitxer &lt;f0&gt;OmegaT.app&lt;/f0&gt; o feu clic en la ubicació del dock.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Double-click on the OmegaT application.</seg>
@@ -43951,6 +43959,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The package also provides the &lt;f0&gt;omegat.kaptn&lt;/f0&gt; Kaptain script, which KDE users might find useful, as well as an &lt;f1&gt;OmegaT&lt;/f1&gt; bash script that automatically launches the appropriate &lt;a2&gt;java&lt;/a2&gt; command to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T120625Z" creationid="Marc Riera" creationdate="20230130T120625Z">
+        <seg>El paquet també proporciona l'script del Kaptain &lt;f0&gt;omegat.kaptn&lt;/f0&gt;, que pot ser útils per als usuaris del KDE, així com un script del Bash anomenat &lt;f1&gt;OmegaTl&lt;/f1&gt; que inicia automàticament l'ordre &lt;a2&gt;java&lt;/a2&gt; adequada per a executar l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The password cannot be empty.</seg>
@@ -53034,6 +53050,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly if the &lt;f1&gt;.jar&lt;/f1&gt; extension is associated with the system Java launcher.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T120527Z" creationid="Marc Riera" creationdate="20230130T120527Z">
+        <seg>També podeu fer clic en el fitxer &lt;f0&gt;OmegaT.jar&lt;/f0&gt; per a iniciar-lo directament si l'extensió &lt;f1&gt;.jar&lt;/f1&gt; està associada amb l'iniciador del Java del sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also define global post-processing commands available to all projects that share the same configuration folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T120345Z" creationid="Marc Riera" creationdate="20221206T120345Z">
@@ -53505,6 +53529,14 @@ installation script (linux-install.sh).</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T165910Z" creationid="Marc Riera" creationdate="20200122T230807Z">
         <seg>Tanmateix, podeu obtenir una instal·lació més ordenada i amigable mitjançant
 l'script d'instal·lació (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can launch OmegaT from the command line with a script that includes start-up options.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T120502Z" creationid="Marc Riera" creationdate="20230130T120502Z">
+        <seg>Podeu iniciar l'OmegaT des de la línia d'ordres amb un script que inclou opcions d'inici.</seg>
       </tuv>
     </tu>
     <tu>
