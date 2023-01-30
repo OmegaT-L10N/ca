@@ -22390,6 +22390,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In team projects that use a simple mapping between the local repository and the remote repository (the default), &lt;e0&gt;and only in such projects&lt;/e0&gt;, the source and target files can be modified locally and uploaded to the server using &lt;l1/&gt;&lt;l2/&gt; and &lt;l3/&gt;&lt;l4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T143447Z" creationid="Marc Riera" creationdate="20230130T143447Z">
+        <seg>En els projectes en equip que utilitzen una assignació senzilla entre el dipòsit local i el dipòsit remot (el comportament per defecte), &lt;e0&gt;i només en aquests projectes&lt;/e0&gt;, els fitxers d'origen i destinació es poden modificar localment i pujar al servidor utilitzant &lt;l1/&gt;&lt;l2/&gt; i &lt;l3/&gt;&lt;l4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In that case, OmegaT shares information with online services:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230108T124918Z" creationid="Marc Riera" creationdate="20230108T124918Z">
@@ -45575,6 +45583,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The team project administrator must use the local VCS to &lt;e0&gt;modify&lt;/e0&gt; or &lt;e1&gt;delete&lt;/e1&gt; those files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T143505Z" creationid="Marc Riera" creationdate="20230130T143505Z">
+        <seg>L'administrador del projecte en equip ha d'utilitzar el VCS local per a &lt;e0&gt;modificar&lt;/e0&gt; o &lt;e1&gt;suprimir&lt;/e1&gt; aquests fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The technical approach</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T123952Z" creationid="Marc Riera" creationdate="20221211T123952Z">
@@ -47794,6 +47810,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T184638Z" creationid="Marc Riera" creationdate="20191110T184607Z">
         <seg>Aquest lloc també està disponible en català!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This step can be performed before the registering and publishing the project for the first time, and can also be used to add new files, or update existing ones after the project has been created.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T143353Z" creationid="Marc Riera" creationdate="20230130T143353Z">
+        <seg>Aquest pas es pot fer abans de registrar i publicar el projecte per primera vegada, i també es pot utilitzar per a afegir fitxers nous o actualitzar els existents després de crear el projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54886,6 +54910,14 @@ un comportament inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T111857Z" creationid="Marc Riera" creationdate="20180221T111857Z">
         <seg>Escriviu un número de l'1 al {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must use your SVN or Git client, or the command line, to add and publish any dictionaries, glossaries, translation memories or other files you want to include in the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T143326Z" creationid="Marc Riera" creationdate="20230130T143326Z">
+        <seg>Heu d'utilitzar un client de l'SVN o el Git, o bé la línia d'ordres, per a afegir i publicar diccionaris, glossaris, memòries de traducció o altres fitxers que vulgueu incloure en el projecte.</seg>
       </tuv>
     </tu>
     <tu>
