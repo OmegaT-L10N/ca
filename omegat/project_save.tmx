@@ -23884,6 +23884,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is also possible to use a team project configuration where several translators share the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file, and only a subset of the other files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T153319Z" creationid="Marc Riera" creationdate="20230130T153319Z">
+        <seg>També és possible utilitzar una configuració de projecte en equip en què diversos traductors comparteixin el fitxer &lt;f0&gt;project.save.tmx&lt;/f0&gt; i només un subconjunt de la resta de fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is automatically created the first time a term is added.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T094802Z" creationid="Marc Riera" creationdate="20221225T094802Z">
@@ -25745,6 +25753,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144904Z" creationid="Marc Riera" creationdate="20230105T144904Z">
         <seg>Les ordres de cerca externa locals es desen en el fitxer &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local file mapping:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T153109Z" creationid="Marc Riera" creationdate="20230130T153109Z">
+        <seg>Assignació de fitxers locals:</seg>
       </tuv>
     </tu>
     <tu>
@@ -38974,6 +38990,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selective sharing</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T153215Z" creationid="Marc Riera" creationdate="20230130T153215Z">
+        <seg>Ús compartit selectiu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selects the previous, next or &lt;v0&gt;n&lt;/v0&gt;th fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220830Z" creationid="Marc Riera" creationdate="20221208T220830Z">
@@ -43316,6 +43340,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The above process describes the most common scenario, in which the team project administrator has full control of the project and all files (and statistics) are identical in all instances of the project, both on the server and the local systems of the translators.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T153247Z" creationid="Marc Riera" creationdate="20230130T153247Z">
+        <seg>El procés anterior descriu el cas més habitual, en què l'administrador del projecte en equip té tot el control del projecte i tots els fitxers (i estadístiques) són idèntics en totes les instàncies del projecte, tant en el servidor com en els sistemes locals dels traductors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The action associated with an item also hints at its function in case the display fails to convey the visual differences: &lt;e0&gt;use&lt;/e0&gt; a menu item, or &lt;e1&gt;click&lt;/e1&gt; on a button.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221226T225322Z" creationid="Marc Riera" creationdate="20221226T225322Z">
@@ -43465,6 +43497,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T142114Z" creationid="Marc Riera" creationdate="20221211T142114Z">
         <seg>Els fitxers de còpia de seguretat es conserven durant un mínim de deu dies i les còpies de seguretat més antigues se suprimeixen automàticament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The basic procedure is essentially the same, except that the team project administrator does not add every file to the version-controlled project on the server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T153339Z" creationid="Marc Riera" creationdate="20230130T153339Z">
+        <seg>El procediment bàsic és essencialment el mateix, excepte que l'administrador del projecte en equip no afegeix tots els fitxers al projecte amb control de versions del servidor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45152,6 +45192,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project will not load if a file specified in a mapping does not exist.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T153209Z" creationid="Marc Riera" creationdate="20230130T153209Z">
+        <seg>El projecte no es carregarà si no existeix un fitxer especificat en una assignació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project will store the new set of external searches in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder, and the settings will supersede the global external searches settings.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T093729Z" creationid="Marc Riera" creationdate="20221225T093729Z">
@@ -45236,6 +45284,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215035Z" creationid="Marc Riera" creationdate="20221123T215035Z">
         <seg>Les ubicacions recomanades o per defecte són les següents:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The remaining files are either copied by the translators themselves, or mappings that synchronize files from other locations are defined.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T153401Z" creationid="Marc Riera" creationdate="20230130T153401Z">
+        <seg>Els fitxers restants els copien els mateixos traductors o es defineixen assignacions que sincronitzen fitxers d'altres ubicacions.</seg>
       </tuv>
     </tu>
     <tu>
