@@ -8952,6 +8952,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Both are available from the &lt;g2&gt;System Tools&lt;/g2&gt; folder of the &lt;g3&gt;Start Menu&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133325Z" creationid="Marc Riera" creationdate="20230130T133325Z">
+        <seg>Tots dos estan disponibles en la carpeta &lt;g2&gt;Eines del sistema&lt;/g2&gt; del &lt;g3&gt;Menú Inicia&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Both dialogs allow you to customize the filename patterns for the source and target files associated to this the filter, and select their respective encoding.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T083704Z" creationid="Marc Riera" creationdate="20221214T083704Z">
@@ -18102,6 +18110,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>For the sake of simplicity, this manual refers to it as the terminal.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133247Z" creationid="Marc Riera" creationdate="20230130T133247Z">
+        <seg>Per a simplificar-ho, aquest manual s'hi refereix com a terminal.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>For this purpose download the following file and then execute it:</seg>
@@ -19562,6 +19578,14 @@ l'hivern ja és aquí.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T091010Z" creationid="Marc Riera" creationdate="20221231T091010Z">
         <seg>Aquí en teniu alguns exemples.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here are the default OmegaT.jar locations for each major platform:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133528Z" creationid="Marc Riera" creationdate="20230130T133528Z">
+        <seg>Aquí teniu les ubicacions per defecte del fitxer OmegaT.jar per a cada plataforma principal:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22283,6 +22307,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163330Z" creationid="Marc Riera" creationdate="20220625T163330Z">
         <seg>En el document de destinació, no apareixerà res per a aquest segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the terminal, you type commands and their associated parameters to perform tasks.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133428Z" creationid="Marc Riera" creationdate="20230130T133428Z">
+        <seg>En el terminal s'escriuen ordres i els paràmetres associats per a realitzar tasques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30256,6 +30288,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Linux, the default terminal application for your distribution should be available from the application menu or one of its submenus.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133416Z" creationid="Marc Riera" creationdate="20230130T133416Z">
+        <seg>En el Linux, hauríeu de trobar l'aplicació de terminal per defecte de la vostra distribució en el menú d'aplicacions o un dels submenús.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202134Z" creationid="Marc Riera" creationdate="20221206T202134Z">
@@ -30336,10 +30376,34 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows, the &lt;c0&gt;\&lt;/c0&gt; character is used to separate folder and file names, while macOS and Linux use the &lt;c1&gt;/&lt;/c1&gt; to do so.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133513Z" creationid="Marc Riera" creationdate="20230130T133513Z">
+        <seg>En el Windows, s'utilitza el caràcter &lt;c0&gt;\&lt;/c0&gt; per a separar noms de carpetes i fitxers, mentre que el macOS i el Linux utilitzen &lt;c1&gt;/&lt;/c1&gt; amb la mateixa funció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On Windows, you can use either the &lt;a0&gt;Command Prompt&lt;/a0&gt; or &lt;a1&gt;Powershell&lt;/a1&gt; as a terminal.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133305Z" creationid="Marc Riera" creationdate="20230130T133305Z">
+        <seg>En el Windows, podeu utilitzar la &lt;a0&gt;Línia d'ordres&lt;/a0&gt; o el &lt;a1&gt;Powershell&lt;/a1&gt; com a terminal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On macOS</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202234Z" creationid="Marc Riera" creationdate="20221206T202234Z">
         <seg>macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS, it is also possible to use &lt;f0&gt;OmegaT.app&lt;/f0&gt; directly in the terminal, in which case java parameters cannot be added:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133648Z" creationid="Marc Riera" creationdate="20230130T133648Z">
+        <seg>En el macOS, també és possible utilitzar &lt;f0&gt;OmegaT.app&lt;/f0&gt; directament en el terminal; en aquest cas, no es poden afegir paràmetres del Java:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30404,6 +30468,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202923Z" creationid="Marc Riera" creationdate="20230101T202923Z">
         <seg>macOS: &lt;k0&gt;F3&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On modern systems, the CLI is accessed through an application generally called a "terminal" or "console".</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133233Z" creationid="Marc Riera" creationdate="20230130T133233Z">
+        <seg>En els sistemes moderns, s'accedeix a la CLI a través d'una aplicació generalment anomenada «terminal» o «console».</seg>
       </tuv>
     </tu>
     <tu>
@@ -31386,6 +31458,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T203949Z" creationid="Marc Riera" creationdate="20201010T203949Z">
         <seg>Sistema operatiu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Optional parameters accepted by the &lt;c0&gt;java&lt;/c0&gt; command.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133742Z" creationid="Marc Riera" creationdate="20230130T133742Z">
+        <seg>Paràmetres opcionals acceptats per l'ordre &lt;c0&gt;java&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34729,6 +34809,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Replace &lt;c0&gt;LL&lt;/c0&gt; with the desired two-letter language code from the &lt;u1&gt;ISO 639.1&lt;/u1&gt; list.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134351Z" creationid="Marc Riera" creationdate="20230130T134351Z">
+        <seg>Substituïu &lt;c0&gt;LL&lt;/c0&gt; pel codi de llengua de dues lletres que vulgueu de la llista &lt;u1&gt;ISO 639.1&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Replace Translation with Match or Selection</seg>
@@ -34804,6 +34892,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233503Z" creationid="Marc Riera" creationdate="20221226T233503Z">
         <seg>Substituïu-lo per un espai no separable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace it with the actual location of the file on your system.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133552Z" creationid="Marc Riera" creationdate="20230130T133552Z">
+        <seg>Substituïu-la per la ubicació real del fitxer en el sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41604,6 +41700,14 @@ L'àmbit d'una substitució de text són els segments de destinació del project
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>That location is presented as &lt;f0&gt;path/to/OmegaT.jar&lt;/f0&gt; in this chapter.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133543Z" creationid="Marc Riera" creationdate="20230130T133543Z">
+        <seg>Aquesta ubicació es presenta com a &lt;f0&gt;camí/a/OmegaT.jar&lt;/f0&gt; en aquest capítol.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
@@ -43757,6 +43861,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The list below presents parameters for the &lt;c0&gt;java&lt;/c0&gt; command that can be useful when working with OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133832Z" creationid="Marc Riera" creationdate="20230130T133832Z">
+        <seg>La llista següent presenta paràmetres per a l'ordre &lt;c0&gt;java&lt;/c0&gt; que poden ser útils quan es treballa amb l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The list below this item displays 12 potential slots for scripts.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T221815Z" creationid="Marc Riera" creationdate="20221207T221803Z">
@@ -43805,10 +43917,26 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The location of the OmegaT java executable.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133804Z" creationid="Marc Riera" creationdate="20230130T133804Z">
+        <seg>Ubicació de l'executable del Java de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The location of the default configuration folder varies by system (the &lt;e0&gt;~&lt;/e0&gt; character represents your home folder):</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081603Z" creationid="Marc Riera" creationdate="20221201T081603Z">
         <seg>La ubicació de la carpeta de configuració per defecte varia segons el sistema (el caràcter &lt;e0&gt;~&lt;/e0&gt; representa la carpeta d'inici):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The macOS equivalent is the &lt;a0&gt;Terminal&lt;/a0&gt; application located in the &lt;f1&gt;Utilities&lt;/f1&gt; folder of the &lt;f2&gt;Applications&lt;/f2&gt; main folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133347Z" creationid="Marc Riera" creationdate="20230130T133347Z">
+        <seg>L'equivalent del macOS és l'aplicació &lt;a0&gt;Terminal&lt;/a0&gt; situada en la carpeta principal &lt;f1&gt;Utilitats&lt;/f1&gt; de la carpeta principal &lt;f2&gt;Aplicacions&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44024,6 +44152,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The options specific to OmegaT are described &lt;l0&gt;later in this section&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133822Z" creationid="Marc Riera" creationdate="20230130T133822Z">
+        <seg>Les opcions específiques de l'OmegaT es descriuen &lt;l0&gt;més endavant en aquesta secció&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The original file is backed up as: {0}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T174200Z" creationid="Marc Riera" creationdate="20221117T174144Z">
@@ -44052,6 +44188,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T120625Z" creationid="Marc Riera" creationdate="20230130T120625Z">
         <seg>El paquet també proporciona l'script del Kaptain &lt;f0&gt;omegat.kaptn&lt;/f0&gt;, que pot ser útils per als usuaris del KDE, així com un script del Bash anomenat &lt;f1&gt;OmegaTl&lt;/f1&gt; que inicia automàticament l'ordre &lt;a2&gt;java&lt;/a2&gt; adequada per a executar l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The parameters relevant to running OmegaT are described &lt;l1&gt;below&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133752Z" creationid="Marc Riera" creationdate="20230130T133752Z">
+        <seg>Els paràmetres rellevants per a executar l'OmegaT es descriuen &lt;l1&gt;a continuació&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44842,6 +44986,22 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215936Z" creationid="Marc Riera" creationdate="20221207T215936Z">
         <seg>Els formats de fitxer admesos depenen de la configuració del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The syntax to launch OmegaT from the terminal is:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133607Z" creationid="Marc Riera" creationdate="20230130T133607Z">
+        <seg>La sintaxi per a iniciar l'OmegaT des del terminal és:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The syntax used to specify the location of an application or folder depends on the platform.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133445Z" creationid="Marc Riera" creationdate="20230130T133445Z">
+        <seg>La sintaxi utilitzada per a especificar la ubicació d'una aplicació o carpeta depèn de la plataforma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46137,6 +46297,14 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>This command tells the Java Virtual Machine to run a Jar package.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133736Z" creationid="Marc Riera" creationdate="20230130T133736Z">
+        <seg>Aquesta ordre indica a la màquina virtual del Java que executi un paquet jar.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This command will be executed after Creating Translated Documents.</seg>
@@ -46692,6 +46860,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201120T161206Z" creationid="Alexandra" creationdate="20150526T133047Z">
         <seg>Aquesta llista de correu és per a la localització de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This makes it easy to perform certain tasks that would be difficult to perform using a graphical interface.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133438Z" creationid="Marc Riera" creationdate="20230130T133438Z">
+        <seg>Això fa que sigui fàcil realitzar certes tasques que serien difícils mitjançant una interfície gràfica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58652,6 +58828,16 @@ for (i in 0 ..&lt; files.size())
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>open path/to/OmegaT.app
+		-n --args &lt;OmegaT options&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133706Z" creationid="Marc Riera" creationdate="20230130T133706Z">
+        <seg>open camí/a/OmegaT.app
+		-n --args &lt;opcions de l'OmegaT&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>optionsAccessConfigDirMenuItem</seg>
@@ -60277,6 +60463,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T102945Z" creationid="Marc Riera" creationdate="20221206T102945Z">
         <seg>on &lt;p0&gt;&lt;joc de caràcters&gt;&lt;/p0&gt; és, normalment, un dels jocs de caràcters del &lt;u1&gt;Registre de jocs de caràcters de la IANA&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;u0&gt;-n&lt;/u0&gt; is used to create a new instance of OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133721Z" creationid="Marc Riera" creationdate="20230130T133721Z">
+        <seg>on &lt;u0&gt;-n&lt;/u0&gt; s'utilitza per a crear una instància nova de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
