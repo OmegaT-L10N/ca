@@ -4379,6 +4379,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Use this function only if the team project manager asked you to do so&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162915Z" creationid="Marc Riera" creationdate="20230130T162915Z">
+        <seg>&lt;e0&gt;Utilitzeu aquesta funció només si el gestor del projecte en equip us ho ha demanat&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Use this function only if the team project manager requested so&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T172931Z" creationid="Marc Riera" creationdate="20221210T172931Z">
@@ -4931,6 +4939,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Tag Issues&lt;/g0&gt; (always selected): detects missing or misplaced tags, including custom tags and flagged text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163313Z" creationid="Marc Riera" creationdate="20230130T163313Z">
+        <seg>&lt;g0&gt;Errors d'etiquetes&lt;/g0&gt; (seleccionat sempre): detecta les etiquetes que falten o estan mal col·locades, incloent-hi les etiquetes personalitzades i el text marcat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Target&lt;/g0&gt;: The segments from the translated text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201900Z" creationid="Marc Riera" creationdate="20221206T201900Z">
@@ -5336,6 +5352,38 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084520Z" creationid="Marc Riera" creationdate="20221214T084520Z">
         <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt;: &lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;Associate&lt;/l0&gt; the format to an already supported format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162648Z" creationid="Marc Riera" creationdate="20230130T162648Z">
+        <seg>&lt;l0&gt;Associeu&lt;/l0&gt; el format a un format ja compatible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;Convert&lt;/l0&gt; the format to an already supported format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162654Z" creationid="Marc Riera" creationdate="20230130T162654Z">
+        <seg>&lt;l0&gt;Convertiu&lt;/l0&gt; el format a un format ja compatible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;Develop&lt;/l0&gt; a filter for the format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162706Z" creationid="Marc Riera" creationdate="20230130T162706Z">
+        <seg>&lt;l0&gt;Desenvolupeu&lt;/l0&gt; un filtre per al format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;Extend&lt;/l0&gt; OmegaT with third-party plugins that support the format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162700Z" creationid="Marc Riera" creationdate="20230130T162700Z">
+        <seg>&lt;l0&gt;Amplieu&lt;/l0&gt; l'OmegaT amb connectors de tercers que ofereixin compatibilitat amb el format.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7541,6 +7589,30 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T075104Z" creationid="mgalo" creationdate="20181111T230655Z">
         <seg>Permet veure, afegir, suprimir o editar una nota en el segment actiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allows you to activate or deactivate fuzzy matching for dictionary maches.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162817Z" creationid="Marc Riera" creationdate="20230130T162817Z">
+        <seg>Us permet activar o desactivar les coincidències parcials per a les coincidències del diccionari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allows you to activate or deactivate fuzzy matching for glossary maches.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162811Z" creationid="Marc Riera" creationdate="20230130T162811Z">
+        <seg>Us permet activar o desactivar les coincidències parcials per a les coincidències del glossari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allows you to activate or deactivate the available machine translation engines.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162808Z" creationid="Marc Riera" creationdate="20230130T162808Z">
+        <seg>Us permet activar o desactivar els motors de traducció automàtica disponibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11099,6 +11171,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clicking a column header changes the sort order for that column.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163320Z" creationid="Marc Riera" creationdate="20230130T163320Z">
+        <seg>Si feu clic en la capçalera d'una columna, es canvia l'ordre de la columna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clicking on an assigned slot launches the script assigned to that slot.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T221832Z" creationid="Marc Riera" creationdate="20221207T221832Z">
@@ -13296,8 +13376,8 @@ si cal fer res més.</seg>
       <tuv lang="en">
         <seg>Cursor lock</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202931Z" creationid="Marc Riera" creationdate="20230101T202931Z">
-        <seg>Bloqueig del cursor</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163124Z" creationid="Marc Riera" creationdate="20230101T202931Z">
+        <seg>Blocatge del cursor</seg>
       </tuv>
     </tu>
     <tu>
@@ -14654,8 +14734,8 @@ si cal fer res més.</seg>
       <tuv lang="en">
         <seg>Do not lock the omegat.project file.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135023Z" creationid="Marc Riera" creationdate="20230130T135023Z">
-        <seg>No bloquegis el fitxer omegat.project.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163202Z" creationid="Marc Riera" creationdate="20230130T135023Z">
+        <seg>No bloquis el fitxer omegat.project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15022,6 +15102,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T083629Z" creationid="Marc Riera" creationdate="20221214T083629Z">
         <seg>Feu doble clic en els camps editables per a aplicar modificacions senzilles o feu clic en el botó &lt;g0&gt;Edita...&lt;/g0&gt; per a accedir al quadre de diàleg de modificació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-clicking a row activates the corresponding segment in the Editor pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163316Z" creationid="Marc Riera" creationdate="20230130T163316Z">
+        <seg>Si feu doble clic en una fila, s'activa el segment corresponent en la subfinestra «Editor».</seg>
       </tuv>
     </tu>
     <tu>
@@ -22759,8 +22847,8 @@ feu doble clic en la drecera.</seg>
       <tuv lang="en">
         <seg>In the rare case where your computer freezes and OmegaT does not have time to close properly, some important files can be corrupted and keep your project from reopening after you reboot your system.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120540Z" creationid="Marc Riera" creationdate="20221225T120540Z">
-        <seg>En casos poc habituals en què l'ordinador es bloquegi i l'OmegaT no tingui temps de tancar-se correctament, alguns fitxers importants poden quedar trencats i impedir que es pugui tornar a obrir el projecte després de reiniciar l'ordinador.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163153Z" creationid="Marc Riera" creationdate="20221225T120540Z">
+        <seg>En casos poc habituals en què l'ordinador es bloqui i l'OmegaT no tingui temps de tancar-se correctament, alguns fitxers importants poden quedar trencats i impedir que es pugui tornar a obrir el projecte després de reiniciar l'ordinador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24782,8 +24870,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>LCK</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T100142Z" creationid="Marc Riera" creationdate="20191112T220157Z">
-        <seg>BLOQ</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163137Z" creationid="Marc Riera" creationdate="20191112T220157Z">
+        <seg>BLOC</seg>
       </tuv>
     </tu>
     <tu>
@@ -29652,6 +29740,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT automatically saves translations every three minutes as well as when you close the project or quit the program.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162851Z" creationid="Marc Riera" creationdate="20230130T162851Z">
+        <seg>L'OmegaT desa automàticament les traduccions cada tres minuts i quan tanqueu el projecte o sortiu del programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically selects the tokenizers that correspond to the source and target languages but you can manually modify the settings.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T105908Z" creationid="Marc Riera" creationdate="20221206T105908Z">
@@ -31112,8 +31208,8 @@ la carpeta d'inici.</seg>
       <tuv lang="en">
         <seg>On some platforms, the omegat.project file is locked by default and attempting to open an already open project in another instance of OmegaT results in an error.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135054Z" creationid="Marc Riera" creationdate="20230130T135054Z">
-        <seg>En algunes plataformes, el fitxer omegat.project està bloquejat per defecte i es produeix un error si s'intenta obrir un projecte que ja està obert en una altra instància de l'OmegaT.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163108Z" creationid="Marc Riera" creationdate="20230130T135054Z">
+        <seg>En algunes plataformes, el fitxer omegat.project està blocat per defecte i es produeix un error si s'intenta obrir un projecte que ja està obert en una altra instància de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32047,6 +32143,30 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T181646Z" creationid="Marc Riera" creationdate="20221210T181646Z">
         <seg>Obre el fitxer amb l'aplicació associada si existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the file in the associated application if the file exists.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163015Z" creationid="Marc Riera" creationdate="20230130T163015Z">
+        <seg>Obre el fitxer amb l'aplicació associada, si el fitxer existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the file in the associated application.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163004Z" creationid="Marc Riera" creationdate="20230130T163004Z">
+        <seg>Obre el fitxer amb l'aplicació associada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the folder in your default file manager.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162957Z" creationid="Marc Riera" creationdate="20230130T162957Z">
+        <seg>Obre la carpeta amb el gestor de fitxers per defecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34119,8 +34239,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Project locked.</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181115T225850Z" creationid="mgalo" creationdate="20181115T225850Z">
-        <seg>S'ha bloquejat el projecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163056Z" creationid="mgalo" creationdate="20181115T225850Z">
+        <seg>S'ha blocat el projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39044,6 +39164,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the various options to activate or deactivate them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162822Z" creationid="Marc Riera" creationdate="20230130T162822Z">
+        <seg>Seleccioneu les diferents opcions per a activar-les o desactivar-les.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the various options to activate them.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160738Z" creationid="Marc Riera" creationdate="20221201T160738Z">
@@ -39091,6 +39219,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T223805Z" creationid="Marc Riera" creationdate="20201003T223805Z">
         <seg>Opcions seleccionades:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting or mousing over a row displays a context menu icon in the last column.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163544Z" creationid="Marc Riera" creationdate="20230130T163544Z">
+        <seg>Si seleccioneu una fila o hi passeu el ratolí, es mostra una icona de menú contextual en la darrera columna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44787,6 +44923,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The local file &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/file.txt&lt;/f1&gt; and &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; is mapped to the local file &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162625Z" creationid="Marc Riera" creationdate="20230130T162625Z">
+        <seg>El fitxer local &lt;f0&gt;/home/usuari/fiitxers/primer/fitxer.txt&lt;/f0&gt; està assignat al fitxer local &lt;f1&gt;source/fitxer.txt&lt;/f1&gt; i &lt;f2&gt;/home/usuari/fitxers/segon/fitxer.txt&lt;/f2&gt; està assignat al fitxer local &lt;f3&gt;source/fitxer2&gt;txt&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The local repository is used to add the initial project to the server, and can also be used for maintenance tasks, such as deleting files, that cannot be performed directly within OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T141438Z" creationid="Marc Riera" creationdate="20230130T141438Z">
@@ -45778,6 +45922,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T095247Z" creationid="Marc Riera" creationdate="20221225T095247Z">
         <seg>Podeu baixar el codi font de la versió actual directament des de la &lt;u0&gt;pàgina de baixada&lt;/u0&gt; de l'OmegaT, o bé clonar-lo des dels dipòsits de &lt;u1&gt;Sourceforge&lt;/u1&gt; o &lt;u2&gt;GitHub&lt;/u2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source data of the page will be copied into the &lt;l0/&gt; folder, as a text file with the &lt;f1&gt;.utf8&lt;/f1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162904Z" creationid="Marc Riera" creationdate="20230130T162904Z">
+        <seg>Les dades originals de la pàgina es copiaran a la carpeta &lt;l0/&gt;, com a fitxer de text amb l'extensió &lt;f1&gt;.utf8&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47959,6 +48111,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This menu gives you access to a number of tools, including QA validation, match reports, an aligner, and scripting.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163300Z" creationid="Marc Riera" creationdate="20230130T163300Z">
+        <seg>Aquest menú us dona accés a una sèrie d'eines, incloent-hi un control de qualitat, informes de coincidències, un alineador i scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This menu gives you access to a number of tools, including QA validation, match reports, an aligner, scripting, etc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T224854Z" creationid="Marc Riera" creationdate="20221230T224854Z">
@@ -49181,8 +49341,8 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       <tuv lang="en">
         <seg>Toggle Cursor Lock</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221217T180604Z" creationid="Marc Riera" creationdate="20221217T180604Z">
-        <seg>Habilita o inhabilita el bloqueig del cursor</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163120Z" creationid="Marc Riera" creationdate="20221217T180604Z">
+        <seg>Habilita o inhabilita el blocatge del cursor</seg>
       </tuv>
     </tu>
     <tu>
@@ -50140,8 +50300,8 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       <tuv lang="en">
         <seg>UNL</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T100145Z" creationid="Marc Riera" creationdate="20191112T220202Z">
-        <seg>DESBLOQ</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163139Z" creationid="Marc Riera" creationdate="20191112T220202Z">
+        <seg>DESBLOC</seg>
       </tuv>
     </tu>
     <tu>
@@ -50974,6 +51134,14 @@ Versió nova: {2}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T172956Z" creationid="Marc Riera" creationdate="20221210T172956Z">
         <seg>Puja els fitxers creats localment de la carpeta &lt;l0/&gt; al dipòsit del projecte en equip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uploads locally created translated files from the &lt;l0/&gt; folder to the team project repository.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162927Z" creationid="Marc Riera" creationdate="20230130T162927Z">
+        <seg>Puja els fitxers traduïts creats localment de la carpeta &lt;l0/&gt; al dipòsit del projecte en equip.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51948,6 +52116,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T091042Z" creationid="Marc Riera" creationdate="20221231T091042Z">
         <seg>Utilitzeu el caràcter &lt;c0&gt;|&lt;/c0&gt; (OR) per a separar definicions d'etiquetes individuals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;g0&gt;Clear Menu&lt;/g0&gt; function to delete the list of recent projects.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162832Z" creationid="Marc Riera" creationdate="20230130T162832Z">
+        <seg>Utilitzeu la funció &lt;g0&gt;Esborra el menú&lt;/g0&gt; per a suprimir la llista de projectes recents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53254,6 +53430,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
         <seg>When reloading a team project, OmegaT reloads the remote properties, not the local properties.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193241Z" creationid="Marc Riera" creationdate="20221230T193241Z">
+        <seg>Quan es torna a carregar un projecte en equip, l'OmegaT torna a carregar les propietats remotes, no les propietats locals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When reloading a team project, OmegaT reloads the remote, rather than the local, properties.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162840Z" creationid="Marc Riera" creationdate="20230130T162840Z">
         <seg>Quan es torna a carregar un projecte en equip, l'OmegaT torna a carregar les propietats remotes, no les propietats locals.</seg>
       </tuv>
     </tu>
@@ -55040,6 +55224,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225402Z" creationid="Marc Riera" creationdate="20201003T225402Z">
         <seg>Si voleu, podeu superposar les subfinestres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can prevent the creation of target files if tag issues are found.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162940Z" creationid="Marc Riera" creationdate="20230130T162940Z">
+        <seg>Podeu impedir la creació dels fitxers de destinació si hi ha errors d'etiquetes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58676,6 +58868,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200122T231039Z" creationid="Marc Riera" creationdate="20200122T231039Z">
         <seg>https://omegat.org/support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.readthedocs.io/en/latest/11.HowToCreateFilterPlugin/</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162715Z" creationid="Marc Riera" creationdate="20230130T162715Z">
+        <seg>https://omegat.readthedocs.io/en/latest/11.HowToCreateFilterPlugin/</seg>
       </tuv>
     </tu>
     <tu>
