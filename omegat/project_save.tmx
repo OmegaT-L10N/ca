@@ -3271,6 +3271,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--output-file=[stats-output-file]</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T140431Z" creationid="Marc Riera" creationdate="20230130T140431Z">
+        <seg>--output-file=[fitxer de sortida d'estadístiques]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--output-file=[stats-output-file]
 	    Prints to the specified file, or to standard output
 	    if no file is given or the option is not used.</seg>
@@ -3430,6 +3438,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202215Z" creationid="Marc Riera" creationdate="20221210T202215Z">
         <seg>--script=&lt;e0&gt;&lt;e1&gt;&lt;camí&gt;&lt;/e1&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--script=&lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T140533Z" creationid="Marc Riera" creationdate="20230130T140533Z">
+        <seg>--script=&lt;e0&gt;&lt;camí&gt;&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5834,6 +5850,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A script file to run when a project event is triggered.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T140557Z" creationid="Marc Riera" creationdate="20230130T140557Z">
+        <seg>Fitxer de script que s'ha d'executar quan s'activi un esdeveniment del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A set must be given a name.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183012Z" creationid="Marc Riera" creationdate="20230104T183012Z">
@@ -6108,6 +6132,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T204334Z" creationid="Marc Riera" creationdate="20191110T204334Z">
         <seg>Abort: surt amb un error si les etiquetes no són vàlides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Abort: Exit with an error if there are tag issues.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T140705Z" creationid="Marc Riera" creationdate="20230130T140705Z">
+        <seg>Abort: surt amb un error si hi ha problemes d'etiquetes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18124,6 +18156,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance, if the project is EN-to-FR, the folder must contain a bundle ending with _fr.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T140419Z" creationid="Marc Riera" creationdate="20230130T140419Z">
+        <seg>Per exemple, si el projecte és EN a FR, la carpeta ha de contenir un paquet que acabi amb _fr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For large jobs involving a team of translators, it is easier for everyone involved in sharing common translation memories rather than pass local versions back and forth.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T125247Z" creationid="Marc Riera" creationdate="20221211T125247Z">
@@ -22528,6 +22568,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this mode, OmegaT will align the files in the /source folder of the project with those at the location specified by the &lt;e0&gt;--alignDir&lt;/e0&gt; parameter.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T140301Z" creationid="Marc Riera" creationdate="20230130T140301Z">
+        <seg>En aquest mode, l'OmegaT alinearà els fitxers de la carpeta «/source» del projecte amb els de la ubicació especificada amb el paràmetre &lt;e0&gt;--alignDir&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this step, the bottom part of the window presents various parameters and options you can change if the initial alignment looks like it could be improved.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201002Z" creationid="Marc Riera" creationdate="20221206T201002Z">
@@ -26864,6 +26912,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Minimize the output shown on the command line.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T140528Z" creationid="Marc Riera" creationdate="20230130T140528Z">
+        <seg>Minimitza la sortida mostrada en la línia d'ordres.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Minutes:</seg>
@@ -28319,6 +28375,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T132939Z" creationid="Marc Riera" creationdate="20190924T132939Z">
         <seg>Espai no separable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-gui mode options:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T140524Z" creationid="Marc Riera" creationdate="20230130T140524Z">
+        <seg>Opcions del mode sense GUI:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33235,6 +33299,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Prints to that file, or to standard output if absent.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T140806Z" creationid="Marc Riera" creationdate="20230130T140649Z">
+        <seg>El resultat es desa en aquest fitxer o es mostra en la sortida estàndard si no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Priority glossary</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T215852Z" creationid="Marc Riera" creationdate="20201130T215852Z">
@@ -35275,6 +35347,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Reports about tag issues are output to the terminal window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T140733Z" creationid="Marc Riera" creationdate="20230130T140733Z">
+        <seg>Els informes sobre els problemes d'etiquetes es mostren en la finestra del terminal.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Repository</seg>
@@ -35393,6 +35473,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Alexandra" changedate="20150526T102548Z" creationid="Alexandra" creationdate="20150526T102548Z">
         <seg>Requisits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Requires &lt;e0&gt;--output-file&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T140511Z" creationid="Marc Riera" creationdate="20230130T140511Z">
+        <seg>Requereix &lt;e0&gt;--output-file&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42111,6 +42199,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;e0&gt;--alignDir&lt;/e0&gt; parameter is used to specify the location of the data in the target language, which must be a folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T140401Z" creationid="Marc Riera" creationdate="20230130T140401Z">
+        <seg>El paràmetre &lt;e0&gt;--alignDir&lt;/e0&gt; s'utilitza per a especificar la ubicació de les dades en la llengua de destinació, que ha de ser una carpeta que contingui els fitxers traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;e0&gt;Before&lt;/e0&gt; and&lt;e1&gt; After&lt;/e1&gt; patterns are regular expressions.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T084158Z" creationid="Marc Riera" creationdate="20230105T084158Z">
@@ -43268,6 +43364,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The data is the same as when using &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T140515Z" creationid="Marc Riera" creationdate="20230130T140515Z">
+        <seg>Les dades són les mateixes que quan s'utilitza &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The date when the segment was created.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110547Z" creationid="Marc Riera" creationdate="20230104T110547Z">
@@ -43618,6 +43722,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T082645Z" creationid="Marc Riera" creationdate="20221215T082645Z">
         <seg>L'estructura del fitxer també ha de ser compatible amb el filtre: encara que associeu l'extensió &lt;l0&gt;.odt&lt;/l0&gt; al filtre XHMTL, el filtre no podrà processar el contingut d'un fitxer del LibreOffice Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The file types that can be aligned depend on whether the alignment is supported by the file filter.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T140327Z" creationid="Marc Riera" creationdate="20230130T140327Z">
+        <seg>Els tipus de fitxers que es poden alinear depenen de si el filtre de fitxers és compatible amb l'alineació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44476,6 +44588,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T143412Z" creationid="Marc Riera" creationdate="20230103T143412Z">
         <seg>La resta d'elements de la llista de plantilles són variables d'entorn del sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The output defaults to xml.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T140444Z" creationid="Marc Riera" creationdate="20230130T140444Z">
+        <seg>Per defecte, la sortida és XML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52211,6 +52331,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Warn: Show warnings without exiting if there are tag issues.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T140713Z" creationid="Marc Riera" creationdate="20230130T140713Z">
+        <seg>Warn: mostra els avisos sense sortir si hi ha problemes d'etiquetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Warning</seg>
@@ -52994,6 +53122,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T100011Z" creationid="Marc Riera" creationdate="20221206T100011Z">
         <seg>Dins d'aquesta carpeta de glossaris de referència, es poden crear diverses subcarpetes de terminologia organitzades per tema, per client o per qualsevol altra categoria que s'adapti al vostre flux de treball.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without &lt;e0&gt;--stats-type&lt;/e0&gt;, detects format from file extension.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T140452Z" creationid="Marc Riera" creationdate="20230130T140452Z">
+        <seg>Sense &lt;e0&gt;--stats-type&lt;/e0&gt;, es detecta el format a partir de l'extensió del fitxer.</seg>
       </tuv>
     </tu>
     <tu>
