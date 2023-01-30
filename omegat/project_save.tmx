@@ -6562,6 +6562,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional variants are available for &lt;l0&gt;${nameOnly}&lt;/l0&gt; and &lt;l1&gt;${extension}&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T104755Z" creationid="Marc Riera" creationdate="20230130T104755Z">
+        <seg>Hi ha variants addicionals disponibles per a &lt;l0&gt;${nameOnly}&lt;/l0&gt; i &lt;l1&gt;${extension}&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additionally to one of the methods above you can select the following:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T204314Z" creationid="Marc Riera" creationdate="20220621T204314Z">
@@ -10673,6 +10681,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T142756Z" creationid="Marc Riera" creationdate="20221206T142756Z">
         <seg>Feu clic en el botó per a seleccionar la carpeta que voleu utilitzar en comptes de la carpeta de recursos per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the relevant header to sort them in ascending or descending order.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T104740Z" creationid="Marc Riera" creationdate="20230130T104740Z">
+        <seg>Feu clic en la capçalera en qüestió per a ordenar-los en ordre ascendent o descendent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20827,6 +20843,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T082541Z" creationid="Marc Riera" creationdate="20221214T082541Z">
         <seg>Si els documents d'origen contenen espais en blanc per a controlar la disposició, s'ha de conservar l'espai en blanc en el document traduït.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the use of multiple periods makes identifying the file name and extension ambiguous, you can use variables of the form &lt;l0&gt;${nameOnly-&lt;/l0&gt;&lt;e1&gt;number&lt;/e1&gt;} or &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;number} &lt;/e3&gt; to specify which portions are part of the name or extension, as shown in the example below.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T104933Z" creationid="Marc Riera" creationdate="20230130T104933Z">
+        <seg>Si l'ús de diversos punts fa que la identificació del nom del fitxer i de l'extensió sigui ambigua, podeu utilitzar variables com ara &lt;l0&gt;${nameOnly-&lt;/l0&gt;&lt;e1&gt;número&lt;/e1&gt;} o &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;número} &lt;/e3&gt; per a especificar quins fragments formen part del nom o de l'extensió, com es mostra en l'exemple següent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41399,6 +41423,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;c0&gt;Microsoft Office Open XML (legacy filter)&lt;/c0&gt; is the original OmegaT filter.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T105015Z" creationid="Marc Riera" creationdate="20230130T105015Z">
+        <seg>El filtre &lt;c0&gt;Microsoft Office Open XML (filtre antic)&lt;/c0&gt; és el filtre original de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;c0&gt;plugins&lt;/c0&gt; and &lt;c1&gt;scripts&lt;/c1&gt; folders might be overwritten, so you may want to create a backup before upgrading.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122609Z" creationid="Marc Riera" creationdate="20221223T122609Z">
@@ -53230,6 +53262,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can sort the filters by name or by whether they are enabled.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T104712Z" creationid="Marc Riera" creationdate="20230130T104712Z">
+        <seg>Podeu ordenar els filtres per nom o en funció de si estan habilitats o no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can specify a configuration folder other than the default when you start OmegaT from the command line.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160149Z" creationid="Marc Riera" creationdate="20221201T160149Z">
@@ -53511,6 +53551,14 @@ un comportament inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T171444Z" creationid="Marc Riera" creationdate="20221117T171444Z">
         <seg>Sembla que el projecte no conté cap fitxer traduïble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should only use it to avoid compatibility issues with previous projects containing files you handled with that filter.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T105045Z" creationid="Marc Riera" creationdate="20230130T105045Z">
+        <seg>Només l'hauríeu d'utilitzar per a evitar problemes de compatibilitat amb projectes anteriors que continguin fitxers tractats amb aquest filtre.</seg>
       </tuv>
     </tu>
     <tu>
