@@ -5878,6 +5878,22 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A “level 1” TMX removes all tag information and contains only textual data.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T115341Z" creationid="Marc Riera" creationdate="20230130T115341Z">
+        <seg>Un fitxer TMX de «nivell 1» suprimeix tota la informació de les etiquetes i només conté dades textuals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A “level 2” TMX contains textual data along with tags encapsulated in a form compatible with other CAT tools.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T115353Z" creationid="Marc Riera" creationdate="20230130T115353Z">
+        <seg>Un fitxer TMX de «nivell 2» conté dades textuals juntament amb etiquetes encapsulades en un format compatible amb altres eines de TAO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A “level 2” TMX contains textual data along with tags encapsulated in a way that is compatible with other CAT tools.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T122907Z" creationid="Marc Riera" creationdate="20221206T122907Z">
@@ -7691,6 +7707,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An ignored file or folder is:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T114809Z" creationid="Marc Riera" creationdate="20230130T114809Z">
+        <seg>Un fitxer o carpeta ignorat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An ignored file or folder:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T120514Z" creationid="Marc Riera" creationdate="20221206T120514Z">
@@ -7748,6 +7772,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221116T224302Z" creationid="Marc Riera" creationdate="20221116T224302Z">
         <seg>Ja existeix un element amb el nom «{0}» en aquesta ubicació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An “OmegaT” TMX contains the tags created by OmegaT in a form that can only be used properly by an OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T115319Z" creationid="Marc Riera" creationdate="20230130T115319Z">
+        <seg>Un fitxer TMX de l'«OmegaT» conté les etiquetes que ha creat l'OmegaT en un format que només pot utilitzar correctament un projecte de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10705,6 +10737,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T104740Z" creationid="Marc Riera" creationdate="20230130T104740Z">
         <seg>Feu clic en la capçalera en qüestió per a ordenar-los en ordre ascendent o descendent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;g0&gt;Exclusions...&lt;/g0&gt; button to specify files or folders that should be ignored by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T114803Z" creationid="Marc Riera" creationdate="20230130T114803Z">
+        <seg>Feu clic en el botó &lt;g0&gt;Exclusions...&lt;/g0&gt; per a definir els fitxers o carpetes voleu que l'OmegaT ignori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17383,6 +17423,14 @@ els fils de teranyina t'aparten.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files that are not supported by OmegaT’s file filters are copied without modification.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T115233Z" creationid="Marc Riera" creationdate="20230130T115233Z">
+        <seg>Els fitxers no compatibles amb els filtres de fitxers de l'OmegaT es copien sense modificacions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fill the empty local copy with a real OmegaT project</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T182358Z" creationid="Marc Riera" creationdate="20221217T182358Z">
@@ -20779,6 +20827,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T142905Z" creationid="Marc Riera" creationdate="20221206T142905Z">
         <seg>Si la carpeta està buida, si cap dels fitxers conté continguts traduïbles o si no hi ha cap fitxer compatible amb els filtres de fitxers de l'OmegaT, l'OmegaT us indicarà que la carpeta està buida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the folder is empty, none of the files contain translatable content, or there are no files supported by the available file filters, OmegaT will tell you that the folder is empty.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T114754Z" creationid="Marc Riera" creationdate="20230130T114754Z">
+        <seg>Si la carpeta està buida, si cap dels fitxers inclou contingut traduïble o si no hi ha cap fitxer compatible amb els filtres de fitxers de l'OmegaT, l'OmegaT us indicarà que la carpeta està buida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27500,6 +27556,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Newly added entries are automatically recognized and displayed if they match terms in the current segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T115132Z" creationid="Marc Riera" creationdate="20230130T115132Z">
+        <seg>Les entrades que s'acaben d'afegir es reconeixen i es mostren automàticament si coincideixen amb els termes del segment actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Next</seg>
@@ -29762,6 +29826,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201120T163723Z" creationid="Alexandra" creationdate="20150526T134831Z">
         <seg>Curs de formació de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT tries to read all the files at once, and compares their contents to the segment you are translating.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T114926Z" creationid="Marc Riera" creationdate="20230130T114926Z">
+        <seg>L'OmegaT intenta llegir tots els fitxers alhora i en compara el contingut amb el segment que esteu traduint.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37482,6 +37554,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segments that have been translated are replaced by their translation and untranslated segments remain in the source language.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T115150Z" creationid="Marc Riera" creationdate="20230130T115150Z">
+        <seg>Els segments traduïts se substitueixen per la traducció i els segments sense traduir romanen en la llengua d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segments that have been translated will be replaced by their translation and untranslated segments will remain in the source language.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T094811Z" creationid="Marc Riera" creationdate="20221225T094811Z">
@@ -41888,6 +41968,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Exclusion patterns dialog allows you to add or remove a pattern, or edit one either by double-clicking it or selecting it and pressing &lt;k0&gt;F2&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T114840Z" creationid="Marc Riera" creationdate="20230130T114840Z">
+        <seg>El quadre de diàleg Patrons d'exclusió us permet afegir o suprimir un patró o editar-ne un, fent-hi doble clic o bé seleccionant-lo i prement &lt;k0&gt;F2&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The GPL version 3.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215154Z" creationid="Marc Riera" creationdate="20221123T215154Z">
@@ -42247,6 +42335,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192857Z" creationid="Marc Riera" creationdate="20221124T192857Z">
         <seg>El fitxer TMX es carregarà igualment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX files contain only the segments from the files currently stored in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T115259Z" creationid="Marc Riera" creationdate="20230130T115259Z">
+        <seg>Els fitxers TMX només contenen els segments dels fitxers emmagatzemats actualment en la carpeta &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43212,6 +43308,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175508Z" creationid="Marc Riera" creationdate="20221218T175508Z">
         <seg>La carpeta conté dos fitxers: &lt;f1&gt;index.html&lt;/f1&gt; (fitxer d'entrades del manual d'usuari) i &lt;f2&gt;OmegaT.app&lt;/f2&gt; (aplicació).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder structure mirrors that of the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T115216Z" creationid="Marc Riera" creationdate="20230130T115216Z">
+        <seg>L'estructura de carpetes és idèntica a la de la carpeta &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44966,6 +45070,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The writable glossary is the file that OmegaT uses when you add translated glossary terms to your project with the &lt;l0/&gt;&lt;l1/&gt; command.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T115106Z" creationid="Marc Riera" creationdate="20230130T115106Z">
+        <seg>El glossari modificable és el fitxer que l'OmegaT utilitza quan afegiu termes del glossari traduïts al projecte amb l'ordre &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The writable glossary is the file that OmegaT uses when you add translated glossary terms to your project with the &lt;l0/&gt;&lt;l1/&gt; menu.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T094757Z" creationid="Marc Riera" creationdate="20221225T094757Z">
@@ -45829,6 +45941,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T094824Z" creationid="Marc Riera" creationdate="20221225T094824Z">
         <seg>Aquesta casella de selecció us permet triar en quin format voleu que l'OmegaT creï els fitxers TMX anteriors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This checkbox lets you choose the formats in which you want OmegaT to create the above TMX files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T115310Z" creationid="Marc Riera" creationdate="20230130T115310Z">
+        <seg>Aquesta casella de selecció us permet triar en quins formats voleu que l'OmegaT creï els fitxers TMX anteriors.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50582,6 +50702,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T100028Z" creationid="Marc Riera" creationdate="20221206T100028Z">
         <seg>Utilitzeu l'&lt;l0&gt;opció&lt;/l0&gt; per a definir la ubicació de la carpeta de glossaris de referència.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;u1&gt;Apache ant syntax&lt;/u1&gt; to define exclusions.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T114905Z" creationid="Marc Riera" creationdate="20230130T114905Z">
+        <seg>Utilitzeu la &lt;u1&gt;sintaxi de l'Apache Ant&lt;/u1&gt; per a definir les exclusions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58200,10 +58328,34 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>not copied to the &lt;l0/&gt; folder when the translated files are created.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T114827Z" creationid="Marc Riera" creationdate="20230130T114827Z">
+        <seg>No es copia a la carpeta &lt;l0/&gt; quan es creen els fitxers traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>not displayed in the &lt;l0/&gt; pane,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T114811Z" creationid="Marc Riera" creationdate="20230130T114811Z">
+        <seg>No es mostra en la subfinestra &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>not fuzzy</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T163753Z" creationid="Marc Riera" creationdate="20221213T163753Z">
         <seg>no és parcial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>not taken into account in the various statistics reports (such as the &lt;l0/&gt;&lt;l1/&gt; command), and</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T114824Z" creationid="Marc Riera" creationdate="20230130T114824Z">
+        <seg>No es té en compte en els informes d'estadístiques (com ara l'ordre &lt;l0/&gt;&lt;l1/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
