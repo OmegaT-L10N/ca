@@ -4427,6 +4427,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; comes with an &lt;f1&gt;OmegaT&lt;/f1&gt; executable located in &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt; that you can also use to launch multiple instances of &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T151944Z" creationid="Marc Riera" creationdate="20230131T151944Z">
+        <seg>El fitxer &lt;f0&gt;OmegaT.app&lt;/f0&gt; inclou un executable &lt;f1&gt;OmegaT&lt;/f1&gt; en la carpeta &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt; que també podeu utilitzar per a iniciar diverses instàncies del programa &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Allow blank translations in the target file&lt;/g0&gt;:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224454Z" creationid="Marc Riera" creationdate="20220130T224454Z">
@@ -8218,6 +8226,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T215436Z" creationid="Marc Riera" creationdate="20221211T215436Z">
         <seg>A més, abans que hàgiu de seguir aquests passos, l'OmegaT us permetrà centrar-vos en la traducció en si i esperem que també us ajudi a convertir-vos en un millor traductor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And it also comes with the generic &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; that you can use to launch OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T152010Z" creationid="Marc Riera" creationdate="20230131T152010Z">
+        <seg>També inclou un fitxer genèric &lt;f0&gt;OmegaT.jar&lt;/f0&gt; en la carpeta &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; que podeu utilitzar per a iniciar l'OmegaT des de la línia d'ordres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24530,6 +24546,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214535Z" creationid="Marc Riera" creationdate="20221207T214535Z">
         <seg>També és possible canviar la posició d'un nom de fitxer, fent-hi clic i prement el botó &lt;g0&gt;Mou...&lt;/g0&gt; de la dreta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is also possible to use &lt;f0&gt;OmegaT.app&lt;/f0&gt; itself to launch OmegaT from the terminal.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T152147Z" creationid="Marc Riera" creationdate="20230131T152147Z">
+        <seg>També podeu utilitzar el programa &lt;f0&gt;OmegaT.app&lt;/f0&gt; directament per a iniciar l'OmegaT des del terminal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49543,6 +49567,14 @@ tots els paràmetres als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To access the files inside the &lt;f0&gt;OmegaT.app&lt;/f0&gt;, package right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select “Show Package Contents”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T152124Z" creationid="Marc Riera" creationdate="20230131T152124Z">
+        <seg>Per accedir als fitxers de l'interior del paquet &lt;f0&gt;OmegaT.app&lt;/f0&gt;, feu clic amb el botó dret en &lt;f1&gt;OmegaT.app&lt;/f1&gt; i seleccioneu "Mostra el contingut del paquet".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To access this window, select &lt;m0&gt;&lt;g1&gt;Tools&lt;/g1&gt;&lt;g2&gt;Align Files...&lt;/g2&gt;&lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220307T225109Z" creationid="Marc Riera" creationdate="20220307T225109Z">
@@ -56167,6 +56199,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T185501Z" creationid="Marc Riera" creationdate="20221203T185501Z">
         <seg>Podeu limitar les regles de segmentació que utilitza el projecte definint regles locals amb &lt;l0/&gt;, en l'apartat &lt;l1/&gt;, o iniciant l'OmegaT des de la línia d'ordres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can modify the behavior of OmegaT.app by editing the &lt;f0&gt;Configuration.properties&lt;/f0&gt; (OmegaT configuration) as well as the &lt;f1&gt;Info.plist&lt;/f1&gt; (Java configuration) files located inside the OmegaT.app package.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T152040Z" creationid="Marc Riera" creationdate="20230131T152040Z">
+        <seg>Podeu modificar el comportament del programa OmegaT.app editant els fitxers &lt;f0&gt;Configuration.properties&lt;/f0&gt; (configuració de l'OmegaT) i &lt;f1&gt;Info.plist&lt;/f1&gt; (configuració del Java) de l'interior del paquet OmegaT.app.</seg>
       </tuv>
     </tu>
     <tu>
