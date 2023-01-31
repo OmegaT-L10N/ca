@@ -4619,6 +4619,30 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Next Segment from tm/auto/&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;A&lt;/k3&gt;&lt;k4&gt;,&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150933Z" creationid="Marc Riera" creationdate="20230131T150933Z">
+        <seg>&lt;g0&gt;Segment de tm/auto/ següent&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;A&lt;/k3&gt;&lt;k4&gt;,&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Next Segment from tm/auto/&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;A&lt;/k4&gt;&lt;k5&gt;.&lt;/k5&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T151031Z" creationid="Marc Riera" creationdate="20230131T151031Z">
+        <seg>&lt;g0&gt;Segment de tm/enforce/ anterior&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;A&lt;/k4&gt;&lt;k5&gt;.&lt;/k5&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Next Segment from tm/enforce/&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;A&lt;/k3&gt;&lt;k4&gt;.&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T151005Z" creationid="Marc Riera" creationdate="20230131T151005Z">
+        <seg>&lt;g0&gt;Segment de tm/enforce/ següent&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;A&lt;/k3&gt;&lt;k4&gt;.&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Next Segment&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T001508Z" creationid="Marc Riera" creationdate="20221231T001508Z">
@@ -4687,6 +4711,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T204944Z" creationid="Marc Riera" creationdate="20221214T204944Z">
         <seg>&lt;g0&gt;Poisson&lt;/g0&gt;: distribució estadística alternativa que es pot utilitzar per a alinear els fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Previous Segment from tm/auto/&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;A&lt;/k4&gt;&lt;k5&gt;,&lt;/k5&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150953Z" creationid="Marc Riera" creationdate="20230131T150953Z">
+        <seg>&lt;g0&gt;Segment de tm/auto/ anterior&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;A&lt;/k4&gt;&lt;k5&gt;,&lt;/k5&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21668,6 +21700,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the corresponding segments are several rows apart and you want to quickly align them, use this command to select the first segment and then click on the corresponding segment in the other column.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150620Z" creationid="Marc Riera" creationdate="20230131T150620Z">
+        <seg>Si els segments corresponents estan separats per diverses files i voleu alinear-los ràpidament, utilitzeu aquesta ordre per a seleccionar el primer segment i, a continuació, feu clic en el segment corresponent de l'altra columna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the corresponding segments are several rows apart and you want to quickly align them, use this command to set the first segment and then click on the corresponding segment in the other column.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085115Z" creationid="Marc Riera" creationdate="20230104T085047Z">
@@ -21954,6 +21994,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T185546Z" creationid="Marc Riera" creationdate="20230103T185546Z">
         <seg>Si se seleccionen dos o més segments, s'uniran tots, però romandran en cel·les independents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If two or more segments occupying separate cells in the same row (multi-cell segments containing lines without a &lt;g0&gt;Keep&lt;/g0&gt; check box) are selected, this command will split the selected cells back into separate rows (with a &lt;g1&gt;Keep&lt;/g1&gt; check box).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150605Z" creationid="Marc Riera" creationdate="20230131T150605Z">
+        <seg>Si se seleccionen dos o més segments que ocupen cel·les independents de la mateixa fila (segments de diverses cel·les sense una casella de selecció &lt;g0&gt;Conserva&lt;/g0&gt;), aquesta ordre tornarà a dividir les cel·les seleccionades en files independents (amb una casella de selecció &lt;g1&gt;Conserva&lt;/g1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22684,6 +22732,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T155433Z" creationid="Marc Riera" creationdate="20230103T155433Z">
         <seg>Si els textos contenen altres elements que considereu útils ressaltar, modifiqueu l'expressió regular perquè inclogui aquests elements, separats per &lt;l1&gt;|&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your texts contain other elements that would be useful to highlight, modify the regular expression to include those elements, using the &lt;l1&gt;|&lt;/l1&gt; symbol to separate each element.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150453Z" creationid="Marc Riera" creationdate="20230131T150453Z">
+        <seg>Si els textos contenen altres elements que considereu útils ressaltar, modifiqueu l'expressió regular perquè inclogui aquests elements utilitzant el caràcter &lt;l1&gt;|&lt;/l1&gt; per a separar cada element.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24397,6 +24453,14 @@ feu doble clic en la drecera.</seg>
         <seg>It can be helpful to run the &lt;g0&gt;Realign Pending&lt;/g0&gt; command after using pinpoint align a few times.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085355Z" creationid="Marc Riera" creationdate="20230104T085346Z">
+        <seg>Pot ser útil executar l'ordre &lt;g0&gt;Torna a alinear els pendents&lt;/g0&gt; després d'utilitzar l'alineació per clics unes quantes vegades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It can be helpful to run the &lt;g0&gt;Realign Pending&lt;/g0&gt; command after using the pinpoint align command a few times.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150638Z" creationid="Marc Riera" creationdate="20230131T150638Z">
         <seg>Pot ser útil executar l'ordre &lt;g0&gt;Torna a alinear els pendents&lt;/g0&gt; després d'utilitzar l'alineació per clics unes quantes vegades.</seg>
       </tuv>
     </tu>
@@ -28687,6 +28751,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T122524Z" creationid="Marc Riera" creationdate="20190520T122524Z">
         <seg>Nom: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigate between segments that were automatically populated by exact matches from the &lt;l0/&gt; and &lt;l1/&gt; subfolders.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150906Z" creationid="Marc Riera" creationdate="20230131T150906Z">
+        <seg>Navega entre els segments en què s'han propagat automàticament les coincidències exactes de les subcarpetes &lt;l0/&gt; i &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36906,6 +36978,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Review the results and makes any necessary manual adjustments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150350Z" creationid="Marc Riera" creationdate="20230131T150350Z">
+        <seg>Reviseu els resultats i feu els ajustos manuals necessaris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Review your translation</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T224014Z" creationid="Marc Riera" creationdate="20221211T224014Z">
@@ -37474,6 +37554,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221626Z" creationid="Marc Riera" creationdate="20221218T221626Z">
         <seg>Deseu el fitxer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save the result to a TMX file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150353Z" creationid="Marc Riera" creationdate="20230131T150353Z">
+        <seg>Deseu el resultat en un fitxer TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39092,6 +39180,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T111659Z" creationid="Marc Riera" creationdate="20180221T112124Z">
         <seg>Segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segments aligned using this method are automatically marked as accepted.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150630Z" creationid="Marc Riera" creationdate="20230131T150630Z">
+        <seg>Els segments alineats d'aquesta manera es marquen automàticament com a acceptats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41453,6 +41549,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110459Z" creationid="Marc Riera" creationdate="20221204T110459Z">
         <seg>Especifiqueu les ordres que s'executaran automàticament després d'utilitzar &lt;l0/&gt; o &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify the source and target languages and select the two files you want to align.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150325Z" creationid="Marc Riera" creationdate="20230131T150325Z">
+        <seg>Especifiqueu les llengües d'origen i destinació i seleccioneu els dos fitxers que voleu alinear.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44166,6 +44270,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The aligner can read all file formats supported by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150356Z" creationid="Marc Riera" creationdate="20230131T150356Z">
+        <seg>L'alineador pot llegir tots els formats de fitxer compatibles amb l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The aligner can read all the file formats supported by OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200859Z" creationid="Marc Riera" creationdate="20221206T200859Z">
@@ -44194,6 +44306,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205331Z" creationid="Marc Riera" creationdate="20221214T205331Z">
         <seg>L'alineador inclou les etiquetes dels segments per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The aligner reads the files and attempts to match the segments that correspond to one another in the original and translated texts.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150333Z" creationid="Marc Riera" creationdate="20230131T150333Z">
+        <seg>L'alineador llegeix els fitxers i intenta fer coincidir els segments que es corresponen entre si en el text original i la traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44582,6 +44702,22 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T155306Z" creationid="Marc Riera" creationdate="20230103T155306Z">
         <seg>L'opció per defecte és &lt;g0&gt;Sí&lt;/g0&gt;, que potser no és el que voleu si heu editat les regles de segmentació generals de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default choice is &lt;g0&gt;Yes&lt;/g0&gt;, which may not be what you want if you edited the global OmegaT file filters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150409Z" creationid="Marc Riera" creationdate="20230131T150409Z">
+        <seg>L'opció per defecte és &lt;g0&gt;Sí&lt;/g0&gt;, que potser no és el que voleu si heu editat els filtres de fitxers globals de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default choice is &lt;g0&gt;Yes&lt;/g0&gt;, which may not be what you want if you edited the global OmegaT segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150403Z" creationid="Marc Riera" creationdate="20230131T150403Z">
+        <seg>L'opció per defecte és &lt;g0&gt;Sí&lt;/g0&gt;, que potser no és el que voleu si heu editat les regles de segmentació globals de l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45576,6 +45712,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T075931Z" creationid="Marc Riera" creationdate="20221205T075931Z">
         <seg>Les tecles modificadores que formen les dreceres varien una mica segons la plataforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The most common actions are also accessible from the buttons at the right of the main pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150508Z" creationid="Marc Riera" creationdate="20230131T150508Z">
+        <seg>Les accions més habituals també són accessibles amb els botons a la dreta de la subfinestra principal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48008,6 +48152,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This command allows you to move backward one segment at a time to segments you have previously visited.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T151039Z" creationid="Marc Riera" creationdate="20230131T151039Z">
+        <seg>Aquesta ordre us permet tornar, un segment a la vegada, a segments que heu visitat anteriorment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This command allows you to move forward one segment at a time to segments that you have previously visited with &lt;l0/&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T145830Z" creationid="Marc Riera" creationdate="20221206T145830Z">
@@ -48020,6 +48172,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T001850Z" creationid="Marc Riera" creationdate="20221231T001850Z">
         <seg>Aquesta ordre us permet desplaçar-vos endavant, un segment a la vegada, a segments que heu visitat anteriorment amb &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This command allows you to move forward one segment at a time to segments you have previously visited with the above &lt;l0/&gt;&lt;l1/&gt; command.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T151048Z" creationid="Marc Riera" creationdate="20230131T151048Z">
+        <seg>Aquesta ordre us permet desplaçar-vos endavant, un segment a la vegada, a segments que heu visitat anteriorment amb l'ordre &lt;l0/&gt;&lt;l1/&gt; anterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48052,6 +48212,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161752Z" creationid="Marc Riera" creationdate="20220625T161752Z">
         <seg>Aquesta ordre no funciona després de validar el segment modificat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This command is also available from the button at the right of the main window pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150501Z" creationid="Marc Riera" creationdate="20230131T150501Z">
+        <seg>Aquesta ordre també està disponible amb el botó a la dreta de la subfinestra principal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48914,6 +49082,14 @@ des del servidor.</seg>
         <seg>This option lets you enter a regular expression to define the pattern used for highlighting text in the source and target segments.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T155359Z" creationid="Marc Riera" creationdate="20230103T155359Z">
+        <seg>Aquesta opció us permet indicar una expressió regular per a definir el patró utilitzat per a ressaltar el text en els segments d'origen i de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option lets you enter a regular expression to define the pattern used to highlight text in the source and target segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150414Z" creationid="Marc Riera" creationdate="20230131T150414Z">
         <seg>Aquesta opció us permet indicar una expressió regular per a definir el patró utilitzat per a ressaltar el text en els segments d'origen i de destinació.</seg>
       </tuv>
     </tu>
@@ -53017,6 +53193,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the mouse or arrow keys to place the cursor at the location where you want to split the text, and click the &lt;g1&gt;OK&lt;/g1&gt; button or press &lt;k2&gt;Enter&lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150516Z" creationid="Marc Riera" creationdate="20230131T150516Z">
+        <seg>Utilitzeu el ratolí o les tecles de direcció per a col·locar el cursor en la ubicació on voleu dividir el text i feu clic en el botó &lt;g1&gt;D'acord&lt;/g1&gt; o premeu &lt;k2&gt;Retorn&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the navigation menus found in &lt;l0/&gt;&lt;l1/&gt; to navigate to an automatically inserted segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230126T185136Z" creationid="Marc Riera" creationdate="20230126T185136Z">
@@ -56161,6 +56345,22 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T124417Z" creationid="Marc Riera" creationdate="20230130T124417Z">
         <seg>D'aquesta manera, podeu utilitzar diversos projectes alhora, cadascun amb paràmetres propis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;TAB&lt;/k2&gt;&lt;/k0&gt; as an alternative shortcut by enabling the &lt;l3/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150822Z" creationid="Marc Riera" creationdate="20230131T150822Z">
+        <seg>Podeu utilitzar &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Tab&lt;/k2&gt;&lt;/k0&gt; com a drecera alternativa si s'ha habilitat la preferència &lt;l3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use &lt;k0&gt;TAB&lt;/k0&gt; as an alternative shortcut by enabling the &lt;l1/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150809Z" creationid="Marc Riera" creationdate="20230131T150809Z">
+        <seg>Podeu utilitzar &lt;k0&gt;Tab&lt;/k0&gt; com a drecera alternativa si s'ha habilitat la preferència &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
