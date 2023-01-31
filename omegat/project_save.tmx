@@ -17846,6 +17846,14 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Extract Text Content</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T215340Z" creationid="Marc Riera" creationdate="20230131T215340Z">
+        <seg>Extreu el contingut de text</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Extract all source text from the project files into a single, large text file</seg>
@@ -17861,6 +17869,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181115T225320Z" creationid="mgalo" creationdate="20181115T225320Z">
         <seg>Comentaris extrets:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extracts the content of the project to a single text file (one line per segment).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T215346Z" creationid="Marc Riera" creationdate="20230131T215346Z">
+        <seg>Extreu el contingut del projecte a un únic fitxer de text (una línia per segment).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29989,6 +30005,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that the file is a plain text file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T215322Z" creationid="Marc Riera" creationdate="20230131T215322Z">
+        <seg>Tingueu en compte que el fitxer és un fitxer de text sense format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that the structure of the source subfolder may take any form you like.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164821Z" creationid="Marc Riera" creationdate="20220625T164821Z">
@@ -38942,6 +38966,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;RFE#182 Extracts the content of the projects to text file&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T215354Z" creationid="Marc Riera" creationdate="20230131T215354Z">
+        <seg>Consulteu &lt;u0&gt;RFE#182 Extracts the content of the projects to text file&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Rainbow TKit - OmegaT Project&lt;/u0&gt; for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T133053Z" creationid="Marc Riera" creationdate="20221211T133053Z">
@@ -44017,6 +44049,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121546Z" creationid="Marc Riera" creationdate="20220611T121546Z">
         <seg>El fitxer &lt;f0&gt;project_stats.txt&lt;/f0&gt;, en la carpeta &lt;f1&gt;omegat&lt;/f1&gt; del projecte, conté informació més detallada sobre els segments, desglossada per fitxer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f1&gt;.doc&lt;/f1&gt; extension simply ensures it opens in the word processor.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T215332Z" creationid="Marc Riera" creationdate="20230131T215332Z">
+        <seg>L'extensió &lt;f1&gt;.doc&lt;/f1&gt; simplement assegura que s'obre en el processador de textos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55867,6 +55907,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223334Z" creationid="Marc Riera" creationdate="20180214T223334Z">
         <seg>La carpeta del fitxer de glossari modificable que heu especificat no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writes all segments to a file named &lt;f0&gt;[project_name].doc&lt;/f0&gt; and opens it in the default word processor for the system.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T215311Z" creationid="Marc Riera" creationdate="20230131T215311Z">
+        <seg>Escriu tots els segments en un fitxer anomenat &lt;f0&gt;[nom_del_projecte].doc&lt;/f0&gt; i l'obre en el processador de textos per defecte del sistema.</seg>
       </tuv>
     </tu>
     <tu>
