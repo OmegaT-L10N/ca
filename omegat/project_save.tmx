@@ -22428,6 +22428,14 @@ extensions dels fitxers.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you do have permission to write to the default folder, make sure you change the name, or make a backup, of any scripts you modify, as they will be overwritten when OmegaT is updated.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T214321Z" creationid="Marc Riera" creationdate="20230131T214321Z">
+        <seg>Si teniu permís per a escriure en la carpeta per defecte, assegureu-vos que canvieu el nom o feu una còpia de seguretat de qualsevol script que modifiqueu, ja que se sobreescriurà quan s'actualitzi l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you do not activate this option, all segments can be assigned a different translation, even if they are duplicated in the project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T112406Z" creationid="Marc Riera" creationdate="20221206T112406Z">
@@ -23320,6 +23328,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135516Z" creationid="Marc Riera" creationdate="20230130T135516Z">
         <seg>En aquests casos, les opcions definides en el fitxer de configuració tenen prioritat sobre qualsevol opció amb funcionalitat duplicada que també s'hagi indicat en la línia d'ordres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In such cases, you will have to copy or move the script folder to a location for which you have write permissions, such as the &lt;l0&gt;configuration folder&lt;/l0&gt;, if you want to write your own scripts, add new ones, or modify existing ones.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T214242Z" creationid="Marc Riera" creationdate="20230131T214242Z">
+        <seg>En aquests casos, haureu de copiar o moure la carpeta de scripts a una ubicació on tingueu permisos d'escriptura, com ara la &lt;l0&gt;carpeta de configuració&lt;/l0&gt;, si voleu escriure els vostres propis scripts, afegir-ne de nous, o modificar-ne d'existents.</seg>
       </tuv>
     </tu>
     <tu>
