@@ -8344,6 +8344,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any time you create the translated files, any previously created files with the same name are overwritten.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T211213Z" creationid="Marc Riera" creationdate="20230131T211213Z">
+        <seg>Cada vegada que creeu els fitxers traduïts, se sobreescriu qualsevol fitxer amb el mateix nom creat anteriorment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any time you create the translated files, any previously created files with the same name will be overwritten.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214144Z" creationid="Marc Riera" creationdate="20221213T214134Z">
@@ -14035,6 +14043,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T131711Z" creationid="Marc Riera" creationdate="20221207T131711Z">
         <seg>Si suprimiu aquest fitxer, també es reinicialitzen les preferències dels filtres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting the contents of the &lt;l0/&gt; folder &lt;e1&gt;never&lt;/e1&gt; impacts the content of your translations.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T211258Z" creationid="Marc Riera" creationdate="20230131T211258Z">
+        <seg>Suprimir el contingut de la carpeta &lt;l0/&gt; no tindrà &lt;e1&gt;mai&lt;/e1&gt; cap impacte en el contingut de les traduccions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36253,6 +36269,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T082357Z" creationid="Marc Riera" creationdate="20221214T082357Z">
         <seg>Si les suprimiu del contingut traduïble, us assegureu que no les esborrareu ni modificareu per error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rename any files you want to prevent from being overwritten after you create them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T211248Z" creationid="Marc Riera" creationdate="20230131T211248Z">
+        <seg>Canvieu el nom dels fitxers si voleu impedir que se sobreescriguin després de crear-los.</seg>
       </tuv>
     </tu>
     <tu>
