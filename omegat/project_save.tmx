@@ -6079,6 +6079,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>A simple search and replace script.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T214826Z" creationid="Marc Riera" creationdate="20230131T214826Z">
+        <seg>Script senzill de cerca i substitució.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>A simple set of QA checks for current OmegaT project</seg>
@@ -17198,6 +17206,22 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Example - GUI Scripting</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T214749Z" creationid="Marc Riera" creationdate="20230131T214749Z">
+        <seg>Exemple: scripts amb GUI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example - Modify Segment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T214810Z" creationid="Marc Riera" creationdate="20230131T214810Z">
+        <seg>Exemple: modificació d'un segment</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Example - Search and Replace</seg>
@@ -17212,6 +17236,22 @@ ningú no sent els vostres crits.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152728Z" creationid="Marc Riera" creationdate="20230130T152728Z">
         <seg>Exemple d'assignacions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example of GUI scripting.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T214756Z" creationid="Marc Riera" creationdate="20230131T214756Z">
+        <seg>Exemple de script amb GUI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example that shows how to modify a segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T214814Z" creationid="Marc Riera" creationdate="20230131T214814Z">
+        <seg>Exemple que mostra com modificar un segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50054,6 +50094,14 @@ tots els paràmetres als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will translate a string like “$123,399.99” to “123 399,99 USD”, for example.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T214738Z" creationid="Marc Riera" creationdate="20230131T214738Z">
+        <seg>Això traduirà una cadena com ara "$123,399.99" a "123 399,99 USD", per exemple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This window is accessible by selecting &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Scripting...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T154748Z" creationid="Marc Riera" creationdate="20220611T154748Z">
@@ -51175,6 +51223,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T091930Z" creationid="Marc Riera" creationdate="20221214T091930Z">
         <seg>Tradueix els segments d'origen buits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate currencies representation according to the source and target locales.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T214723Z" creationid="Marc Riera" creationdate="20230131T214723Z">
+        <seg>Tradueix la representació de les divises d'acord amb les configuracions regionals d'origen i destinació.</seg>
       </tuv>
     </tu>
     <tu>
