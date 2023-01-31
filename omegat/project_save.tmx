@@ -7941,6 +7941,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An &lt;c0&gt;eventType&lt;/c0&gt; object is bound and can take the following values: CLOSE, COMPILE, CREATE, LOAD, or SAVE.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T213809Z" creationid="Marc Riera" creationdate="20230131T213809Z">
+        <seg>Hi ha un objecte &lt;c0&gt;eventType&lt;/c0&gt; vinculat que admet els valors següents: CLOSE, COMPILE, CREATE, LOAD i SAVE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An &lt;e1&gt;FR-FR&lt;/e1&gt; dictionary will not spellcheck &lt;e2&gt;FR&lt;/e2&gt; target segments.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T100607Z" creationid="Marc Riera" creationdate="20230105T100607Z">
@@ -12111,6 +12119,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T144120Z" creationid="Marc Riera" creationdate="20190925T072732Z">
         <seg>Hi ha una connexió disponible, el projecte està en el mode de projecte en equip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consequently, in a large project, an &lt;c0&gt;entry_activated&lt;/c0&gt; script is called frequently when a search/replace type of script that loops through all segments is used, rendering the application unresponsive.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T213930Z" creationid="Marc Riera" creationdate="20230131T213930Z">
+        <seg>Això significa que, en un projecte gran, un script &lt;c0&gt;entry_activated&lt;/c0&gt; s'executarà freqüentment quan s'utilitzi un script de cerca i substitució que recorri tots els segments, la qual cosa pot provocar que l'aplicació deixi de respondre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38150,8 +38166,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Scripts are also launched when you are executing other scripts.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184138Z" creationid="Marc Riera" creationdate="20230105T184138Z">
-        <seg>Els scripts també s'iniciaran quan executeu altres scripts.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T213618Z" creationid="Marc Riera" creationdate="20230105T184138Z">
+        <seg>Els scripts també s'inicien quan executeu altres scripts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38212,10 +38228,34 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scripts in this folder are launched when a new word is edited in the Editor window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T213525Z" creationid="Marc Riera" creationdate="20230131T213525Z">
+        <seg>Els scripts de la carpeta s'executen quan s'edita una paraula nova en la subfinestra «Editor».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scripts in this folder are launched when editing a new segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T213309Z" creationid="Marc Riera" creationdate="20230131T213309Z">
         <seg>Els scripts d'aquesta carpeta s'executen en editar un segment nou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scripts in this folder are launched when the editor switches to the next file in the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T213514Z" creationid="Marc Riera" creationdate="20230131T213514Z">
+        <seg>Els scripts de la carpeta s'executen quan l'editor canvia al fitxer següent del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scripts in this folder are launched when the state of the project changes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T213538Z" creationid="Marc Riera" creationdate="20230131T213538Z">
+        <seg>Els scripts de la carpeta s'executen quan canvia l'estat del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46229,6 +46269,22 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The new filename is in the &lt;c0&gt;activeFileName&lt;/c0&gt; binding.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T213714Z" creationid="Marc Riera" creationdate="20230131T213714Z">
+        <seg>El nom del fitxer nou està vinculat a &lt;c0&gt;activeFileName&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The new word is available from the &lt;c0&gt;newWord&lt;/c0&gt; binding.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T213729Z" creationid="Marc Riera" creationdate="20230131T213729Z">
+        <seg>La paraula nova està vinculada a &lt;c0&gt;newWord&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The new word is available with "newWord".</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184114Z" creationid="Marc Riera" creationdate="20230105T184114Z">
@@ -46889,6 +46945,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214928Z" creationid="Marc Riera" creationdate="20221208T214928Z">
         <seg>La segona és seleccionar elements en una de les subfinestres de l'OmegaT i obrir el quadre de diàleg després de cada selecció perquè l'OmegaT introdueixi els elements automàticament en els diversos camps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The segment is in the &lt;c0&gt;newEntry&gt;&lt;/c0&gt; binding.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T213656Z" creationid="Marc Riera" creationdate="20230131T213656Z">
+        <seg>El segment està vinculat a &lt;c0&gt;newEntry&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48150,6 +48214,14 @@ la ubicació de la carpeta de configuració de l'OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110359Z" creationid="Marc Riera" creationdate="20230130T110359Z">
         <seg>Aquests paràmetres substituiran els paràmetres dels filtres de fitxers globals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These subfolders are already created in the script folder that comes with the distribution.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T213601Z" creationid="Marc Riera" creationdate="20230131T213601Z">
+        <seg>Aquestes subcarpetes ja estan creades en la carpeta de scripts que inclou la distribució.</seg>
       </tuv>
     </tu>
     <tu>
