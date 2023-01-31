@@ -8457,6 +8457,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As a list: all translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T153157Z" creationid="Marc Riera" creationdate="20230131T153157Z">
+        <seg>Com a llista: tots els fitxers traduïbles del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As a reminder, rules work the following way: when a rule matches, OmegaT puts a marker at the match location so that rules that come after ignore that location.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T185532Z" creationid="Marc Riera" creationdate="20221203T185532Z">
@@ -8598,6 +8606,14 @@ inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205022Z" creationid="Marc Riera" creationdate="20221214T205022Z">
         <seg>De la mateixa manera que els algorismes, no hi ha cap regla ràpida i senzilla sobre quina distribució estadística triar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Asks for the URL of the page and downloads it into the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T153422Z" creationid="Marc Riera" creationdate="20230131T153422Z">
+        <seg>Demana l'URL de la pàgina i la baixa a la carpeta &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15769,6 +15785,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each file entry lists its name, file filter type, encoding, and the number of segments it contains</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T153215Z" creationid="Marc Riera" creationdate="20230131T153215Z">
+        <seg>Cada entrada de fitxer inclou el nom, el tipus de filtre de fitxers, la codificació i el nombre de segments que conté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each of the three files constitutes a bilingual export of the current content of your translation.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T120422Z" creationid="Marc Riera" creationdate="20221211T120422Z">
@@ -18062,6 +18086,14 @@ els fils de teranyina t'aparten.
         <seg>Filenames (in the first column) can be sorted alphabetically by clicking in the header.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214449Z" creationid="Marc Riera" creationdate="20221207T214449Z">
+        <seg>Els noms dels fitxers (en la primera columna) es poden ordenar alfabèticament fent clic en la capçalera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filenames (the first column) can be sorted alphabetically by clicking the header.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T153253Z" creationid="Marc Riera" creationdate="20230131T153253Z">
         <seg>Els noms dels fitxers (en la primera columna) es poden ordenar alfabèticament fent clic en la capçalera.</seg>
       </tuv>
     </tu>
@@ -23305,6 +23337,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133428Z" creationid="Marc Riera" creationdate="20230130T133428Z">
         <seg>En el terminal s'escriuen ordres i els paràmetres associats per a realitzar tasques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the window title: the total number of translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T153153Z" creationid="Marc Riera" creationdate="20230131T153153Z">
+        <seg>En el títol de la finestra: nombre total de fitxers traduïbles en el projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37076,6 +37116,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-clicking a filename brings up a popup menu that lets you open the source file or the target file (if it exists).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T153335Z" creationid="Marc Riera" creationdate="20230131T153335Z">
+        <seg>Si feu clic dret en un nom de fitxer, s'obre un menú emergent que us permet obrir el fitxer d'origen i, si existeix, el fitxer de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-clicking on a filename opens a popup that allows opening the source file and (if it exists) the target file.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215539Z" creationid="Marc Riera" creationdate="20221207T215539Z">
@@ -42244,6 +42292,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Supported filters include: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, and Windows Resources.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T153017Z" creationid="Marc Riera" creationdate="20230131T152804Z">
+        <seg>Alguns dels filtres compatibles són: fitxers de llengua ILIAS, paquets de recursos del Java(TM), text clau=valor, CSV de llengua del Magento CE, MoodlePHP, DTD de Mozilla, FTL de Mozilla, PO, RC, subtítols SubRip i recursos del Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Swedish</seg>
@@ -44502,6 +44558,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The buttons at the bottom of the window can be used to add files to your project:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T153415Z" creationid="Marc Riera" creationdate="20230131T153415Z">
+        <seg>Els botons de la part inferior es poden utilitzar per a afegir fitxers al projecte:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
@@ -45889,6 +45953,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215649Z" creationid="Marc Riera" creationdate="20221207T215649Z">
         <seg>El nombre de segments &lt;e0&gt;únics&lt;/e0&gt; es calcula restant el nombre de segments duplicats del nombre total de segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The number of &lt;e0&gt;Unique&lt;/e0&gt; segments is calculated by removing the number of repeated segments from the total number of segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T153403Z" creationid="Marc Riera" creationdate="20230131T153403Z">
+        <seg>El nombre de segments &lt;e0&gt;únics&lt;/e0&gt; es calcula restant el nombre de segments repetits del nombre total de segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49486,6 +49558,14 @@ tots els paràmetres als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This window is displayed automatically when OmegaT loads a project, and can be called at any time using &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T153150Z" creationid="Marc Riera" creationdate="20230131T153150Z">
+        <seg>Aquesta finestra es mostra automàticament quan l'OmegaT carrega un projecte i en qualsevol moment amb &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T145859Z" creationid="Marc Riera" creationdate="20220506T145859Z">
@@ -49498,6 +49578,14 @@ tots els paràmetres als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T201122Z" creationid="Marc Riera" creationdate="20221206T201122Z">
         <seg>Això funciona encara que l'ordre de les claus sigui diferent en cada fitxer i quan els fitxers tenen un nombre diferent d'entrades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This, however, should generally be avoided after you have started translating the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T153411Z" creationid="Marc Riera" creationdate="20230131T153411Z">
+        <seg>De totes maneres, normalment hauríeu d'evitar-ho quan hàgiu començat a traduir el projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51194,6 +51282,14 @@ Exact searches match the whole search string.</seg>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T215720Z" creationid="mgalo" creationdate="20181109T121455Z">
         <seg>Tipus:
 La cerca exacta cerca coincidències de tota la cadena de text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Typing any text opens a &lt;g0&gt;Filter&lt;/g0&gt; field at the bottom of the window where parts of filenames can be entered.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T153224Z" creationid="Marc Riera" creationdate="20230131T153224Z">
+        <seg>Si escriviu qualsevol text, s'obrirà un camp &lt;g0&gt;Filtre&lt;/g0&gt; en la part inferior de la finestra, on es poden introduir parts dels noms dels fitxers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55935,6 +56031,14 @@ d'allà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can change the position of a file by selecting it and clicking one of the &lt;g0&gt;Move...&lt;/g0&gt; buttons on the right.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T153323Z" creationid="Marc Riera" creationdate="20230131T153323Z">
+        <seg>Podeu canviar la posició d'un nom de fitxer seleccionant-lo i fent clic en un dels botons &lt;g0&gt;Mou...&lt;/g0&gt; de la dreta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can change the position of a pane, or even undock it as a separate window, by clicking and holding its name and dragging it.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T104324Z" creationid="Marc Riera" creationdate="20230101T202043Z">
@@ -56211,6 +56315,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can manually edit the &lt;l0/&gt; configuration file to prevent the Source Files list window from opening automatically when a project is loaded.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T153505Z" creationid="Marc Riera" creationdate="20230131T153505Z">
+        <seg>Podeu editar manualment el fitxer de configuració &lt;l0/&gt; per a impedir que la finestra amb la llista de fitxers d'origen s'obri automàticament en carregar un projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can modify the behavior of OmegaT.app by editing the &lt;f0&gt;Configuration.properties&lt;/f0&gt; (OmegaT configuration) as well as the &lt;f1&gt;Info.plist&lt;/f1&gt; (Java configuration) files located inside the OmegaT.app package.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T152040Z" creationid="Marc Riera" creationdate="20230131T152040Z">
@@ -56481,6 +56593,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214433Z" creationid="Marc Riera" creationdate="20221207T214433Z">
         <seg>Podeu utilitzar les fletxes per a seleccionar un fitxer i obrir-lo per a traduir-lo prement &lt;k1&gt;Retorn&lt;/k1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use arrows to select a file, and press &lt;k1&gt;Enter&lt;/k1&gt; to open it for translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T153249Z" creationid="Marc Riera" creationdate="20230131T153249Z">
+        <seg>Podeu utilitzar les fletxes per a seleccionar un fitxer i prémer &lt;k1&gt;Retorn&lt;/k1&gt; per a obrir-lo per a traduir-lo.</seg>
       </tuv>
     </tu>
     <tu>
