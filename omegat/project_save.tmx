@@ -16035,6 +16035,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Embeddings can be used to create a longer section of text (containing several words and spaces) that must flow in the direction opposite that of the segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T145644Z" creationid="Marc Riera" creationdate="20230131T145644Z">
+        <seg>Les incrustacions es poden utilitzar per a crear un fragment més llarg de text (de diverses paraules i espais) que s'hagi d'escriure en la direcció contrària a la del segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Emptiness of soul
@@ -23760,6 +23768,22 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T211840Z" creationid="mgalo" creationdate="20181108T133933Z">
         <seg>Insereix un caràcter de control d'Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert a LRM after a weak-directionality character that must run left-to-right in a right-to-left segment (e.g. an English excerpt inside Arabic text).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T145530Z" creationid="Marc Riera" creationdate="20230131T145530Z">
+        <seg>Inseriu un caràcter LRM després d'un caràcter amb direccionalitat feble que s'ha d'escriure d'esquerra a dreta en un segment de dreta a esquerra (p. ex., un fragment en anglès en un text en àrab).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert a RLM after a weak-directionality character that must run right-to-left in a left-to-right segment (e.g. an Arabic excerpt inside English text).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T145557Z" creationid="Marc Riera" creationdate="20230131T145557Z">
+        <seg>Inseriu un caràcter RLM després d'un caràcter amb direccionalitat feble que s'ha d'escriure de dreta a esquerra en un segment d'esquerra a dreta (p. ex., un fragment en àrab en un text en anglès).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49440,6 +49464,14 @@ tots els paràmetres als valors per defecte.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>To change the position of a character with weak or neutral directionality (like punctuation symbols), insert an LRM or RLM character after the character, depending on the directionality of the segment:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T145425Z" creationid="Marc Riera" creationdate="20230131T145425Z">
+        <seg>Per a canviar la posició d'un caràcter amb direccionalitat feble o neutral (com els signes de puntuació), inseriu un caràcter LRM o RLM a continuació, en funció de la direccionalitat del segment:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
@@ -49459,10 +49491,26 @@ tots els paràmetres als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To create a left-to-right embedding in a right-to-left segment, insert a left-to-right embedding (LRE) character, type or insert the left-to-right text, and then insert the pop directional formatting (PDF) character.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T145919Z" creationid="Marc Riera" creationdate="20230131T145919Z">
+        <seg>Per a crear una incrustació d'esquerra a dreta en un segment de dreta a esquerra, inseriu un caràcter d'incrustació d'esquerra a dreta (LRE), escriviu o inseriu el text d'esquerra a dreta i, a continuació, inseriu el caràcter de fi del format direccional (PDF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To create a new rule set:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T103051Z" creationid="Marc Riera" creationdate="20230104T103051Z">
         <seg>Per a crear un conjunt de regles nou:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create a right-to-left embedding in a left-to-right segment, insert a right-to-left embedding (RLE) character, type or insert the right-to-left text, and then insert the PDF character.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T145947Z" creationid="Marc Riera" creationdate="20230131T145947Z">
+        <seg>Per a crear una incrustació de dreta a esquerra en un segment d'esquerra a dreta, inseriu un caràcter d'incrustació de dreta a esquerra (RLE), escriviu o inseriu el text de dreta a esquerra i, a continuació, inseriu el caràcter de fi del format direccional (PDF).</seg>
       </tuv>
     </tu>
     <tu>
