@@ -22366,6 +22366,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the folder is an empty repository and the &lt;f0&gt;omegat.project&lt;/f0&gt; file contains remote repository information, the project will be recognized as a team project by OmegaT:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T192050Z" creationid="Marc Riera" creationdate="20230201T192050Z">
+        <seg>Si la carpeta és un dipòsit buit i el fitxer &lt;f0&gt;omegat.project&lt;/f0&gt; conté informació d'un dipòsit remot, l'OmegaT reconeixerà el projecte com a projecte en equip:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the folder is empty, if none of the files contain translatable contents, or if there are no files supported by OmegaT’s file filters, OmegaT will tell you that the folder is empty.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T142905Z" creationid="Marc Riera" creationdate="20221206T142905Z">
@@ -25052,6 +25060,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T192412Z" creationid="Marc Riera" creationdate="20201122T192412Z">
         <seg>Permet establir paràmetres per a tots els projectes de traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It also acts as an &lt;e0&gt;address book&lt;/e0&gt; that specifies where project resources are located.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T192342Z" creationid="Marc Riera" creationdate="20230201T192342Z">
+        <seg>També fa la funció de &lt;e0&gt;llibreta d'adreces&lt;/e0&gt; i especifica on són els recursos del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31035,6 +31051,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT also creates a backup of that file (&lt;f0&gt;omegat.project.bak&lt;/f0&gt;) and will automatically use it to restore your project settings in case of need.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T192431Z" creationid="Marc Riera" creationdate="20230201T192431Z">
+        <seg>L'OmegaT també crea una còpia de seguretat del fitxer (&lt;f0&gt;omegat.project.bak) i l'utilitzarà automàticament per a recuperar els paràmetres del projecte si cal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT also creates regular backups of that file.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T191242Z" creationid="Marc Riera" creationdate="20221210T191242Z">
@@ -33892,6 +33916,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170404Z" creationid="Marc Riera" creationdate="20210521T170404Z">
         <seg>Altres formats de fitxer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other files will be added over the course of the translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T192225Z" creationid="Marc Riera" creationdate="20230201T192225Z">
+        <seg>Al llarg de la traducció s'afegiran altres fitxers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39578,6 +39610,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120549Z" creationid="Marc Riera" creationdate="20221218T120549Z">
         <seg>Consulteu &lt;l0&gt;l'apartat anterior&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;below&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T192236Z" creationid="Marc Riera" creationdate="20230201T192236Z">
+        <seg>Consulteu-ne més detalls &lt;l0&gt;a continuació&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50085,6 +50125,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the project parameters defined in the &lt;l0&gt;project properties&lt;/l0&gt;, such as the source and target languages, their respective tokenizers and the type of segmentation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T192317Z" creationid="Marc Riera" creationdate="20230201T192317Z">
+        <seg>Aquest fitxer conté els paràmetres del projecte definits en les &lt;l0&gt;propietats del projecte&lt;/l0&gt;, com ara les llengües d'origen i de destinació, els lematitzadors corresponents i el tipus de segmentació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file defines the following parameters:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T141435Z" creationid="Marc Riera" creationdate="20221211T141435Z">
@@ -50376,6 +50424,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T185211Z" creationid="Marc Riera" creationdate="20201125T185211Z">
         <seg>És el centre principal de la comunitat d'usuaris de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the project folder that always contains &lt;l0/&gt;, the project translation memory, and &lt;l1/&gt;, the statistics data file for the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T192221Z" creationid="Marc Riera" creationdate="20230201T192221Z">
+        <seg>Aquesta és la carpeta del projecte que sempre conté el fitxer &lt;l0/&gt;, la memòria de traducció del projecte, i &lt;l1/&gt;, el fitxer d'estadístiques del projecte.</seg>
       </tuv>
     </tu>
     <tu>
