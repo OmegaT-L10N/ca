@@ -15002,6 +15002,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display: file names</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T131503Z" creationid="Marc Riera" creationdate="20230201T131503Z">
+        <seg>Mostra: noms dels fitxers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays &lt;l0&gt;Project properties&lt;/l0&gt; dialog to edit project languages and folder locations.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161552Z" creationid="Marc Riera" creationdate="20220625T161552Z">
@@ -17250,6 +17258,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T213033Z" creationid="Marc Riera" creationdate="20201130T213033Z">
         <seg>Cada 3 minuts (per defecte), el projecte local se sincronitza amb el dipòsit remot, de manera que el gestor del projecte o la resta de traductors poden veure i utilitzar traduccions afegides durant aquest període.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every segment is displayed individually, even if it is a repetition found in either the same document or a different document in the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T131634Z" creationid="Marc Riera" creationdate="20230201T131634Z">
+        <seg>Cada segment es mostra individualment, encara que sigui una repetició en el mateix fitxer o en un fitxer diferent del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23950,6 +23966,30 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T221434Z" creationid="mgalo" creationdate="20181112T221434Z">
         <seg>Inclou el primer segment &amp;no únic en marcar els segments no únics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include the glossaries located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T131546Z" creationid="Marc Riera" creationdate="20230201T131546Z">
+        <seg>Inclou els glossaris de la carpeta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include the project memory (&lt;l0/&gt;).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T131529Z" creationid="Marc Riera" creationdate="20230201T131529Z">
+        <seg>Inclou la memòria del projecte (&lt;l0/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include the translation memories located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T131539Z" creationid="Marc Riera" creationdate="20230201T131539Z">
+        <seg>Inclou les memòries de traducció de la carpeta &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30940,6 +30980,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT can conduct searches in any file that it can read as source file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T131609Z" creationid="Marc Riera" creationdate="20230201T131609Z">
+        <seg>L'OmegaT pot cercar en qualsevol fitxer que pugui llegir com a fitxer d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
@@ -37708,6 +37756,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Returns results that match both the full- and half-width forms (CJK characters) of the characters in the search terms.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T131925Z" creationid="Marc Riera" creationdate="20230201T131925Z">
+        <seg>Retorna els resultats que coincideixen tant amb les fomes d'amplada completa com mitjana (caràcters CJK) dels caràcters en els termes de cerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reuse TMs</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T113114Z" creationid="Marc Riera" creationdate="20221211T113114Z">
@@ -38992,6 +39048,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search in reference files not included in the project resources.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T131601Z" creationid="Marc Riera" creationdate="20230201T131601Z">
+        <seg>Cerca en fitxers de referència que no formen part dels recursos del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search in the source segments.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230201T130802Z" creationid="Marc Riera" creationdate="20230201T130802Z">
@@ -39004,6 +39068,30 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230201T130804Z" creationid="Marc Riera" creationdate="20230201T130804Z">
         <seg>Cerca en els segments de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search in the various bilingual resources of the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T131514Z" creationid="Marc Riera" creationdate="20230201T131514Z">
+        <seg>Cerca en els diversos recursos bilingües del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search in: Files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T131550Z" creationid="Marc Riera" creationdate="20230201T131550Z">
+        <seg>Cerca en: fitxers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search in: Project</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T131509Z" creationid="Marc Riera" creationdate="20230201T131509Z">
+        <seg>Cerca en: projecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -40594,6 +40682,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select additional criteria such as the person who authored or changed the translation, the date and time of translation (modification), or whether to exclude orphan segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T131906Z" creationid="Marc Riera" creationdate="20230201T131906Z">
+        <seg>Seleccioneu criteris addicionals, com ara la persona que ha traduït o modificat un segment, la data i l'hora de la traducció (modificació), o si s'han d'excloure els segments orfes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select appropriate version</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220724Z" creationid="Marc Riera" creationdate="20221124T220724Z">
@@ -40704,6 +40800,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144756Z" creationid="Marc Riera" creationdate="20230105T144756Z">
         <seg>Seleccioneu les regles en funció de si són rellevants per al tipus de text que traduïu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the scope of the search:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T131522Z" creationid="Marc Riera" creationdate="20230201T131522Z">
+        <seg>Seleccioneu l'àmbit de la cerca:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41115,6 +41219,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T115015Z" creationid="Marc Riera" creationdate="20180221T115015Z">
         <seg>Conjunts de regles de segmentació:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sets the maximum number of matches displayed in the search result area.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T131935Z" creationid="Marc Riera" creationdate="20230201T131935Z">
+        <seg>Estableix el nombre màxim de coincidències que es mostren en l'àrea de resultats de cerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43489,6 +43601,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T171046Z" creationid="Marc Riera" creationdate="20180214T224110Z">
         <seg>El fitxer TMX s'ha creat amb l'OmegaT 1.4.x o una versió anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX files are excluded from file searches since OmegaT does not recognize them as a source file format despite supporting them as translation memories.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T131823Z" creationid="Marc Riera" creationdate="20230201T131823Z">
+        <seg>Els fitxers TMX queden exclosos de les cerques de fitxers, ja que l'OmegaT no els reconeix com a format de fitxer d'origen encara que els admeti com a memòries de traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46889,6 +47009,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081934Z" creationid="Marc Riera" creationdate="20221201T081934Z">
         <seg>El més recent és &lt;f0&gt;OmegaT.log&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The name of the file where the segment is found is displayed above each result.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T131647Z" creationid="Marc Riera" creationdate="20230201T131647Z">
+        <seg>Es mostra el nom del fitxer que conté el segment sobre cada resultat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54440,6 +54568,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;g0&gt;Hide Advanced Options&lt;/g0&gt; button to stop showing the advanced options.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T131959Z" creationid="Marc Riera" creationdate="20230201T131959Z">
+        <seg>Utilitzeu el botó &lt;g0&gt;Oculta les opcions avançades&lt;/g0&gt; per a deixar de mostrar les opcions avançades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;g0&gt;ID&lt;/g0&gt; comparison mode to align Key=Value texts.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T145846Z" creationid="Marc Riera" creationdate="20220506T145846Z">
@@ -57203,6 +57339,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085124Z" creationid="Marc Riera" creationdate="20230104T085124Z">
         <seg>També podeu utilitzar les tecles de direcció i prémer &lt;k0&gt;Espai&lt;/k0&gt; en el segment corresponent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also use the following shortcuts in the search results:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T132011Z" creationid="Marc Riera" creationdate="20230201T132011Z">
+        <seg>També podeu utilitzar les dreceres següents en els resultats de cerca:</seg>
       </tuv>
     </tu>
     <tu>
