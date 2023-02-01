@@ -8102,6 +8102,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT project consists of a set of folders and files that contain the resources used for translating.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152317Z" creationid="Marc Riera" creationdate="20230201T152317Z">
+        <seg>Un projecte de l'OmegaT està format per un conjunt de carpetes i fitxers que contenen tots els recursos que s'utilitzen per a traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An OmegaT project is a folder containing files and subfolders.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164743Z" creationid="Marc Riera" creationdate="20220625T164743Z">
@@ -10012,6 +10020,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T131806Z" creationid="Marc Riera" creationdate="20221207T131806Z">
         <seg>Per defecte, l'OmegaT suprimeix qualsevol espai en blanc inicial i final del contingut traduïble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, a newly created project will contain all the required resources within its folder, and those resources are assigned the default names below.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152337Z" creationid="Marc Riera" creationdate="20230201T152337Z">
+        <seg>Per defecte, un projecte de nova creació conté tots els recursos necessaris dins de la carpeta i aquests recursos tenen els noms per defecte següents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14162,6 +14178,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202949Z" creationid="Marc Riera" creationdate="20230101T202949Z">
         <seg>Drecera per defecte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default structure</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152246Z" creationid="Marc Riera" creationdate="20230201T152246Z">
+        <seg>Estructura per defecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -19123,6 +19147,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T103626Z" creationid="Marc Riera" creationdate="20221215T103626Z">
         <seg>Per exemple, utilitzeu el patró &lt;l0&gt;read*&lt;/l0&gt; si voleu que el filtre de text tracti fitxers Llegeix-me (&lt;l1&gt;readme, read.me&lt;/l1&gt; o &lt;l2&gt;readme.txt&lt;/l2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, you can</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152555Z" creationid="Marc Riera" creationdate="20230201T152555Z">
+        <seg>Per exemple, podeu fer el següent:</seg>
       </tuv>
     </tu>
     <tu>
@@ -54110,6 +54142,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access the project folder and its subfolders.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152435Z" creationid="Marc Riera" creationdate="20230201T152435Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per accedir a la carpeta del projecte i les seves subcarpetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access the window.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T183118Z" creationid="Marc Riera" creationdate="20230105T183118Z">
@@ -54402,6 +54442,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221450Z" creationid="Marc Riera" creationdate="20221218T221450Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt;, seleccioneu una carpeta buida o creeu-ne una de nova amb el nom del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt;, to easily assign locations other than the default ones to the various resources either when you create the project, or later on.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152543Z" creationid="Marc Riera" creationdate="20230201T152543Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a assignar fàcilment ubicacions diferents de les per defecte als diferents recursos, quan creeu el projecte o més endavant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59645,6 +59693,38 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>contains the glossaries</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152411Z" creationid="Marc Riera" creationdate="20230201T152411Z">
+        <seg>conté els glossaris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>contains the reference dictionaries</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152423Z" creationid="Marc Riera" creationdate="20230201T152423Z">
+        <seg>conté els diccionaris de referència.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>contains the reference translation memories</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152421Z" creationid="Marc Riera" creationdate="20230201T152421Z">
+        <seg>conté les memòries de traducció de referència.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>contains the source files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152403Z" creationid="Marc Riera" creationdate="20230201T152403Z">
+        <seg>conté els fitxers d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>contributors.txt</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T111948Z" creationid="Marc Riera" creationdate="20221129T111948Z">
@@ -59673,6 +59753,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T124442Z" creationid="Marc Riera" creationdate="20221211T124442Z">
         <seg>Creeu una carpeta anomenada &lt;f0&gt;tmx2source&lt;/f0&gt; en la carpeta &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>create the translated files in a shared folder outside the project folder, in a location easily accessible to your reviewer, or</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152606Z" creationid="Marc Riera" creationdate="20230201T152606Z">
+        <seg>Crear els fitxers traduïts en una carpeta compartida fora de la carpeta del projecte, en una ubicació fàcilment accessible per al revisor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62164,6 +62252,22 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>is the location where the target files are created</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152408Z" creationid="Marc Riera" creationdate="20230201T152408Z">
+        <seg>és la ubicació on es creen els fitxers de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>is the project writable glossary</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152418Z" creationid="Marc Riera" creationdate="20230201T152418Z">
+        <seg>és el glossari modificable del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>issue_provider_sample.groovy</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134717Z" creationid="Marc Riera" creationdate="20221209T134717Z">
@@ -64487,6 +64591,22 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212841Z" creationid="Marc Riera" creationdate="20201130T212841Z">
         <seg>Utilitzeu &lt;m0&gt; &lt;g1&gt;Projecte&lt;/g1&gt; &lt;g2&gt;Publica els fitxers d'origen&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use a glossary folder from a separate but related project, or</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152618Z" creationid="Marc Riera" creationdate="20230201T152618Z">
+        <seg>Utilitzar una carpeta de glossaris d'un projecte independent però relacionat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use a reference translation memory folder that you have set up for related projects, and so on.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152636Z" creationid="Marc Riera" creationdate="20230201T152636Z">
+        <seg>Utilitzar una carpeta de memòries de traducció de referència que hàgiu configurat per a projectes relacionats.</seg>
       </tuv>
     </tu>
     <tu>
