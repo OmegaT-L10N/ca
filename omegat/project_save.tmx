@@ -13390,6 +13390,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Creating a project gives it a core hierarchy, but its final structure is not fixed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T190127Z" creationid="Marc Riera" creationdate="20230201T190127Z">
+        <seg>En crear un projecte, rep una jerarquia principal, però l'estructura final no és fixa.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Creating output file '{0}'</seg>
@@ -57445,6 +57453,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T120527Z" creationid="Marc Riera" creationdate="20230130T120527Z">
         <seg>També podeu fer clic en el fitxer &lt;f0&gt;OmegaT.jar&lt;/f0&gt; per a iniciar-lo directament si l'extensió &lt;f1&gt;.jar&lt;/f1&gt; està associada amb l'iniciador del Java del sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also create OmegaT projects either manually or with scripts by copying a set of prewritten files to a new folder:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T191916Z" creationid="Marc Riera" creationdate="20230201T191916Z">
+        <seg>També podeu crear projectes de l'OmegaT manualment o amb scripts copiant un conjunt de fitxers preescrits a una carpeta nova:</seg>
       </tuv>
     </tu>
     <tu>
