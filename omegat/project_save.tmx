@@ -11491,6 +11491,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on the &lt;g0&gt;Filter&lt;/g0&gt; button to show only the matching search result segments in the &lt;l1/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T132146Z" creationid="Marc Riera" creationdate="20230201T132146Z">
+        <seg>Feu clic en el botó &lt;g0&gt;Filtra&lt;/g0&gt; per a mostrar només els segments que coincideixen amb els resultats de la cerca en la subfinestra &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on the button to select the folder that you want to use instead of the default resource folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T142756Z" creationid="Marc Riera" creationdate="20221206T142756Z">
@@ -25683,6 +25691,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Jump to the current segment in the editor.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T132054Z" creationid="Marc Riera" creationdate="20230201T132054Z">
+        <seg>Salta al segment actual en l'editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Jumping to last edited segment...</seg>
@@ -29073,6 +29089,22 @@ as the Applications folder.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200124T225024Z" creationid="Marc Riera" creationdate="20200122T230757Z">
         <seg>Moveu la carpeta a una ubicació
 adequada, com ara la carpeta «Aplicacions».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move to the next segment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T132043Z" creationid="Marc Riera" creationdate="20230201T132043Z">
+        <seg>Es desplaça al segment següent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move to the preceding segment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T132049Z" creationid="Marc Riera" creationdate="20230201T132049Z">
+        <seg>Es desplaça al segment anterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40828,6 +40860,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the second match</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T132122Z" creationid="Marc Riera" creationdate="20230201T132122Z">
+        <seg>Selecció de la segona coincidència</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the source and target languages by hand, or use the drop-down menus.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T105523Z" creationid="Marc Riera" creationdate="20221206T105523Z">
@@ -47789,6 +47829,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The selected segment is highlighted in green:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T132100Z" creationid="Marc Riera" creationdate="20230201T132100Z">
+        <seg>El segment seleccionat es ressalta en verd:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The selected text has priority over the selected match.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234529Z" creationid="Marc Riera" creationdate="20221230T234529Z">
@@ -51484,6 +51532,14 @@ tots els paràmetres als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T202659Z" creationid="Marc Riera" creationdate="20220621T202659Z">
         <seg>Per a suprimir un filtre, seleccioneu el botó &lt;g0&gt;Suprimeix el filtre&lt;/g0&gt; o torneu a carregar un projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To remove the filter, click on the &lt;g2&gt;Remove Filter&lt;/g2&gt; button at the top of the &lt;l3/&gt; pane, or reload the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T132204Z" creationid="Marc Riera" creationdate="20230201T132204Z">
+        <seg>Per a suprimir el filtre, feu clic en el botó &lt;g2&gt;Suprimeix el filtre&lt;/g2&gt; de la part superior de la subfinestra &lt;l3/&gt; o torneu a carregar el projecte.</seg>
       </tuv>
     </tu>
     <tu>
