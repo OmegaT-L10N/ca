@@ -4163,6 +4163,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c0&gt;*&lt;/c0&gt; matches zero or more characters, from the current position up to the end of a word.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T130522Z" creationid="Marc Riera" creationdate="20230201T130522Z">
+        <seg>&lt;c0&gt;*&lt;/c0&gt; coincideix amb zero o més caràcters, des de la posició actual fins al final d'una paraula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165411Z" creationid="Stephanie" creationdate="20150722T181030Z">
@@ -4175,6 +4183,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165220Z" creationid="Stephanie" creationdate="20150722T180447Z">
         <seg>&lt;c0&gt;&lt;modificador&gt;&lt;/c0&gt; pot ser: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;c0&gt;?&lt;/c0&gt; matches any single character.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T130601Z" creationid="Marc Riera" creationdate="20230201T130601Z">
+        <seg>&lt;c0&gt;?&lt;/c0&gt; coincideix amb qualsevol caràcter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14978,6 +14994,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display: all matching segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T131455Z" creationid="Marc Riera" creationdate="20230201T131455Z">
+        <seg>Mostra: tots els segments coincidents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays &lt;l0&gt;Project properties&lt;/l0&gt; dialog to edit project languages and folder locations.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T161552Z" creationid="Marc Riera" creationdate="20220625T161552Z">
@@ -19086,6 +19110,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T203757Z" creationid="Marc Riera" creationdate="20220621T203757Z">
         <seg>Per exemple, &lt;l0&gt;«cant?»&lt;/l0&gt; coincidiria amb la paraula &lt;l1&gt;«canto»&lt;/l1&gt; i &lt;l2&gt;«canta»&lt;/l2&gt; en la paraula &lt;l3&gt;«cantant»&lt;/l3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For instance, &lt;l0&gt;run?&lt;/l0&gt; matches &lt;l1&gt;runs&lt;/l1&gt;, as well as the &lt;l2&gt;runn&lt;/l2&gt; portion of &lt;l3&gt;running&lt;/l3&gt; or &lt;l4&gt;runner&lt;/l4&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T130657Z" creationid="Marc Riera" creationdate="20230201T130657Z">
+        <seg>Per exemple, &lt;l0&gt;corre?&lt;/l0&gt; coincideix amb &lt;l1&gt;correm&lt;/l1&gt; i amb la part &lt;l2&gt;corren&lt;/l2&gt; de &lt;l3&gt;corrent&lt;/l3&gt; o &lt;l4&gt;corrents&lt;/l4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38936,6 +38968,46 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search in both translated and untranslated segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T130833Z" creationid="Marc Riera" creationdate="20230201T130823Z">
+        <seg>Cerca tant en els segments traduïts com sense traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search in comments attached to segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T130814Z" creationid="Marc Riera" creationdate="20230201T130814Z">
+        <seg>Cerca en els comentaris adjunts als segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search in notes attached to segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T130812Z" creationid="Marc Riera" creationdate="20230201T130812Z">
+        <seg>Cerca en les notes adjuntes als segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search in the source segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T130802Z" creationid="Marc Riera" creationdate="20230201T130802Z">
+        <seg>Cerca en els segments d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search in the target segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T130804Z" creationid="Marc Riera" creationdate="20230201T130804Z">
+        <seg>Cerca en els segments de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search matches are displayed in bold blue characters, and the modified strings are displayed in orange to show the result of the replacement.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T222410Z" creationid="Marc Riera" creationdate="20230131T222410Z">
@@ -38948,6 +39020,22 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T201652Z" creationid="Marc Riera" creationdate="20220621T201652Z">
         <seg>Mètodes i paràmetres de cerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search only in translated segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T130829Z" creationid="Marc Riera" creationdate="20230201T130829Z">
+        <seg>Cerca només en els segments traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search only in untranslated segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T130841Z" creationid="Marc Riera" creationdate="20230201T130841Z">
+        <seg>Cerca només en els segments sense traduir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42370,6 +42458,22 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Space characters in search terms will match both a normal space and a non-breaking space (\u00A) character.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T130758Z" creationid="Marc Riera" creationdate="20230201T130758Z">
+        <seg>Els caràcters d'espai en els termes de cerca coincidiran tant amb un espai normal com amb un caràcter d'espai no separable (\u00A).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Space matches nbsp</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T130741Z" creationid="Marc Riera" creationdate="20230201T130741Z">
+        <seg>Espais no separables</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Spanish</seg>
@@ -44337,6 +44441,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230201T130515Z" creationid="Marc Riera" creationdate="20230201T130515Z">
         <seg>Els caràcters &lt;c0&gt;*&lt;/c0&gt; i &lt;c1&gt;?&lt;/c1&gt; es poden utilitzar en les cerques exactes i per paraules clau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;c0&gt;*&lt;/c0&gt; and &lt;c1&gt;?&lt;/c1&gt; characters have a special meaning in regular expressions.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T130706Z" creationid="Marc Riera" creationdate="20230201T130706Z">
+        <seg>Els caràcters &lt;c0&gt;*&lt;/c0&gt; i &lt;c1&gt;?&lt;/c1&gt; tenen un significat especial en les expressions regulars.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47477,6 +47589,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The search term &lt;l0&gt;run*&lt;/l0&gt;, for example, matches &lt;l1&gt;run&lt;/l1&gt;, &lt;l2&gt;runs&lt;/l2&gt; and &lt;l3&gt;running&lt;/l3&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T130558Z" creationid="Marc Riera" creationdate="20230201T130558Z">
+        <seg>El terme de cerca &lt;l0&gt;corre*&lt;/l0&gt;, per exemple, coincideix amb &lt;l1&gt;corre&lt;/l1&gt;, &lt;l2&gt;correm&lt;/l2&gt; i &lt;l3&gt;corrent&lt;/l3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The search window has its own menus:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T160049Z" creationid="Marc Riera" creationdate="20230131T160049Z">
@@ -48678,6 +48798,14 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191113T071905Z" creationid="Marc Riera" creationdate="20191113T071905Z">
         <seg>Per tant, no es pot determinar amb certesa
 la ubicació de la carpeta de configuració de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, the wild card searches described above only apply to exact and keyword searches.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T130722Z" creationid="Marc Riera" creationdate="20230201T130722Z">
+        <seg>Per tant, les cerques amb caràcters comodí descrites anteriorment només s'apliquen a les cerques exactes i per paraules clau.</seg>
       </tuv>
     </tu>
     <tu>
