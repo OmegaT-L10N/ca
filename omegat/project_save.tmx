@@ -23141,6 +23141,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you remove a TMX file from &lt;f0&gt;tm/auto&lt;/f0&gt; before Step 3, its content will not be kept.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T153033Z" creationid="Marc Riera" creationdate="20230201T153033Z">
+        <seg>Si suprimiu un fitxer TMX de la carpeta &lt;f0&gt;tm/auto&lt;/f0&gt; abans del pas 3, el contingut no es conservarà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you select a text string (in any pane) before calling the function, the text will be pasted by default in the &lt;g0&gt;Search for:&lt;/g0&gt; field.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220039Z" creationid="Marc Riera" creationdate="20221208T220039Z">
@@ -27475,6 +27483,30 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make a decision about the immutability of the enforced segments:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T153121Z" creationid="Marc Riera" creationdate="20230201T153114Z">
+        <seg>Preneu una decisió sobre la immutabilitat dels segments imposats:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make a minor change anywhere in the project and save it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152957Z" creationid="Marc Riera" creationdate="20230201T152957Z">
+        <seg>Feu un canvi menor en qualsevol part del projecte i deseu-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make a minor change anywhere in the project and save.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T153044Z" creationid="Marc Riera" creationdate="20230201T153044Z">
+        <seg>Feu un canvi menor en qualsevol part del projecte i deseu-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make a slight change anywhere in the project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T165005Z" creationid="Marc Riera" creationdate="20220625T165005Z">
@@ -28586,6 +28618,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T203251Z" creationid="Marc Riera" creationdate="20201010T203251Z">
         <seg>Breu ressenya de l'OmegaT, 2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Minimal contents</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152809Z" creationid="Marc Riera" creationdate="20230201T152809Z">
+        <seg>Contingut mínim</seg>
       </tuv>
     </tu>
     <tu>
@@ -31106,6 +31146,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T181223Z" creationid="Marc Riera" creationdate="20230104T181223Z">
         <seg>L'OmegaT pot executar ordres automàticament després d'utilitzar &lt;l0/&gt;&lt;l1/&gt; o &lt;l2/&gt;&lt;l3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT can be instructed to automatically insert matches.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152908Z" creationid="Marc Riera" creationdate="20230201T152908Z">
+        <seg>Es pot configurar l'OmegaT perquè insereixi les coincidències automàticament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46559,6 +46607,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder can contain any number of subfolders, including some that have special functions:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152936Z" creationid="Marc Riera" creationdate="20230201T152936Z">
+        <seg>La carpeta pot contenir qualsevol nombre de subcarpetes, incloent-hi algunes amb funcions especials:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder containing the scripts includes subfolders corresponding to the available events.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T213225Z" creationid="Marc Riera" creationdate="20230131T213225Z">
@@ -48220,6 +48276,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T191011Z" creationid="Marc Riera" creationdate="20221124T190840Z">
         <seg>La carpeta de fitxers d'origen no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source folder contains the files to translate.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152828Z" creationid="Marc Riera" creationdate="20230201T152828Z">
+        <seg>La carpeta «source» conté els fitxers per a traduir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50844,6 +50908,14 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>This updates the project translation memory.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T153050Z" creationid="Marc Riera" creationdate="20230201T153050Z">
+        <seg>Això actualitza la memòria de traducció del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
@@ -50880,6 +50952,14 @@ the server.</seg>
         <seg>Això
 suprimirà les dades locals i tornarà a baixar els continguts del projecte
 des del servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will add the translations loaded from the tm/auto folder to the project translation memory.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T153008Z" creationid="Marc Riera" creationdate="20230201T153008Z">
+        <seg>Això afegirà les traduccions carregades des de la carpeta «tm/auto» a la memòria de traducció del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53576,6 +53656,14 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164852Z" creationid="Marc Riera" creationdate="20220625T164852Z">
         <seg>Els segments sense traduïr romandran en la llengua original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Untranslated segments will remain in the source language.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152846Z" creationid="Marc Riera" creationdate="20230201T152846Z">
+        <seg>Els segments sense traduir romandran en la llengua d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57251,6 +57339,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T155346Z" creationid="Marc Riera" creationdate="20230130T155346Z">
         <seg>Podeu afegir tantes assignacions com vulgueu, però una de les assignacions ha d'incloure el fitxer &lt;f0&gt;omegat.project&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add folders or remove files with your file manager.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152836Z" creationid="Marc Riera" creationdate="20230201T152836Z">
+        <seg>Podeu afegir carpetes o suprimir fitxers amb el gestor de fitxers.</seg>
       </tuv>
     </tu>
     <tu>
