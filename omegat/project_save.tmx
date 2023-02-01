@@ -8480,6 +8480,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any given folder that contains a valid &lt;f0&gt;omegat.project&lt;/f0&gt; file will be recognized as a translation project by OmegaT (even if it later needs manual adjustments).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T191957Z" creationid="Marc Riera" creationdate="20230201T191957Z">
+        <seg>L'OmegaT reconeixerà qualsevol carpeta que contingui un fitxer &lt;f0&gt;omegat.project&lt;/f0&gt; com a projecte de traducció (fins i tot si necessita ajustaments manuals).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any paragraph matching the regular expression is ignored while loading and is not displayed for translation.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T105111Z" creationid="Marc Riera" creationdate="20230130T105111Z">
