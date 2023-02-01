@@ -4867,6 +4867,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Replace All&lt;/g0&gt;: replace every occurrence (after displaying a confirmation window showing the number of occurrences).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T134159Z" creationid="Marc Riera" creationdate="20230201T134159Z">
+        <seg>&lt;g0&gt;Substitueix-ho tot&lt;/g0&gt;: substitueix tots els resultats (després de mostrar una finestra de confirmació que indica el nombre de resultats).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Replace With Match or Selection&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;R&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T234526Z" creationid="Marc Riera" creationdate="20221230T234526Z">
@@ -4903,6 +4911,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T152422Z" creationid="Marc Riera" creationdate="20220611T152422Z">
         <seg>&lt;g0&gt;Substitueix:&lt;/g0&gt; aplica una substitució «d'un en un», mitjançant botons en la capçalera de l'editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Replace:&lt;/g0&gt; replaces each entry one at a time in the Editor pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T134223Z" creationid="Marc Riera" creationdate="20230201T134223Z">
+        <seg>&lt;g0&gt;Substitueix:&lt;/g0&gt; substitueix cada entrada d'una en una en la subfinestra «Editor».</seg>
       </tuv>
     </tu>
     <tu>
@@ -11663,6 +11679,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205425Z" creationid="Marc Riera" creationdate="20221214T205420Z">
         <seg>Si feu clic en aquest botó, podeu editar les regles de segmentació que s'apliquen al projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clickthe &lt;g0&gt;Replace Next&lt;/g0&gt; or &lt;g1&gt;Skip&lt;/g1&gt; button, to move to the next entry, and click the &lt;g2&gt;Finish&lt;/g2&gt; button to end the replacement operation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T134501Z" creationid="Marc Riera" creationdate="20230201T134501Z">
+        <seg>Feu clic en el botó &lt;g0&gt;Substitueix el següent&lt;/g0&gt; o &lt;g1&gt;Omet&lt;/g1&gt; per a passar a l'entrada següent i feu clic en el botó &lt;g2&gt;Finalitza&lt;/g2&gt; per a finalitzar l'operació de substitució.</seg>
       </tuv>
     </tu>
     <tu>
