@@ -25521,6 +25521,14 @@ en la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>It will be populated with the translated files every time you use &lt;l0/&gt; or &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T192955Z" creationid="Marc Riera" creationdate="20230201T192955Z">
+        <seg>S'emplenarà amb els fitxers traduïts cada vegada que utilitzeu &lt;l0/&gt; o &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>It will install the correct environment for your computer and the application
@@ -46039,6 +46047,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contents of the files in a format that OmegaT supports will be displayed in the &lt;l0/&gt; pane for translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T192939Z" creationid="Marc Riera" creationdate="20230201T192939Z">
+        <seg>El contingut dels fitxers en un format compatible amb l'OmegaT es mostrarà en la subfinestra &lt;l0/&gt; perquè el traduïu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contents of the glossary pane will be updated accordingly.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T220452Z" creationid="Marc Riera" creationdate="20201130T220452Z">
@@ -48718,6 +48734,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T205156Z" creationid="Marc Riera" creationdate="20221124T190852Z">
         <seg>La carpeta de fitxers traduïts no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translated files that correspond to the contents of the &lt;l0/&gt; folder, whether fully translated or not, are then created here, using the same hierarchy as in the source folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T193034Z" creationid="Marc Riera" creationdate="20230201T193034Z">
+        <seg>Aquí es creen els fitxers traduïts corresponents al contingut de la carpeta &lt;l0/&gt;, s'hagin traduït completament o no, seguint la mateixa jerarquia que en la carpeta d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54266,6 +54290,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110323Z" creationid="Marc Riera" creationdate="20230130T110323Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; o &lt;l2/&gt;&lt;l3/&gt; per a crear els fitxers de destinació i executar l'ordre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; or drop files on the &lt;l2/&gt; pane to add files any time you want.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T192920Z" creationid="Marc Riera" creationdate="20230201T192920Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; o deixeu anar fitxers en la subfinestra &lt;l2/&gt; per a afegir-los sempre que vulgueu.</seg>
       </tuv>
     </tu>
     <tu>
