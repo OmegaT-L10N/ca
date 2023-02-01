@@ -5686,6 +5686,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="git" url="https://URL/OF/THE/REMOTE/PROJECT/REPOSITORY"&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152719Z" creationid="Marc Riera" creationdate="20230201T152719Z">
+        <seg>&lt;repository type="git" url="https://URL/DEL/DIPÒSIT/DEL/PROJECTE/REMOT"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
@@ -57548,6 +57556,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T112159Z" creationid="Marc Riera" creationdate="20221129T112159Z">
         <seg>Sempre podeu accedir-hi directament des de &lt;l0/&gt; en el menú &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can always remove or add files and folders to the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152652Z" creationid="Marc Riera" creationdate="20230201T152652Z">
+        <seg>Sempre podeu suprimir o afegir fitxers i carpetes al projecte.</seg>
       </tuv>
     </tu>
     <tu>
