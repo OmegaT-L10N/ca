@@ -8801,6 +8801,14 @@ inesperat però correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As soon as you have saved your modifications, they will be taken into account by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231120Z" creationid="Marc Riera" creationdate="20230203T231120Z">
+        <seg>Quan deseu les modificacions, es tindran en compte en l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As stated above, OmegaT tags are LTR strings.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170826Z" creationid="Marc Riera" creationdate="20210521T170826Z">
@@ -23781,6 +23789,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In some operating systems, this folder is hidden by default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231414Z" creationid="Marc Riera" creationdate="20230203T231414Z">
+        <seg>En alguns sistemes operatius, aquesta carpeta està oculta per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In source</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104843Z" creationid="Marc Riera" creationdate="20221224T104843Z">
@@ -25195,6 +25211,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It constitutes the working translation memory of the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231152Z" creationid="Marc Riera" creationdate="20230203T231152Z">
+        <seg>Constitueix la memòria de traducció de treball del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It defaults to &lt;g0&gt;Character&lt;/g0&gt; if at least one of the languages involved does not delimit words with spaces, and to &lt;g1&gt;Word&lt;/g1&gt; otherwise.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T155155Z" creationid="Marc Riera" creationdate="20230103T155155Z">
@@ -25299,6 +25323,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175124Z" creationid="Marc Riera" creationdate="20221218T175124Z">
         <seg>S'anomena glossari &lt;e2&gt;modificable&lt;/e2&gt; per aquesta raó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is created the first time you use &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231049Z" creationid="Marc Riera" creationdate="20230203T231049Z">
+        <seg>Es crea la primera vegada que utilitzeu &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25451,6 +25483,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is updated each time the project is reloaded.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231222Z" creationid="Marc Riera" creationdate="20230203T231222Z">
+        <seg>S'actualitza cada vegada que es torna a carregar el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is used for testing purposes.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202116Z" creationid="Marc Riera" creationdate="20221206T202116Z">
@@ -25481,6 +25521,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201126T073935Z" creationid="Marc Riera" creationdate="20201125T190212Z">
         <seg>També és possible incorporar desenvolupament extern a l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It may also include several other files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231133Z" creationid="Marc Riera" creationdate="20230203T231133Z">
+        <seg>També pot incloure altres fitxers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32012,6 +32060,14 @@ està a punt per a executar-se.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T191315Z" creationid="Marc Riera" creationdate="20221210T191315Z">
         <seg>L'OmegaT emmagatzema de manera periòdica i automàtica tot el progrés en el fitxer &lt;l0/&gt; de la carpeta &lt;l1/&gt; del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT regularly backs-up that file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231201Z" creationid="Marc Riera" creationdate="20230203T231201Z">
+        <seg>L'OmegaT fa còpies de seguretat periòdiques d'aquest fitxer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40292,6 +40348,22 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l4/&gt; preference for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231214Z" creationid="Marc Riera" creationdate="20230203T231214Z">
+        <seg>Consulteu la preferència &lt;l4/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l4/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231321Z" creationid="Marc Riera" creationdate="20230203T231321Z">
+        <seg>Consulteu les preferències de &lt;l4/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;u0&gt; Oracle documentation&lt;/u0&gt; for examples.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084355Z" creationid="Marc Riera" creationdate="20221214T084355Z">
@@ -44966,6 +45038,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f0&gt;omegat&lt;/f0&gt; folder contains, at a minimum, the &lt;l1/&gt; and &lt;l2/&gt; files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231128Z" creationid="Marc Riera" creationdate="20230203T231128Z">
+        <seg>La carpeta &lt;f0&gt;omegat&lt;/f0&gt; conté, com a mínim, els fitxers &lt;l1/&gt; i &lt;l2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0&gt;plugins&lt;/f0&gt; and &lt;f1&gt;scripts&lt;/f1&gt; folders might be overwritten, so you may want to create a backup before upgrading.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T115824Z" creationid="Marc Riera" creationdate="20221209T115824Z">
@@ -49339,6 +49419,14 @@ la ubicació de la carpeta de configuració de l'OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These files are created and used by the spellchecker.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231259Z" creationid="Marc Riera" creationdate="20230203T231259Z">
+        <seg>Aquests fitxers els crea i utilitza el corrector ortogràfic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These files record various internal state and program event messages generated while OmegaT is running.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155436Z" creationid="Marc Riera" creationdate="20221201T155436Z">
@@ -50197,6 +50285,22 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the latest project match statistics by file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231246Z" creationid="Marc Riera" creationdate="20230203T231246Z">
+        <seg>Aquest fitxer conté les estadístiques de coincidències del projecte per fitxer més recents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the latest project match statistics.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231235Z" creationid="Marc Riera" creationdate="20230203T231235Z">
+        <seg>Aquest fitxer conté les estadístiques de coincidències del projecte més recents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file contains the login information for your team project repositories.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160104Z" creationid="Marc Riera" creationdate="20221201T160104Z">
@@ -50209,6 +50313,38 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230201T192317Z" creationid="Marc Riera" creationdate="20230201T192317Z">
         <seg>Aquest fitxer conté els paràmetres del projecte definits en les &lt;l0&gt;propietats del projecte&lt;/l0&gt;, com ara les llengües d'origen i de destinació, els lematitzadors corresponents i el tipus de segmentació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the project-specific GUI settings.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231342Z" creationid="Marc Riera" creationdate="20230203T231342Z">
+        <seg>Aquest fitxer conté la configuració de la GUI específica del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the project-specific external searches.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231349Z" creationid="Marc Riera" creationdate="20230203T231349Z">
+        <seg>Aquest fitxer conté les cerques externes específiques del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the project-specific file filters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231337Z" creationid="Marc Riera" creationdate="20230203T231337Z">
+        <seg>Aquest fitxer conté els filtres de fitxers específics del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the project-specific segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231334Z" creationid="Marc Riera" creationdate="20230203T231334Z">
+        <seg>Aquest fitxer conté les regles de segmentació específiques del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50241,6 +50377,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T121622Z" creationid="Marc Riera" creationdate="20221206T121622Z">
         <seg>Aquest fitxer &lt;e0&gt;sempre&lt;/e0&gt; és en la carpeta &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file is created if you manually change the order of the files in the &lt;l0/&gt; window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231358Z" creationid="Marc Riera" creationdate="20230203T231358Z">
+        <seg>Aquest fitxer es crea si canvieu manualment l'ordre dels fitxers de la finestra &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50524,6 +50668,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is the most important file in the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231136Z" creationid="Marc Riera" creationdate="20230203T231136Z">
+        <seg>Aquest és el fitxer més important del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is the project folder that always contains &lt;l0/&gt;, the project translation memory, and &lt;l1/&gt;, the statistics data file for the project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230201T192221Z" creationid="Marc Riera" creationdate="20230201T192221Z">
@@ -50536,6 +50688,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231045Z" creationid="Marc Riera" creationdate="20230203T231045Z">
         <seg>Aquest és el glossari modificable del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the statistics file for the whole project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231219Z" creationid="Marc Riera" creationdate="20230203T231219Z">
+        <seg>Aquest és el fitxer d'estadístiques per a tot el projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52996,6 +53156,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T191711Z" creationid="Marc Riera" creationdate="20221124T191711Z">
         <seg>S'està intentant llegir el fitxer de còpia de seguretat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Turn on the option to show hidden files in your system to make it visible.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231429Z" creationid="Marc Riera" creationdate="20230203T231429Z">
+        <seg>Activeu l'opció per a mostrar els fitxers ocults del sistema perquè sigui visible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57506,6 +57674,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T214711Z" creationid="Marc Riera" creationdate="20221213T214711Z">
         <seg>Podeu accedir als paràmetres del projecte i modificar-los amb &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can access it with &lt;l0/&gt;, open it in a text editor, modify it with a text editor.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231106Z" creationid="Marc Riera" creationdate="20230203T231106Z">
+        <seg>Podeu accedir-hi amb &lt;l0/&gt;, obrir-lo en un editor de text i modificar-lo.</seg>
       </tuv>
     </tu>
     <tu>
