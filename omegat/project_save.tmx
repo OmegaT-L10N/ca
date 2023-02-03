@@ -50285,6 +50285,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder is intended for reliable references files that can automatically fill exactly matching and not yet translated segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T230047Z" creationid="Marc Riera" creationdate="20230203T230047Z">
+        <seg>Aquesta carpeta està pensada per a fitxers de referència fiables que poden emplenar automàticament exactament els segments que són coincidències exactes i que encara no s'han traduït.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder provides an alternative location for manually installed OmegaT extension plugins.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160124Z" creationid="Marc Riera" creationdate="20221201T160124Z">
@@ -52786,6 +52794,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202857Z" creationid="Marc Riera" creationdate="20230101T202857Z">
         <seg>Traduccions iguals al text d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translations from TMX files placed in this folder are automatically inserted in matching segments without the automatic prefix, making it unnecessary to confirm these segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T230108Z" creationid="Marc Riera" creationdate="20230203T230108Z">
+        <seg>Les traduccions dels fitxers TMX d'aquesta carpeta s'insereixen automàticament en els segments coincidents sense el prefix automàtic, de manera que no cal confirmar aquests segments.</seg>
       </tuv>
     </tu>
     <tu>
