@@ -8488,6 +8488,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any modification to the segments that come from these memories will &lt;e2&gt;not&lt;/e2&gt; be taken into account.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T230525Z" creationid="Marc Riera" creationdate="20230203T230525Z">
+        <seg>Qualsevol modificació dels segments que provenen d'aquestes memòries &lt;e2&gt;no&lt;/e2&gt; es tindrà en compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any paragraph matching the regular expression is ignored while loading and is not displayed for translation.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T105111Z" creationid="Marc Riera" creationdate="20230130T105111Z">
@@ -16589,6 +16597,14 @@ No s'ha trobat la pàgina d'ajuda.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable the &lt;l0/&gt; option to have OmegaT remember that the inserted matches came from this folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T230136Z" creationid="Marc Riera" creationdate="20230203T230136Z">
+        <seg>Habiliteu l'opció &lt;l0/&gt; perquè l'OmegaT recordi que les coincidències inserides provenien d'aquestes carpetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enable the &lt;l0/&gt; option to have OmegaT remember that the inserted matches came from those folders.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184817Z" creationid="Marc Riera" creationdate="20230126T184817Z">
@@ -22966,6 +22982,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201121T122509Z" creationid="Marc Riera" creationdate="20201121T122509Z">
         <seg>Si heu trobat útil l'OmegaT i voleu expressar el vostre agraïment fent una &lt;a0&gt;donació&lt;/a0&gt; al nostre compte de PayPal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have no doubt that a given TMX contains more accurate translations than the current &lt;f0&gt;project_save.tmx&lt;/f0&gt; file, put that TMX in the &lt;f1&gt;tm/enforce&lt;/f1&gt; folder to overwrite the existing translations unconditionally.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T230454Z" creationid="Marc Riera" creationdate="20230203T230454Z">
+        <seg>Si no teniu cap dubte que un fitxer TMX determinat conté traduccions més precises que el fitxer &lt;f0&gt;project_save.tmx&lt;/f0&gt; en si, copieu aquest TMX a la carpeta &lt;f1&gt;tm/enforce&lt;/f1&gt; per a sobreescriure les traduccions existents incondicionalment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36089,6 +36113,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T165043Z" creationid="Marc Riera" creationdate="20220625T165043Z">
         <seg>Col·loqueu el fitxer TMX en la carpeta &lt;f0&gt;/tm/enforce&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put the applicable memories in the &lt;f0&gt;tm/auto&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T230226Z" creationid="Marc Riera" creationdate="20230203T230226Z">
+        <seg>Copieu les memòries corresponents a la carpeta &lt;f0&gt;tm/auto&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put the applicable memories in the &lt;f0&gt;tm/enforce&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T230500Z" creationid="Marc Riera" creationdate="20230203T230500Z">
+        <seg>Copieu les memòries corresponents a la carpeta &lt;f0&gt;tm/enforce&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50293,6 +50333,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder is made for reliable references files that are also meant to automatically overwrite previously translated contents.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T230335Z" creationid="Marc Riera" creationdate="20230203T230335Z">
+        <seg>Aquesta carpeta està destinada a fitxers de referència fiables que també es vol que sobreescriguin automàticament els continguts traduïts prèviament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder provides an alternative location for manually installed OmegaT extension plugins.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160124Z" creationid="Marc Riera" creationdate="20221201T160124Z">
@@ -52790,6 +52838,22 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translations coming from this folder are considered to be &lt;e0&gt;as&lt;/e0&gt; reliable as the project memory.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T230128Z" creationid="Marc Riera" creationdate="20230203T230128Z">
+        <seg>Les traduccions que provenen d'aquesta carpeta es consideren &lt;e0&gt;tan&lt;/e0&gt; fiables com la memòria del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translations coming from this folder are considered to be &lt;e0&gt;more&lt;/e0&gt; reliable than the current project memory.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T230409Z" creationid="Marc Riera" creationdate="20230203T230409Z">
+        <seg>Les traduccions procedents d'aquesta carpeta es consideren &lt;e0&gt;més&lt;/e0&gt; fiables que la memòria del projecte actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translations equal to the source</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202857Z" creationid="Marc Riera" creationdate="20230101T202857Z">
@@ -52802,6 +52866,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230203T230108Z" creationid="Marc Riera" creationdate="20230203T230108Z">
         <seg>Les traduccions dels fitxers TMX d'aquesta carpeta s'insereixen automàticament en els segments coincidents sense el prefix automàtic, de manera que no cal confirmar aquests segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translations from TMX files placed in this folder are automatically inserted in matching segments without the fuzzy match prefix, making it unnecessary to confirm these segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T230352Z" creationid="Marc Riera" creationdate="20230203T230352Z">
+        <seg>Les traduccions dels fitxers TMX d'aquesta carpeta s'insereixen automàticament en els segments coincidents sense el prefix de coincidència parcial, de manera que no cal confirmar aquests segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55118,6 +55190,22 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230126T185136Z" creationid="Marc Riera" creationdate="20230126T185136Z">
         <seg>Utilitzeu els menús de navegació de &lt;l0/&gt;&lt;l1/&gt; per a navegar a un segment inserit automàticament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the navigation menus found in &lt;l0/&gt;&lt;l1/&gt; to navigate to the inserted segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T230303Z" creationid="Marc Riera" creationdate="20230203T230303Z">
+        <seg>Utilitzeu els menús de navegació de &lt;l0/&gt;&lt;l1/&gt; per a navegar als segments inserits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the navigation menus found in &lt;l0/&gt;&lt;l1/&gt; to navigate to the segments that have been inserted.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T230535Z" creationid="Marc Riera" creationdate="20230203T230535Z">
+        <seg>Utilitzeu els menús de navegació de &lt;l0/&gt;&lt;l1/&gt; per a navegar als segments inserits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58784,6 +58872,14 @@ un comportament inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T130323Z" creationid="Marc Riera" creationdate="20221211T130323Z">
         <seg>Els haureu de corregir si els voleu utilitzar com a memòries de referència; en cas contrari, l'OmegaT indicarà que s'ha produït un error i no els podrà carregar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will see that segments identical to source segments in those memories are already filled in.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230203T230241Z" creationid="Marc Riera" creationdate="20230203T230241Z">
+        <seg>Veureu que els segments idèntics als segments d'origen d'aquestes memòries ja s'han emplenat.</seg>
       </tuv>
     </tu>
     <tu>
