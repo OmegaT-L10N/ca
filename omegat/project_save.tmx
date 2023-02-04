@@ -5572,6 +5572,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;xxx&lt;/l0&gt; is a number from 0 to 100 that will act as a penalty subtracted from the match percentage of segments coming from this folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T145833Z" creationid="Marc Riera" creationdate="20230204T145833Z">
+        <seg>&lt;l0&gt;xxx&lt;/l0&gt; és un nombre del 0 al 100 que actuarà com una penalització restada del percentatge de coincidència dels segments d'aquesta carpeta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="/" repository="/"/&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T185056Z" creationid="Marc Riera" creationdate="20230105T185056Z">
@@ -19105,6 +19113,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T123826Z" creationid="Marc Riera" creationdate="20230130T123826Z">
         <seg>Per exemple, &lt;l1&gt;user.language=ja&lt;/l1&gt; (sense &lt;l2&gt;#&lt;/l2&gt;) iniciarà l'OmegaT amb la interfície d'usuari en japonès.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, a 100% match in a TMX, stored in a folder called &lt;f0&gt;penalty-30&lt;/f0&gt; becomes a 70% match.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T145855Z" creationid="Marc Riera" creationdate="20230204T145855Z">
+        <seg>Per exemple, una coincidència del 100% en un fitxer TMX emmagatzemat en una carpeta anomenada &lt;f0&gt;penalty-30&lt;/f0&gt; esdevé una coincidència del 70%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38968,6 +38984,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Scores of 75, 80 and 90 for a match are lowered to 45, 50 and 60.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T150431Z" creationid="Marc Riera" creationdate="20230204T150431Z">
+        <seg>Les puntuacions de 75, 80 i 90 d'una coincidència es redueixen a 45, 50 i 60.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Scribus</seg>
@@ -46064,6 +46088,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The background color is restored to normal when you leave the segment or when you modify the segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T145811Z" creationid="Marc Riera" creationdate="20230204T145811Z">
+        <seg>El color de fons es reinicialitza al normal quan sortiu del segment o quan el modifiqueu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The backup filename follows the pattern &lt;f0&gt;project_save.tmx.YYYYMMDDhhmm.bak&lt;/f0&gt; where &lt;c1&gt;YYYY&lt;/c1&gt; represents the 4-digit year, &lt;c2&gt;MM&lt;/c2&gt; the month, &lt;c3&gt;DD&lt;/c3&gt; the day of the month, and &lt;c4&gt;hh&lt;/c4&gt; and &lt;c5&gt;mm&lt;/c5&gt; indicate the hours and minutes.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T192746Z" creationid="Marc Riera" creationdate="20221210T192746Z">
@@ -47750,6 +47782,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T122821Z" creationid="Marc Riera" creationdate="20190520T122821Z">
         <seg>Les contrasenyes no coincideixen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The penalty applies to all three match percentages.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T150418Z" creationid="Marc Riera" creationdate="20230204T150418Z">
+        <seg>La penalització s'aplica als tres percentatges de les coincidències.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58280,6 +58320,14 @@ d'allà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can combine folders to create new functions.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T150534Z" creationid="Marc Riera" creationdate="20230204T150534Z">
+        <seg>Podeu combinar carpetes per a crear funcions noves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can control the frequency of the file saving in &lt;l0/&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T193009Z" creationid="Marc Riera" creationdate="20221210T193009Z">
@@ -58366,6 +58414,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T181226Z" creationid="Marc Riera" creationdate="20230104T181226Z">
         <seg>Aquí podeu definir aquestes ordres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can display a third language &lt;e0&gt;right under&lt;/e0&gt; the source segment to use as a third language reference.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T150524Z" creationid="Marc Riera" creationdate="20230204T150519Z">
+        <seg>Podeu mostrar una tercera llengua &lt;e0&gt;directament sota&lt;/e0&gt; el segment d'origen com a referència en una tercera llengua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61440,6 +61496,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152158Z" creationid="Marc Riera" creationdate="20230130T152158Z">
         <seg>excludes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>exported tms folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T150631Z" creationid="Marc Riera" creationdate="20230204T150631Z">
+        <seg>carpeta de memòries de traducció exportades</seg>
       </tuv>
     </tu>
     <tu>
