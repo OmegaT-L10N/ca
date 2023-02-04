@@ -22590,6 +22590,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If they &lt;e0&gt;do need&lt;/e0&gt; to remain immutable to further changes, leave the TMX in &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T145017Z" creationid="Marc Riera" creationdate="20230204T145017Z">
+        <seg>Si &lt;e0&gt;cal&lt;/e0&gt; que siguin immutables per a impedir més canvis, deixeu el fitxer TMX en la carpeta &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to remain immutable to further changes, remove the TMX from &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230204T145000Z" creationid="Marc Riera" creationdate="20230204T145000Z">
@@ -23217,6 +23225,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230201T153033Z" creationid="Marc Riera" creationdate="20230201T153033Z">
         <seg>Si suprimiu un fitxer TMX de la carpeta &lt;f0&gt;tm/auto&lt;/f0&gt; abans del pas 3, el contingut no es conservarà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you remove a TMX file from &lt;f0&gt;tm/enforce&lt;/f0&gt; before Step 3, none of the enforced translations will be kept.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T145031Z" creationid="Marc Riera" creationdate="20230204T145031Z">
+        <seg>Si suprimiu un fitxer TMX de la carpeta &lt;f0&gt;tm/enforce&lt;/f0&gt; abans del pas 3, no es conservarà cap de les traduccions forçades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56526,6 +56542,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T094552Z" creationid="Marc Riera" creationdate="20230104T094552Z">
         <seg>Quan un terme del glossari és una paraula composta, el terme coincidirà encara que les paraules apareguin per separat en el text d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a match is inserted from a TMX contained in this folder, the background color of the active segment changes to red.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T145754Z" creationid="Marc Riera" creationdate="20230204T145754Z">
+        <seg>Quan s'insereix una coincidència d'un fitxer TMX d'aquesta carpeta, el color de fons del segment actiu canvia a vermell.</seg>
       </tuv>
     </tu>
     <tu>
