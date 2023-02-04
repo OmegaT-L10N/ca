@@ -22726,6 +22726,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If you already have a collection of words you want the spellchecker to ignore or accept, simply save them in text files with the corresponding names, and copy the files to the &lt;l0/&gt; folder of your current project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T154013Z" creationid="Marc Riera" creationdate="20230204T154013Z">
+        <seg>Si ja teniu una llista de paraules que voleu que el corrector ortogràfic ignori o accepti, només cal que les deseu en fitxers de text amb els noms corresponents i copieu els fitxers a la carpeta &lt;l0/&gt; del projecte actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
@@ -23697,6 +23705,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124533Z" creationid="Marc Riera" creationdate="20221211T143806Z">
         <seg>En un projecte en equip, els paràmetres de configuració bàsics del projecte local sempre se substitueixen per la configuració del servidor definida per l'administrador del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a team project, this folder contains a versioned copy of the project tree structure linked directly to the remote server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T154117Z" creationid="Marc Riera" creationdate="20230204T154117Z">
+        <seg>En un projecte en equip, aquesta carpeta conté una còpia amb versions de l'estructura de carpetes del projecte enllaçada directament amb el servidor remot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50549,6 +50565,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file keeps a record of the last segment you visited, including its number, its source contents, the file name and the date, so that you can come back to it when you reload/relaunch the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T154051Z" creationid="Marc Riera" creationdate="20230204T154051Z">
+        <seg>Aquest fitxer conserva un registre del darrer segment visitat, incloent-hi el número, el contingut del text d'origen, el nom del fitxer i la data, de manera que podeu tornar-hi quan torneu a carregar el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file stores the currently selected text when &lt;l0/&gt;&lt;l1/&gt; is used.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174718Z" creationid="Marc Riera" creationdate="20221218T174718Z">
@@ -58676,6 +58700,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can make changes to the remote files (such as deleting or replacing them) by making your changes in this folder and using a Git or SVN client to synchronize them with the remote server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T154136Z" creationid="Marc Riera" creationdate="20230204T154136Z">
+        <seg>Podeu fer canvis en els fitxers remots (com ara suprimir-los o substituir-los) fent canvis en aquesta carpeta i utilitzant un client del Git o SVN per a sincronitzar-los amb el servidor remot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can manually edit the &lt;l0/&gt; configuration file to prevent the Source Files list window from opening automatically when a project is loaded.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T153505Z" creationid="Marc Riera" creationdate="20230131T153505Z">
@@ -61109,6 +61141,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T220718Z" creationid="Marc Riera" creationdate="20221207T220718Z">
         <seg>Si feu doble clic en una fila, s'activa el segment corresponent en la subfinestra «Editor».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>download the file - it should be a tarball archive (extension &lt;f0&gt;tar.bz&lt;/f0&gt; or &lt;f1&gt;tar.bz2&lt;/f1&gt;),</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T154207Z" creationid="Marc Riera" creationdate="20230204T154207Z">
+        <seg>Baixeu el fitxer; hauria de ser un arxiu tarball (extensió &lt;f0&gt;tar.bz&lt;/f0&gt; o &lt;f1&gt;tar.bz2&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
