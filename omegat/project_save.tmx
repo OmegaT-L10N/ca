@@ -23408,6 +23408,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If your translation project involves a number of folders and you feel like working on one folder at a time, use &lt;l0/&gt;&lt;l1/&gt; to access the project properties and change the assigned &lt;l2&gt;source folder&lt;/l2&gt; as you wish.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T133301Z" creationid="Marc Riera" creationdate="20230204T133301Z">
+        <seg>Si el vostre projecte de traducció comprèn diverses carpetes i voleu treballar en una carpeta alhora, utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a accedir a les propietats del projecte i canviar la &lt;l2&gt;carpeta de fitxers d'origen&lt;/l2&gt; assignada com vulgueu.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If, during installation, you have created a shortcut on the desktop,
@@ -50425,6 +50433,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T100105Z" creationid="Marc Riera" creationdate="20221206T100105Z">
         <seg>Aquesta carpeta pot ser externa al projecte, la qual cosa us permet utilitzar la carpeta o una de les subcarpetes específiques en altres projectes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder can contain any number of bilingual reference documents (TMX files, but also any file in a bilingual format supported by OmegaT, including PO files, etc.) and the TMX files can also be compressed in the gzip format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T134359Z" creationid="Marc Riera" creationdate="20230204T134359Z">
+        <seg>Aquesta carpeta pot contenir qualsevol nombre de fitxers de referència bilingües (fitxers TMX, però també qualsevol fitxer en un format bilingüe compatible amb l'OmegaT, com ara fitxers PO) i els fitxers TMX també es poden comprimir en format GZIP.</seg>
       </tuv>
     </tu>
     <tu>
