@@ -2825,8 +2825,8 @@ per a editar-lo com a projecte en equip.)</seg>
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175623Z" creationid="Marc Riera" creationdate="20221124T175424Z">
-        <seg>- Comproveu que el format sigui compatible amb l'Omegat:
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T151045Z" creationid="Marc Riera" creationdate="20221124T175424Z">
+        <seg>- Comproveu que el format sigui compatible amb l'OmegaT:
 	- Si els paràmetres de filtres específics del projecte estan habilitats,
 	  aneu a «Projecte &gt; Propietats... &gt; Filtres de fitxers locals...»;
 	  en cas contrari, aneu a «Opcions &gt; Filtres de fitxers globals...»;
@@ -7704,6 +7704,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T174434Z" creationid="Marc Riera" creationdate="20221215T174434Z">
         <seg>S'ignoraran totes les etiquetes marcades amb &lt;c0&gt;translate="no"&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the words contained in that list will be ignored by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T150934Z" creationid="Marc Riera" creationdate="20230204T150934Z">
+        <seg>L'OmegaT ignorarà totes les paraules d'aquesta llista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14752,6 +14760,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionary terms that match parts of the segment are displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T150742Z" creationid="Marc Riera" creationdate="20230204T150742Z">
+        <seg>Els termes del diccionari que coincideixen amb parts del segment es mostren en la subfinestra &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionary/Use Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T175726Z" creationid="Marc Riera" creationdate="20221217T175726Z">
@@ -17415,6 +17431,14 @@ ningú no sent els vostres crits.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Every time a project is loaded, OmegaT creates a backup of &lt;f0&gt;project_save.tmx&lt;/f0&gt; with the name &lt;f1&gt;project_save.tmx.[time stamp].bak&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T151637Z" creationid="Marc Riera" creationdate="20230204T151637Z">
+        <seg>Cada vegada que es carrega un projecte, l'OmegaT crea una còpia de seguretat del fitxer &lt;f0&gt;project_save.tmx&lt;/f0&gt; amb el nom &lt;f1&gt;project_save.tmx.[marca de temps].bak&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Every time the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file is modified:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T095443Z" creationid="Marc Riera" creationdate="20221225T095443Z">
@@ -19113,6 +19137,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T123826Z" creationid="Marc Riera" creationdate="20230130T123826Z">
         <seg>Per exemple, &lt;l1&gt;user.language=ja&lt;/l1&gt; (sense &lt;l2&gt;#&lt;/l2&gt;) iniciarà l'OmegaT amb la interfície d'usuari en japonès.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, a 10% penalty folder within the machine translation folder: &lt;f0&gt;tm/mt/penalty-010&lt;/f0&gt; would never generate 100% matches that could otherwise be automatically inserted by OmegaT, and would always set a red background to the match whenever it is inserted.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T150724Z" creationid="Marc Riera" creationdate="20230204T150724Z">
+        <seg>Per exemple, una carpeta de penalització del 10% dins de la carpeta de traducció automàtica (&lt;f0&gt;tm/mt/penalty-010&lt;/f0&gt;) no generarà mai coincidències del 100% que d'una altra manera l'OmegaT podria inserir automàticament, i sempre definirà un fons vermell per a la coincidència quan s'insereixi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23338,6 +23370,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111731Z" creationid="Marc Riera" creationdate="20221209T111731Z">
         <seg>Si voleu desinstal·lar completament l'OmegaT, també haureu de suprimir la carpeta de configuració.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to remove words from potential dictionary matches, add an &lt;f0&gt;ignore.txt&lt;/f0&gt; encoded in UTF-8 to the folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T150915Z" creationid="Marc Riera" creationdate="20230204T150915Z">
+        <seg>Si voleu suprimir paraules de les coincidències potencials del diccionari, afegiu un fitxer &lt;f0&gt;ignore.txt&lt;/f0&gt; codificat en UTF-8 a la carpeta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31263,8 +31303,8 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       <tuv lang="en">
         <seg>OmegaT automatically checks the availability of newer versions on its development server without transmitting any user information, and the user can easily opt out in the Preferences settings.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T181741Z" creationid="Marc Riera" creationdate="20230126T181741Z">
-        <seg>L'Omegat comprova automàticament la disponibilitat de versions noves en el servidor de desenvolupament sense transmetre cap informació de l'usuari i l'usuari pot desactivar-ho fàcilment des de les preferències.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T151409Z" creationid="Marc Riera" creationdate="20230126T181741Z">
+        <seg>L'OmegaT comprova automàticament la disponibilitat de versions noves en el servidor de desenvolupament sense transmetre cap informació de l'usuari i l'usuari pot desactivar-ho fàcilment des de les preferències.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31509,8 +31549,8 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       <tuv lang="en">
         <seg>OmegaT does not collect any user information and does not transmit any information without the explicit consent of the user.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230126T181619Z" creationid="Marc Riera" creationdate="20230126T181619Z">
-        <seg>L'Omegat no recopila cap informació dels usuaris i no transmet cap informació sense el vostre consentiment explícit.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T151302Z" creationid="Marc Riera" creationdate="20230126T181619Z">
+        <seg>L'OmegaT no recopila cap informació dels usuaris i no transmet cap informació sense el vostre consentiment explícit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32159,6 +32199,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T114125Z" creationid="Marc Riera" creationdate="20221217T114125Z">
         <seg>L'OmegaT funciona en qualsevol plataforma que executi una versió del Java Runtime Environment (Windows, macOS i Linux són les principals).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT supports dictionaries in the StarDict or in the Lingvo DSL format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T150752Z" creationid="Marc Riera" creationdate="20230204T150752Z">
+        <seg>L'OmegaT admet diccionaris en el format StarDict o Lingvo DSL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38423,8 +38471,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Run OmegaT" in the user guide.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221117T171432Z" creationid="Marc Riera" creationdate="20221117T171432Z">
-        <seg>executar l'Omegat» en la Guia d'usuari.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T151040Z" creationid="Marc Riera" creationdate="20221117T171432Z">
+        <seg>executar l'OmegaT» en la Guia d'usuari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49398,6 +49446,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There should be three files per dictionary, with extensions &lt;f0&gt;dz&lt;/f0&gt;, &lt;f1&gt;idx&lt;/f1&gt; and &lt;f2&gt;ifo&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T150843Z" creationid="Marc Riera" creationdate="20230204T150843Z">
+        <seg>Hi hauria d'haver tres fitxers per diccionari, amb les extensions &lt;f0&gt;dz&lt;/f0&gt;, &lt;f1&gt;idx&lt;/f1&gt; i &lt;f2&gt;ifo&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T215047Z" creationid="Marc Riera" creationdate="20201130T215047Z">
@@ -50469,6 +50525,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file is a backup of &lt;f0&gt;project_save.tmx&lt;/f0&gt; and is automatically recreated every time &lt;f1&gt;project_save.tmx&lt;/f1&gt; has been modified: either after using &lt;l2/&gt;&lt;l3/&gt;, or as a regular backup every 3 minutes by default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T151555Z" creationid="Marc Riera" creationdate="20230204T151555Z">
+        <seg>Aquest fitxer és una còpia de seguretat de &lt;f0&gt;project_save.tmx&lt;/f0&gt; i es recrea automàticament cada vegada que es modifica &lt;f1&gt;project_save.tmx&lt;/f1&gt;, ja sigui després d'utilitzar &lt;l2/&gt;&lt;l3/&gt; o com a còpia de seguretat periòdica cada 3 minuts per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file is created if you manually change the order of the files in the &lt;l0/&gt; window.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231358Z" creationid="Marc Riera" creationdate="20230203T231358Z">
@@ -50569,6 +50633,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160138Z" creationid="Marc Riera" creationdate="20221201T160138Z">
         <seg>Aquesta carpeta conté els diccionaris ortogràfics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder is initially empty, and is used to store any dictionaries you add to the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T150734Z" creationid="Marc Riera" creationdate="20230204T150734Z">
+        <seg>Aquesta carpeta està inicialment buida i s'utilitza per a emmagatzemar qualsevol diccionari que afegiu al projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56806,6 +56878,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you create a new project, the file is empty and is gradually filled with the translations of the text in files located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T151454Z" creationid="Marc Riera" creationdate="20230204T151454Z">
+        <seg>Quan creeu un projecte nou, el fitxer està buit i s'emplena gradualment amb les traduccions del text dels fitxers de la carpeta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you enter a segment containing terms that match entries in your glossaries, those terms and their translations are displayed in the &lt;l0/&gt; pane.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T210149Z" creationid="Marc Riera" creationdate="20230131T210149Z">
@@ -58457,6 +58537,14 @@ d'allà.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T083451Z" creationid="Marc Riera" creationdate="20180221T112131Z">
         <seg>Podeu veure informació estadística detallada en el fitxer:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can find some dictionaries on the &lt;u0&gt;OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T150803Z" creationid="Marc Riera" creationdate="20230204T150803Z">
+        <seg>Podeu trobar alguns diccionaris en la &lt;u0&gt;Wiki de l'OmegaT&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61513,6 +61601,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T101841Z" creationid="mgalo" creationdate="20181112T101841Z">
         <seg>extensions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>extract its contents into this folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T150811Z" creationid="Marc Riera" creationdate="20230204T150811Z">
+        <seg>Extreu-ne el contingut en aquesta carpeta.</seg>
       </tuv>
     </tu>
     <tu>
