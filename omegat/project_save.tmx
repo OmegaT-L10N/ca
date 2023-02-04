@@ -22590,6 +22590,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to remain immutable to further changes, remove the TMX from &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T145000Z" creationid="Marc Riera" creationdate="20230204T145000Z">
+        <seg>Si &lt;e0&gt;no cal&lt;/e0&gt; que siguin immutables per a impedir més canvis, suprimiu el fitxer TMX de &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T170443Z" creationid="Packard Bell" creationdate="20150605T161235Z">
@@ -28370,6 +28378,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183015Z" creationid="Marc Riera" creationdate="20230130T183015Z">
         <seg>Les coincidències d'aquesta memòria apareixeran en algun moment en la subfinestra &lt;g0&gt;Coincidències parcials&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches from the reference memories are displayed in the &lt;l0/&gt; pane, just like matches from &lt;l1/&gt;, the project translation memory.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T134444Z" creationid="Marc Riera" creationdate="20230204T134444Z">
+        <seg>Les coincidències de les memòries de referència es mostren en la subfinestra &lt;l0/&gt;, igual que les coincidències del fitxer &lt;l1/&gt;, la memòria de traducció del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43633,6 +43649,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Such matches are by default limited to the source and target languages defined in the &lt;l0/&gt; dialog, but you can also add matches in languages that are not the target language.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T134509Z" creationid="Marc Riera" creationdate="20230204T134509Z">
+        <seg>Aquestes coincidències es limiten per defecte a les llengües d'origen i de destinació definides en el quadre de diàleg &lt;l0/&gt;, però també podeu afegir coincidències en llengües que no siguin la llengua de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Such matches are by default limited to the source and target languages defined in the &lt;l1/&gt; dialog, but you can also add matches in languages that are not the target language.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T213228Z" creationid="Marc Riera" creationdate="20221225T213228Z">
@@ -52060,6 +52084,14 @@ tots els paràmetres als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214747Z" creationid="Marc Riera" creationdate="20221208T214747Z">
         <seg>Per a mantenir la coherència amb el comportament habitual del porta-retalls, no es buida aquest fitxer quan l'usuari surt de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To remind you that a match was inserted by OmegaT and not by you, OmegaT adds the prefix set in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230204T134431Z" creationid="Marc Riera" creationdate="20230204T134431Z">
+        <seg>Per a recordar-vos que l'OmegaT ha inserit una coincidència i no ho heu fet vós, l'OmegaT afegeix el prefix definit en la preferència &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
