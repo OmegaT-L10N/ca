@@ -15772,6 +15772,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Doing so makes the entire search expression case sensitive.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T161520Z" creationid="Marc Riera" creationdate="20230206T161520Z">
+        <seg>Si l'habiliteu, tota l'expressió de cerca distingeix entre majúscules i minúscules.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Doing so shows a tab with the name of the pane at the top of the group.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202455Z" creationid="Marc Riera" creationdate="20230101T202455Z">
@@ -23950,6 +23958,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In contrast, Regular expressions are case sensitive by default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T161457Z" creationid="Marc Riera" creationdate="20230206T161457Z">
+        <seg>En canvi, les expressions regulars distingeixen entre majúscules i minúscules per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In editor</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T214833Z" creationid="Marc Riera" creationdate="20221123T214833Z">
@@ -27999,6 +28015,22 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T142451Z" creationid="Marc Riera" creationdate="20230130T142451Z">
         <seg>Apliqueu els canvis necessaris a les propietats del projecte en aquesta fase, incloent-hi els filtres de fitxers o els paràmetres de segmentació locals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Makes the part of the expression to the right of the modifier case insensitive.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T162004Z" creationid="Marc Riera" creationdate="20230206T162004Z">
+        <seg>Fa que la part de l'expressió a la dreta del modificador no distingeixi entre majúscules i minúscules.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Makes the part of the expression to the right of the modifier case sensitive.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T162014Z" creationid="Marc Riera" creationdate="20230206T162014Z">
+        <seg>Fa que la part de l'expressió a la dreta del modificador distingeixi entre majúscules i minúscules.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34353,6 +34385,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ordinary OmegaT searches are case insensitive by default: they match both uppercase and lowercase characters, unless you choose to enable the &lt;l0/&gt; option.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T161616Z" creationid="Marc Riera" creationdate="20230206T161616Z">
+        <seg>Les cerques normals de l'OmegaT no distingeixen entre majúscules i minúscules per defecte: coincideixen tant amb majúscules com amb minúscules, excepte si habiliteu l'opció &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Origin</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220948Z" creationid="Marc Riera" creationdate="20221124T220948Z">
@@ -37085,6 +37125,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145738Z" creationid="Marc Riera" creationdate="20190924T145738Z">
         <seg>Expressions regulars</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular expressions allow you to create sets of characters—known as &lt;e0&gt;classes&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T162123Z" creationid="Marc Riera" creationdate="20230206T162123Z">
+        <seg>Les expressions regulars us permeten crear conjunts de caràcters coneguts com a &lt;e0&gt;classes&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40014,6 +40062,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192226Z" creationid="Marc Riera" creationdate="20221124T192226Z">
         <seg>També podeu cercar en una estructura de carpetes específica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searches will match any of the characters in the set.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T162128Z" creationid="Marc Riera" creationdate="20230206T162128Z">
+        <seg>Les cerques coincidiran amb qualsevol dels caràcters del conjunt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44234,6 +44290,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T153017Z" creationid="Marc Riera" creationdate="20230131T152804Z">
         <seg>Alguns dels filtres compatibles són: fitxers de llengua ILIAS, paquets de recursos del Java(TM), text clau=valor, CSV de llengua del Magento CE, MoodlePHP, DTD de Mozilla, FTL de Mozilla, PO, RC, subtítols SubRip i recursos del Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Suppose, for example, that you want to find instances of “OmegaT” and “omegat”, but not “OMEGAT”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T162111Z" creationid="Marc Riera" creationdate="20230206T162111Z">
+        <seg>Suposem, per exemple, que voleu trobar exemples d'«OmegaT» i «omegat», però no «OMEGAT».</seg>
       </tuv>
     </tu>
     <tu>
@@ -51755,6 +51819,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220824T075943Z" creationid="Marc Riera" creationdate="20220824T075928Z">
         <seg>És possible que sigui intencionat, però segurament es tracta d'un error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This means that a regular expression search for “OmegaT”, for example, will not match “omegat”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T161646Z" creationid="Marc Riera" creationdate="20230206T161646Z">
+        <seg>Això significa que una cerca amb expressions regulars d'«OmegaT», per exemple, no coincidirà amb «omegat».</seg>
       </tuv>
     </tu>
     <tu>
@@ -59746,6 +59818,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T165241Z" creationid="Marc Riera" creationdate="20201125T165241Z">
         <seg>Encara podeu trobar &lt;a0&gt;versions anteriors i desfasades&lt;/a0&gt; de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can take advantage of this to apply a fine degree of control to case sensitivity in searches.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T162049Z" creationid="Marc Riera" creationdate="20230206T162049Z">
+        <seg>Podeu aprofitar-ho per a controlar amb precisió la distinció entre majúscules i minúscules en les cerques.</seg>
       </tuv>
     </tu>
     <tu>
