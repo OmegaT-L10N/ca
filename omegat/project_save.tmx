@@ -2550,6 +2550,14 @@ Per a afegir fitxers al projecte, feu clic en el botó «Copia fitxers a la carp
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>(You can still add it, but it will have no effect on the expression or the result.)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T160730Z" creationid="Marc Riera" creationdate="20230206T160730Z">
+        <seg>(Podeu afegir-la, però no tindrà cap efecte en l'expressió ni en el resultat).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>(You will still able to use OmegaT
@@ -11946,6 +11954,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Codes such as “123/45”, “1472/6985”, or “95133/15746”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T160938Z" creationid="Marc Riera" creationdate="20230206T160938Z">
+        <seg>Codis com ara «123/45», «1472/6985» o «95133/15746».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Collaboration</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T155047Z" creationid="Marc Riera" creationdate="20221129T155047Z">
@@ -15896,6 +15912,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190520T124228Z" creationid="Marc Riera" creationdate="20190520T124228Z">
         <seg>Dobles espais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Doubled up words separated by a space, such as the consecutive “an” in the following sentence:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T160509Z" creationid="Marc Riera" creationdate="20230206T160509Z">
+        <seg>Paraules duplicades separades per un espai, com ara «una» en la frase següent:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20269,8 +20293,8 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       <tuv lang="en">
         <seg>Glossaries can be “tab-separated values” (TSV) or “comma-separated values” (CSV) files or can also use the TermBase eXchange (TBX) format.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221206T095859Z" creationid="Marc Riera" creationdate="20221206T095859Z">
-        <seg>Els glossaris poden ser fitxers de «valors separats per tabuladors» (TSV) o «valors separats per comes» (CSV), o bé poden utilitzar el format TermBase eXchange (TBX).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T161241Z" creationid="Marc Riera" creationdate="20221206T095859Z">
+        <seg>Els glossaris poden ser fitxers de «valors separats per tabulacions» (TSV) o «valors separats per comes» (CSV), o bé poden utilitzar el format TermBase eXchange (TBX).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23063,8 +23087,8 @@ extensions dels fitxers.</seg>
       <tuv lang="en">
         <seg>If you choose to use an existing file as the default glossary, all new entries will be recorded in tab-separated format and saved in UTF-8 by default.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T165855Z" creationid="Marc Riera" creationdate="20221201T165855Z">
-        <seg>Si trieu utilitzar un fitxer existent com a glossari per defecte, totes les entrades noves es registraran en el format separat per tabuladors i es desaran en UTF-8 per defecte.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T161234Z" creationid="Marc Riera" creationdate="20221201T165855Z">
+        <seg>Si trieu utilitzar un fitxer existent com a glossari per defecte, totes les entrades noves es registraran en el format separat per tabulacions i es desaran en UTF-8 per defecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23400,6 +23424,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T183222Z" creationid="Marc Riera" creationdate="20221217T183222Z">
         <seg>En cas que calgui treballar en el projecte, baixada del projecte a una ubicació local diferent de la ubicació del projecte en equip local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you only want to match the closing bracket as itself, you do not need to precede it with a backslash.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T160817Z" creationid="Marc Riera" creationdate="20230206T160817Z">
+        <seg>Si només voleu que coincideixi el claudàtor de tancament, no cal que vagi precedit per una barra inclinada inversa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25720,6 +25752,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>It is special because it can never be used on its own.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T160545Z" creationid="Marc Riera" creationdate="20230206T160545Z">
+        <seg>És especial perquè no es pot utilitzar mai per si sol.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>It is the recommended version for first-time users.</seg>
@@ -25793,6 +25833,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231133Z" creationid="Marc Riera" creationdate="20230203T231133Z">
         <seg>També pot incloure altres fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It must be preceded by the &lt;l0&gt;\&lt;/l0&gt; if you need to match the closing parenthesis character itself.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T160605Z" creationid="Marc Riera" creationdate="20230206T160605Z">
+        <seg>Ha d'anar precedit per &lt;l0&gt;\&lt;/l0&gt; si necessiteu que coincideixi el caràcter de parèntesi de tancament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29473,6 +29521,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T150838Z" creationid="mgalo" creationdate="20181113T095532Z">
         <seg>URL del servidor del Moses:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most characters match themselves.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T161135Z" creationid="Marc Riera" creationdate="20230206T161135Z">
+        <seg>La majoria de caràcters coincideixen amb ells mateixos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33416,6 +33472,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the opening bracket is special and needs to be preceded by a backslash to search for the bracket character itself.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T160843Z" creationid="Marc Riera" creationdate="20230206T160843Z">
+        <seg>Només el claudàtor d'obertura és especial i ha d'anar precedit per una barra inclinada inversa per a cercar el caràcter de claudàtor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the options not available under the XHTML files filter (see above) are described here.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T180429Z" creationid="Marc Riera" creationdate="20221215T180429Z">
@@ -37035,8 +37099,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Regular expressions are used to find text, including characters that are not visible on the screen or when printed out, such as spaces, tabs, or line breaks.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120421Z" creationid="Marc Riera" creationdate="20230206T120421Z">
-        <seg>Les expressions regulars s'utilitzen per a cercar text, incloent-hi caràcters que no són visibles en la pantalla o quan s'imprimeixen, com ara espais, tabuladors o salts de línia.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T161257Z" creationid="Marc Riera" creationdate="20230206T120421Z">
+        <seg>Les expressions regulars s'utilitzen per a cercar text, incloent-hi caràcters que no són visibles en la pantalla o quan s'imprimeixen, com ara espais, tabulacions o salts de línia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38146,8 +38210,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Represents zero or one horizontal whitespace character (this includes regular and non-breaking spaces as well as tabs, but not line break characters, which belong to the “vertical whitespace” category: \v.)</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T115953Z" creationid="Marc Riera" creationdate="20230206T115953Z">
-        <seg>Representa zero o un caràcter horitzontal d'espai en blanc (això inclou espais normals i no separables i els tabuladors, però no els caràcters de salt de línia, que pertanyen a la categoria d'«espais en blanc verticals»: \v).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T161249Z" creationid="Marc Riera" creationdate="20230206T115953Z">
+        <seg>Representa zero o un caràcter horitzontal d'espai en blanc (això inclou espais normals i no separables i les tabulacions, però no els caràcters de salt de línia, que pertanyen a la categoria d'«espais en blanc verticals»: \v).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41859,6 +41923,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sequence numbers that are not at the beginning of a line.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T160639Z" creationid="Marc Riera" creationdate="20230206T160639Z">
+        <seg>Números de seqüència que no són al principi d'una línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sequences such as 0,1, 0-3, or the first three characters of 0x002E, which would be matched if the expression was just &lt;l0&gt;0.[0-9]&lt;/l0&gt;, with no backslash before the period</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T143237Z" creationid="Marc Riera" creationdate="20230206T143237Z">
@@ -43813,8 +43885,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Start a new segment start after a period followed by a space, tab, or other whitespace.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191745Z" creationid="Marc Riera" creationdate="20221201T191745Z">
-        <seg>Començar un segment nou després d'un punt seguir d'un espai, un tabulador o un altre espai en blanc</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T161307Z" creationid="Marc Riera" creationdate="20221201T191745Z">
+        <seg>Començar un segment nou després d'un punt seguir d'un espai, una tabulació o un altre espai en blanc</seg>
       </tuv>
     </tu>
     <tu>
@@ -45887,6 +45959,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The CLOSING PARENTHESIS: &lt;l0&gt;)&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T160524Z" creationid="Marc Riera" creationdate="20230206T160524Z">
+        <seg>PARÈNTESI DE TANCAMENT: &lt;l0&gt;)&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Contribution Guide source text in the OmegaT repository.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T194557Z" creationid="Marc Riera" creationdate="20230101T194557Z">
@@ -46072,10 +46152,26 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OPENING CURLY BRACE: &lt;l0&gt;{&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T160917Z" creationid="Marc Riera" creationdate="20230206T160917Z">
+        <seg>CLAU D'OBERTURA: &lt;l0&gt;{&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OPENING PARENTHESIS: &lt;l0&gt;(&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T145517Z" creationid="Marc Riera" creationdate="20230206T145517Z">
         <seg>PARÈNTESI D'OBERTURA: &lt;l0&gt;(&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OPENING SQUARE BRACKET: &lt;l0&gt;[&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T160654Z" creationid="Marc Riera" creationdate="20230206T160654Z">
+        <seg>CLAUDÀTOR D'OBERTURA: &lt;l0&gt;[&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -46671,6 +46767,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The carriage-return character, not the letter “r”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T161341Z" creationid="Marc Riera" creationdate="20230206T161341Z">
+        <seg>Caràcter de retorn de carro, no la lletra «r».</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
@@ -46710,6 +46814,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111536Z" creationid="Marc Riera" creationdate="20221209T111536Z">
         <seg>Els canvis entre la vostra versió i la versió actual estan documentats en el fitxer &lt;u0&gt;changes.txt&lt;/u0&gt; del lloc de desenvolupament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The character “x” itself</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T161125Z" creationid="Marc Riera" creationdate="20230206T161125Z">
+        <seg>Caràcter «x» pròpiament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48126,6 +48238,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The newline (line feed) character, not the letter “n”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T161331Z" creationid="Marc Riera" creationdate="20230206T161331Z">
+        <seg>Caràcter de línia nova (salt de línia), no la lletra «n».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The next section describes the syntax used in the shortcut definition files, and provides an example modification.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T120824Z" creationid="Marc Riera" creationdate="20221217T120824Z">
@@ -48973,6 +49093,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The sequence number (including the parenthesis) at the beginning of each line in a list such as:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T160626Z" creationid="Marc Riera" creationdate="20230206T160626Z">
+        <seg>El número de seqüència (incloent-hi el parèntesi) del començament de cada línia en una llista com la següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The server is not a valid Apertium server.</seg>
@@ -49043,6 +49171,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T180017Z" creationid="Marc Riera" creationdate="20221217T180017Z">
         <seg>En la taula següent es presenten les dreceres que es poden modificar en el fitxer &lt;f0&gt;EditorShortcuts.properties&lt;/f0&gt;, juntament amb els valors per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The simplest regular expression consist of a single character, or combination of a &lt;l0&gt;\&lt;/l0&gt; and a character constituting a unit with a single meaning.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T161103Z" creationid="Marc Riera" creationdate="20230206T161103Z">
+        <seg>L'expressió regular més senzilla està formada per un sol caràcter o una combinació de &lt;l0&gt;\&lt;/l0&gt; i un caràcter que constitueixi una unitat amb un sol significat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49305,6 +49441,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T133445Z" creationid="Marc Riera" creationdate="20230130T133445Z">
         <seg>La sintaxi utilitzada per a especificar la ubicació d'una aplicació o carpeta depèn de la plataforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tab character, not the letter “t”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T161155Z" creationid="Marc Riera" creationdate="20230206T161155Z">
+        <seg>Caràcter de tabulació, no la lletra «t».</seg>
       </tuv>
     </tu>
     <tu>
@@ -52000,6 +52144,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221226T225223Z" creationid="Marc Riera" creationdate="20221226T225223Z">
         <seg>Aquesta secció presenta les convencions utilitzades per a distingir els elements de la interfície d'usuari de l'OmegaT en aquest manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This section presents various types of regular expression, ranging from the simple to the complex.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T161027Z" creationid="Marc Riera" creationdate="20230206T161015Z">
+        <seg>Aquesta secció presenta diversos tipus d'expressions regulars, de més senzilles a més complexes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65540,6 +65692,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T084451Z" creationid="Marc Riera" creationdate="20221205T084451Z">
         <seg>shift TAB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>similarly, &lt;l0&gt;\R&lt;/l0&gt; is any line break character.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T161351Z" creationid="Marc Riera" creationdate="20230206T161351Z">
+        <seg>De manera similar, &lt;l0&gt;\R&lt;/l0&gt; és qualsevol caràcter de salt de línia.</seg>
       </tuv>
     </tu>
     <tu>
