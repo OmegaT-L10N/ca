@@ -20812,6 +20812,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Groups are numbered, and their contents group are stored in memory.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T155743Z" creationid="Marc Riera" creationdate="20230206T155743Z">
+        <seg>Els grups estan numerats i el contingut s'emmagatzema en la memòria.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Grup de Recerca Tradumàtica</seg>
@@ -34768,6 +34776,14 @@ s'esvaeix com la boira.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Parentheses are always used in opening and closing pairs.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T155847Z" creationid="Marc Riera" creationdate="20230206T155847Z">
+        <seg>Sempre s'utilitzen parèntesis en parells d'obertura i tancament.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Parse error encountered reading preferences file!</seg>
@@ -46751,6 +46767,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The content of the group can also be used in the &lt;l0&gt;replacement text&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T155820Z" creationid="Marc Riera" creationdate="20230206T155820Z">
+        <seg>El contingut del grup també es pot utilitzar en el &lt;l0&gt;text de substitució&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contents of the file can also be viewed using the &lt;l0/&gt; option in the &lt;l1/&gt; menu.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155537Z" creationid="Marc Riera" creationdate="20221201T155537Z">
@@ -50300,6 +50324,14 @@ en sou víctima d'una.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They can be reused later in the search expression using &lt;l1&gt;\&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, where &lt;o3&gt;n&lt;/o3&gt; is the number of the group.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T155810Z" creationid="Marc Riera" creationdate="20230206T155810Z">
+        <seg>Es poden reutilitzar més endavant en l'expressió de cerca utilitzant &lt;l1&gt;\&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, on &lt;o3&gt;n&lt;/o3&gt; és el número del grup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They can be used to:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175517Z" creationid="Marc Riera" creationdate="20230130T175517Z">
@@ -50676,6 +50708,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T145208Z" creationid="Marc Riera" creationdate="20230206T145208Z">
         <seg>Aquest caràcter especifica que el caràcter o expressió precedent ha de coincidir zero o més vegades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character starts a &lt;e0&gt;group&lt;/e0&gt;, which is a set of characters treated as a single unit.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T155726Z" creationid="Marc Riera" creationdate="20230206T155726Z">
+        <seg>Aquest caràcter inicia un &lt;e0&gt;grup&lt;/e0&gt;, que és un conjunt de caràcters tractats com una sola unitat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53928,6 +53968,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Trying to use only the opening or closing parenthesis on its own will cause an error.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T155904Z" creationid="Marc Riera" creationdate="20230206T155904Z">
+        <seg>Si intenteu utilitzar només els parèntesis d'obertura o tancament sols, es produirà un error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Trying with backup file</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T191711Z" creationid="Marc Riera" creationdate="20221124T191711Z">
@@ -55754,6 +55802,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221542Z" creationid="Marc Riera" creationdate="20221218T221542Z">
         <seg>Utilitzeu &lt;l1/&gt;&lt;l2/&gt; per a obrir la llista de formats de fitxer compatibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l1&gt;$&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, where &lt;o3&gt;n&lt;/o3&gt; is the number of the group defined in the search.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T155833Z" creationid="Marc Riera" creationdate="20230206T155833Z">
+        <seg>Utilitzeu &lt;l1&gt;$&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, on &lt;o3&gt;n&lt;/o3&gt; és el número del grup definit en la cerca.</seg>
       </tuv>
     </tu>
     <tu>
