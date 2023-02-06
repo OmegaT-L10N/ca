@@ -25858,6 +25858,14 @@ en la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It will also find the final “an ” of “Can ” in a sentence such as “Can I help you?”, or the final “a ” of “pasta ” in “We had pasta for lunch.”</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T145014Z" creationid="Marc Riera" creationdate="20230206T145014Z">
+        <seg>També trobarà les lletres «un» d'«algun» en una frase com ara «Teniu algun dubte?» o «una» com a part de «lluna» en «Avui hi ha lluna plena».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It will be created the first time you add an entry to the glossary.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T165822Z" creationid="Marc Riera" creationdate="20221201T165822Z">
@@ -29992,6 +30000,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T203023Z" creationid="Marc Riera" creationdate="20230101T203023Z">
         <seg>Navegació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Neither the “a” nor the “an” in:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T145116Z" creationid="Marc Riera" creationdate="20230206T145116Z">
+        <seg>Ni «un» ni «una» en la frase següent:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45815,6 +45831,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The ASTERISK: &lt;l0&gt;*&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T145154Z" creationid="Marc Riera" creationdate="20230206T145149Z">
+        <seg>ASTERISC: &lt;l0&gt;*&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The BACKSLASH: &lt;l0&gt;\&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120902Z" creationid="Marc Riera" creationdate="20230206T120902Z">
@@ -47647,6 +47671,14 @@ però d'altres us esperen.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201124T205817Z" creationid="Marc Riera" creationdate="20201124T205817Z">
         <seg>El JRE inclòs és la versió de 64 bits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The indefinite article: “a” (or “an”).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T145130Z" creationid="Marc Riera" creationdate="20230206T145130Z">
+        <seg>L'article indefinit: «un» (o «una»).</seg>
       </tuv>
     </tu>
     <tu>
@@ -50146,6 +50178,14 @@ en sou víctima d'una.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are not followed by a space.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T145141Z" creationid="Marc Riera" creationdate="20230206T145141Z">
+        <seg>No van seguits per un espai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They are protected to prevent you from modifying their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T184825Z" creationid="Marc Riera" creationdate="20221213T184825Z">
@@ -50580,6 +50620,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T144603Z" creationid="Marc Riera" creationdate="20230206T144603Z">
         <seg>Aquest caràcter especifica que el caràcter o expressió precedent ha de coincidir zero o una vegada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character specifies that zero or more instances of the preceding character or expression should be matched.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T145208Z" creationid="Marc Riera" creationdate="20230206T145208Z">
+        <seg>Aquest caràcter especifica que el caràcter o expressió precedent ha de coincidir zero o més vegades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65281,14 +65329,6 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170647Z" creationid="Marc Riera" creationdate="20210521T170647Z">
         <seg>justificació a la dreta</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>run\w*</seg>
-      </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113249Z" creationid="Marc Riera" creationdate="20221129T113249Z">
-        <seg>run\w*</seg>
       </tuv>
     </tu>
     <tu>
