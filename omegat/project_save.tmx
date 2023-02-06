@@ -8865,6 +8865,14 @@ inesperat però correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As stated above, the &lt;l0&gt;\&lt;/l0&gt; character has the default special meaning of either cancelling or activating the special meaning of other characters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T121618Z" creationid="Marc Riera" creationdate="20230206T121618Z">
+        <seg>Com s'ha indicat anteriorment, el caràcter &lt;l0&gt;\&lt;/l0&gt; per defecte té el significat especial d'anul·lar o activar el significat especial d'altres caràcters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As the existing content will not be touched, damage to an existing file would be limited.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T220223Z" creationid="Marc Riera" creationdate="20201130T220223Z">
@@ -12533,6 +12541,14 @@ una descripció de com s'ha produït aquest error.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092942Z" creationid="Marc Riera" creationdate="20221231T092942Z">
         <seg>Consulteu la documentació del sistema per a conèixer més informació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consult the sites in the &lt;l0/&gt; section below for information on combinations not covered here.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T121407Z" creationid="Marc Riera" creationdate="20230206T121407Z">
+        <seg>Consulteu els llocs de la secció &lt;l0/&gt; més endavant per a obtenir informació sobre les combinacions que no es tracten aquí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19181,6 +19197,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;e0&gt;r&lt;/e0&gt; is just a normal character but preceding it with &lt;l1&gt;\&lt;/l1&gt; to make it &lt;l2&gt;\r&lt;/l2&gt; turns it into a special combination that matches a &lt;e3&gt;carriage return character&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T121301Z" creationid="Marc Riera" creationdate="20230206T121301Z">
+        <seg>Per exemple, &lt;e0&gt;r&lt;/e0&gt; és només un caràcter normal però, si s'afegeix &lt;l1&gt;\&lt;/l1&gt; davant perquè sigui &lt;l2&gt;\r&lt;/l2&gt;, es converteix en una combinació especial que coincideix amb el &lt;e3&gt;caràcter de retorn de carro&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;l1&gt;user.language=ja&lt;/l1&gt; (without the &lt;l2&gt;#&lt;/l2&gt;) will launch OmegaT with the user interface in Japanese.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T123826Z" creationid="Marc Riera" creationdate="20230130T123826Z">
@@ -19258,6 +19282,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T083848Z" creationid="Marc Riera" creationdate="20221214T083848Z">
         <seg>Per exemple, el patró &lt;l0&gt;.xhtml&lt;/l0&gt; registrat en el filtre XHTML coincideix amb qualsevol fitxer amb l'extensió &lt;f1&gt;xhtml&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the seven letters spelling out the word “&lt;e0&gt;example&lt;/e0&gt;” simply tell the search function to match exactly those letters, in that order.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T121102Z" creationid="Marc Riera" creationdate="20230206T121102Z">
+        <seg>Per exemple, les set lletres que formen la paraula «&lt;e0&gt;exemple&lt;/e0&gt;» senzillament indiquen a la funció de cerca que coincideixi exactament amb aquestes lletres, en aquest ordre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26920,6 +26952,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Letters of the alphabet preceded by a backslash (&lt;l0&gt;\&lt;/l0&gt;) take on a special meaning</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120658Z" creationid="Marc Riera" creationdate="20230206T120658Z">
+        <seg>Les lletres de l'alfabet precedides per una barra inclinada inversa (&lt;l0&gt;\&lt;/l0&gt;) prenen un significat especial</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Level</seg>
@@ -29345,6 +29385,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T150838Z" creationid="mgalo" creationdate="20181113T095532Z">
         <seg>URL del servidor del Moses:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most characters simply match themselves</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120632Z" creationid="Marc Riera" creationdate="20230206T120620Z">
+        <seg>La majoria de caràcters coincideixen amb ells mateixos</seg>
       </tuv>
     </tu>
     <tu>
@@ -33098,6 +33146,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One example is &lt;l1&gt;.&lt;/l1&gt;: on its own, it has the special meaning of matching &lt;e2&gt;any single character&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T121456Z" creationid="Marc Riera" creationdate="20230206T121456Z">
+        <seg>Un exemple és &lt;l1&gt;.&lt;/l1&gt;: per si sol, té el significat especial de &lt;e2&gt;qualsevol caràcter únic&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One of the above segments is the current segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164307Z" creationid="Marc Riera" creationdate="20220625T164307Z">
@@ -33244,6 +33300,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T090904Z" creationid="Marc Riera" creationdate="20221231T090904Z">
         <seg>Només es tracten els fonaments més útils per als traductors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the letters &lt;e0&gt;i j l m o&lt;/e0&gt;, and &lt;e1&gt;y&lt;/e1&gt;, in both lower- and uppercase, have no special meaning when preceded by a backslash.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T121346Z" creationid="Marc Riera" creationdate="20230206T121346Z">
+        <seg>Només les lletres &lt;e0&gt;i j l m o&lt;/e0&gt; i &lt;e1&gt;y&lt;/e1&gt;, tant en minúscules com en majúscules, no tenen cap significat especial quan van precedides per una barra inversa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42132,6 +42196,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Similarly, &lt;l4&gt;\R&lt;/l4&gt; matches &lt;e5&gt;any line break character&lt;/e5&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T121314Z" creationid="Marc Riera" creationdate="20230206T121314Z">
+        <seg>De la mateixa manera, &lt;l4&gt;\R&lt;/l4&gt; coincideix amb &lt;e5&gt;qualsevol caràcter de salt de línia&lt;/e5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Similarly, links to the various parts of the manual are displayed in a way that make it easier to identify the function of the linked item.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221226T225343Z" creationid="Marc Riera" creationdate="20221226T225343Z">
@@ -42242,6 +42314,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T113602Z" creationid="Marc Riera" creationdate="20230104T113602Z">
         <seg>Simplifica els indicadors de funció de les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simply put, the search just looks for the word “&lt;e1&gt;example&lt;/e1&gt;”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T121129Z" creationid="Marc Riera" creationdate="20230206T121129Z">
+        <seg>En resum, la cerca només cerca la paraula «&lt;e1&gt;exemple&lt;/e1&gt;».</seg>
       </tuv>
     </tu>
     <tu>
@@ -45103,6 +45183,14 @@ L'àmbit d'una substitució de text són els segments de destinació del project
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That special meaning has to be cancelled by another character to match the character itself.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T121440Z" creationid="Marc Riera" creationdate="20230206T121440Z">
+        <seg>Aquest significat especial l'ha d'anul·lar un altre caràcter perquè coincideixi amb el caràcter en si.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That’s the easiest way to work on the new version of an already translated document.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T123422Z" creationid="Marc Riera" creationdate="20221211T123422Z">
@@ -45162,6 +45250,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T162448Z" creationid="Marc Riera" creationdate="20201125T162448Z">
         <seg>La versió «mestra» és una versió sense polir, «alfa», en desenvolupament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The 12 characters</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120749Z" creationid="Marc Riera" creationdate="20230206T120749Z">
+        <seg>Els 12 caràcters</seg>
       </tuv>
     </tu>
     <tu>
@@ -45575,6 +45671,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0&gt;\&lt;/l0&gt; character is a very special character</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120747Z" creationid="Marc Riera" creationdate="20230206T120747Z">
+        <seg>El caràcter &lt;l0&gt;\&lt;/l0&gt; is és un caràcter molt especial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l1/&gt; is also available in the Editor pane.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T184139Z" creationid="Marc Riera" creationdate="20221213T184139Z">
@@ -45615,10 +45719,34 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The BACKSLASH: &lt;l0&gt;\&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120902Z" creationid="Marc Riera" creationdate="20230206T120902Z">
+        <seg>BARRA INCLINADA INVERSA: &lt;l0&gt;\&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The CARET: &lt;l0&gt;^&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120917Z" creationid="Marc Riera" creationdate="20230206T120917Z">
+        <seg>CIRCUMFLEX: &lt;l0&gt;&lt;/l0&gt;^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Contribution Guide source text in the OmegaT repository.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T194557Z" creationid="Marc Riera" creationdate="20230101T194557Z">
         <seg>Text d'origen de la guia de col·laboració en el dipòsit de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The DOLLAR sign: &lt;l0&gt;$&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120930Z" creationid="Marc Riera" creationdate="20230206T120930Z">
+        <seg>Signe de DÒLAR: &lt;l0&gt;$&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -47298,6 +47426,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The full list of characters is presented &lt;l0&gt;below&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120729Z" creationid="Marc Riera" creationdate="20230206T120729Z">
+        <seg>La llista completa de caràcters es presenta &lt;l0&gt;a continuació&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T165117Z" creationid="Stephanie" creationdate="20150722T180054Z">
@@ -47632,6 +47768,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163559Z" creationid="Marc Riera" creationdate="20220625T163559Z">
         <seg>La finestra principal consta de diverses subfinestres, el menú principal i una barra d'estat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The majority of characters in a regular expression simply &lt;e0&gt;look for themselves&lt;/e0&gt; in the text sequence.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T121031Z" creationid="Marc Riera" creationdate="20230206T121031Z">
+        <seg>La majoria de caràcters d'una expressió regular simplement &lt;e0&gt;se cerquen a ells mateixos&lt;/e0&gt; en la seqüència de text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51127,6 +51271,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This manual only describes a small subset of letters that take on a special meaning.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T121352Z" creationid="Marc Riera" creationdate="20230206T121352Z">
+        <seg>Aquest manual només descriu un petit subconjunt de lletres que prenen un significat especial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This marking has priority over &lt;g0&gt;Highlight Translated Segments&lt;/g0&gt; and &lt;g1&gt;Highlight Untranslated Segments&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173836Z" creationid="Marc Riera" creationdate="20230130T173836Z">
@@ -52210,6 +52362,14 @@ tots els paràmetres als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T134958Z" creationid="Marc Riera" creationdate="20221211T134958Z">
         <seg>Per a garantir que totes les propietats d'un format es tenen en compte adequadament, de vegades és preferible convertir el fitxer a un format compatible i, després, tornar a convertir el fitxer traduït al format original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To find a normal period, that meaning has to be cancelled using the &lt;l0&gt;\&lt;/l0&gt;, to make the expression &lt;l1&gt;\.&lt;/l1&gt;, which just matches a period.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T121527Z" creationid="Marc Riera" creationdate="20230206T121527Z">
+        <seg>Per a cercar un punt normal, aquest significat s'ha de cancel·lar utilitzant &lt;l0&gt;\&lt;/l0&gt; per a crear l'expressió &lt;l1&gt;\.&lt;/l1&gt;, que només coincideix amb un punt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53520,6 +53680,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Twelve characters have a special meaning by default</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120717Z" creationid="Marc Riera" creationdate="20230206T120717Z">
+        <seg>Hi ha dotze caràcters amb un significat especial per defecte</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Twitter</seg>
@@ -54252,6 +54420,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T185321Z" creationid="Marc Riera" creationdate="20230104T185310Z">
         <seg>A diferència de les etiquetes de l'OmegaT, el text marcat i les etiquetes personalitzades es compten en les estadístiques per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unlike a letter on its own, which simply represents itself as noted above, a letter preceded by a &lt;l0&gt;\&lt;/l0&gt; has a special function in a regular expression.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T121158Z" creationid="Marc Riera" creationdate="20230206T121158Z">
+        <seg>A diferència d'una lletra sola, que simplement es representa a ella mateixa com s'ha indicat anteriorment, una lletra precedida per &lt;l0&gt;\&lt;/l0&gt; té una funció especial en una expressió regular.</seg>
       </tuv>
     </tu>
     <tu>
