@@ -31136,6 +31136,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Numbers such as “1.5”, “23.2” or “5235.8” with a single decimal place and any number of digits before the decimal point.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T145438Z" creationid="Marc Riera" creationdate="20230206T145438Z">
+        <seg>Nombres com ara «1.5», «23.2» o «5235.8» amb un únic decimal i qualsevol nombre de dígits abans del punt decimal.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>O&amp;ptions...</seg>
@@ -33404,6 +33412,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T180429Z" creationid="Marc Riera" creationdate="20221215T180429Z">
         <seg>Aquí només es descriuen les opcions no disponibles en el filtre de fitxers XHTML (consulteu l'apartat anterior).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the portion of the after the thousands separator will be matched.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T145506Z" creationid="Marc Riera" creationdate="20230206T145506Z">
+        <seg>Només coincidirà la part posterior al separador de milers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46040,6 +46056,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OPENING PARENTHESIS: &lt;l0&gt;(&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T145517Z" creationid="Marc Riera" creationdate="20230206T145517Z">
+        <seg>PARÈNTESI D'OBERTURA: &lt;l0&gt;(&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Okapi Filters Plugin for OmegaT, from the &lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T134853Z" creationid="Marc Riera" creationdate="20221211T134853Z">
@@ -46163,6 +46187,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T143740Z" creationid="Marc Riera" creationdate="20230206T143740Z">
         <seg>PUNT: &lt;l0&gt;.&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The PLUS sign: &lt;l0&gt;+&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T145413Z" creationid="Marc Riera" creationdate="20230206T145413Z">
+        <seg>SIGNE DE SUMA: &lt;l0&gt;+&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -47104,6 +47136,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113603Z" creationid="Marc Riera" creationdate="20221129T113603Z">
         <seg>Fi d'una línia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The entire value of numbers such as “5,235.8” or “21,571.9”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T145455Z" creationid="Marc Riera" creationdate="20230206T145455Z">
+        <seg>El valor complet de nombres com ara «5,235.8» o «21,571.9».</seg>
       </tuv>
     </tu>
     <tu>
@@ -50620,6 +50660,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T144603Z" creationid="Marc Riera" creationdate="20230206T144603Z">
         <seg>Aquest caràcter especifica que el caràcter o expressió precedent ha de coincidir zero o una vegada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character specifies that one or more instances of the preceding character or expression should be matched.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T145423Z" creationid="Marc Riera" creationdate="20230206T145423Z">
+        <seg>Aquest caràcter especifica que el caràcter o expressió precedent ha de coincidir una o més vegades.</seg>
       </tuv>
     </tu>
     <tu>
