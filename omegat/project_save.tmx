@@ -6078,6 +6078,22 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A line that consists of a single word and ends with a colon:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T143722Z" creationid="Marc Riera" creationdate="20230206T143722Z">
+        <seg>Una línia formada per una sola paraula i que acaba amb dos punts:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A line that consists of a single word, but does not end in a colon:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T143735Z" creationid="Marc Riera" creationdate="20230206T143735Z">
+        <seg>Una línia formada per una sola paraula, però que no acaba amb dos punts:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A link to the support page.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T112005Z" creationid="Marc Riera" creationdate="20221129T112005Z">
@@ -8516,6 +8532,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T091325Z" creationid="Marc Riera" creationdate="20221231T091325Z">
         <seg>Qualsevol caràcter que &lt;e0&gt;no&lt;/e0&gt; sigui «a», «b» ni «c».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any combinations of three letters starting with “c” and ending with “t”: “&lt;e0&gt;cat&lt;/e0&gt;”, “&lt;e1&gt;cut&lt;/e1&gt;”, “&lt;e2&gt;cot&lt;/e2&gt;”, or even nonsensical combinations such as “&lt;e3&gt;czt&lt;/e3&gt;” or “&lt;e4&gt;cqt&lt;/e4&gt;”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T144021Z" creationid="Marc Riera" creationdate="20230206T144021Z">
+        <seg>Qualsevol combinació de tres lletres que comenci per «s» i acabi amb «l»: «&lt;e0&gt;sol&lt;/e0&gt;», «&lt;e1&gt;sal&lt;/e1&gt;» o fins i tot combinacions sense sentit com «&lt;e2&gt;sul&lt;/e2&gt;», «&lt;e3&gt;szl&lt;/e3&gt;» o «&lt;e4&gt;srl&lt;/e4&gt;».</seg>
       </tuv>
     </tu>
     <tu>
@@ -11952,6 +11976,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192925Z" creationid="Marc Riera" creationdate="20221124T192925Z">
         <seg>L'índex de la columna ha de ser igual a 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Combinations containing three letters that start with “c” and ending with “t”, but are split across more than one line.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T144042Z" creationid="Marc Riera" creationdate="20230206T144042Z">
+        <seg>Combinacions que contenen tres lletres que comencen per «s» i acaben amb «l», però dividides en més d'una línia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41762,6 +41794,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Sequences such as 0,1, 0-3, or the first three characters of 0x002E, which would be matched if the expression was just &lt;l0&gt;0.[0-9]&lt;/l0&gt;, with no backslash before the period</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T143237Z" creationid="Marc Riera" creationdate="20230206T143237Z">
+        <seg>Seqüències com ara 0,1, 0-3 o els tres primers caràcters de 0x002E, que coincidirien si l'expressió fos simplement &lt;l0&gt;0.[0-9]&lt;/l0&gt;, sense la barra inclinada inversa abans del punt.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Server (original)</seg>
@@ -45695,6 +45735,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0&gt;\.&lt;/l0&gt; cancels the “any character” meaning of the period to match the decimal point, while the &lt;l1&gt;\d&lt;/l1&gt; turns the ordinarily lowercase “d” letter into an expression that matches any digit between 0 and 9.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T143148Z" creationid="Marc Riera" creationdate="20230206T143148Z">
+        <seg>&lt;l0&gt;\.&lt;/l0&gt; anul·la el significat de "qualsevol caràcter" del punt per a coincidir amb el punt decimal, mentre que &lt;l1&gt;\d&lt;/l1&gt; converteix la lletra «d» minúscula en una expressió que coincideix amb qualsevol dígit entre 0 i 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0&gt;\&lt;/l0&gt; can cancel its own special meaning by doubling up to form &lt;l1&gt;\\&lt;/l1&gt;, which simply matches the &lt;e2&gt;backslash&lt;/e2&gt; character itself.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T121716Z" creationid="Marc Riera" creationdate="20230206T121716Z">
@@ -46071,6 +46119,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The PERIOD: &lt;l0&gt;.&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T143740Z" creationid="Marc Riera" creationdate="20230206T143740Z">
+        <seg>PUNT: &lt;l0&gt;.&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The PO filter already handles variables marked with &lt;l0&gt;%&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T145959Z" creationid="Marc Riera" creationdate="20230105T145959Z">
@@ -46257,6 +46313,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T151432Z" creationid="Marc Riera" creationdate="20191110T221705Z">
         <seg>L'URL ha d'incloure «{target}», que se substituirà pel text de cerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The VERTICAL BAR: &lt;l0&gt;|&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T144104Z" creationid="Marc Riera" creationdate="20230206T144104Z">
+        <seg>PLECA: &lt;l0&gt;|&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -47752,6 +47816,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081603Z" creationid="Marc Riera" creationdate="20221201T081603Z">
         <seg>La ubicació de la carpeta de configuració per defecte varia segons el sistema (el caràcter &lt;e0&gt;~&lt;/e0&gt; representa la carpeta d'inici):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The lowercase “a”, “b”, or “c” in the word “back”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T143639Z" creationid="Marc Riera" creationdate="20230206T143639Z">
+        <seg>Les lletres «a», «b» o «c» minúscula de la paraula «caoba».</seg>
       </tuv>
     </tu>
     <tu>
@@ -49407,6 +49479,22 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121444Z" creationid="Marc Riera" creationdate="20221218T121444Z">
         <seg>Les dues accions són equivalents a utilitzar els elements del menú &lt;l0/&gt;&lt;l1/&gt; i &lt;l2/&gt;&lt;l3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The uppercase “A” in the following sentence: “A long, but exciting journey was about to begin”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T143425Z" creationid="Marc Riera" creationdate="20230206T143425Z">
+        <seg>La lletra «A» majúscula de la frase «A vegades somnio viatges llargs però emocionants».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The uppercase “A” in the following sentence: “My friend is writing a book called &lt;e0&gt;A Long Journey&lt;/e0&gt;”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T143646Z" creationid="Marc Riera" creationdate="20230206T143554Z">
+        <seg>La lletra «A» majúscula de la frase següent: «El meu amic escriu un llibre titulat &lt;e0&gt;Amors llunyans&lt;/e0&gt;».</seg>
       </tuv>
     </tu>
     <tu>
@@ -56994,6 +57082,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What is the missing letter?</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T144044Z" creationid="Marc Riera" creationdate="20230206T144044Z">
+        <seg>Quina és la lletra que falta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What to fill the pseudotranslated TMX with.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135952Z" creationid="Marc Riera" creationdate="20230130T135952Z">
@@ -57160,6 +57256,30 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T135237Z" creationid="Marc Riera" creationdate="20221211T135237Z">
         <seg>Quan s'instal·la, el connector ofereix accés directe als formats afegits i també permet associar un fitxer de paràmetres del filtre personalitzat que heu creat amb el Rainbow.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When it is the first character in &lt;l0&gt;a character class enclosed in brackets&lt;/l0&gt;, it matches all the characters that are not part of that class.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T143312Z" creationid="Marc Riera" creationdate="20230206T143312Z">
+        <seg>Quan és el primer caràcter d'una &lt;l0&gt;classe de caràcters entre claudàtor&lt;/l0&gt;, coincideix amb tots els caràcters que no formen part de la classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When it is the first character in the expression, the &lt;e0&gt;caret&lt;/e0&gt; character matches the beginning of a line.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T143252Z" creationid="Marc Riera" creationdate="20230206T143252Z">
+        <seg>Quan és el primer caràcter de l'expressió, el caràcter &lt;e0&gt;circumflex&lt;/e0&gt; coincideix amb el començament d'una línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When it is the last character in an expression, the &lt;e0&gt;dollar&lt;/e0&gt; sign matches the end of a line.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T143709Z" creationid="Marc Riera" creationdate="20230206T143709Z">
+        <seg>Quan és el darrer caràcter d'una expressió, el signe del &lt;e0&gt;dòlar&lt;/e0&gt; coincideix amb la fi d'una línia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60797,6 +60917,22 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T123925Z" creationid="Marc Riera" creationdate="20230130T123925Z">
         <seg>suprimint els marcadors &lt;l0&gt;&lt;!--&lt;/l0&gt; i &lt;l1&gt;--&gt;&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>c</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T144046Z" creationid="Marc Riera" creationdate="20230206T144046Z">
+        <seg>s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>c.t</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T143831Z" creationid="Marc Riera" creationdate="20230206T143831Z">
+        <seg>s.l</seg>
       </tuv>
     </tu>
     <tu>
@@ -65322,6 +65458,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174924Z" creationid="Marc Riera" creationdate="20221218T174924Z">
         <seg>Hora del sistema en crear el fitxer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>t</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T144048Z" creationid="Marc Riera" creationdate="20230206T144048Z">
+        <seg>l</seg>
       </tuv>
     </tu>
     <tu>
