@@ -6070,6 +6070,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A language pattern that matches the source language of the project will apply to that project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120408Z" creationid="Marc Riera" creationdate="20230206T120408Z">
+        <seg>En un projecte s'aplicarà un patró de llengua que coincideixi amb la llengua d'origen del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A link to the support page.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T112005Z" creationid="Marc Riera" creationdate="20221129T112005Z">
@@ -6107,6 +6115,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T212715Z" creationid="Marc Riera" creationdate="20221124T212715Z">
         <seg>Una nota és simplement una indicació sobre el text d'origen o la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A number of characters or combinations of characters have a special meaning in a regular expression.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120537Z" creationid="Marc Riera" creationdate="20230206T120537Z">
+        <seg>Hi ha diversos caràcters o combinacions de caràcters amb un significat especial en una expressió regular.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8068,6 +8084,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although seen as daunting and complex, even the simplest regular expressions (often abbreviated &lt;e0&gt;regex&lt;/e0&gt; or &lt;e1&gt;regexp&lt;/e1&gt;) are extremely useful, not only in OmegaT, but in many other applications you might use on a day-to-day basis, with some variations.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T115816Z" creationid="Marc Riera" creationdate="20230206T115816Z">
+        <seg>Tot i que tenen un aspecte complex i intimiden, fins i tot les expressions regulars més senzilles (sovint abreujades com a &lt;e0&gt;regex&lt;/e0&gt; o &lt;e1&gt;regexp&lt;/e1&gt;) són extremadament útils, no només en l'OmegaT, sinó en moltes altres aplicacions que potser utilitzeu cada dia, amb algunes variacions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although the mapping feature is primarily intended for gathering source files from disparate locations, it can also be used for other types of files.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T151811Z" creationid="Marc Riera" creationdate="20230130T151811Z">
@@ -8492,6 +8516,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093445Z" creationid="Marc Riera" creationdate="20221231T093445Z">
         <seg>S'ignorarà qualsevol fitxer que també s'anomeni «test.html» en altres subcarpetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any given expression either &lt;e0&gt;matches&lt;/e0&gt;, or &lt;e1&gt;does &lt;e2&gt;not&lt;/e2&gt; match&lt;/e1&gt; a word, phrase, or other sequence of text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120509Z" creationid="Marc Riera" creationdate="20230206T120509Z">
+        <seg>Qualsevol expressió &lt;e0&gt;coincideix&lt;/e0&gt; o &lt;e1&gt;&lt;e2&gt;no&lt;/e2&gt; coincideix&lt;/e1&gt; amb una paraula, una frase o una altra seqüència de text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14046,6 +14078,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom tags are tags defined with regular expressions that are handled exactly like native OmegaT tags.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120054Z" creationid="Marc Riera" creationdate="20230206T120054Z">
+        <seg>Les etiquetes personalitzades són etiquetes definides amb expressions regulars que es tracten exactament com etiquetes natives de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Customization</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T190534Z" creationid="Marc Riera" creationdate="20221203T190534Z">
@@ -16214,6 +16254,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T084600Z" creationid="Marc Riera" creationdate="20221205T084600Z">
         <seg>ESCAPE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each and every character in the expression is relevant when determining a match.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120526Z" creationid="Marc Riera" creationdate="20230206T120526Z">
+        <seg>Tots i cadascun dels caràcters de l'expressió són rellevants quan es determina una coincidència.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27860,6 +27908,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Many OmegaT functions rely on regular expressions or make them available as an option:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120006Z" creationid="Marc Riera" creationdate="20230206T120006Z">
+        <seg>Moltes funcions de l'OmegaT es basen en expressions regulars o les ofereixen com a opció:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
@@ -32215,6 +32271,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T114125Z" creationid="Marc Riera" creationdate="20221217T114125Z">
         <seg>L'OmegaT funciona en qualsevol plataforma que executi una versió del Java Runtime Environment (Windows, macOS i Linux són les principals).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT searches include a &lt;l0/&gt; option that allows you to make extremely powerful searches across your files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120020Z" creationid="Marc Riera" creationdate="20230206T120020Z">
+        <seg>Les cerques de l'OmegaT inclouen una opció &lt;l0/&gt; que permet fer cerques molt potents en els vostres fitxers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36785,10 +36849,26 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expressions are used to find text, including characters that are not visible on the screen or when printed out, such as spaces, tabs, or line breaks.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120421Z" creationid="Marc Riera" creationdate="20230206T120421Z">
+        <seg>Les expressions regulars s'utilitzen per a cercar text, incloent-hi caràcters que no són visibles en la pantalla o quan s'imprimeixen, com ara espais, tabuladors o salts de línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expressions only match text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T091202Z" creationid="Marc Riera" creationdate="20221231T091202Z">
         <seg>Les expressions regulars només coincideixen amb text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular expressions use a combination of letters, digits, and symbols (collectively known as &lt;e0&gt;characters&lt;/e0&gt;) to define an &lt;e1&gt;expression&lt;/e1&gt; that represents a specific text pattern.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T115842Z" creationid="Marc Riera" creationdate="20230206T115842Z">
+        <seg>Les expressions regulars utilitzen una combinació de lletres, dígits i símbols (coneguts col·lectivament com a &lt;e0&gt;caràcters&lt;/e0&gt;) per a definir una &lt;e1&gt;expressió&lt;/e1&gt; que representa un patró de text específic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37868,6 +37948,22 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T151206Z" creationid="Marc Riera" creationdate="20180221T113331Z">
         <seg>El dipòsit {0} és desconegut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Represents one or more “word characters”, namely the letters of the alphabet, digits, and underscore symbols.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T115858Z" creationid="Marc Riera" creationdate="20230206T115858Z">
+        <seg>Representa un o més "caràcters de paraules", és a dir, lletres de l'alfabet, dígits i símbols de subratllat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Represents zero or one horizontal whitespace character (this includes regular and non-breaking spaces as well as tabs, but not line break characters, which belong to the “vertical whitespace” category: \v.)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T115953Z" creationid="Marc Riera" creationdate="20230206T115953Z">
+        <seg>Representa zero o un caràcter horitzontal d'espai en blanc (això inclou espais normals i no separables i els tabuladors, però no els caràcters de salt de línia, que pertanyen a la categoria d'«espais en blanc verticals»: \v).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40690,6 +40786,22 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224003Z" creationid="Marc Riera" creationdate="20180214T224003Z">
         <seg>Mètode de segmentació: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segmentation or exception rules define the position in a segment where a split will, or will not, be made.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120252Z" creationid="Marc Riera" creationdate="20230206T120252Z">
+        <seg>Les regles de segmentació o excepció defineixen la posició en un segment on es farà (o no) una divisió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segmentation rules and language patterns are defined with regular expressions.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120239Z" creationid="Marc Riera" creationdate="20230206T120239Z">
+        <seg>Les regles de segmentació i els patrons de llengua es defineixen amb expressions regulars.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44844,8 +44956,8 @@ L'àmbit d'una substitució de text són els segments de destinació del project
       <tuv lang="en">
         <seg>Text in the target segment matching this expression is marked in red and identified as an extraneous tag for issue checking purposes.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T185507Z" creationid="Marc Riera" creationdate="20230104T185507Z">
-        <seg>El text del segment de destinació que coincideix amb aquesta expressió es marca de color vermell i s'identifica com a etiqueta estranya en la comprovació d'errors.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120213Z" creationid="Marc Riera" creationdate="20230104T185507Z">
+        <seg>El text del segment de destinació que coincideix amb aquesta expressió es marca de color vermell i s'identifica com a etiqueta supèrflua en la comprovació d'errors.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45415,6 +45527,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; preference allows you to define strings that OmegaT will mark in red by default, and treat as extraneous tags for validation purposes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120158Z" creationid="Marc Riera" creationdate="20230206T120123Z">
+        <seg>La preferència &lt;l0/&gt; us permet definir cadenes que l'OmegaT marcarà en vermell per defecte i que tractarà com a etiquetes supèrflues per a la validació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; preference.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221337Z" creationid="Marc Riera" creationdate="20221218T221337Z">
@@ -45435,6 +45555,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T090930Z" creationid="Marc Riera" creationdate="20221231T090930Z">
         <seg>La secció &lt;l0/&gt; del final d'aquest annez proporciona alguns punts de partida per a explorar usos avançats o complexos més enllà de l'abast d'aquest manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; setting allows you to define strings that OmegaT will highlight in the aligned documents.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120229Z" creationid="Marc Riera" creationdate="20230206T120229Z">
+        <seg>El paràmetre &lt;l0/&gt; permet definir cadenes que l'OmegaT ressaltarà en els fitxers alineats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48194,6 +48322,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The same option in the &lt;l0/&gt; dialog allows you to apply regular expressions to both the search and replaced text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120038Z" creationid="Marc Riera" creationdate="20230206T120038Z">
+        <seg>La mateixa opció del quadre diàleg &lt;l0/&gt; permet aplicar expressions regulars tant a la cerca com al text substituït.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The same spirit can be found within the OmegaT project.</seg>
@@ -49800,6 +49936,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T183057Z" creationid="Marc Riera" creationdate="20230105T183057Z">
         <seg>Els poden escriure els usuaris en qualsevol llenguatge que pugui processar la màquina virtual del Java subjacent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They cannot match decorations such as &lt;e0&gt;bold&lt;/e0&gt;, &lt;e1&gt;italics&lt;/e1&gt;, or other &lt;e2&gt;stylistic effects&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120610Z" creationid="Marc Riera" creationdate="20230206T120610Z">
+        <seg>No poden coincidir amb format com ara la &lt;e0&gt;negreta&lt;/e0&gt;, la &lt;e1&gt;cursiva&lt;/e1&gt; o altres &lt;e2&gt;efectes d'estil&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53382,6 +53526,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T134133Z" creationid="Marc Riera" creationdate="20190924T134133Z">
         <seg>Twitter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Two regular expressions are required to define that position: a “before” expression to define the text pattern ahead of where the rule should apply, and an “after” expression to define the text pattern following that position.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120335Z" creationid="Marc Riera" creationdate="20230206T120335Z">
+        <seg>Es requereixen dues expressions regulars per a definir aquesta posició: una expressió «anterior» per a definir el patró de text davant del qual s'ha d'aplicar la regla, i una expressió «posterior» per a definir el patró de text després d'aquesta posició.</seg>
       </tuv>
     </tu>
     <tu>
