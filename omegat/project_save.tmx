@@ -5564,6 +5564,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;an?␣&lt;/l0&gt; (where “␣” represents a single space).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T144644Z" creationid="Marc Riera" creationdate="20230206T144644Z">
+        <seg>&lt;l0&gt;un?␣&lt;/l0&gt; («␣» representa un espai)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;meta&lt;/l0&gt; refers to the key with the Windows logo on most keyboards for Windows or Linux systems, and to the &lt;l1&gt;command&lt;/l1&gt; on macOS.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T121242Z" creationid="Marc Riera" creationdate="20221217T121242Z">
@@ -16632,6 +16640,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222548Z" creationid="Marc Riera" creationdate="20221211T222548Z">
         <seg>Un segment pot estar traduït o sense traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Either the “a ” or the “an ” in:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T144715Z" creationid="Marc Riera" creationdate="20230206T144715Z">
+        <seg>Les paraules «un» o «una» de les frases següents:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45825,8 +45841,8 @@ la carpeta actual en el seu lloc.</seg>
       <tuv lang="en">
         <seg>The DOLLAR sign: &lt;l0&gt;$&lt;/l0&gt;</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120930Z" creationid="Marc Riera" creationdate="20230206T120930Z">
-        <seg>Signe de DÒLAR: &lt;l0&gt;$&lt;/l0&gt;</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T144537Z" creationid="Marc Riera" creationdate="20230206T120930Z">
+        <seg>SIGNE DEL DÒLAR: &lt;l0&gt;$&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -46148,6 +46164,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T203024Z" creationid="Marc Riera" creationdate="20221215T203024Z">
         <seg>La capçalera del fitxer PO no es mostrarà per a la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The QUESTION MARK: &lt;l0&gt;?&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T144523Z" creationid="Marc Riera" creationdate="20230206T144523Z">
+        <seg>SIGNE D'INTERROGACIÓ: &lt;l0&gt;?&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -47639,6 +47663,14 @@ però d'altres us esperen.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T160623Z" creationid="Marc Riera" creationdate="20221218T160623Z">
         <seg>Índex del manual d'usuari multilingüe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The initial “An” or “The” in phrases such as:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T144241Z" creationid="Marc Riera" creationdate="20230206T144241Z">
+        <seg>Les paraules «Un» o «El» inicials en frases com ara:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50532,6 +50564,22 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T121834Z" creationid="Marc Riera" creationdate="20230206T121834Z">
         <seg>Aquest caràcter anul·la o activa el significat especial del caràcter següent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character functions as an “OR” and matches either of the expressions that precede or follow it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T144157Z" creationid="Marc Riera" creationdate="20230206T144157Z">
+        <seg>Aquest caràcter funciona com un operador «OR» i coincideix amb qualsevol de les expressions anteriors o posteriors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character specifies that either zero or one instance of the preceding character or expression should be matched.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T144603Z" creationid="Marc Riera" creationdate="20230206T144603Z">
+        <seg>Aquest caràcter especifica que el caràcter o expressió precedent ha de coincidir zero o una vegada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66504,6 +66552,22 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>“A story called &lt;e0&gt;An Unsung Hero&lt;/e0&gt;.”</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T144411Z" creationid="Marc Riera" creationdate="20230206T144411Z">
+        <seg>«Un llibre titulat &lt;e0&gt;Un heroi oblidat&lt;/e0&gt;.»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“An apple a day…”</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T144259Z" creationid="Marc Riera" creationdate="20230206T144259Z">
+        <seg>«Un segle de vida...»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>“I bought an an apple.”</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T091721Z" creationid="Marc Riera" creationdate="20221231T091721Z">
@@ -66524,6 +66588,22 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T091657Z" creationid="Marc Riera" creationdate="20221231T091657Z">
         <seg>«Conec un doctor excel·lent».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“The apple of my eye…”</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T144314Z" creationid="Marc Riera" creationdate="20230206T144314Z">
+        <seg>«El concert dels meus somnis...»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“They work for &lt;e0&gt;The Daily Post&lt;/e0&gt;.”</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T144458Z" creationid="Marc Riera" creationdate="20230206T144458Z">
+        <seg>«Treballa en el restaurant &lt;e0&gt;El panxacontent&lt;/e0&gt;.»</seg>
       </tuv>
     </tu>
     <tu>
