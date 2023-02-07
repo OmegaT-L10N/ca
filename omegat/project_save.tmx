@@ -5980,6 +5980,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A character in the range of letters from “C” through “X”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094343Z" creationid="Marc Riera" creationdate="20230207T094343Z">
+        <seg>Un caràcter en l'interval de lletres de la «C» a la «X».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A character preceded by the letter “q”.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092423Z" creationid="Marc Riera" creationdate="20221231T092423Z">
@@ -6260,6 +6268,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T190438Z" creationid="Marc Riera" creationdate="20221203T190438Z">
         <seg>Flux de treball basat en dreceres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A simple class consists of any number of characters enclosed by &lt;l0&gt;[&lt;/l0&gt; and &lt;l1&gt;]&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094328Z" creationid="Marc Riera" creationdate="20230207T094328Z">
+        <seg>Una classe senzilla consisteix en qualsevol nombre de caràcters entre &lt;l0&gt;[&lt;/l0&gt; i &lt;l1&gt;]&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11475,6 +11491,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092322Z" creationid="Marc Riera" creationdate="20221231T092322Z">
         <seg>Classes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Classes are defined by enclosing the desired characters in square brackets, and can be specified either by listing each individual character to include, or by specifying a range of characters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T093759Z" creationid="Marc Riera" creationdate="20230207T093759Z">
+        <seg>Les classes es defineixen indicant ells caràcters desitjats entre claudàtors i es poden especificar indicant cada caràcter individual que voleu incloure o un interval de caràcters.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19301,6 +19325,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l0&gt;\d&lt;/l0&gt; is a shorthand for &lt;l1&gt;[0-9]&lt;/l1&gt;, which matches any digit between 0 and 9.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094205Z" creationid="Marc Riera" creationdate="20230207T094205Z">
+        <seg>Per exemple, &lt;l0&gt;\d&lt;/l0&gt; és una abreviatura de &lt;l1&gt;[0-9]&lt;/l1&gt;, que coincideix amb qualsevol dígit entre 0 i 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;l1&gt;user.language=ja&lt;/l1&gt; (without the &lt;l2&gt;#&lt;/l2&gt;) will launch OmegaT with the user interface in Japanese.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T123826Z" creationid="Marc Riera" creationdate="20230130T123826Z">
@@ -19427,6 +19459,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152555Z" creationid="Marc Riera" creationdate="20230201T152555Z">
         <seg>Per exemple, podeu fer el següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, you could create the &lt;l0&gt;[£€$]&lt;/l0&gt; class to find any of those three currency symbols in the text, or [1-3] to find the number 1, 2 or 3.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T093831Z" creationid="Marc Riera" creationdate="20230207T093831Z">
+        <seg>Per exemple, podeu crear la classe &lt;l0&gt;[£€$]&lt;/l0&gt; per a trobar qualsevol d'aquests tres símbols de moneda en el text, o [1-3] per a trobar el número 1, 2 o 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23982,6 +24022,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In many cases, the corresponding uppercase later is used to negate the class: &lt;l2&gt;\D&lt;/l2&gt; matches any character that is &lt;e3&gt;not&lt;/e3&gt; a digit.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094232Z" creationid="Marc Riera" creationdate="20230207T094232Z">
+        <seg>En molts casos, la lletra majúscula corresponent s'utilitza per a negar la classe: &lt;l2&gt;\D&lt;/l2&gt; coincideix amb qualsevol caràcter que &lt;e3&gt;no&lt;/e3&gt; sigui un dígit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In most cases, the lower the &lt;g0&gt;Average score&lt;/g0&gt; is, better the alignment will be.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T145802Z" creationid="Marc Riera" creationdate="20220506T145802Z">
@@ -24987,6 +25035,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T162502Z" creationid="Marc Riera" creationdate="20220625T162502Z">
         <seg>Insereix les etiquetes del text d'origen (si falten) en la posició del cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inside a class, only the backslash (&lt;l0&gt;\&lt;/l0&gt;), caret (&lt;l1&gt;^&lt;/l1&gt;), closing bracket (&lt;l2&gt;]&lt;/l2&gt;) and hyphen (&lt;l3&gt;-&lt;/l3&gt;) are special.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T093919Z" creationid="Marc Riera" creationdate="20230207T093919Z">
+        <seg>Dins d'una classe, només són especials la barra inclinada inversa (&lt;l0&gt;\&lt;/l0&gt;), el circumflex (&lt;l1&gt;&lt;/l1&gt;), el claudàtor de tancament (&lt;l2&gt;]&lt;/l2&gt;) i el guionet (&lt;l3&gt;-&lt;/l3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28121,6 +28177,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120006Z" creationid="Marc Riera" creationdate="20230206T120006Z">
         <seg>Moltes funcions de l'OmegaT es basen en expressions regulars o les ofereixen com a opció:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Many frequently used sets have a shorthand form consisting of a backslash followed by a letter of the alphabet.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094148Z" creationid="Marc Riera" creationdate="20230207T094148Z">
+        <seg>Molts conjunts utilitzats amb freqüència tenen una forma abreujada formada per una barra inclinada inversa seguida d'una lletra de l'alfabet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48009,6 +48073,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The letter “a”, “b”, or “c”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094308Z" creationid="Marc Riera" creationdate="20230207T094308Z">
+        <seg>La lletra «a», «b» o «c».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The license grants you the following freedoms:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230126T183254Z" creationid="Marc Riera" creationdate="20230126T183254Z">
@@ -48835,6 +48907,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The rest of the twelve characters are normal, and do not have to be preceded by a backslash if you want to search for those characters themselves.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T093940Z" creationid="Marc Riera" creationdate="20230207T093940Z">
+        <seg>La resta dels dotze caràcters són normals i no han d'anar precedits per una barra inclinada inversa si voleu cercar-los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The resulting TMX file is saved in the /omegat folder as align.tmx.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093528Z" creationid="Marc Riera" creationdate="20221231T093528Z">
@@ -49513,6 +49593,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T161155Z" creationid="Marc Riera" creationdate="20230206T161155Z">
         <seg>Caràcter de tabulació, no la lletra «t».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The table below provides various additional examples.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094238Z" creationid="Marc Riera" creationdate="20230207T094238Z">
+        <seg>La taula següent proporciona alguns exemples addicionals.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50303,6 +50391,14 @@ la ubicació de la carpeta de configuració de l'OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T214016Z" creationid="Marc Riera" creationdate="20221207T214016Z">
         <seg>Són els fitxers presents en la carpeta &lt;l0/&gt; en un format que l'OmegaT pot reconèixer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These classes never represent only the actual letter used to form the shorthand.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094253Z" creationid="Marc Riera" creationdate="20230207T094253Z">
+        <seg>Aquestes classes no representen mai només la lletra real utilitzada per a formar l'abreviatura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59128,6 +59224,14 @@ d'allà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also search for the caret, closing bracket, and hyphen as themselves by placing them at a position that does not trigger their special meaning: anywhere except right after the opening bracket for the caret, immediately after either opening bracket or the caret following it for the closing bracket, and either just after the opening bracket or just before the closing bracket for the hyphen.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094133Z" creationid="Marc Riera" creationdate="20230207T094133Z">
+        <seg>També podeu cercar el circumflex, el claudàtor de tancament i el guionet col·locant-los en una posició que no activi el seu significat especial: en qualsevol posició excepte just després del claudàtor d'obertura per al circumflex, immediatament després del claudàtor d'obertura o del circumflex que el segueix per al claudàtor de tancament, i just després del claudàtor d'obertura o just abans del claudàtor de tancament per al guionet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also start OmegaT from the command line with a project specific configuration setting to achieve a similar result.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221224T171133Z" creationid="Marc Riera" creationdate="20221224T171133Z">
@@ -59737,6 +59841,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233821Z" creationid="Marc Riera" creationdate="20221226T233821Z">
         <seg>Podeu substituir termes amb la funció &lt;l0/&gt; mitjançant un quadre de diàleg similar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can search for any of the four class special characters as normal characters by preceding them with a backslash.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094009Z" creationid="Marc Riera" creationdate="20230207T094009Z">
+        <seg>Podeu cercar qualsevol dels quatre caràcters especials de les classes com a caràcters normals indicant una barra inclinada inversa davant.</seg>
       </tuv>
     </tu>
     <tu>
