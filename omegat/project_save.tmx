@@ -6150,6 +6150,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A hyphen placed outside the series is just a hyphen: &lt;l1&gt;[a-z-]&lt;/l1&gt; means any lowercase character from “a” to “z”, or the hyphen character itself.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T114750Z" creationid="Marc Riera" creationdate="20230207T114750Z">
+        <seg>Un guionet fora de la sèrie és només un guionet: &lt;l1&gt;[a-z-]&lt;/l1&gt; significa qualsevol caràcter en minúscula entre «a» i «z» o el caràcter de guionet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A language pattern that matches the source language of the project will apply to that project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T120408Z" creationid="Marc Riera" creationdate="20230206T120408Z">
@@ -8708,6 +8716,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230203T230525Z" creationid="Marc Riera" creationdate="20230203T230525Z">
         <seg>Qualsevol modificació dels segments que provenen d'aquestes memòries &lt;e2&gt;no&lt;/e2&gt; es tindrà en compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any number of ranges can be defined: &lt;l0&gt;[a-zA-Z0-9]&lt;/l0&gt; means any lowercase character from “a” to “z”, or any uppercase character from “A” to “Z”, or any digit from “0” to “9”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T114647Z" creationid="Marc Riera" creationdate="20230207T114647Z">
+        <seg>Podeu definir qualsevol nombre d'intervals: &lt;l0&gt;[a-zA-Z0-9]&lt;/l0&gt; significa qualsevol caràcter en minúscula entre «a» i «z», qualsevol caràcter en majúscula entre «A» i «Z» o qualsevol dígit entre «0» i «9».</seg>
       </tuv>
     </tu>
     <tu>
@@ -37542,6 +37558,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135840Z" creationid="Marc Riera" creationdate="20230130T135840Z">
         <seg>Recordeu que, en les expressions regulars, el punt i la barra inclinada inversa s'han d'escapar: &lt;c0&gt;\.&lt;/c0&gt; i &lt;c1&gt;\\&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remember that most &lt;e0&gt;alphabetic&lt;/e0&gt; characters preceded by a &lt;l1&gt;\&lt;/l1&gt; turn into an expression that represents &lt;e2&gt;not the character itself, but its associated special meaning&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T114505Z" creationid="Marc Riera" creationdate="20230207T114505Z">
+        <seg>Recordeu que la majoria dels caràcters &lt;e0&gt;alfabètics&lt;/e0&gt; precedits per &lt;l1&gt;\&lt;/l1&gt; es converteixen en una expressió que representa &lt;e2&gt;no el caràcter en si, sinó el seu significat especial associat&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
