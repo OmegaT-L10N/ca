@@ -5556,6 +5556,30 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;\P{InGreek}&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; in the Greek block.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T095114Z" creationid="Marc Riera" creationdate="20230207T095114Z">
+        <seg>&lt;l0&gt;\P{InGreek}&lt;/l0&gt; és qualsevol caràcter que &lt;e1&gt;no&lt;/e1&gt; sigui en el bloc Greek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;\S&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a whitespace character (&lt;l2&gt;[^\s]&lt;/l2&gt;).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094725Z" creationid="Marc Riera" creationdate="20230207T094725Z">
+        <seg>&lt;l0&gt;\S&lt;/l0&gt; és qualsevol caràcter que &lt;e1&gt;no&lt;/e1&gt; sigui un caràcter d'espai en blanc (&lt;l2&gt;[^\s]&lt;/l2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;\W&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a word character (&lt;l2&gt;[^\w]&lt;/l2&gt;).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094644Z" creationid="Marc Riera" creationdate="20230207T094644Z">
+        <seg>&lt;l0&gt;\W&lt;/l0&gt; és qualsevol caràcter que &lt;e1&gt;no&lt;/e1&gt; sigui un caràcter de paraula (&lt;l2&gt;[^\w]&lt;/l2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;\h&lt;/l0&gt; and &lt;l1&gt;\v&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113506Z" creationid="Marc Riera" creationdate="20221129T113506Z">
@@ -5980,6 +6004,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A character in the Greek block (&lt;u0&gt;Unicode block&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T095120Z" creationid="Marc Riera" creationdate="20230207T095044Z">
+        <seg>Caràcter en el bloc Greek (&lt;u0&gt;bloc d'Unicode&lt;/u0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A character in the range of letters from “C” through “X”.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094343Z" creationid="Marc Riera" creationdate="20230207T094343Z">
@@ -6020,6 +6052,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>A currency symbol, which is also a &lt;u0&gt;Unicode category&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T095332Z" creationid="Marc Riera" creationdate="20230207T095332Z">
+        <seg>Símbol de moneda, que també és una &lt;u0&gt;categoria d'Unicode&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>A detailed tutorial is available.</seg>
@@ -6042,6 +6082,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092554Z" creationid="Marc Riera" creationdate="20221231T092554Z">
         <seg>A continuació es presenten alguns recursos addicionals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A few examples are presented in the table below.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094840Z" creationid="Marc Riera" creationdate="20230207T094840Z">
+        <seg>En la taula següent es presenten alguns exemples.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6134,6 +6182,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A logogram (&lt;e0&gt;Han&lt;/e0&gt;/&lt;e1&gt;kanji&lt;/e1&gt;/&lt;e2&gt;hanja&lt;/e2&gt; character) found in CJK languages (&lt;u3&gt;Unicode script&lt;/u3&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T095303Z" creationid="Marc Riera" creationdate="20230207T095240Z">
+        <seg>Logograma (caràcter &lt;e0&gt;Han&lt;/e0&gt;/&lt;e1&gt;kanji&lt;/e1&gt;/&lt;e2&gt;hanja&lt;/e2&gt;) de les llengües CJK (&lt;u3&gt;sistema d'escriptura d'Unicode&lt;/u3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A more detailed &lt;a0&gt;explanation of free software&lt;/a0&gt; can be found on the Free Software Foundation website.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104511Z" creationid="Marc Riera" creationdate="20221224T104511Z">
@@ -6219,6 +6275,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T222032Z" creationid="Marc Riera" creationdate="20230131T222032Z">
         <seg>Llenguatge de scripts basat en prototips que és dinàmic, amb tipus permissius i ofereix funcions de primera classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A range is defined by the first character in a series, followed by a hyphen, followed by last character in the series.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094458Z" creationid="Marc Riera" creationdate="20230207T094458Z">
+        <seg>Un interval es defineix amb el primer caràcter d'una sèrie, un guionet i el darrer caràcter de la sèrie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6364,10 +6428,26 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A whitespace character, including the space and tab characters, as well as line breaks.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094658Z" creationid="Marc Riera" creationdate="20230207T094658Z">
+        <seg>Caràcter d'espai en blanc, incloent-hi els caràcters d'espai i tabulació, així com els salts de línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A word boundary</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113608Z" creationid="Marc Riera" creationdate="20221129T113608Z">
         <seg>Límit de paraula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A word character, generally defined as &lt;l0&gt;[A-Za-z0-9_]&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094608Z" creationid="Marc Riera" creationdate="20230207T094608Z">
+        <seg>Un caràcter de paraula, definit generalment com a &lt;l0&gt;[A-Za-z0-9_]&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8502,6 +8582,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An uppercase letter (&lt;u0&gt;Unicode category&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T095320Z" creationid="Marc Riera" creationdate="20230207T095320Z">
+        <seg>Lletra en majúscula (&lt;u0&gt;categoria d'Unicode&lt;/u0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An “OmegaT” TMX contains the tags created by OmegaT in a form that can only be used properly by an OmegaT project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T115319Z" creationid="Marc Riera" creationdate="20230130T115319Z">
@@ -8556,6 +8644,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T232938Z" creationid="Marc Riera" creationdate="20180214T224430Z">
         <seg>Recursos de l'Android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any character &lt;e0&gt;except&lt;/e0&gt; a newline, a carriage return, or tab.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094523Z" creationid="Marc Riera" creationdate="20230207T094523Z">
+        <seg>Qualsevol caràcter &lt;e0&gt;excepte&lt;/e0&gt; un salt de línia, un retorn de carro o una tabulació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21420,6 +21516,14 @@ l'hivern ja és aquí.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T182826Z" creationid="Marc Riera" creationdate="20230130T182826Z">
         <seg>Premeu &lt;k0&gt;F1&lt;/k0&gt; o accediu al menú &lt;g1&gt;&gt; Ajuda&lt;/g1&gt; per a obrir el manual d'usuari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Horizontal and vertical whitespace (generally preferred to &lt;l0&gt;\s&lt;/l0&gt;).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094742Z" creationid="Marc Riera" creationdate="20230207T094742Z">
+        <seg>Espai en blanc horitzontal i vertical (generalment, &lt;l0&gt;\s&lt;/l0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37209,6 +37313,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expressions are not limited to alphanumeric characters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094750Z" creationid="Marc Riera" creationdate="20230207T094750Z">
+        <seg>Les expressions regulars no es limiten als caràcters alfanumèrics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expressions are used to find text, including characters that are not visible on the screen or when printed out, such as spaces, tabs, or line breaks.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T161257Z" creationid="Marc Riera" creationdate="20230206T120421Z">
@@ -40551,6 +40663,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131225Z" creationid="Marc Riera" creationdate="20221211T131225Z">
         <seg>Consulteu l'apartat anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See also &lt;u0&gt;Unicode Regular Expressions&lt;/u0&gt; for a thorough review of Unicode regular expressions.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T095024Z" creationid="Marc Riera" creationdate="20230207T095024Z">
+        <seg>Consulteu també &lt;u0&gt;Unicode Regular Expressions&lt;/u0&gt; per a veure una explicació exhaustiva d'expressions regulars amb Unicode.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46896,6 +47016,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The caret placed immediately after the opening square bracket excludes the rest of the characters in the class.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094540Z" creationid="Marc Riera" creationdate="20230207T094540Z">
+        <seg>El circumflex immediatament després del claudàtor d'obertura exclou la resta dels caràcters de la classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The carriage-return character, not the letter “r”.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T161341Z" creationid="Marc Riera" creationdate="20230206T161341Z">
@@ -49597,6 +49725,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The table below list a few of the more common examples.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T095407Z" creationid="Marc Riera" creationdate="20230207T095407Z">
+        <seg>La taula següent indica alguns dels exemples més habituals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The table below provides various additional examples.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094238Z" creationid="Marc Riera" creationdate="20230207T094238Z">
@@ -50660,10 +50796,26 @@ en sou víctima d'una.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They cover the entire Unicode character set.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094808Z" creationid="Marc Riera" creationdate="20230207T094808Z">
+        <seg>Inclouen tot el joc de caràcters d'Unicode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They have the meaning, familiar to Word users:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T203503Z" creationid="Marc Riera" creationdate="20220621T203503Z">
         <seg>Tenen el significat següent, familiar per als usuaris del Word:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They indicate where in the text to look for the match, but do not include any characters in that match.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T095359Z" creationid="Marc Riera" creationdate="20230207T095359Z">
+        <seg>Indiquen en quina posició del text cal cercar la coincidència, però no inclouen cap caràcter en la coincidència.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54887,6 +55039,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unicode blocks, scripts and categories</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094855Z" creationid="Marc Riera" creationdate="20230207T094855Z">
+        <seg>Blocs, sistemes d'escriptura i categories d'Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unicode support: can be used with various alphabets and scripts</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221223T115042Z" creationid="Marc Riera" creationdate="20221223T115042Z">
@@ -56189,6 +56349,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173040Z" creationid="Marc Riera" creationdate="20221117T173040Z">
         <seg>Utilitzeu «Eines &gt; Comprova si hi ha errors» per a corregir els errors d'etiquetes i torneu-ho a provar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Unicode blocks, scripts and categories to specify character classes outside the alphanumeric character range.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094835Z" creationid="Marc Riera" creationdate="20230207T094835Z">
+        <seg>Utilitzeu blocs, sistemes d'escriptura i categories d'Unicode per a especificar classes de caràcters fora de l'interval de caràcters alfanumèrics.</seg>
       </tuv>
     </tu>
     <tu>
