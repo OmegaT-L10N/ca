@@ -33680,6 +33680,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the initial “run” in those phrases is matched.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T113012Z" creationid="Marc Riera" creationdate="20230207T113012Z">
+        <seg>Només coincideix la part «cant» d'aquestes expressions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the letters &lt;e0&gt;i j l m o&lt;/e0&gt;, and &lt;e1&gt;y&lt;/e1&gt;, in both lower- and uppercase, have no special meaning when preceded by a backslash.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T121346Z" creationid="Marc Riera" creationdate="20230206T121346Z">
@@ -47132,6 +47140,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The complete phrase in “run-on” or “run'n'gun”, because the hyphen and apostrophe are not included in &lt;l0&gt;\w&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T113204Z" creationid="Marc Riera" creationdate="20230207T113204Z">
+        <seg>La frase sencera en «cantem i ballem» o «cantaires-dansaires», perquè &lt;l0&gt;\w&lt;/l0&gt; no inclou els espais en blanc ni els guionets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The configuration folder stores the majority of the OmegaT options and preferences for the user.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T112142Z" creationid="Marc Riera" creationdate="20221129T112142Z">
@@ -50141,6 +50157,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The word “run”, as well as “runs”, “runner”, “runway”, “runt” in “grunt” or “brunt”, and any other word or sequence of characters containing “run” followed by zero or more “&lt;e0&gt;word characters&lt;/e0&gt;” (which include digits and the underscore, so the part before the “@” in an email address such as run_123@example.email.org is also a match).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T112829Z" creationid="Marc Riera" creationdate="20230207T112829Z">
+        <seg>La paraula «cant», així com «cant», «cantant», «cantaire», la part «cant» de les paraules «vacant» i «Alacant» i qualsevol altra paraula o seqüència de caràcters que contingui «cant» seguit de zero o més «&lt;e0&gt;caràcters de paraula&lt;/e0&gt;». Aquests caràcters inclouen els dígits i el subratllat, de manera que la part anterior a «@» en una adreça electrònica com «cantaires_123@exemple.org» també coincideix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The writable glossary file folder does not exist!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190914Z" creationid="Marc Riera" creationdate="20221124T190914Z">
@@ -50219,6 +50243,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T115959Z" creationid="Marc Riera" creationdate="20221209T115959Z">
         <seg>Se sobreescriurà la versió «antiga» de l'OmegaT, però es conservaran els paràmetres aplicats des de la interfície de l'OmegaT en les diferents carpetes de configuració (consulteu els apartats anteriors).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The “that, that” in the following sentence:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T113226Z" creationid="Marc Riera" creationdate="20230207T113226Z">
+        <seg>La part «això, això» en la frase següent:</seg>
       </tuv>
     </tu>
     <tu>
@@ -65973,6 +66005,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>run\w*</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T112518Z" creationid="Marc Riera" creationdate="20230207T112518Z">
+        <seg>cant\w*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>save the result to TMX</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200812Z" creationid="Marc Riera" creationdate="20221206T200724Z">
@@ -67252,6 +67292,14 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T144259Z" creationid="Marc Riera" creationdate="20230206T144259Z">
         <seg>«Un segle de vida...»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“But that, that is just unbelievable”, because the first “that” is followed by both a comma and a space rather than only a space.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T114007Z" creationid="Marc Riera" creationdate="20230207T114007Z">
+        <seg>«Però això, això és increïble». El primer «això» va seguit d'una coma i un espai, no només un espai.</seg>
       </tuv>
     </tu>
     <tu>
