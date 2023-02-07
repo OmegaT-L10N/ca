@@ -4251,6 +4251,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Caution:&lt;/e0&gt; Although the last two codes above are not matched completely, the expression will return the “&lt;e1&gt;1472/698&lt;/e1&gt;” portion of “1472/6985”, as well as the “&lt;e2&gt;5133/157&lt;/e2&gt;” of “95133/15746”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T114439Z" creationid="Marc Riera" creationdate="20230207T114439Z">
+        <seg>&lt;e0&gt;Atenció:&lt;/e0&gt; Encara que els dos darrers codis anteriors no coincideixin completament, l'expressió retornarà la porció «&lt;e1&gt;1472/698&lt;/e1&gt;» de «1472/6985» i la porció «&lt;e2&gt;5133/157&lt;/e2&gt;» de «95133/15746».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Close:&lt;/e0&gt; close the window without any change.</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150722T193926Z" creationid="Stephanie" creationdate="20150722T193926Z">
@@ -12078,6 +12086,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T160938Z" creationid="Marc Riera" creationdate="20230206T160938Z">
         <seg>Codis com ara «123/45», «1472/6985» o «95133/15746».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Codes such as “1234/5”, “1472/69”, or “9513/842” consisting of four digits, a forward slash, and one to three more digits.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T114304Z" creationid="Marc Riera" creationdate="20230207T114304Z">
+        <seg>Codis com «1234/5», «1472/69» o «9513/842» formats per quatre dígits, una barra inclinada i d'un a tres dígits més.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23596,6 +23612,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you only want to match the closing brace as itself, you do not need to precede it with a backslash.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T114210Z" creationid="Marc Riera" creationdate="20230207T114210Z">
+        <seg>Si només voleu que coincideixi la clau de tancament, no cal indicar una barra inclinada inversa davant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you only want to match the closing bracket as itself, you do not need to precede it with a backslash.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T160817Z" creationid="Marc Riera" creationdate="20230206T160817Z">
@@ -33692,6 +33716,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T121346Z" creationid="Marc Riera" creationdate="20230206T121346Z">
         <seg>Només les lletres &lt;e0&gt;i j l m o&lt;/e0&gt; i &lt;e1&gt;y&lt;/e1&gt;, tant en minúscules com en majúscules, no tenen cap significat especial quan van precedides per una barra inversa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the opening brace is special and needs to be preceded by a backslash to search for the brace character itself.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T114147Z" creationid="Marc Riera" creationdate="20230207T114147Z">
+        <seg>Només la clau d'obertura és especial i ha d'anar precedida per una barra inclinada inversa per a cercar el caràcter de clau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51196,6 +51228,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T144157Z" creationid="Marc Riera" creationdate="20230206T144157Z">
         <seg>Aquest caràcter funciona com un operador «OR» i coincideix amb qualsevol de les expressions anteriors o posteriors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character must be paired with the closing square bracket to enclose a set of individual characters that each represent a valid potential match.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T114037Z" creationid="Marc Riera" creationdate="20230207T114037Z">
+        <seg>Aquest caràcter s'ha d'aparellar amb el claudàtor de tancament per a crear un conjunt de caràcters individuals que representi cadascun una coincidència potencial vàlida.</seg>
       </tuv>
     </tu>
     <tu>
