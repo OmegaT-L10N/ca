@@ -1102,6 +1102,14 @@ ${filePath}&gt;</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Find Next</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T160019Z" creationid="Marc Riera" creationdate="20230207T160019Z">
+        <seg>C&amp;erca el següent</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Find...</seg>
@@ -1773,6 +1781,14 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Replace and Find Next</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T160028Z" creationid="Marc Riera" creationdate="20230207T160028Z">
+        <seg>&amp;Substitueix i cerca el següent</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Replace...</seg>
@@ -1992,6 +2008,14 @@ Informació / dades de modificació: triar-ne una i fer-la servir igual en tot e
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T095207Z" creationid="mgalo" creationdate="20181108T152339Z">
         <seg>Mostra automàticament els &amp;suggeriments rellevants</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show Replacements</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T160001Z" creationid="Marc Riera" creationdate="20230207T160001Z">
+        <seg>Mostra les &amp;substitucions</seg>
       </tuv>
     </tu>
     <tu>
@@ -25992,6 +26016,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>It is stored in the TMX file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T160217Z" creationid="Marc Riera" creationdate="20230207T160217Z">
+        <seg>S'emmagatzema en el fitxer TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>It is the recommended version for first-time users.</seg>
@@ -28097,6 +28129,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine Translations</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T160204Z" creationid="Marc Riera" creationdate="20230207T160204Z">
+        <seg>Traducció automàtica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Machine translate highlight</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220523Z" creationid="Marc Riera" creationdate="20221124T220523Z">
@@ -28135,6 +28175,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T134221Z" creationid="Alexandra" creationdate="20150526T133351Z">
         <seg>Llistes de correu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Main Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T160144Z" creationid="Marc Riera" creationdate="20230207T160144Z">
+        <seg>Memòr&amp;ia principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -31271,6 +31319,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T224445Z" creationid="Marc Riera" creationdate="20180221T114830Z">
         <seg>Nota: no tots els filtres permeten seleccionar una codificació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notepad</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T160046Z" creationid="Marc Riera" creationdate="20230207T160046Z">
+        <seg>Notes</seg>
       </tuv>
     </tu>
     <tu>
@@ -37241,6 +37297,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reference T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T160157Z" creationid="Marc Riera" creationdate="20230207T160157Z">
+        <seg>&amp;Memòries de referència</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reference glossaries</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T164214Z" creationid="Marc Riera" creationdate="20221201T164214Z">
@@ -43038,6 +43102,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped source file {0} because it could not be loaded.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T160107Z" creationid="Marc Riera" creationdate="20230207T160107Z">
+        <seg>S'ha omès el fitxer d'origen {0} perquè no s'ha pogut carregar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipped translation units for which no source  segment was found.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192843Z" creationid="Marc Riera" creationdate="20221124T192843Z">
@@ -43663,6 +43735,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180509Z" creationid="Marc Riera" creationdate="20221124T180509Z">
         <seg>Llengua dels fitxers d'origen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230207T160136Z" creationid="Marc Riera" creationdate="20230207T160136Z">
+        <seg>S'han carregat els fitxers d'origen, però s'ometen els fitxers amb errors dels filtres</seg>
       </tuv>
     </tu>
     <tu>
