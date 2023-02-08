@@ -5556,6 +5556,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;2148&lt;/l0&gt; is the number of the segment in the project and the &lt;l1&gt;¶&lt;/l1&gt; symbol indicates that the segment is the first segment in a paragraph.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143327Z" creationid="Marc Riera" creationdate="20230208T143327Z">
+        <seg>&lt;l0&gt;2148&lt;/l0&gt; és el número de segment del projecte i el símbol &lt;l1&gt;¶&lt;/l1&gt; indica que el segment és el primer segment d'un paràgraf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;Associate&lt;/l0&gt; the format to an already supported format.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162648Z" creationid="Marc Riera" creationdate="20230130T162648Z">
@@ -10943,6 +10951,22 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T212739Z" creationid="Marc Riera" creationdate="20201130T212739Z">
         <seg>Canvi de les regles de segmentació o els filtres de fitxers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing the font as described in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143624Z" creationid="Marc Riera" creationdate="20230208T143624Z">
+        <seg>Canviar la lletra, com es descriu en la preferència &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing the paragraph delimitation format, defined in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143809Z" creationid="Marc Riera" creationdate="20230208T143706Z">
+        <seg>Canviar el format dels límits dels paràgrafs, que es defineix amb la preferència &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16337,6 +16361,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Dragging text</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143934Z" creationid="Marc Riera" creationdate="20230208T143934Z">
+        <seg>Arrossegament de text</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Drop TMX files here to add them to the project.</seg>
@@ -21603,6 +21635,14 @@ l'hivern ja és aquí.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlighting translated segments using &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143752Z" creationid="Marc Riera" creationdate="20230208T143752Z">
+        <seg>Ressaltar els segments traduïts amb &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hiroshi Miura</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230117T085724Z" creationid="Marc Riera" creationdate="20230117T085724Z">
@@ -23683,6 +23723,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you leave the translation field empty, OmegaT will treat the segment as untranslated and keep it in the original language when it creates the translated documents.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143926Z" creationid="Marc Riera" creationdate="20230208T143926Z">
+        <seg>Si deixeu el camp de traducció buit, l'OmegaT tractarà el segment com a no traduït i el mantindrà en la llengua original quan creeu els documents traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you make mistakes when you manage the tags, your translated files might fail to open.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T185031Z" creationid="Marc Riera" creationdate="20221213T185031Z">
@@ -25279,6 +25327,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Inserting the best fuzzy match above the threshold defined in &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143838Z" creationid="Marc Riera" creationdate="20230208T143838Z">
+        <seg>Inserir la millor coincidència parcial sobre d'un llindar determinat, que podeu ajustar amb la preferència &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Inserts only one tag (among the missing ones) at the cursor position.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T162514Z" creationid="Marc Riera" creationdate="20220625T162514Z">
@@ -26116,6 +26172,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163733Z" creationid="Marc Riera" creationdate="20220625T163733Z">
         <seg>És possible arrossegar i deixar anar fitxers a cada subfinestra, que reaccionarà en conseqüència.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible to drag text from anywhere in the main window and drop it into the translation field.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143943Z" creationid="Marc Riera" creationdate="20230208T143943Z">
+        <seg>És possible arrossegar text des de qualsevol part de la finestra principal i deixar-lo anar en el camp de traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29834,6 +29898,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204418Z" creationid="Marc Riera" creationdate="20221124T204418Z">
         <seg>Modifica la declaració de codificació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modify the Editor display to suit your workflow.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143520Z" creationid="Marc Riera" creationdate="20230208T143520Z">
+        <seg>Modifica la visualització de l'editor perquè s'adapti al vostre flux de treball.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41076,6 +41148,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; menu for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143500Z" creationid="Marc Riera" creationdate="20230208T143500Z">
+        <seg>Consulteu el menú &lt;l0/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; menu for more navigation options.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T222531Z" creationid="Marc Riera" creationdate="20221211T222531Z">
@@ -41128,6 +41208,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T232409Z" creationid="Marc Riera" creationdate="20221230T232409Z">
         <seg>Consulteu la preferència &lt;l0/&gt; del quadre de diàleg &lt;l1/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; preferences and the &lt;l1/&gt; menu for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143908Z" creationid="Marc Riera" creationdate="20230208T143908Z">
+        <seg>Consulteu les preferències de l'&lt;l0/&gt; i el menú &lt;l1/&gt; per a conèixer més detalls.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42919,6 +43007,30 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093219Z" creationid="Marc Riera" creationdate="20221231T093219Z">
         <seg>Mostra informació sobre l'ús.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Showing or hiding paragraph delimitations using &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143644Z" creationid="Marc Riera" creationdate="20230208T143644Z">
+        <seg>Mostrar o ocultar els límits dels paràgrafs amb &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Showing or hiding source segments using &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143744Z" creationid="Marc Riera" creationdate="20230208T143744Z">
+        <seg>Mostrar o ocultar els segments d'origen amb &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Showing segment modification information using &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143732Z" creationid="Marc Riera" creationdate="20230208T143732Z">
+        <seg>Mostrar la informació de modificació dels segments amb &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46142,6 +46254,22 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;e0&gt;translation field&lt;/e0&gt; is the second line, between the left border and the segment marker on the right.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143132Z" creationid="Marc Riera" creationdate="20230208T143132Z">
+        <seg>El &lt;e0&gt;camp de traducció&lt;/e0&gt; és la segona línia, entre la vora esquerra i el marcador de segment de la dreta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;e1&gt;translation field&lt;/e1&gt; is where you enter your translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143151Z" creationid="Marc Riera" creationdate="20230208T143151Z">
+        <seg>El &lt;e1&gt;camp de traducció&lt;/e1&gt; és on escriviu la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0&gt;Configuration.properties&lt;/f0&gt; file is located in the &lt;f1&gt;Contents/Resources/&lt;/f1&gt; folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T123727Z" creationid="Marc Riera" creationdate="20230130T123727Z">
@@ -47579,6 +47707,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The cursor is locked into the translation field by default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143347Z" creationid="Marc Riera" creationdate="20230208T143347Z">
+        <seg>Per defecte, el cursor està blocat en el camp de traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The data is also saved as a text file in &lt;l0/&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T220211Z" creationid="Marc Riera" creationdate="20221207T220211Z">
@@ -48110,6 +48246,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The first line, in bold characters against a green background, is the source text to translate.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143113Z" creationid="Marc Riera" creationdate="20230208T143113Z">
+        <seg>La primera línia, amb caràcters en negreta sobre un fons verd, és el text d'origen per a traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The first match</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T203032Z" creationid="Marc Riera" creationdate="20230101T203032Z">
@@ -48584,6 +48728,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="ca" changeid="Marc Riera" changedate="20200124T225224Z" creationid="Marc Riera" creationdate="20200122T230721Z">
         <seg>La llicència de cada biblioteca
 s'indica a «/lib/licenses/Licenses.txt».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The line below the translation field is a different segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143421Z" creationid="Marc Riera" creationdate="20230208T143421Z">
+        <seg>La línia sota del camp de traducció és un segment diferent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49582,6 +49734,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The segment marker here is &lt;l0&gt;&lt;segment 2148 ¶&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143217Z" creationid="Marc Riera" creationdate="20230208T143217Z">
+        <seg>Aquí, el marcador de segment és &lt;l0&gt;&lt;segment 2148 ¶&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The segment source language.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110626Z" creationid="Marc Riera" creationdate="20230104T110626Z">
@@ -50219,6 +50379,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155613Z" creationid="Marc Riera" creationdate="20221201T155613Z">
         <seg>El text del fitxer se substitueix cada vegada que es crida aquesta funció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The text is split into numbered segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143047Z" creationid="Marc Riera" creationdate="20230208T143047Z">
+        <seg>El text es divideix en segments numerats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52401,6 +52569,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T163812Z" creationid="Marc Riera" creationdate="20220625T163812Z">
         <seg>Aquí és on escriviu i editeu la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is where you type and edit your translations.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143045Z" creationid="Marc Riera" creationdate="20230208T143045Z">
+        <seg>Aquí és on escriviu i editeu les vostres traduccions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56134,6 +56310,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;k0&gt;F2&lt;/k0&gt; to unlock it and freely move it back and forth between the translation field and other parts of the pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143416Z" creationid="Marc Riera" creationdate="20230208T143416Z">
+        <seg>Utilitzeu &lt;k0&gt;F2&lt;/k0&gt; per a desblocar-lo i desplaçar-lo lliurement entre el camp de traducció i altrs parts de la subfinestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; &lt;l1/&gt; and &lt;l2/&gt; to insert the tags at the cursor location.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T211151Z" creationid="Marc Riera" creationdate="20230131T211151Z">
@@ -56322,6 +56506,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230201T192920Z" creationid="Marc Riera" creationdate="20230201T192920Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; o deixeu anar fitxers en la subfinestra &lt;l2/&gt; per a afegir-los sempre que vulgueu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; or other navigation commands to:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143433Z" creationid="Marc Riera" creationdate="20230208T143433Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; o altres ordres de navegació per a fer el següent:</seg>
       </tuv>
     </tu>
     <tu>
@@ -60453,6 +60645,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can scroll through the document and double-click on any segment to open and edit it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143053Z" creationid="Marc Riera" creationdate="20230208T143053Z">
+        <seg>Podeu desplaçar-vos pel document i fer doble clic en qualsevol segment per a obrir-lo i editar-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can search for any of the four class special characters as normal characters by preceding them with a backslash.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094009Z" creationid="Marc Riera" creationdate="20230207T094009Z">
@@ -63264,6 +63464,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084448Z" creationid="Marc Riera" creationdate="20221214T084448Z">
         <seg>Codificació del fitxer de destinació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>enter the next segment to translate.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143455Z" creationid="Marc Riera" creationdate="20230208T143455Z">
+        <seg>Accedir el següent per a traduir següent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66329,6 +66537,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T111945Z" creationid="Marc Riera" creationdate="20221129T111945Z">
         <seg>readme.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>register the contents of the translation field in the project translation memory, and</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143443Z" creationid="Marc Riera" creationdate="20230208T143443Z">
+        <seg>Enregistrar el contingut del camp de traducció en la memòria de traducció del projecte.</seg>
       </tuv>
     </tu>
     <tu>
