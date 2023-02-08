@@ -10440,6 +10440,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, the &lt;g0&gt;Comments&lt;/g0&gt; and &lt;g1&gt;Notes&lt;/g1&gt; panes have notifications enabled.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T142758Z" creationid="Marc Riera" creationdate="20230208T142758Z">
+        <seg>Per defecte, les subfinestres &lt;g0&gt;Comentaris&lt;/g0&gt; i &lt;g1&gt;Notes&lt;/g1&gt; tenen les notificacions habilitades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the aligner highlights all numbers in the source and target segments.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205353Z" creationid="Marc Riera" creationdate="20221214T205353Z">
@@ -11864,6 +11872,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221241Z" creationid="Marc Riera" creationdate="20221218T221241Z">
         <seg>Feu clic en &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the &lt;g0&gt;Action&lt;/g0&gt; widget at the top right.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T142848Z" creationid="Marc Riera" creationdate="20230208T142848Z">
+        <seg>Feu clic en el giny &lt;g0&gt;Acció&lt;/g0&gt;de la cantonada superior dreta,</seg>
       </tuv>
     </tu>
     <tu>
@@ -16358,6 +16374,38 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dropping &lt;f0&gt;.tmx&lt;/f0&gt; files here will copy them to the &lt;f1&gt;tm&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T142652Z" creationid="Marc Riera" creationdate="20230208T142652Z">
+        <seg>Si deixeu anar aquí fitxers &lt;f1&gt;.tmx&lt;/f1&gt;, es copiaran a la carpeta &lt;f0&gt;tm&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dropping an OmegaT project file (&lt;f0&gt;omegat.project&lt;/f0&gt;) or a full project here will open the corresponding project after closing the currently open project, if any.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T142612Z" creationid="Marc Riera" creationdate="20230208T142612Z">
+        <seg>Si deixeu anar aquí un fitxer de projecte de l'OmegaT (&lt;f0&gt;omegat.project&lt;/f0&gt;) o un projecte complet, s'obrirà el projecte corresponent després de tancar el projecte obert actualment, si n'hi ha cap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dropping files with a recognized glossary extension (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) here will copy them to the &lt;f2&gt;glossary&lt;/f2&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T142726Z" creationid="Marc Riera" creationdate="20230208T142726Z">
+        <seg>Si deixeu anar aquí fitxers amb una extensió de glossari reconeguda (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.), es copiaran a la carpeta &lt;f2&gt;glossary&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dropping other files will copy them to the &lt;f0&gt;source&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T142629Z" creationid="Marc Riera" creationdate="20230208T142629Z">
+        <seg>Si deixeu anar altres fitxers, es copiaran a la carpeta &lt;f0&gt;source&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Due to licensing considerations, the OmegaT team recommends the Eclipse Temurin Java runtime provided by the Eclipse Foundation's Adoptium Project, but any Java 8 compatible runtime environment should work.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T094952Z" creationid="Marc Riera" creationdate="20221225T094952Z">
@@ -17260,6 +17308,14 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T152244Z" creationid="Marc Riera" creationdate="20220611T152244Z">
         <seg>Indiqueu la paraula o frase (no s'admeten expressions regulars) en el quadre &lt;g0&gt;Substitueix per&lt;/g0&gt; i feu clic en una de les opcions següents:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T142832Z" creationid="Marc Riera" creationdate="20230208T142825Z">
+        <seg>Aneu a la subfinestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22251,6 +22307,14 @@ no cal introduir el camí complet.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T183411Z" creationid="Marc Riera" creationdate="20230105T183355Z">
         <seg>Si no es mostra una llista de scripts en el costat esquerre de la finestra de l'editor de scripts, utilitzeu el menú &lt;g0&gt;Fitxer&lt;/g0&gt; &gt; &lt;g1&gt;Defineix la carpeta de scripts&lt;/g1&gt; de la finestra «Scripts» per localitzar la ubicació on s'emmagatzemen els scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a pane is closed but has contents to display, OmegaT can temporarily highlight the pane tab in orange when you enter the segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T142748Z" creationid="Marc Riera" creationdate="20230208T142748Z">
+        <seg>Si una subfinestra està tancada però té contingut per a mostrar, l'OmegaT pot ressaltar temporalment la pestanya de la subfinestra en color carabassa quan accediu al segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41726,6 +41790,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select &lt;g0&gt;Notify Me When a Segment Has...&lt;/g0&gt; (where ... varies depending on the pane for which you are enabling notifications.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T142958Z" creationid="Marc Riera" creationdate="20230208T142951Z">
+        <seg>Seleccioneu &lt;g0&gt;Avisa'm quan un segment tingui...&lt;/g0&gt; («...» depèn de la subfinestra per a la qual habiliteu les notificacions).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select &lt;g0&gt;Taas Terminology Lookup&lt;/g0&gt; to activate this lookup.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201130T220923Z" creationid="Marc Riera" creationdate="20201130T220923Z">
@@ -46167,6 +46239,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g0&gt;Segment Properties&lt;/g0&gt; pane allows notification settings for each of its item.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143020Z" creationid="Marc Riera" creationdate="20230208T143020Z">
+        <seg>La subfinestra &lt;g0&gt; Propietats del segment&lt;/g0&gt; permet configurar les notificacions per a cadascun dels elements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;g0&gt;Viterbi&lt;/g0&gt; and &lt;g1&gt;Forward-Backward&lt;/g1&gt; algorithms are two different calculation methods.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T122046Z" creationid="Marc Riera" creationdate="20220611T122037Z">
@@ -48196,6 +48276,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T091554Z" creationid="mgalo" creationdate="20181109T230905Z">
         <seg>Les opcions següents no s'aplicaran si s'ha marcat «Compatibilitat amb l'OmegaT 2.6»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following panes can provide notifications:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T142905Z" creationid="Marc Riera" creationdate="20230208T142905Z">
+        <seg>Les subfinestres següents poden proporcionar notificacions:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53454,6 +53542,14 @@ tots els paràmetres als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To enable or disable notifications,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T142819Z" creationid="Marc Riera" creationdate="20230208T142819Z">
+        <seg>Per a habilitar o inhabilitar les notificacions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To enable them, check &lt;l0/&gt; in the &lt;l1/&gt; preferences.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T093759Z" creationid="Marc Riera" creationdate="20221225T093759Z">
@@ -56442,6 +56538,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184904Z" creationid="Marc Riera" creationdate="20230105T184904Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a generar-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to go back to the default layout if you lose track of the changes you made to the user interface and can no longer see certain panes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T142525Z" creationid="Marc Riera" creationdate="20230208T142525Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a tornar a la disposició per defecte si no recordeu els canvis que heu aplicat a la interfície d'usuari i ja no podeu veure algunes subfinestres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59932,6 +60036,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T190124Z" creationid="Marc Riera" creationdate="20230104T190124Z">
         <seg>Podeu triar si les voleu mostrar i si voleu utilitzar la notació XML estàndard per a les etiquetes independents (p. ex., &lt;i/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can click and hold the name of a pane to drag it to a new position or even undock it as a separate window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T142513Z" creationid="Marc Riera" creationdate="20230208T142513Z">
+        <seg>Podeu fer clic i mantenir premut el nom d'una subfinestra per a arrossegar-la a una posició nova o, fins i tot, desacoblar-la i que sigui una finestra independent.</seg>
       </tuv>
     </tu>
     <tu>
