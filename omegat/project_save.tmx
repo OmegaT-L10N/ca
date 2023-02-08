@@ -8266,6 +8266,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Although OmegaT does not offer fancy colouring for your regular expressions, you can get a lot of practice by using the &lt;l0/&gt; window since OmegaT does colour the matching results.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T133443Z" creationid="Marc Riera" creationdate="20230208T133443Z">
+        <seg>Tot i que l'OmegaT no presenta color atractius per a les expressions regulars, podeu practicar molt amb la finestra &lt;l0/&gt;, ja que l'OmegaT sí que n'acoloreix els resultats.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
@@ -19162,10 +19170,50 @@ els fils de teranyina t'aparten.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find a period followed by an uppercase letter.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T133342Z" creationid="Marc Riera" creationdate="20230208T133342Z">
+        <seg>Cercar un punt seguit per una lletra en majúscula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find an email address.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092539Z" creationid="Marc Riera" creationdate="20221231T092539Z">
-        <seg>Cerca una adreça electrònica.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T133350Z" creationid="Marc Riera" creationdate="20221231T092539Z">
+        <seg>Cercar una adreça electrònica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find clauses that start with a comma followed by a whitespace character, contain one or more words (including words in quotation marks, contractions, and filenames with a file extension), and end either with a comma or period.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T133219Z" creationid="Marc Riera" creationdate="20230208T133219Z">
+        <seg>Cercar frases que comencen per una coma seguida d'un caràcter d'espai en blanc, contenen una o més paraules (incloent-hi paraules en cometes, contraccions i noms de fitxer amb una extensió) i acaben amb una coma o un punt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find double words.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T133115Z" creationid="Marc Riera" creationdate="20230208T133115Z">
+        <seg>Cercar paraules duplicades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find extra whitespace after the period at the end of a line.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T133129Z" creationid="Marc Riera" creationdate="20230208T133129Z">
+        <seg>Cercar un espai en blanc addicional després del punt de final de línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find numerical dates in year, month, and day order with the month and day separated by a slash, period, or hyphen, such as:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T133307Z" creationid="Marc Riera" creationdate="20230208T133307Z">
+        <seg>Cercar dates numèriques en l'ordre d'any, mes i dia amb el mes i el dia separats per una barra inclinada un punt o un guionet, com ara:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23413,6 +23461,14 @@ extensions dels fitxers.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you find other interesting references—in any language—the OmegaT team would love to hear about them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T133638Z" creationid="Marc Riera" creationdate="20230208T133638Z">
+        <seg>Si trobeu altres referències interessants, en qualsevol llengua, a l'equip de l'OmegaT ens encantaria conèixer-les.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you find through your analysis that OmegaT communicates with an online service that you have not set, that would be a bug and we would ask you to report it.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230126T181839Z" creationid="Marc Riera" creationdate="20230126T181839Z">
@@ -23802,6 +23858,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183338Z" creationid="Marc Riera" creationdate="20230130T183338Z">
         <seg>Si voleu conèixer més detalls, llegiu el manual d'usuari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to learn more about using regular expressions, the two following sites have proven very useful.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T133503Z" creationid="Marc Riera" creationdate="20230208T133503Z">
+        <seg>Si voleu aprendre més sobre l'ús d'expressions regulars, els dos llocs següents han demostrat ser molt útils.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32195,6 +32259,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT does not support either site in any way.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T133609Z" creationid="Marc Riera" creationdate="20230208T133609Z">
+        <seg>L'OmegaT no contribueix a cap dels dos llocs.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
@@ -33646,6 +33718,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164307Z" creationid="Marc Riera" creationdate="20220625T164307Z">
         <seg>Un dels segments anteriors és el segment actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One of the most thorough regular expression tutorial and reference on the web.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T133534Z" creationid="Marc Riera" creationdate="20230208T133534Z">
+        <seg>Un dels tutorials d'expressions regulars més complets, de referència a Internet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47975,6 +48055,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The flip side of the preceding example.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T133232Z" creationid="Marc Riera" creationdate="20230208T133232Z">
+        <seg>Cas contrari de l'exemple anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder can contain any number of subfolders, including some that have special functions:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152936Z" creationid="Marc Riera" creationdate="20230201T152936Z">
@@ -51689,6 +51777,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T201741Z" creationid="Marc Riera" creationdate="20230101T201741Z">
         <seg>Això assegura que es protegeixen els interessos dels usuaris i ha fet que l'OmegaT hagi guanyat la &lt;a2&gt;garantia «100% lliure» de Softpedia&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This expression finds number and separator patterns matching possible dates, but does not validate them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T133330Z" creationid="Marc Riera" creationdate="20230208T133330Z">
+        <seg>Aquesta expressió troba números i patrons de separació que coincideixen amb possibles dates, però no els valida.</seg>
       </tuv>
     </tu>
     <tu>
