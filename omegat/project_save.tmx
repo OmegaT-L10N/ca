@@ -4379,6 +4379,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Not&lt;/e0&gt; a word boundary</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T132931Z" creationid="Marc Riera" creationdate="20230208T132931Z">
+        <seg>Caràcter que &lt;e0&gt;no&lt;/e0&gt; és un límit de paraula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Note:&lt;/e0&gt; the above information applies only to PDF files with a text layer.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170359Z" creationid="Marc Riera" creationdate="20210521T170359Z">
@@ -5584,6 +5592,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T204307Z" creationid="Marc Riera" creationdate="20220621T204307Z">
         <seg>Les &lt;l0&gt;expressions regulars&lt;/l0&gt; són una manera potent de cercar repeticions d'una cadena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;\H &lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a horizontal white space, and &lt;l2&gt;\V&lt;/l2&gt; any character that is &lt;e3&gt;not&lt;/e3&gt; a vertical white space (&lt;l4&gt;[^\h]&lt;/l4&gt; and &lt;l5&gt;[^\v]&lt;/l5&gt;, respectively).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T132908Z" creationid="Marc Riera" creationdate="20230208T132908Z">
+        <seg>&lt;l0&gt;\H&lt;/l0&gt; és qualsevol caràcter que &lt;e1&gt;no&lt;/e1&gt; sigui un espai en blanc horitzontal i &lt;l2&gt;\V&lt;/l2&gt; representa qualsevol caràcter que &lt;e3&gt;no&lt;/e3&gt; sigui un espai en blanc vertical (&lt;l4&gt;[^\h]&lt;/l4&gt; i &lt;l5&gt;[^\v]&lt;/l5&gt;, respectivament).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51336,6 +51352,14 @@ des del servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This character must be paired with the closing curly brace to encloses an &lt;e0&gt;exact number&lt;/e0&gt;, &lt;e1&gt;minimum&lt;/e1&gt;, &lt;e2&gt;maximum&lt;/e2&gt;, or &lt;e3&gt;range&lt;/e3&gt; specifying how many instances of the preceding character or group should be matched.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T132627Z" creationid="Marc Riera" creationdate="20230208T132610Z">
+        <seg>Aquest caràcter s'ha d'aparellar amb la clau de tancament per a indicar un &lt;e0&gt;nombre exacte&lt;/e0&gt;, &lt;e1&gt;mínim&lt;/e1&gt;, &lt;e2&gt;màxim&lt;/e2&gt; o &lt;e3&gt;interval&lt;/e3&gt; que especifiqui quantes repeticions del caràcter o grup anterior han de coincidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This character must be paired with the closing square bracket to enclose a set of individual characters that each represent a valid potential match.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230207T114037Z" creationid="Marc Riera" creationdate="20230207T114037Z">
@@ -59918,6 +59942,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230204T150524Z" creationid="Marc Riera" creationdate="20230204T150519Z">
         <seg>Podeu mostrar una tercera llengua &lt;e0&gt;directament sota&lt;/e0&gt; el segment d'origen com a referència en una tercera llengua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can do so with the following expression: &lt;l0&gt;(?i)o&lt;/l0&gt;&lt;l1&gt;(?-i)mega&lt;/l1&gt; &lt;l2&gt;(?i)t&lt;/l2&gt;, which represents a case insensitive “o” followed by a case sensitive “mega”, followed by a case insensitive “t”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230208T132743Z" creationid="Marc Riera" creationdate="20230208T132743Z">
+        <seg>Podeu fer-ho amb l'expressió següent: &lt;l0&gt;(?i)o&lt;/l0&gt;&lt;l1&gt;(?-i)mega&lt;/l1&gt; &lt;l2&gt;(?i)t&lt;/l2&gt;, que representa una «o» sense distinció entre majúscules i minúscules, seguida de «mega» amb distinció i «t» sense distinció.</seg>
       </tuv>
     </tu>
     <tu>
