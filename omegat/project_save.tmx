@@ -4259,6 +4259,22 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;12292&lt;/e0&gt; = number of unique translated segments / &lt;e1&gt;154896&lt;/e1&gt; = total number of unique segments, &lt;e2&gt;(177692)&lt;/e2&gt; = total number of segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T183359Z" creationid="Marc Riera" creationdate="20230209T183359Z">
+        <seg>&lt;e0&gt;12292&lt;/e0&gt; = nombre de segments únics traduïts / &lt;e1&gt;154896&lt;/e1&gt; = nombre total de segments únics, &lt;e2&gt;(177692)&lt;/e2&gt; = nombre total de segmentssegments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;257&lt;/e0&gt; = number of translated segments / &lt;e1&gt;271&lt;/e1&gt; = total number of segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T182016Z" creationid="Marc Riera" creationdate="20230209T182016Z">
+        <seg>&lt;e0&gt;257&lt;/e0&gt; = nombre de segments traduïts / &lt;e1&gt;271&lt;/e1&gt; = nombre total de segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Adding files to the project:&lt;/e0&gt; You can add source files to the project by clicking on the &lt;g1&gt;Import Source Files...&lt;/g1&gt; button.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T162929Z" creationid="Marc Riera" creationdate="20220611T162908Z">
@@ -5592,6 +5608,22 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162700Z" creationid="Marc Riera" creationdate="20230130T162700Z">
         <seg>&lt;l0&gt;Amplieu&lt;/l0&gt; l'OmegaT amb connectors de tercers que ofereixin compatibilitat amb el format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;LCK&lt;/l0&gt; indicates that the cursor is locked inside the segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181928Z" creationid="Marc Riera" creationdate="20230209T181928Z">
+        <seg>&lt;l0&gt;BLOC&lt;/l0&gt; indica que el cursor està blocat en el segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;OVR&lt;/l0&gt; indicates that the cursor overwrites the existing text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181951Z" creationid="Marc Riera" creationdate="20230209T181951Z">
+        <seg>&lt;l0&gt;SBR&lt;/l0&gt; indica que el cursor sobreescriu el text existent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24726,6 +24758,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the project</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T182021Z" creationid="Marc Riera" creationdate="20230209T182021Z">
+        <seg>En el projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the rare case where your computer freezes and OmegaT does not have time to close properly, some important files can be corrupted and keep your project from reopening after you reboot your system.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163153Z" creationid="Marc Riera" creationdate="20221225T120540Z">
@@ -27097,6 +27137,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163137Z" creationid="Marc Riera" creationdate="20191112T220157Z">
         <seg>BLOC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LCK | OVR &lt;t0&gt;257/271 (12292/154896, 177692)&lt;/t0&gt;&lt;t1&gt; 35/0 &lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181905Z" creationid="Marc Riera" creationdate="20230209T181905Z">
+        <seg>BLOC | SBR &lt;t0&gt;257/271 (12292/154896, 177692)&lt;/t0&gt;&lt;t1&gt; 35/0 &lt;/t1&gt;</seg>
       </tuv>
     </tu>
     <tu>
