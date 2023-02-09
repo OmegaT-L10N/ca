@@ -23145,6 +23145,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the entry contains comments, they are numbered and displayed on separate lines below the terms.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T220354Z" creationid="Marc Riera" creationdate="20230209T220354Z">
+        <seg>Si l'entrada conté comentaris, es numeren i es mostren en línies independents sota els termes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the file name is ambiguous, variables of the form &lt;l0&gt;${nameonly-&lt;/l0&gt;&lt;e1&gt;extension number&lt;/e1&gt;} and &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;extension number} &lt;/e3&gt; can be used.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175000Z" creationid="Marc Riera" creationdate="20221218T175000Z">
@@ -36957,6 +36965,16 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project = &lt;t0&gt;Projet&lt;/t0&gt;
+1.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T220358Z" creationid="Marc Riera" creationdate="20230209T220358Z">
+        <seg>Project = &lt;t0&gt;Projet&lt;/t0&gt;
+1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project Files</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T120102Z" creationid="Marc Riera" creationdate="20220611T120102Z">
@@ -37323,6 +37341,18 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122542Z" creationid="Marc Riera" creationdate="20221223T122542Z">
         <seg>&lt;s0&gt;&lt;e1&gt;No&lt;/e1&gt;&lt;/s0&gt; es modificaran ni suprimiran els projectes que hàgiu creat anteriorment o que utilitzeu actualment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Projet de traduction
+
+Folder = &lt;t1&gt;Dossier&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T220400Z" creationid="Marc Riera" creationdate="20230209T220400Z">
+        <seg>Projet de traduction
+
+Folder = &lt;t1&gt;Dossier&lt;/t1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -47123,6 +47153,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Glossary pane shows terms from your glossary files that correspond to terms in the current segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T220317Z" creationid="Marc Riera" creationdate="20230209T220317Z">
+        <seg>La subfinestra «Glossari» mostra els termes dels fitxers de glossari que corresponen als termes del segment actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The HTML parser threw an exception during file processing:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230129T223556Z" creationid="Marc Riera" creationdate="20230129T223556Z">
@@ -47980,6 +48018,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110442Z" creationid="Marc Riera" creationdate="20221204T110442Z">
         <seg>Les ordres especificades aquí només estan disponibles per a aquest projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The comment field of an entry can contain hyperlinks, which can be clicked for further reference.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T220451Z" creationid="Marc Riera" creationdate="20230209T220451Z">
+        <seg>El camp de comentari d'una entrada por contenir enllaços, en què s'hi pot fer clic per a conèixer més informació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48972,6 +49018,22 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T145651Z" creationid="Marc Riera" creationdate="20190924T145651Z">
         <seg>El fitxer del glossari és buit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The glossary file name is shown as a tooltip when hovering over the terms.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T220424Z" creationid="Marc Riera" creationdate="20230209T220424Z">
+        <seg>El nom del fitxer de glossari es mostra com a indicador de funció en passar el ratolí sobre els termes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The glossary files are located in the project’s &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T220325Z" creationid="Marc Riera" creationdate="20230209T220325Z">
+        <seg>Els fitxers de glossari són en la carpeta &lt;l0/&gt; del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50568,6 +50630,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164805Z" creationid="Marc Riera" creationdate="20220625T164805Z">
         <seg>La subcarpeta «source» conté els fitxers que s'han de traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source term is displayed before the “=” sign and the target terms after it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T220341Z" creationid="Marc Riera" creationdate="20230209T220341Z">
+        <seg>El terme d'origen es mostra abans del signe «=» i els termes de destinació apareixen després.</seg>
       </tuv>
     </tu>
     <tu>
