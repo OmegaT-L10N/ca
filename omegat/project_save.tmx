@@ -28045,6 +28045,14 @@ durant la primera execució.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Links to local files (&lt;f0&gt;file:///PATH/filename&lt;/f0&gt;) open in the associated program.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T220526Z" creationid="Marc Riera" creationdate="20230209T220526Z">
+        <seg>Els enllaços a fitxers locals (&lt;f0&gt;file:///CAMÍ/fitxer&lt;/f0&gt;) s'obren amb el programa associat.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Linux</seg>
@@ -48024,8 +48032,8 @@ la carpeta actual en el seu lloc.</seg>
       <tuv lang="en">
         <seg>The comment field of an entry can contain hyperlinks, which can be clicked for further reference.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T220451Z" creationid="Marc Riera" creationdate="20230209T220451Z">
-        <seg>El camp de comentari d'una entrada por contenir enllaços, en què s'hi pot fer clic per a conèixer més informació.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T220459Z" creationid="Marc Riera" creationdate="20230209T220451Z">
+        <seg>El camp de comentari d'una entrada por contenir enllaços, en què es pot fer clic per a conèixer més informació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57496,6 +57504,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to underline glossary matches.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T220604Z" creationid="Marc Riera" creationdate="20230209T220604Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a subratllar les coincidències del glossari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to update it.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184924Z" creationid="Marc Riera" creationdate="20230105T184924Z">
@@ -58978,6 +58994,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T191045Z" creationid="Marc Riera" creationdate="20191110T184716Z">
         <seg>Web Start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Web addresses (&lt;f1&gt;https://...&lt;/f1&gt;) open in the default browser.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T220538Z" creationid="Marc Riera" creationdate="20230209T220538Z">
+        <seg>Les adreces web (&lt;f1&gt;https://...&lt;/f1&gt;) s'obren en el navegador per defecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61363,6 +61387,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T162449Z" creationid="Marc Riera" creationdate="20220611T162449Z">
         <seg>Podeu seleccionar un fitxer amb les tecles  &lt;k1&gt;Amunt&lt;/k1&gt; i &lt;k2&gt;Avall&lt;/k2&gt; i prémer &lt;k3&gt;Retorn&lt;/k3&gt; per a obrir-lo per a traduir-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select a term in the glossary pane and right click on it to insert it into the translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T220625Z" creationid="Marc Riera" creationdate="20230209T220625Z">
+        <seg>Podeu seleccionar un terme en la subfinestra «Glossari» i fer-hi clic dret per a inserir-lo en la traducció.</seg>
       </tuv>
     </tu>
     <tu>
