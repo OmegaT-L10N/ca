@@ -58948,6 +58948,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When suggestions from more than one engine are available,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T190902Z" creationid="Marc Riera" creationdate="20230209T190902Z">
+        <seg>Quan hi ha suggeriments disponibles de més d'un motor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When that happens, members have to select the appropriate translation.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T140916Z" creationid="Marc Riera" creationdate="20221211T140916Z">
@@ -67290,6 +67298,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>the currently selected translation is highlighted.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T191008Z" creationid="Marc Riera" creationdate="20230209T191008Z">
+        <seg>Es ressalta la traducció seleccionada actualment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>the default setting shows who last modified the translation and when:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T190816Z" creationid="Marc Riera" creationdate="20230104T190816Z">
@@ -67350,6 +67366,22 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T120741Z" creationid="Marc Riera" creationdate="20220611T120741Z">
         <seg>La llista de tots els fitxers traduïbles del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the name of the engine appears after the translated text,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T190911Z" creationid="Marc Riera" creationdate="20230209T190911Z">
+        <seg>El nom del motor apareix després del text traduït.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the results are sorted alphabetically by engine name, and</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T190942Z" creationid="Marc Riera" creationdate="20230209T190942Z">
+        <seg>Els resultats s'ordenen en ordre alfabètic per nom dels motors.</seg>
       </tuv>
     </tu>
     <tu>
