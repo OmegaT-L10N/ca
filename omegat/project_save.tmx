@@ -6066,6 +6066,18 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Configuration&lt;/t0&gt; Folder
+Dossier de configuration
+&lt;50/50/66% &gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215822Z" creationid="Marc Riera" creationdate="20230209T215822Z">
+        <seg>&lt;t0&gt;Configuration&lt;/t0&gt; Folder
+Dossier de configuration
+&lt;50/50/66% &gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
@@ -49308,6 +49320,22 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The match also displays three matching percentages.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215847Z" creationid="Marc Riera" creationdate="20230209T215847Z">
+        <seg>La coincidència també mostra tres percentatges de coincidència.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The match viewer shows the segments from your translation memories that are most similar to the segment you are currently translating.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215659Z" creationid="Marc Riera" creationdate="20230209T215659Z">
+        <seg>El visualitzador de coincidències mostra segments de les memòries de traducció que són similars al segment que esteu traduint.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The matches will be displayed in bold blue.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220621T203806Z" creationid="Marc Riera" creationdate="20220621T203806Z">
@@ -50218,6 +50246,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230209T214805Z" creationid="Marc Riera" creationdate="20230209T214805Z">
         <seg>El nom del motor seleccionat s'assigna a la propietat &lt;p0&gt;Origen&lt;/p0&gt; del segment actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selected fuzzy match is highlighted in bold.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215838Z" creationid="Marc Riera" creationdate="20230209T215838Z">
+        <seg>La coincidència parcial seleccionada es ressalta en negreta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51559,6 +51595,14 @@ la ubicació de la carpeta de configuració de l'OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T085412Z" creationid="Marc Riera" creationdate="20221214T085412Z">
         <seg>Aquesta opció especifica la manera en què l'OmegaT crea les etiquetes a partir del contingut del fitxer XLIFF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These percentages have the following meaning, in order:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215901Z" creationid="Marc Riera" creationdate="20230209T215901Z">
+        <seg>Aquests percentatges tenen el significat següent, en ordre:</seg>
       </tuv>
     </tu>
     <tu>
@@ -59294,6 +59338,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you enter a segment, the first fuzzy match (the one with the highest match percentage) is automatically selected.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215727Z" creationid="Marc Riera" creationdate="20230209T215727Z">
+        <seg>Quan accediu a un segment, se selecciona automàticament la primera coincidència parcial (la que té el percentatge de coincidència més alt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you leave the segment, its translation is automatically stored into the &lt;l0/&gt; file and will be used as reference for the rest of your translation.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233652Z" creationid="Marc Riera" creationdate="20221226T233652Z">
@@ -60696,6 +60748,14 @@ d'allà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can change how matches are displayed or sorted.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215908Z" creationid="Marc Riera" creationdate="20230209T215908Z">
+        <seg>Podeu canviar com es mostren o s'ordenen les coincidències.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can change its name and location in the &lt;l0/&gt; dialog, but you must give it a &lt;f1&gt;.txt&lt;/f1&gt; or &lt;f2&gt;.utf8&lt;/f2&gt; extension, and store it within the &lt;l3/&gt; folder or in one of its subfolders.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T095728Z" creationid="Marc Riera" creationdate="20221206T095728Z">
@@ -61161,6 +61221,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225402Z" creationid="Marc Riera" creationdate="20201003T225402Z">
         <seg>Si voleu, podeu superposar les subfinestres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can press &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;2, 3, 4, or 5&lt;/k2&gt; &lt;/k0&gt;, or use &lt;l3/&gt;&lt;l4/&gt;, to select a different match .</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215814Z" creationid="Marc Riera" creationdate="20230209T215814Z">
+        <seg>Podeu prémer &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;2, 3, 4 o 5&lt;/k2&gt; &lt;/k0&gt; o utilitzar &lt;l3/&gt;&lt;l4/&gt; per a seleccionar una coincidència diferent..</seg>
       </tuv>
     </tu>
     <tu>
