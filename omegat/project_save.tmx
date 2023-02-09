@@ -5668,6 +5668,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;UNL&lt;/l0&gt; indicates that the cursor is not locked inside the segment and can navigate around the editor window with standard navigation commands.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T190831Z" creationid="Marc Riera" creationdate="20230209T190831Z">
+        <seg>&lt;l0&gt;DESBLOC&lt;/l0&gt; indica que el cursor no està blocat en el segment i podeu navegar per la finestra de l'editor amb les ordres de navegació estàndard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;\H &lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a horizontal white space, and &lt;l2&gt;\V&lt;/l2&gt; any character that is &lt;e3&gt;not&lt;/e3&gt; a vertical white space (&lt;l4&gt;[^\h]&lt;/l4&gt; and &lt;l5&gt;[^\v]&lt;/l5&gt;, respectively).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230208T132908Z" creationid="Marc Riera" creationdate="20230208T132908Z">
