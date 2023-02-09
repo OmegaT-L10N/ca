@@ -7804,6 +7804,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All segments have properties.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T180919Z" creationid="Marc Riera" creationdate="20230209T180919Z">
+        <seg>Tots els segments tenen propietats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All sets that match the project source language are applied.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T211111Z" creationid="Marc Riera" creationdate="20221124T211111Z">
@@ -12529,6 +12537,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T131723Z" creationid="Marc Riera" creationdate="20221207T131723Z">
         <seg>Preferències comunes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Common properties include:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T180953Z" creationid="Marc Riera" creationdate="20230209T180953Z">
+        <seg>Algunes propietats habituals són:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24971,6 +24987,22 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Indicates that a segment is a repetition and specifies whether it is the FIRST instance.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181152Z" creationid="Marc Riera" creationdate="20230209T181152Z">
+        <seg>Indica que un segment és un duplicat i especifica si el segment és la primera repetició.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Indicates which file contains the segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181158Z" creationid="Marc Riera" creationdate="20230209T181158Z">
+        <seg>Indica el fitxer on s'emmagatzema el segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Individual File Statistics:</seg>
@@ -25824,6 +25856,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Is repetition</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181002Z" creationid="Marc Riera" creationdate="20230209T181002Z">
+        <seg>És una repetició</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Issues</seg>
@@ -26362,6 +26402,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183104Z" creationid="Marc Riera" creationdate="20230130T183104Z">
         <seg>Ara els mostra segment per segment perquè els traduïu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It only displays information that is related to the segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181250Z" creationid="Marc Riera" creationdate="20230209T181250Z">
+        <seg>Només mostra informació relacionada amb el segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41656,6 +41704,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Segment properties</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T180903Z" creationid="Marc Riera" creationdate="20230209T180903Z">
+        <seg>Propietats del segment</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Segment source text into paragraphs on:</seg>
@@ -44652,6 +44708,22 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Status bar</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181251Z" creationid="Marc Riera" creationdate="20230209T181251Z">
+        <seg>Barra d'estat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Status bar messages examples</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181312Z" creationid="Marc Riera" creationdate="20230209T181312Z">
+        <seg>Exemples de missatges de la barra d'estat</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Stemming, no tags and no numbers</seg>
@@ -47120,6 +47192,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Properties pane is &lt;e0&gt;not&lt;/e0&gt; editable.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181243Z" creationid="Marc Riera" creationdate="20230209T181243Z">
+        <seg>La subfinestra «Propietats» &lt;e0&gt;no&lt;/e0&gt; és editable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The QUESTION MARK: &lt;l0&gt;?&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T144523Z" creationid="Marc Riera" creationdate="20230206T144523Z">
@@ -47532,6 +47612,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T201710Z" creationid="Marc Riera" creationdate="20230101T201710Z">
         <seg>La millor manera que els desenvolupadors tinguin una bona experiència en proposar canvis és seguir les pautes definides en la pàgina &lt;a0&gt;Col·laboració amb l'OmegaT&lt;/a0&gt;, que forma part de la &lt;a1&gt;documentació per a desenvolupadors&lt;/a1&gt; que ofereix l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The bottom of the main window is the status bar.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181254Z" creationid="Marc Riera" creationdate="20230209T181254Z">
+        <seg>La part inferior de la finestra principal és la barra d'estat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48777,6 +48865,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The left side of the status bar displays information on project actions or error messages.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181310Z" creationid="Marc Riera" creationdate="20230209T181310Z">
+        <seg>La part esquerra de la barra d'estat mostra informació sobre les accions del projecte o els missatges d'error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The letter “a”, “b”, or “c”.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094308Z" creationid="Marc Riera" creationdate="20230207T094308Z">
@@ -49559,6 +49655,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T112246Z" creationid="Marc Riera" creationdate="20221206T112246Z">
         <seg>El projecte emmagatzemarà el nou conjunt de regles en el fitxer &lt;l0/&gt; de la carpeta &lt;l1/&gt; i les regles substituiran les regles de segmentació globals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The properties are displayed in this pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T180939Z" creationid="Marc Riera" creationdate="20230209T180939Z">
+        <seg>Les propietats es mostren en aquesta subfinestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68063,6 +68167,14 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110755Z" creationid="Marc Riera" creationdate="20190521T110755Z">
         <seg>← Enrere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT is opening a team project and synchronizes with the remote repository.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181345Z" creationid="Marc Riera" creationdate="20230209T181345Z">
+        <seg>→ L'OmegaT està obrint un projecte en equip i se sincronitza amb el dipòsit remot.</seg>
       </tuv>
     </tu>
     <tu>
