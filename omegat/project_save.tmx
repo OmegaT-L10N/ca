@@ -6496,6 +6496,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>A source segment that appears in multiple locations in the project may require several different translations depending on context.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215019Z" creationid="Marc Riera" creationdate="20230209T215019Z">
+        <seg>Un segment d'origen que apareix en diverses ubicacions del projecte pot requerir diverses traduccions diferents en funció del context.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>A source sentence might look like:</seg>
@@ -23286,6 +23294,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there is a connection or authentication error with a machine translation engine, the status bar at the bottom of the window will briefly display status message.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T214828Z" creationid="Marc Riera" creationdate="20230209T214828Z">
+        <seg>Si es produeix un error de connexió o autenticació amb un motor de traducció automàtica, la barra d'estat de la part inferior de la finestra mostrarà breument el missatge d'estat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there is a declaration, that encoding  be used regardless of the setting specified here.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204606Z" creationid="Marc Riera" creationdate="20221124T204606Z">
@@ -23330,6 +23346,14 @@ als valors per defecte com a resultat del canvi d'ubicació.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230204T145000Z" creationid="Marc Riera" creationdate="20230204T145000Z">
         <seg>Si &lt;e0&gt;no cal&lt;/e0&gt; que siguin immutables per a impedir més canvis, suprimiu el fitxer TMX de &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If they are, you may need to contact the service provider for assistance.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T214917Z" creationid="Marc Riera" creationdate="20230209T214917Z">
+        <seg>Si tot és correcte, és possible que hàgiu de contactar amb el proveïdor del servei per a obtenir ajuda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28655,6 +28679,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T223946Z" creationid="Marc Riera" creationdate="20221211T221004Z">
         <seg>Millora de l'aspecte del programa perquè sigui atractiu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure the service is enabled and your credentials are entered correctly.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T214853Z" creationid="Marc Riera" creationdate="20230209T214853Z">
+        <seg>Assegureu-vos que el servei estigui habilitat i que hàgiu introduït les credencials correctament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43284,6 +43316,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Similarly, an error such as &lt;l0&gt;Unable to parse translation service response&lt;/l0&gt; suggests that there may be a communication problem between your system and the provider's server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215006Z" creationid="Marc Riera" creationdate="20230209T215006Z">
+        <seg>De la mateixa manera, un error com ara &lt;l0&gt;No s'ha pogut processar la resposta del servei de traducció automàtica&lt;/l0&gt; suggereix que potser hi ha un problema de comunicació entre el sistema i el servidor del proveïdor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Similarly, links to the various parts of the manual are displayed in a way that make it easier to identify the function of the linked item.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221226T225343Z" creationid="Marc Riera" creationdate="20221226T225343Z">
@@ -47136,6 +47176,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Notes pane is an &lt;e0&gt;editable&lt;/e0&gt; space where you can add notes to the currently active segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215058Z" creationid="Marc Riera" creationdate="20230209T215058Z">
+        <seg>La subfinestra «Notes» és un espai &lt;e0&gt;editable&lt;/e0&gt; on podeu afegir notes al segment actiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OPENING CURLY BRACE: &lt;l0&gt;{&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T160917Z" creationid="Marc Riera" creationdate="20230206T160917Z">
@@ -48296,6 +48344,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113603Z" creationid="Marc Riera" creationdate="20221129T113603Z">
         <seg>Fi d'una línia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The entered translation will then be treated as an alternative translation of the source segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215037Z" creationid="Marc Riera" creationdate="20230209T215037Z">
+        <seg>La traducció indicada es tractarà com una traducció alternativa del segment d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50090,6 +50146,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T111238Z" creationid="Marc Riera" creationdate="20221215T111238Z">
         <seg>Els atributs seleccionats apareixeran com a segments traduïbles en la subfinestra &lt;g0&gt;Editor&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selected engine name is assigned to the &lt;p0&gt;Origin&lt;/p0&gt; property of the current segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T214805Z" creationid="Marc Riera" creationdate="20230209T214805Z">
+        <seg>El nom del motor seleccionat s'assigna a la propietat &lt;p0&gt;Origen&lt;/p0&gt; del segment actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52897,6 +52961,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143045Z" creationid="Marc Riera" creationdate="20230208T143045Z">
         <seg>Aquí és on escriviu i editeu les vostres traduccions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This lets you come back to it later to review the translation, check that alternative translations are correct or, in shared projects, ask colleagues for their opinion, for example.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215124Z" creationid="Marc Riera" creationdate="20230209T215124Z">
+        <seg>Això us permet tornar més endavant per a revisar la traducció, comprovar que les traduccions alternatives són correctes o, en projectes compartits, demanar a altres membres la seva opinió, per exemple.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56982,6 +57054,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to define one of the alternatives—the most common or likely, for instance—as the default translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215050Z" creationid="Marc Riera" creationdate="20230209T215050Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a definir una de les alternatives, la més habitual o probable, per exemple, com a traducció per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to directly access it.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175130Z" creationid="Marc Riera" creationdate="20221218T175130Z">
@@ -57154,6 +57234,22 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120717Z" creationid="Marc Riera" creationdate="20221225T120717Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a recrear els fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to register an alternative translation if the current translation of the segment is not suitable.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215029Z" creationid="Marc Riera" creationdate="20230209T215029Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a registrar una traducció alternativa si la traducció actual del segment no és adequada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to replace the translation of the current segment with the selected translation engine.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T214738Z" creationid="Marc Riera" creationdate="20230209T214738Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a substituir la traducció del segment actual pel motor de traducció automàtica seleccionat.</seg>
       </tuv>
     </tu>
     <tu>
