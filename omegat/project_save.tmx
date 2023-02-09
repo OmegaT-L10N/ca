@@ -11940,6 +11940,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on the figures to alternate between displaying progress as numbers or percentages.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181849Z" creationid="Marc Riera" creationdate="20230209T181849Z">
+        <seg>Feu clic en les figures per canviar entre la visualització del progrés en xifres o percentages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on the relevant header to sort them in ascending or descending order.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T104740Z" creationid="Marc Riera" creationdate="20230130T104740Z">
@@ -25945,6 +25953,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It also displays progress information.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181820Z" creationid="Marc Riera" creationdate="20230209T181820Z">
+        <seg>També mostra informació del progrés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It also possible to change the position of a filename, by clicking on it and pressing &lt;g0&gt;Move ...&lt;/g0&gt; buttons.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T121317Z" creationid="Marc Riera" creationdate="20220611T121317Z">
@@ -36857,6 +36873,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project autosaved at 10:48 PM</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181417Z" creationid="Marc Riera" creationdate="20230209T181417Z">
+        <seg>El projecte s'ha desat automàticament a les 22:48.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project autosaved at {0}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T203512Z" creationid="Marc Riera" creationdate="20221124T203512Z">
@@ -44717,6 +44741,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Status bar information</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181823Z" creationid="Marc Riera" creationdate="20230209T181823Z">
+        <seg>Informació de la barra d'estat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Status bar messages examples</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181312Z" creationid="Marc Riera" creationdate="20230209T181312Z">
@@ -49751,6 +49783,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215906Z" creationid="Marc Riera" creationdate="20221207T215906Z">
         <seg>Els resultats es presenten en una taula en què:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The right side of the status bar indicates whether the cursor is locked within the segment (see the &lt;l0/&gt; setting) and whether the cursor overwrites the existing text (see the &lt;l1/&gt; setting).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181749Z" creationid="Marc Riera" creationdate="20230209T181749Z">
+        <seg>El costat dret de la barra d'estat indica si el cursor està blocat en el segment (consulteu el paràmetre &lt;l0/&gt;) i si el cursor sobreescriu el text existent (consulteu el paràmetre &lt;l1/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -68171,10 +68211,34 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>→ Files were created by the user.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181443Z" creationid="Marc Riera" creationdate="20230209T181443Z">
+        <seg>→ L'usuari ha creat els fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT has recently saved the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181429Z" creationid="Marc Riera" creationdate="20230209T181429Z">
+        <seg>→ L'OmegaT ha desat el projecte recentment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>→ OmegaT is opening a team project and synchronizes with the remote repository.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181345Z" creationid="Marc Riera" creationdate="20230209T181345Z">
         <seg>→ L'OmegaT està obrint un projecte en equip i se sincronitza amb el dipòsit remot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT opens the last edited segment from the last session.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181403Z" creationid="Marc Riera" creationdate="20230209T181403Z">
+        <seg>→ L'OmegaT sobre el darrer segment editat de la darrera sessió.</seg>
       </tuv>
     </tu>
     <tu>
