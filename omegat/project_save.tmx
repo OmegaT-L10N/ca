@@ -4261,8 +4261,8 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       <tuv lang="en">
         <seg>&lt;e0&gt;12292&lt;/e0&gt; = number of unique translated segments / &lt;e1&gt;154896&lt;/e1&gt; = total number of unique segments, &lt;e2&gt;(177692)&lt;/e2&gt; = total number of segments</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T183359Z" creationid="Marc Riera" creationdate="20230209T183359Z">
-        <seg>&lt;e0&gt;12292&lt;/e0&gt; = nombre de segments únics traduïts / &lt;e1&gt;154896&lt;/e1&gt; = nombre total de segments únics, &lt;e2&gt;(177692)&lt;/e2&gt; = nombre total de segmentssegments</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T183410Z" creationid="Marc Riera" creationdate="20230209T183359Z">
+        <seg>&lt;e0&gt;12292&lt;/e0&gt; = nombre de segments únics traduïts / &lt;e1&gt;154896&lt;/e1&gt; = nombre total de segments únics, &lt;e2&gt;(177692)&lt;/e2&gt; = nombre total de segments</seg>
       </tuv>
     </tu>
     <tu>
@@ -4271,6 +4271,30 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230209T182016Z" creationid="Marc Riera" creationdate="20230209T182016Z">
         <seg>&lt;e0&gt;257&lt;/e0&gt; = nombre de segments traduïts / &lt;e1&gt;271&lt;/e1&gt; = nombre total de segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;35&lt;/e0&gt; = number of characters in the source / &lt;e1&gt;0&lt;/e1&gt; = number of characters in the target area so far</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T183503Z" creationid="Marc Riera" creationdate="20230209T183503Z">
+        <seg>&lt;e0&gt;35&lt;/e0&gt; = nombre de caràcters en el text d'origen / &lt;e1&gt;0&lt;/e1&gt; = nombre de caràcters en el camp de destinació, de moment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;7.9%&lt;/e0&gt; = % of translated segments / &lt;e1&gt;142,604&lt;/e1&gt; = number of untranslated segments, &lt;e2&gt;(177,692)&lt;/e2&gt; = total number of segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T190755Z" creationid="Marc Riera" creationdate="20230209T190755Z">
+        <seg>&lt;e0&gt;7,9%&lt;/e0&gt; = percentatge de segments traduïts / &lt;e1&gt;142.604&lt;/e1&gt; = nombre de segments sense traduir, &lt;e2&gt;(177.692)&lt;/e2&gt; = nombre total de segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;94.8%&lt;/e0&gt; = % of translated segments / &lt;e1&gt;14&lt;/e1&gt; = number of untranslated segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T183700Z" creationid="Marc Riera" creationdate="20230209T183700Z">
+        <seg>&lt;e0&gt;94,8%&lt;/e0&gt; = percentatge de segments traduïts / &lt;e1&gt;14&lt;/e1&gt; = nombre de segments sense traduir</seg>
       </tuv>
     </tu>
     <tu>
@@ -5608,6 +5632,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162700Z" creationid="Marc Riera" creationdate="20230130T162700Z">
         <seg>&lt;l0&gt;Amplieu&lt;/l0&gt; l'OmegaT amb connectors de tercers que ofereixin compatibilitat amb el format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;INS&lt;/l0&gt; indicates that the cursor inserts text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T183626Z" creationid="Marc Riera" creationdate="20230209T183626Z">
+        <seg>&lt;l0&gt;INS&lt;/l0&gt; indica que el cursor insereix text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44797,6 +44829,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Status bar information, percentage mode</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T183512Z" creationid="Marc Riera" creationdate="20230209T183512Z">
+        <seg>Informació de la barra d'estat, mode percentatge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Status bar messages examples</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181312Z" creationid="Marc Riera" creationdate="20230209T181312Z">
@@ -55455,6 +55495,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163139Z" creationid="Marc Riera" creationdate="20191112T220202Z">
         <seg>DESBLOC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UNL | INS &lt;t0&gt;94.8% (14 left) / 7.9% (142,604 left), 177,692&lt;/t0&gt; &lt;t1&gt;35/0&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T183614Z" creationid="Marc Riera" creationdate="20230209T183614Z">
+        <seg>DESBLOC | INS &lt;t0&gt;94,8% (14 restants) / 7.9% (142.604 restants), 177.692&lt;/t0&gt; &lt;t1&gt;35/0&lt;/t1&gt;</seg>
       </tuv>
     </tu>
     <tu>
