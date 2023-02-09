@@ -4547,6 +4547,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Add Glossary Entry&lt;/g0&gt; (equivalent to using &lt;l1/&gt;&lt;l2/&gt;).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215525Z" creationid="Marc Riera" creationdate="20230209T215525Z">
+        <seg>&lt;g0&gt;Afegeix una entrada al glossari&lt;/g0&gt; (equivalent a utilitzar &lt;l1/&gt;&lt;l2/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Allow blank translations in the target file&lt;/g0&gt;:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T224454Z" creationid="Marc Riera" creationdate="20220130T224454Z">
@@ -4635,6 +4643,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Cut&lt;/g0&gt;, &lt;g1&gt;Copy&lt;/g1&gt;, &lt;g2&gt;Paste&lt;/g2&gt; functions,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215452Z" creationid="Marc Riera" creationdate="20230209T215437Z">
+        <seg>Funcions &lt;g0&gt;Retalla&lt;/g0&gt;, &lt;g1&gt;Copia&lt;/g1&gt; i &lt;g2&gt;Enganxa&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Cycle&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;F3&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220656Z" creationid="Marc Riera" creationdate="20221208T220634Z">
@@ -4719,6 +4735,14 @@ línia d'ordres o en l'script d'inici de l'OmegaT. El valor actual és de {0} MB
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T204952Z" creationid="Marc Riera" creationdate="20221214T204805Z">
         <seg>&lt;g0&gt;Endavant-endarrere&lt;/g0&gt;: algorisme alternatiu que es pot utilitzar per a alinear els fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Go To Segment&lt;/g0&gt; (to jump to the segment under the pointer).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215509Z" creationid="Marc Riera" creationdate="20230209T215509Z">
+        <seg>&lt;g0&gt;Ves al segment&lt;/g0&gt; (per a saltar al segment sota el punter).</seg>
       </tuv>
     </tu>
     <tu>
@@ -24413,16 +24437,16 @@ feu doble clic en la drecera.</seg>
       <tuv lang="en">
         <seg>In &lt;g0&gt;List View&lt;/g0&gt;, right click on the &lt;g1&gt;Action&lt;/g1&gt; widget at the right-end of the selected property line and select &lt;g2&gt;Notify Me When a Segment Has...&lt;/g2&gt; (where ... varies according to the desired notification).</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T180100Z" creationid="Marc Riera" creationdate="20230209T180100Z">
-        <seg>En la &lt;g0&gt;visualització de llista&lt;/g0&gt;, feu clic dret en el giny &lt;g1&gt;Acció&lt;/g1&gt; de la dreta de la linia de la propietat seleccionada i seleccioneu &lt;g2&gt;Avisa'm quan un segment tingui...&lt;/g2&gt; («...» varia en funcio de la notificació desitjada).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215557Z" creationid="Marc Riera" creationdate="20230209T180100Z">
+        <seg>En la &lt;g0&gt;visualització de llista&lt;/g0&gt;, feu clic dret en el giny &lt;g1&gt;Acció&lt;/g1&gt; de la dreta de la linia de la propietat seleccionada i seleccioneu &lt;g2&gt;Avisa'm quan un segment tingui...&lt;/g2&gt; («...» varia en funció de la notificació desitjada).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>In &lt;g0&gt;Table View&lt;/g0&gt;, right click on the item and select &lt;g1&gt;Notify Me When a Segment Has...&lt;/g1&gt; (where ... varies according to the desired notification).</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T180103Z" creationid="Marc Riera" creationdate="20230209T175954Z">
-        <seg>En la &lt;g0&gt;visualització de taula&lt;/g0&gt;, feu clic dret en l'element i seleccioneu &lt;g1&gt;Avisa'm quan un segment tingui...&lt;/g1&gt; («...» varia en funcio de la notificació desitjada).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215602Z" creationid="Marc Riera" creationdate="20230209T175954Z">
+        <seg>En la &lt;g0&gt;visualització de taula&lt;/g0&gt;, feu clic dret en l'element i seleccioneu &lt;g1&gt;Avisa'm quan un segment tingui...&lt;/g1&gt; («...» varia en funció de la notificació desitjada).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29311,6 +29335,14 @@ durant la primera execució.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matched glossary items, with comments, if any presented as a tooltip.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215410Z" creationid="Marc Riera" creationdate="20230209T215410Z">
+        <seg>Entrades del glossari que coincideixen; si hi ha comentaris, es presenten com a indicador de funció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113048Z" creationid="Marc Riera" creationdate="20221129T113048Z">
@@ -33727,6 +33759,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Space&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215618Z" creationid="Marc Riera" creationdate="20230209T215618Z">
+        <seg>Windows i Linux: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Espai&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T144944Z" creationid="Marc Riera" creationdate="20221211T144944Z">
@@ -33875,6 +33915,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215830Z" creationid="Marc Riera" creationdate="20221207T215830Z">
         <seg>macOS: &lt;k0&gt;&lt;k1&gt;Maj&lt;/k1&gt;&lt;k2&gt;Ordre&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;Esc&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215622Z" creationid="Marc Riera" creationdate="20230209T215622Z">
+        <seg>macOS: &lt;k0&gt;Esc&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -47023,6 +47071,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Editor pane context menu offers various functions available from the &lt;l0/&gt; menu, notably:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215337Z" creationid="Marc Riera" creationdate="20230209T215337Z">
+        <seg>El menú contextual de la subfinestra «Editor» ofereix diverses funcions disponibles des del menú &lt;l0/&gt;. Les més importants són:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Editor pane displays the text of the partially translated document: the text already translated is displayed in translation while the untranslated text is displayed in the original language.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220625T164250Z" creationid="Marc Riera" creationdate="20220625T164250Z">
@@ -49414,6 +49470,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The notes are stored in the translation memory of the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215154Z" creationid="Marc Riera" creationdate="20230209T215154Z">
+        <seg>Les notes s'emmagatzemen en la memòria de traducció del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The number must correspond to at least 2 MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134538Z" creationid="Marc Riera" creationdate="20230130T134538Z">
@@ -51570,6 +51634,14 @@ en sou víctima d'una.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are &lt;e0&gt;not&lt;/e0&gt; stored in the translated files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215203Z" creationid="Marc Riera" creationdate="20230209T215203Z">
+        <seg>&lt;e0&gt;No&lt;/e0&gt; s'emmagatzemen en els fitxers traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They are defined in &lt;l0/&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T134803Z" creationid="Marc Riera" creationdate="20221204T110120Z">
@@ -53164,6 +53236,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T000350Z" creationid="Marc Riera" creationdate="20221231T000304Z">
         <seg>Aquest menú us dona accés a les ordres de navegació pels segments i subfinestres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This menu offers the auto-completion options set in the &lt;l0/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215645Z" creationid="Marc Riera" creationdate="20230209T215645Z">
+        <seg>Aquest menú ofereix les opcions d'emplenament automàtic definides en les preferències de l'&lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56846,6 +56926,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; and &lt;l2/&gt;&lt;l3/&gt; to browse through the notes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215135Z" creationid="Marc Riera" creationdate="20230209T215135Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; i &lt;l2/&gt;&lt;l3/&gt; per a navegar per les notes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; and focus on &lt;g2&gt;Tag issues&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120704Z" creationid="Marc Riera" creationdate="20221225T120704Z">
@@ -57086,6 +57174,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to enable this feature.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215419Z" creationid="Marc Riera" creationdate="20230209T215419Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a habilitar aquesta característica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to enter new terms in this glossary.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175117Z" creationid="Marc Riera" creationdate="20221218T175117Z">
@@ -57106,6 +57202,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T205438Z" creationid="Marc Riera" creationdate="20230131T205438Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a accedir a la subfinestra Notes i afegiu una anotació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to enter the pane and add or modify a note.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215145Z" creationid="Marc Riera" creationdate="20230209T215145Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a accedir a la subfinestra i afegir o modificar una nota.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57138,6 +57242,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T184904Z" creationid="Marc Riera" creationdate="20230105T184904Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a generar-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to go back to the Editor.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215150Z" creationid="Marc Riera" creationdate="20230209T215150Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per tornar a l'editor.</seg>
       </tuv>
     </tu>
     <tu>
