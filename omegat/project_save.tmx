@@ -9582,6 +9582,14 @@ inesperat però correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatically inserting the source text in the translation field by disabling the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T180126Z" creationid="Marc Riera" creationdate="20230209T180126Z">
+        <seg>Inserir automàticament el text d'origen en el camp de traducció inhabilitant la preferència &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatically open the last used OmegaT project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T214540Z" creationid="Marc Riera" creationdate="20230131T214540Z">
@@ -14658,6 +14666,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221148Z" creationid="Marc Riera" creationdate="20221208T221148Z">
         <seg>Defineix la traducció com a buida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Defining text that you want to leave out of the translation, enabled in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T180207Z" creationid="Marc Riera" creationdate="20230209T180207Z">
+        <seg>Definir el text que no voleu incloure en la traducció, que s'habilita amb la preferència &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24275,6 +24291,22 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;g0&gt;List View&lt;/g0&gt;, right click on the &lt;g1&gt;Action&lt;/g1&gt; widget at the right-end of the selected property line and select &lt;g2&gt;Notify Me When a Segment Has...&lt;/g2&gt; (where ... varies according to the desired notification).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T180100Z" creationid="Marc Riera" creationdate="20230209T180100Z">
+        <seg>En la &lt;g0&gt;visualització de llista&lt;/g0&gt;, feu clic dret en el giny &lt;g1&gt;Acció&lt;/g1&gt; de la dreta de la linia de la propietat seleccionada i seleccioneu &lt;g2&gt;Avisa'm quan un segment tingui...&lt;/g2&gt; («...» varia en funcio de la notificació desitjada).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;g0&gt;Table View&lt;/g0&gt;, right click on the item and select &lt;g1&gt;Notify Me When a Segment Has...&lt;/g1&gt; (where ... varies according to the desired notification).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T180103Z" creationid="Marc Riera" creationdate="20230209T175954Z">
+        <seg>En la &lt;g0&gt;visualització de taula&lt;/g0&gt;, feu clic dret en l'element i seleccioneu &lt;g1&gt;Avisa'm quan un segment tingui...&lt;/g1&gt; («...» varia en funcio de la notificació desitjada).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; comparison mode, they are evaluated segment by segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T122014Z" creationid="Marc Riera" creationdate="20220611T122005Z">
@@ -32235,6 +32267,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T123616Z" creationid="Marc Riera" creationdate="20221211T123606Z">
         <seg>L'OmegaT pot llegir memòries en format TMX vàlid generades per altres eines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT can store translations that are identical to the source text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T180214Z" creationid="Marc Riera" creationdate="20230209T180214Z">
+        <seg>L'OmegaT pot emmagatzemar traduccions que siguin idèntiques al text d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51644,6 +51684,14 @@ des del servidor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152106Z" creationid="Marc Riera" creationdate="20230130T152106Z">
         <seg>Pot ser &lt;e0&gt;http&lt;/e0&gt; (que inclou https), &lt;e1&gt;svn&lt;/e1&gt;, &lt;e2&gt;git&lt;/e2&gt; o &lt;e3&gt;fitxer&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be useful for documents that contain trademarks, names or other proper nouns, or sections in a third language that do not require translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T180240Z" creationid="Marc Riera" creationdate="20230209T180240Z">
+        <seg>Això pot ser útil per a fitxers que contenen marques registrades, noms o altres noms propis, o seccions en una tercera llengua que no cal traduir.</seg>
       </tuv>
     </tu>
     <tu>
