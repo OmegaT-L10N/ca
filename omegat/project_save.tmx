@@ -10604,6 +10604,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, the cursor is locked in the translation field, and the arrow keys cannot be used to move in the source text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230210T093241Z" creationid="Marc Riera" creationdate="20230210T093241Z">
+        <seg>Per defecte, el cursor està blocat en el camp de traducció i les tecles de direcció no es poden utilitzar per a desplaçar-se pel text d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the dictionary pane uses the same font size as the main window panes.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102346Z" creationid="Marc Riera" creationdate="20230104T102329Z">
@@ -10616,6 +10624,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084037Z" creationid="Marc Riera" creationdate="20221214T084037Z">
         <seg>Per defecte, la codificació del fitxer traduït és la mateixa que la del fitxer d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, typing text inserts the new text after the cursor in the typing direction.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230210T093108Z" creationid="Marc Riera" creationdate="20230210T093108Z">
+        <seg>Per defecte, en escriure text s'insereix el text nou després del cursor en la direcció d'escriptura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36694,6 +36710,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pressing &lt;k0&gt;F2&lt;/k0&gt; unlocks the cursor and makes it possible to use the arrow keys to move in the source text (or anywhere else in the editor).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230210T093310Z" creationid="Marc Riera" creationdate="20230210T093310Z">
+        <seg>En prémer &lt;k0&gt;F2&lt;/k0&gt; es desbloca el cursor i és possible utilitzar les tecles de direcció per a desplaçar-se pel text d'origen (o per qualsevol altre lloc de l'editor).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Prevent data loss</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210521T170157Z" creationid="Marc Riera" creationdate="20210521T170157Z">
@@ -48181,6 +48205,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The cursor status (locked - &lt;g0&gt;LCK&lt;/g0&gt; or unlocked - &lt;g1&gt;UNL&lt;/g1&gt;) is shown at the right of the &lt;l2&gt;status bar&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230210T093338Z" creationid="Marc Riera" creationdate="20230210T093338Z">
+        <seg>L'estat del cursor (blocat, &lt;g0&gt;BLOC&lt;/g0&gt;, o desblocat, &lt;g1&gt;DESBLOC&lt;/g1&gt;) es mostra en la part dreta de la &lt;l2&gt;barra d'estat&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The data is also saved as a text file in &lt;l0/&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T220211Z" creationid="Marc Riera" creationdate="20221207T220211Z">
@@ -50133,6 +50165,22 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The same key toggles between each mode.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230210T093215Z" creationid="Marc Riera" creationdate="20230210T093215Z">
+        <seg>La mateixa tecla permet canviar entre cada mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The same key toggles between locking and unlocking the cursor.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230210T093355Z" creationid="Marc Riera" creationdate="20230210T093355Z">
+        <seg>La mateixa tecla permet blocar i desblocar el cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The same mechanisms and dialogs are used to define global and local segmentation rules.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T115658Z" creationid="Marc Riera" creationdate="20221203T115658Z">
@@ -51293,6 +51341,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T151500Z" creationid="Marc Riera" creationdate="20180214T223335Z">
         <seg>El fitxer de glossari modificable ha d'estar dins de la carpeta de glossaris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The writing mode (overwrite - &lt;g0&gt;OVR&lt;/g0&gt; or insert - &lt;g1&gt;INS&lt;/g1&gt;) is shown at the right of the &lt;l2&gt;status bar&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230210T093204Z" creationid="Marc Riera" creationdate="20230210T093204Z">
+        <seg>El mode d'escriptura (sobreescriu, &lt;g0&gt;SBR&lt;/g0&gt;, o insereix, &lt;g1&gt;INS&lt;/g1&gt;) es mostra en la part dreta de la &lt;l2&gt;barra d'estat&lt;/l2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54486,6 +54542,14 @@ tots els paràmetres als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T190039Z" creationid="Marc Riera" creationdate="20230104T190031Z">
         <seg>Per a obtenir coincidències més literals més properes al 100 %, seleccioneu l'opció &lt;g0&gt;Text complet, incloent-hi etiquetes i xifres&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To overwrite the existing text, use the following keys:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230210T093115Z" creationid="Marc Riera" creationdate="20230210T093115Z">
+        <seg>Per a sobreescriure el text existent, utilitzeu les tecles següents:</seg>
       </tuv>
     </tu>
     <tu>
@@ -60526,6 +60590,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T123649Z" creationid="Marc Riera" creationdate="20221211T123649Z">
         <seg>També podeu demanar consell al grup d'usuaris si teniu problemes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also bring up the menu by right-clicking the mouse (&lt;k0&gt;C&lt;/k0&gt; + &lt;k1&gt;click&lt;/k1&gt; on macOS).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230210T093432Z" creationid="Marc Riera" creationdate="20230210T093432Z">
+        <seg>També podeu obrir el menú fent clic dret amb el ratolí (&lt;k0&gt;C&lt;/k0&gt;+&lt;k1&gt;clic&lt;/k1&gt; en el macOS).</seg>
       </tuv>
     </tu>
     <tu>
