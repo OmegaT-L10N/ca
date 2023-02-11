@@ -23878,6 +23878,14 @@ l'OmegaT és utilitzar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have selected text and defined entries in the &lt;l0/&gt; preferences, they will also be displayed in this menu (as will local searches).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T181032Z" creationid="Marc Riera" creationdate="20230211T181032Z">
+        <seg>Si heu seleccionat text i heu definit entrades en les preferències de &lt;l0/&gt;, també es mostraran en aquest menú (igual que les cerques locals).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have set local rules in the &lt;l0/&gt; dialog, modifications here will not be taken into account.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T103019Z" creationid="Marc Riera" creationdate="20230104T103019Z">
@@ -29469,6 +29477,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T154140Z" creationid="Marc Riera" creationdate="20230131T154140Z">
         <seg>Les coincidències es mostren en ordre d'aparició en el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches are taken from both the internal project translation memory created in real time as you translate the project, and external memories you have imported from previous projects or received from third parties.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T181215Z" creationid="Marc Riera" creationdate="20230211T181215Z">
+        <seg>Les coincidències provenen tant de la memòria de traducció del projecte interna creada en temps real mentre traduïu el projecte com de les memòries externes que heu importat de projectes anteriors o que heu rebut de tercers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35888,6 +35904,14 @@ s'esvaeix com la boira.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Percentage calculated with stemming based on the source language tokenizer, and ignoring tags and numbers (generally the highest).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T181326Z" creationid="Marc Riera" creationdate="20230211T181326Z">
+        <seg>Percentatge calculat amb lematització a partir del lematitzador de la llengua d'origen i ignorant les etiquetes i les xifres (generalment és el més alt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Percentage calculated with the &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T190443Z" creationid="Marc Riera" creationdate="20230104T190437Z">
@@ -35908,6 +35932,14 @@ s'esvaeix com la boira.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T190412Z" creationid="Marc Riera" creationdate="20230104T190412Z">
         <seg>Percentatge calculat amb l'opció &lt;g0&gt;Lematització, sense etiquetes ni xifres&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Percentage calculated without stemming, while still ignoring tags and numbers (generally slightly lower).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T181350Z" creationid="Marc Riera" creationdate="20230211T181350Z">
+        <seg>Percentatge calculat sense lematització, ignorant les etiquetes i les xifres (generalment és una mica més baix).</seg>
       </tuv>
     </tu>
     <tu>
@@ -60042,6 +60074,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112630Z" creationid="Marc Riera" creationdate="20180221T112630Z">
         <seg>Paraules</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Words missing from the segment you are translating are shown in blue, and adjacent words in green.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T181245Z" creationid="Marc Riera" creationdate="20230211T181245Z">
+        <seg>Les paraules que falten en el segment que traduïu es mostren de color blau, i les paraules adjacents apareixen en color verd.</seg>
       </tuv>
     </tu>
     <tu>
