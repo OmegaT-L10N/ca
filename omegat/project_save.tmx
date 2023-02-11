@@ -35904,6 +35904,14 @@ s'esvaeix com la boira.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Percentage calculated on the entire text, including tags and numbers (generally the lowest).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T181407Z" creationid="Marc Riera" creationdate="20230211T181407Z">
+        <seg>Percentatge calculat en tot el text, incloent-hi les etiquetes i les xifres (generalment és el més baix).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Percentage calculated with stemming based on the source language tokenizer, and ignoring tags and numbers (generally the highest).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230211T181326Z" creationid="Marc Riera" creationdate="20230211T181326Z">
@@ -46258,6 +46266,14 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200123T165147Z" creationid="Marc Riera" creationdate="20190520T122649Z">
         <seg>Errors de terminologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Terms found in the writable glossary are shown in bold, while those from other glossaries are presented as regular text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T181505Z" creationid="Marc Riera" creationdate="20230211T181505Z">
+        <seg>Els termes del glossari modificable es mostren en negreta, mentre que els d'altres glossaris es presenten en rodona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57644,6 +57660,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215029Z" creationid="Marc Riera" creationdate="20230209T215029Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a registrar una traducció alternativa si la traducció actual del segment no és adequada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to replace the translation field with the match, or &lt;l2/&gt;&lt;l3/&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T181426Z" creationid="Marc Riera" creationdate="20230211T181426Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a substituir el text del camp de traducció per la coincidència, o &lt;l2/&gt;&lt;l3/&gt; per a inserir-lo en la posició del cursor.</seg>
       </tuv>
     </tu>
     <tu>
