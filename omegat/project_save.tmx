@@ -19509,6 +19509,22 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Find words starting with a vowel that come after the article “a” rather than “an”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T201029Z" creationid="Marc Riera" creationdate="20230211T201029Z">
+        <seg>Cercar les paraules que comencen per vocal després de l'article «el» en comptes de «l'».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find words starting with consonant that come after “an” rather than “a”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T201114Z" creationid="Marc Riera" creationdate="20230211T201114Z">
+        <seg>Cercar les paraules que comencen per consonant després de l'article «l'» en comptes d'«el».</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Finished</seg>
@@ -19829,6 +19845,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T121301Z" creationid="Marc Riera" creationdate="20230206T121301Z">
         <seg>Per exemple, &lt;e0&gt;r&lt;/e0&gt; és només un caràcter normal però, si s'afegeix &lt;l1&gt;\&lt;/l1&gt; davant perquè sigui &lt;l2&gt;\r&lt;/l2&gt;, es converteix en una combinació especial que coincideix amb el &lt;e3&gt;caràcter de retorn de carro&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;l0&gt;(?&lt;!q)u&lt;/l0&gt; matches the letter “u” if it does &lt;e1&gt;not&lt;/e1&gt; come after “q”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T200858Z" creationid="Marc Riera" creationdate="20230211T200858Z">
+        <seg>Per exemple, &lt;l0&gt;(?&lt;!q)u&lt;/l0&gt; coincideix amb la lletra «u» si &lt;e1&gt;no&lt;/e1&gt; ve després de «q».</seg>
       </tuv>
     </tu>
     <tu>
@@ -26694,6 +26718,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230211T200647Z" creationid="Marc Riera" creationdate="20230211T200647Z">
         <seg>Per tant, coincideix amb la «u» de «què», però no amb la de «pruna».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It therefore matches the “u” in “run”, but &lt;e2&gt;not&lt;/e2&gt; the one in “quick”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T200737Z" creationid="Marc Riera" creationdate="20230211T200737Z">
+        <seg>Per tant, coincideix amb la «u» de «pruna», però &lt;e2&gt;no&lt;/e2&gt; amb la de «què».</seg>
       </tuv>
     </tu>
     <tu>
@@ -62721,6 +62753,22 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113651Z" creationid="Marc Riera" creationdate="20221129T113651Z">
         <seg>\h+$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\h+a\h+[aeiou]</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T200955Z" creationid="Marc Riera" creationdate="20230211T200955Z">
+        <seg>\h+el\h+[aeiou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\h+an\h+[^aeiou]</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T201051Z" creationid="Marc Riera" creationdate="20230211T201039Z">
+        <seg>\h+l'\h+[^aeiou]</seg>
       </tuv>
     </tu>
     <tu>
