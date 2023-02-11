@@ -6208,6 +6208,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A character that is &lt;e0&gt;not&lt;/e0&gt; preceded by the letter “q”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T200703Z" creationid="Marc Riera" creationdate="20230211T200703Z">
+        <seg>Un caràcter &lt;e0&gt;no&lt;/e0&gt; precedit per la lletra «q».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A comment line starts with a &lt;c0&gt;#&lt;/c0&gt;, and everything after that is ignored by the application.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120917Z" creationid="Marc Riera" creationdate="20221218T120917Z">
@@ -19825,6 +19833,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l0&gt;(?&lt;=q)u&lt;/l0&gt; matches the letter “u” if it comes after “q”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T200618Z" creationid="Marc Riera" creationdate="20230211T200618Z">
+        <seg>Per exemple, &lt;l0&gt;(?&lt;=q)u&lt;/l0&gt; coincideix amb la lletra «u» si ve després de «q».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;l0&gt;\d&lt;/l0&gt; is a shorthand for &lt;l1&gt;[0-9]&lt;/l1&gt;, which matches any digit between 0 and 9.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094205Z" creationid="Marc Riera" creationdate="20230207T094205Z">
@@ -26670,6 +26686,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230211T200053Z" creationid="Marc Riera" creationdate="20230211T200053Z">
         <seg>Per tant, coincideix amb la «q» de «qaf» o «Iraq», però &lt;e2&gt;no&lt;/e2&gt; la de «quinoa» o «aquàtic».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It therefore matches the “u” in “quick”, but not the one in “run”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T200647Z" creationid="Marc Riera" creationdate="20230211T200647Z">
+        <seg>Per tant, coincideix amb la «u» de «què», però no amb la de «pruna».</seg>
       </tuv>
     </tu>
     <tu>
