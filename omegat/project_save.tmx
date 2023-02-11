@@ -6200,6 +6200,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A character that is &lt;e0&gt;not&lt;/e0&gt; followed by the letter “u”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T195738Z" creationid="Marc Riera" creationdate="20230211T195738Z">
+        <seg>Un caràcter &lt;e0&gt;no&lt;/e0&gt; seguit per la lletra «u».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A comment line starts with a &lt;c0&gt;#&lt;/c0&gt;, and everything after that is ignored by the application.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120917Z" creationid="Marc Riera" creationdate="20221218T120917Z">
@@ -19825,6 +19833,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l0&gt;q(?=u)&lt;/l0&gt; matches the letter “q” when it is followed by a “u”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T195440Z" creationid="Marc Riera" creationdate="20230211T195440Z">
+        <seg>Per exemple, &lt;l0&gt;q(?=u)&lt;/l0&gt; coincideix amb la lletra «q» quan va seguida d'una «u».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;l1&gt;user.language=ja&lt;/l1&gt; (without the &lt;l2&gt;#&lt;/l2&gt;) will launch OmegaT with the user interface in Japanese.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T123826Z" creationid="Marc Riera" creationdate="20230130T123826Z">
@@ -26633,6 +26649,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>It therefore matches the “q” in “equal” or “question”, but &lt;e1&gt;not&lt;/e1&gt; the one in “qigong” or “Iraq”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T195724Z" creationid="Marc Riera" creationdate="20230211T195724Z">
+        <seg>Per tant, coincideix amb la «q» de «quinoa» o «aquàtic», però &lt;e1&gt;no&lt;/e1&gt; la de «qaf» o «Iraq».</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>It was not possible to create the script folder
@@ -30338,6 +30362,14 @@ durant la primera execució.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113537Z" creationid="Marc Riera" creationdate="20221129T113537Z">
         <seg>Expressions més avançades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More egregious misspellings such as “licensse” or “lissense”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T195330Z" creationid="Marc Riera" creationdate="20230211T195249Z">
+        <seg>Formes incorrectes més estranyes com ara «licensse» o «lissense».</seg>
       </tuv>
     </tu>
     <tu>
@@ -48235,8 +48267,8 @@ en el seu lloc.</seg>
       <tuv lang="en">
         <seg>The correct “licence” and “license” spellings, as well as the potential “lisence” and “lisense” misspellings</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T195229Z" creationid="Marc Riera" creationdate="20230211T195229Z">
-        <seg>Les paraules correctes «licence» i «license» i les formes incorrectes possibles «lisence» i «lisense»</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230211T195333Z" creationid="Marc Riera" creationdate="20230211T195229Z">
+        <seg>Les paraules correctes «licence» i «license» i les formes incorrectes possibles «lisence» i «lisense».</seg>
       </tuv>
     </tu>
     <tu>
