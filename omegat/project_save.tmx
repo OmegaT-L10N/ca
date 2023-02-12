@@ -8802,6 +8802,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An online regular expression matcher that lets you enter the text you want to search and the regular expressions you want to test.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230212T225249Z" creationid="Marc Riera" creationdate="20230212T225249Z">
+        <seg>Eina de coincidència d'expressions regulars que us permet indicar el text que voleu cercar i les expressions regulars que voleu provar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An uppercase letter (&lt;u0&gt;Unicode category&lt;/u0&gt;)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230207T095320Z" creationid="Marc Riera" creationdate="20230207T095320Z">
@@ -19522,6 +19530,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230211T201114Z" creationid="Marc Riera" creationdate="20230211T201114Z">
         <seg>Cercar les paraules que comencen per consonant després de l'article «l'» en comptes d'«el».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find “is” as a whole word in a sentence, without matching “this”, “isn’t”, or even “Is”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230212T225354Z" creationid="Marc Riera" creationdate="20230212T225354Z">
+        <seg>Cercar «és» com a paraula completa en una frase, sense que coincideixi amb «només», «procés» o, fins i tot, «És».</seg>
       </tuv>
     </tu>
     <tu>
@@ -53941,6 +53957,14 @@ des del servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>This simple expression may not cover every possible valid email address format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230212T225206Z" creationid="Marc Riera" creationdate="20230212T225145Z">
+        <seg>Pot ser que aquesta expressió senzilla no cobreixi tots els formats d'adreça electrònica vàlids possibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This site is also available in English!</seg>
@@ -58631,6 +58655,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Useful to find possible missing spaces between the period and the start of a new sentence</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230212T225135Z" creationid="Marc Riera" creationdate="20230212T225135Z">
+        <seg>És útil per a cercar possibles espais que falten entre el punt i l'inici d'una frase nova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User Defined Scripts</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175933Z" creationid="Marc Riera" creationdate="20221218T175933Z">
@@ -62685,6 +62717,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T150000Z" creationid="Marc Riera" creationdate="20190924T150000Z">
         <seg>\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\bis\b</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230212T225301Z" creationid="Marc Riera" creationdate="20230212T225301Z">
+        <seg>\bés\b</seg>
       </tuv>
     </tu>
     <tu>
