@@ -10088,8 +10088,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Blank source segments sometimes act as placeholders for parts that do not exist in the source language but are necessary in the target language.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221215T203015Z" creationid="Marc Riera" creationdate="20221215T203015Z">
-        <seg>Els segments d'origen buits de vegades actuen com a marcadors de posició de parts que no existeixen en la llengua d'origen però que són necessàries en la llengua de destinació.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230213T095433Z" creationid="Marc Riera" creationdate="20221215T203015Z">
+        <seg>Els segments d'origen buits de vegades actuen com a marcadors de posició de parts que no existeixen en la llengua d'origen, però que són necessàries en la llengua de destinació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12106,8 +12106,8 @@ Demana una altra copa!</seg>
       <tuv lang="en">
         <seg>Click on the figures to alternate between displaying progress as numbers or percentages.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T181849Z" creationid="Marc Riera" creationdate="20230209T181849Z">
-        <seg>Feu clic en les figures per canviar entre la visualització del progrés en xifres o percentages.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230213T095202Z" creationid="Marc Riera" creationdate="20230209T181849Z">
+        <seg>Feu clic en les figures per a canviar entre la visualització del progrés en xifres o percentatges.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19859,8 +19859,8 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       <tuv lang="en">
         <seg>For example, &lt;e0&gt;r&lt;/e0&gt; is just a normal character but preceding it with &lt;l1&gt;\&lt;/l1&gt; to make it &lt;l2&gt;\r&lt;/l2&gt; turns it into a special combination that matches a &lt;e3&gt;carriage return character&lt;/e3&gt;.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230206T121301Z" creationid="Marc Riera" creationdate="20230206T121301Z">
-        <seg>Per exemple, &lt;e0&gt;r&lt;/e0&gt; és només un caràcter normal però, si s'afegeix &lt;l1&gt;\&lt;/l1&gt; davant perquè sigui &lt;l2&gt;\r&lt;/l2&gt;, es converteix en una combinació especial que coincideix amb el &lt;e3&gt;caràcter de retorn de carro&lt;/e3&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230213T095409Z" creationid="Marc Riera" creationdate="20230206T121301Z">
+        <seg>Per exemple, &lt;e0&gt;r&lt;/e0&gt; és només un caràcter normal, però si s'afegeix &lt;l1&gt;\&lt;/l1&gt; davant perquè sigui &lt;l2&gt;\r&lt;/l2&gt;, es converteix en una combinació especial que coincideix amb el &lt;e3&gt;caràcter de retorn de carro&lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29934,8 +29934,8 @@ durant la primera execució.</seg>
       <tuv lang="en">
         <seg>Methods vary from one system to another, but in general, once OmegaT is installed, you can launch it directly from the command line.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T124151Z" creationid="Marc Riera" creationdate="20230130T124151Z">
-        <seg>Els mètodes varien d'un sistema a un altre però, en general, una vegada instal·lat l'OmegaT, es pot iniciar directament des de la línia d'ordres.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230213T095448Z" creationid="Marc Riera" creationdate="20230130T124151Z">
+        <seg>Els mètodes varien d'un sistema a un altre, però, en general, una vegada instal·lat l'OmegaT, es pot iniciar directament des de la línia d'ordres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31360,8 +31360,8 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       <tuv lang="en">
         <seg>No .DOCX files to clean.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201003T224642Z" creationid="Marc Riera" creationdate="20201003T224642Z">
-        <seg>No hi ha cap fitxer .DOCX per netejar.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230213T095235Z" creationid="Marc Riera" creationdate="20201003T224642Z">
+        <seg>No hi ha cap fitxer .DOCX per a netejar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43820,8 +43820,8 @@ L'àmbit de cerca per defecte és el projecte i es pot configurar per tal de can
       <tuv lang="en">
         <seg>Since synchronization takes place by default every three minutes, project members will sometime translate or modify a segment that has already been translated by another member but not synchronized yet.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124336Z" creationid="Marc Riera" creationdate="20221225T124336Z">
-        <seg>Com que, per defecte, el projecte se sincronitza cada 3 minuts, de vegades els membres del projecte traduiran o modificaran un segment traduït per un altre membre però que encara no s'havia sincronitzat.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230213T095454Z" creationid="Marc Riera" creationdate="20221225T124336Z">
+        <seg>Com que, per defecte, el projecte se sincronitza cada 3 minuts, de vegades els membres del projecte traduiran o modificaran un segment traduït per un altre membre, però que encara no s'havia sincronitzat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54268,8 +54268,8 @@ tots els paràmetres als valors per defecte.</seg>
       <tuv lang="en">
         <seg>To access the files inside the &lt;f0&gt;OmegaT.app&lt;/f0&gt;, package right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select “Show Package Contents”.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230131T152124Z" creationid="Marc Riera" creationdate="20230131T152124Z">
-        <seg>Per accedir als fitxers de l'interior del paquet &lt;f0&gt;OmegaT.app&lt;/f0&gt;, feu clic amb el botó dret en &lt;f1&gt;OmegaT.app&lt;/f1&gt; i seleccioneu "Mostra el contingut del paquet".</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230213T095305Z" creationid="Marc Riera" creationdate="20230131T152124Z">
+        <seg>Per a accedir als fitxers de l'interior del paquet &lt;f0&gt;OmegaT.app&lt;/f0&gt;, feu clic amb el botó dret en &lt;f1&gt;OmegaT.app&lt;/f1&gt; i seleccioneu "Mostra el contingut del paquet".</seg>
       </tuv>
     </tu>
     <tu>
@@ -57482,8 +57482,8 @@ El valor actual és de {0} MB.</seg>
       <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access the project folder and its subfolders.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152435Z" creationid="Marc Riera" creationdate="20230201T152435Z">
-        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per accedir a la carpeta del projecte i les seves subcarpetes.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230213T095248Z" creationid="Marc Riera" creationdate="20230201T152435Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a accedir a la carpeta del projecte i a les subcarpetes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57690,8 +57690,8 @@ El valor actual és de {0} MB.</seg>
       <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to go back to the Editor.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215150Z" creationid="Marc Riera" creationdate="20230209T215150Z">
-        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per tornar a l'editor.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230213T095322Z" creationid="Marc Riera" creationdate="20230209T215150Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a tornar a l'editor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68292,8 +68292,8 @@ for (i in 0 ..&lt; files.size())
       <tuv lang="en">
         <seg>to insert the source content in the target segment, words with a glossary entry will automatically be replaced by their translation.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T101223Z" creationid="Marc Riera" creationdate="20230104T101223Z">
-        <seg>per inserir el text d'origen en el segment de destinació, les paraules amb una entrada en el glossari se substituiran automàticament per la traducció corresponent.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230213T095333Z" creationid="Marc Riera" creationdate="20230104T101223Z">
+        <seg>per a inserir el text d'origen en el segment de destinació, les paraules amb una entrada en el glossari se substituiran automàticament per la traducció corresponent.</seg>
       </tuv>
     </tu>
     <tu>
