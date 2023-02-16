@@ -16829,6 +16829,14 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Hide &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230216T080419Z" creationid="Marc Riera" creationdate="20230216T080419Z">
+        <seg>Amaga &amp;les etiquetes inicials i finals</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Hide '{0}'</seg>
@@ -16844,6 +16852,14 @@ l'hivern ja és aquí.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T113432Z" creationid="Marc Riera" creationdate="20180221T113432Z">
         <seg>Amaga les &amp;opcions avançades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide Tags</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230216T080451Z" creationid="Marc Riera" creationdate="20230216T080451Z">
+        <seg>Amaga les etiquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -29868,6 +29884,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220219Z" creationid="Marc Riera" creationdate="20180221T114911Z">
         <seg>Suprimeix &amp;les etiquetes inicials i finals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove HTML comments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230216T080445Z" creationid="Marc Riera" creationdate="20230216T080445Z">
+        <seg>Suprimeix els comentaris HTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -45083,8 +45107,8 @@ El valor actual és de {0} MB.</seg>
       <tuv lang="en">
         <seg>Use the &lt;g0&gt;Hide Advanced Options&lt;/g0&gt; button to stop showing the advanced options.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T131959Z" creationid="Marc Riera" creationdate="20230201T131959Z">
-        <seg>Utilitzeu el botó &lt;g0&gt;Oculta les opcions avançades&lt;/g0&gt; per a deixar de mostrar les opcions avançades.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230216T080435Z" creationid="Marc Riera" creationdate="20230201T131959Z">
+        <seg>Utilitzeu el botó &lt;g0&gt;Amaga les opcions avançades&lt;/g0&gt; per a deixar de mostrar les opcions avançades.</seg>
       </tuv>
     </tu>
     <tu>
