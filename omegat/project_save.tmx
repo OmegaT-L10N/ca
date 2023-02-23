@@ -9821,6 +9821,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments in an HTML file are generally addressed to developers.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230223T081210Z" creationid="Marc Riera" creationdate="20230223T081210Z">
+        <seg>Els comentaris d'un fitxer HTML generalment s'adrecen als desenvolupadors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comments within an HTML file are generally addressed to developers.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T181417Z" creationid="Marc Riera" creationdate="20221215T181417Z">
@@ -11231,6 +11239,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T203910Z" creationid="Marc Riera" creationdate="20230101T203910Z">
         <seg>Espai d'escriptura de l'editor per defecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default layout</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230223T081407Z" creationid="Marc Riera" creationdate="20230223T081407Z">
+        <seg>Disposició per defecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -16144,6 +16160,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Glossaries pane</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230223T081537Z" creationid="Marc Riera" creationdate="20230223T081537Z">
+        <seg>Subfinestra «Glossaris»</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Glossary</seg>
@@ -16860,6 +16884,22 @@ l'hivern ja és aquí.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230216T080451Z" creationid="Marc Riera" creationdate="20230216T080451Z">
         <seg>Amaga les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230223T081132Z" creationid="Marc Riera" creationdate="20230223T081132Z">
+        <seg>Amaga les etiquetes inicials i finals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hiding them from the translatable contents ensures that you will not erase or modify them by mistake.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230223T081139Z" creationid="Marc Riera" creationdate="20230223T081139Z">
+        <seg>Si les amagueu del contingut traduïble, us assegureu que no les esborrareu ni modificareu per error.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18553,6 +18593,14 @@ extensions dels fitxers.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T082420Z" creationid="Marc Riera" creationdate="20221214T082420Z">
         <seg>Si conserveu les etiquetes inicials i finals, assegureu-vos que també siguin inicials i finals en la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you keep the leading and trailing tags, make sure you also include them in the translated text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230223T081204Z" creationid="Marc Riera" creationdate="20230223T081204Z">
+        <seg>Si conserveu les etiquetes inicials i finals, assegureu-vos d'incloure-les també en el text traduït.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20344,6 +20392,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T222040Z" creationid="Marc Riera" creationdate="20230131T222040Z">
         <seg>És un llenguatge multiparadigma, compatible amb els estils de programació orientada a objectes, imperativa i funcional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is also possible to install plugins in the application &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230223T081126Z" creationid="Marc Riera" creationdate="20230223T081126Z">
+        <seg>També és possible instal·lar connectors en la carpeta &lt;l0/&gt; de l'aplicació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23007,6 +23063,14 @@ en la carpeta de configuració.</seg>
         <seg>Matches for that memory will eventually appear in the &lt;g0&gt;Fuzzy Match&lt;/g0&gt; pane.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183015Z" creationid="Marc Riera" creationdate="20230130T183015Z">
+        <seg>Les coincidències d'aquesta memòria apareixeran en algun moment en la subfinestra &lt;g0&gt;Coincidències parcials&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches for that memory will eventually appear in the &lt;g0&gt;Fuzzy Matches&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230223T081315Z" creationid="Marc Riera" creationdate="20230223T081315Z">
         <seg>Les coincidències d'aquesta memòria apareixeran en algun moment en la subfinestra &lt;g0&gt;Coincidències parcials&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
@@ -38144,6 +38208,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The first time you start OmegaT, the main window displays the following default layout:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230223T081428Z" creationid="Marc Riera" creationdate="20230223T081428Z">
+        <seg>La primera vegada que inicieu l'OmegaT, la finestra principal mostra la disposició per defecte següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The flip side of the preceding example.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230208T133232Z" creationid="Marc Riera" creationdate="20230208T133232Z">
@@ -38993,6 +39065,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T133333Z" creationid="Marc Riera" creationdate="20190924T133333Z">
         <seg>La filosofia del projecte es descriu &lt;a0&gt;aquí&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The prefered location for plugin manual installs is the &lt;l0/&gt; folder located in the &lt;l1&gt;configuration&lt;/l1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230223T081050Z" creationid="Marc Riera" creationdate="20230223T081050Z">
+        <seg>La ubicació preferida per a instal·lar-hi connectors manualment és la carpeta &lt;l0/&gt;, en la carpeta de &lt;l1&gt;configuració&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41295,6 +41375,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160124Z" creationid="Marc Riera" creationdate="20221201T160124Z">
         <seg>Aquesta carpeta proporciona una ubicació alternativa per als connectors d'extensió de l'OmegaT instal·lats manualment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder provides the standard location for manually installed OmegaT extension plugins.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230223T081059Z" creationid="Marc Riera" creationdate="20230223T081059Z">
+        <seg>Aquesta carpeta proporciona una ubicació estàndard per als connectors d'extensió de l'OmegaT instal·lats manualment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44434,6 +44522,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; if you run into problems while rearranging the window layout.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230223T081439Z" creationid="Marc Riera" creationdate="20230223T081439Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; si teniu problemes en reordenar la disposició de la finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; or &lt;l2/&gt;&lt;l3/&gt; to create the target files and trigger the command.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110323Z" creationid="Marc Riera" creationdate="20230130T110323Z">
@@ -45446,6 +45542,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T181519Z" creationid="Marc Riera" creationdate="20221215T181519Z">
         <seg>Utilitzeu aquesta opció per a proporcionar una traducció basada en els comentaris associats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this option to remove them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230223T081221Z" creationid="Marc Riera" creationdate="20230223T081221Z">
+        <seg>Utilitzeu aquesta opció per a suprimir-los.</seg>
       </tuv>
     </tu>
     <tu>
