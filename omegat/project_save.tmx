@@ -6527,9 +6527,25 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT project is a complex set of files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T100031Z" creationid="Marc Riera" creationdate="20230226T100031Z">
+        <seg>Un projecte de l'OmegaT és un conjunt complex de fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An OmegaT project is simply a set of folders and folders that holds all your default resources.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T215921Z" creationid="Marc Riera" creationdate="20221211T215921Z">
+        <seg>Un projecte de l'OmegaT és senzillament un conjunt de carpetes que contenen tots els recursos per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An OmegaT project is simply a set of folders that holds all your default resources.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T100329Z" creationid="Marc Riera" creationdate="20230226T100329Z">
         <seg>Un projecte de l'OmegaT és senzillament un conjunt de carpetes que contenen tots els recursos per defecte.</seg>
       </tuv>
     </tu>
@@ -19377,6 +19393,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In that dialog, select or enter the languages of your source and translated files, set the various options, and click on &lt;g0&gt;OK&lt;/g0&gt; to continue.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T100341Z" creationid="Marc Riera" creationdate="20230226T100341Z">
+        <seg>En aquest quadre de diàleg, seleccioneu o indiqueu les llengües dels fitxers d'origen i de destinació, definiu les diferents opcions i feu clic en el botó &lt;g0&gt;D'acord&lt;/g0&gt; per a continuar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In that dialog, select the languages of your source and translated files, set the various options, and click on &lt;g0&gt;OK&lt;/g0&gt; to continue.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221226T232608Z" creationid="Marc Riera" creationdate="20221226T232608Z">
@@ -22629,6 +22653,14 @@ en la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure that you have properly tested your project layout and set up a separate data backup before sharing data in such a system.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T100304Z" creationid="Marc Riera" creationdate="20230226T100304Z">
+        <seg>Assegureu-vos de provar a fons l'estructura del projecte i prepareu una còpia de seguretat de les dades a banda abans de compartir dades en un d'aquests sistemes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure the service is enabled and your credentials are entered correctly.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230209T214853Z" creationid="Marc Riera" creationdate="20230209T214853Z">
@@ -23364,6 +23396,22 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230126T192313Z" creationid="Marc Riera" creationdate="20230126T192313Z">
         <seg>Els elements dels menús que no indiquen una drecera no en tenen cap d'assignada per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu items with a default shortcut</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T100316Z" creationid="Marc Riera" creationdate="20230226T100316Z">
+        <seg>Elements del menú amb una drecera per defecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu items with no default shortcut</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T100323Z" creationid="Marc Riera" creationdate="20230226T100323Z">
+        <seg>Elements del menú sense cap drecera per defecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -35451,6 +35499,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230226T095032Z" creationid="Marc Riera" creationdate="20230226T095032Z">
         <seg>Aquests sistemes no estan preparats per a seguir les modificacions internes dels fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such systems will not always be able to provide you with the most recent version of your data, may even lock some files for no obvious reasons and can even corrupt team project related files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T100223Z" creationid="Marc Riera" creationdate="20230226T100223Z">
+        <seg>Aquests sistemes no sempre podran proporcionar-vos la versió més recent de les dades, poden blocar alguns fitxers sense raons aparents i, fins i tot, poden malmetre fitxers relacionats amb els projectes en equip.</seg>
       </tuv>
     </tu>
     <tu>
