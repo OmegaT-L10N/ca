@@ -7614,6 +7614,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Be cautious when you put a whole project in a file-sharing system like DropBox, OneCloud and the likes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T093640Z" creationid="Marc Riera" creationdate="20230226T093640Z">
+        <seg>Aneu amb compte quan copieu un projecte sencer en un sistema d'ús compartit de fitxers com Dropbox, OneCloud i similars.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Beautify</seg>
@@ -18861,6 +18869,14 @@ extensions dels fitxers.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If you use multiple projects on the same server, credentials will only be asked once for that server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T093418Z" creationid="Marc Riera" creationdate="20230226T093418Z">
+        <seg>Si utilitzeu diversos projectes en el mateix servidor, només es demanaran les credencials del servidor una vegada.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
@@ -22601,6 +22617,14 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T223946Z" creationid="Marc Riera" creationdate="20221211T221004Z">
         <seg>Millora de l'aspecte del programa perquè sigui atractiu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure that the files are identical.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T093138Z" creationid="Marc Riera" creationdate="20230226T093138Z">
+        <seg>Assegureu-vos que els fitxers siguin idèntics.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30324,6 +30348,22 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rename the &lt;f0&gt;omegat.project.bak&lt;/f0&gt; file to &lt;f1&gt;omegat.project&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T093221Z" creationid="Marc Riera" creationdate="20230226T093221Z">
+        <seg>Canvieu el nom del fitxer &lt;f0&gt;omegat.project.bak&lt;/f0&gt; a &lt;f1&gt;omegat.project&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rename the &lt;f0&gt;omegat.project&lt;/f0&gt; file (to &lt;f1&gt;omegat.project.locked&lt;/f1&gt; for example).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T093201Z" creationid="Marc Riera" creationdate="20230226T093201Z">
+        <seg>Canvieu el nom del fitxer &lt;f0&gt;omegat.project&lt;/f0&gt; (a &lt;f1&gt;omegat.project.locked&lt;/f1&gt;, per exemple).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rename the current &lt;f0&gt;project_save.tmx&lt;/f0&gt; file (to &lt;f1&gt;project_save.tmx.tmp&lt;/f1&gt;, for example).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120339Z" creationid="Marc Riera" creationdate="20221225T120339Z">
@@ -37365,6 +37405,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Search function allows them to filter the Editor pane on contents translated by a given person, or on contents translated after or before a given time, for example.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T093435Z" creationid="Marc Riera" creationdate="20230226T093435Z">
+        <seg>La funció de cerca els permet filtrar la subfinestra «Editor» segons el contingut traduït per una persona determinada o segons el contingut traduït després o abans d'un moment determinat, per exemple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Search function allows them to filter the editor pane on contents translated by a given person, or on contents translated after or before a given time, for example.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124356Z" creationid="Marc Riera" creationdate="20221225T124356Z">
@@ -40891,6 +40939,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T122020Z" creationid="Marc Riera" creationdate="20221225T122020Z">
         <seg>Aquesta acció corregirà qualsevol error intern de coherència de les etiquetes per no inserir correctament les etiquetes en la traducció amb l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This action will open the project with the automatically created backup &lt;f0&gt;omegat.project&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T093249Z" creationid="Marc Riera" creationdate="20230226T093249Z">
+        <seg>Aquesta acció obrirà el projecte amb el fitxer de còpia de seguretat &lt;f0&gt;omegat.project&lt;/f0&gt; creat automàticament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45178,6 +45234,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Use a team project</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T093427Z" creationid="Marc Riera" creationdate="20230226T093427Z">
+        <seg>Ús d'un projecte en equip</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Use all mine</seg>
@@ -45965,6 +46029,14 @@ El valor actual és de {0} MB.</seg>
         <seg>Using the command line allows you to set various options that control or modify the behavior of the application.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T124317Z" creationid="Marc Riera" creationdate="20230130T124317Z">
+        <seg>L'ús de la línia d'ordres permet establir diverses opcions que controlen o modifiquen el comportament de l'aplicació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using the command line allows you to set various options that control or modify the behaviour of the application.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T093258Z" creationid="Marc Riera" creationdate="20230226T093258Z">
         <seg>L'ús de la línia d'ordres permet establir diverses opcions que controlen o modifiquen el comportament de l'aplicació.</seg>
       </tuv>
     </tu>
@@ -47924,6 +47996,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
         <seg>You can modify the behavior of OmegaT.app by editing the &lt;f0&gt;Configuration.properties&lt;/f0&gt; (OmegaT configuration) as well as the &lt;f1&gt;Info.plist&lt;/f1&gt; (Java configuration) files located inside the OmegaT.app package.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T152040Z" creationid="Marc Riera" creationdate="20230131T152040Z">
+        <seg>Podeu modificar el comportament del programa OmegaT.app editant els fitxers &lt;f0&gt;Configuration.properties&lt;/f0&gt; (configuració de l'OmegaT) i &lt;f1&gt;Info.plist&lt;/f1&gt; (configuració del Java) de l'interior del paquet OmegaT.app.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can modify the behaviour of OmegaT.app by editing the &lt;f0&gt;Configuration.properties&lt;/f0&gt; (OmegaT configuration) as well as the &lt;f1&gt;Info.plist&lt;/f1&gt; (Java configuration) files located inside the OmegaT.app package.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T093255Z" creationid="Marc Riera" creationdate="20230226T093255Z">
         <seg>Podeu modificar el comportament del programa OmegaT.app editant els fitxers &lt;f0&gt;Configuration.properties&lt;/f0&gt; (configuració de l'OmegaT) i &lt;f1&gt;Info.plist&lt;/f1&gt; (configuració del Java) de l'interior del paquet OmegaT.app.</seg>
       </tuv>
     </tu>
