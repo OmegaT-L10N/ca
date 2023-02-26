@@ -28496,6 +28496,30 @@ s'esvaeix com la boira.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Percentage calculated &lt;e0&gt;with stemming&lt;/e0&gt; based on the source language tokenizer, and &lt;e1&gt;ignoring tags and numbers&lt;/e1&gt; (generally the highest).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T103032Z" creationid="Marc Riera" creationdate="20230226T103032Z">
+        <seg>Percentatge calculat &lt;e0&gt;amb lematització&lt;/e0&gt; a partir del lematitzador de la llengua d'origen i &lt;e1&gt;ignorant les etiquetes i les xifres&lt;/e1&gt; (generalment és el més alt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Percentage calculated &lt;e0&gt;without stemming&lt;/e0&gt;, while still &lt;e1&gt;ignoring tags and numbers&lt;/e1&gt; (generally slightly lower).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T103044Z" creationid="Marc Riera" creationdate="20230226T103044Z">
+        <seg>Percentatge calculat &lt;e0&gt;sense lematització&lt;/e0&gt;, &lt;e1&gt;ignorant les etiquetes i les xifres&lt;/e1&gt; (generalment és una mica més baix).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Percentage calculated on &lt;e0&gt;the entire text, including tags and numbers&lt;/e0&gt; (generally the lowest).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T103055Z" creationid="Marc Riera" creationdate="20230226T103055Z">
+        <seg>Percentatge calculat en &lt;e0&gt;tot el text, incloent-hi les etiquetes i les xifres&lt;/e0&gt; (generalment és el més baix).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Percentage calculated on the entire text, including tags and numbers (generally the lowest).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230211T181407Z" creationid="Marc Riera" creationdate="20230211T181407Z">
@@ -37971,6 +37995,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The background colour is restored to normal when you leave the segment or when you modify the segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T103114Z" creationid="Marc Riera" creationdate="20230226T103114Z">
+        <seg>El color de fons es reinicialitza al normal quan sortiu del segment o quan el modifiqueu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The backup filename follows the pattern &lt;f0&gt;project_save.tmx.YYYYMMDDhhmm.bak&lt;/f0&gt; where &lt;c1&gt;YYYY&lt;/c1&gt; represents the 4-digit year, &lt;c2&gt;MM&lt;/c2&gt; the month, &lt;c3&gt;DD&lt;/c3&gt; the day of the month, and &lt;c4&gt;hh&lt;/c4&gt; and &lt;c5&gt;mm&lt;/c5&gt; indicate the hours and minutes.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T192746Z" creationid="Marc Riera" creationdate="20221210T192746Z">
@@ -46820,6 +46852,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When a match is inserted from a TMX contained in this folder, the background colour of the active segment changes to red.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T103112Z" creationid="Marc Riera" creationdate="20230226T103112Z">
+        <seg>Quan s'insereix una coincidència d'un fitxer TMX d'aquesta carpeta, el color de fons del segment actiu canvia a vermell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When a new project is created, OmegaT proposes a default project folder structure that contains all the resources used in the translation, but that structure is not compulsory.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110501Z" creationid="Marc Riera" creationdate="20230130T110501Z">
@@ -47386,6 +47426,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112630Z" creationid="Marc Riera" creationdate="20180221T112630Z">
         <seg>Paraules</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Words missing from the segment you are translating are shown in &lt;e1&gt;blue&lt;/e1&gt;, and adjacent parts in &lt;e2&gt;green&lt;/e2&gt; (when the adjacent part is a space, as above, the part is left uncolored).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T103018Z" creationid="Marc Riera" creationdate="20230226T103018Z">
+        <seg>Les paraules que falten en el segment que traduïu es mostren de color &lt;e1&gt;blau&lt;/e1&gt;, i les parts adjacents apareixen en color &lt;e2&gt;verd&lt;/e2&gt; (quan la part adjacent és un espai, com en el cas anterior, no es mostra cap color).</seg>
       </tuv>
     </tu>
     <tu>
