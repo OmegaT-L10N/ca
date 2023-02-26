@@ -16137,6 +16137,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries can be “tab-separated values” (TSV) or “comma-separated values” (CSV) files or can also use the TermBase eXchange (TBX 2) format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092237Z" creationid="Marc Riera" creationdate="20230226T092237Z">
+        <seg>Els glossaris poden ser fitxers de «valors separats per tabulacions» (TSV) o «valors separats per comes» (CSV), o bé poden utilitzar el format TermBase eXchange (TBX 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries can be “tab-separated values” (TSV) or “comma-separated values” (CSV) files or can also use the TermBase eXchange (TBX) format.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T161241Z" creationid="Marc Riera" creationdate="20221206T095859Z">
@@ -16743,6 +16751,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
         <seg>Having untranslated contents in the translated files sometimes create compatibility issues.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T181505Z" creationid="Marc Riera" creationdate="20221215T181505Z">
+        <seg>Deixar contingut sense traduir en els fitxers traduïts de vegades crea problemes de compatibilitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Having untranslated contents in the translated files sometimes creates compatibility issues.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092220Z" creationid="Marc Riera" creationdate="20230226T092220Z">
         <seg>Deixar contingut sense traduir en els fitxers traduïts de vegades crea problemes de compatibilitat.</seg>
       </tuv>
     </tu>
@@ -18250,6 +18266,14 @@ als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150605Z" creationid="Marc Riera" creationdate="20230131T150605Z">
         <seg>Si se seleccionen dos o més segments que ocupen cel·les independents de la mateixa fila (segments de diverses cel·les sense una casella de selecció &lt;g0&gt;Conserva&lt;/g0&gt;), aquesta ordre tornarà a dividir les cel·les seleccionades en files independents (amb una casella de selecció &lt;g1&gt;Conserva&lt;/g1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If unchecked, the comments are displayed as tags.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092155Z" creationid="Marc Riera" creationdate="20230226T092155Z">
+        <seg>Si no la marqueu, els comentaris es mostren com a etiquetes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22517,6 +22541,14 @@ en la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure you enter the correct language codes and that all other locations requiring such a code match the one you assign here exactly.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092607Z" creationid="Marc Riera" creationdate="20230226T092607Z">
+        <seg>Assegureu-vos que indiqueu els codis de llengua correctes i que els codis que indiqueu en qualsevol altre lloc coincideixin exactament amb els que indiqueu aquí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure you have the proper credentials before using this function.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T093019Z" creationid="Marc Riera" creationdate="20230104T093019Z">
@@ -25329,6 +25361,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT assigns shortcuts to most of the functions available in the &lt;l0/&gt;, &lt;l1/&gt;, and &lt;l2/&gt; menus and to a number of functions in the &lt;l3/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092251Z" creationid="Marc Riera" creationdate="20230226T092251Z">
+        <seg>L'OmegaT assigna dreceres a la majoria de les funcions disponibles en els menús &lt;l0/&gt;, &lt;l1/&gt; i &lt;l2/&gt; i a diverses funcions de la subfinestra &lt;l3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT assigns shortcuts to most of the functions available in the &lt;l0/&gt;, &lt;l1/&gt;, and &lt;l2/&gt; menus and to a number of functions in the Editor window.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T120503Z" creationid="Marc Riera" creationdate="20221217T120503Z">
@@ -25993,6 +26033,14 @@ està a punt per a executar-se.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122556Z" creationid="Marc Riera" creationdate="20221223T122556Z">
         <seg>Els projectes de l'OmegaT &lt;s2&gt;&lt;e3&gt;no&lt;/e3&gt;&lt;/s2&gt; s'emmagatzemen dins de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT provides a convenient short list of two-letter language codes, but you can type any code that conforms to &lt;u0&gt;BCP-47&lt;/u0&gt; (including the three-letter language codes) into the appropriate field.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092512Z" creationid="Marc Riera" creationdate="20230226T092512Z">
+        <seg>L'OmegaT proporciona una breu llista pràctica de codis de llengua de dues lletres, però podeu indicar qualsevol codi que s'ajusti al &lt;u0&gt;BCP-47&lt;/u0&gt; (incloent-hi codis de llengua de tres lletres) en el camp corresponent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33269,6 +33317,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the source and target languages from the drop-down list, or enter them manually.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092402Z" creationid="Marc Riera" creationdate="20230226T092402Z">
+        <seg>Seleccioneu les llengües d'origen i de destinació en la llista desplegable o indiqueu-les manualment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the two files to align (the source file and its translation) and click &lt;g0&gt;OK&lt;/g0&gt; to open the &lt;l1/&gt; window.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T221507Z" creationid="Marc Riera" creationdate="20221208T221507Z">
@@ -36191,6 +36247,14 @@ La substitució s'aplica als segments de destinació del projecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T091057Z" creationid="Marc Riera" creationdate="20221231T091057Z">
         <seg>Ressaltat de text en les alineacions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text in HTML comments (between &lt;l0&gt;&lt;!--&lt;/l0&gt; and &lt;l1&gt;--&gt;&lt;/l1&gt;) are not copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092209Z" creationid="Marc Riera" creationdate="20230226T092209Z">
+        <seg>El text en els comentaris HTML (entre &lt;l0&gt;&lt;!--&lt;/l0&gt; i &lt;l1&gt;--&gt;&lt;/l1&gt;) no es copia al fitxer traduït.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48802,6 +48866,14 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>alt shift D</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092256Z" creationid="Marc Riera" creationdate="20230226T092256Z">
+        <seg>alt shift D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>alt shift LEFT</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T084537Z" creationid="Marc Riera" creationdate="20221205T084537Z">
@@ -49488,6 +49560,22 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl alt 0</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092307Z" creationid="Marc Riera" creationdate="20230226T092307Z">
+        <seg>ctrl alt 0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl alt 9</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092304Z" creationid="Marc Riera" creationdate="20230226T092304Z">
+        <seg>ctrl alt 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl alt COMMA</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184506Z" creationid="Marc Riera" creationdate="20230126T184506Z">
@@ -49508,6 +49596,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121047Z" creationid="Marc Riera" creationdate="20221218T121047Z">
         <seg>ctrl alt N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl alt P</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092258Z" creationid="Marc Riera" creationdate="20230226T092258Z">
+        <seg>ctrl alt P</seg>
       </tuv>
     </tu>
     <tu>
@@ -51113,6 +51209,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://www.rfc-editor.org/rfc/bcp/bcp47.txt</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092403Z" creationid="Marc Riera" creationdate="20230226T092403Z">
+        <seg>https://www.rfc-editor.org/rfc/bcp/bcp47.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://www.unicode.org/reports/tr9/</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T163417Z" creationid="Marc Riera" creationdate="20221201T163417Z">
@@ -51671,6 +51775,22 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta alt 0</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092309Z" creationid="Marc Riera" creationdate="20230226T092309Z">
+        <seg>meta alt 0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta alt 9</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092305Z" creationid="Marc Riera" creationdate="20230226T092305Z">
+        <seg>meta alt 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta alt COMMA</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184507Z" creationid="Marc Riera" creationdate="20230126T184507Z">
@@ -51691,6 +51811,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121049Z" creationid="Marc Riera" creationdate="20221218T121049Z">
         <seg>meta alt N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta alt P</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092301Z" creationid="Marc Riera" creationdate="20230226T092301Z">
+        <seg>meta alt P</seg>
       </tuv>
     </tu>
     <tu>
