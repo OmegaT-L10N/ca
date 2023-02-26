@@ -2897,6 +2897,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T101138Z" creationid="Marc Riera" creationdate="20230226T101138Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2002/11/8</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113712Z" creationid="Marc Riera" creationdate="20221129T113712Z">
@@ -3675,8 +3683,8 @@ per a editar-lo com a projecte en equip.)</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Notepad&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;A&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T100726Z" creationid="Marc Riera" creationdate="20230226T100726Z">
-        <seg>&lt;g0&gt;Notes&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;A&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T101017Z" creationid="Marc Riera" creationdate="20230226T100726Z">
+        <seg>&lt;g0&gt;Bloc de notes&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;A&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4673,6 +4681,18 @@ Dossier de configuration
         <seg>&lt;t0&gt;Configuration&lt;/t0&gt; Folder
 Dossier de configuration
 &lt;50/50/66% &gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Top&lt;/t0&gt; Folder
+Dossier racine
+&lt;50/50/66% Orphan segments (+1 more)&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T101243Z" creationid="Marc Riera" creationdate="20230226T101243Z">
+        <seg>&lt;t0&gt;Top&lt;/t0&gt; Folder
+Dossier racine
+&lt;50/50/66% Segments orfes (i 1 més)&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6627,6 +6647,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105151Z" creationid="Marc Riera" creationdate="20230104T105151Z">
         <seg>Apareixerà una línia buida en la part inferior de la taula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An empty segment and its first two matches</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T101126Z" creationid="Marc Riera" creationdate="20230226T101126Z">
+        <seg>Segment buit i les dues primeres coincidències</seg>
       </tuv>
     </tu>
     <tu>
@@ -10065,6 +10093,18 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T112133Z" creationid="Marc Riera" creationdate="20221129T112133Z">
         <seg>Carpeta de configuració</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Configuration Folder
+Dossier de configuration
+&lt;50/50/66% &gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T101245Z" creationid="Marc Riera" creationdate="20230226T101245Z">
+        <seg>Configuration Folder
+Dossier de configuration
+&lt;50/50/66% &gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16818,8 +16858,8 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       <tuv lang="en">
         <seg>Has Note, see Notes Tab</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220846Z" creationid="Marc Riera" creationdate="20221124T220846Z">
-        <seg>Té una nota, consulteu «Notes»</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T101001Z" creationid="Marc Riera" creationdate="20221124T220846Z">
+        <seg>Té una nota, consulteu «Bloc de notes»</seg>
       </tuv>
     </tu>
     <tu>
@@ -18273,6 +18313,14 @@ als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T144119Z" creationid="Marc Riera" creationdate="20221211T144119Z">
         <seg>Si el projecte remot especifica un protocol d'URL i el baixeu mitjançant un protocol diferent, es conservarà la configuració local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the segment contains only numbers or symbols, this percentage will be the highest.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T101411Z" creationid="Marc Riera" creationdate="20230226T101411Z">
+        <seg>Si el segment només conté xifres o símbols, aquest percentatge serà el més alt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25153,8 +25201,8 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       <tuv lang="en">
         <seg>Notes Pane</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221210T165032Z" creationid="Marc Riera" creationdate="20221210T165032Z">
-        <seg>Subfinestra «Notes»</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T101007Z" creationid="Marc Riera" creationdate="20221210T165032Z">
+        <seg>Subfinestra «Bloc de notes»</seg>
       </tuv>
     </tu>
     <tu>
@@ -39844,6 +39892,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The selected fuzzy match is highlighted in &lt;e0&gt;bold&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T101251Z" creationid="Marc Riera" creationdate="20230226T101251Z">
+        <seg>La coincidència parcial seleccionada es ressalta en &lt;e0&gt;negreta&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The selected fuzzy match is highlighted in bold.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215838Z" creationid="Marc Riera" creationdate="20230209T215838Z">
@@ -42234,6 +42290,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T092807Z" creationid="Marc Riera" creationdate="20230104T092807Z">
         <seg>Aquesta opció canvia la tecla de validació dels segments a &lt;k0&gt;Tab&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This pane shows terms from your glossary files that correspond to terms in the current segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T101432Z" creationid="Marc Riera" creationdate="20230226T101432Z">
+        <seg>Aquesta subfinestra mostra els termes dels fitxers de glossari que corresponen als termes del segment actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54077,6 +54141,46 @@ config-dir="camí/a/una/carpeta/de/configuració"</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201121T225833Z" creationid="Marc Riera" creationdate="20201121T225833Z">
         <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>— ¶ —————————————————————
+
+&lt;t0&gt;Application Folder&lt;/t0&gt;
+|&lt;t1&gt;&lt;segment 1879 ¶&gt;&lt;/t1&gt;
+
+— ¶ —————————————————————</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T101129Z" creationid="Marc Riera" creationdate="20230226T101129Z">
+        <seg>— ¶ —————————————————————
+
+&lt;t0&gt;Application Folder&lt;/t0&gt;
+|&lt;t1&gt;&lt;segment 1879 ¶&gt;&lt;/t1&gt;
+
+— ¶ —————————————————————</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>— ¶ —————————————————————
+
+&lt;t0&gt;Hide Tags&lt;/t0&gt;
+|Dissimuler les balises&lt;t1&gt;&lt;segment 2148 ¶&gt;&lt;/t1&gt;
+
+— ¶ —————————————————————
+
+When enabled, all formatting in the source segments are hidden.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T101222Z" creationid="Marc Riera" creationdate="20230226T101112Z">
+        <seg>— ¶ —————————————————————
+
+&lt;t0&gt;Hide Tags&lt;/t0&gt;
+|Dissimuler les balises&lt;t1&gt;&lt;segment 2148 ¶&gt;&lt;/t1&gt;
+
+— ¶ —————————————————————
+
+When enabled, all formatting in the source segments are hidden.</seg>
       </tuv>
     </tu>
     <tu>
