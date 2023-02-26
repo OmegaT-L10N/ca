@@ -5444,6 +5444,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Activating this function hides the tags in the source segments, freeing you from the need to handle them manually.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092709Z" creationid="Marc Riera" creationdate="20230226T092709Z">
+        <seg>Si habiliteu aquesta funció, s'amaguen les etiquetes dels segments d'origen, la qual cosa us permet no haver de tractar-les manualment.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Active segment source</seg>
@@ -6449,6 +6457,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T151811Z" creationid="Marc Riera" creationdate="20230130T151811Z">
         <seg>Tot i que la característica d'assignació està destinada principalment a recopilar fitxers d'origen de llocs diferents, també es pot utilitzar per a altres tipus de fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although this does not normally prevent the translated file from opening, keep the following points in mind when using this function:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092755Z" creationid="Marc Riera" creationdate="20230226T092755Z">
+        <seg>Tot i que això normalment no impedeix l'obertura del fitxer traduït, tingueu present el següent quan utilitzeu aquesta funció:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15848,6 +15864,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Functions that depend on a language either fail or produce incorrect results if there is a mismatch between the language codes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092632Z" creationid="Marc Riera" creationdate="20230226T092632Z">
+        <seg>Les funcions que depenen d'una llengua poden no funcionar o produir resultats incorrectes si els codis de llengua no coincideixen.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Fuzzy Matches</seg>
@@ -16870,6 +16894,14 @@ l'hivern ja és aquí.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hidden tags are simply stacked at the end of the segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092724Z" creationid="Marc Riera" creationdate="20230226T092724Z">
+        <seg>Les etiquetes amagades senzillament s'acumulen al final del segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hide &amp;leading and trailing tags</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230216T080419Z" creationid="Marc Riera" creationdate="20230216T080419Z">
@@ -16908,6 +16940,14 @@ l'hivern ja és aquí.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230223T081132Z" creationid="Marc Riera" creationdate="20230223T081132Z">
         <seg>Amaga les etiquetes inicials i finals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide tags</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092636Z" creationid="Marc Riera" creationdate="20230226T092636Z">
+        <seg>Amaga les etiquetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -17531,6 +17571,14 @@ l'hivern ja és aquí.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T091222Z" creationid="mgalo" creationdate="20181109T225918Z">
         <seg>Identificador per a les traduccions alternatives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Identify the project folder that OmegaT refuses to open and open it in your file manager.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T093035Z" creationid="Marc Riera" creationdate="20230226T093035Z">
+        <seg>Identifiqueu la carpeta del projecte que l'OmegaT no pot obrir i obriu-la en el gestor de fitxers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18774,6 +18822,14 @@ extensions dels fitxers.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you simply want to reduce the number of tags in a &lt;a0&gt;Microsoft Word&lt;/a0&gt; (2007 and later) document, you can use the &lt;l1/&gt; script.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092829Z" creationid="Marc Riera" creationdate="20230226T092829Z">
+        <seg>Si només voleu reduir el nombre d'etiquetes en un document del &lt;a0&gt;Microsoft Word&lt;/a0&gt; (2007 o posterior), podeu utilitzar l'script &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you specify such a configuration folder, all modifications made in this dialog will be stored there.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T092728Z" creationid="Marc Riera" creationdate="20230104T092728Z">
@@ -19338,6 +19394,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the folder, you should find a &lt;f0&gt;omegat.project&lt;/f0&gt; file as well as a &lt;f1&gt;omegat.project.bak&lt;/f1&gt; file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T093126Z" creationid="Marc Riera" creationdate="20230226T093126Z">
+        <seg>En la carpeta trobareu un fitxer &lt;f0&gt;omegat.project&lt;/f0&gt; i un fitxer &lt;f1&gt;omegat.project.bak&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the list of machine translation available in OmegaT, check the &lt;g0&gt;Enabled&lt;/g0&gt; box for each provider you want to access.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T092943Z" creationid="Marc Riera" creationdate="20230104T092943Z">
@@ -19366,6 +19430,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163153Z" creationid="Marc Riera" creationdate="20221225T120540Z">
         <seg>En casos poc habituals en què l'ordinador es bloqui i l'OmegaT no tingui temps de tancar-se correctament, alguns fitxers importants poden quedar trencats i impedir que es pugui tornar a obrir el projecte després de reiniciar l'ordinador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the rare case where your computer freezes and OmegaT does not have time to close properly, the &lt;f0&gt;omegat.project&lt;/f0&gt; file can be locked by the operating system and keep you from reopening after you reboot your system.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T093013Z" creationid="Marc Riera" creationdate="20230226T093013Z">
+        <seg>En casos poc habituals en què l'ordinador es bloqui i l'OmegaT no tingui temps de tancar-se correctament, el sistema operatiu pot blocar el fitxer &lt;f0&gt;omegat.project&lt;/f0&gt; i impedir que es pugui tornar a obrir després de reiniciar l'ordinador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38320,6 +38392,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder contents should be similar to a standard &lt;l0&gt;project&lt;/l0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T093058Z" creationid="Marc Riera" creationdate="20230226T093058Z">
+        <seg>El contingut de la carpeta hauria de ser similar a una carpeta de &lt;l0&gt;projecte&lt;/l0&gt; estàndard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder structure mirrors that of the &lt;l0/&gt; folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T115216Z" creationid="Marc Riera" creationdate="20230130T115216Z">
@@ -48330,6 +48410,14 @@ un comportament inesperat però correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You will have to manually apply bold, italics, or other text decorations in the translated file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092821Z" creationid="Marc Riera" creationdate="20230226T092821Z">
+        <seg>Haureu d'aplicar manualment la negreta, la cursiva i altres opcions de format del text en el fitxer traduït.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You will see that segments identical to source segments in those memories are already filled in.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230203T230241Z" creationid="Marc Riera" creationdate="20230203T230241Z">
@@ -48410,6 +48498,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195218Z" creationid="Marc Riera" creationdate="20221206T195218Z">
         <seg>Sembla que el projecte no conté cap fitxer traduïble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your project is locked?</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092853Z" creationid="Marc Riera" creationdate="20230226T092853Z">
+        <seg>El projecte està blocat?</seg>
       </tuv>
     </tu>
     <tu>
