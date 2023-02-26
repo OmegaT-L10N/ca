@@ -12042,6 +12042,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display TBX glossaries context description (TBX 2)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T101544Z" creationid="Marc Riera" creationdate="20230226T101544Z">
+        <seg>Mostra la descripció de context dels glossaris (TBX 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display Whitespace</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173756Z" creationid="Marc Riera" creationdate="20230130T173756Z">
@@ -23528,6 +23536,14 @@ en la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Menu items that do not indicate a shortcut do not have one assigned by default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T101522Z" creationid="Marc Riera" creationdate="20230226T101522Z">
+        <seg>Els elements dels menús que no indiquen una drecera no en tenen cap d'assignada per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Menu items that do not indicate a shortcut do nothave one assigned by default.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230126T192313Z" creationid="Marc Riera" creationdate="20230126T192313Z">
@@ -23850,6 +23866,14 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T102136Z" creationid="Marc Riera" creationdate="20221206T102136Z">
         <seg>L'OmegaT reconeix immediatament les modificacions en qualsevol glossari i es mostren en la subfinestra &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modifications to any glossary file in the glossary folder are immediately recognized by OmegaT and displayed in the glossaries pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T101444Z" creationid="Marc Riera" creationdate="20230226T101444Z">
+        <seg>L'OmegaT reconeix immediatament les modificacions en qualsevol glossari de la carpeta de glossaris i es mostren en la subfinestra «Glossari».</seg>
       </tuv>
     </tu>
     <tu>
@@ -33459,6 +33483,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a layout for the glossaries pane contents.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T101549Z" creationid="Marc Riera" creationdate="20230226T101549Z">
+        <seg>Seleccioneu una disposició per al contingut de la subfinestra «Glossari».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a layout for the glossary pane contents.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T095646Z" creationid="Marc Riera" creationdate="20230104T095646Z">
@@ -42294,10 +42326,34 @@ en sou víctima d'una.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This pane is an &lt;e0&gt;editable&lt;/e0&gt; space where you can add notes to the currently active segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T101515Z" creationid="Marc Riera" creationdate="20230226T101515Z">
+        <seg>Aquesta subfinestra és un espai &lt;e0&gt;editable&lt;/e0&gt; on podeu afegir notes al segment actiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This pane shows terms from your dictionary files that correspond to terms in the current segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T101456Z" creationid="Marc Riera" creationdate="20230226T101456Z">
+        <seg>Aquesta subfinestra mostra els termes dels fitxers de diccionari que corresponen als termes del segment actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This pane shows terms from your glossary files that correspond to terms in the current segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230226T101432Z" creationid="Marc Riera" creationdate="20230226T101432Z">
         <seg>Aquesta subfinestra mostra els termes dels fitxers de glossari que corresponen als termes del segment actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This pane, when opened, shows the suggestions for the current segment produced by each enabled translation engine .</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T101506Z" creationid="Marc Riera" creationdate="20230226T101506Z">
+        <seg>Aquesta finestra, quan s'obre, conté els suggeriments per al segment actual produïts per un o més motors de traducció automàtica habilitats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48357,6 +48413,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T184322Z" creationid="Marc Riera" creationdate="20230104T184322Z">
         <seg>Podeu seleccionar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select a term in the glossaries pane and right click on it to insert it into the translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230226T101440Z" creationid="Marc Riera" creationdate="20230226T101440Z">
+        <seg>Podeu seleccionar un terme en la subfinestra «Glossari» i fer-hi clic dret per a inserir-lo en la traducció.</seg>
       </tuv>
     </tu>
     <tu>
