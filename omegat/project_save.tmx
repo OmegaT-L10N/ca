@@ -7509,6 +7509,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Automatic dark theme detection is available on Linux systems with the Gnome/GTK look and feel for users who run OmegaT on OpenJDK.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T102542Z" creationid="Marc Riera" creationdate="20230227T102542Z">
+        <seg>La detecció automàtica de tema fosc està disponible en sistemes Linux amb l'aparença del GNOME/GTK per als usuaris que executen l'OmegaT amb l'OpenJDK.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Automatically check for updates</seg>
@@ -13052,6 +13060,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T120422Z" creationid="Marc Riera" creationdate="20221211T120422Z">
         <seg>Cadascun dels tres fitxers és una exportació bilingüe del contingut actual de la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each of the three types of matching percentages presented in the &lt;l0/&gt; pane are taken into account to determine whether a match is displayed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T102640Z" creationid="Marc Riera" creationdate="20230227T102640Z">
+        <seg>Cadascun dels tres tipus de percentatges de coincidència indicats en la subfinestra &lt;l0/&gt; es tenen en compte per a determinar si una coincidència es mostra o no.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22837,6 +22853,14 @@ en la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure that you enter the correct languages and that all other locations requiring a language code match the code you assign here.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T110018Z" creationid="Marc Riera" creationdate="20230227T110018Z">
+        <seg>Assegureu-vos que indiqueu les llengües correctes i que els codis que indiqueu en qualsevol altre lloc coincideixin amb els que indiqueu aquí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure that you have properly tested your project layout and set up a separate data backup before sharing data in such a system.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230226T100304Z" creationid="Marc Riera" creationdate="20230226T100304Z">
@@ -28838,6 +28862,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugins are by default installed in the &lt;l0&gt;configuration folder&lt;/l0&gt;, but can also be installed in the &lt;l1/&gt; folder under the &lt;l2&gt;application&lt;/l2&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T102809Z" creationid="Marc Riera" creationdate="20230227T102809Z">
+        <seg>Per defecte, els connectors s'instal·len en la &lt;l0&gt;carpeta de configuració&lt;/l0&gt;, però també es poden instal·lar en la carpeta &lt;l1/&gt; de la carpeta de l'&lt;l2&gt;aplicació&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugins are installed either in the &lt;l0/&gt; folder under the &lt;l1&gt;application folder&lt;/l1&gt;, or in the platform-specific &lt;l2&gt;configuration folder&lt;/l2&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T191806Z" creationid="Marc Riera" creationdate="20230104T191806Z">
@@ -28942,6 +28974,14 @@ everything.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180316Z" creationid="Marc Riera" creationdate="20221124T180316Z">
         <seg>S'han interromput les ordres de postprocessament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Potential matches are rejected if all three percentages are below the threshold.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T102723Z" creationid="Marc Riera" creationdate="20230227T102723Z">
+        <seg>Es rebutgen les possibles coincidències si els tres percentatges són inferiors al llindar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41683,6 +41723,14 @@ en sou víctima d'una.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This feature depends on Java functionality that is not yet available on other platforms.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T102607Z" creationid="Marc Riera" creationdate="20230227T102607Z">
+        <seg>Aquesta característica depèn d'una funcionalitat del Java que encarà no està disponible en altres plataformes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file contains the &lt;e0&gt;original text&lt;/e0&gt; from of the current segment when the &lt;l1/&gt; preference is enabled.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174733Z" creationid="Marc Riera" creationdate="20221218T174733Z">
@@ -47052,6 +47100,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>When the option is enabled, OmegaT automatically searches in all the dictionaries for matches of the terms it identified in the segment, as it enters the segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T102451Z" creationid="Marc Riera" creationdate="20230227T102451Z">
+        <seg>Quan l'opció està habilitada, l'OmegaT cerca automàticament coincidències dels termes identificats en el segment en tots els diccionaris quan s'accedeix al segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>When unavailable, the ID will be used as a fallback</seg>
@@ -47189,6 +47245,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T185959Z" creationid="Marc Riera" creationdate="20201125T185959Z">
         <seg>Si s'adopta o no depèn, en primer lloc, de si l'equip de desenvolupament considerà que aportarà beneficis a l'OmegaT i, en segon lloc, de si algú de l'equip de desenvolupament està disposat a dur a terme la feina d'implementació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While the option is disabled, use &lt;l0/&gt;&lt;l1/&gt; to search for matches of the selection or of all the terms in the segment source.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T102358Z" creationid="Marc Riera" creationdate="20230227T102358Z">
+        <seg>Amb l'opció inhabilitada, utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a cercar coincidències de la selecció o de tots els termes del segment d'origen.</seg>
       </tuv>
     </tu>
     <tu>
