@@ -9517,6 +9517,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on the &lt;l0/&gt; button to display a list of dictionaries available at the URL in the &lt;g1&gt;URL of downloadable spellchecking dictionaries&lt;/g1&gt; field above that button.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T110230Z" creationid="Marc Riera" creationdate="20230227T110205Z">
+        <seg>Feu clic en el botó &lt;l0/&gt; per a mostrar una llista dels diccionaris disponibles en l'URL del camp &lt;g1&gt;URL dels diccionaris de correcció ortogràfica en línia&lt;/g1&gt; sobre el botó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on the button to select the folder that you want to use instead of the default resource folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T142756Z" creationid="Marc Riera" creationdate="20221206T142756Z">
@@ -18365,6 +18373,14 @@ als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the project target language is &lt;e0&gt;fr&lt;/e0&gt; and the dictionary name is &lt;e1&gt;fr_fr&lt;/e1&gt; or &lt;e2&gt;fr-fr&lt;/e2&gt;, you can either:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T110636Z" creationid="Marc Riera" creationdate="20230227T110636Z">
+        <seg>Si la llengua de destinació del projecte és &lt;e0&gt;fr&lt;/e0&gt; i el nom del diccionari és &lt;e1&gt;fr_fr&lt;/e1&gt; o &lt;e2&gt;fr-fr&lt;/e2&gt;, teniu dues opcions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the remote project contains custom mappings, but the local project does not, the mappings from the server are applied to the local project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T144052Z" creationid="Marc Riera" creationdate="20221211T144041Z">
@@ -25965,6 +25981,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not recognize languages automatically, and only uses a dictionary if its name matches the target language code.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T110421Z" creationid="Marc Riera" creationdate="20230227T110421Z">
+        <seg>L'OmegaT no reconeix automàticament les llengües i només utilitza un diccionari si el nom coincideix amb el codi de la llengua de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not store your information online (this is not a "cloud-based" product).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230108T125035Z" creationid="Marc Riera" creationdate="20230108T125035Z">
@@ -26536,6 +26560,14 @@ Runtime Environment (JRE) en el sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT synchronizes the Editor contents with the selected result, so you can edit the segments right away.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T110815Z" creationid="Marc Riera" creationdate="20230227T110815Z">
+        <seg>L'OmegaT sincronitza el contingut de l'editor amb el resultat seleccionat, de manera que podeu editar els segments immediatament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT tags are protected text that represents format-specific tags in the source document.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230213T094643Z" creationid="Marc Riera" creationdate="20230126T191746Z">
@@ -26670,6 +26702,22 @@ your home folder.</seg>
         <seg>S'ha blocat l'accés de l'OmegaT a la propietat del sistema que conté
 el nom del sistema operatiu o a la propietat del sistema que conté
 la carpeta d'inici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will display a list of the installed dictionaries.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T110355Z" creationid="Marc Riera" creationdate="20230227T110355Z">
+        <seg>L'OmegaT mostrarà una llista dels diccionaris instal·lats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will download them and copy them to the spellchecking dictionaries location specified at the top of the dialog (the &lt;l1&gt;configuration&lt;/l1&gt; folder by default).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T110334Z" creationid="Marc Riera" creationdate="20230227T110334Z">
+        <seg>L'OmegaT els baixarà i els copiarà a la ubicació dels diccionaris de correcció ortogràfica que especifiqueu en la part superior del quadre de diàleg (per defecte, la carpeta de &lt;l1&gt;configuració&lt;/l1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26885,6 +26933,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122533Z" creationid="Marc Riera" creationdate="20221223T122533Z">
         <seg>Les preferències de l'OmegaT s'emmagatzemen en la carpeta de configuració i la versió nova &lt;s0&gt;&lt;e1&gt;no&lt;/e1&gt;&lt;/s0&gt; les modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Omegat provides a spellchecking system, but does not come with the dictionaries required to actually spellcheck your translations.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T110051Z" creationid="Marc Riera" creationdate="20230227T110051Z">
+        <seg>L'OmegaT proporciona un sistema de correcció ortogràfica, però no inclou els diccionaris necessaris per a corregir l'ortografia de les traduccions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29618,6 +29674,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T185057Z" creationid="mgalo" creationdate="20181112T221858Z">
         <seg>S'està iniciant el desament del projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project target language code and spellchecking dictionary name</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T110559Z" creationid="Marc Riera" creationdate="20230227T110559Z">
+        <seg>Codi de la llengua de destinació del projecte i nom del diccionari de correcció ortogràfica</seg>
       </tuv>
     </tu>
     <tu>
@@ -33667,6 +33731,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select as many dictionaries as you want and click the &lt;g0&gt;Install&lt;/g0&gt; button.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T110247Z" creationid="Marc Riera" creationdate="20230227T110247Z">
+        <seg>Seleccioneu tots els diccionaris que vulgueu i feu clic en el botó &lt;g0&gt;Instal·la&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select how tags of non-OmegaT TMXs should be displayed</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110251Z" creationid="Marc Riera" creationdate="20230104T110251Z">
@@ -34808,6 +34880,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T213206Z" creationid="Marc Riera" creationdate="20230131T213206Z">
         <seg>Alguns scripts es basen en &lt;e0&gt;esdeveniments&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some segments will require further modification later on, so you use &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;k3&gt;9&lt;/k3&gt;&lt;/k0&gt; to enter the Notepad pane, leave yourself a note and come back to the Editor pane with &lt;k4&gt;&lt;k5&gt;C&lt;/k5&gt;&lt;k6&gt;A&lt;/k6&gt;&lt;k7&gt;0&lt;/k7&gt;&lt;/k4&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T110806Z" creationid="Marc Riera" creationdate="20230227T110806Z">
+        <seg>Alguns segments requeriran modificacions més endavant, de manera que utilitzeu &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;k3&gt;9&lt;/k3&gt;&lt;/k0&gt; per a accedir a la subfinestra «Bloc de notes», hi deixeu una nota i torneu a la subfinestra «Editor» amb &lt;k4&gt;&lt;k5&gt;C&lt;/k5&gt;&lt;k6&gt;A&lt;/k6&gt;&lt;k7&gt;0&lt;/k7&gt;&lt;/k4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42398,6 +42478,14 @@ en sou víctima d'una.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This operation may take some time.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T110342Z" creationid="Marc Riera" creationdate="20230227T110342Z">
+        <seg>Aquesta operació pot tardar una estona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option allows for that.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T093115Z" creationid="Marc Riera" creationdate="20221214T093115Z">
@@ -45961,6 +46049,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; section in the general &lt;l1/&gt; dialog to access the spellchecking preferences.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T110130Z" creationid="Marc Riera" creationdate="20230227T110130Z">
+        <seg>Utilitzeu la secció &lt;l0/&gt; del quadre de diàleg &lt;l1/&gt; general per a accedir a les preferències de la correcció ortogràfica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;l0&gt;editor context menu&lt;/l0&gt; to correct the mistake, to &lt;g1&gt;Ignore All&lt;/g1&gt; or to &lt;g2&gt;Add to Dictionary&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T151013Z" creationid="Marc Riera" creationdate="20230105T151008Z">
@@ -48933,6 +49029,14 @@ un comportament inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T143326Z" creationid="Marc Riera" creationdate="20230130T143326Z">
         <seg>Heu d'utilitzar un client de l'SVN o el Git, o bé la línia d'ordres, per a afegir i publicar diccionaris, glossaris, memòries de traducció o altres fitxers que vulgueu incloure en el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You need to install the dictionaries you need yourself.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T110106Z" creationid="Marc Riera" creationdate="20230227T110106Z">
+        <seg>Heu d'instal·lar els diccionaris que necessiteu pel vostre compte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53922,6 +54026,22 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220612T103551Z" creationid="Marc Riera" creationdate="20220612T103551Z">
         <seg>upperCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use &lt;l0/&gt;&lt;l1/&gt; to access the &lt;l2&gt;configuration&lt;/l2&gt; folder and change the dictionary file names to &lt;e3&gt;fr&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T110724Z" creationid="Marc Riera" creationdate="20230227T110724Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a accedir a la carpeta de &lt;l2&gt;configuració&lt;/l2&gt; i canvieu els noms dels fitxers de diccionari a &lt;e3&gt;fr&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use &lt;l0/&gt;&lt;l1/&gt; to change the project target language to &lt;e2&gt;fr-fr&lt;/e2&gt;, or</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230227T110656Z" creationid="Marc Riera" creationdate="20230227T110656Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a canviar la llengua de destinació del projecte a &lt;e2&gt;fr-fr&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
