@@ -10654,6 +10654,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy error to clipboard</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230305T083643Z" creationid="Marc Riera" creationdate="20230305T083643Z">
+        <seg>Copia l'error al porta-retalls</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy it to the &lt;f0&gt;omegat/&lt;/f0&gt; folder of your new project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200505Z" creationid="Marc Riera" creationdate="20221210T200505Z">
@@ -13762,6 +13770,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T224136Z" creationid="Marc Riera" creationdate="20180214T224136Z">
         <seg>S'ha produït un error en inicialitzar el marcador «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error loading : {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230305T083700Z" creationid="Marc Riera" creationdate="20230305T083700Z">
+        <seg>S'ha produït un error en carregar: {0}</seg>
       </tuv>
     </tu>
     <tu>
