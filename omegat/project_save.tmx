@@ -15720,6 +15720,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For security reasons, &lt;l0&gt;local external searches&lt;/l0&gt; are disabled by default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230306T123755Z" creationid="Marc Riera" creationdate="20230306T123755Z">
+        <seg>Per raons de seguretat, les &lt;l0&gt;cerques externes locals&lt;/l0&gt; estan inhabilitades per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For security reasons, &lt;l0&gt;local externam searches&lt;/l0&gt; are disabled by default.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144853Z" creationid="Marc Riera" creationdate="20230105T144853Z">
@@ -25927,6 +25935,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184439Z" creationid="Marc Riera" creationdate="20230126T184439Z">
         <seg>L'OmegaT crea còpies de seguretat dels paràmetres del projecte per a assegurar que pot recuperar-los en cas que hi hagi un problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT creates up to ten backup files, and older backups are automatically deleted in turn.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230306T123906Z" creationid="Marc Riera" creationdate="20230306T123906Z">
+        <seg>L'OmegaT crea un màxim de deu fitxers de còpia de seguretat i les còpies més antigues se suprimeixen en ordre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44652,6 +44668,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205342Z" creationid="Marc Riera" creationdate="20221214T205342Z">
         <seg>Desmarqueu la casella per a aplicar l'opció &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uncheck the check box to remove all tags from the alignment and the resulting TMX.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230306T123817Z" creationid="Marc Riera" creationdate="20230306T123817Z">
+        <seg>No marqueu la casella per a suprimir totes les etiquetes de l'alineació i del fitxer TMX resultant.</seg>
       </tuv>
     </tu>
     <tu>
