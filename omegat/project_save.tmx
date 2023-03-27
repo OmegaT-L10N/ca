@@ -37621,6 +37621,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The HTML parser encountered an error during file processing:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230327T214950Z" creationid="Marc Riera" creationdate="20230327T214950Z">
+        <seg>S'ha produït un error en el processador d'HTML en processar el fitxer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The HTML parser threw an exception during file processing:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230129T223556Z" creationid="Marc Riera" creationdate="20230129T223556Z">
@@ -37670,6 +37678,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The Java Resource Bundles filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230327T214859Z" creationid="Marc Riera" creationdate="20230327T214859Z">
+        <seg>S'ha produït un error en el filtre de paquets de recursos del Java:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
@@ -37705,6 +37721,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The Moodle PHP filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230327T214912Z" creationid="Marc Riera" creationdate="20230327T214912Z">
+        <seg>S'ha produït un error en el filtre PHP del Moodle:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The Moodle PHP filter threw an exception:</seg>
@@ -37714,12 +37738,28 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The Mozilla DTD filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230327T214927Z" creationid="Marc Riera" creationdate="20230327T214927Z">
+        <seg>S'ha produït un error en el filtre DTD de Mozilla:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T114454Z" creationid="Marc Riera" creationdate="20180221T114454Z">
         <seg>El filtre DTD de Mozilla ha generat una excepció:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mozilla FTL filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230327T214934Z" creationid="Marc Riera" creationdate="20230327T214934Z">
+        <seg>S'ha produït un error en el filtre FTL de Mozilla:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37896,6 +37936,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T145959Z" creationid="Marc Riera" creationdate="20230105T145959Z">
         <seg>El filtre del format PO ja tracta les variables marcades amb &lt;l0&gt;%&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The PO filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230327T214846Z" creationid="Marc Riera" creationdate="20230327T214846Z">
+        <seg>S'ha produït un error en el filtre PO:</seg>
       </tuv>
     </tu>
     <tu>
