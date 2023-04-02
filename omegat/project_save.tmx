@@ -7218,6 +7218,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As reference translations, OmegaT also supports bilingual documents that are not TMX files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T104419Z" creationid="Marc Riera" creationdate="20230402T104419Z">
+        <seg>Com a traduccions de referència, l'OmegaT també admet fitxers bilingües que no són fitxers TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As shown in the &lt;l0&gt;Edit menu table&lt;/l0&gt; below, the function code for the &lt;g1&gt;Create Alternative Translation&lt;/g1&gt; function is &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T154741Z" creationid="Marc Riera" creationdate="20221217T152944Z">
@@ -17894,6 +17902,14 @@ no cal introduir el camí complet.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;f0&gt;.jar&lt;/f0&gt; files are properly associated with the Java 11 Runtime Environment and your PATH settings are correct, you can also simply click (or double-click) on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T104321Z" creationid="Marc Riera" creationdate="20230402T104321Z">
+        <seg>Si els fitxers &lt;f0&gt;.jar&lt;/f0&gt; estan associats correctament al Java 11 Runtime Environment i els paràmetres del PATH són correctes, també podeu simplement fer clic (o doble clic) en el fitxer &lt;f1&gt;OmegaT.jar&lt;/f1&gt; per a iniciar-lo directament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;f0&gt;.jar&lt;/f0&gt; files are properly associated with the Java 8 Runtime Environment and your PATH settings are correct, you can also simply click (or double-click) on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T124305Z" creationid="Marc Riera" creationdate="20230130T124229Z">
@@ -18569,6 +18585,14 @@ als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T114535Z" creationid="Marc Riera" creationdate="20221209T114535Z">
         <seg>Si no n'hi ha cap, instal·la el programa en la carpeta &lt;f1&gt;/opt/omegat/OmegaT_5.8.0&lt;/f1&gt; i l'estableix com a versió per defecte (en la carpeta &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there isn’t one, it installs the program in &lt;f1&gt;/opt/omegat/OmegaT_6.0.0&lt;/f1&gt; and sets it as the default version (in &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T104314Z" creationid="Marc Riera" creationdate="20230402T104314Z">
+        <seg>Si no n'hi ha cap, instal·la el programa en la carpeta &lt;f1&gt;/opt/omegat/OmegaT_6.0.0&lt;/f1&gt; i l'estableix com a versió per defecte (en la carpeta &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25710,6 +25734,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT 6.0.0 requires a Java 11 Runtime Environment (JRE) to run.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T104302Z" creationid="Marc Riera" creationdate="20230402T104302Z">
+        <seg>L'OmegaT 6.0.0 requereix el Java 11 Runtime Environment (JRE) per a executar-se.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
@@ -28467,6 +28499,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T203126Z" creationid="Marc Riera" creationdate="20221215T203126Z">
         <seg>Fitxers PO que utilitzen l'element &lt;l0&gt;msgid&lt;/l0&gt; com a contenidor del text d'origen i que esperen que la traducció s'indiqui en l'element &lt;l1&gt;msgstr&lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Packages without Java rely on a Java 11 Runtime Environment installed systemwide.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T104307Z" creationid="Marc Riera" creationdate="20230402T104307Z">
+        <seg>Els paquets sense el Java depenen d'una instal·lació del Java 11 Runtime Environment en el sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31869,6 +31909,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230129T223511Z" creationid="Marc Riera" creationdate="20230129T223511Z">
         <seg>Projecte de SDL (beta)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SDLXLIFF files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T104345Z" creationid="Marc Riera" creationdate="20230402T104345Z">
+        <seg>Fitxers SDLXLIFF</seg>
       </tuv>
     </tu>
     <tu>
@@ -35721,6 +35769,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard: OmegaT 6.0.0</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T104254Z" creationid="Marc Riera" creationdate="20230402T104254Z">
+        <seg>Estàndard: OmegaT 6.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Standard: OmegaT {{site.data.versions.standard.name}}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221223T121330Z" creationid="Marc Riera" creationdate="20221223T121330Z">
@@ -36433,6 +36489,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T164130Z" creationid="Marc Riera" creationdate="20221201T164130Z">
         <seg>TSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TXML files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T104334Z" creationid="Marc Riera" creationdate="20230402T104334Z">
+        <seg>Fitxers TXML</seg>
       </tuv>
     </tu>
     <tu>
@@ -38938,6 +39002,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T082023Z" creationid="Marc Riera" creationdate="20221201T082023Z">
         <seg>El contingut del fitxer no està xifrat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The file formats that OmegaT supports are all the bilingual formats that OmegaT accepts as source files:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T104447Z" creationid="Marc Riera" creationdate="20230402T104447Z">
+        <seg>Els formats de fitxer admesos per l'OmegaT són tots els formats bilingües que s'accepten com a fitxers d'origen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -42360,6 +42432,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122415Z" creationid="Marc Riera" creationdate="20221223T122415Z">
         <seg>Aquesta informació s'aplica a tots els sistemes amb una versió del Java compatible amb el Java {{site.data.versions.standard.java_version}} Runtime Environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This information applies to any system for a Java version compatible with Java 11 Runtime Environment is available.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T104317Z" creationid="Marc Riera" creationdate="20230402T104317Z">
+        <seg>Aquesta informació s'aplica a qualsevol sistema amb una versió del Java compatible amb el Java 11 Runtime Environment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48062,6 +48142,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>XLIFF files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T104340Z" creationid="Marc Riera" creationdate="20230402T104340Z">
+        <seg>Fitxers XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>XML Spreadsheet 2003</seg>
@@ -48218,6 +48306,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152836Z" creationid="Marc Riera" creationdate="20230201T152836Z">
         <seg>Podeu afegir carpetes o suprimir fitxers amb el gestor de fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add such files to your project's &lt;l0/&gt; folder or one of its subfolders and the translated data will be immediately be available for matching purposes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T104550Z" creationid="Marc Riera" creationdate="20230402T104550Z">
+        <seg>Podeu afegir aquests fitxers a la carpeta &lt;l0/&gt; del projecte o una de les subcarpetes i les dades traduïdes estaran disponibles immediatament com a coincidències.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51868,6 +51964,22 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134737Z" creationid="Marc Riera" creationdate="20221209T134737Z">
         <seg>https://developer.oracle.com/databases/nashorn-javascript-part1.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T104231Z" creationid="Marc Riera" creationdate="20230402T104231Z">
+        <seg>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T104244Z" creationid="Marc Riera" creationdate="20230402T104244Z">
+        <seg>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/regex/Pattern.html</seg>
       </tuv>
     </tu>
     <tu>
