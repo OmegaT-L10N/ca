@@ -14115,10 +14115,26 @@ ningú no sent els vostres crits.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Every time you create the current translated file, OmegaT saves the project (see the &lt;l0/&gt; menu item above) and creates reference memories that include the translated segments of the current source file set.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T105854Z" creationid="Marc Riera" creationdate="20230402T105854Z">
+        <seg>Cada vegada que creeu el fitxer traduït actual, l'OmegaT desa el projecte (consulteu l'element del menú &lt;l0/&gt; anterior) i crea memòries de traducció de referència, que inclouen els segments traduïts del conjunt de fitxers d'origen actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Every time you create the translated files (see &lt;l0/&gt;, above), OmegaT creates three translation memories that contain the state of the translation of the files currently in the &lt;l1/&gt; folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230213T113511Z" creationid="Marc Riera" creationdate="20221213T214841Z">
         <seg>Cada vegada que creeu els fitxers traduïts (consulteu l'apartat &lt;l0/&gt;, més amunt), l'OmegaT crea tres memòries de traducció que contenen l'estat de la traducció dels fitxers que hi ha actualment en la carpeta &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every time you create translated files, OmegaT saves the project (see the &lt;l0/&gt; menu item above) and creates reference memories that include the translated segments of the current source file set.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T105846Z" creationid="Marc Riera" creationdate="20230402T105846Z">
+        <seg>Cada vegada que creeu els fitxers traduïts, l'OmegaT desa el projecte (consulteu l'element del menú &lt;l0/&gt; anterior) i crea memòries de traducció de referència, que inclouen els segments traduïts del conjunt de fitxers d'origen actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22917,6 +22933,14 @@ en la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Main Memory</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T105908Z" creationid="Marc Riera" creationdate="20230402T105908Z">
+        <seg>Memòria principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MainMenuShortcuts.mac.properties</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T082953Z" creationid="Marc Riera" creationdate="20221205T082953Z">
@@ -25735,6 +25759,22 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 6.0.0</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T110008Z" creationid="Marc Riera" creationdate="20230402T110008Z">
+        <seg>OmegaT 6.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT 6.0.0 - User Manual</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T105901Z" creationid="Marc Riera" creationdate="20230402T105901Z">
+        <seg>OmegaT 6.0.0 - Manual d'usuari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT 6.0.0 requires a Java 11 Runtime Environment (JRE) to run.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230402T104302Z" creationid="Marc Riera" creationdate="20230402T104302Z">
@@ -28079,6 +28119,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens a dialog where you can paste the URL of the MediaWiki page you want to translate.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T105751Z" creationid="Marc Riera" creationdate="20230402T105751Z">
+        <seg>Obre un quadre de diàleg on podeu enganxar l'URL de la pàgina del MediaWiki que voleu traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens a dialog where you can paste the URL of the Mediawiki page you want to translate.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T171633Z" creationid="Marc Riera" creationdate="20221210T171633Z">
@@ -30310,6 +30358,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reference TMs</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T110202Z" creationid="Marc Riera" creationdate="20230402T105916Z">
+        <seg>Memòries de referència</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reference glossaries</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T164214Z" creationid="Marc Riera" creationdate="20221201T164214Z">
@@ -32165,6 +32221,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T193304Z" creationid="Marc Riera" creationdate="20221230T193304Z">
         <seg>Desa la memòria de traducció del projecte (&lt;l0/&gt;) i tanca el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the project translation memory (&lt;l0/&gt;) and synchronizes team projects.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T105747Z" creationid="Marc Riera" creationdate="20230402T105747Z">
+        <seg>Desa la memòria de traducció del projecte (&lt;l0/&gt;) i sincronitza els projectes en equip.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36411,8 +36475,16 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
       <tuv lang="en">
         <seg>TM Search &amp;Options</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T083000Z" creationid="Marc Riera" creationdate="20230402T083000Z">
-        <seg>&amp;Opcions de cerca en les memòries de traducció</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T110040Z" creationid="Marc Riera" creationdate="20230402T083000Z">
+        <seg>&amp;Opcions de cerca en la memòria de traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TM Search Options</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T110137Z" creationid="Marc Riera" creationdate="20230402T105923Z">
+        <seg>Opcions de cerca en la memòria de traducció</seg>
       </tuv>
     </tu>
     <tu>
@@ -38194,6 +38266,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110507Z" creationid="Marc Riera" creationdate="20230104T110507Z">
         <seg>Nom del fitxer de la memòria de traducció, sense l'extensió</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TM search options only apply to the main memory and not to the reference memories.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230402T110001Z" creationid="Marc Riera" creationdate="20230402T110001Z">
+        <seg>Les opcions de cerca en la memòria de traducció només s'apliquen a la memòria principal i no a les memòries de referència.</seg>
       </tuv>
     </tu>
     <tu>
