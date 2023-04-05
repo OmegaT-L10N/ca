@@ -54932,6 +54932,14 @@ config-dir="camí/a/una/carpeta/de/configuració"</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>{0} matches</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230405T074622Z" creationid="Marc Riera" creationdate="20230405T074622Z">
+        <seg>{0} coincidències</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>{1}, executed from '{2}'</seg>
