@@ -5305,6 +5305,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Abort...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230415T101124Z" creationid="Marc Riera" creationdate="20230415T101124Z">
+        <seg>Anul·la...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Abort: Exit with an error if tags invalid.</seg>
@@ -7275,6 +7283,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ask again...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230415T101201Z" creationid="Marc Riera" creationdate="20230415T101201Z">
+        <seg>Torna-ho a preguntar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Asks for the URL of the page and downloads it into the &lt;l0/&gt; folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T153422Z" creationid="Marc Riera" creationdate="20230131T153422Z">
@@ -8596,6 +8612,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220307T193607Z" creationid="Marc Riera" creationdate="20220307T193607Z">
         <seg>No s'ha trobat l'executable GPG en la variable $PATH del Bash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot get correct answer.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230415T101223Z" creationid="Marc Riera" creationdate="20230415T101223Z">
+        <seg>No s'ha rebut la resposta correcta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16874,6 +16898,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210717T091945Z" creationid="Marc Riera" creationdate="20210717T091945Z">
         <seg>S'ha rebut un tipus MIME inesperat: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected input.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230415T101106Z" creationid="Marc Riera" creationdate="20230415T101106Z">
+        <seg>S'ha rebut una entrada inesperada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29070,6 +29102,22 @@ everything.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T221450Z" creationid="Marc Riera" creationdate="20201003T221450Z">
         <seg>Baixeu i instal·leu la versió més recent del Java de www.java.com i torneu-ho a provar.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter password for {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230415T101040Z" creationid="Marc Riera" creationdate="20230415T101040Z">
+        <seg>Indiqueu la contrasenya per a {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter username for {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230415T101035Z" creationid="Marc Riera" creationdate="20230415T101035Z">
+        <seg>Indiqueu l'usuari per a {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -44903,6 +44951,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to create a backup file of {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230415T101241Z" creationid="Marc Riera" creationdate="20230415T101241Z">
+        <seg>No s'ha pogut crear un fitxer de còpia de seguretat per a {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to create the translated files due to missing or damaged tags.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173525Z" creationid="Marc Riera" creationdate="20221117T173525Z">
@@ -48133,6 +48189,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T221440Z" creationid="Marc Riera" creationdate="20221124T221440Z">
         <seg>S'ha detectat un URL incorrecte en el Linkifier: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong password for {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230415T101053Z" creationid="Marc Riera" creationdate="20230415T101053Z">
+        <seg>La contrasenya per a {0} és incorrecta</seg>
       </tuv>
     </tu>
     <tu>
