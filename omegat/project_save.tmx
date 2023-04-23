@@ -2348,11 +2348,33 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=[console mode name] &lt;project path&gt; &lt;mode options&gt;
+	  Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230423T113354Z" creationid="Marc Riera" creationdate="20230423T113354Z">
+        <seg>--mode=[nom del mode de consola] &lt;camí del projecte&gt; &lt;opcions del mode&gt;
+	  Permet especificar un mode diferent del mode GUI per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-align
 	  --alignDir=&lt;path&gt;
 	    A folder containing the translated files.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215431Z" creationid="Marc Riera" creationdate="20221123T215431Z">
+        <seg>--mode=console-align:
+	  --alignDir=&lt;camí&gt;
+	    Carpeta amb els fitxers traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    The folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230423T113400Z" creationid="Marc Riera" creationdate="20230423T113400Z">
         <seg>--mode=console-align:
 	  --alignDir=&lt;camí&gt;
 	    Carpeta amb els fitxers traduïts.</seg>
@@ -2384,6 +2406,20 @@ per a editar-lo com a projecte en equip.)</seg>
         <seg>--mode=console-createpseudotranslatetmx:
 	  --pseudotranslatetmx=&lt;camí&gt;
 	    Fitxer TMX pseudotraduït de sortida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats
+	  --output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230423T113428Z" creationid="Marc Riera" creationdate="20230423T113428Z">
+        <seg>--mode=console-stats
+	  --output-file=[fitxer de sortida d'estadístiques]
+	    Envia els resultats al fitxer especificat o a la sortida estàndard
+	    si no s'indica cap fitxer o no s'utilitza l'opció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13666,6 +13702,14 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Enter the password for {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230423T113309Z" creationid="Marc Riera" creationdate="20230423T113309Z">
+        <seg>Indiqueu la contrasenya per a {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Enter the segment number:</seg>
@@ -13680,6 +13724,14 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230201T134141Z" creationid="Marc Riera" creationdate="20230201T134141Z">
         <seg>Indiqueu la cadena que voleu inserir per a substituir el terme de cerca en el camp &lt;g0&gt;Substitueix-ho per:&lt;/g0&gt; i feu clic en &lt;g1&gt;Cerca&lt;/g1&gt; o premeu &lt;k2&gt;Retorn&lt;/k2&gt; si el cursor encara és en el camp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the username for {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230423T113304Z" creationid="Marc Riera" creationdate="20230423T113304Z">
+        <seg>Indiqueu l'usuari per a {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -14935,6 +14987,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T202721Z" creationid="Marc Riera" creationdate="20221124T202721Z">
         <seg>Format dels &amp;fitxers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File (segs):</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230423T113440Z" creationid="Marc Riera" creationdate="20230423T113440Z">
+        <seg>Fitxer (segments):</seg>
       </tuv>
     </tu>
     <tu>
@@ -29954,6 +30014,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230227T110559Z" creationid="Marc Riera" creationdate="20230227T110559Z">
         <seg>Codi de la llengua de destinació del projecte i nom del diccionari de correcció ortogràfica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230423T113434Z" creationid="Marc Riera" creationdate="20230423T113434Z">
+        <seg>Projecte:</seg>
       </tuv>
     </tu>
     <tu>
