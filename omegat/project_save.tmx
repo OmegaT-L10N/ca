@@ -14007,6 +14007,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Error while reading a TMX file in the project: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230503T064550Z" creationid="Marc Riera" creationdate="20230503T064550Z">
+        <seg>S'ha produït un error en llegir el fitxer TMX del projecte: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error while trying to save script.</seg>
@@ -14400,6 +14408,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200121T221718Z" creationid="Marc Riera" creationdate="20191112T224900Z">
         <seg>S'ha produït una excepció en editar les opcions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exception while parsing "project_save.tmx":</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230503T064458Z" creationid="Marc Riera" creationdate="20230503T064458Z">
+        <seg>S'ha produït una excepció en analitzar el fitxer «project_save.tmx»:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14911,12 +14927,36 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Failed to load the project due to file corruption.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230503T070917Z" creationid="Marc Riera" creationdate="20230503T070917Z">
+        <seg>No s'ha pogut carregar el projecte perquè hi ha fitxers malmesos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the specified project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230503T064426Z" creationid="Marc Riera" creationdate="20230503T064426Z">
+        <seg>No s'ha pogut carregar el projecte especificat.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173008Z" creationid="Marc Riera" creationdate="20180221T111723Z">
         <seg>No s'ha pogut carregar la memòria de traducció «{0}» del projecte!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory {0} for the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230503T064422Z" creationid="Marc Riera" creationdate="20230503T064422Z">
+        <seg>No s'ha pogut carregar la memòria de traducció «{0}» del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14944,6 +14984,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T121819Z" creationid="Marc Riera" creationdate="20180214T224046Z">
         <seg>S'ha produït un error greu en la línia {0}, columna {1} en analitzar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fatal error while parsing "project_save.tmx" file(line {0}, column {1}):</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230503T064536Z" creationid="Marc Riera" creationdate="20230503T064536Z">
+        <seg>S'ha produït un error fatal en analitzar el fitxer «project_save.tmx» (línia {0}, columna {1}):</seg>
       </tuv>
     </tu>
     <tu>
