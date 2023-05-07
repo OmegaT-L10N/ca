@@ -3373,6 +3373,30 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;f0&gt;LL-CC.tmx&lt;/f0&gt;, or</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230507T134959Z" creationid="Marc Riera" creationdate="20230507T134959Z">
+        <seg>&lt;f0&gt;LL-CC.tmx&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;LL.tmx&lt;/f0&gt;,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230507T135026Z" creationid="Marc Riera" creationdate="20230507T135026Z">
+        <seg>&lt;f0&gt;LL.tmx&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;LL_CC.tmx&lt;/f0&gt;,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230507T135018Z" creationid="Marc Riera" creationdate="20230507T134951Z">
+        <seg>&lt;f0&gt;LL_CC.tmx&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T124125Z" creationid="Marc Riera" creationdate="20230130T124125Z">
@@ -6279,6 +6303,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the letters must be capital letters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230507T135105Z" creationid="Marc Riera" creationdate="20230507T135105Z">
+        <seg>Totes les lletres han d'anar en majúscula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the parameters located in a &lt;l0&gt;project folder&lt;/l0&gt; will apply to that project regardless of which version of OmegaT opens it.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175544Z" creationid="Marc Riera" creationdate="20221218T175544Z">
@@ -8427,6 +8459,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084037Z" creationid="Marc Riera" creationdate="20221214T084037Z">
         <seg>Per defecte, la codificació del fitxer traduït és la mateixa que la del fitxer d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, those matches are limited to the source and target languages defined in the &lt;l1/&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230507T134921Z" creationid="Marc Riera" creationdate="20230507T134921Z">
+        <seg>Per defecte, aquestes coincidències es limiten a les llengües d'origen i de destinació definides en el quadre de diàleg &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18761,6 +18801,14 @@ als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there isn’t one, it installs the program in &lt;f1&gt;/opt/omegat/OmegaT_5.8.1&lt;/f1&gt; and sets it as the default version (in &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230507T134853Z" creationid="Marc Riera" creationdate="20230507T134853Z">
+        <seg>Si no n'hi ha cap, instal·la el programa en la carpeta &lt;f1&gt;/opt/omegat/OmegaT_5.8.1&lt;/f1&gt; i l'estableix com a versió per defecte (en la carpeta &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there isn’t one, it installs the program in &lt;f1&gt;/opt/omegat/OmegaT_6.0.0&lt;/f1&gt; and sets it as the default version (in &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230402T104314Z" creationid="Marc Riera" creationdate="20230402T104314Z">
@@ -19090,6 +19138,14 @@ extensions dels fitxers.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124510Z" creationid="Marc Riera" creationdate="20221211T144208Z">
         <seg>Si primer baixeu el projecte remot mitjançant un fitxer &lt;f0&gt;omegat.project&lt;/f0&gt; proporcionat per l'administrador del projecte, l'OmegaT utilitzarà les assignacions en aquest fitxer, si n'hi ha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have a TMX that corresponds to your source document and contains its translation to a different language, you can also display that language &lt;e0&gt;right below&lt;/e0&gt; the source segment for use as an additional reference language.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230507T141053Z" creationid="Marc Riera" creationdate="20230507T141053Z">
+        <seg>Si teniu un fitxer TMX corresponent al fitxer d'origen que conté la traducció a una llengua diferent, també podeu mostrar la llengua &lt;e0&gt;just a sota&lt;/e0&gt; del segment d'origen com a referència en una altra llengua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25931,6 +25987,30 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 5.8.1</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230507T135221Z" creationid="Marc Riera" creationdate="20230507T135221Z">
+        <seg>OmegaT 5.8.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT 5.8.1 - User Manual</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230507T135217Z" creationid="Marc Riera" creationdate="20230507T135217Z">
+        <seg>OmegaT 5.8.1 - Manual d'usuari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT 5.8.1 requires a Java 8 Runtime Environment (JRE) to run.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230507T134847Z" creationid="Marc Riera" creationdate="20230507T134847Z">
+        <seg>L'OmegaT 5.8.1 requereix el Java 8 Runtime Environment (JRE) per a executar-se.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT 6.0.0</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230402T110008Z" creationid="Marc Riera" creationdate="20230402T110008Z">
@@ -27752,6 +27832,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085209Z" creationid="Marc Riera" creationdate="20230104T085209Z">
         <seg>Només les files amb la casella &lt;g0&gt;Conserva&lt;/g0&gt; marcada en la primera columna es desen en la memòria de traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only segments that match the source &lt;e0&gt;exactly&lt;/e0&gt; displayed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230507T135134Z" creationid="Marc Riera" creationdate="20230507T135134Z">
+        <seg>Només es mostren els segments que són una coincidència &lt;e0&gt;exacta&lt;/e0&gt; amb el text d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31220,6 +31308,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T213347Z" creationid="Marc Riera" creationdate="20221225T213347Z">
         <seg>Canvieu el nom de la memòria a &lt;f0&gt;LL_CC.tmx&lt;/f0&gt; o &lt;f1&gt;LL-CC.tmx&lt;/f1&gt;. &lt;e2&gt;LL&lt;/e2&gt; és el codi de llengua intern que voleu mostrar com a referència i &lt;e3&gt;CC&lt;/e3&gt; és un codi arbitrari de dues lletres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rename the memory file to:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230507T135015Z" creationid="Marc Riera" creationdate="20230507T134949Z">
+        <seg>Canvieu el nom del fitxer de la memòria a una de les opcions següents:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36033,6 +36129,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202025Z" creationid="Marc Riera" creationdate="20221206T202025Z">
         <seg>Estàndard: OmegaT 5.8.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Standard: OmegaT 5.8.1</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230507T134839Z" creationid="Marc Riera" creationdate="20230507T134839Z">
+        <seg>Estàndard: OmegaT 5.8.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -47198,6 +47302,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using a Japanese reference under the English source</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230507T135152Z" creationid="Marc Riera" creationdate="20230507T135152Z">
+        <seg>Ús d'una referència en japonès sota el text d'origen en anglès</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using a different language checker on your local machine than the one supplied with OmegaT allows you to customize the verification rules.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144733Z" creationid="Marc Riera" creationdate="20230105T144733Z">
@@ -48634,6 +48746,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can add matches in languages that are not the target language.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230507T134934Z" creationid="Marc Riera" creationdate="20230507T134934Z">
+        <seg>Podeu afegir coincidències en llengües que no siguin la llengua de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can add such files to your project's &lt;l0/&gt; folder or one of its subfolders and the translated data will be immediately be available for matching purposes.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230402T104550Z" creationid="Marc Riera" creationdate="20230402T104550Z">
@@ -49514,6 +49634,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150809Z" creationid="Marc Riera" creationdate="20230131T150809Z">
         <seg>Podeu utilitzar &lt;k0&gt;Tab&lt;/k0&gt; com a drecera alternativa si s'ha habilitat la preferència &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use any number of TMX files containing as many different bridge language pairs as you want.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230507T135212Z" creationid="Marc Riera" creationdate="20230507T135212Z">
+        <seg>Podeu utilitzar qualsevol nombre de fitxers TMX en tants parells de llengües diferents com vulgueu com a llengües de «referència».</seg>
       </tuv>
     </tu>
     <tu>
@@ -54947,6 +55075,14 @@ config-dir="camí/a/una/carpeta/de/configuració"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>where &lt;e0&gt;LL&lt;/e0&gt; is the internal language code of the langage that you want to display as reference, and &lt;e1&gt;CC&lt;/e1&gt; is an arbitrary 2-letter code.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230507T135056Z" creationid="Marc Riera" creationdate="20230507T135056Z">
+        <seg>&lt;e0&gt;LL&lt;/e0&gt; és el codi de llengua intern de la llengua que voleu mostrar com a referència i &lt;e1&gt;CC&lt;/e1&gt; és un codi arbitrari de dues lletres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>where &lt;p0&gt;&lt;charset&gt;&lt;/p0&gt; is typically one of the sets listed in the &lt;u1&gt;IANA Charset Registry&lt;/u1&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T102945Z" creationid="Marc Riera" creationdate="20221206T102945Z">
@@ -55319,6 +55455,22 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;
 &lt;t0&gt;A whitespace character: [ \t\n\x0B\f\r]
 fr-ZB: Un caractère d'espacement (espace, tabulation, etc.) :  [ \t\n\x0B\f\r]
 ja-RV: 空白文字：[ \t\n\x0B\f\r]&lt;/t0&gt;
+Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;&lt;/t1&gt;
+— ¶ —————————————————————</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>— ¶ —————————————————————
+&lt;t0&gt;A whitespace character: [ \t\n\x0B\f\r]
+ja-JP: 空白文字：[ \t\n\x0B\f\r]&lt;/t0&gt;
+Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;&lt;/t1&gt;
+— ¶ —————————————————————</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230507T135159Z" creationid="Marc Riera" creationdate="20230507T135159Z">
+        <seg>— ¶ —————————————————————
+&lt;t0&gt;A whitespace character: [ \t\n\x0B\f\r]
+ja-JP: 空白文字：[ \t\n\x0B\f\r]&lt;/t0&gt;
 Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;&lt;/t1&gt;
 — ¶ —————————————————————</seg>
       </tuv>
