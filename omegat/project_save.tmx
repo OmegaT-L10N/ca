@@ -10850,6 +10850,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the translation memory containing the additional reference language into &lt;f0&gt;tmx2source&lt;/f0&gt; in the &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230507T141129Z" creationid="Marc Riera" creationdate="20230507T141129Z">
+        <seg>Copieu la memòria de traducció que conté la referència en una altra llengua en una carpeta amb el nom &lt;f0&gt;tmx2source&lt;/f0&gt; en la carpeta &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy your “first-third” language translation memory there.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T213329Z" creationid="Marc Riera" creationdate="20221225T213329Z">
@@ -19138,6 +19146,14 @@ extensions dels fitxers.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124510Z" creationid="Marc Riera" creationdate="20221211T144208Z">
         <seg>Si primer baixeu el projecte remot mitjançant un fitxer &lt;f0&gt;omegat.project&lt;/f0&gt; proporcionat per l'administrador del projecte, l'OmegaT utilitzarà les assignacions en aquest fitxer, si n'hi ha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have a TMX that contains the Japanese translation of an English document you are translating to French, you can use the Japanese translation as an alternative exact reference by displaying it under the English text to translate.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230507T151320Z" creationid="Marc Riera" creationdate="20230507T151320Z">
+        <seg>Si teniu un fitxer TMX que conté una traducció al japonès d'un fitxer en anglès que traduïu al francès, podeu utilitzar la traducció en japonès com a referència exacta alternativa mostrant-la sota el text en anglès que voleu traduir.</seg>
       </tuv>
     </tu>
     <tu>
