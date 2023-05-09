@@ -4594,10 +4594,26 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;o0&gt;--mode=console-stats&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230509T173745Z" creationid="Marc Riera" creationdate="20230509T173745Z">
+        <seg>&lt;o0&gt;--mode=console-stats&lt;/o0&gt; &lt;u1&gt;&lt;camí del projecte&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;o0&gt;--mode=console-translate&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230509T135956Z" creationid="Marc Riera" creationdate="20230509T135956Z">
         <seg>&lt;o0&gt;--mode=console-translate&lt;/o0&gt; &lt;u1&gt;&lt;camí del projecte&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--output-file=&lt;/o0&gt;&lt;u1&gt;[stats-output-file]&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230509T173754Z" creationid="Marc Riera" creationdate="20230509T173754Z">
+        <seg>&lt;o0&gt;--output-file=&lt;/o0&gt;&lt;u1&gt;[fitxer de sortida d'estadístiques]&lt;/u1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4630,6 +4646,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230509T135914Z" creationid="Marc Riera" creationdate="20230509T135914Z">
         <seg>&lt;o0&gt;--resource-bundle=&lt;/o0&gt;&lt;u1&gt;&lt;camí&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--script=&lt;/o0&gt;&lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230509T173801Z" creationid="Marc Riera" creationdate="20230509T173801Z">
+        <seg>&lt;o0&gt;--script=&lt;/o0&gt;&lt;u1&gt;&lt;camí&gt;&lt;/u1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7392,6 +7416,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
         <seg>As in regular local projects, the configuration of the team project is defined by the contents &lt;f0&gt;omegat.project&lt;/f0&gt; file and the optional use of special files for project-specific filters or segmentation rules.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124706Z" creationid="Marc Riera" creationdate="20221225T124706Z">
+        <seg>Com en els projectes locals normals, la configuració del projecte en equip es defineix segons el contingut del fitxer &lt;f0&gt;omegat.project&lt;/f0&gt; i l'ús opcional de fitxers especials per a filtres o regles de segmentació específics del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As in regular local projects, the configuration of the team project is defined by the contents of the &lt;f0&gt;omegat.project&lt;/f0&gt; file and the optional use of special files for project-specific filters or segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230509T173811Z" creationid="Marc Riera" creationdate="20230509T173811Z">
         <seg>Com en els projectes locals normals, la configuració del projecte en equip es defineix segons el contingut del fitxer &lt;f0&gt;omegat.project&lt;/f0&gt; i l'ús opcional de fitxers especials per a filtres o regles de segmentació específics del projecte.</seg>
       </tuv>
     </tu>
@@ -16075,6 +16107,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance, if the project is EN-to-FR, the specified folder must contain a bundle ending with &lt;f0&gt;_fr&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230509T173705Z" creationid="Marc Riera" creationdate="20230509T173705Z">
+        <seg>Per exemple, si el projecte és EN a FR, la carpeta ha de contenir un paquet que acabi amb &lt;f0&gt;_fr&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For large jobs involving a team of translators, it is easier for everyone involved in sharing common translation memories rather than pass local versions back and forth.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T125247Z" creationid="Marc Riera" creationdate="20221211T125247Z">
@@ -18900,6 +18940,14 @@ als valors per defecte.</seg>
         <seg>If there is a conflict between the remote and local versions of the &lt;f0&gt;omegat.project&lt;/f0&gt; and the local version is overwritten, OmegaT creates a backup file called &lt;f1&gt;omegat.project.YYYYMMDDhhmm.bak&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T144244Z" creationid="Marc Riera" creationdate="20221211T144244Z">
+        <seg>Si hi ha un conflicte entre les versions remotes i locals del fitxer &lt;f0&gt;omegat.project&lt;/f0&gt; i se sobreescriu la versió local, l'OmegaT crea un fitxer de còpia de seguretat anomenat &lt;f1&gt;omegat.project.AAAAMMDDhhmm.bak&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there is a conflict between the remote and local versions of the &lt;f0&gt;omegat.project&lt;/f0&gt; file and the local version is overwritten, OmegaT creates a backup file called &lt;f1&gt;omegat.project.YYYYMMDDhhmm.bak&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230509T173820Z" creationid="Marc Riera" creationdate="20230509T173820Z">
         <seg>Si hi ha un conflicte entre les versions remotes i locals del fitxer &lt;f0&gt;omegat.project&lt;/f0&gt; i se sobreescriu la versió local, l'OmegaT crea un fitxer de còpia de seguretat anomenat &lt;f1&gt;omegat.project.AAAAMMDDhhmm.bak&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
@@ -40837,6 +40885,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The resulting TMX file is saved in the &lt;f0&gt;omegat/&lt;/f0&gt; folder as &lt;f1&gt;align.tmx&lt;/f1&gt; The file types that can be aligned depend on whether the alignment is supported by the file filter.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230509T173733Z" creationid="Marc Riera" creationdate="20230509T173733Z">
+        <seg>El fitxer TMX resultant es desa en la carpeta &lt;f0&gt;omegat/&lt;/f0&gt; amb el nom &lt;f1&gt;align.tmx&lt;/f1&gt;. Els tipus de fitxers que es poden alinear depenen de si el filtre de fitxers és compatible amb l'alineació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The resulting file is located in the &lt;l0/&gt; folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T174110Z" creationid="Marc Riera" creationdate="20221210T174110Z">
@@ -41869,6 +41925,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T214829Z" creationid="Marc Riera" creationdate="20221208T214829Z">
         <seg>Hi ha dues maneres d'utilitzar aquesta funció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are two ways to work offline:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230509T173825Z" creationid="Marc Riera" creationdate="20230509T173825Z">
+        <seg>Hi ha dues maneres de treballar fora de línia:</seg>
       </tuv>
     </tu>
     <tu>
