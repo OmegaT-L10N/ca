@@ -4546,6 +4546,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;o0&gt;--alignDir=&lt;/o0&gt;&lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230509T140107Z" creationid="Marc Riera" creationdate="20230509T140107Z">
+        <seg>&lt;o0&gt;--alignDir=&lt;/o0&gt;&lt;u1&gt;&lt;camí del projecte&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;o0&gt;--config-dir=&lt;/o0&gt;&lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230509T135030Z" creationid="Marc Riera" creationdate="20230509T135030Z">
@@ -4558,6 +4566,46 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230509T135037Z" creationid="Marc Riera" creationdate="20230509T135037Z">
         <seg>&lt;o0&gt;--config-file=&lt;/o0&gt;&lt;u1&gt;&lt;camí&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--mode=[console mode name]&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt; &lt;u2&gt;&lt;mode option&gt;&lt;/u2&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230509T135935Z" creationid="Marc Riera" creationdate="20230509T135935Z">
+        <seg>&lt;o0&gt;--mode=[nom del mode de consola]&lt;/o0&gt; &lt;u1&gt;&lt;camí del projecte&gt;&lt;/u1&gt; &lt;u2&gt;&lt;opcions del mode&gt;&lt;/u2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--mode=console-align&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230509T140043Z" creationid="Marc Riera" creationdate="20230509T140043Z">
+        <seg>&lt;o0&gt;--mode=console-align&lt;/o0&gt; &lt;u1&gt;&lt;camí del projecte&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--mode=console-createpseudotranslatetmx&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230509T140019Z" creationid="Marc Riera" creationdate="20230509T140019Z">
+        <seg>&lt;o0&gt;--mode=console-createpseudotranslatetmx&lt;/o0&gt; &lt;u1&gt;&lt;camí del projecte&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--mode=console-translate&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230509T135956Z" creationid="Marc Riera" creationdate="20230509T135956Z">
+        <seg>&lt;o0&gt;--mode=console-translate&lt;/o0&gt; &lt;u1&gt;&lt;camí del projecte&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--pseudotranslatetmx=&lt;/o0&gt;&lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230509T140034Z" creationid="Marc Riera" creationdate="20230509T140034Z">
+        <seg>&lt;o0&gt;--pseudotranslatetmx=&lt;/o0&gt;&lt;u1&gt;&lt;camí&gt;&lt;/u1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4582,6 +4630,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230509T135914Z" creationid="Marc Riera" creationdate="20230509T135914Z">
         <seg>&lt;o0&gt;--resource-bundle=&lt;/o0&gt;&lt;u1&gt;&lt;camí&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--source-pattern=&lt;/o0&gt;&lt;u1&gt;&lt;pattern&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230509T140005Z" creationid="Marc Riera" creationdate="20230509T140005Z">
+        <seg>&lt;o0&gt;--source-pattern=&lt;/o0&gt;&lt;u1&gt;&lt;patró&gt;&lt;/u1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20195,6 +20251,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135623Z" creationid="Marc Riera" creationdate="20230130T135623Z">
         <seg>En aquest mode, l'OmegaT intenta traduir els fitxers de la carpeta d'origen amb les memòries de traducció disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this mode, OmegaT will align the files in the /source folder of the project with those at the location specified by the &lt;e0&gt;--alignDir&lt;/e0&gt; parameter below.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230509T140058Z" creationid="Marc Riera" creationdate="20230509T140058Z">
+        <seg>En aquest mode, l'OmegaT alinearà els fitxers de la carpeta «/source» del projecte amb els de la ubicació especificada amb el paràmetre &lt;e0&gt;--alignDir&lt;/e0&gt; a continuació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36056,6 +36120,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify the TMX file to create with:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230509T140025Z" creationid="Marc Riera" creationdate="20230509T140025Z">
+        <seg>Especifiqueu el fitxer TMX que s'ha de crear amb:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify the source and target languages and select the two files you want to align.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150325Z" creationid="Marc Riera" creationdate="20230131T150325Z">
@@ -40522,6 +40594,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221116T224220Z" creationid="Marc Riera" creationdate="20221116T224220Z">
         <seg>Les contrasenyes no coincideixen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The path containing the files translated in the target language.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230509T140121Z" creationid="Marc Riera" creationdate="20230509T140121Z">
+        <seg>Camí que conté els fitxers traduïts en la llengua de destinació.</seg>
       </tuv>
     </tu>
     <tu>
