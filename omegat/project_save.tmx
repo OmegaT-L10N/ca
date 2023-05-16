@@ -1390,6 +1390,14 @@ ${filePath}&gt;</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Redo</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230516T065303Z" creationid="Marc Riera" creationdate="20230516T065303Z">
+        <seg>&amp;Refés</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&amp;Redo Last Action</seg>
@@ -1511,6 +1519,14 @@ ${filePath}&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T233328Z" creationid="Marc Riera" creationdate="20180221T111519Z">
         <seg>&amp;Reinicialitza la finestra principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Restore OmegaT Window</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230516T065327Z" creationid="Marc Riera" creationdate="20230516T065327Z">
+        <seg>&amp;Reinicialitza la finestra de l'OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -1740,6 +1756,14 @@ ${filePath}&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T172300Z" creationid="Marc Riera" creationdate="20221117T172300Z">
         <seg>M&amp;AJÚSCULES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Undo</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230516T065300Z" creationid="Marc Riera" creationdate="20230516T065300Z">
+        <seg>&amp;Desfés</seg>
       </tuv>
     </tu>
     <tu>
@@ -2141,6 +2165,28 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsov (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Hiroshi Miura (lead developer)
+- Briac Pilpré (webmaster)
+- Philippe Tourigny (documentation manager)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230516T065226Z" creationid="Marc Riera" creationdate="20230516T065226Z">
+        <seg>- Marco Cevoli (coordinador de la comunitat del Telegram)
+- Jean-Christophe Helary (coordinador de la comunitat de Twitter)
+- Kos Ivantsov (coordinador de la localització)
+- Concepción Martin (coordinadora de la comunitat de Facebook)
+- Hiroshi Miura (desenvolupador principal)
+- Briac Pilpré (administrador de la web)
+- Philippe Tourigny (coordinador de la documentació)
+- Lucie Vecerova (coordinadora de la comunitat de Facebook)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- drag and drop files on this pane;
 	- use Project &gt; Add Files...;
 	- use Project &gt; Source Files... and click on Add Files...;
@@ -2153,6 +2199,22 @@ per a editar-lo com a projecte en equip.)</seg>
 	- Utilitzeu «Projecte &gt; Fitxers d'origen...» i feu clic en «Afegeix fitxers...»;
 	- Utilitzeu el gestor de fitxers per a copiar fitxers a la carpeta «source»
 	  i seleccioneu «Projecte &gt; Torna a carregar» per a recarregar el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
+	  if local filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230516T065250Z" creationid="Marc Riera" creationdate="20230516T065250Z">
+        <seg>- Comproveu que el format sigui compatible amb l'OmegaT:
+	- Si els paràmetres de filtres locals estan habilitats,
+	  aneu a «Projecte &gt; Propietats... &gt; Filtres de fitxers locals...»;
+	  en cas contrari, aneu a «Opcions &gt; Filtres de fitxers globals...»;
+	- Obriu els fitxers amb l'aplicació original i comproveu que no estiguin buits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5514,6 +5576,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230415T101124Z" creationid="Marc Riera" creationdate="20230415T101124Z">
         <seg>Anul·la...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Abort: Exit with an error if tags are invalid.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230516T065235Z" creationid="Marc Riera" creationdate="20230516T065235Z">
+        <seg>Abort: surt amb un error si les etiquetes no són vàlides.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12958,6 +13028,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click characters, or select them and press the Insert key, to add them to the custom table.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230516T065422Z" creationid="Marc Riera" creationdate="20230516T065422Z">
+        <seg>Feu doble clic en els caràcters, o bé seleccioneu-los i premeu la tecla Insereix, per a afegir-los a la taula personalitzada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T121838Z" creationid="Marc Riera" creationdate="20230130T121838Z">
@@ -13956,6 +14034,14 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220117Z" creationid="Marc Riera" creationdate="20221124T220117Z">
         <seg>Indiqueu l'usuari i la contrasenya per a {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter your master password</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230516T065429Z" creationid="Marc Riera" creationdate="20230516T065429Z">
+        <seg>Introduïu la contrasenya mestra</seg>
       </tuv>
     </tu>
     <tu>
@@ -20402,6 +20488,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Incorrect password</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230516T065432Z" creationid="Marc Riera" creationdate="20230516T065432Z">
+        <seg>La contrasenya és incorrecta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Incorrect password.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221116T224218Z" creationid="Marc Riera" creationdate="20221116T224218Z">
@@ -20621,6 +20715,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215018Z" creationid="Marc Riera" creationdate="20221124T215018Z">
         <seg>Insereix la coincidència o la selecció en la traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Missing &amp;Tags</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230516T065319Z" creationid="Marc Riera" creationdate="20230516T065319Z">
+        <seg>Insereix les e&amp;tiquetes que falten</seg>
       </tuv>
     </tu>
     <tu>
@@ -24016,6 +24118,14 @@ en la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches come from your current translation or the reference files placed in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230516T065345Z" creationid="Marc Riera" creationdate="20230516T065337Z">
+        <seg>Les coincidències provenen tant de la traducció actual com dels fitxers de referència de la carpeta «/tm/».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches deleted active</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220500Z" creationid="Marc Riera" creationdate="20221124T220500Z">
@@ -26000,6 +26110,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181111T230758Z" creationid="mgalo" creationdate="20181111T230758Z">
         <seg>Avisa'm quan un segment contingui notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me When the Segment Has Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230516T065354Z" creationid="Marc Riera" creationdate="20230516T065354Z">
+        <seg>Avisa'm quan el segment tingui coincidències parcials</seg>
       </tuv>
     </tu>
     <tu>
@@ -38325,6 +38443,20 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T215839Z" creationid="Marc Riera" creationdate="20230131T215839Z">
         <seg>Documentació de l'&lt;u0&gt;API de l'OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The @language@ version of OmegaT has been translated by:
+@TRANSLATION_NOTICE@</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230516T065151Z" creationid="Marc Riera" creationdate="20230516T065151Z">
+        <seg>Han participat en la localització de l'OmegaT al català:
+Mikel Forcada Zubizarreta (versió 1.4)
+Jordi Serratosa Quintana (versions 1.6 a 3.0)
+Mariona Galofré Pujol (versió 4.1)
+Moisés Piñero Fernandez (versió 4.1)
+Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
