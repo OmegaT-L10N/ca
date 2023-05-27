@@ -15382,9 +15382,25 @@ els fils de teranyina t'aparten.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project because the specified source folder contains a symbolic or hard link that points back to itself or one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230527T105337Z" creationid="Marc Riera" creationdate="20230527T105337Z">
+        <seg>No s'ha pogut carregar el projecte perquè la carpeta de fitxers d'origen especificada conté un enllaç simbòlic o físic dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load the project by a file access problem.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230503T070939Z" creationid="Marc Riera" creationdate="20230503T070939Z">
+        <seg>No s'ha pogut carregar el projecte perquè hi ha un problema d'accés als fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the project due to a file access issue.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230527T105114Z" creationid="Marc Riera" creationdate="20230527T105114Z">
         <seg>No s'ha pogut carregar el projecte perquè hi ha un problema d'accés als fitxers.</seg>
       </tuv>
     </tu>
@@ -15394,6 +15410,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230503T070917Z" creationid="Marc Riera" creationdate="20230503T070917Z">
         <seg>No s'ha pogut carregar el projecte perquè hi ha fitxers malmesos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the specified project!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230527T105109Z" creationid="Marc Riera" creationdate="20230527T105109Z">
+        <seg>No s'ha pogut carregar el projecte especificat!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15410,6 +15434,14 @@ els fils de teranyina t'aparten.
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173008Z" creationid="Marc Riera" creationdate="20180221T111723Z">
+        <seg>No s'ha pogut carregar la memòria de traducció «{0}» del projecte!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory {0} for the project!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230527T105104Z" creationid="Marc Riera" creationdate="20230527T105104Z">
         <seg>No s'ha pogut carregar la memòria de traducció «{0}» del projecte!</seg>
       </tuv>
     </tu>
@@ -23743,6 +23775,14 @@ en la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure all links are outside the source folder and subfolders.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230527T105223Z" creationid="Marc Riera" creationdate="20230527T105223Z">
+        <seg>Assegureu-vos que tots els enllaços siguin fora de la carpeta de fitxers d'origen i de les subcarpetes que conté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure that the files are identical.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230226T093138Z" creationid="Marc Riera" creationdate="20230226T093138Z">
@@ -23779,6 +23819,14 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092607Z" creationid="Marc Riera" creationdate="20230226T092607Z">
         <seg>Assegureu-vos que indiqueu els codis de llengua correctes i que els codis que indiqueu en qualsevol altre lloc coincideixin exactament amb els que indiqueu aquí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure you have the correct permissions or that you can access the files if they are stored in the cloud.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230527T105146Z" creationid="Marc Riera" creationdate="20230527T105146Z">
+        <seg>Assegureu-vos que tingueu els permisos correctes o que pugueu accedir als fitxers si estan emmagatzemats en el núvol.</seg>
       </tuv>
     </tu>
     <tu>
