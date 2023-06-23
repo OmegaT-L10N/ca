@@ -56692,5 +56692,27 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;
         <seg>Instal·lació</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">website/yml/ca.yml</prop>
+      <prop type="id">tu7_0</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230623T072918Z" creationid="Marc Riera" creationdate="20230623T072918Z">
+        <seg>Baixades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">website/yml/ca.yml</prop>
+      <prop type="id">tu8_0</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Install</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230623T072913Z" creationid="Marc Riera" creationdate="20230623T072913Z">
+        <seg>Instal·lació</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
