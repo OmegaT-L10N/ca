@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_a2fb4e2" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4310,6 +4310,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210514T152323Z" creationid="Marc Riera" creationdate="20210514T152323Z">
         <seg>&lt;i1&gt;L'OmegaT es pot instal·lar en qualsevol sistema operatiu que pugui executar la versió 1.8 del Java Runtime Environment.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 11 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230626T164905Z" creationid="Marc Riera" creationdate="20230626T164905Z">
+        <seg>&lt;i1&gt;L'OmegaT es pot instal·lar en qualsevol sistema operatiu que pugui executar la versió 11 del Java Runtime Environment.&lt;/i1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27018,6 +27026,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210514T152334Z" creationid="Marc Riera" creationdate="20210514T152334Z">
         <seg>L'OmegaT actualment requereix la versió 1.8 o superior del JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT currently requires version 11 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230626T164907Z" creationid="Marc Riera" creationdate="20230626T164907Z">
+        <seg>L'OmegaT actualment requereix la versió 11 o superior del JRE.</seg>
       </tuv>
     </tu>
     <tu>
