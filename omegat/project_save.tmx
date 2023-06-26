@@ -4909,6 +4909,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230626T080204Z" creationid="Marc Riera" creationdate="20230626T080204Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Versió més recent</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standard Version</seg>
@@ -6784,6 +6792,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also, consider testing &lt;a0&gt;weekly builds&lt;/a0&gt; of OmegaT that may contain even more new and fascinating bugs!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230626T080212Z" creationid="Marc Riera" creationdate="20230626T080212Z">
+        <seg>També poden provar les &lt;a0&gt;compilacions setmanals&lt;/a0&gt; de l'OmegaT, que poden contenir errors encara més recents i fascinants!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Enter&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T220714Z" creationid="Marc Riera" creationdate="20221204T220714Z">
@@ -8160,6 +8176,14 @@ Demana una altra copa!</seg>
         <seg>Based on your choices, we recommand you use:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T141114Z" creationid="Marc Riera" creationdate="20201125T141114Z">
+        <seg>Segons la vostra selecció, us recomanem que utilitzeu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on your choices, we recommend you use:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230626T080144Z" creationid="Marc Riera" creationdate="20230626T080144Z">
         <seg>Segons la vostra selecció, us recomanem que utilitzeu:</seg>
       </tuv>
     </tu>
@@ -11665,6 +11689,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Currently, we offer only a Standard version.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230626T080131Z" creationid="Marc Riera" creationdate="20230626T080131Z">
+        <seg>Actualment, només oferim una versió estàndard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cursor lock</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T163124Z" creationid="Marc Riera" creationdate="20230101T202931Z">
@@ -12246,6 +12278,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202055Z" creationid="Marc Riera" creationdate="20221206T202055Z">
         <seg>Desenvolupament: OmegaT (compilació nocturna)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Developer: OmegaT Weekly</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230626T075940Z" creationid="Marc Riera" creationdate="20230626T075940Z">
+        <seg>Desenvolupament: OmegaT setmanal</seg>
       </tuv>
     </tu>
     <tu>
@@ -15313,11 +15353,27 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Failed to commit source files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230626T080113Z" creationid="Marc Riera" creationdate="20230626T080113Z">
+        <seg>No s'han pogut publicar els fitxers d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Failed to commit target files!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215553Z" creationid="mgalo" creationdate="20181108T153502Z">
+        <seg>No s'han pogut publicar els fitxers de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to commit target files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230626T080115Z" creationid="Marc Riera" creationdate="20230626T080115Z">
         <seg>No s'han pogut publicar els fitxers de destinació.</seg>
       </tuv>
     </tu>
@@ -15344,6 +15400,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173003Z" creationid="Marc Riera" creationdate="20221117T173003Z">
         <seg>No s'han pogut crear els fitxers traduïts!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to create the translated files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230626T080108Z" creationid="Marc Riera" creationdate="20230626T080108Z">
+        <seg>No s'han pogut crear els fitxers traduïts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27138,6 +27202,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT has been successfully installed on Windows (all versions from Windows 8 onwards), macOS and Linux.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230626T080153Z" creationid="Marc Riera" creationdate="20230626T080153Z">
+        <seg>L'OmegaT s'ha instal·lat correctament en el Windows (totes les versions a partir del Windows 8), macOS i Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT has detected a 3.6-style team project.</seg>
@@ -29890,6 +29962,22 @@ everything.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201121T223843Z" creationid="Alexandra" creationdate="20150526T160100Z">
         <seg>Llista de reproducció de vídeos de l'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please check a file: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230626T080034Z" creationid="Marc Riera" creationdate="20230626T080034Z">
+        <seg>Comproveu un fitxer: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please check a link: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230626T080037Z" creationid="Marc Riera" creationdate="20230626T080026Z">
+        <seg>Comproveu un enllaç: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -35968,6 +36056,26 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped some source file(s)
+because the specified source folder contains a symbolic or hard link
+that points back to itself or one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230626T080007Z" creationid="Marc Riera" creationdate="20230626T080007Z">
+        <seg>S'han omès alguns fitxers d'origen
+perquè la carpeta de fitxers d'origen especificada conté un enllaç simbòlic o físic
+dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipped some source file(s) because of access permission error in the source folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230626T080105Z" creationid="Marc Riera" creationdate="20230626T080105Z">
+        <seg>S'han omès alguns fitxers d'origen perquè s'ha produït un error de permisos d'accés en la carpeta de fitxers d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipped source file {0} because it could not be loaded.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230207T160107Z" creationid="Marc Riera" creationdate="20230207T160107Z">
@@ -38366,6 +38474,14 @@ current folder will be used instead.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191113T071920Z" creationid="Marc Riera" creationdate="20191113T071920Z">
         <seg>S'utilitzarà
 la carpeta actual en el seu lloc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will have usually been tested for some time to eliminate any bugs.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230626T080139Z" creationid="Marc Riera" creationdate="20230626T080139Z">
+        <seg>La versió «estàndard» de l'OmegaT inclou un manual d'usuari complet (com a mínim en anglès) i normalment s'ha provat durant un temps per a eliminar qualsevol error.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48558,6 +48674,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T185830Z" creationid="Marc Riera" creationdate="20201122T185830Z">
         <seg>Podeu crear scripts en Groovy per a la compatibilitat amb llocs web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Weekly Builds</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230626T080157Z" creationid="Marc Riera" creationdate="20230626T080157Z">
+        <seg>Compilacions setmanals</seg>
       </tuv>
     </tu>
     <tu>
