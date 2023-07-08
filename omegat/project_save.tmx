@@ -14977,6 +14977,14 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Excluding old version of '{0}' ({1}), keeping {2}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230708T160744Z" creationid="Marc Riera" creationdate="20230708T160744Z">
+        <seg>S'exclou la versió antiga de «{0}» ({1}), es manté {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Exclusion Patterns</seg>
@@ -15416,6 +15424,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230626T080108Z" creationid="Marc Riera" creationdate="20230626T080108Z">
         <seg>No s'han pogut crear els fitxers traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to decrypt for SSH key {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230708T160936Z" creationid="Marc Riera" creationdate="20230708T160936Z">
+        <seg>No s'ha pogut desxifrar la clau SSH {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -20776,10 +20792,26 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Incorrect password for {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230708T160926Z" creationid="Marc Riera" creationdate="20230708T160926Z">
+        <seg>La contrasenya per a {0} és incorrecta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Incorrect password.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221116T224218Z" creationid="Marc Riera" creationdate="20221116T224218Z">
         <seg>La contrasenya és incorrecta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Incorrect username/password for {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230708T160907Z" creationid="Marc Riera" creationdate="20230708T160900Z">
+        <seg>L'usuari o la contrasenya per a {0} són incorrectes</seg>
       </tuv>
     </tu>
     <tu>
@@ -35816,6 +35848,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Similar versions of '{0}' are present ({1} and {2}), keeping the latter</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230708T160810Z" creationid="Marc Riera" creationdate="20230708T160810Z">
+        <seg>Hi ha versions similars de «{0}» ({1} i {2}), es manté la segona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Similarly add any relevant lists of spellchecker files you want to make available to everyone working on the project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T142528Z" creationid="Marc Riera" creationdate="20230130T142528Z">
@@ -38741,8 +38781,8 @@ la carpeta actual en el seu lloc.</seg>
       <tuv lang="en">
         <seg>The &lt;g0&gt;Delimiter&lt;/g0&gt;defines the delimiter between command parameters.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183127Z" creationid="Marc Riera" creationdate="20230104T183127Z">
-        <seg>El &lt;g0&gt;delimitador&lt;/g0&gt;defineix el delimitador entre els paràmetres de l'ordre.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230708T160617Z" creationid="Marc Riera" creationdate="20230104T183127Z">
+        <seg>El &lt;g0&gt;delimitador&lt;/g0&gt; defineix el delimitador entre els paràmetres de l'ordre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40600,6 +40640,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230208T142905Z" creationid="Marc Riera" creationdate="20230208T142905Z">
         <seg>Les subfinestres següents poden proporcionar notificacions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following plugins won't be loaded because newer versions are installed, consider deleting them: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230708T160851Z" creationid="Marc Riera" creationdate="20230708T160851Z">
+        <seg>No es carregaran els connectors següents perquè s'han instal·lat versions més recents, penseu a suprimir-les: {0}</seg>
       </tuv>
     </tu>
     <tu>
