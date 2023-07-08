@@ -6736,9 +6736,25 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows you to activate or deactivate fuzzy matching for dictionary matches.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230708T174827Z" creationid="Marc Riera" creationdate="20230708T174827Z">
+        <seg>Us permet activar o desactivar les coincidències parcials per a les coincidències del diccionari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows you to activate or deactivate fuzzy matching for glossary maches.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162811Z" creationid="Marc Riera" creationdate="20230130T162811Z">
+        <seg>Us permet activar o desactivar les coincidències parcials per a les coincidències del glossari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allows you to activate or deactivate fuzzy matching for glossary matches.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230708T174817Z" creationid="Marc Riera" creationdate="20230708T174817Z">
         <seg>Us permet activar o desactivar les coincidències parcials per a les coincidències del glossari.</seg>
       </tuv>
     </tu>
@@ -14197,6 +14213,14 @@ is the language code and YY is the region or country code (optional).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the passphrase for SSH key {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230708T174841Z" creationid="Marc Riera" creationdate="20230708T174841Z">
+        <seg>Indiqueu la contrasenya per a la clau SSH {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the password for {0}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230423T113309Z" creationid="Marc Riera" creationdate="20230423T113309Z">
@@ -19215,6 +19239,14 @@ als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the identical segments also have identical preceding and following segments, you will not be able to translate them differently and make one of them an alternative translation in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230708T175112Z" creationid="Marc Riera" creationdate="20230708T175112Z">
+        <seg>Si els segments idèntics també tenen segments anteriors o posteriors idèntics, no podreu traduir-los de manera diferent i marcar-ne un com a traducció alternativa en l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the language is not available, OmegaT defaults to English even if the system uses a different default language.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093132Z" creationid="Marc Riera" creationdate="20221231T093132Z">
@@ -20479,6 +20511,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104843Z" creationid="Marc Riera" creationdate="20221224T104843Z">
         <seg>En el text d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In such cases, alternative translations relies on the identical segments having different preceding or following segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230708T175017Z" creationid="Marc Riera" creationdate="20230708T175017Z">
+        <seg>En aquests casos, les traduccions alternatives depenen que els segments idèntics tinguin segments anteriors o posteriors diferents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27075,6 +27115,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210717T092353Z" creationid="Marc Riera" creationdate="20210717T092353Z">
         <seg>Tema per defecte de l'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT differentiates between identical segments using either an internal identifier provided by the file type, or by referring to their preceding and following segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230708T174930Z" creationid="Marc Riera" creationdate="20230708T174930Z">
+        <seg>L'OmegaT distingeix els segments idèntics a partir de l'identificador intern proporcionat pel tipus de fitxer o fent referència als segments anteriors i següents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50746,6 +50794,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T172834Z" creationid="Marc Riera" creationdate="20221201T172834Z">
         <seg>Podeu pensar en la segmentació com el procés de desplaçar el cursor al llarg del text, caràcter per caràcter, i cercar la posició on es produirà una separació o on no es permetrà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can work around this issue by introducing a small change to one of the preceding or following segments in the source file to distinguish between the various instances of the same preceding or following segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230708T174808Z" creationid="Marc Riera" creationdate="20230708T174808Z">
+        <seg>Podeu evitar aquest problema aplicant un petit canvi a un dels segments anteriors o posteriors en el fitxer d'origen per a distingir les diferents repeticions dels mateixos segments anteriors i posteriors.</seg>
       </tuv>
     </tu>
     <tu>
