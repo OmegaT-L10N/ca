@@ -56850,6 +56850,28 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;
     </tu>
 <!-- Alternative translations -->
     <tu>
+      <prop type="file">5.8/Bundle.properties</prop>
+      <prop type="id">ALIGNER_MENU_OPTIONS_SEGMENT</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Segment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230716T182448Z" creationid="Marc Riera" creationdate="20230716T182448Z">
+        <seg>Segmenta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">5.8/Bundle.properties</prop>
+      <prop type="id">ALIGNER_PANEL_BUTTON_SEGMENT</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Segment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230716T182507Z" creationid="Marc Riera" creationdate="20230716T182507Z">
+        <seg>Segmenta</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">ALIGNER_FILEPICKER_SOURCE</prop>
       <note>&lt;status:approved&gt;</note>
@@ -56869,6 +56891,28 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T180135Z" creationid="Marc Riera" creationdate="20201128T180135Z">
         <seg>Fitxer de destinació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">ALIGNER_MENU_OPTIONS_SEGMENT</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Segment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230716T182250Z" creationid="Marc Riera" creationdate="20230716T182250Z">
+        <seg>Segmenta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">ALIGNER_PANEL_BUTTON_SEGMENT</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Segment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230716T182314Z" creationid="Marc Riera" creationdate="20230716T182314Z">
+        <seg>Segmenta</seg>
       </tuv>
     </tu>
     <tu>
@@ -56913,6 +56957,18 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T190750Z" creationid="Marc Riera" creationdate="20201128T190657Z">
         <seg>Combinació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/Windows_Aligner.xml</prop>
+      <prop type="prev">Options</prop>
+      <prop type="next">The aligner uses sentence segmentation by default.</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Segment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230716T182424Z" creationid="Marc Riera" creationdate="20230716T182424Z">
+        <seg>Segmenta</seg>
       </tuv>
     </tu>
     <tu>
