@@ -14509,6 +14509,14 @@ ningú no sent els vostres crits.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error while autosaving: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230819T115424Z" creationid="Marc Riera" creationdate="20230819T115424Z">
+        <seg>S'ha produït un error en desar automàticament: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while getting output of external program</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220130T182049Z" creationid="Marc Riera" creationdate="20220130T181929Z">
@@ -46328,6 +46336,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T214444Z" creationid="mgalo" creationdate="20181108T155658Z">
         <seg>No s'ha pogut baixar el projecte en equip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to get exclusive lock for autosave.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230819T115317Z" creationid="Marc Riera" creationdate="20230819T115317Z">
+        <seg>No s'ha pogut obtenir el blocatge exclusiu per al desament automàtic.</seg>
       </tuv>
     </tu>
     <tu>
