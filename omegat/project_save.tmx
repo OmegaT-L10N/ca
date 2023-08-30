@@ -15574,6 +15574,16 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory: {0}
+Some attributes have invalid values.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230830T074348Z" creationid="Marc Riera" creationdate="20230830T074348Z">
+        <seg>No s'ha pogut carregar la memòria de traducció: {0}
+Alguns atributs tenen valors no vàlids.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Failed to update project properties</seg>
@@ -16961,6 +16971,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230516T113128Z" creationid="Marc Riera" creationdate="20230516T113128Z">
         <seg>Regles de segmentació globals...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GO</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230830T074309Z" creationid="Marc Riera" creationdate="20230830T074309Z">
+        <seg>Ves-hi</seg>
       </tuv>
     </tu>
     <tu>
@@ -30901,6 +30919,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220253Z" creationid="Marc Riera" creationdate="20221124T220253Z">
         <seg>Interval de desament de les dades del projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project files:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230830T074314Z" creationid="Marc Riera" creationdate="20230830T074314Z">
+        <seg>Fitxers del projecte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46102,6 +46128,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>UI Style:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230830T074324Z" creationid="Marc Riera" creationdate="20230830T074324Z">
+        <seg>Estil de la interfície d'usuari:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>UNL</seg>
@@ -47619,6 +47653,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094835Z" creationid="Marc Riera" creationdate="20230207T094835Z">
         <seg>Utilitzeu blocs, sistemes d'escriptura i categories d'Unicode per a especificar classes de caràcters fora de l'interval de caràcters alfanumèrics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use a TMX validator to find and fix them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230830T074415Z" creationid="Marc Riera" creationdate="20230830T074415Z">
+        <seg>Utilitzeu una eina de validació de TMX per a trobar-los i corregir-los.</seg>
       </tuv>
     </tu>
     <tu>
