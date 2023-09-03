@@ -10808,6 +10808,14 @@ Dossier de configuration
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console alignment mode</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230903T141226Z" creationid="Marc Riera" creationdate="20230903T141226Z">
+        <seg>Mode d'alineació en la consola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console mode names and their options:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195717Z" creationid="Marc Riera" creationdate="20221005T195717Z">
@@ -10820,6 +10828,30 @@ Dossier de configuration
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221005T200539Z" creationid="Marc Riera" creationdate="20221005T200539Z">
         <seg>Opcions exclusives del mode de consola:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console project stats mode</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230903T141209Z" creationid="Marc Riera" creationdate="20230903T141209Z">
+        <seg>Mode d'estadístiques del projecte en la consola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console pseudo-translate mode</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230903T141221Z" creationid="Marc Riera" creationdate="20230903T141221Z">
+        <seg>Mode de pseudotraducció en la consola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console translation mode</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230903T141201Z" creationid="Marc Riera" creationdate="20230903T141139Z">
+        <seg>Mode de traducció en la consola</seg>
       </tuv>
     </tu>
     <tu>
@@ -13143,6 +13175,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Does specified directory exist?</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230903T141154Z" creationid="Marc Riera" creationdate="20230903T141154Z">
+        <seg>La carpeta especificada existeix?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Doing so has the added benefit of reducing mismatches in the initial automatic alignment, making the manual correction step smoother.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T200621Z" creationid="Marc Riera" creationdate="20221206T200621Z">
@@ -15035,6 +15075,14 @@ els fils de teranyina t'aparten.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Executing command: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230903T141304Z" creationid="Marc Riera" creationdate="20230903T141304Z">
+        <seg>S'està executant l'ordre: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Executing post-processing commands...</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180224Z" creationid="Marc Riera" creationdate="20221124T180224Z">
@@ -15489,6 +15537,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201004T101845Z" creationid="mgalo" creationdate="20181112T105545Z">
         <seg>No s'ha pogut recuperar la informació de la versió més recent: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to instantiate filter: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230903T141131Z" creationid="Marc Riera" creationdate="20230903T141131Z">
+        <seg>No s'ha pogut crear una instància del filtre: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -26073,6 +26129,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T144115Z" creationid="Marc Riera" creationdate="20190925T072135Z">
         <seg>No hi ha cap connexió disponible, el projecte està en el mode fora de línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No console found.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230903T141232Z" creationid="Marc Riera" creationdate="20230903T141232Z">
+        <seg>No s'ha trobat cap consola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36800,6 +36864,14 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source tokenizer: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230903T141250Z" creationid="Marc Riera" creationdate="20230903T141250Z">
+        <seg>Lematitzador d'origen: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source/translation length (characters)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180117Z" creationid="Marc Riera" creationdate="20221124T180117Z">
@@ -38229,6 +38301,14 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T152806Z" creationid="Marc Riera" creationdate="20180212T221325Z">
         <seg>Terme de destinació:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target tokenizer: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230903T141256Z" creationid="Marc Riera" creationdate="20230903T141256Z">
+        <seg>Lematitzador de destinació: {0}</seg>
       </tuv>
     </tu>
     <tu>
