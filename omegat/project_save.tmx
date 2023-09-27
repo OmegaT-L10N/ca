@@ -17210,6 +17210,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Git: Ignore credentials query: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T114122Z" creationid="Marc Riera" creationdate="20230927T114122Z">
+        <seg>Git: s'ha ignorat la consulta de credencials: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Give access rights to your team</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T183120Z" creationid="Marc Riera" creationdate="20221217T183120Z">
@@ -21114,6 +21122,22 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135016Z" creationid="Marc Riera" creationdate="20230130T135016Z">
         <seg>Inicialitza un projecte en equip amb &lt;e0&gt;SL&lt;/e0&gt; i &lt;e1&gt;TL&lt;/e1&gt; com a codis de llengua de dues lletres d'origen i destinació, respectivament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialized JMySpell spell checker for language '{0}' dictionary {1}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T114239Z" creationid="Marc Riera" creationdate="20230927T114239Z">
+        <seg>S'ha inicialitzat el diccionari de correcció ortogràfica del JMySpell per a «{0}»: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialized LanguageTool Hunspell spell checker for language '{0}' dictionary {1}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T114229Z" creationid="Marc Riera" creationdate="20230927T114212Z">
+        <seg>S'ha inicialitzat el diccionari de correcció ortogràfica del Hunspell del LanguageTool per a «{0}»: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -37232,6 +37256,14 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230927T113128Z" creationid="Marc Riera" creationdate="20230927T113128Z">
         <seg>Sembla que el diccionari ortogràfic és buit: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spelling dictionary exists but is not a file: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T114251Z" creationid="Marc Riera" creationdate="20230927T114251Z">
+        <seg>El diccionari ortogràfic existeix però no és un fitxer: {0}</seg>
       </tuv>
     </tu>
     <tu>
