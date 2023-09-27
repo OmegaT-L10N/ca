@@ -13002,6 +13002,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not translate property if it has a NOI18N comment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T113842Z" creationid="Marc Riera" creationdate="20230927T113842Z">
+        <seg>No tradueixis la propietat si té un comentari «NOI18N»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not use the file name to &amp;identify alternate translations</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T203422Z" creationid="Marc Riera" creationdate="20221124T203422Z">
@@ -13110,6 +13118,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181112T092135Z" creationid="mgalo" creationdate="20181112T092135Z">
         <seg>Acobla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Docking Framework version: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T113908Z" creationid="Marc Riera" creationdate="20230927T113908Z">
+        <seg>Versió del marc de subfinestres: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -17748,6 +17764,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T150601Z" creationid="Marc Riera" creationdate="20190521T104955Z">
         <seg>Traductor de Google v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got directory/file open error.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T113956Z" creationid="Marc Riera" creationdate="20230927T113956Z">
+        <seg>S'ha produït un error en obrir la carpeta o el fitxer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23562,6 +23586,14 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200726T110359Z" creationid="mgalo" creationdate="20181113T094039Z">
         <seg>Carregueu un projecte per a configurar les regles de les llengües del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Load project source files: {0} ms</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T113817Z" creationid="Marc Riera" creationdate="20230927T113817Z">
+        <seg>Càrrega dels fitxers d'origen del projecte: {0} ms</seg>
       </tuv>
     </tu>
     <tu>
@@ -35267,6 +35299,15 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:needs-revision&gt;</note>
+      <tuv lang="en">
+        <seg>Select Project</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T113744Z" creationid="Marc Riera" creationdate="20230927T113744Z">
+        <seg>Selecció de projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Select Scripts Folder</seg>
@@ -36999,6 +37040,14 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T211056Z" creationid="Marc Riera" creationdate="20221124T211056Z">
         <seg>Indiqueu els conjunts específics sobre els conjunts generals:
 «FR-CA» hauria d'estar sobre «FR.*», que hauria d'estar sobre «.*».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specified UNKNOWN file type for statistics.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T113929Z" creationid="Marc Riera" creationdate="20230927T113929Z">
+        <seg>S'ha especificat un tipus de fitxer desconegut per a les estadístiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51771,6 +51820,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113057Z" creationid="Marc Riera" creationdate="20221129T113057Z">
         <seg>^\w+:$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>aborted."</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T113945Z" creationid="Marc Riera" creationdate="20230927T113945Z">
+        <seg>S'ha interromput."</seg>
       </tuv>
     </tu>
     <tu>
