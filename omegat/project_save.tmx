@@ -8995,6 +8995,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Can't read spelling dictionary: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T113112Z" creationid="Marc Riera" creationdate="20230927T113112Z">
+        <seg>No s'ha pogut llegir el diccionari ortogràfic: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Cancel</seg>
@@ -14448,10 +14456,34 @@ ningú no sent els vostres crits.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error load dictionary from '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T113406Z" creationid="Marc Riera" creationdate="20230927T113406Z">
+        <seg>S'ha produït un error en carregar el diccionari «{0}»: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error loading : {0}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230305T083700Z" creationid="Marc Riera" creationdate="20230305T083700Z">
         <seg>S'ha produït un error en carregar: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error loading hunspell: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T113043Z" creationid="Marc Riera" creationdate="20230927T113043Z">
+        <seg>S'ha produït un error en carregar el Hunspell: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error loading jmyspell: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T113103Z" creationid="Marc Riera" creationdate="20230927T113103Z">
+        <seg>S'ha produït un error en carregar el JMySpell: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -14494,6 +14526,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220239Z" creationid="Marc Riera" creationdate="20221124T220239Z">
         <seg>S'ha produït un error en recuperar «{0}» com a fitxer de projecte remot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error saving ignore words"</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T113433Z" creationid="Marc Riera" creationdate="20230927T113433Z">
+        <seg>S'ha produït un error en desar les paraules ignorades</seg>
       </tuv>
     </tu>
     <tu>
@@ -23525,6 +23565,14 @@ en la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Loaded dictionary from '{0}': {1} ms</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T113410Z" creationid="Marc Riera" creationdate="20230927T113337Z">
+        <seg>S'ha carregat el diccionari «{0}»: {1} ms</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Loading Project</seg>
@@ -25814,6 +25862,22 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Negotiated LanguageTool source language: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T113154Z" creationid="Marc Riera" creationdate="20230927T113154Z">
+        <seg>Llengua d'origen del LanguageTool negociada: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Negotiated LanguageTool target language: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T113200Z" creationid="Marc Riera" creationdate="20230927T113200Z">
+        <seg>Llengua de destinació del LanguageTool negociada: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Neither the “a” nor the “an” in:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T145116Z" creationid="Marc Riera" creationdate="20230206T145116Z">
@@ -26233,6 +26297,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T231918Z" creationid="Marc Riera" creationdate="20190521T105736Z">
         <seg>No s'ha definit cap script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No spell checker found for language {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T113033Z" creationid="Marc Riera" creationdate="20230927T113033Z">
+        <seg>No s'ha trobat cap corrector ortogràfic per a {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -35482,6 +35554,22 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Selected LanguageTool source language: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T113142Z" creationid="Marc Riera" creationdate="20230927T113142Z">
+        <seg>Llengua d'origen del LanguageTool seleccionada: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selected LanguageTool target language: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T113148Z" creationid="Marc Riera" creationdate="20230927T113148Z">
+        <seg>Llengua de destinació del LanguageTool seleccionada: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Selected options:</seg>
@@ -37087,6 +37175,14 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201120T162444Z" creationid="Alexandra" creationdate="20150526T134347Z">
         <seg>Diccionaris ortogràfics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spelling dictionary appears to be empty: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T113128Z" creationid="Marc Riera" creationdate="20230927T113128Z">
+        <seg>Sembla que el diccionari ortogràfic és buit: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -52009,6 +52105,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>bad location exception when changing case</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T113456Z" creationid="Marc Riera" creationdate="20230927T113456Z">
+        <seg>s'ha produït una excepció d'ubicació incorrecta en canviar entre majúscules i minúscules</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>bitext2tmx</seg>
@@ -56186,6 +56290,14 @@ config-dir="camí/a/una/carpeta/de/configuració"</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084412Z" creationid="Marc Riera" creationdate="20221214T084412Z">
         <seg>Nom d'inici de sessió de l'usuari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>using segmentation rules from {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230927T113320Z" creationid="Marc Riera" creationdate="20230927T113320Z">
+        <seg>s'utilitzen les regles de segmentació a {0}</seg>
       </tuv>
     </tu>
     <tu>
