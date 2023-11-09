@@ -7496,6 +7496,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Apply to all repositories on host {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20231109T144532Z" creationid="Marc Riera" creationdate="20231109T144532Z">
+        <seg>Aplica-ho a tots els dipòsits de l'amfitrió {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Are you sure you want to remove the {0} segmentation rules set?</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204932Z" creationid="Marc Riera" creationdate="20221124T204932Z">
@@ -9081,6 +9089,15 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Cannot get the correct answer.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20231109T144515Z" creationid="Marc Riera" creationdate="20231109T144515Z">
+        <seg>No s'ha rebut la resposta correcta.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Cannot prepare GPG environment properly</seg>
       </tuv>
@@ -9726,6 +9743,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230503T070928Z" creationid="Marc Riera" creationdate="20230503T070928Z">
         <seg>Comproveu la carpeta «omegat» del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check the permissions of {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20231109T144442Z" creationid="Marc Riera" creationdate="20231109T144442Z">
+        <seg>Comproveu els permisos de {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11951,6 +11976,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T084615Z" creationid="Marc Riera" creationdate="20221205T084615Z">
         <seg>DOWN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dark theme:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20231109T144345Z" creationid="Marc Riera" creationdate="20231109T144345Z">
+        <seg>Tema fosc:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14322,6 +14355,14 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220117Z" creationid="Marc Riera" creationdate="20221124T220117Z">
         <seg>Indiqueu l'usuari i la contrasenya per a {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter your credentials for {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20231109T144509Z" creationid="Marc Riera" creationdate="20231109T144509Z">
+        <seg>Indiqueu les credencials per a {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -21672,6 +21713,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Invalid link: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20231109T144421Z" creationid="Marc Riera" creationdate="20231109T144421Z">
+        <seg>L'enllaç no és vàlid: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Invalid repository type: {0}</seg>
@@ -23416,6 +23465,14 @@ en la carpeta de configuració.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T191652Z" creationid="Marc Riera" creationdate="20190521T103143Z">
         <seg>Informació sobre la llicència
 =============================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Light theme:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20231109T144340Z" creationid="Marc Riera" creationdate="20231109T144340Z">
+        <seg>Tema clar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26240,6 +26297,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T235337Z" creationid="Marc Riera" creationdate="20221230T235337Z">
         <seg>No ocorre cap acció si no s'ha activat cap servei de traducció automàtica en el menú &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No active spell checker engine found</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20231109T144457Z" creationid="Marc Riera" creationdate="20231109T144457Z">
+        <seg>No s'ha trobat cap motor de correcció ortogràfica actiu</seg>
       </tuv>
     </tu>
     <tu>
@@ -31284,6 +31349,14 @@ Folder = &lt;t1&gt;Dossier&lt;/t1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Stephanie" changedate="20150722T182451Z" creationid="Packard Bell" creationdate="20150529T110544Z">
         <seg>Propietats…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provided URL is invalid.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20231109T144330Z" creationid="Marc Riera" creationdate="20231109T144330Z">
+        <seg>L'URL indicat no és vàlid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36419,6 +36492,26 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped one or more source files
+because the specified source folder contains a symbolic or hard link
+that points back to itself or one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20231109T144411Z" creationid="Marc Riera" creationdate="20231109T144411Z">
+        <seg>S'han omès un o més fitxers d'origen
+perquè la carpeta de fitxers d'origen especificada conté un enllaç simbòlic o físic
+dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipped one or more source files due to an access permission error in the source folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20231109T144435Z" creationid="Marc Riera" creationdate="20231109T144435Z">
+        <seg>S'han omès un o més fitxers d'origen perquè s'ha produït un error de permisos d'accés en la carpeta de fitxers d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipped some source file(s)
 because the specified source folder contains a symbolic or hard link
 that points back to itself or one of its subfolders.</seg>
@@ -37952,6 +38045,14 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T104423Z" creationid="Marc Riera" creationdate="20190521T104423Z">
         <seg>S'està canviant a la versió integrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sync with OS colour preference</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20231109T144357Z" creationid="Marc Riera" creationdate="20231109T144357Z">
+        <seg>Sincronitza amb la preferència de colors del sistema operatiu</seg>
       </tuv>
     </tu>
     <tu>
@@ -46386,6 +46487,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>UI Style</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20231109T144337Z" creationid="Marc Riera" creationdate="20231109T144337Z">
+        <seg>Estil de la interfície d'usuari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>UI Style:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230830T074324Z" creationid="Marc Riera" creationdate="20230830T074324Z">
@@ -46432,6 +46541,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T113144Z" creationid="Marc Riera" creationdate="20180221T113144Z">
         <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL Error</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20231109T144333Z" creationid="Marc Riera" creationdate="20231109T144333Z">
+        <seg>Error d'URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -48682,6 +48799,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215227Z" creationid="Marc Riera" creationdate="20221124T215227Z">
         <seg>Nom d'usuari o clau de l'API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Username:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20231109T144502Z" creationid="Marc Riera" creationdate="20231109T144502Z">
+        <seg>Nom d'usuari:</seg>
       </tuv>
     </tu>
     <tu>
