@@ -5620,6 +5620,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abort restart, because launcher or java executable is not found.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240320T212739Z" creationid="Marc Riera" creationdate="20240320T212739Z">
+        <seg>S'ha anul·lat el reinici perquè no s'ha trobat l'iniciador o l'executable del Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abort...</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230415T101124Z" creationid="Marc Riera" creationdate="20230415T101124Z">
@@ -9089,7 +9097,6 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Cannot get the correct answer.</seg>
       </tuv>
@@ -11778,6 +11785,16 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Current version: {1}
+New version: {2}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240320T212543Z" creationid="Marc Riera" creationdate="20240320T212535Z">
+        <seg>Versió actual: {1}
+Versió nova: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Currently, we offer only a Standard version.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230626T080131Z" creationid="Marc Riera" creationdate="20230626T080131Z">
@@ -12341,6 +12358,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T231249Z" creationid="Marc Riera" creationdate="20191112T231249Z">
         <seg>Detalls no disponibles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Detect a wrong character encoding or wrong character in specified encoding when output to translation file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240320T214042Z" creationid="Marc Riera" creationdate="20240320T214042Z">
+        <seg>S'ha detectat una codificació de caràcters incorrecta o s'ha generat un caràcter incorrecte en la codificació especificada de sortida d'un fitxer traduït.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21500,6 +21525,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install Plugin</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240320T212507Z" creationid="Marc Riera" creationdate="20240320T212507Z">
+        <seg>Instal·lació del connector</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Install failed</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214813Z" creationid="Marc Riera" creationdate="20221124T214813Z">
@@ -21531,12 +21564,28 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Install the {0} {1} plugin?</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240320T212612Z" creationid="Marc Riera" creationdate="20240320T212612Z">
+        <seg>Voleu instal·lar el connector {0} {1}?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Installation Type</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T204103Z" creationid="Marc Riera" creationdate="20201010T204103Z">
         <seg>Tipus d'instal·lació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installed</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240320T212646Z" creationid="Marc Riera" creationdate="20240320T212646Z">
+        <seg>Instal·lat</seg>
       </tuv>
     </tu>
     <tu>
@@ -30384,6 +30433,14 @@ everything.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Please check your project configuration and translations.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240320T212713Z" creationid="Marc Riera" creationdate="20240320T212713Z">
+        <seg>Comproveu els paràmetres del projecte i les traduccions.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Please contact the &lt;a0&gt;OmegaT Localization Co-ordinator&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
@@ -30481,10 +30538,26 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugin Name</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240320T212632Z" creationid="Marc Riera" creationdate="20240320T212632Z">
+        <seg>Nom del connector</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugin installation failed.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T123114Z" creationid="Marc Riera" creationdate="20221207T123114Z">
         <seg>S'ha produït un error en instal·lar el connector.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin installation successful.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240320T212620Z" creationid="Marc Riera" creationdate="20240320T212620Z">
+        <seg>El connector s'ha instal·lat correctament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31927,6 +32000,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Reinstall the {0} plugin?</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240320T212601Z" creationid="Marc Riera" creationdate="20240320T212601Z">
+        <seg>Voleu reinstal·lar el connector {0}?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Reload</seg>
@@ -32963,6 +33044,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220611T171234Z" creationid="Marc Riera" creationdate="20220611T171234Z">
         <seg>Reinicia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restart OmegaT to activate it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240320T212628Z" creationid="Marc Riera" creationdate="20240320T212628Z">
+        <seg>Reinicieu l'OmegaT per a habilitar-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35481,6 +35570,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a plugin file (*.jar) or a zip archive (*.zip) that contains a plugin jar file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240320T212429Z" creationid="Marc Riera" creationdate="20240320T212429Z">
+        <seg>Seleccioneu un fitxer de connector (*.jar) o un arxiu ZIP (*.zip) que contingui un fitxer JAR de connector.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a plugin file (*.jar, *.zip)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T123023Z" creationid="Marc Riera" creationdate="20221207T123023Z">
@@ -35688,6 +35785,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220739Z" creationid="Marc Riera" creationdate="20221124T220739Z">
         <seg>Seleccioneu la vostra versió, la versió original o la versió remota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selected</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240320T212652Z" creationid="Marc Riera" creationdate="20240320T212652Z">
+        <seg>Seleccionat</seg>
       </tuv>
     </tu>
     <tu>
@@ -37601,7 +37706,6 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Statistics output formats</seg>
       </tuv>
@@ -47289,6 +47393,22 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Upgrade Plugin</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240320T212516Z" creationid="Marc Riera" creationdate="20240320T212516Z">
+        <seg>Actualització del connector</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade the {0} plugin?</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240320T212523Z" creationid="Marc Riera" creationdate="20240320T212523Z">
+        <seg>Voleu actualitzar el connector {0}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Upgrade/override plugin {0}
 current: {1}
 new version: {2}</seg>
@@ -49045,6 +49165,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200726T103048Z" creationid="Marc Riera" creationdate="20200726T103048Z">
         <seg>Versió</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Version {1} is already installed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240320T212550Z" creationid="Marc Riera" creationdate="20240320T212550Z">
+        <seg>La versió {1} ja està instal·lada.</seg>
       </tuv>
     </tu>
     <tu>
