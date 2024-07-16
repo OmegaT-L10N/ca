@@ -6736,6 +6736,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows you to activate or deactivate enabled and properly configured machine translation engines.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240716T121242Z" creationid="Marc Riera" creationdate="20240716T121242Z">
+        <seg>Us permet activar o desactivar els motors de traducció automàtica habilitats i configurats correctament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows you to activate or deactivate fuzzy matching for dictionary maches.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162817Z" creationid="Marc Riera" creationdate="20230130T162817Z">
@@ -6869,6 +6877,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220934Z" creationid="Marc Riera" creationdate="20221124T220934Z">
         <seg>Traducció alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternative translation highlight</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240716T120912Z" creationid="Marc Riera" creationdate="20240716T120912Z">
+        <seg>Ressaltat de les traduccions alternatives</seg>
       </tuv>
     </tu>
     <tu>
@@ -13636,6 +13652,15 @@ Versió nova: {2}</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Due to licensing considerations, the OmegaT team recommends the Eclipse Temurin Java runtime provided by the Eclipse Foundation's Adoptium Project, but any Java 11 compatible runtime environment should work.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240716T121217Z" creationid="Marc Riera" creationdate="20240716T121217Z">
+        <seg>Per qüestions de llicències, l'equip de l'OmegaT recomana l'entorn d'execució del Java Eclipse Temurin proporcionat pel Projecte Adoptium de la Fundació Eclipse, però qualsevol entorn d'execució compatible amb el Java 11 hauria de funcionar.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Due to licensing considerations, the OmegaT team recommends the Eclipse Temurin Java runtime provided by the Eclipse Foundation's Adoptium Project, but any Java 8 compatible runtime environment should work.</seg>
       </tuv>
@@ -15365,6 +15390,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220506T161954Z" creationid="Marc Riera" creationdate="20220506T161949Z">
         <seg>El GPG extern no ha retornat una signatura vàlida; s'ha rebut: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External GPG returns an invalid signature; got: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240716T120927Z" creationid="Marc Riera" creationdate="20240716T120927Z">
+        <seg>El GPG extern ha retornat una signatura no vàlida; s'ha rebut: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18336,6 +18369,14 @@ l'hivern ja és aquí.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight Segments with Alternative Translation</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240716T121443Z" creationid="Marc Riera" creationdate="20240716T121443Z">
+        <seg>Ressalta els segments amb una traducció alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight Segments with Notes</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173747Z" creationid="Marc Riera" creationdate="20230130T173747Z">
@@ -20087,6 +20128,14 @@ extensions dels fitxers.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143926Z" creationid="Marc Riera" creationdate="20230208T143926Z">
         <seg>Si deixeu el camp de traducció buit, l'OmegaT tractarà el segment com a no traduït i el mantindrà en la llengua original quan creeu els documents traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you leave this option disabled, machine translations are only fetched when you use &lt;l0/&gt; &lt;l1/&gt; in the current segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240716T121350Z" creationid="Marc Riera" creationdate="20240716T121350Z">
+        <seg>Si deixeu aquesta opció inhabilitada, els resultats de traducció automàtica només s'obtindran quan utilitzeu &lt;l0/&gt;&lt;l1/&gt; en el segment actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22046,6 +22095,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T094802Z" creationid="Marc Riera" creationdate="20221225T094802Z">
         <seg>Es crea automàticament la primera vegada que s'afegeix un terme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is automatically generated every week, and serves as a beta version for testing purposes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240716T121034Z" creationid="Marc Riera" creationdate="20240716T121034Z">
+        <seg>Es genera automàticament cada setmana i serveix de versió beta per a proves.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27105,6 +27162,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230509T134835Z" creationid="Marc Riera" creationdate="20230509T134835Z">
         <seg>OmegaT 6.1.0 - Manual d'usuari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT 6.1.0 and later can also run with a Java 17 Runtime Environment on any platform.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240716T121209Z" creationid="Marc Riera" creationdate="20240716T121209Z">
+        <seg>L'OmegaT 6.1.0 i les versions posteriors també es poden executar amb el Java 17 Runtime Environment en qualsevol plataforma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36935,6 +37000,15 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Sort by source text term length</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240716T121405Z" creationid="Marc Riera" creationdate="20240716T121405Z">
+        <seg>Ordena per longitud del terme d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Sort fuzzy matches by:</seg>
@@ -44494,6 +44568,14 @@ en sou víctima d'una.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is the edition of OmegaT in active development.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240716T121012Z" creationid="Marc Riera" creationdate="20240716T121012Z">
+        <seg>Aquesta és l'edició de l'OmegaT en desenvolupament actiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is the folder where OmegaT copies the current state of the translation in the form of TMX files when you create the translated files.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T122549Z" creationid="Marc Riera" creationdate="20221206T122549Z">
@@ -49634,6 +49716,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When suggestions from more than one translation engine are available,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240716T121321Z" creationid="Marc Riera" creationdate="20240716T121321Z">
+        <seg>Quan hi ha suggeriments disponibles de més d'un motor de traducció automàtica:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When that happens, members have to select the appropriate translation.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T140916Z" creationid="Marc Riera" creationdate="20221211T140916Z">
@@ -51594,6 +51684,15 @@ un comportament inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T143839Z" creationid="Marc Riera" creationdate="20230103T143839Z">
         <seg>Heu d'utilitzar un shebang; per exemple, &lt;l0&gt;#!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>You then have to press that combination again to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240716T121357Z" creationid="Marc Riera" creationdate="20240716T121357Z">
+        <seg>Haureu de tornar a prémer aquesta combinació per a inserir el suggeriment.</seg>
       </tuv>
     </tu>
     <tu>
