@@ -6169,6 +6169,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional plugins can be found on the &lt;u0&gt;OmegaT wiki site&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240807T220218Z" creationid="Marc Riera" creationdate="20240807T220218Z">
+        <seg>Podeu trobar connectors addicionals en el &lt;u0&gt;lloc de la wiki de l'OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T183425Z" creationid="Marc Riera" creationdate="20230105T183425Z">
@@ -14175,6 +14183,14 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Enable this option to automatically fetch machine translations from the providers you have enabled and configured.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240807T215822Z" creationid="Marc Riera" creationdate="20240807T215822Z">
+        <seg>Habiliteu aquesta opció per a obtenir automàticament els resultats de traducció automàtica dels proveïdors que heu habilitat i configurat.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Enabled</seg>
@@ -19062,6 +19078,14 @@ no cal introduir el camí complet.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a glossary item has multiple definitions, sort by a length of definition text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240807T220203Z" creationid="Marc Riera" creationdate="20240807T220123Z">
+        <seg>Si un element del glossari té diverses definicions, s'ordenen per la longitud del text de la definició.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a glossary item has multiple definitions, they will be displayed on the same line.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T101622Z" creationid="Marc Riera" creationdate="20230104T101622Z">
@@ -19384,6 +19408,14 @@ als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T095024Z" creationid="Marc Riera" creationdate="20221225T095024Z">
         <seg>Si voleu, arrossegueu i deixeu anar el fitxer &lt;f0&gt;OmegaT.app&lt;/f0&gt; en el dock per a accedir-hi fàcilment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If some glossary items are similar in a source term text, and one contains another term text, sort by a length of source text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240807T220141Z" creationid="Marc Riera" creationdate="20240807T215925Z">
+        <seg>Si uns elements del glossari són similars en un text del terme d'origen i un conté el text d'un altre terme, s'ordena per la longitud del text d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22060,6 +22092,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T155155Z" creationid="Marc Riera" creationdate="20230103T155155Z">
         <seg>Per defecte és &lt;g0&gt;Caràcters&lt;/g0&gt; si almenys una de les llengües implicades no delimita les paraules amb espais; en cas contrari, és &lt;g1&gt;Paraules&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It does not recognize plugin files renamed with a &lt;f0&gt;.zip&lt;/f0&gt; extension.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240807T220520Z" creationid="Marc Riera" creationdate="20240807T220520Z">
+        <seg>No reconeix els fitxers de connector amb el nom canviat amb l'extensió &lt;f0&gt;.zip&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27327,6 +27367,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT also accepts zip archives that contain a JAR plugin file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240807T220333Z" creationid="Marc Riera" creationdate="20240807T220333Z">
+        <seg>L'OmegaT també accepta arxius ZIP que continguin un fitxer de connector JAR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT also creates a backup of that file (&lt;f0&gt;omegat.project.bak&lt;/f0&gt;) and will automatically use it to restore your project settings in case of need.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230201T192440Z" creationid="Marc Riera" creationdate="20230201T192431Z">
@@ -30647,6 +30695,14 @@ everything.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20240320T212632Z" creationid="Marc Riera" creationdate="20240320T212632Z">
         <seg>Nom del connector</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin files are JAR files with a &lt;f1&gt;.jar&lt;/f1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240807T220315Z" creationid="Marc Riera" creationdate="20240807T220315Z">
+        <seg>Els fitxers de connectors són fitxers JAR amb l'extensió &lt;f1&gt;.jar&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42092,6 +42148,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The plugin installer only accepts archives containing a JAR plugin.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240807T220449Z" creationid="Marc Riera" creationdate="20240807T220449Z">
+        <seg>L'instal·lador de connectors només accepta arxius que continguin un connector JAR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The prefered location for plugin manual installs is the &lt;l0/&gt; folder located in the &lt;l1&gt;configuration&lt;/l1&gt; folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230223T081050Z" creationid="Marc Riera" creationdate="20230223T081050Z">
@@ -43758,6 +43822,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T121040Z" creationid="Marc Riera" creationdate="20221218T121040Z">
         <seg>Ara estaran disponibles en l'OmegaT sempre que no hi hagi conflictes amb altres funcions o amb les dreceres del sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Third party plugins are typically distributed as zip archives that contain the plugin file itself, as well as README and LICENSE files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240807T220427Z" creationid="Marc Riera" creationdate="20240807T220427Z">
+        <seg>Normalment, els connectors de tercers es distribueixen com a arxius ZIP que contenen el fitxer del connector en si i fitxers README i LICENSE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48508,6 +48580,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230216T080435Z" creationid="Marc Riera" creationdate="20230201T131959Z">
         <seg>Utilitzeu el botó &lt;g0&gt;Amaga les opcions avançades&lt;/g0&gt; per a deixar de mostrar les opcions avançades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;g0&gt;Install plugin from disk&lt;/g0&gt; button to install or upgrade your plugin.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240807T220258Z" creationid="Marc Riera" creationdate="20240807T220247Z">
+        <seg>Utilitzeu el botó &lt;g0&gt;Instal·la un connector localment&lt;/g0&gt; per a instal·lar o actualitzar el connector.</seg>
       </tuv>
     </tu>
     <tu>
