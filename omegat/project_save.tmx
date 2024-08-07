@@ -4115,10 +4115,26 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Select Next Match&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;↓&lt;/k3&gt;&lt;/k1&gt; (&lt;k4&gt;&lt;k5&gt;A&lt;/k5&gt;&lt;k6&gt;↓&lt;/k6&gt;&lt;/k4&gt; on macOS)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240807T215351Z" creationid="Marc Riera" creationdate="20240807T215351Z">
+        <seg>&lt;g0&gt;Selecciona la coincidència següent&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;↓&lt;/k3&gt;&lt;/k1&gt; (&lt;k4&gt;&lt;k5&gt;A&lt;/k5&gt;&lt;k6&gt;↓&lt;/k6&gt;&lt;/k4&gt; en el macOS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Select Previous Match&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;k3&gt;↑&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220846Z" creationid="Marc Riera" creationdate="20221208T220846Z">
         <seg>&lt;g0&gt;Selecciona la coincidència anterior&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;k3&gt;↑&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Select Previous Match&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;↑&lt;/k3&gt;&lt;/k1&gt; (&lt;k4&gt;&lt;k5&gt;A&lt;/k5&gt;&lt;k6&gt;↑&lt;/k6&gt;&lt;/k4&gt; on mac OS)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240807T215354Z" creationid="Marc Riera" creationdate="20240807T215328Z">
+        <seg>&lt;g0&gt;Selecciona la coincidència anterior&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;↑&lt;/k3&gt;&lt;/k1&gt; (&lt;k4&gt;&lt;k5&gt;A&lt;/k5&gt;&lt;k6&gt;↑&lt;/k6&gt;&lt;/k4&gt; en el macOS)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6918,6 +6934,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T184514Z" creationid="Marc Riera" creationdate="20230103T184514Z">
         <seg>Com a alternativa, podeu prémer les tecles de direcció mentre manteniu premuda la tecla &lt;k0&gt;Maj&lt;/k0&gt; per a seleccionar segments consecutius.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, you can use &lt;l9/&gt; &lt;l10/&gt; to select a different match.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240807T215714Z" creationid="Marc Riera" creationdate="20240807T215714Z">
+        <seg>Com a alternativa, podeu utilitzar &lt;l9/&gt; &lt;l10/&gt; per a seleccionar una coincidència diferent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20049,6 +20073,14 @@ extensions dels fitxers.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If you have enabled and configured at least one machine translation engine this pane shows the suggestions for the current segment produced by the available engines.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240807T215751Z" creationid="Marc Riera" creationdate="20240807T215751Z">
+        <seg>Si heu habilitat i configurat com a mínim un motor de traducció automàtica, aquesta subfinestra mostra els suggeriments del segment actual generats pels motors disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you have found OmegaT useful and would like to express your gratitude by making a &lt;a0&gt;donation&lt;/a0&gt; on our Paypal account.</seg>
@@ -20249,6 +20281,14 @@ extensions dels fitxers.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T183944Z" creationid="Marc Riera" creationdate="20230130T183944Z">
         <seg>Si col·loqueu aquestes memòries de traducció en la subcarpeta &lt;f6&gt;tm&lt;/f6&gt; d'un projecte, l'OmegaT hi cercarà automàticament segments similars als del projecte, anomenats «coincidències parcials».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you press down ALT key during selecting the menu item, opens a folder enclosing the file, by OS standard file manager such as finder or file explorer, instead of opening the file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240807T215503Z" creationid="Marc Riera" creationdate="20240807T215503Z">
+        <seg>Si premeu la tecla Alt mentre seleccioneu l'element del menú, s'obre la carpeta que conté el fitxer en el gestor de fitxers estàndard del sistema operatiu, com ara el Finder o l'Explorador de fitxers, en comptes d'obrir el fitxer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51276,6 +51316,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T141603Z" creationid="Marc Riera" creationdate="20221211T141603Z">
         <seg>Podeu obrir un projecte en equip i treballar-hi fora de línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can press &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;2, 3, 4, or 5&lt;/k2&gt; &lt;/k0&gt; to select a specific match, or cycle through the available matches with &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;↑ or ↓&lt;/k5&gt;&lt;/k3&gt; (&lt;k6&gt;&lt;k7&gt;A&lt;/k7&gt;&lt;k8&gt;↑ or ↓&lt;/k8&gt;&lt;/k6&gt; on macOS).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240807T215630Z" creationid="Marc Riera" creationdate="20240807T215630Z">
+        <seg>Podeu prémer &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;2, 3, 4 o 5&lt;/k2&gt;&lt;/k0&gt; per a seleccionar una coincidència específica o desplaçar-vos cíclicament per les coincidències disponibles amb &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;↑ o ↓&lt;/k5&gt;&lt;/k3&gt; (&lt;k6&gt;&lt;k7&gt;A&lt;/k7&gt;&lt;k8&gt;↑ o ↓&lt;/k8&gt;&lt;/k6&gt; en el macOS).</seg>
       </tuv>
     </tu>
     <tu>
