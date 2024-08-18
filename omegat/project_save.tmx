@@ -17922,6 +17922,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Got error during autosaving: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240818T072812Z" creationid="Marc Riera" creationdate="20240818T072812Z">
+        <seg>S'ha produït un error durant el desament automàtic: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Got unexpected HTTP response {0}</seg>
@@ -24130,6 +24138,14 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223519Z" creationid="Marc Riera" creationdate="20180214T223519Z">
         <seg>Ubicació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lock trying timeout during autosave</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240818T072912Z" creationid="Marc Riera" creationdate="20240818T072912Z">
+        <seg>S'ha produït un blocatge en l'intent d'espera durant el desament automàtic</seg>
       </tuv>
     </tu>
     <tu>
@@ -33884,6 +33900,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150353Z" creationid="Marc Riera" creationdate="20230131T150353Z">
         <seg>Deseu el resultat en un fitxer TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save thread interrupted: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20240818T072823Z" creationid="Marc Riera" creationdate="20240818T072823Z">
+        <seg>S'ha interromput el fil de desament: {0}</seg>
       </tuv>
     </tu>
     <tu>
