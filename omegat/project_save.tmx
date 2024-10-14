@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16978,8 +16978,8 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       <tuv lang="en">
         <seg>From 100% memory</seg>
       </tuv>
-      <tuv lang="ca" changeid="mgalo" changedate="20181112T111506Z" creationid="mgalo" creationdate="20181112T111506Z">
-        <seg>De la memòria amb coincidència del 100%</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20241014T083849Z" creationid="mgalo" creationdate="20181112T111506Z">
+        <seg>D'una memòria amb coincidència del 100%</seg>
       </tuv>
     </tu>
     <tu>
@@ -16987,8 +16987,16 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       <tuv lang="en">
         <seg>From ICE memory</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T162251Z" creationid="mgalo" creationdate="20181112T111453Z">
-        <seg>De la memòria amb coincidència de context</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20241014T083846Z" creationid="mgalo" creationdate="20181112T111453Z">
+        <seg>D'una memòria amb coincidència de context</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From MT memory</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20241014T083842Z" creationid="Marc Riera" creationdate="20241014T083842Z">
+        <seg>D'una memòria amb traducció automàtica</seg>
       </tuv>
     </tu>
     <tu>
@@ -17012,8 +17020,8 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       <tuv lang="en">
         <seg>From auto memory</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200801T162300Z" creationid="mgalo" creationdate="20181112T111548Z">
-        <seg>De la memòria automàtica</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20241014T083856Z" creationid="mgalo" creationdate="20181112T111548Z">
+        <seg>D'una memòria automàtica</seg>
       </tuv>
     </tu>
     <tu>
@@ -17021,8 +17029,8 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       <tuv lang="en">
         <seg>From enforced memory</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230201T153215Z" creationid="Marc Riera" creationdate="20200122T225604Z">
-        <seg>De la memòria forçada</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20241014T083902Z" creationid="Marc Riera" creationdate="20200122T225604Z">
+        <seg>D'una memòria forçada</seg>
       </tuv>
     </tu>
     <tu>
@@ -33866,16 +33874,16 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Save origin of &amp;translation</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20220506T154917Z" creationid="Marc Riera" creationdate="20220506T154917Z">
-        <seg>Desa la font de la &amp;traducció</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20241014T083958Z" creationid="Marc Riera" creationdate="20220506T154917Z">
+        <seg>Desa l'origen de la &amp;traducció</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Save origin of translation</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105902Z" creationid="Marc Riera" creationdate="20230104T105858Z">
-        <seg>Desa la font de la traducció</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20241014T083952Z" creationid="Marc Riera" creationdate="20230104T105858Z">
+        <seg>Desa l'origen de la traducció</seg>
       </tuv>
     </tu>
     <tu>
