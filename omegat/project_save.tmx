@@ -9929,6 +9929,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose ngram dir</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20241221T170820Z" creationid="Marc Riera" creationdate="20241221T170820Z">
+        <seg>Tria la carpeta d'n-grames</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose the appropriate settings</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T183856Z" creationid="Marc Riera" creationdate="20221217T183856Z">
@@ -11903,6 +11911,14 @@ Versió nova: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom Spelling Dictionary Files Folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20241221T170742Z" creationid="Marc Riera" creationdate="20241221T170742Z">
+        <seg>Carpeta dels fitxers de diccionaris ortogràfics personalitzats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom branch</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220907T204734Z" creationid="Marc Riera" creationdate="20220907T204734Z">
@@ -11916,6 +11932,14 @@ Versió nova: {2}</seg>
       </tuv>
       <tuv lang="ca" changeid="marc" changedate="20191030T211105Z" creationid="marc" creationdate="20191030T211105Z">
         <seg>URL del servidor personalitzat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom spell checking dictionaries location:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20241221T170715Z" creationid="Marc Riera" creationdate="20241221T170715Z">
+        <seg>Ubicació dels diccionaris ortogràfics personalitzats:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23171,6 +23195,14 @@ en la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>LanguageTool ngrams model</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20241221T170813Z" creationid="Marc Riera" creationdate="20241221T170813Z">
+        <seg>Model d'n-grames del LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>LanguageTool server started</seg>
@@ -23186,6 +23218,14 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T104755Z" creationid="Marc Riera" creationdate="20190521T104755Z">
         <seg>S'ha tancat el servidor del LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool server: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20241221T170750Z" creationid="Marc Riera" creationdate="20241221T170750Z">
+        <seg>Servidor del LanguageTool: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -35845,6 +35885,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select ngrams folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20241221T170804Z" creationid="Marc Riera" creationdate="20241221T170804Z">
+        <seg>Selecció de la carpeta d'n-grames</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select one to insert it at the current cursor position in the segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230211T180445Z" creationid="Marc Riera" creationdate="20230211T180445Z">
@@ -37099,6 +37147,14 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20240308T090449Z" creationid="Marc Riera" creationdate="20240308T090449Z">
         <seg>Ordena per longitud del terme d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by Source Term Length when two or more terms start with the same characters</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20241221T170856Z" creationid="Marc Riera" creationdate="20241221T170856Z">
+        <seg>Ordena per longitud del terme d'origen quan dos o més termes comencen pels mateixos caràcters</seg>
       </tuv>
     </tu>
     <tu>
