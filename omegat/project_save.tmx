@@ -3071,6 +3071,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>99999 part is 5 digit session id from 00000 to 99999.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250219T122554Z" creationid="Marc Riera" creationdate="20250219T122554Z">
+        <seg>La part «99999» és un ID de sessió de 5 dígits entre 00000 i 99999.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201841Z" creationid="Marc Riera" creationdate="20221210T201841Z">
@@ -22562,10 +22570,26 @@ en la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It will be random number.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250219T122404Z" creationid="Marc Riera" creationdate="20250219T122404Z">
+        <seg>Serà un nombre aleatori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It will then just ask you to reload the project and start using the new locations.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T220410Z" creationid="Marc Riera" creationdate="20221211T220410Z">
         <seg>A continuació, senzillament us demanarà que torneu a carregar el projecte i es començaran a utilitzar les ubicacions noves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It works when there is a supported language module, or a user local custom dictionary for the target language.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250219T122453Z" creationid="Marc Riera" creationdate="20250219T122453Z">
+        <seg>Funciona quan hi ha un mòdul de llengua compatible o un diccionari personalitzat local de l'usuari per a la llengua de destinació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41221,6 +41245,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The file name format is &lt;f0&gt;OmegaT_99999_yyyyMMdd-hhmmss.log&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250219T122533Z" creationid="Marc Riera" creationdate="20250219T122533Z">
+        <seg>El format del nom del fitxer és &lt;f0&gt;OmegaT_99999_aaaaMMdd-hhmmss.log&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The file structure must also be compatible with the filter: even if you associate &lt;l0&gt;.odt&lt;/l0&gt; to the XHMTL filter, the filter will not be able to understand the contents of a LibreOffice Writer file.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T082645Z" creationid="Marc Riera" creationdate="20221215T082645Z">
@@ -44582,6 +44614,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T121402Z" creationid="Marc Riera" creationdate="20221206T121402Z">
         <seg>Aquesta carpeta conté els fitxers que voleu utilitzar com a memòries de traducció de referència.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains your custom spelling dictionaries.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250219T122426Z" creationid="Marc Riera" creationdate="20250219T122426Z">
+        <seg>Aquesta carpeta conté els diccionaris ortogràfics personalitzats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48381,6 +48421,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T174657Z" creationid="Marc Riera" creationdate="20221218T174657Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a visualitzar el contingut del fitxer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to view the contents of the log file of current session.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250219T122418Z" creationid="Marc Riera" creationdate="20250219T122418Z">
+        <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a visualitzar el contingut del fitxer de registre de la sessió actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57244,6 +57292,14 @@ config-dir="camí/a/una/carpeta/de/configuració"</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T163540Z" creationid="Marc Riera" creationdate="20221201T163540Z">
         <seg>xdg-open ${targetRoot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>yyyyMMdd-hhmmss part is a date and time, like 20240704-201200 means July 4th, 2024, 20:12:00 in local time.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250219T122653Z" creationid="Marc Riera" creationdate="20250219T122653Z">
+        <seg>La part «aaaaMMdd-hhmmss» és una marca de data i hora; per exemple, «20240704-201200» és el 4 de juliol de 2024 a les 20:12:00 hora local.</seg>
       </tuv>
     </tu>
     <tu>
