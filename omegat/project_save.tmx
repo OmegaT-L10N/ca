@@ -19540,6 +19540,14 @@ als valors per defecte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the OmegaT language module for your project target language provides a Hunspell dictionary, it will automatically install it in this folder when you enable spell checking.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250220T171333Z" creationid="Marc Riera" creationdate="20250220T171333Z">
+        <seg>Si el mòdul de llengua de l'OmegaT per a la llengua de destinació del projecte proporciona un diccionari del Hunspell, s'instal·larà automàticament en aquesta carpeta quan habiliteu la correcció ortogràfica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the applicable functions are used, this folder can contain up to three text files:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155550Z" creationid="Marc Riera" creationdate="20221201T155550Z">
@@ -19632,6 +19640,14 @@ als valors per defecte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120618Z" creationid="Marc Riera" creationdate="20221218T120618Z">
         <seg>Si la ubicació coincideix amb les dues regles, es considera una separació o no, en funció del que defineixi la regla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the module provides a Morfologik dictionary, spellchecking works without having to install a dictionary in the folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250220T171407Z" creationid="Marc Riera" creationdate="20250220T171407Z">
+        <seg>Si el mòdul proporciona un diccionari del Morfologik, la correcció ortogràfica funciona sense necessitat d'instal·lar un diccionari en aquesta carpeta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51564,6 +51580,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T162940Z" creationid="Marc Riera" creationdate="20230130T162940Z">
         <seg>Podeu impedir la creació dels fitxers de destinació si hi ha errors d'etiquetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can put a dictionary in this folder to a use custom spelling dictionary, or if your project target language is not covered by an OmegaT language module.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250220T171509Z" creationid="Marc Riera" creationdate="20250220T171509Z">
+        <seg>Podeu posar un diccionari en aquesta carpeta per a utilitzar un diccionari ortogràfic personalitzat, o si no hi ha cap mòdul de llengua de l'OmegaT per a la llengua de destinació del projecte.</seg>
       </tuv>
     </tu>
     <tu>
