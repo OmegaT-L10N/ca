@@ -21732,6 +21732,7 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Install OmegaT</seg>
       </tuv>
@@ -58089,6 +58090,28 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T181420Z" creationid="Marc Riera" creationdate="20201128T181420Z">
         <seg>Altres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">website/yml/ca.yml</prop>
+      <prop type="id">menu/download_0</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250324T075244Z" creationid="Marc Riera" creationdate="20250324T075244Z">
+        <seg>Baixades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">website/yml/ca.yml</prop>
+      <prop type="id">menu/install_0</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Install</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250324T075235Z" creationid="Marc Riera" creationdate="20250324T075235Z">
+        <seg>Instal·lació</seg>
       </tuv>
     </tu>
     <tu>
