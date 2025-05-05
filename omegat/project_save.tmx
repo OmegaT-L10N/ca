@@ -14791,6 +14791,38 @@ ningú no sent els vostres crits.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error when loading the ignore_list.txt file: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250505T115441Z" creationid="Marc Riera" creationdate="20250505T115441Z">
+        <seg>S'ha produït un error en carregar el fitxer «ignore_list.txt»: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error when loading the learned_list.txt file: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250505T115449Z" creationid="Marc Riera" creationdate="20250505T115449Z">
+        <seg>S'ha produït un error en carregar el fitxer «learned_list.txt»: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error when writing the ignore_list.txt file: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250505T115500Z" creationid="Marc Riera" creationdate="20250505T115500Z">
+        <seg>S'ha produït un error en escriure el fitxer «ignore_list.txt»: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error when writing the learned_list.txt file: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250505T115510Z" creationid="Marc Riera" creationdate="20250505T115510Z">
+        <seg>S'ha produït un error en escriure el fitxer «learned_list.txt»: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while autosaving: {0}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230819T115424Z" creationid="Marc Riera" creationdate="20230819T115424Z">
@@ -15686,6 +15718,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T134130Z" creationid="Marc Riera" creationdate="20190924T134130Z">
         <seg>Grup de Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to access the spelling dictionary {0} with a reason {1}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250505T115528Z" creationid="Marc Riera" creationdate="20250505T115528Z">
+        <seg>No s'ha pogut accedir al diccionari ortogràfic {0} per la raó següent: {1}</seg>
       </tuv>
     </tu>
     <tu>
