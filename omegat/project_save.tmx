@@ -3079,6 +3079,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt; Back</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250517T064359Z" creationid="Marc Riera" creationdate="20250517T064345Z">
+        <seg>&lt; Torna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201841Z" creationid="Marc Riera" creationdate="20221210T201841Z">
@@ -12617,6 +12625,14 @@ Versió nova: {2}</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Did you know...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250517T064342Z" creationid="Marc Riera" creationdate="20250517T064342Z">
+        <seg>Sabíeu que...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Diego Merino - Translator EN &gt; ES</seg>
@@ -18009,6 +18025,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Google API key is not available.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250517T064248Z" creationid="Marc Riera" creationdate="20250517T064248Z">
+        <seg>La clau de l'API de Google no està disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Google API key not available.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215204Z" creationid="Marc Riera" creationdate="20221124T215204Z">
@@ -21443,6 +21467,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135016Z" creationid="Marc Riera" creationdate="20230130T135016Z">
         <seg>Inicialitza un projecte en equip amb &lt;e0&gt;SL&lt;/e0&gt; i &lt;e1&gt;TL&lt;/e1&gt; com a codis de llengua de dues lletres d'origen i destinació, respectivament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialized Hunspell spellchecker for language '{0}' dictionary {1}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250517T064314Z" creationid="Marc Riera" creationdate="20250517T064314Z">
+        <seg>S'ha inicialitzat el diccionari de correcció ortogràfica del Hunspell per a «{0}»: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -26468,6 +26500,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191208T153809Z" creationid="Marc Riera" creationdate="20180210T213801Z">
         <seg>Segment sense &amp;traduir següent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next &gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250517T064406Z" creationid="Marc Riera" creationdate="20250517T064406Z">
+        <seg>Següent &gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36653,10 +36693,26 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show Tip of the Day</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250517T064338Z" creationid="Marc Riera" creationdate="20250517T064338Z">
+        <seg>Mostra el consell del dia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show matches assembled from multiple segments</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20250310T155528Z" creationid="Marc Riera" creationdate="20250310T155528Z">
         <seg>Mostra les coincidències assemblades a partir de diversos segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show tips on startup</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250517T064414Z" creationid="Marc Riera" creationdate="20250517T064414Z">
+        <seg>Mostra els consells a l'inici</seg>
       </tuv>
     </tu>
     <tu>
@@ -45674,6 +45730,14 @@ tots els paràmetres.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tip of the Day</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250517T064333Z" creationid="Marc Riera" creationdate="20250517T064333Z">
+        <seg>Consell del dia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Title Case</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220545Z" creationid="Marc Riera" creationdate="20221208T220545Z">
@@ -47254,6 +47318,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215642Z" creationid="Marc Riera" creationdate="20221124T215642Z">
         <seg>No s'han pogut publicar els canvis perquè s'ha modificat la traducció remota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to connect to belazar server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250517T064240Z" creationid="Marc Riera" creationdate="20250517T064240Z">
+        <seg>No s'ha pogut connectar al servidor de Belazar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57875,8 +57947,8 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;
       <tuv lang="en">
         <seg>← Back</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110755Z" creationid="Marc Riera" creationdate="20190521T110755Z">
-        <seg>← Enrere</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250517T064438Z" creationid="Marc Riera" creationdate="20190521T110755Z">
+        <seg>← Torna</seg>
       </tuv>
     </tu>
     <tu>
