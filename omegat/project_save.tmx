@@ -5882,6 +5882,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access to {0} is forbidden.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250520T050031Z" creationid="Marc Riera" creationdate="20250520T050031Z">
+        <seg>L'accés a {0} està prohibit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Accessing a team project requires the following information:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T144210Z" creationid="Marc Riera" creationdate="20230130T144210Z">
@@ -7870,6 +7878,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110448Z" creationid="Marc Riera" creationdate="20190521T110448Z">
         <seg>Autenticació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Authentication error when trying to access {0}.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250520T050046Z" creationid="Marc Riera" creationdate="20250520T050046Z">
+        <seg>S'ha produït un error d'autenticació en intentar accedir a {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18212,6 +18228,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>HTTP connection {1} responded with code: {2}.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250520T050023Z" creationid="Marc Riera" creationdate="20250520T050023Z">
+        <seg>La connexió HTTP {1} ha respost amb el codi {2}.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>HTTP(S)</seg>
@@ -26723,6 +26747,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230903T141232Z" creationid="Marc Riera" creationdate="20230903T141232Z">
         <seg>No s'ha trobat cap consola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No content found at {0}.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250520T050010Z" creationid="Marc Riera" creationdate="20250520T050010Z">
+        <seg>No s'ha trobat contingut a {0}.</seg>
       </tuv>
     </tu>
     <tu>
