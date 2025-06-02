@@ -14823,6 +14823,14 @@ ningú no sent els vostres crits.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error when loading project {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250602T095902Z" creationid="Marc Riera" creationdate="20250602T095902Z">
+        <seg>S'ha produït un error en carregar el projecte {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error when loading the ignore_list.txt file: {0}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20250505T115441Z" creationid="Marc Riera" creationdate="20250505T115441Z">
@@ -15282,6 +15290,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Exception when validating tags on leave</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250602T100002Z" creationid="Marc Riera" creationdate="20250602T100002Z">
+        <seg>S'ha produït una excepció en validar les etiquetes en sortir</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Exception while editing options:</seg>
@@ -15656,6 +15672,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134610Z" creationid="Marc Riera" creationdate="20221209T134610Z">
         <seg>Corrector ortogràfic extern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ExternalFinder: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250602T095850Z" creationid="Marc Riera" creationdate="20250602T095850Z">
+        <seg>Cerca externa: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -31693,6 +31717,14 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Project loading error: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250602T100012Z" creationid="Marc Riera" creationdate="20250602T100012Z">
+        <seg>S'ha produït un error en carregar el projecte: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Project loading start</seg>
@@ -47521,6 +47553,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20250518T115652Z" creationid="Marc Riera" creationdate="20250518T115648Z">
         <seg>No s'ha pogut definir el color personalitzat per a {0}, es canvia per defecte a {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uncaught exception in thread [{0}]</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250602T095947Z" creationid="Marc Riera" creationdate="20250602T095947Z">
+        <seg>S'ha produït una excepció desconeguda al fil [{0}]</seg>
       </tuv>
     </tu>
     <tu>
