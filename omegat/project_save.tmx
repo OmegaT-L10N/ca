@@ -5907,6 +5907,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Activate segment with single click.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250630T152628Z" creationid="Marc Riera" creationdate="20250630T152628Z">
+        <seg>Activa el segment amb un sol clic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Activating this function hides the tags in the source segments, freeing you from the need to handle them manually.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230226T092709Z" creationid="Marc Riera" creationdate="20230226T092709Z">
@@ -15761,6 +15769,14 @@ els fils de teranyina t'aparten.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FATAL: There is no language registerd</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250630T152620Z" creationid="Marc Riera" creationdate="20250630T152620Z">
+        <seg>FATAL: No s'ha registrat cap llengua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Facebook</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230402T082900Z" creationid="Marc Riera" creationdate="20230402T082900Z">
@@ -15833,6 +15849,14 @@ els fils de teranyina t'aparten.
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T175736Z" creationid="Marc Riera" creationdate="20221124T175736Z">
         <seg>No s'han pogut copiar els fitxers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to create .repositories subdirectory for team project: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250630T152607Z" creationid="Marc Riera" creationdate="20250630T152607Z">
+        <seg>No s'ha pogut crear la subcarpeta «.repositories» per al projecte en equip: {0}</seg>
       </tuv>
     </tu>
     <tu>
