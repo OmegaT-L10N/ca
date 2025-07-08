@@ -58225,6 +58225,17 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;
       </tuv>
     </tu>
     <tu>
+      <prop type="file">6.0/Bundle.properties</prop>
+      <prop type="id">ALIGNER_MENU_OPTIONS_SEGMENT</prop>
+      <note>&lt;status:approved&gt;</note>
+      <tuv lang="en">
+        <seg>Segment</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250708T110623Z" creationid="Marc Riera" creationdate="20250708T110623Z">
+        <seg>Segmenta</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">ALIGNER_FILEPICKER_SOURCE</prop>
       <note>&lt;status:approved&gt;</note>
