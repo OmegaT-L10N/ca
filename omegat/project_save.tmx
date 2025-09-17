@@ -8299,6 +8299,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Base plugin</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250917T100709Z" creationid="Marc Riera" creationdate="20250917T100709Z">
+        <seg>Connector base</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Based on your choices, we recommand you use:</seg>
@@ -8659,6 +8667,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T205239Z" creationid="Marc Riera" creationdate="20221206T205239Z">
         <seg>Compilació de l'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bundled</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250917T100702Z" creationid="Marc Riera" creationdate="20250917T100702Z">
+        <seg>Inclòs</seg>
       </tuv>
     </tu>
     <tu>
@@ -17829,6 +17845,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Glossary plugin</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250917T100738Z" creationid="Marc Riera" creationdate="20250917T100738Z">
+        <seg>Connector de glossari</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Glossary source</seg>
@@ -23315,6 +23339,14 @@ en la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250917T100752Z" creationid="Marc Riera" creationdate="20250917T100752Z">
+        <seg>Llengua</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Language Checker</seg>
@@ -24521,6 +24553,14 @@ en la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine Translation connector</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250917T100749Z" creationid="Marc Riera" creationdate="20250917T100749Z">
+        <seg>Connector de traducció automàtica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Machine Translation/Automatically Fetch Translations</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230516T113054Z" creationid="Marc Riera" creationdate="20230516T113054Z">
@@ -25053,6 +25093,14 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210414T141739Z" creationid="Marc Riera" creationdate="20210414T141739Z">
         <seg>Marca les paraules desconegudes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Marker plugin</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250917T100734Z" creationid="Marc Riera" creationdate="20250917T100734Z">
+        <seg>Connector de marcador</seg>
       </tuv>
     </tu>
     <tu>
@@ -25657,6 +25705,14 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110713Z" creationid="Marc Riera" creationdate="20190521T110713Z">
         <seg>Minuts:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Misc plugin</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250917T100723Z" creationid="Marc Riera" creationdate="20250917T100723Z">
+        <seg>Connector de miscel·lània</seg>
       </tuv>
     </tu>
     <tu>
@@ -26501,6 +26557,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T141728Z" creationid="Marc Riera" creationdate="20201125T141051Z">
         <seg>Això no obstant, les versions «més recents» de l'OmegaT normalment són molt estables i les recomanem a qualsevol usuari que ja tingui una mica d'experiència amb l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250917T100705Z" creationid="Marc Riera" creationdate="20250917T100705Z">
+        <seg>Nou</seg>
       </tuv>
     </tu>
     <tu>
@@ -31037,6 +31101,14 @@ everything.</seg>
         <seg>Plugin installation successful.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20240320T212620Z" creationid="Marc Riera" creationdate="20240320T212620Z">
+        <seg>El connector s'ha instal·lat correctament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin is successfully installed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250917T100819Z" creationid="Marc Riera" creationdate="20250917T100819Z">
         <seg>El connector s'ha instal·lat correctament.</seg>
       </tuv>
     </tu>
@@ -36821,10 +36893,26 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show bundled plugins</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250917T100801Z" creationid="Marc Riera" creationdate="20250917T100801Z">
+        <seg>Mostra els connectors inclosos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show matches assembled from multiple segments</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20250310T155528Z" creationid="Marc Riera" creationdate="20250310T155528Z">
         <seg>Mostra les coincidències assemblades a partir de diversos segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show plugin details</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250917T100640Z" creationid="Marc Riera" creationdate="20250917T100640Z">
+        <seg>Mostra els detalls del connector</seg>
       </tuv>
     </tu>
     <tu>
@@ -38263,6 +38351,14 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20240308T090437Z" creationid="Marc Riera" creationdate="20240308T090437Z">
         <seg>Formats de sortida de les estadístiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Status</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250917T100804Z" creationid="Marc Riera" creationdate="20250917T100804Z">
+        <seg>Estat</seg>
       </tuv>
     </tu>
     <tu>
@@ -43727,6 +43823,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Theme plugin</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250917T100717Z" creationid="Marc Riera" creationdate="20250917T100717Z">
+        <seg>Connector de tema</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Theme:</seg>
@@ -46394,6 +46498,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tokenizer</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250917T100742Z" creationid="Marc Riera" creationdate="20250917T100742Z">
+        <seg>Lematitzador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tokenizers allow OmegaT to provide better matches.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T105940Z" creationid="Marc Riera" creationdate="20221206T105940Z">
@@ -47424,6 +47536,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Udate available</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250917T100649Z" creationid="Marc Riera" creationdate="20250917T100649Z">
+        <seg>Actualització disponible</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unable to build new TMX file!</seg>
@@ -47751,6 +47871,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Uninstalled</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250917T100654Z" creationid="Marc Riera" creationdate="20250917T100654Z">
+        <seg>Desinstal·lat</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unique Characters (w/ spaces)</seg>
@@ -47847,6 +47975,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180221T112642Z" creationid="Marc Riera" creationdate="20180221T112642Z">
         <seg>Únics:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unknown</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250917T100755Z" creationid="Marc Riera" creationdate="20250917T100755Z">
+        <seg>Desconegut</seg>
       </tuv>
     </tu>
     <tu>
