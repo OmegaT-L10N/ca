@@ -34103,6 +34103,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SSH Agent connection issue: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20250926T163612Z" creationid="Marc Riera" creationdate="20250926T163612Z">
+        <seg>Problema de connexió de l'agent SSH: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>STDOUT and STDERR are written to the &lt;l0&gt;omegat.log&lt;/l0&gt; file.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T143539Z" creationid="Marc Riera" creationdate="20230103T143539Z">
