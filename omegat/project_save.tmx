@@ -11850,6 +11850,14 @@ si cal fer res més.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Cross-platform package, with no JRE</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251114T120005Z" creationid="Marc Riera" creationdate="20251114T120005Z">
+        <seg>Paquet multiplataforma sense el JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Cross-platform without JRE</seg>
@@ -13488,6 +13496,14 @@ Versió nova: {2}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T185258Z" creationid="Marc Riera" creationdate="20191113T073125Z">
         <seg>No ho preguntis abans de comprovar els errors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Donate</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251114T115832Z" creationid="Marc Riera" creationdate="20251114T115832Z">
+        <seg>Dona</seg>
       </tuv>
     </tu>
     <tu>
@@ -24103,6 +24119,23 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201120T163610Z" creationid="Alexandra" creationdate="20150526T140053Z">
         <seg>Versió binària del Toxic per al Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Linux package, with 32-bit JRE</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251114T120017Z" creationid="Marc Riera" creationdate="20251114T120017Z">
+        <seg>Paquet del Linux amb el JRE de 32 bits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linux package, with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251114T120016Z" creationid="Marc Riera" creationdate="20251114T120016Z">
+        <seg>Paquet del Linux amb el JRE de 64 bits</seg>
       </tuv>
     </tu>
     <tu>
@@ -47583,6 +47616,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>USD</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251114T115811Z" creationid="Marc Riera" creationdate="20251114T115811Z">
+        <seg>USD</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>USD &lt;a0&gt;Donate&lt;/a0&gt;</seg>
@@ -50842,6 +50883,31 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201120T163558Z" creationid="Alexandra" creationdate="20150526T140136Z">
         <seg>Versió executable del Toxic per al Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows installer packaged with 32-bit JRE</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251114T120055Z" creationid="Marc Riera" creationdate="20251114T120055Z">
+        <seg>Instal·lador del Windows amb el JRE de 32 bits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Windows installer packaged with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251114T120056Z" creationid="Marc Riera" creationdate="20251114T120056Z">
+        <seg>Instal·lador del Windows amb el JRE de 64 bits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows installer with no JRE</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251114T120046Z" creationid="Marc Riera" creationdate="20251114T120046Z">
+        <seg>Instal·lador del Windows sense el JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -55823,6 +55889,22 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T082950Z" creationid="Marc Riera" creationdate="20221205T082950Z">
         <seg>Dreceres per defecte del macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS package, Notarized</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251114T120039Z" creationid="Marc Riera" creationdate="20251114T120039Z">
+        <seg>Paquet del macOS validat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS package, Unsigned</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251114T120023Z" creationid="Marc Riera" creationdate="20251114T120023Z">
+        <seg>Paquet del macOS sense signar</seg>
       </tuv>
     </tu>
     <tu>
