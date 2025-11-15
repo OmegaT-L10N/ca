@@ -8190,6 +8190,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Azure Translate plugin</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T144233Z" creationid="Marc Riera" creationdate="20251115T144233Z">
+        <seg>Connector d'Azure Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>B&amp;rowse...</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190436Z" creationid="Marc Riera" creationdate="20221124T190436Z">
@@ -12157,6 +12165,14 @@ Versió nova: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DLTranslator is a python project that runs AI translation server on PC.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T145344Z" creationid="Marc Riera" creationdate="20251115T145344Z">
+        <seg>DLTranslator és un projecte de Python que permet executar un servidor de traducció automàtica amb aprenentatge automàtic en un ordinador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DOWN</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T084615Z" creationid="Marc Riera" creationdate="20221205T084615Z">
@@ -12182,10 +12198,26 @@ Versió nova: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DeepL API Free plugin</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T144136Z" creationid="Marc Riera" creationdate="20251115T144136Z">
+        <seg>Connector de l'API gratuïta de DeepL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DeepL API key not available.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215222Z" creationid="Marc Riera" creationdate="20221124T215222Z">
         <seg>La clau de l'API de DeepL no està disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DeepL connector plugin</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T144238Z" creationid="Marc Riera" creationdate="20251115T144238Z">
+        <seg>Connector de DeepL</seg>
       </tuv>
     </tu>
     <tu>
@@ -24552,6 +24584,14 @@ en la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MDict dictionary lookup plugin</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T144325Z" creationid="Marc Riera" creationdate="20251115T144325Z">
+        <seg>Connector de consulta de diccionaris MDict</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MT engine error happened</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230420T070942Z" creationid="Marc Riera" creationdate="20230420T070942Z">
@@ -26079,6 +26119,14 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T135151Z" creationid="Marc Riera" creationdate="20201124T193152Z">
         <seg>És possible que els usuaris del Linux amb més experiència prefereixin instal·lar el JRE d'Oracle (anteriorment, Sun) per a tot el sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moses MT connector plugin</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T144211Z" creationid="Marc Riera" creationdate="20251115T144211Z">
+        <seg>Connector de traducció automàtica de Moses</seg>
       </tuv>
     </tu>
     <tu>
@@ -30507,6 +30555,14 @@ la carpeta d'inici.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>PDIC dictionary lookup plugin</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T144306Z" creationid="Marc Riera" creationdate="20251115T144306Z">
+        <seg>Connector de consulta de diccionaris PDIC</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>PO</seg>
@@ -32088,6 +32144,54 @@ Folder = &lt;t1&gt;Dossier&lt;/t1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085754Z" creationid="Marc Riera" creationdate="20230104T085754Z">
         <seg>Llista de proveïdors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides DLTranslator connector.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T144356Z" creationid="Marc Riera" creationdate="20251115T144356Z">
+        <seg>Proporciona el connector de DLTranslator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides DeepL MT connector (via Pro V1 API)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T144256Z" creationid="Marc Riera" creationdate="20251115T144256Z">
+        <seg>Proporciona el connector de traducció automàtica de DeepL (mitjançant l'API Pro V1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides MDict bilingual dictionary lookup feature</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T144331Z" creationid="Marc Riera" creationdate="20251115T144331Z">
+        <seg>Proporciona la característica de consulta en diccionaris bilingües MDict</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides Moses Machine Translator plugin for OmegaT</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T144224Z" creationid="Marc Riera" creationdate="20251115T144224Z">
+        <seg>Proporciona el connector de traducció automàtica de Moses per a l'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides PDIC bilingual dictionary lookup feature</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T144321Z" creationid="Marc Riera" creationdate="20251115T144321Z">
+        <seg>Proporciona la característica de consulta en diccionaris bilingües PDIC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides connector for DeepL machine translation (via Free API)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T144201Z" creationid="Marc Riera" creationdate="20251115T144201Z">
+        <seg>Proporciona el connector de traducció automàtica de DeepL (mitjançant l'API gratuïta)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35025,6 +35129,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220907T204652Z" creationid="Marc Riera" creationdate="20220907T204652Z">
         <seg>Consulteu «/docs/libraries.txt».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;a0&gt;DLTranslator&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T144349Z" creationid="Marc Riera" creationdate="20251115T144349Z">
+        <seg>Consulteu &lt;a0&gt;DLTranslator&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
