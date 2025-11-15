@@ -12165,6 +12165,22 @@ Versió nova: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DLTranslator API connector plugin</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T145353Z" creationid="Marc Riera" creationdate="20251115T145353Z">
+        <seg>Connector de l'API de DLTranslator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DLTranslator Deep Learning translator server/client</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T145456Z" creationid="Marc Riera" creationdate="20251115T145431Z">
+        <seg>Servidor/client del traductor automàtic d'aprenentatge automàtic DLTranslator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DLTranslator is a python project that runs AI translation server on PC.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251115T145344Z" creationid="Marc Riera" creationdate="20251115T145344Z">
@@ -32148,6 +32164,14 @@ Folder = &lt;t1&gt;Dossier&lt;/t1&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provides Azure Translate V2/V3 connector for OmagaT</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T145409Z" creationid="Marc Riera" creationdate="20251115T145409Z">
+        <seg>Proporciona el connector d'Azure Translate V2/V3 per a l'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Provides DLTranslator connector.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251115T144356Z" creationid="Marc Riera" creationdate="20251115T144356Z">
@@ -32184,6 +32208,14 @@ Folder = &lt;t1&gt;Dossier&lt;/t1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251115T144321Z" creationid="Marc Riera" creationdate="20251115T144321Z">
         <seg>Proporciona la característica de consulta en diccionaris bilingües PDIC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides a translation API server built on dl-translate library powered by Hugging Face transformers.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T145651Z" creationid="Marc Riera" creationdate="20251115T145651Z">
+        <seg>Proporciona un servidor d'API de traducció basat en la biblioteca dl-translate, que funciona amb «transformers» de Hugging Face.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43366,6 +43398,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T160626Z" creationid="Marc Riera" creationdate="20230206T160626Z">
         <seg>El número de seqüència (incloent-hi el parèntesi) del començament de cada línia en una llista com la següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The server accepts a request in JSON form and return a translation result by pre-trained transformer model.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T145722Z" creationid="Marc Riera" creationdate="20251115T145722Z">
+        <seg>El servidor accepta una sol·licitud en format JSON i retorna una traducció feta per un model «transformer» preentrenat.</seg>
       </tuv>
     </tu>
     <tu>
