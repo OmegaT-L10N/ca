@@ -4630,6 +4630,62 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;General&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T145747Z" creationid="Marc Riera" creationdate="20251115T145747Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;General&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Machine Translation&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T145815Z" creationid="Marc Riera" creationdate="20251115T145815Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;Traducció automàtica&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Preferences&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T145741Z" creationid="Marc Riera" creationdate="20251115T145741Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;Preferències&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Access Configuration Folder&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T145808Z" creationid="Marc Riera" creationdate="20251115T145808Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Obre la carpeta de configuració&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Always Confirm Quit&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T145802Z" creationid="Marc Riera" creationdate="20251115T145802Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Confirma sempre en sortir&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Automatically fetch translations&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T145824Z" creationid="Marc Riera" creationdate="20251115T145824Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Obtén les traduccions automàticament&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Use TAB to Advance&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T145753Z" creationid="Marc Riera" creationdate="20251115T145753Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Utilitza Tab per a avançar&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="/" repository="/"/&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T185056Z" creationid="Marc Riera" creationdate="20230105T185056Z">
@@ -45791,6 +45847,15 @@ en sou víctima d'una.</seg>
         <seg>This option is useful with some Chinese, Japanese or Korean character input systems.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T092821Z" creationid="Marc Riera" creationdate="20230104T092821Z">
+        <seg>Aquesta opció és útil amb alguns sistemes d'entrada de caràcters xinesos, japonesos o coreans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>This option is useful with some Chinese, Japanese, or Korean character input systems.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251115T145757Z" creationid="Marc Riera" creationdate="20251115T145757Z">
         <seg>Aquesta opció és útil amb alguns sistemes d'entrada de caràcters xinesos, japonesos o coreans.</seg>
       </tuv>
     </tu>
