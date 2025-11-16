@@ -7312,6 +7312,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adding files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122059Z" creationid="Marc Riera" creationdate="20251116T122059Z">
+        <seg>Addició de fitxers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional contents</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081947Z" creationid="Marc Riera" creationdate="20221201T081947Z">
@@ -7405,6 +7413,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T144233Z" creationid="Marc Riera" creationdate="20230130T144233Z">
         <seg>Després de crear els comptes, l'administrador ha d'enviar als traductors les credencials individuals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After creating the accounts, the project manager must send the translators their individual credentials.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122026Z" creationid="Marc Riera" creationdate="20251116T122026Z">
+        <seg>Després de crear els comptes, el gestor del projecte ha d'enviar als traductors les credencials individuals.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12235,6 +12251,14 @@ Dossier de configuration
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230207T095418Z" creationid="Marc Riera" creationdate="20230207T095418Z">
         <seg>Consulteu els llocs de la secció &lt;l0/&gt; per a conèixer més informació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consulting project statistics</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122234Z" creationid="Marc Riera" creationdate="20251116T122234Z">
+        <seg>Consulta de les estadístiques del projecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -21195,6 +21219,14 @@ s'utilitzarà aquesta ubicació i tots els paràmetres es reinicialitzaran.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the server does not have a provision for translators to register an account themselves, the project manager must create accounts with write access for the translators.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122017Z" creationid="Marc Riera" creationdate="20251116T122017Z">
+        <seg>Si el servidor no ofereix un mètode perquè els traductors registrin un compte pel seu compte, el gestor del projecte en equip ha de crear comptes amb accés d'escriptura per als traductors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the server is self-hosted and does not have a provision for translators to register an account themselves, the team project administrator must create accounts with write access for the translators.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T144318Z" creationid="Marc Riera" creationdate="20230130T144318Z">
@@ -26173,6 +26205,14 @@ en la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Manage a team project</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122140Z" creationid="Marc Riera" creationdate="20251116T122110Z">
+        <seg>Gestió d'un projecte en equip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Manage your projects</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T094103Z" creationid="Marc Riera" creationdate="20221205T094103Z">
@@ -29497,6 +29537,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T174317Z" creationid="Marc Riera" creationdate="20221117T174317Z">
         <seg>L'OmegaT no té permisos de lectura i escriptura per a aquesta carpeta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT does not provide a mechanism to delete files from a team project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122216Z" creationid="Marc Riera" creationdate="20251116T122216Z">
+        <seg>L'OmegaT no proporciona cap mecanisme per a suprimir fitxers d'un projecte en equip.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40989,6 +41037,14 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Team projects involve a number of management tasks not directly related to translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122127Z" creationid="Marc Riera" creationdate="20251116T122127Z">
+        <seg>Els projectes en equip inclouen diverses de tasques de gestió que no estan relacionades directament amb la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Team projects use synchronization mechanisms between project members.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T140701Z" creationid="Marc Riera" creationdate="20221211T140701Z">
@@ -44319,6 +44375,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project manager has two options for sending the location of the project to the translators:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122037Z" creationid="Marc Riera" creationdate="20251116T122037Z">
+        <seg>El gestor del projecte té dues opcions per a enviar la ubicació del projecte als traductors:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project manager will then grant write access to the repository to those accounts.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T121837Z" creationid="Marc Riera" creationdate="20251116T121837Z">
@@ -46381,6 +46445,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202038Z" creationid="Marc Riera" creationdate="20221206T202038Z">
         <seg>Es recomana aquesta versió per a l'ús diari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This enable the project manager to consult the statistics, and possibly automate their processing, without the need to open OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122317Z" creationid="Marc Riera" creationdate="20251116T122317Z">
+        <seg>Això permet al gestor del projecte consultar les estadístiques i, possiblement, automatitzar-ne el processament, sense la necessitat d'obrir l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
