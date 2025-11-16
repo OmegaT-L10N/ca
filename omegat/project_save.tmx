@@ -21092,6 +21092,14 @@ extensions dels fitxers.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you switch to paragraph segmentation in a project that originally used &lt;l0/&gt;, you can have OmegaT present matches assembled from existing segments by enabling the &lt;l1/&gt; option in addition to showing regular fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T105937Z" creationid="Marc Riera" creationdate="20251116T105912Z">
+        <seg>Si canvieu a la segmentació per paràgrafs en un projecte que originalment utilitzava la &lt;l0/&gt;, podeu fer que l'OmegaT presenti coincidències creades a partir de segments existents habilitant l'opció &lt;l1/&gt;, a més de mostrar les coincidències parcials normals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you try to create the translated files, OmegaT will display the issues dialog until no issues are found.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T185253Z" creationid="Marc Riera" creationdate="20230104T185253Z">
@@ -29437,6 +29445,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will try to segment the source text into sentences, apply fuzzy matching on the segmented memory entries, and then assemble a paragraph from those matches.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110005Z" creationid="Marc Riera" creationdate="20251116T105933Z">
+        <seg>L'OmegaT intentarà segmentar el text d'origen en frases, aplicar coincidències parcials a les entrades de la memòria segmentades i crear un paràgraf a partir d'aquestes coincidències.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will underline spelling mistakes with red wavy-lines.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T144143Z" creationid="Marc Riera" creationdate="20230105T144143Z">
@@ -33018,6 +33034,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T184626Z" creationid="Packard Bell" creationdate="20150605T161422Z">
         <seg>Refés la darrera acció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refer to the &lt;l0/&gt; section for more information on the benefits and drawbacks of the different types of segmentation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110049Z" creationid="Marc Riera" creationdate="20251116T110049Z">
+        <seg>Consulteu la secció &lt;l0/&gt; per a obtenir més informació sobre els avantatges i inconvenients dels diferents tipus de segmentació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43212,6 +43236,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T174200Z" creationid="Marc Riera" creationdate="20221117T174144Z">
         <seg>S'ha fet una còpia de seguretat del fitxer original: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The origins of the matches can be multiple files or memories because the assembled paragraph may not exist in the translation memories.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110027Z" creationid="Marc Riera" creationdate="20251116T110027Z">
+        <seg>Els orígens de les coincidències poden ser diversos fitxers o memòries, ja que el paràgraf creat pot no existir a les memòries de traducció.</seg>
       </tuv>
     </tu>
     <tu>
