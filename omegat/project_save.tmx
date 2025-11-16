@@ -20194,6 +20194,14 @@ l'hivern ja és aquí.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, they can only be deleted by the project manager via the VCS.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T121137Z" creationid="Marc Riera" creationdate="20251116T121137Z">
+        <seg>No obstant això, només els pot suprimir el gestor de projectes a través del VCS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, you may want to remove the &lt;k0&gt;S&lt;/k0&gt; key from the shortcut to make it only &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;W&lt;/k3&gt;&lt;/k1&gt; (or &lt;k4&gt;&lt;k5&gt;Command&lt;/k5&gt;&lt;k6&gt;W&lt;/k6&gt;&lt;/k4&gt; on macOS) to match the shortcut you use in other applications.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T103829Z" creationid="Marc Riera" creationdate="20221217T123254Z">
@@ -22351,6 +22359,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T105311Z" creationid="Marc Riera" creationdate="20201125T155625Z">
         <seg>Per a executar-se, l'OmegaT requereix que tingueu el Java Runtime Environment (JRE) instal·lat a l'ordinador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In projects that use more complex mapping, &lt;e0&gt;adding&lt;/e0&gt;, &lt;e1&gt;modifying&lt;/e1&gt;, or &lt;e2&gt;deleting&lt;/e2&gt; files must &lt;e3&gt;all&lt;/e3&gt; be performed through the VCS.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T121245Z" creationid="Marc Riera" creationdate="20251116T121245Z">
+        <seg>En projectes que utilitzin una assignació més complexa, el VCS és l'&lt;e3&gt;única manera&lt;/e3&gt; d'&lt;e0&gt;afegir&lt;/e0&gt;, &lt;e1&gt;modificar&lt;/e1&gt; o &lt;e2&gt;suprimir&lt;/e2&gt; fitxers.</seg>
       </tuv>
     </tu>
     <tu>
