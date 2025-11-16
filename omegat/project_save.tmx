@@ -20935,6 +20935,14 @@ s'utilitzarà aquesta ubicació i tots els paràmetres es reinicialitzaran.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If any shared team project files have become unnecessary, the project manager &lt;e0&gt;must&lt;/e0&gt; use the VCS to delete them from the repository.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T141916Z" creationid="Marc Riera" creationdate="20251116T141916Z">
+        <seg>Si qualsevol fitxer del projecte en equip esdevé innecessari, el gestor del projecte &lt;e0&gt;ha d'utilitzar&lt;/e0&gt; el VCS per a suprimir-lo del repositori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, all the source segments are shown and highlighted in green.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T173709Z" creationid="Marc Riera" creationdate="20230130T173709Z">
@@ -39024,6 +39032,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since changes to the source files affect &lt;e0&gt;all&lt;/e0&gt; members, use that command with caution and only in accordance with the guidelines and workflow established for the project by the project manager.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T142235Z" creationid="Marc Riera" creationdate="20251116T142235Z">
+        <seg>Com que els canvis als fitxers d'origen afecten &lt;e0&gt;tots&lt;/e0&gt; els membres, utilitzeu aquesta ordre amb precaució i només seguint les pautes i el flux de treball que el gestor del projecte hagi definit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since files are included by default unless specifically excluded, this option is only necessary to specify exceptions to an exclusion pattern.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152702Z" creationid="Marc Riera" creationdate="20230130T152702Z">
@@ -46510,6 +46526,14 @@ en sou víctima d'una.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can be either &lt;e0&gt;http&lt;/e0&gt; (which includes https), &lt;e1&gt;git&lt;/e1&gt;, &lt;e2&gt;svn&lt;/e2&gt;, or &lt;e3&gt;file&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T141937Z" creationid="Marc Riera" creationdate="20251116T141937Z">
+        <seg>Pot ser &lt;e0&gt;http&lt;/e0&gt; (que inclou https), &lt;e1&gt;git&lt;/e1&gt;, &lt;e2&gt;svn&lt;/e2&gt; o &lt;e3&gt;file&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can be either &lt;e0&gt;http&lt;/e0&gt; (which includes https), &lt;e1&gt;svn&lt;/e1&gt;, &lt;e2&gt;git&lt;/e2&gt;, or &lt;e3&gt;file&lt;/e3&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152106Z" creationid="Marc Riera" creationdate="20230130T152106Z">
@@ -50113,6 +50137,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20250921T101848Z" creationid="Marc Riera" creationdate="20250921T101848Z">
         <seg>Desconegut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unless special mappings or &lt;l0/&gt;, have been set up all source files are shared by all team members, and any changes made to the local source files are overwritten the next time the project is synchronized, unless they are committed to the server using the &lt;l1/&gt;&lt;l2/&gt; command.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T142119Z" creationid="Marc Riera" creationdate="20251116T142119Z">
+        <seg>Tret que s'hagin configurat assignacions especials o &lt;l0/&gt;, tots els fitxers d'origen es comparteixen amb tots els membres de l'equip i qualsevol canvi als fitxers d'origen se sobreescriu cada vegada que se sincronitza el projecte, excepte si es publica al servidor mitjançant l'ordre &lt;l1/&gt;&lt;l2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
