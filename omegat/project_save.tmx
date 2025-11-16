@@ -7269,6 +7269,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT team project synchronizes the project translation memory (&lt;l0/&gt;) and the project writable glossary (&lt;l1/&gt;) between the VCS hosting server and all the participating team members.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T094645Z" creationid="Marc Riera" creationdate="20251116T094645Z">
+        <seg>Un projecte en equip de l'OmegaT sincronitza la memòria de traducció del projecte (&lt;l0/&gt;) i el glossari modificable del projecte (&lt;l1/&gt;) entre el servidor d'allotjament del VCS i tots els membres participants de l'equip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An OmegaT team projects synchronizes the project translation memory &lt;l0/&gt; and the project writable glossary &lt;l1/&gt; between the hosting server and all the participating team members, and manages all possible conflicts between them.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T141408Z" creationid="Marc Riera" creationdate="20230130T141408Z">
@@ -11845,8 +11853,8 @@ si cal fer res més.</seg>
       <tuv lang="en">
         <seg>Create an empty repository on your VCS hosting server</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T141217Z" creationid="Marc Riera" creationdate="20221217T182327Z">
-        <seg>Creació d'un dipòsit buit en el servidor d'allotjament del VCS</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T095316Z" creationid="Marc Riera" creationdate="20221217T182327Z">
+        <seg>Creeu d'un dipòsit buit en el servidor d'allotjament del VCS</seg>
       </tuv>
     </tu>
     <tu>
@@ -22541,6 +22549,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It also manages all possible conflicts between them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T094654Z" creationid="Marc Riera" creationdate="20251116T094654Z">
+        <seg>També gestiona tots els possibles conflictes entre ells.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It also shows an &lt;g0&gt;Average score&lt;/g0&gt; result for the alignment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T204627Z" creationid="Marc Riera" creationdate="20221214T204609Z">
@@ -25072,6 +25088,14 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T223809Z" creationid="Marc Riera" creationdate="20221211T223809Z">
         <seg>Gestió de les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Managing a team project calls for some knowledge of either the &lt;e0&gt;Git&lt;/e0&gt; or &lt;e1&gt;SVN&lt;/e1&gt; version control system (&lt;e2&gt;VCS&lt;/e2&gt; in the rest of this section).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T094613Z" creationid="Marc Riera" creationdate="20251116T094613Z">
+        <seg>La gestió d'un projecte en equip requereix un cert coneixement dels sistemes de control de versions &lt;e0&gt;Git&lt;/e0&gt; o &lt;e1&gt;SVN&lt;/e1&gt; (&lt;e2&gt;VCS&lt;/e2&gt; al llarg d'aquesta secció).</seg>
       </tuv>
     </tu>
     <tu>
