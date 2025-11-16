@@ -9988,6 +9988,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, OmegaT requires a double-click to enter the segment under the cursor.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T114832Z" creationid="Marc Riera" creationdate="20251116T114832Z">
+        <seg>Per defecte, l'OmegaT requereix fer doble clic per a accedir al segment sota el cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, a newly created project will contain all the required resources within its folder, and those resources are assigned the default names below.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152337Z" creationid="Marc Riera" creationdate="20230201T152337Z">
@@ -15490,6 +15498,14 @@ No s'ha trobat la pàgina d'ajuda.</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181108T153111Z" creationid="mgalo" creationdate="20181108T153111Z">
         <seg>Habilita la &amp;predicció a partir de l'historial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable matches for paragraphs assembled from matches found in segmented memory entries from a segmented source text in a project that uses paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T115115Z" creationid="Marc Riera" creationdate="20251116T115115Z">
+        <seg>Habilita les coincidències de paràgrafs assemblades a partir de coincidències d'entrades de les memòries de traducció d'un text d'origen segmentat en un projecte que utilitza la segmentació per paràgrafs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21001,6 +21017,14 @@ s'utilitzarà aquesta ubicació i tots els paràmetres es reinicialitzaran.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the cursor is unlocked, neither single-clicking nor double-clicking can be used to enter the segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T114930Z" creationid="Marc Riera" creationdate="20251116T114903Z">
+        <seg>Si el cursor està desblocat, no es poden fer servir els clics per a accedir al segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the documents you translate use bold, italics, or other decorative elements, OmegaT will convert those elements into tags that enclose the decorated text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233851Z" creationid="Marc Riera" creationdate="20221226T233851Z">
@@ -21369,6 +21393,14 @@ s'utilitzarà aquesta ubicació i tots els paràmetres es reinicialitzaran.</seg
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T142424Z" creationid="Marc Riera" creationdate="20230130T142424Z">
         <seg>Si esteu creant un projecte nou buit, podeu seguir el &lt;l0&gt;procediment amb la GUI&lt;/l0&gt; o crear-lo directament des de la línia d'ordres: &lt;c1&gt;java -jar OmegaT.jar team init &lt;llengua d'origen&gt; &lt;llengua de destinació&gt;&lt;/c1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are creating a new empty project, you can follow the &lt;l0&gt;GUI procedure&lt;/l0&gt;, or create it directly from the command line: &lt;cp1/&gt; &lt;c2&gt;java -jar OmegaT.jar team init &lt;source language&gt; &lt;target language&gt;&lt;/c2&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T115138Z" creationid="Marc Riera" creationdate="20251116T115138Z">
+        <seg>Si esteu creant un projecte nou buit, podeu seguir el &lt;l0&gt;procediment amb la GUI&lt;/l0&gt; o crear-lo directament des de la línia d'ordres: &lt;cp1/&gt;&lt;c2&gt;java -jar OmegaT.jar team init &lt;llengua d'origen&gt; &lt;llengua de destinació&gt;&lt;/c2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21868,8 +21900,8 @@ extensions dels fitxers.</seg>
       <tuv lang="en">
         <seg>If you switch to paragraph segmentation in a project that originally used &lt;l0/&gt;, you can have OmegaT present matches assembled from existing segments by enabling the &lt;l1/&gt; option in addition to showing regular fuzzy matches.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T105937Z" creationid="Marc Riera" creationdate="20251116T105912Z">
-        <seg>Si canvieu a la segmentació per paràgrafs en un projecte que originalment utilitzava la &lt;l0/&gt;, podeu fer que l'OmegaT presenti coincidències creades a partir de segments existents habilitant l'opció &lt;l1/&gt;, a més de mostrar les coincidències parcials normals.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T114951Z" creationid="Marc Riera" creationdate="20251116T105912Z">
+        <seg>Si canvieu a la segmentació per paràgrafs en un projecte que originalment utilitzava la &lt;l0/&gt;, podeu fer que l'OmegaT presenti coincidències assemblades a partir de segments existents habilitant l'opció &lt;l1/&gt;, a més de mostrar les coincidències parcials normals.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30221,8 +30253,8 @@ la carpeta d'inici.</seg>
       <tuv lang="en">
         <seg>OmegaT will try to segment the source text into sentences, apply fuzzy matching on the segmented memory entries, and then assemble a paragraph from those matches.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110005Z" creationid="Marc Riera" creationdate="20251116T105933Z">
-        <seg>L'OmegaT intentarà segmentar el text d'origen en frases, aplicar coincidències parcials a les entrades de la memòria segmentades i crear un paràgraf a partir d'aquestes coincidències.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T115000Z" creationid="Marc Riera" creationdate="20251116T105933Z">
+        <seg>L'OmegaT intentarà segmentar el text d'origen en frases, aplicar coincidències parcials a les entrades de la memòria segmentades i assemblar un paràgraf a partir d'aquestes coincidències.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44024,8 +44056,8 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       <tuv lang="en">
         <seg>The origins of the matches can be multiple files or memories because the assembled paragraph may not exist in the translation memories.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110027Z" creationid="Marc Riera" creationdate="20251116T110027Z">
-        <seg>Els orígens de les coincidències poden ser diversos fitxers o memòries, ja que el paràgraf creat pot no existir a les memòries de traducció.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T115005Z" creationid="Marc Riera" creationdate="20251116T110027Z">
+        <seg>Els orígens de les coincidències poden ser diversos fitxers o memòries, ja que el paràgraf assemblat pot no existir a les memòries de traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51028,6 +51060,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T124022Z" creationid="Marc Riera" creationdate="20221209T124022Z">
         <seg>Utilitzeu aquesta funció quan tingueu problemes en reordenar la disposició de la finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this option if you prefer to enter segments with a single-click.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T114852Z" creationid="Marc Riera" creationdate="20251116T114852Z">
+        <seg>Utilitzeu aquesta opció si preferiu accedir als segments amb un sol clic.</seg>
       </tuv>
     </tu>
     <tu>
