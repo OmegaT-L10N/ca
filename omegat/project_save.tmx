@@ -4630,6 +4630,22 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Browse&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T105214Z" creationid="Marc Riera" creationdate="20251116T105214Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;Navega&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Exclusions...&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T105227Z" creationid="Marc Riera" creationdate="20251116T105227Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;Exclusions...&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;File locations&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T104749Z" creationid="Marc Riera" creationdate="20251116T104749Z">
@@ -4750,6 +4766,30 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Dictionaries folder&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T105503Z" creationid="Marc Riera" creationdate="20251116T105503Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Carpeta dels diccionaris&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Exported translation memories folder&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T105518Z" creationid="Marc Riera" creationdate="20251116T105518Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Carpeta de les memòries de traducció exportades&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Glossary files folder&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T105443Z" creationid="Marc Riera" creationdate="20251116T105443Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Carpeta dels fitxers de glossari&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Hide tags&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T104720Z" creationid="Marc Riera" creationdate="20251116T104720Z">
@@ -4762,6 +4802,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T104725Z" creationid="Marc Riera" creationdate="20251116T104725Z">
         <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Ordres de postprocessament locals&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;OmegaT&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T105532Z" creationid="Marc Riera" creationdate="20251116T105532Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;OmegaT&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4782,6 +4830,55 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Source files folder&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T105221Z" creationid="Marc Riera" creationdate="20251116T105221Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Carpeta dels fitxers d'origen&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;TMX Level 1&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T105538Z" creationid="Marc Riera" creationdate="20251116T105538Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;TMX de nivell 1&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;TMX Level 2&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T105542Z" creationid="Marc Riera" creationdate="20251116T105542Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;TMX de nivell 2&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Translated files folder&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T105510Z" creationid="Marc Riera" creationdate="20251116T105510Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Carpeta dels fitxers traduïts&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Translation memories folder&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T105432Z" creationid="Marc Riera" creationdate="20251116T105432Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Carpeta de les memòries de traducció&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Translation memories to export&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T105529Z" creationid="Marc Riera" creationdate="20251116T105529Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Memòries de traducció que s'exportaran&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Untranslated segments only&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251115T150011Z" creationid="Marc Riera" creationdate="20251115T150011Z">
@@ -4794,6 +4891,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251115T145753Z" creationid="Marc Riera" creationdate="20251115T145753Z">
         <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Utilitza Tab per a avançar&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Writable Glossary File&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T105453Z" creationid="Marc Riera" creationdate="20251116T105453Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Fitxer de glossari modificable&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
