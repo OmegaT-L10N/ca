@@ -42636,6 +42636,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The local version is used to add the initial project to the server version, as well as for certain maintenance tasks.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T095554Z" creationid="Marc Riera" creationdate="20251116T095554Z">
+        <seg>La versió local es fa servir per a afegir el projecte inicial a la versió del servidor, així com per a certes tasques de manteniment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The location depends on the operating system and launch options.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T163132Z" creationid="Marc Riera" creationdate="20221201T163132Z">
@@ -49929,6 +49937,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this copy to make modifications that affect the entire team.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T095518Z" creationid="Marc Riera" creationdate="20251116T095518Z">
+        <seg>Utilitzeu aquesta còpia per a aplicar modificacions que afectin tot l'equip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use this feature when you are unable to restore the desired arrangement after undocking, moving, or hiding one or more panes.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102049Z" creationid="Marc Riera" creationdate="20230104T102049Z">
@@ -50021,6 +50037,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152554Z" creationid="Marc Riera" creationdate="20230130T152554Z">
         <seg>Utilitzeu comodins (seguint l'estil de l'Apache Ant: *, ?, **) per a afegir patrons per a fitxers que no voleu que formin part de l'assignació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use your local VCS client to make a local copy (clone) of that repository.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T095418Z" creationid="Marc Riera" creationdate="20251116T095418Z">
+        <seg>Feu servir el client de VCS local per a crear una còpia local (clon) del repositori.</seg>
       </tuv>
     </tu>
     <tu>
