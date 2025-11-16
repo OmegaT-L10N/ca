@@ -3098,6 +3098,20 @@ per a editar-lo com a projecte en equip.)</seg>
         <seg>&lt;${score}/${noStemScore}/${adjustedScore}%&gt; ${fuzzyFlag} ${fileNameOnly}
 [NEW]▷ ${diff}
 			
+[OLD]◀ ${diffReversed}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T113427Z" creationid="Marc Riera" creationdate="20251116T113427Z">
+        <seg>&lt;${score}/${noStemScore}/${adjustedScore}%&gt; ${fuzzyFlag} ${fileNameOnly}
+[NEW]▷ ${diff}
+			
+[OLD]◀ ${diffReversed}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;${score}/${noStemScore}/${adjustedScore}%&gt; ${fuzzyFlag} ${fileNameOnly}
+[NEW]▷ ${diff}
+			
 [OLD]◀ ${diffReversed}
 ◀ ${targetText}</seg>
       </tuv>
@@ -4870,6 +4884,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;View&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T113459Z" creationid="Marc Riera" creationdate="20251116T113459Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;Visualització&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Access Configuration Folder&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251115T145808Z" creationid="Marc Riera" creationdate="20251115T145808Z">
@@ -5046,6 +5068,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Customize segment modification information&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T114000Z" creationid="Marc Riera" creationdate="20251116T114000Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Personalitza la informació de modificació dels segments&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Dictionaries folder&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T105503Z" creationid="Marc Riera" creationdate="20251116T105503Z">
@@ -5058,6 +5088,22 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T111650Z" creationid="Marc Riera" creationdate="20251116T111650Z">
         <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Mostra la descripció de context dels glossaris (TBX 2)&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Display active source segment in bold&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T113940Z" creationid="Marc Riera" creationdate="20251116T113940Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Mostra el segment d'origen actiu en negreta&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Display all source segments in bold&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T113933Z" creationid="Marc Riera" creationdate="20251116T113924Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Mostra tots els segments d'origen en negreta&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5118,6 +5164,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Include matches from other languages&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T113400Z" creationid="Marc Riera" creationdate="20251116T113400Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Inclou les coincidències en altres llengües&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Initial number of loaded segments&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110357Z" creationid="Marc Riera" creationdate="20251116T110357Z">
@@ -5162,6 +5216,22 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T104725Z" creationid="Marc Riera" creationdate="20251116T104725Z">
         <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Ordres de postprocessament locals&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Mark all repeated segments&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T113947Z" creationid="Marc Riera" creationdate="20251116T113947Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Marca tots els segments repetits&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Match display template&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T113414Z" creationid="Marc Riera" creationdate="20251116T113414Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Plantilla de la visualització de coincidències&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5278,6 +5348,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Select how tags of non-OmegaT TMXs should be displayed&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T113356Z" creationid="Marc Riera" creationdate="20251116T113356Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Seleccioneu la manera com es mostraran les etiquetes dels fitxers TMX d'altres aplicacions&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Sentence-level segmenting&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T104608Z" creationid="Marc Riera" creationdate="20251116T104608Z">
@@ -5306,6 +5384,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110441Z" creationid="Marc Riera" creationdate="20251116T110441Z">
         <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Variables senzilles (p. ex., «%s», «%d»)&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Simplify tag tooltips&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T113954Z" creationid="Marc Riera" creationdate="20251116T113954Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Simplifica els indicadors de funció de les etiquetes&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5523,6 +5609,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251115T145913Z" creationid="Marc Riera" creationdate="20251115T145913Z">
         <seg>&lt;l0&gt;&lt;/l0&gt;Gestió de les memòries de traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;Match template variables</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T113446Z" creationid="Marc Riera" creationdate="20251116T113446Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;Variables de plantilla de coincidències</seg>
       </tuv>
     </tu>
     <tu>
@@ -59779,6 +59873,14 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181111T230845Z" creationid="mgalo" creationdate="20181111T230845Z">
         <seg>▼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>◀ ${targetText}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T113430Z" creationid="Marc Riera" creationdate="20251116T113430Z">
+        <seg>◀ ${targetText}</seg>
       </tuv>
     </tu>
     <tu>
