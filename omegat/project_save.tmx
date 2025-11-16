@@ -6659,8 +6659,8 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>A project manager who also works on the project as a translator must download a separate translation copy of the project to a local location other than the one used to create and manage that project.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T123645Z" creationid="Marc Riera" creationdate="20251116T123645Z">
-        <seg>Un gestor del projecte que també hi treballa com a traductor ha de baixat una còpia de traducció independent del projecte a una ubicació local diferent de l'utilitzada per a crear i gestionar el projecte-</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T141652Z" creationid="Marc Riera" creationdate="20251116T123645Z">
+        <seg>Un gestor del projecte que també hi treballa com a traductor ha de baixar una còpia de traducció independent del projecte a una ubicació local diferent de l'utilitzada per a crear i gestionar el projecte-</seg>
       </tuv>
     </tu>
     <tu>
@@ -8305,6 +8305,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230213T093942Z" creationid="Marc Riera" creationdate="20230208T133443Z">
         <seg>Tot i que l'OmegaT no presenta colors atractius per a les expressions regulars, podeu practicar molt amb la finestra &lt;l0/&gt;, ja que l'OmegaT sí que n'acoloreix els resultats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although OmegaT provides a mechanism for adding translation source and target files to the repository, the project manager must add any other files, such as dictionaries, glossaries or reference translation memories, from the VCS client.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T141816Z" creationid="Marc Riera" creationdate="20251116T141816Z">
+        <seg>Encara que l'OmegaT proporciona un mecanisme per afegir fitxers d'origen i de destinació al repositori, el gestor del projecte ha d'afegir qualsevol altre fitxer, com ara diccionaris, glossaris o memòries de traducció de referència, des del client de VCS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21464,6 +21472,14 @@ s'utilitzarà aquesta ubicació i tots els paràmetres es reinicialitzaran.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there are any conflicts at that time, OmegaT will present a dialog to let you choose the correct version.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T141117Z" creationid="Marc Riera" creationdate="20251116T141117Z">
+        <seg>Si hi ha cap conflicte en aquest moment, l'OmegaT presentarà un quadre de diàleg per a triar la versió correcta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there are repeated segments in the source documents, checking this option will set the first translated segment as the default translation and automatically use the same target text in the remaining repeated segments.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110222Z" creationid="Marc Riera" creationdate="20230130T110222Z">
@@ -21572,6 +21588,14 @@ s'utilitzarà aquesta ubicació i tots els paràmetres es reinicialitzaran.</seg
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T145912Z" creationid="Marc Riera" creationdate="20230130T145912Z">
         <seg>Si no coincideixen, assegureu-vos que els fitxers &lt;f0&gt;filters.xml&lt;/f0&gt; i &lt;f1&gt;segmentation.conf&lt;/f1&gt; s'hagin compartit correctament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If they do not match, make sure the two projects use the same filters and segmentation settings by checking that &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; are properly shared.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T141630Z" creationid="Marc Riera" creationdate="20251116T141616Z">
+        <seg>Si no coincideixen, assegureu-vos que els dos projectes utilitzin els mateixos paràmetres de filtres i segmentació comprovant que els fitxers &lt;f0&gt;filters.xml&lt;/f0&gt; i &lt;f1&gt;segmentation.conf&lt;/f1&gt; estiguin compartits correctament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44673,6 +44697,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122037Z" creationid="Marc Riera" creationdate="20251116T122037Z">
         <seg>El gestor del projecte té dues opcions per a enviar la ubicació del projecte als traductors:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project manager may find it advantageous—even necessary—to handle such tasks directly through the VCS, particularly in cases where that project manager only acts as a coordinator and is not involved in the translation process itself.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T141727Z" creationid="Marc Riera" creationdate="20251116T141727Z">
+        <seg>El gestor del projecte pot trobar beneficiós (fins i tot necessari) fer aquestes tasques directament a través del VCS, especialment en els casos en què el gestor de projectes només actua com a coordinador i no s'involucra en el procés de traducció en si.</seg>
       </tuv>
     </tu>
     <tu>
