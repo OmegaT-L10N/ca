@@ -11600,6 +11600,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the files to translate to the source/ folder, and use your VCS client, or the command line, to add and publish them to the repository.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T100611Z" creationid="Marc Riera" creationdate="20251116T100611Z">
+        <seg>Copieu els fitxers per a traduir a la carpeta «source/» i utilitzeu un client de VCS, o bé la línia d'ordres, per a afegir-los i publicar-los en el dipòsit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the folder to a suitable location (e.g. &lt;c3&gt;Applications&lt;/c3&gt;).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122356Z" creationid="Marc Riera" creationdate="20221223T122356Z">
@@ -11861,8 +11869,8 @@ si cal fer res més.</seg>
       <tuv lang="en">
         <seg>Create an empty repository on your VCS hosting server</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T095316Z" creationid="Marc Riera" creationdate="20221217T182327Z">
-        <seg>Creeu d'un dipòsit buit en el servidor d'allotjament del VCS</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T100944Z" creationid="Marc Riera" creationdate="20221217T182327Z">
+        <seg>Creeu un dipòsit buit en el servidor d'allotjament del VCS</seg>
       </tuv>
     </tu>
     <tu>
@@ -21398,6 +21406,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In team projects that use a simple mapping between the local repository and the remote repository (the default), &lt;e0&gt;and only in such projects&lt;/e0&gt;, the source and target files can be modified locally and uploaded to the server directly from OmegaT using the &lt;l1/&gt; &lt;l2/&gt; and &lt;l3/&gt;&lt;l4/&gt; commands.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T100648Z" creationid="Marc Riera" creationdate="20251116T100648Z">
+        <seg>En els projectes en equip que utilitzen una assignació senzilla entre el dipòsit local i el dipòsit remot (el comportament per defecte), &lt;e0&gt;i només en aquests projectes&lt;/e0&gt;, els fitxers d'origen i destinació es poden modificar localment i pujar al servidor directament des de l'OmegaT utilitzant les ordres &lt;l1/&gt;&lt;l2/&gt; i &lt;l3/&gt;&lt;l4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In team projects that use a simple mapping between the local repository and the remote repository (the default), &lt;e0&gt;and only in such projects&lt;/e0&gt;, the source and target files can be modified locally and uploaded to the server using &lt;l1/&gt;&lt;l2/&gt; and &lt;l3/&gt;&lt;l4/&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T143447Z" creationid="Marc Riera" creationdate="20230130T143447Z">
@@ -22430,8 +22446,8 @@ feu doble clic en la drecera.</seg>
       <tuv lang="en">
         <seg>Invalid repository type: {0}</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20200727T151156Z" creationid="Marc Riera" creationdate="20180221T113249Z">
-        <seg>El tipus de dipòsit no és vàlid: {0}</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T100849Z" creationid="Marc Riera" creationdate="20180221T113249Z">
+        <seg>El tipus de repositori no és vàlid: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24692,8 +24708,8 @@ en la carpeta de configuració.</seg>
       <tuv lang="en">
         <seg>Localization TMX repository</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201122T190759Z" creationid="Alexandra" creationdate="20150526T134528Z">
-        <seg>Dipòsit de fitxers TMX de localització</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T101004Z" creationid="Alexandra" creationdate="20150526T134528Z">
+        <seg>Repositori de fitxers TMX de localització</seg>
       </tuv>
     </tu>
     <tu>
@@ -25209,8 +25225,8 @@ en la carpeta de configuració.</seg>
       <tuv lang="en">
         <seg>Mapping of local folders to remote folders in repositories</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190801Z" creationid="Marc Riera" creationdate="20221124T190801Z">
-        <seg>Assignació de carpetes locals a carpetes remotes en dipòsits</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T100843Z" creationid="Marc Riera" creationdate="20221124T190801Z">
+        <seg>Assignació de carpetes locals a carpetes remotes en repositoris</seg>
       </tuv>
     </tu>
     <tu>
@@ -29751,8 +29767,8 @@ la carpeta d'inici.</seg>
       <tuv lang="en">
         <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201127T185549Z" creationid="Alexandra" creationdate="20150526T134344Z">
-        <seg>Dipòsits en línia de diccionaris ortogràfics per a l'ús amb l'OmegaT.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T101022Z" creationid="Alexandra" creationdate="20150526T134344Z">
+        <seg>Repositoris en línia de diccionaris ortogràfics per a l'ús amb l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32889,6 +32905,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Register the project files into the local repository.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T100700Z" creationid="Marc Riera" creationdate="20251116T100700Z">
+        <seg>Registreu els fitxers del projecte amb el repositori local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expression searches match Java regular expressions as documented in the user guide.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T192258Z" creationid="Marc Riera" creationdate="20221124T192258Z">
@@ -33150,8 +33174,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Remote repositories</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190756Z" creationid="Marc Riera" creationdate="20221124T190756Z">
-        <seg>Dipòsits remots</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T100715Z" creationid="Marc Riera" creationdate="20221124T190756Z">
+        <seg>Repositoris remots</seg>
       </tuv>
     </tu>
     <tu>
@@ -33788,8 +33812,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Repository</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190743Z" creationid="mgalo" creationdate="20181218T201543Z">
-        <seg>Dipòsit</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T100846Z" creationid="mgalo" creationdate="20181218T201543Z">
+        <seg>Repositori</seg>
       </tuv>
     </tu>
     <tu>
@@ -33839,8 +33863,8 @@ les paraules «No s'ha trobat la pàgina».</seg>
       <tuv lang="en">
         <seg>Repository {0} is already present</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20201004T001059Z" creationid="Marc Riera" creationdate="20180221T113310Z">
-        <seg>El dipòsit {0} ja existeix</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T100852Z" creationid="Marc Riera" creationdate="20180221T113310Z">
+        <seg>El repositori {0} ja existeix</seg>
       </tuv>
     </tu>
     <tu>
@@ -39822,8 +39846,8 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
       <tuv lang="en">
         <seg>Team Mode Repository Mapping</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20221124T190751Z" creationid="Marc Riera" creationdate="20201003T181253Z">
-        <seg>Assignació de dipòsits del mode en equip</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T100710Z" creationid="Marc Riera" creationdate="20201003T181253Z">
+        <seg>Assignació de repositoris del mode en equip</seg>
       </tuv>
     </tu>
     <tu>
@@ -52925,6 +52949,14 @@ un comportament inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T143326Z" creationid="Marc Riera" creationdate="20230130T143326Z">
         <seg>Heu d'utilitzar un client de l'SVN o el Git, o bé la línia d'ordres, per a afegir i publicar diccionaris, glossaris, memòries de traducció o altres fitxers que vulgueu incloure en el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must use your VCS client, or the command line, to add and publish any dictionaries, glossaries, translation memories or any other files you want to include in the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T100619Z" creationid="Marc Riera" creationdate="20251116T100619Z">
+        <seg>Heu d'utilitzar un client de VCS, o bé la línia d'ordres, per a afegir i publicar diccionaris, glossaris, memòries de traducció o altres fitxers que vulgueu incloure en el projecte.</seg>
       </tuv>
     </tu>
     <tu>
