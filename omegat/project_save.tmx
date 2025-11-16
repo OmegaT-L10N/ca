@@ -4828,6 +4828,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Plugins&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T114126Z" creationid="Marc Riera" creationdate="20251116T114126Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;Connectors&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Preferences&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251115T145741Z" creationid="Marc Riera" creationdate="20251115T145741Z">
@@ -4844,10 +4852,34 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Proxy Login&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T114108Z" creationid="Marc Riera" creationdate="20251116T114108Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;Inici de sessió en el servidor intermediari&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Repository Mapping...&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T104740Z" creationid="Marc Riera" creationdate="20251116T104740Z">
         <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;Assignació de dipòsits...&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Saving and Output&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T114021Z" creationid="Marc Riera" creationdate="20251116T114021Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;Desament i sortida&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Secure store&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T114120Z" creationid="Marc Riera" creationdate="20251116T114120Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;Emmagatzematge segur&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4880,6 +4912,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T112840Z" creationid="Marc Riera" creationdate="20251116T112840Z">
         <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;Equip&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Updates&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T114133Z" creationid="Marc Riera" creationdate="20251116T114133Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;Actualitzacions&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4920,6 +4960,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T112621Z" creationid="Marc Riera" creationdate="20251116T112621Z">
         <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Permet les ordres de cerca externa locals&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Allow local post-processing commands&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T114045Z" creationid="Marc Riera" creationdate="20251116T114045Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Permet les ordres de postprocessament locals&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5140,6 +5188,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Global post-processing commands&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T114034Z" creationid="Marc Riera" creationdate="20251116T114034Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Ordres de postprocessament globals&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Glossary files folder&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T105443Z" creationid="Marc Riera" creationdate="20251116T105443Z">
@@ -5280,6 +5336,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110405Z" creationid="Marc Riera" creationdate="20251116T110405Z">
         <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Format dels límits dels paràgrafs&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Project data saving interval&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T114025Z" creationid="Marc Riera" creationdate="20251116T114025Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Interval de desament de les dades del projecte&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5436,6 +5500,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Standard template&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T114007Z" creationid="Marc Riera" creationdate="20251116T114007Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Plantilla estàndard&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Stop at untranslated and alternatives translations&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110325Z" creationid="Marc Riera" creationdate="20251116T110325Z">
@@ -5465,6 +5537,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T105542Z" creationid="Marc Riera" creationdate="20251116T105542Z">
         <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;TMX de nivell 2&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Template for segments without date&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T114013Z" creationid="Marc Riera" creationdate="20251116T114013Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Plantilla per als segments sense data&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
