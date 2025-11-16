@@ -3134,6 +3134,16 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/mapping&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122513Z" creationid="Marc Riera" creationdate="20251116T122513Z">
+        <seg>&lt;/mapping&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/repositories&gt;
 &lt;/project&gt;</seg>
       </tuv>
@@ -3453,6 +3463,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T190056Z" creationid="Marc Riera" creationdate="20230103T190056Z">
         <seg>&lt;e1&gt;Aneu amb compte!&lt;/e1&gt; En fer clic en aquest botó, es descartaran tots els canvis i tornareu al primer pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122509Z" creationid="Marc Riera" creationdate="20251116T122509Z">
+        <seg>&lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4364,6 +4382,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230626T164905Z" creationid="Marc Riera" creationdate="20230626T164905Z">
         <seg>&lt;i1&gt;L'OmegaT es pot instal·lar en qualsevol sistema operatiu que pugui executar la versió 11 del Java Runtime Environment.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122511Z" creationid="Marc Riera" creationdate="20251116T122511Z">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5765,10 +5791,76 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="" repository=""/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122606Z" creationid="Marc Riera" creationdate="20251116T122606Z">
+        <seg>&lt;mapping local="" repository=""/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122601Z" creationid="Marc Riera" creationdate="20251116T122601Z">
+        <seg>&lt;mapping local="" repository="Projecte_En-US_DE"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="/" repository="/"/&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T185056Z" creationid="Marc Riera" creationdate="20230105T185056Z">
         <seg>&lt;mapping local="/" repository="/"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122806Z" creationid="Marc Riera" creationdate="20251116T122806Z">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122856Z" creationid="Marc Riera" creationdate="20251116T122856Z">
+        <seg>&lt;mapping local="source/fitxer.txt" repository="primer/fitxer.txt"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/file2.txt" repository="some/file.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122914Z" creationid="Marc Riera" creationdate="20251116T122914Z">
+        <seg>&lt;mapping local="source/fitxer2.txt" repository="segon/fitxer.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122809Z" creationid="Marc Riera" creationdate="20251116T122809Z">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/subdir" repository=""&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122507Z" creationid="Marc Riera" creationdate="20251116T122507Z">
+        <seg>&lt;mapping local="source/subcarpeta" repository=""&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5994,6 +6086,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="file" url="/home/me/myfiles"&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122826Z" creationid="Marc Riera" creationdate="20251116T122826Z">
+        <seg>&lt;repository type="file" url="/home/usuari/fitxers"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="file" url="/home/me/myfiles"&gt;
 	&lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;
 	&lt;mapping local="source/file2.txt" repository="some/file.txt"/&gt;
@@ -6012,6 +6112,30 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T101039Z" creationid="Marc Riera" creationdate="20230201T152719Z">
         <seg>&lt;repository type="git" url="https://URL/DEL/REPOSITORI/DEL/PROJECTE/REMOT"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="git" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122758Z" creationid="Marc Riera" creationdate="20251116T122546Z">
+        <seg>&lt;repository type="git" url="https://repositori_de_tots_els_fitxers_d'origen_del_projecte_en_equip_de_l'OmegaT"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="git" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122656Z" creationid="Marc Riera" creationdate="20251116T122656Z">
+        <seg>&lt;repository type="git" url="https://repositori_de_tots_els_projectes_en_equip_de_l'OmegaT"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122803Z" creationid="Marc Riera" creationdate="20251116T122803Z">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6060,6 +6184,14 @@ per a editar-lo com a projecte en equip.)</seg>
         <seg>&lt;repository type="svn" url="https://dipòsit_de_tots_els_projectes_en_equip_de_l'OmegaT"&gt;
 	&lt;mapping local="" repository="Projecte_En-US_DE"/&gt;
 &lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122621Z" creationid="Marc Riera" creationdate="20251116T122621Z">
+        <seg>&lt;repository type="svn" url="https://repositori_del_projecte_en_equip_de_l'OmegaT"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7790,8 +7922,8 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T101116Z" creationid="Marc Riera" creationdate="20230130T152849Z">
-        <seg>Tots els continguts de l'URL &lt;f0&gt;https://repositori_d'un_projecte_en_equip_de_l'OmegaT&lt;/f0&gt; s'assignen al projecte local de l'OmegaT</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122715Z" creationid="Marc Riera" creationdate="20230130T152849Z">
+        <seg>Tots els continguts de l'URL &lt;f0&gt;https://repositori_del_projecte_en_equip_de_l'OmegaT&lt;/f0&gt; s'assignen al projecte local de l'OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -26322,8 +26454,8 @@ en la carpeta de configuració.</seg>
       <tuv lang="en">
         <seg>Mapping for additional sources from a remote repository, with filters:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T155210Z" creationid="Marc Riera" creationdate="20230130T155210Z">
-        <seg>Mapatge de fitxers d'origen addicionals d'un repositori remot, amb filtres:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122451Z" creationid="Marc Riera" creationdate="20230130T155210Z">
+        <seg>Assignació de fitxers d'origen addicionals d'un repositori remot, amb filtres:</seg>
       </tuv>
     </tu>
     <tu>
@@ -42505,6 +42637,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The above process describes the most common scenario, in which the project manager has full control of the project and all files (and statistics) are identical in all instances of the project, both on the server and the local systems of the translators.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122959Z" creationid="Marc Riera" creationdate="20251116T122959Z">
+        <seg>El procés anterior descriu el cas més habitual, en què el gestor del projecte té tot el control del projecte i tots els fitxers (i estadístiques) són idèntics en totes les instàncies del projecte, tant en el servidor com en els sistemes locals dels traductors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The above process describes the most common scenario, in which the team project administrator has full control of the project and all files (and statistics) are identical in all instances of the project, both on the server and the local systems of the translators.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T153247Z" creationid="Marc Riera" creationdate="20230130T153247Z">
@@ -42686,6 +42826,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T153339Z" creationid="Marc Riera" creationdate="20230130T153339Z">
         <seg>El procediment bàsic és essencialment el mateix, excepte que l'administrador del projecte en equip no afegeix tots els fitxers al projecte amb control de versions del servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The basic procedure is essentially the same, except that the team project manager does not add every file to the version-controlled project on the server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T123014Z" creationid="Marc Riera" creationdate="20251116T123014Z">
+        <seg>El procediment bàsic és essencialment el mateix, excepte que el gestor del projecte en equip no afegeix tots els fitxers al projecte amb control de versions del servidor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43839,8 +43987,8 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       <tuv lang="en">
         <seg>The local file &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/file.txt&lt;/f1&gt; and &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; is mapped to the local file &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230213T113400Z" creationid="Marc Riera" creationdate="20230130T162625Z">
-        <seg>El fitxer local &lt;f0&gt;/home/usuari/fitxers/primer/fitxer.txt&lt;/f0&gt; està assignat al fitxer local &lt;f1&gt;source/fitxer.txt&lt;/f1&gt; i &lt;f2&gt;/home/usuari/fitxers/segon/fitxer.txt&lt;/f2&gt; està assignat al fitxer local &lt;f3&gt;source/fitxer2&gt;txt&lt;/f3&gt;.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122929Z" creationid="Marc Riera" creationdate="20230130T162625Z">
+        <seg>El fitxer local &lt;f0&gt;/home/usuari/fitxers/primer/fitxer.txt&lt;/f0&gt; s'assigna al fitxer local &lt;f1&gt;source/fitxer.txt&lt;/f1&gt; i &lt;f2&gt;/home/usuari/fitxers/segon/fitxer.txt&lt;/f2&gt; s'assigna al fitxer local &lt;f3&gt;source/fitxer2&gt;txt&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47161,6 +47309,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215645Z" creationid="Marc Riera" creationdate="20230209T215645Z">
         <seg>Aquest menú ofereix les opcions d'emplenament automàtic definides en les preferències de l'&lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This only applies to workflows that ask translators to commit the translated target files to the repository as deliverables.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122406Z" creationid="Marc Riera" creationdate="20251116T122406Z">
+        <seg>Això només s'aplica als fluxos de treball que requereixen que els traductors publiquin els fitxers de destinació traduïts al repositori com a material de lliurament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52064,6 +52220,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T200742Z" creationid="Marc Riera" creationdate="20221210T200742Z">
         <seg>Independentment del que proveu, no trobeu la manera de solucionar-ho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When OmegaT commits the target files, it also commits the project statistics in &lt;f0&gt;.txt&lt;/f0&gt; and &lt;f1&gt;.json&lt;/f1&gt; format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122438Z" creationid="Marc Riera" creationdate="20251116T122438Z">
+        <seg>Quan l'OmegaT publica els fitxers de destinació, també publica les estadístiques del projecte en format &lt;f0&gt;.TXT&lt;/f0&gt; i &lt;f1&gt;.JSON&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
