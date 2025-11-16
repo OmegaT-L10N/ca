@@ -4734,10 +4734,58 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Tag Processing&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110411Z" creationid="Marc Riera" creationdate="20251116T110411Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;Processament d'etiquetes&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Access Configuration Folder&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251115T145808Z" creationid="Marc Riera" creationdate="20251115T145808Z">
         <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Obre la carpeta de configuració&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Activate segment with single click&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110314Z" creationid="Marc Riera" creationdate="20251116T110314Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Activa el segment amb un sol clic.&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;All variables (e.g., %s, %-s)&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110448Z" creationid="Marc Riera" creationdate="20251116T110448Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Totes les variables (p. ex., «%s», «%-s»)&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Allow tag editing&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110334Z" creationid="Marc Riera" creationdate="20251116T110334Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Permet l'edició de les etiquetes&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Allow translated tags to be in a different order&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110459Z" creationid="Marc Riera" creationdate="20251116T110459Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Permet que les etiquetes del text traduït estiguin en un ordre diferent&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Allow translation to be equal to source&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110309Z" creationid="Marc Riera" creationdate="20251116T110309Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Permet que la traducció sigui igual que el text d'origen&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4766,10 +4814,66 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Block the creation of translated files with tag issues&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110504Z" creationid="Marc Riera" creationdate="20251116T110504Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Impedeix la creació de fitxers traduïts amb problemes d'etiquetes&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Check issues when leaving a segment&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110339Z" creationid="Marc Riera" creationdate="20251116T110339Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Comprova si hi ha errors en sortir d'un segment&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Check printf function variables&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110417Z" creationid="Marc Riera" creationdate="20251116T110417Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Comprova les variables de la funció «printf»&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Check simple Java MessageFormat placeholders&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110455Z" creationid="Marc Riera" creationdate="20251116T110455Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Comprova els patrons de MessageFormat del Java senzills&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Count flagged text and custom tags in statistics&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110508Z" creationid="Marc Riera" creationdate="20251116T110508Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Compta el text marcat i les etiquetes personalitzades en les estadístiques&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Custom tags&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110514Z" creationid="Marc Riera" creationdate="20251116T110514Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Etiquetes personalitzades&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Dictionaries folder&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T105503Z" creationid="Marc Riera" creationdate="20251116T105503Z">
         <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Carpeta dels diccionaris&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Export the segment to a text file&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110320Z" creationid="Marc Riera" creationdate="20251116T110320Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Exporta el segment a un fitxer de text&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4798,10 +4902,26 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Initial number of loaded segments&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110357Z" creationid="Marc Riera" creationdate="20251116T110357Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Nombre inicial de segments carregats&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Local post-processing commands&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T104725Z" creationid="Marc Riera" creationdate="20251116T104725Z">
         <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Ordres de postprocessament locals&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;None&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110425Z" creationid="Marc Riera" creationdate="20251116T110425Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Cap&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4814,10 +4934,34 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Paragraph delimitation format&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110405Z" creationid="Marc Riera" creationdate="20251116T110405Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Format dels límits dels paràgrafs&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Provider list&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251115T150016Z" creationid="Marc Riera" creationdate="20251115T150016Z">
         <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Llista de proveïdors&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Save auto-populated status&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110347Z" creationid="Marc Riera" creationdate="20251116T110347Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Desa l'estat de propagació automàtica&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Save origin of translation&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110352Z" creationid="Marc Riera" creationdate="20251116T110352Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Desa l'origen de la traducció&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4830,10 +4974,26 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Simple variables (e.g., %s, %d)&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110441Z" creationid="Marc Riera" creationdate="20251116T110441Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Variables senzilles (p. ex., «%s», «%d»)&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Source files folder&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T105221Z" creationid="Marc Riera" creationdate="20251116T105221Z">
         <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Carpeta dels fitxers d'origen&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Stop at untranslated and alternatives translations&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110325Z" creationid="Marc Riera" creationdate="20251116T110325Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;Atura't en els segments sense traduir i amb traduccions alternatives&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -53521,12 +53681,28 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[[&lt;t0&gt;2003&lt;/t0&gt;年]]、ドイツの永住権を取得。</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110256Z" creationid="Marc Riera" creationdate="20251116T110256Z">
+        <seg>[[&lt;t0&gt;2003&lt;/t0&gt;年]]、ドイツの永住権を取得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[[&lt;t0&gt;2003&lt;/t0&gt;年]]、ドイツの永住権を取得。
 [[&lt;t1&gt;2003&lt;/t1&gt;]], elle acquiert la nationalité allemande.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T105543Z" creationid="Marc Riera" creationdate="20230104T105543Z">
         <seg>[[&lt;t0&gt;2003&lt;/t0&gt;年]]、ドイツの永住権を取得。
 [[&lt;t1&gt;2003&lt;/t1&gt;]], elle acquiert la nationalité allemande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[[&lt;t1&gt;2003&lt;/t1&gt;]], elle acquiert la nationalité allemande.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T110258Z" creationid="Marc Riera" creationdate="20251116T110258Z">
+        <seg>[[&lt;t1&gt;2003&lt;/t1&gt;]], elle acquiert la nationalité allemande.</seg>
       </tuv>
     </tu>
     <tu>
