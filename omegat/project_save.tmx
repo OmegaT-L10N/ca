@@ -7669,6 +7669,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>After you generate the target, files use the &lt;l0/&gt;&lt;l1/&gt; command to add them to the server if the project manager has requested you to do so.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T140902Z" creationid="Marc Riera" creationdate="20251116T140902Z">
+        <seg>Després de generar els fitxers de destinació, utilitzeu l'ordre &lt;l0/&gt;&lt;l1/&gt; per a afegir-los al servidor, si el gestor del projecte us ho ha demanat.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
@@ -12081,6 +12089,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Committing the target files also uploads the statistics files to the server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T140917Z" creationid="Marc Riera" creationdate="20251116T140917Z">
+        <seg>Publicar els fitxers de destinació també puja els fitxers d'estadístiques al servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Commodity12</seg>
@@ -15281,6 +15297,15 @@ Versió nova: {2}</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>During synchronization, all other local files are overwritten with the versions on the remote server, except for &lt;f0&gt;omegat.project&lt;/f0&gt; (see below).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T140650Z" creationid="Marc Riera" creationdate="20251116T140650Z">
+        <seg>Durant la sincronització, la resta de fitxers locals se sobreescriuen amb les versions del servidor remot, excepte el fitxer&lt;f0&gt;omegat.project&lt;/f0&gt; (consulteu l'apartat següent).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>During synchronization, all other local files are overwritten with the versions on the remote server, exept for &lt;f0&gt;omegat.project&lt;/f0&gt; (see below).</seg>
       </tuv>
@@ -15926,6 +15951,14 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230226T100759Z" creationid="Marc Riera" creationdate="20230226T100759Z">
         <seg>Accediu a la subfinestra &lt;l0/&gt; per a escriure o modificar una nota associada al segment actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the URL provided by the project manager in the &lt;g0&gt;Repository URL:&lt;/g0&gt; field at the top of the dialog, and specify a folder for the project in the &lt;g1&gt;New Local Project Folder:&lt;/g1&gt; field.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T140354Z" creationid="Marc Riera" creationdate="20251116T140354Z">
+        <seg>Indiqueu l'URL proporcionat pel gestor del projecte en el camp &lt;g0&gt;URL del repositori:&lt;/g0&gt; de la part superior del quadre de diàleg i indiqueu una carpeta per al projecte en el camp &lt;g1&gt;Carpeta de projecte local nova:&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21852,6 +21885,14 @@ extensions dels fitxers.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you first download the remote project using an &lt;f0&gt;omegat.project&lt;/f0&gt; file provided by the project manager, OmegaT will use the mappings in that file, if any.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T140811Z" creationid="Marc Riera" creationdate="20251116T140811Z">
+        <seg>Si primer baixeu el projecte remot mitjançant un fitxer &lt;f0&gt;omegat.project&lt;/f0&gt; proporcionat pel gestor del projecte, l'OmegaT utilitzarà les assignacions en aquest fitxer, si n'hi ha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have a TMX that contains the Japanese translation of an English document you are translating to French, you can use the Japanese translation as an alternative exact reference by displaying it under the English text to translate.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230507T151320Z" creationid="Marc Riera" creationdate="20230507T151320Z">
@@ -22191,6 +22232,14 @@ extensions dels fitxers.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If you use multiple projects on the same server, you will only be asked to enter your credentials once for that server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T140637Z" creationid="Marc Riera" creationdate="20251116T140637Z">
+        <seg>Si utilitzeu diversos projectes en el mateix servidor, només se us demanarà que indiqueu les credencials del servidor una vegada.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
@@ -22477,6 +22526,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In a team project, the basic configuration parameters of the local project are always overridden by the configuration on the server originally set by the project manager.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T140802Z" creationid="Marc Riera" creationdate="20251116T140802Z">
+        <seg>En un projecte en equip, els paràmetres de configuració bàsics del projecte local sempre se substitueixen per la configuració del servidor definida originalment pel gestor del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In a team project, this folder contains a versioned copy of the project tree structure linked directly to the remote server.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230204T154117Z" creationid="Marc Riera" creationdate="20230204T154117Z">
@@ -22663,6 +22720,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230708T175017Z" creationid="Marc Riera" creationdate="20230708T175017Z">
         <seg>En aquests casos, les traduccions alternatives depenen que els segments idèntics tinguin segments anteriors o posteriors diferents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In such cases, enter that passphrase or token when OmegaT asks for your password.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T140611Z" creationid="Marc Riera" creationdate="20251116T140611Z">
+        <seg>En aquests casos, indiqueu aquesta frase de contrasenya o testimoni quan l'OmegaT us demani la contrasenya.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25317,6 +25382,14 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124437Z" creationid="Marc Riera" creationdate="20221211T143115Z">
         <seg>Deixeu marcada l'opció &lt;g2&gt;Branca per defecte&lt;/g2&gt;, excepte si l'administrador del projecte us ha donat instruccions per a utilitzar una branca personalitzada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Leave the &lt;g2&gt;Default branch&lt;/g2&gt; option checked unless the project manager has provided instructions for using a custom branch.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T140405Z" creationid="Marc Riera" creationdate="20251116T140405Z">
+        <seg>Deixeu marcada l'opció &lt;g2&gt;Branca per defecte&lt;/g2&gt;, excepte si el gestor del projecte us ha donat instruccions per a utilitzar una branca personalitzada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34413,6 +34486,15 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Remember that any modifications to local project configuration files will be overwritten by the versions on the server when the project is synchronized.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T140830Z" creationid="Marc Riera" creationdate="20251116T140830Z">
+        <seg>Recordeu que qualsevol modificació dels fitxers de configuració del projecte locals se sobreescriurà per les versions del servidor quan se sincronitzi el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Remember that any modifications to the local project configuration files will be overwritten by the versions on the server when the project is synchronized.</seg>
       </tuv>
@@ -38934,6 +39016,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since synchronization takes place every three minutes by default, one project member may translate or modify a segment that has already been translated by another member, but not yet synchronized.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T140202Z" creationid="Marc Riera" creationdate="20251116T140202Z">
+        <seg>Com que, per defecte, el projecte se sincronitza cada tres minuts, un membre del projecte pot traduir o modificar un segment que ja havia traduït un altre membre, però que encara no s'havia sincronitzat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since the first few pages have not changed, your are greeted with a screenful of already translated segments from the previous job's memory upon opening the project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230126T185240Z" creationid="Marc Riera" creationdate="20230126T185240Z">
@@ -39212,6 +39302,14 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123300Z" creationid="Marc Riera" creationdate="20221225T123300Z">
         <seg>Alguns formats, com el PDF, no es poden tractar correctament amb conversions bidireccionals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some hosting services require you to generate a passphrase or other form of access token in addition to your password.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T140617Z" creationid="Marc Riera" creationdate="20251116T140548Z">
+        <seg>Alguns serveis d'allotjament requereixen que genereu una frase de contrasenya o una altra mena de testimoni d'accés a més de la vostra contrasenya.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42548,6 +42646,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124356Z" creationid="Marc Riera" creationdate="20221225T124356Z">
         <seg>La funció de cerca els permet filtrar la subfinestra «Editor» segons el contingut traduït per una persona determinada o segons el contingut traduït després o abans d'un moment determinat, per exemple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Search function offers a number of useful options to filter the content of the files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T140219Z" creationid="Marc Riera" creationdate="20251116T140219Z">
+        <seg>La funció de cerca ofereix moltes opcions útils per a filtrar el contingut dels fitxers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47289,6 +47395,14 @@ en sou víctima d'una.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This means users cannot delete from OmegaT or the local file system unless the project manager removes them from the server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T141048Z" creationid="Marc Riera" creationdate="20251116T141048Z">
+        <seg>Això vol dir que els usuaris no poden suprimir res de l'OmegaT o del sistema de fitxers local tret que el gestor del projecte ho suprimeixi del servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This memory is gradually filled as your translation progresses.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T115754Z" creationid="Marc Riera" creationdate="20221211T115754Z">
@@ -47707,6 +47821,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T124522Z" creationid="Marc Riera" creationdate="20221211T142219Z">
         <seg>Aquesta tasca normalment la duu a terme l'administrador del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This task normally has to be performed by the project manager, since files in a team project are restored the next time the project is synchronized.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251116T141004Z" creationid="Marc Riera" creationdate="20251116T141004Z">
+        <seg>Aquesta tasca normalment l'ha de fer el gestor del projecte, perquè els fitxers d'un projecte en equip es restauren la següent vegada que se sincronitza el projecte.</seg>
       </tuv>
     </tu>
     <tu>
