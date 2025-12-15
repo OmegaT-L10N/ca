@@ -7375,6 +7375,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Add files to the source folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185719Z" creationid="Marc Riera" creationdate="20251215T185719Z">
+        <seg>Addició de fitxers a la carpeta de fitxers d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Add numbers to all segments, making them all "unique"</seg>
@@ -7545,6 +7553,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T114250Z" creationid="Marc Riera" creationdate="20221129T114250Z">
         <seg>Després</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After a crash, the &lt;c0&gt;omegat.project&lt;/c0&gt; file may be locked and prevent opening the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185256Z" creationid="Marc Riera" creationdate="20251215T185256Z">
+        <seg>Després d'una fallada, pot ser que el fitxer &lt;c0&gt;omegat.project&lt;/c0&gt; quedi blocat i que impedeixi obrir el projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12771,6 +12787,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy or rename the best backup TM (&lt;c0&gt;project_save.tmx&lt;/c0&gt; or a backup) into the new project's omegat folder, then open the new project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185212Z" creationid="Marc Riera" creationdate="20251215T185212Z">
+        <seg>Copieu o canvieu el nom de la millor còpia de la memòria del projecte (&lt;c0&gt;project_save.tmx&lt;/c0&gt; o una còpia de seguretat), poseu-la a la carpeta «omegat» del projecte nou i obriu el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the contents of the various user folders to the equivalent location in the new project (source files, reference translation memory files, glossary files).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T120552Z" creationid="Marc Riera" creationdate="20221225T120552Z">
@@ -13034,6 +13058,14 @@ si cal fer res més.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T155154Z" creationid="Marc Riera" creationdate="20221129T155154Z">
         <seg>Creació d'un projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a new project with the same settings and copy the source, glossary and reference TM files from the old project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185050Z" creationid="Marc Riera" creationdate="20251215T185050Z">
+        <seg>Creeu un projecte nou amb les mateixos paràmetres i copieu els fitxers d'origen, els glossaris i les memòries de traducció de referència del projecte antic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20299,8 +20331,16 @@ l'hivern ja és aquí.</seg>
       <tuv lang="en">
         <seg>Hit &lt;k0&gt;F1&lt;/k0&gt; or access the &lt;g1&gt;&gt; Help&lt;/g1&gt; menu to open the user manual.</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T182826Z" creationid="Marc Riera" creationdate="20230130T182826Z">
-        <seg>Premeu &lt;k0&gt;F1&lt;/k0&gt; o accediu al menú &lt;g1&gt;&gt; Ajuda&lt;/g1&gt; per a obrir el manual d'usuari.</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185646Z" creationid="Marc Riera" creationdate="20230130T182826Z">
+        <seg>Premeu &lt;k0&gt;F1&lt;/k0&gt; o accediu al menú &lt;g1&gt; Ajuda&lt;/g1&gt; per a obrir el manual d'usuari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hit &lt;s0&gt;F1&lt;/s0&gt; or access the &lt;s1&gt;Help&lt;/s1&gt; menu to open the user manual.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185631Z" creationid="Marc Riera" creationdate="20251215T185631Z">
+        <seg>Premeu &lt;s0&gt;F1&lt;/s0&gt; o accediu al menú &lt;s1&gt;Ajuda&lt;/s1&gt; per a obrir el manual d'usuari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20802,6 +20842,14 @@ no cal introduir el camí complet.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If OmegaT behaves oddly, try resetting it: access the configuration folder from &lt;s0&gt;Options&lt;/s0&gt; &lt;s1&gt;Access Configuration Folder&lt;/s1&gt;, back it up, delete it, then restart OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185458Z" creationid="Marc Riera" creationdate="20251215T185458Z">
+        <seg>Si l'OmegaT té un comportament estrany, podeu provar de reinicialitzar-lo: accediu a la carpeta de configuració des d'&lt;s0&gt;Opcions&lt;/s0&gt; &lt;s1&gt;Obre la carpeta de configuració&lt;/s1&gt;, feu-ne una còpia de seguretat, suprimiu-la i reinicieu l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If OmegaT detects an update, it will display a link to the download page.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085728Z" creationid="Marc Riera" creationdate="20230104T085728Z">
@@ -20887,6 +20935,22 @@ no cal introduir el camí complet.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175014Z" creationid="Marc Riera" creationdate="20230130T175014Z">
         <seg>Si s'ha seleccionat una part del segment de destinació, se sobreescriu la part seleccionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a project is locked</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185223Z" creationid="Marc Riera" creationdate="20251215T185223Z">
+        <seg>Si un projecte està blocat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a project won't open</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185019Z" creationid="Marc Riera" creationdate="20251215T185019Z">
+        <seg>Si un projecte no s'obre</seg>
       </tuv>
     </tu>
     <tu>
@@ -24837,6 +24901,14 @@ en la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Keep it safe, it is the heart of your project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185012Z" creationid="Marc Riera" creationdate="20251215T185012Z">
+        <seg>Conserveu-la, és el cor del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Keep tags in translated text</seg>
@@ -27081,6 +27153,14 @@ en la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches will appear in the &lt;s0&gt;Fuzzy Matches&lt;/s0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185538Z" creationid="Marc Riera" creationdate="20251215T185538Z">
+        <seg>Les coincidències apareixeran en la subfinestra &lt;s0&gt;Coincidències parcials&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches will be displayed in bold blue characters.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230201T125444Z" creationid="Marc Riera" creationdate="20230201T125444Z">
@@ -28991,6 +29071,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230226T100908Z" creationid="Marc Riera" creationdate="20230207T160046Z">
         <seg>Bloc de notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notepad access shortcut</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185701Z" creationid="Marc Riera" creationdate="20251215T185701Z">
+        <seg>Drecera d'accés al bloc de notes</seg>
       </tuv>
     </tu>
     <tu>
@@ -33158,6 +33246,14 @@ everything.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Prepare a team project repository</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185555Z" creationid="Marc Riera" creationdate="20251215T185555Z">
+        <seg>Preparació del repositori d'un projecte en equip</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Prerequisites for installing OmegaT
@@ -34906,6 +35002,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rename &lt;c0&gt;omegat.project&lt;/c0&gt; to &lt;c1&gt;omegat.project.locked&lt;/c1&gt; and rename &lt;c2&gt;omegat.project.bak&lt;/c2&gt; to &lt;c3&gt;omegat.project&lt;/c3&gt;, then open the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185345Z" creationid="Marc Riera" creationdate="20251215T185345Z">
+        <seg>Canvieu el nom del fitxer &lt;c0&gt;omegat.project&lt;/c0&gt; a &lt;c1&gt;omegat.project.locked&lt;/c1&gt; i canvieu el nom del fitxer &lt;c2&gt;omegat.project.bak&lt;/c2&gt; a &lt;c3&gt;omegat.project&lt;/c3&gt;; a continuació, obriu el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rename any files you want to prevent from being overwritten after you create them.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T211248Z" creationid="Marc Riera" creationdate="20230131T211248Z">
@@ -35445,6 +35549,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reset configuration to defaults</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185359Z" creationid="Marc Riera" creationdate="20251215T185359Z">
+        <seg>Reinicialització de la configuració</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Resolve the conflicts by choosing a translation for each segment below.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T220425Z" creationid="Marc Riera" creationdate="20221124T220425Z">
@@ -35564,6 +35676,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restore lost translations</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185509Z" creationid="Marc Riera" creationdate="20251215T185509Z">
+        <seg>Restauració de traduccions perdudes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restores the OmegaT main window layout to its default values.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T233244Z" creationid="Marc Riera" creationdate="20221230T233236Z">
@@ -35615,6 +35735,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
         <seg>Reuse TMs</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T113114Z" creationid="Marc Riera" creationdate="20221211T113114Z">
+        <seg>Reutilització de memòries de traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reuse translation memories</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185524Z" creationid="Marc Riera" creationdate="20251215T185524Z">
         <seg>Reutilització de memòries de traducció</seg>
       </tuv>
     </tu>
@@ -38646,6 +38774,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
         <seg>Share TMs</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T123816Z" creationid="Marc Riera" creationdate="20221211T123816Z">
+        <seg>Ús compartit de memòries de traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Share translation memories</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185606Z" creationid="Marc Riera" creationdate="20251215T185606Z">
         <seg>Ús compartit de memòries de traducció</seg>
       </tuv>
     </tu>
@@ -44476,6 +44612,22 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The omegat folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T184922Z" creationid="Marc Riera" creationdate="20251215T184922Z">
+        <seg>Carpeta «omegat»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The omegat folder stores the project TM (&lt;c0&gt;project_save.tmx&lt;/c0&gt;), statistics and settings.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T184955Z" creationid="Marc Riera" creationdate="20251215T184955Z">
+        <seg>La carpeta «omegat» emmagatzema la memòria del projecte (&lt;c0&gt;project_save.tmx&lt;/c0&gt;), estadístiques i paràmetres.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The open-source philosophy</seg>
@@ -50295,6 +50447,14 @@ fitxer de documentació i l'aplicació OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Untranslated segments remain in the source language.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185731Z" creationid="Marc Riera" creationdate="20251215T185731Z">
+        <seg>Els segments sense traduir romanen en la llengua d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Untranslated segments text</seg>
@@ -51875,6 +52035,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201212T110100Z" creationid="Marc Riera" creationdate="20190924T134331Z">
         <seg>Llengua de la interfície d'usuari de l'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User manual</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185612Z" creationid="Marc Riera" creationdate="20251215T185612Z">
+        <seg>Manual de l'usuari</seg>
       </tuv>
     </tu>
     <tu>
@@ -56337,6 +56505,14 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>dictionary contains the reference dictionaries</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T184839Z" creationid="Marc Riera" creationdate="20251215T184839Z">
+        <seg>«dictionary» conté els diccionaris de referència</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>dictionary_installation.html</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251215T073617Z" creationid="Marc Riera" creationdate="20251215T073617Z">
@@ -57061,10 +57237,26 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>glossary contains the glossaries</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T184811Z" creationid="Marc Riera" creationdate="20251215T184811Z">
+        <seg>«glossary» conté els glossaris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>glossary.txt</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T141340Z" creationid="Marc Riera" creationdate="20221211T141340Z">
         <seg>glossary.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>glossary.txt is the project writable glossary</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T184823Z" creationid="Marc Riera" creationdate="20251215T184823Z">
+        <seg>«glossary.txt» és el glossari modificable del projecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -59564,6 +59756,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>source contains the source files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T184801Z" creationid="Marc Riera" creationdate="20251215T184801Z">
+        <seg>«source» conté els fitxers d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>source.txt</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081940Z" creationid="Marc Riera" creationdate="20221201T081940Z">
@@ -59830,6 +60030,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225444Z" creationid="Marc Riera" creationdate="20201003T225444Z">
         <seg>tm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm contains the reference translation memories</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T184832Z" creationid="Marc Riera" creationdate="20251215T184832Z">
+        <seg>«tm» conté les memòries de traducció de referència</seg>
       </tuv>
     </tu>
     <tu>
