@@ -9899,6 +9899,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Break rule, &lt;g0&gt;Break&lt;/g0&gt; box checked, lower in the list</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190013Z" creationid="Marc Riera" creationdate="20251215T190013Z">
+        <seg>Regla de separació, casella &lt;g0&gt;Divisió&lt;/g0&gt; marcada, més avall en la llista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Break rule, box checked, lower in the list</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191841Z" creationid="Marc Riera" creationdate="20221201T191841Z">
@@ -16823,6 +16831,14 @@ ningú no sent els vostres crits.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception rule, &lt;g0&gt;Break&lt;/g0&gt; box unchecked, higher in the list</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185955Z" creationid="Marc Riera" creationdate="20251215T185955Z">
+        <seg>Regla d'excepció, casella &lt;g0&gt;Divisió&lt;/g0&gt; sense marcar, més amunt en la llista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception rule, box unchecked, higher in the list</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191434Z" creationid="Marc Riera" creationdate="20221201T191434Z">
@@ -21588,6 +21604,14 @@ s'utilitzarà aquesta ubicació i tots els paràmetres es reinicialitzaran.</seg
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204408Z" creationid="Marc Riera" creationdate="20221124T204408Z">
         <seg>Si hi ha una declaració, s'utilitzarà la codificació que s'hi indiqui, independentment d'aquests paràmetres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there is an existing &lt;f0&gt;segmentation.conf&lt;/f0&gt; file from earlier versions, OmegaT converts it automatically.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185906Z" creationid="Marc Riera" creationdate="20251215T185906Z">
+        <seg>Si es detecta un fitxer &lt;f0&gt;segmentation.conf&lt;/f0&gt; existent d'una versió anterior, l'OmegaT el converteix automàticament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29882,6 +29906,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not check the validity of the language codes that you enter.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190113Z" creationid="Marc Riera" creationdate="20251215T190113Z">
+        <seg>L'OmegaT no comprova la validesa dels codis de llengua que introduïu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not collect any user information and does not transmit any information without the explicit consent of the user.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230204T151302Z" creationid="Marc Riera" creationdate="20230126T181619Z">
@@ -30382,6 +30414,14 @@ està a punt per a executar-se.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221223T122556Z" creationid="Marc Riera" creationdate="20221223T122556Z">
         <seg>Els projectes de l'OmegaT &lt;s2&gt;&lt;e3&gt;no&lt;/e3&gt;&lt;/s2&gt; s'emmagatzemen dins de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT provides a convenient short list of two-letter language codes, but you can type any code into the appropriate field.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190100Z" creationid="Marc Riera" creationdate="20251215T190100Z">
+        <seg>L'OmegaT proporciona una breu llista pràctica de codis de llengua de dues lletres, però podeu escriure qualsevol codi en el camp corresponent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47916,6 +47956,14 @@ en sou víctima d'una.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized segmentation parameters in the &lt;u0&gt;SRX 2.0&lt;/u0&gt; format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185834Z" creationid="Marc Riera" creationdate="20251215T185834Z">
+        <seg>Aquest fitxer de paràmetres conté paràmetres de segmentació personalitzats en el format &lt;u0&gt;SRX 2.0&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This parameter file contains customized segmentation parameters.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T160113Z" creationid="Marc Riera" creationdate="20221201T160113Z">
@@ -57944,6 +57992,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://www.gala-global.org/srx-20-april-7-2008</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185812Z" creationid="Marc Riera" creationdate="20251215T185812Z">
+        <seg>https://www.gala-global.org/srx-20-april-7-2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://www.gala-global.org/tmx-14b#SectionIntroduction</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221204T110247Z" creationid="Marc Riera" creationdate="20221204T110247Z">
@@ -57956,6 +58012,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T085852Z" creationid="Marc Riera" creationdate="20230104T085852Z">
         <seg>https://www.ibm.com/watson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.ietf.org/rfc/rfc3066.txt</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190125Z" creationid="Marc Riera" creationdate="20251215T190125Z">
+        <seg>https://www.ietf.org/rfc/rfc3066.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -59645,6 +59709,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225533Z" creationid="Marc Riera" creationdate="20201003T225533Z">
         <seg>segmentation.conf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>segmentation.srx</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185810Z" creationid="Marc Riera" creationdate="20251215T185810Z">
+        <seg>segmentation.srx</seg>
       </tuv>
     </tu>
     <tu>
