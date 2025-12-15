@@ -10344,6 +10344,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, the cursor is locked in the translation field.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190925Z" creationid="Marc Riera" creationdate="20251215T190925Z">
+        <seg>Per defecte, el cursor queda blocat en el camp de traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the dictionaries pane uses the same font size as the main window panes.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230226T103231Z" creationid="Marc Riera" creationdate="20230226T103231Z">
@@ -11392,6 +11400,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T224746Z" creationid="Marc Riera" creationdate="20191110T224746Z">
         <seg>Seleccioneu un fitxer de destinació</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose a folder for exported TMs</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190939Z" creationid="Marc Riera" creationdate="20251215T190939Z">
+        <seg>Selecció de la carpeta de les memòries de traducció exportades</seg>
       </tuv>
     </tu>
     <tu>
@@ -13163,6 +13179,14 @@ si cal fer res més.</seg>
         <seg>Create your own TMs</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T113052Z" creationid="Marc Riera" creationdate="20221211T113052Z">
+        <seg>Creació de les vostres pròpies memòries de traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create your own translation memories</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190818Z" creationid="Marc Riera" creationdate="20251215T190818Z">
         <seg>Creació de les vostres pròpies memòries de traducció</seg>
       </tuv>
     </tu>
@@ -23691,6 +23715,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install dictionaries</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190840Z" creationid="Marc Riera" creationdate="20251215T190840Z">
+        <seg>Instal·lació de diccionaris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Install failed</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T214813Z" creationid="Marc Riera" creationdate="20221124T214813Z">
@@ -30645,6 +30677,14 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT theme</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190746Z" creationid="Marc Riera" creationdate="20251215T190746Z">
+        <seg>Tema de l'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT training course.</seg>
@@ -35785,6 +35825,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185509Z" creationid="Marc Riera" creationdate="20251215T185509Z">
         <seg>Restauració de traduccions perdudes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restore the default window layout</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190832Z" creationid="Marc Riera" creationdate="20251215T190832Z">
+        <seg>Reinicialització de la disposició de la finestra</seg>
       </tuv>
     </tu>
     <tu>
@@ -46081,6 +46129,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The writable glossary: glossary.txt</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T191009Z" creationid="Marc Riera" creationdate="20251215T191009Z">
+        <seg>El glossari modificable: glossary.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The writable project glossary is located in the &lt;l0/&gt; folder by default and called &lt;l1/&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T095640Z" creationid="Marc Riera" creationdate="20221206T095640Z">
@@ -50485,6 +50541,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Unlock the cursor with F2</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190908Z" creationid="Marc Riera" creationdate="20251215T190908Z">
+        <seg>Desblocatge del cursor amb F2</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
@@ -54394,6 +54458,14 @@ d'allà.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can find some dictionaries on the &lt;a0&gt;OmegaT Wiki&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T191019Z" creationid="Marc Riera" creationdate="20251215T191019Z">
+        <seg>Podeu trobar alguns diccionaris en la &lt;a0&gt;Wiki de l'OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can find some dictionaries on the &lt;u0&gt;OmegaT Wiki&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230204T150803Z" creationid="Marc Riera" creationdate="20230204T150803Z">
@@ -54665,6 +54737,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can select a theme for the OmegaT user interface.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190800Z" creationid="Marc Riera" creationdate="20251215T190800Z">
+        <seg>Podeu seleccionar un tema per a la interfície d'usuari de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can select any folder you want to hold your resources, including folders on shared disks.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110604Z" creationid="Marc Riera" creationdate="20230130T110604Z">
@@ -54677,6 +54757,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T102612Z" creationid="Marc Riera" creationdate="20221225T102602Z">
         <seg>Podeu definir la freqüència de les còpies de seguretat periòdiques amb les preferències de &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can set where exported TMX files are saved.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190951Z" creationid="Marc Riera" creationdate="20251215T190951Z">
+        <seg>Podeu definir on es desen els fitxers TMX exportats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54997,6 +55085,14 @@ un comportament inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T105130Z" creationid="Marc Riera" creationdate="20230130T105130Z">
         <seg>Només l'hauríeu d'utilitzar per a evitar problemes de compatibilitat amb projectes anteriors que continguin fitxers tractats amb aquest filtre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should see .dz, .idx and .ifo files per dictionary.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190859Z" creationid="Marc Riera" creationdate="20251215T190859Z">
+        <seg>Hauríeu de veure fitxers .dz, .idx i .ifo per a cada diccionari.</seg>
       </tuv>
     </tu>
     <tu>
