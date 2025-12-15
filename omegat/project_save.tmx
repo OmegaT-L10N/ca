@@ -9136,6 +9136,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Associate other file formats</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190421Z" creationid="Marc Riera" creationdate="20251215T190421Z">
+        <seg>Associació d'altres formats de fitxers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Associating a file extension to a filter is not sufficient to have the filter properly handle the file.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T083943Z" creationid="Marc Riera" creationdate="20221214T083943Z">
@@ -29500,6 +29508,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 6.0.2 - User Manual</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190410Z" creationid="Marc Riera" creationdate="20251215T190410Z">
+        <seg>OmegaT 6.0.2 - Manual d'usuari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT 6.0.2 requires a Java 11 Runtime Environment (JRE) to run.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190156Z" creationid="Marc Riera" creationdate="20251215T190156Z">
@@ -29852,6 +29868,15 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230213T093518Z" creationid="Marc Riera" creationdate="20221225T095613Z">
         <seg>l'OmegaT crea un fitxer de còpia de seguretat anomenat &lt;f0&gt;project_save.tmx.bak&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>OmegaT creates backups of your project settings to ensure it can retrieve them in case of a problem.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190433Z" creationid="Marc Riera" creationdate="20251215T190433Z">
+        <seg>L'OmegaT crea còpies de seguretat dels paràmetres del projecte per a assegurar que pot recuperar-los en cas que hi hagi un problema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30486,6 +30511,14 @@ està a punt per a executar-se.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T171228Z" creationid="Marc Riera" creationdate="20221117T171228Z">
         <seg>L'OmegaT no té prou memòria i es tancarà quan feu clic a «D'acord».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT regularly and automatically stores all your progress in the &lt;c0&gt;project_save.tmx&lt;/c0&gt; file located in the project's omegat folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190500Z" creationid="Marc Riera" creationdate="20251215T190500Z">
+        <seg>L'OmegaT emmagatzema de manera periòdica i automàtica tot el progrés en el fitxer &lt;c0&gt;project_save.tmx&lt;/c0&gt; de la carpeta «omegat» del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47176,6 +47209,14 @@ en sou víctima d'una.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the project-specific segmentation rules in the &lt;u0&gt;SRX 2.0&lt;/u0&gt; format.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190400Z" creationid="Marc Riera" creationdate="20251215T190400Z">
+        <seg>Aquest fitxer conté les regles de segmentació específiques del projecte en el format &lt;u0&gt;SRX 2.0&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file contains the project-specific segmentation rules.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231334Z" creationid="Marc Riera" creationdate="20230203T231334Z">
@@ -48494,10 +48535,26 @@ tots els paràmetres.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To define a break rule, check the &lt;g0&gt;Break&lt;/g0&gt; box.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190322Z" creationid="Marc Riera" creationdate="20251215T190322Z">
+        <seg>Per a definir una regla de divisió, marqueu la casella &lt;g0&gt;Divisió&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To define a list of tags, group each tag between parentheses and separate the groups with &lt;l0&gt;|&lt;/l0&gt; (equivalent to "OR" in regular expressions).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T185350Z" creationid="Marc Riera" creationdate="20230104T185350Z">
         <seg>Per a definir una llista d'etiquetes, agrupeu cada etiqueta entre parèntesis i separeu els grups amb &lt;l0&gt;|&lt;/l0&gt; (equivalent a «OR» en expressions regulars).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To define an exception rule, leave the &lt;g0&gt;Break &lt;/g0&gt;check box unchecked.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190325Z" creationid="Marc Riera" creationdate="20251215T190313Z">
+        <seg>Per a definir una regla d'excepció, deixeu la casella &lt;g0&gt;Divisió&lt;/g0&gt; sense marcar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51908,6 +51965,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T124022Z" creationid="Marc Riera" creationdate="20221209T124022Z">
         <seg>Utilitzeu aquesta funció quan tingueu problemes en reordenar la disposició de la finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this option for parts of the translation that do not require much transformation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190332Z" creationid="Marc Riera" creationdate="20251215T190332Z">
+        <seg>Utilitzeu aquesta opció per a parts de la traducció que no requereixin gaire transformació.</seg>
       </tuv>
     </tu>
     <tu>
