@@ -7621,6 +7621,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the project is ready and has been uploaded to the server, the project manager has to set up access for the translators.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251216T152927Z" creationid="Marc Riera" creationdate="20251216T152927Z">
+        <seg>Quan el projecte estigui a punt i s'hagi pujat al servidor, el gestor del projecte ha de configurar l'accés per als traductors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the project is ready and has been uploaded to the server, the project manager will require the following information to set up access for the translators:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T121751Z" creationid="Marc Riera" creationdate="20251116T121700Z">
@@ -21560,6 +21568,14 @@ s'utilitzarà aquesta ubicació i tots els paràmetres es reinicialitzaran.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the server is self-hosted and does not have a provision for translators to register an account themselves, the project manager must create accounts with write access for the translators.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251216T152939Z" creationid="Marc Riera" creationdate="20251216T152939Z">
+        <seg>Si el servidor està autoallotjat i no ofereix un mètode perquè els traductors registrin un compte pel seu compte, el gestor del projecte ha de crear comptes amb accés d'escriptura per als traductors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the server is self-hosted and does not have a provision for translators to register an account themselves, the team project administrator must create accounts with write access for the translators.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T144318Z" creationid="Marc Riera" creationdate="20230130T144318Z">
@@ -22277,6 +22293,14 @@ extensions dels fitxers.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T183222Z" creationid="Marc Riera" creationdate="20221217T183222Z">
         <seg>En cas que calgui treballar en el projecte, baixada del projecte a una ubicació local diferent de la ubicació del projecte en equip local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need to work on the project too, download the project yourself to a local location different from the original team project location</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251216T153037Z" creationid="Marc Riera" creationdate="20251216T153037Z">
+        <seg>En cas que calgui treballar en el projecte, baixeu el projecte a una ubicació local diferent de la ubicació del projecte en equip original</seg>
       </tuv>
     </tu>
     <tu>
@@ -26550,6 +26574,14 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230226T093138Z" creationid="Marc Riera" creationdate="20230226T093138Z">
         <seg>Assegureu-vos que els fitxers siguin idèntics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure that the two language codes are &lt;e0&gt;different&lt;/e0&gt;, that they are appropriate for your use of OmegaT, and that all other locations requiring a language code match the codes you assign here.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251216T152120Z" creationid="Marc Riera" creationdate="20251216T152120Z">
+        <seg>Assegureu-vos que els dos codis de llengua siguin &lt;e0&gt;diferents&lt;/e0&gt;, que siguin adequats per a l'ús que feu de l'OmegaT i que els codis de llengua assignats coincideixin en qualsevol altra ubicació on els feu servir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33901,6 +33933,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201120T160919Z" creationid="Marc Riera" creationdate="20190924T133224Z">
         <seg>Coordinador del projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project managers have two options for sending the location of the project to the translators:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251216T152949Z" creationid="Marc Riera" creationdate="20251216T152949Z">
+        <seg>Els gestors del projecte tenen dues opcions per a enviar la ubicació del projecte als traductors:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45062,6 +45102,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project manager must use the local VCS to &lt;e0&gt;modify&lt;/e0&gt; or &lt;e1&gt;delete&lt;/e1&gt; those files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251216T152929Z" creationid="Marc Riera" creationdate="20251216T152909Z">
+        <seg>El gestor del projecte ha d'utilitzar el VCS local per a &lt;e0&gt;modificar&lt;/e0&gt; o &lt;e1&gt;suprimir&lt;/e1&gt; aquests fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project manager will then grant write access to the repository to those accounts.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T121837Z" creationid="Marc Riera" creationdate="20251116T121837Z">
@@ -55056,6 +55104,15 @@ un comportament inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>You must use your VCS client, or the command line, to add and publish any dictionaries, glossaries, translation memories or other files you want to include in the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251216T152859Z" creationid="Marc Riera" creationdate="20251216T152859Z">
+        <seg>Heu d'utilitzar un client de VCS, o bé la línia d'ordres, per a afegir i publicar diccionaris, glossaris, memòries de traducció o altres fitxers que vulgueu incloure en el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>You need to install the dictionaries you need yourself.</seg>
       </tuv>
@@ -57395,10 +57452,26 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>find grammatical and typographical mistakes using the rules set in the &lt;l0/&gt; preferences,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251216T152154Z" creationid="Marc Riera" creationdate="20251216T152154Z">
+        <seg>Cercar errors gramaticals i tipogràfics amb les regles establertes en les preferències del &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>find spelling mistakes from the dictionaries installed in the &lt;l0/&gt; preferences,</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110016Z" creationid="Marc Riera" creationdate="20230130T110016Z">
         <seg>Cercar errors ortogràfics a partir dels diccionaris instal·lats en les preferències de &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>find spelling mistakes using the dictionaries installed in the &lt;l0/&gt; preferences,</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251216T152131Z" creationid="Marc Riera" creationdate="20251216T152131Z">
+        <seg>Cercar errors ortogràfics amb els diccionaris instal·lats en les preferències de &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60073,6 +60146,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T110915Z" creationid="Marc Riera" creationdate="20221215T110915Z">
         <seg>Especifica el nombre màxim de caràcters abans de tallar una línia i ignorar la resta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>specify the languages used in the TMX files that are created by the project (to be compliant, a TMX must use &lt;u0&gt;RFC 3066&lt;/u0&gt; language codes),</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251216T152239Z" creationid="Marc Riera" creationdate="20251216T152239Z">
+        <seg>Especificar les llengües utilitzades en els fitxers TMX creats pel projecte (per a complir amb l'especificació, un fitxer TMX ha de fer servir codis de llengua &lt;u0&gt;RFC 3066&lt;/u0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
