@@ -8340,6 +8340,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Although OmegaT provides a mechanism for adding translation source and target files to the repository, the project manager must add any other files, such as dictionaries, glossaries or reference translation memories, from the VCS repository.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251216T153120Z" creationid="Marc Riera" creationdate="20251216T153120Z">
+        <seg>Encara que l'OmegaT proporciona un mecanisme per afegir fitxers d'origen i de destinació al repositori, el gestor del projecte ha d'afegir qualsevol altre fitxer, com ara diccionaris, glossaris o memòries de traducció de referència, des del repositori de VCS.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
@@ -21059,6 +21067,15 @@ s'utilitzarà aquesta ubicació i tots els paràmetres es reinicialitzaran.</seg
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T112944Z" creationid="Marc Riera" creationdate="20230104T084801Z">
         <seg>Si s'ha marcat qualsevol fila com a acceptada, utilitzeu aquesta ordre per a actualitzar l'alineació de les files restants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>If any shared team project files have become unnecessary, the project manager &lt;e0&gt;must&lt;/e0&gt; delete them from the VCS repository.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251216T153143Z" creationid="Marc Riera" creationdate="20251216T153143Z">
+        <seg>Si qualsevol fitxer del projecte en equip esdevé innecessari, el gestor del projecte &lt;e0&gt;ha d'utilitzar&lt;/e0&gt; el VCS per a suprimir-lo del repositori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33941,6 +33958,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251216T152949Z" creationid="Marc Riera" creationdate="20251216T152949Z">
         <seg>Els gestors del projecte tenen dues opcions per a enviar la ubicació del projecte als traductors:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project managers may find it advantageous—or even necessary—to handle such tasks directly from the VCS repository, particularly in cases where the project manager only acts as a coordinator and is not involved in the translation process itself.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251216T153123Z" creationid="Marc Riera" creationdate="20251216T153109Z">
+        <seg>Els gestors del projecte pot trobar beneficiós (o fins i tot necessari) fer aquestes tasques directament a través del repositori de VCS, especialment en els casos en què el gestor del projecte només actua com a coordinador i no s'involucra en el procés de traducció en si.</seg>
       </tuv>
     </tu>
     <tu>
