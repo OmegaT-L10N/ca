@@ -9987,6 +9987,14 @@ Demana una altra copa!</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Bridge two languages with an intermediate TM</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251216T154704Z" creationid="Marc Riera" creationdate="20251216T154704Z">
+        <seg>Pont entre dues llengües amb una memòria de traducció intermèdia</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Brief introduction to OmegaT, 2009 (in Vietnamese).</seg>
@@ -18719,6 +18727,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For unsupported formats, try associating them with a supported one (e.g., convert to HTML) before adding them to the source folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251216T154622Z" creationid="Marc Riera" creationdate="20251216T154622Z">
+        <seg>Si detecteu formats no admesos, proveu d'associar-los a un format admès (per exemple, fer una conversió a HTML) abans d'afegir-los a la carpeta de fitxers d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Force Unicode literals compatibility with Java 8</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T210910Z" creationid="Marc Riera" creationdate="20221124T210910Z">
@@ -22463,6 +22479,14 @@ extensions dels fitxers.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T221325Z" creationid="Marc Riera" creationdate="20230131T221325Z">
         <seg>Si voleu desassignar l'script de la drecera, feu clic dret en el botó i seleccioneu &lt;g0&gt;Suprimeix l'script&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to install your project on a shared drive, do not install it at the top of the drive, but rather create a folder in which you will install the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251216T154521Z" creationid="Marc Riera" creationdate="20251216T154521Z">
+        <seg>Si voleu instal·lar el projecte en una unitat compartida, no l'instal·leu a l'arrel de la unitat, sinó que creeu una carpeta per a instal·lar-hi el projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30671,6 +30695,14 @@ Runtime Environment (JRE) en el sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT standard theme will switch default colours based on System colors.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251216T154932Z" creationid="Marc Riera" creationdate="20251216T154932Z">
+        <seg>El tema estàndard de l'OmegaT canviarà els colors per defecte en funció dels colors del sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT supports dictionaries in the StarDict or in the Lingvo DSL format.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230204T150752Z" creationid="Marc Riera" creationdate="20230204T150752Z">
@@ -37853,6 +37885,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T210304Z" creationid="Marc Riera" creationdate="20230131T210304Z">
         <seg>Consulteu les opcions i els scripts següents per a conèixer més detalls:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the manual section on supporting other formats for ideas.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251216T154637Z" creationid="Marc Riera" creationdate="20251216T154637Z">
+        <seg>Consulteu la secció del manual sobre altres formats per a obtenir idees.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45975,6 +46015,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The themes also provide a predefined set of default colors of marks.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251216T154913Z" creationid="Marc Riera" creationdate="20251216T154913Z">
+        <seg>Els temes també proporcionen un conjunt predefinit de colors de marques per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The themes also provide predefined set of default colors.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T101743Z" creationid="Marc Riera" creationdate="20230104T101743Z">
@@ -46980,6 +47028,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T144409Z" creationid="Marc Riera" creationdate="20230130T144409Z">
         <seg>Això pot ser útil si el projecte està configurat per a utilitzar &lt;l1&gt;assignacions&lt;/l1&gt; diferents per a cada traductor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can help suggest terminology via the Fuzzy Matches pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251216T154854Z" creationid="Marc Riera" creationdate="20251216T154854Z">
+        <seg>Això pot proporcionar suggeriments de terminologia útils a través de la subfinestra Coincidències parcials.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53235,6 +53291,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215727Z" creationid="Marc Riera" creationdate="20230209T215727Z">
         <seg>Quan accediu a un segment, se selecciona automàticament la primera coincidència parcial (la que té el percentatge de coincidència més alt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you have a TM in a different target language, you can bridge languages by adding both that TM and another TM that maps to your target.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251216T154824Z" creationid="Marc Riera" creationdate="20251216T154824Z">
+        <seg>Quan teniu una memòria de traducció en una llengua de destinació diferent, podeu crear un pont entre llengües afegint aquesta memòria de traducció i una altra memòria que correspongui amb la llengua de destinació.</seg>
       </tuv>
     </tu>
     <tu>
