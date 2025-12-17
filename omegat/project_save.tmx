@@ -7710,6 +7710,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After you generate the target files use &lt;l0/&gt;&lt;l1/&gt; to add them to the server, if the project manager has requested you to do so.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T115548Z" creationid="Marc Riera" creationdate="20251217T115548Z">
+        <seg>Després de generar els fitxers de destinació, utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a afegir-los al servidor, si el gestor del projecte us ho ha demanat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After you generate the target, files use the &lt;l0/&gt;&lt;l1/&gt; command to add them to the server if the project manager has requested you to do so.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T140902Z" creationid="Marc Riera" creationdate="20251116T140902Z">
@@ -11361,6 +11369,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20231109T144442Z" creationid="Marc Riera" creationdate="20231109T144442Z">
         <seg>Comproveu els permisos de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check the server documentation if your password does not work.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T115304Z" creationid="Marc Riera" creationdate="20251217T115304Z">
+        <seg>Consulteu la documentació del servidor si la vostra contrasenya no funciona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22594,6 +22610,15 @@ extensions dels fitxers.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>If you use multiple projects on the same server, you will only be asked for your credentials once for that server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T115313Z" creationid="Marc Riera" creationdate="20251217T115313Z">
+        <seg>Si utilitzeu diversos projectes en el mateix servidor, només se us demanarà que indiqueu les credencials del servidor una vegada.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If you use multiple projects on the same server, you will only be asked to enter your credentials once for that server.</seg>
       </tuv>
@@ -31936,6 +31961,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the project manager should use &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T115540Z" creationid="Marc Riera" creationdate="20251217T115540Z">
+        <seg>Només el gestor del projecte hauria d'utilitzar &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the rules associated to language patterns that correspond to the source language of your project are applied.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T103109Z" creationid="Marc Riera" creationdate="20230104T103109Z">
@@ -39795,6 +39828,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since members do not necessarily synchronize their projects at the same time, a segment with a local translation will occasionally also have a different translation from another member available on the server.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T120759Z" creationid="Marc Riera" creationdate="20251217T120759Z">
+        <seg>Com que els membres no necessàriament sincronitzen els projectes alhora, de vegades un segment amb una traducció local també tindrà una traducció diferent d'un altre membre disponible al servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since synchronization takes place by default every three minutes, project members will sometime translate or modify a segment that has already been translated by another member but not synchronized yet.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230213T095454Z" creationid="Marc Riera" creationdate="20221225T124336Z">
@@ -40016,6 +40057,14 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T134120Z" creationid="Marc Riera" creationdate="20190924T134120Z">
         <seg>Xarxes socials</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Solving translation conflicts</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T115328Z" creationid="Marc Riera" creationdate="20251217T115328Z">
+        <seg>Resolució de conflictes de traducció</seg>
       </tuv>
     </tu>
     <tu>
@@ -44172,6 +44221,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The dialog offers the choice between three versions of the translated segment:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T115431Z" creationid="Marc Riera" creationdate="20251217T115431Z">
+        <seg>El quadre de diàleg permet triar entre tres versions del segment traduït:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The dialog offers various options:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084054Z" creationid="Marc Riera" creationdate="20221214T084054Z">
@@ -48201,12 +48258,28 @@ en sou víctima d'una.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>This is the version that was shared with other members since you last worked on the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T115522Z" creationid="Marc Riera" creationdate="20251217T115522Z">
+        <seg>Versió compartida per altres membres des de la darrera vegada que heu treballat en el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>This is the way text will look when displayed.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200727T143622Z" creationid="Marc Riera" creationdate="20180221T112056Z">
         <seg>Aquest és l'aspecte que tindrà el text en mostrar-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the “base” version from which various versions were created.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T115503Z" creationid="Marc Riera" creationdate="20251217T115503Z">
+        <seg>Versió «base» a partir de la qual s'han creat diverses versions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48231,6 +48304,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143045Z" creationid="Marc Riera" creationdate="20230208T143045Z">
         <seg>Aquí és on escriviu i editeu les vostres traduccions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is your local version, which has not yet been sent to the server for sharing.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T115447Z" creationid="Marc Riera" creationdate="20251217T115447Z">
+        <seg>La vostra versió local, que encara no s'ha enviat al servidor ni compartit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48772,6 +48853,14 @@ en sou víctima d'una.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This task is normally performed by the project manager.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T115555Z" creationid="Marc Riera" creationdate="20251217T115555Z">
+        <seg>Aquesta tasca normalment la duu a terme el gestor del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This task normally has to be performed by the project manager, since files in a team project are restored the next time the project is synchronized.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T141004Z" creationid="Marc Riera" creationdate="20251116T141004Z">
@@ -49213,6 +49302,14 @@ tots els paràmetres.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T093759Z" creationid="Marc Riera" creationdate="20221225T093759Z">
         <seg>Per a habilitar-les, marqueu &lt;l0/&gt; en les preferències de &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To enhance security, some servers require external processes to connect using a separate access token instead of a password.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T115250Z" creationid="Marc Riera" creationdate="20251217T115250Z">
+        <seg>Per a millorar la seguretat, alguns servidors requereixen processos externs per a connectar-s'hi amb un testimoni d'accés independent en comptes d'una contrasenya.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53493,6 +53590,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When OmegaT cannot automatically solve a difference between a local translation and the remote memory, it displays a &lt;g0&gt;Merge&lt;/g0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T115408Z" creationid="Marc Riera" creationdate="20251217T115358Z">
+        <seg>Quan l'OmegaT no pot resoldre automàticament les diferències entre una traducció local i la memòria remota, mostra un quadre de diàleg de &lt;g0&gt;Combinació&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When OmegaT commits the target files, it also commits the project statistics in &lt;f0&gt;.txt&lt;/f0&gt; and &lt;f1&gt;.json&lt;/f1&gt; format.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T122438Z" creationid="Marc Riera" creationdate="20251116T122438Z">
@@ -53804,6 +53909,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T095431Z" creationid="Marc Riera" creationdate="20221225T095431Z">
         <seg>Quan obriu un projecte, l'OmegaT crea una còpia del fitxer &lt;f0&gt;project_save.tmx&lt;/f0&gt; en un fitxer de còpia de seguretat amb una marca de temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you synchronize the project, OmegaT will match the local and modified versions, and ask you to choose which version of the translation to keep.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T115642Z" creationid="Marc Riera" creationdate="20251217T115642Z">
+        <seg>Quan sincronitzeu el projecte, l'OmegaT farà coincidir les versions local i modificada i us demanarà quina versió de la traducció voleu conservar.</seg>
       </tuv>
     </tu>
     <tu>
