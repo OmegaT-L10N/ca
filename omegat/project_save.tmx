@@ -7408,6 +7408,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Add reminders in the &lt;s0&gt;Notepad&lt;/s0&gt; pane for problematic segments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T104122Z" creationid="Marc Riera" creationdate="20251217T104122Z">
+        <seg>Afegiu recordatoris a la subfinestra &lt;s0&gt;Bloc de notes&lt;/s0&gt; per als segments problemàtics.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Add terms to a glossary whilst translating in OmegaT</seg>
@@ -30831,6 +30839,14 @@ Runtime Environment (JRE) en el sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT supports many formats via file filters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T104315Z" creationid="Marc Riera" creationdate="20251217T104315Z">
+        <seg>L'OmegaT és compatible amb molts formats mitjançant filtres de fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT synchronises the Editor contents with the selected result, so you can edit the segments right away.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T212909Z" creationid="Marc Riera" creationdate="20230131T212909Z">
@@ -51830,6 +51846,38 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251217T100853Z" creationid="Marc Riera" creationdate="20251217T100853Z">
         <seg>Utilitzeu &lt;s0&gt;Edita&lt;/s0&gt; &lt;s1&gt;Crea una entrada en el glossari... (Ctrl+Maj+G)&lt;/s1&gt; per a afegir termes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;s0&gt;Edit&lt;/s0&gt; &lt;s1&gt;Search...&lt;/s1&gt; &lt;s2&gt;C&lt;/s2&gt;+&lt;s3&gt;F&lt;/s3&gt; to filter segments based on criteria that you set, and review only those.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T104253Z" creationid="Marc Riera" creationdate="20251217T104253Z">
+        <seg>Feu servir &lt;s0&gt;Edita&lt;/s0&gt; &lt;s1&gt;Cerca...&lt;/s1&gt; &lt;s2&gt;C&lt;/s2&gt;+&lt;s3&gt;F&lt;/s3&gt; per a filtrar els segments segons uns criteris que hàgiu establert i revisar només aquests segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;s0&gt;Go To&lt;/s0&gt; &lt;s1&gt;Editor&lt;/s1&gt; &lt;s2&gt;C&lt;/s2&gt;+&lt;s3&gt;A&lt;/s3&gt;+&lt;s4&gt;0&lt;/s4&gt; to return to the Editor and resume your translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T104220Z" creationid="Marc Riera" creationdate="20251217T104220Z">
+        <seg>Feu servir &lt;s0&gt;Ves a&lt;/s0&gt; &lt;s1&gt;Editor&lt;/s1&gt; &lt;s2&gt;C&lt;/s2&gt;+&lt;s3&gt;A&lt;/s3&gt;+&lt;s4&gt;0&lt;/s4&gt; per a tornar a l'editor i reprendre la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;s0&gt;Go To&lt;/s0&gt; &lt;s1&gt;Notepad&lt;/s1&gt; &lt;s2&gt;C&lt;/s2&gt;+&lt;s3&gt;A&lt;/s3&gt;+&lt;s4&gt;9&lt;/s4&gt; to enter the Notepad and add your remark.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T104159Z" creationid="Marc Riera" creationdate="20251217T104159Z">
+        <seg>Feu servir &lt;s0&gt;Ves a&lt;/s0&gt; &lt;s1&gt;Bloc de notes&lt;/s1&gt; &lt;s2&gt;C&lt;/s2&gt;+&lt;s3&gt;A&lt;/s3&gt;+&lt;s4&gt;9&lt;/s4&gt; per a accedir al bloc de notes i afegir un comentari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;s0&gt;Project&lt;/s0&gt; &lt;s1&gt;Add Files...&lt;/s1&gt; or drop files onto the &lt;s2&gt;Editor&lt;/s2&gt; pane to add documents to translate.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T104344Z" creationid="Marc Riera" creationdate="20251217T104344Z">
+        <seg>Feu servir &lt;s0&gt;Projecte&lt;/s0&gt; &lt;s1&gt;Afegeix fitxers...&lt;/s1&gt; o arrossegueu fitxers a la subfinestra &lt;s2&gt;Editor&lt;/s2&gt; per a afegir documents per a traduir.</seg>
       </tuv>
     </tu>
     <tu>
