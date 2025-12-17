@@ -13786,6 +13786,14 @@ Versió nova: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default layout overview</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T102250Z" creationid="Marc Riera" creationdate="20251217T102250Z">
+        <seg>Disposició per defecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default project mapping:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T152738Z" creationid="Marc Riera" creationdate="20230130T152738Z">
@@ -15288,6 +15296,14 @@ Versió nova: {2}</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181109T231929Z" creationid="mgalo" creationdate="20181109T231929Z">
         <seg>Di&amp;buixos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drag pane titles to rearrange or undock them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T102408Z" creationid="Marc Riera" creationdate="20251217T102408Z">
+        <seg>Arrossegueu els títols de les subfinestres per a organitzar-les o desacoblar-les.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19866,6 +19882,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Group panes into tabs to save space.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T102438Z" creationid="Marc Riera" creationdate="20251217T102438Z">
+        <seg>Agrupeu les subfinestres en pestanyes per a estalviar espai.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Group {0} does not exist in search expression</seg>
@@ -22539,6 +22563,14 @@ extensions dels fitxers.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you want to remove words from potential dictionary matches, add an &lt;c0&gt;ignore.txt&lt;/c0&gt; encoded in UTF-8 to the folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T102118Z" creationid="Marc Riera" creationdate="20251217T102118Z">
+        <seg>Si voleu suprimir paraules de les coincidències potencials del diccionari, afegiu un fitxer &lt;c0&gt;ignore.txt&lt;/c0&gt; codificat en UTF-8 a la carpeta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to remove words from potential dictionary matches, add an &lt;f0&gt;ignore.txt&lt;/f0&gt; encoded in UTF-8 to the folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230204T150915Z" creationid="Marc Riera" creationdate="20230204T150915Z">
@@ -22670,6 +22702,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251215T073530Z" creationid="Marc Riera" creationdate="20251215T073530Z">
         <seg>Ignora un element DOCTYPE incorrecte sense DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore a word in the dictionary</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T102107Z" creationid="Marc Riera" creationdate="20251217T102107Z">
+        <seg>Omissió de paraules del diccionari</seg>
       </tuv>
     </tu>
     <tu>
@@ -26787,6 +26827,14 @@ en la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Manipulate panes and layout</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T102346Z" creationid="Marc Riera" creationdate="20251217T102346Z">
+        <seg>Manipulació de subfinestres i disposició</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Manipulation</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T201810Z" creationid="Marc Riera" creationdate="20230101T201810Z">
@@ -28504,6 +28552,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Navigate and insert from Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T102144Z" creationid="Marc Riera" creationdate="20251217T102144Z">
+        <seg>Navegació i inserció de coincidències parcials</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Navigate between segments that were automatically populated by exact matches from the &lt;l0/&gt; and &lt;l1/&gt; subfolders.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150906Z" creationid="Marc Riera" creationdate="20230131T150906Z">
@@ -28591,6 +28647,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T204935Z" creationid="Marc Riera" creationdate="20221124T204935Z">
         <seg>Llengua i país nous</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New projects include standard folders such as source, target, glossary, tm, dictionary and the omegat folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T102556Z" creationid="Marc Riera" creationdate="20251217T102556Z">
+        <seg>Els projectes nous inclouen carpetes estàndard com «source», «target», «glossary», «tm», «dictionary» i «omegat».</seg>
       </tuv>
     </tu>
     <tu>
@@ -30933,6 +30997,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251217T100555Z" creationid="Marc Riera" creationdate="20251217T100555Z">
         <seg>L'OmegaT exportarà les memòries quan seleccioneu &lt;s0&gt;Projecte&lt;/s0&gt; &lt;s1&gt;Crea els fitxers traduïts&lt;/s1&gt; i compartirà les memòries de traducció exportades quan sigui necessari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will ignore all the words contained in that list.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T102131Z" creationid="Marc Riera" creationdate="20251217T102131Z">
+        <seg>L'OmegaT ignorarà totes les paraules d'aquesta llista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33978,6 +34050,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230830T074314Z" creationid="Marc Riera" creationdate="20230830T074314Z">
         <seg>Fitxers del projecte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project folder: default structure</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T102448Z" creationid="Marc Riera" creationdate="20251217T102448Z">
+        <seg>Carpeta del projecte: estructura per defecte</seg>
       </tuv>
     </tu>
     <tu>
@@ -42654,6 +42734,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;s0&gt;Fuzzy Matches&lt;/s0&gt; pane lists matches from &lt;c1&gt;project_save.tmx&lt;/c1&gt; and reference TMs. Use shortcuts to insert the best match or pick one with the mouse.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T102238Z" creationid="Marc Riera" creationdate="20251217T102238Z">
+        <seg>La subfinestra &lt;s0&gt;Coincidències parcials&lt;/s0&gt; mostra les coincidències del fitxer &lt;c1&gt;project_save.tmx&lt;/c1&gt; i de les memòries de traducció de referència. Feu servir les dreceres per a inserir la millor coincidència o seleccioneu-ne una amb el ratolí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221415Z" creationid="Marc Riera" creationdate="20221218T221415Z">
@@ -43815,6 +43903,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T092746Z" creationid="Marc Riera" creationdate="20230104T092746Z">
         <seg>La tecla per defecte per a validar i sortir d'un segment és &lt;k0&gt;Retorn&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default layout shows the Editor, Notepad, Fuzzy Matches, Glossaries, Segment properties, Comments, Multiple Translations, Dictionaries and Machine Translations panes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T102333Z" creationid="Marc Riera" creationdate="20251217T102333Z">
+        <seg>La disposició per defecte mostra les subfinestres Editor, Bloc de notes, Coincidències parcials, GLossaris, Propietats del segment, Comentaris, Diverses traduccions, Diccionaris i Traducció automàtica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52029,6 +52125,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T114905Z" creationid="Marc Riera" creationdate="20230130T114905Z">
         <seg>Utilitzeu la &lt;u1&gt;sintaxi de l'Apache Ant&lt;/u1&gt; per a definir les exclusions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the icons to minimize, maximize, restore or dock panes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T102425Z" creationid="Marc Riera" creationdate="20251217T102425Z">
+        <seg>Feu servir les icones per a minimitzar, maximitzar, restaurar o acoblar les subfinestres.</seg>
       </tuv>
     </tu>
     <tu>
