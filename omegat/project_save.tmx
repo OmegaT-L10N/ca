@@ -13206,6 +13206,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a subfolder under tm named &lt;c0&gt;penalty-XXX&lt;/c0&gt; (e.g., penalty-30) to reduce match scores from those TMs. A 100% match becomes 70% with &lt;c1&gt;penalty-30&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T113929Z" creationid="Marc Riera" creationdate="20251217T113929Z">
+        <seg>Creeu una subcarpeta dins de «tm» anomenada &lt;c0&gt;penalty-XXX&lt;/c0&gt; (p. ex., penalty-30) per a reduir els percentatges de coincidència de les memòries de traducció. Una coincidència del 100% esdevé una coincidència del 70% amb &lt;c1&gt;penalty-30&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create an empty repository on your VCS hosting server</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T101112Z" creationid="Marc Riera" creationdate="20221217T182327Z">
@@ -24726,6 +24734,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It returns to normal after you leave or edit the segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T113801Z" creationid="Marc Riera" creationdate="20251217T113801Z">
+        <seg>Recupera el color normal quan sortiu del segment o l'editeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It takes the following form:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T090949Z" creationid="Marc Riera" creationdate="20221205T090949Z">
@@ -26744,6 +26760,14 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230201T153044Z" creationid="Marc Riera" creationdate="20230201T153044Z">
         <seg>Feu un canvi menor en qualsevol part del projecte i deseu-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make a small change and save to add inserted translations to &lt;c0&gt;project_save.tmx&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T113539Z" creationid="Marc Riera" creationdate="20251217T113539Z">
+        <seg>Feu un petit canvi i deseu el projecte per a afegir les traduccions inserides a &lt;c0&gt;project_save.tmx&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29635,6 +29659,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T220234Z" creationid="Marc Riera" creationdate="20191112T220234Z">
         <seg>SBR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Office files often contain tags that must be preserved in the translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T113946Z" creationid="Marc Riera" creationdate="20251217T113946Z">
+        <seg>Els fitxers de l'Office solen contenir etiquetes que cal preservar en la traducció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33197,6 +33229,14 @@ s'esvaeix com la boira.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place a reliable TMX in the &lt;c0&gt;tm/enforce&lt;/c0&gt; folder to overwrite existing translations automatically.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T113607Z" creationid="Marc Riera" creationdate="20251217T113607Z">
+        <seg>Poseu un fitxer TMX fiable en la carpeta &lt;c0&gt;tm/enforce&lt;/c0&gt; per a sobreescriure les traduccions existents automàticament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place shared TMX files in the &lt;c0&gt;tm&lt;/c0&gt; folder, or exchange exported TMs created for delivery.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251217T103633Z" creationid="Marc Riera" creationdate="20251217T103633Z">
@@ -35472,6 +35512,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T215724Z" creationid="Marc Riera" creationdate="20230131T215724Z">
         <seg>Suprimeix les etiquetes en el text de destinació actual o en la selecció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove the TMX after updating if you don't need to keep segments immutable.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T113707Z" creationid="Marc Riera" creationdate="20251217T113707Z">
+        <seg>Suprimiu el fitxer TMX després d'actualitzar el projecte si no necessiteu que els segments segueixin sent immutables</seg>
       </tuv>
     </tu>
     <tu>
@@ -48229,6 +48277,14 @@ en sou víctima d'una.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This makes the enforced TM more reliable than the project memory.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T113643Z" creationid="Marc Riera" creationdate="20251217T113643Z">
+        <seg>Això dona a la memòria de traducció forçada més prioritat que la memòria del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This manual only describes a small subset of letters that take on a special meaning.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T121352Z" creationid="Marc Riera" creationdate="20230206T121352Z">
@@ -51971,6 +52027,22 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;s0&gt;Tools&lt;/s0&gt; &lt;s1&gt;Check Issues... (Ctrl+Shift+V)&lt;/s1&gt; and focus on Tag issues to detect missing or misplaced tags that may break exported files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T114129Z" creationid="Marc Riera" creationdate="20251217T114129Z">
+        <seg>Feu servir &lt;s0&gt;Eines&lt;/s0&gt;&lt;s1&gt;Comprova si hi ha errors... (Ctrl+Maj+V)&lt;/s1&gt; i centreu-vos en els errors d'etiquetes per a detectar etiquetes suprimides o mal col·locades que poden trencar els fitxers exportats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;s0&gt;Tools&lt;/s0&gt;&lt;s1&gt;Check Issues...&lt;/s1&gt; and focus on Tag issues, fix all tag problems, then create translated files again.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T114030Z" creationid="Marc Riera" creationdate="20251217T114030Z">
+        <seg>Feu servir &lt;s0&gt;Eines&lt;/s0&gt;&lt;s1&gt;Comprova si hi ha errors...&lt;/s1&gt; i centreu-vos en els errors d'etiquetes. Corregiu tots els problemes d'etiquetes i torneu a crear els fitxers traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230113T103449Z" creationid="Marc Riera" creationdate="20230113T103449Z">
@@ -53465,6 +53537,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230226T103112Z" creationid="Marc Riera" creationdate="20230226T103112Z">
         <seg>Quan s'insereix una coincidència d'un fitxer TMX d'aquesta carpeta, el color de fons del segment actiu canvia a vermell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a match is inserted from a TMX placed in tm/mt, the active segment background turns red.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T113746Z" creationid="Marc Riera" creationdate="20251217T113746Z">
+        <seg>Quan s'insereix una coincidència des d'un fitxer TMX en la carpeta «tm/mt», el color de fons del segment actiu es mostra de color vermell.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60766,6 +60846,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084310Z" creationid="Marc Riera" creationdate="20221214T084310Z">
         <seg>Codi de la regió de destinació (YY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target target files are created</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T114204Z" creationid="Marc Riera" creationdate="20251217T114204Z">
+        <seg>«target» conté els fitxers de destinació creats</seg>
       </tuv>
     </tu>
     <tu>
