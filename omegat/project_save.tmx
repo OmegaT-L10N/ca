@@ -6259,6 +6259,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;tm/auto&lt;/s0&gt; folder is intended for reliable references files that can automatically fill exactly matching and not yet translated segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T102703Z" creationid="Marc Riera" creationdate="20251217T102703Z">
+        <seg>La carpeta &lt;s0&gt;tm/auto&lt;/s0&gt; està pensada per a fitxers de referència fiables que poden emplenar automàticament exactament els segments que són coincidències exactes i que encara no s'han traduït.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
@@ -22118,6 +22126,14 @@ extensions dels fitxers.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you fear you lost work, close the project and use the automatic backups of &lt;c0&gt;project_save.tmx&lt;/c0&gt; in the project’s omegat folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T102757Z" creationid="Marc Riera" creationdate="20251217T102757Z">
+        <seg>Si creieu que heu perdut feina, tanqueu el projecte i feu servir les còpies de seguretat automàtiques del fitxer &lt;c0&gt;project_save.tmx&lt;/c0&gt; en la carpeta «omegat» del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you find other interesting references—in any language—the OmegaT team would love to hear about them.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230208T133638Z" creationid="Marc Riera" creationdate="20230208T133638Z">
@@ -23284,6 +23300,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T184432Z" creationid="Marc Riera" creationdate="20201125T184432Z">
         <seg>Alhora, són lliures i se'ls anima (però no se'ls obliga de cap manera) a contribuir al projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include an &lt;c0&gt;omegat.project&lt;/c0&gt; file at the root and commit the standard folders.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T103525Z" creationid="Marc Riera" creationdate="20251217T103525Z">
+        <seg>Incloeu un fitxer &lt;c0&gt;omegat.project&lt;/c0&gt; a l'arrel i publiqueu les carpetes estàndard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34417,6 +34441,14 @@ Folder = &lt;t1&gt;Dossier&lt;/t1&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Put reference TMX files in the project's tm folder to leverage previous work.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T103425Z" creationid="Marc Riera" creationdate="20251217T103425Z">
+        <seg>Poseu fitxers TMX de referència en la carpeta «tm» del projecte per a aprofitar feina anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Put the &lt;f0&gt;omegat.project&lt;/f0&gt; file in an empty folder, and open it in OmegaT.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T141205Z" creationid="Marc Riera" creationdate="20221211T141205Z">
@@ -35384,6 +35416,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251215T185345Z" creationid="Marc Riera" creationdate="20251215T185345Z">
         <seg>Canvieu el nom del fitxer &lt;c0&gt;omegat.project&lt;/c0&gt; a &lt;c1&gt;omegat.project.locked&lt;/c1&gt; i canvieu el nom del fitxer &lt;c2&gt;omegat.project.bak&lt;/c2&gt; a &lt;c3&gt;omegat.project&lt;/c3&gt;; a continuació, obriu el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rename a suitable backup (e.g., &lt;c0&gt;project_save.tmx.YYYYMMDDhhmm.bak&lt;/c0&gt;) to &lt;c1&gt;project_save.tmx&lt;/c1&gt; and reopen the project to restore that state.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T102854Z" creationid="Marc Riera" creationdate="20251217T102854Z">
+        <seg>Canvieu el nom d'una còpia de seguretat adequada (p. ex., &lt;c0&gt;project_save.tmx.AAAAMMDDhhmm.bak&lt;/c0&gt;) a &lt;c1&gt;project_save.tmx&lt;/c1&gt; i torneu a obrir el projecte per a restaurar l'estat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39106,6 +39146,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Set up a VCS repository (e.g., Git) for your project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T103501Z" creationid="Marc Riera" creationdate="20251217T103501Z">
+        <seg>Configureu un repositori de VCS (p. ex., Git) per al projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Set up a new project</seg>
@@ -41922,6 +41970,14 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T120414Z" creationid="Marc Riera" creationdate="20191113T072613Z">
         <seg>S'està sincronitzant el projecte en equip...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Teammates can then clone the repository and open it directly in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T103547Z" creationid="Marc Riera" creationdate="20251217T103547Z">
+        <seg>Els membres de l'equip ara poden clonar el repositori i obrir-lo directament a l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54970,6 +55026,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can organize the tm folder with subfolders and add or remove files at any time.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T103444Z" creationid="Marc Riera" creationdate="20251217T103444Z">
+        <seg>Podeu organitzar la carpeta «tm» amb subcarpetes i afegir o suprimir fitxers en qualsevol moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can press &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;2, 3, 4, or 5&lt;/k2&gt; &lt;/k0&gt; to select a specific match, or cycle through the available matches with &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;↑ or ↓&lt;/k5&gt;&lt;/k3&gt; (&lt;k6&gt;&lt;k7&gt;A&lt;/k7&gt;&lt;k8&gt;↑ or ↓&lt;/k8&gt;&lt;/k6&gt; on macOS).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20240807T215630Z" creationid="Marc Riera" creationdate="20240807T215630Z">
@@ -54998,6 +55062,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20250220T171509Z" creationid="Marc Riera" creationdate="20250220T171509Z">
         <seg>Podeu posar un diccionari en aquesta carpeta per a utilitzar un diccionari ortogràfic personalitzat, o si no hi ha cap mòdul de llengua de l'OmegaT per a la llengua de destinació del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can reassign their locations in &lt;s0&gt;Project&lt;/s0&gt; &lt;s1&gt;Properties&lt;/s1&gt;, or access them via &lt;s2&gt;Project&lt;/s2&gt; &lt;s3&gt;Access Project Contents&lt;/s3&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T102637Z" creationid="Marc Riera" creationdate="20251217T102637Z">
+        <seg>Podeu reassignar-ne les ubicacions a &lt;s0&gt;Projecte&lt;/s0&gt; &lt;s1&gt;Propietats&lt;/s1&gt; o accedir-hi des de &lt;s2&gt;Projecte&lt;/s2&gt; &lt;s3&gt;Obre els continguts del projecte&lt;/s3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60690,6 +60762,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225451Z" creationid="Marc Riera" creationdate="20201003T225451Z">
         <seg>tm/auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm/auto folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T102645Z" creationid="Marc Riera" creationdate="20251217T102645Z">
+        <seg>Carpeta «tm/auto»</seg>
       </tuv>
     </tu>
     <tu>
