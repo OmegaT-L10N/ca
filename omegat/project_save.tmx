@@ -10280,6 +10280,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, it is the project folder, but you can change it to a shared location for easy delivery.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T100823Z" creationid="Marc Riera" creationdate="20251217T100823Z">
+        <seg>Per defecte, es desen en la carpeta del projecte, però podeu canviar-ho a una ubicació compartida perquè siguin fàcils de lliurar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, only the current segment is displayed in bold face.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T113539Z" creationid="Marc Riera" creationdate="20230104T113539Z">
@@ -15196,6 +15204,14 @@ Versió nova: {2}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201121T113911Z" creationid="Alexandra" creationdate="20150526T124013Z">
         <seg>Selector de baixades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download StarDict or Lingvo DSL dictionaries and extract them into the project's dictionary folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T100715Z" creationid="Marc Riera" creationdate="20251217T100715Z">
+        <seg>Baixeu diccionaris StarDict o Lingvo DSL i extraieu-los en la carpeta de diccionaris del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22106,6 +22122,14 @@ extensions dels fitxers.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T140811Z" creationid="Marc Riera" creationdate="20251116T140811Z">
         <seg>Si primer baixeu el projecte remot mitjançant un fitxer &lt;f0&gt;omegat.project&lt;/f0&gt; proporcionat pel gestor del projecte, l'OmegaT utilitzarà les assignacions en aquest fitxer, si n'hi ha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you get lost while rearranging panes, use &lt;s0&gt;View&lt;/s0&gt; &lt;s1&gt;Restore OmegaT Window&lt;/s1&gt; to return to the default layout.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T100642Z" creationid="Marc Riera" creationdate="20251217T100623Z">
+        <seg>Si us perdeu mentre distribuïu les subfinestres, feu servir &lt;s0&gt;Visualització&lt;/s0&gt; &lt;s1&gt;Reinicialitza la finestra de l'OmegaT&lt;/s1&gt; per a recuperar la disposició per defecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31020,6 +31044,14 @@ la carpeta d'inici.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT writes them to &lt;c2&gt;glossary/glossary.txt&lt;/c2&gt;, which you can edit in a text editor.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T100921Z" creationid="Marc Riera" creationdate="20251217T100921Z">
+        <seg>L'OmegaT els escriu en el fitxer &lt;c2&gt;glossary/glossary.txt&lt;/c2&gt;, que podeu editar en un editor de text.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT {0} is now available.</seg>
@@ -33546,6 +33578,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T215032Z" creationid="Marc Riera" creationdate="20221208T215032Z">
         <seg>Premeu &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press &lt;s0&gt;F2&lt;/s0&gt; to unlock it and move between source, translation and other areas of the &lt;s1&gt;Editor&lt;/s1&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T100745Z" creationid="Marc Riera" creationdate="20251217T100745Z">
+        <seg>Premeu &lt;s0&gt;F2&lt;/s0&gt; per a desblocar-lo i desplaçar-vos pel text d'origen, la traducció i altres àrees de la subfinestra &lt;s1&gt;Editor&lt;/s1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46462,6 +46502,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There should be three files per dictionary, with extensions &lt;c0&gt;dz&lt;/c0&gt;, &lt;c1&gt;idx&lt;/c1&gt; and &lt;c2&gt;ifo&lt;/c2&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T100954Z" creationid="Marc Riera" creationdate="20251217T100954Z">
+        <seg>Hi hauria d'haver tres fitxers per diccionari, amb les extensions &lt;c0&gt;dz&lt;/c0&gt;, &lt;c1&gt;idx&lt;/c1&gt; i &lt;c2&gt;ifo&lt;/c2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There should be three files per dictionary, with extensions &lt;f0&gt;dz&lt;/f0&gt;, &lt;f1&gt;idx&lt;/f1&gt; and &lt;f2&gt;ifo&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230204T150843Z" creationid="Marc Riera" creationdate="20230204T150843Z">
@@ -51606,6 +51654,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T155833Z" creationid="Marc Riera" creationdate="20230206T155833Z">
         <seg>Utilitzeu &lt;l1&gt;$&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, on &lt;o3&gt;n&lt;/o3&gt; és el número del grup definit en la cerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;s0&gt;Edit&lt;/s0&gt; &lt;s1&gt;Create Glossary Entry... (Ctrl+Shift+G)&lt;/s1&gt; to add terms.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T100853Z" creationid="Marc Riera" creationdate="20251217T100853Z">
+        <seg>Utilitzeu &lt;s0&gt;Edita&lt;/s0&gt; &lt;s1&gt;Crea una entrada en el glossari... (Ctrl+Maj+G)&lt;/s1&gt; per a afegir termes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56977,6 +57033,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191113T175718Z" creationid="Marc Riera" creationdate="20191113T175718Z">
         <seg>fet (ha tardat {0} ms)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>download the file - it should be a tarball archive (extension &lt;c0&gt;tar.bz&lt;/c0&gt; or &lt;c1&gt;tar.bz2&lt;/c1&gt;),</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20251217T100939Z" creationid="Marc Riera" creationdate="20251217T100939Z">
+        <seg>Baixeu el fitxer; hauria de ser un arxiu tarball (extensió &lt;c0&gt;tar.bz&lt;/c0&gt; o &lt;c1&gt;tar.bz2&lt;/c1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
