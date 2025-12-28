@@ -57,7 +57,7 @@ jobs:
     name: Report statistics summary
     steps:
       - name: download stats
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: stats
           path: omegat
