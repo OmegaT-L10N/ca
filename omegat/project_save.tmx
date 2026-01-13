@@ -17758,12 +17758,28 @@ Alguns atributs tenen valors no vàlids.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Failed to parse YAML: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260113T083928Z" creationid="Marc Riera" creationdate="20260113T083928Z">
+        <seg>No s'ha pogut processar el fitxer YAML: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Failed to update project properties</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T210104Z" creationid="mgalo" creationdate="20181108T153955Z">
         <seg>No s'han pogut actualitzar les propietats del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to write YAML: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260113T083933Z" creationid="Marc Riera" creationdate="20260113T083933Z">
+        <seg>No s'ha pogut escriure el fitxer YAML: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -54607,6 +54623,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T232918Z" creationid="Marc Riera" creationdate="20191110T232918Z">
         <seg>Full de càlcul XML 2003</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YAML</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260113T083919Z" creationid="Marc Riera" creationdate="20260113T083919Z">
+        <seg>YAML</seg>
       </tuv>
     </tu>
     <tu>
