@@ -5565,7 +5565,6 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;TMX Level 2&lt;/o1&gt;</seg>
       </tuv>
@@ -15521,7 +15520,6 @@ Versió nova: {2}</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>During synchronization, all other local files are overwritten with the versions on the remote server, except for &lt;f0&gt;omegat.project&lt;/f0&gt; (see below).</seg>
       </tuv>
@@ -18745,7 +18743,6 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>For projects on a hosting service</seg>
       </tuv>
@@ -18754,7 +18751,6 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>For projects on a self-hosted server</seg>
       </tuv>
@@ -21194,7 +21190,6 @@ no cal introduir el camí complet.)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>If a project won’t open</seg>
       </tuv>
@@ -21247,7 +21242,6 @@ s'utilitzarà aquesta ubicació i tots els paràmetres es reinicialitzaran.</seg
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>If any shared team project files have become unnecessary, the project manager &lt;e0&gt;must&lt;/e0&gt; delete them from the VCS repository.</seg>
       </tuv>
@@ -22650,7 +22644,6 @@ extensions dels fitxers.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>If you use multiple projects on the same server, you will only be asked for your credentials once for that server.</seg>
       </tuv>
@@ -26227,7 +26220,6 @@ en la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Linux package, with 32-bit JRE</seg>
       </tuv>
@@ -30282,7 +30274,6 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>OmegaT creates backups of your project settings to ensure it can retrieve them in case of a problem.</seg>
       </tuv>
@@ -35298,7 +35289,6 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Remember that any modifications to local project configuration files will be overwritten by the versions on the server when the project is synchronized.</seg>
       </tuv>
@@ -44309,6 +44299,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The default names are as follows.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260126T164612Z" creationid="Marc Riera" creationdate="20260126T164612Z">
+        <seg>Els noms per defecte són els següents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The default pattern.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T084120Z" creationid="Marc Riera" creationdate="20221214T084120Z">
@@ -47868,6 +47866,14 @@ en sou víctima d'una.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This enables the project manager to consult the statistics, and possibly automate their processing, without the need to open OmegaT.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260126T164555Z" creationid="Marc Riera" creationdate="20260126T164555Z">
+        <seg>Això permet al gestor del projecte consultar les estadístiques i, possiblement, automatitzar-ne el processament, sense la necessitat d'obrir l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This ensures that the users' interests are protected, and has also resulted in OmegaT being awarded the &lt;a2&gt;Softpedia "100% FREE" guarantee&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T201741Z" creationid="Marc Riera" creationdate="20230101T201741Z">
@@ -48710,7 +48716,6 @@ en sou víctima d'una.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>This option is useful with some Chinese, Japanese, or Korean character input systems.</seg>
       </tuv>
@@ -51261,6 +51266,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20250921T101848Z" creationid="Marc Riera" creationdate="20250921T101848Z">
         <seg>Desconegut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unless special mappings or &lt;l0/&gt; have been set up, all source files are shared by all team members, and any changes made to the local source files are overwritten the next time the project is synchronized, unless they are committed to the server using the &lt;l1/&gt;&lt;l2/&gt; command.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260126T164606Z" creationid="Marc Riera" creationdate="20260126T164606Z">
+        <seg>Tret que s'hagin configurat assignacions especials o &lt;l0/&gt;, tots els fitxers d'origen es comparteixen amb tots els membres de l'equip i qualsevol canvi als fitxers d'origen se sobreescriu cada vegada que se sincronitza el projecte, excepte si es publica al servidor mitjançant l'ordre &lt;l1/&gt;&lt;l2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54250,7 +54263,6 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Windows installer packaged with 64-bit JRE</seg>
       </tuv>
@@ -55971,7 +55983,6 @@ un comportament inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>You must use your VCS client, or the command line, to add and publish any dictionaries, glossaries, translation memories or other files you want to include in the project.</seg>
       </tuv>
@@ -61071,6 +61082,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201003T225438Z" creationid="Marc Riera" creationdate="20201003T225438Z">
         <seg>target</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target is the location where target files are created</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260126T164623Z" creationid="Marc Riera" creationdate="20260126T164623Z">
+        <seg>«target» és la ubicació on es creen els fitxers de destinació</seg>
       </tuv>
     </tu>
     <tu>
