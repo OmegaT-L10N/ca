@@ -16492,6 +16492,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Error preparation of sax parsing</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260317T110242Z" creationid="Marc Riera" creationdate="20260317T110242Z">
+        <seg>S'ha produït un error en preparar l'anàlisi SAX</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error reading TMX level2 at line {0} column {1}</seg>
