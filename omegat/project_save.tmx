@@ -3330,6 +3330,15 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Caution:&lt;/e0&gt; Although the last two codes above are not matched completely, the expression will return the “ &lt;e1&gt;1472/698&lt;/e1&gt;” portion of “1472/6985”, as well as the “ &lt;e2&gt;5133/157&lt;/e2&gt;” of “95133/15746”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114538Z" creationid="Marc Riera" creationdate="20260322T114538Z">
+        <seg>&lt;e0&gt;Atenció:&lt;/e0&gt; Encara que els dos darrers codis anteriors no coincideixin completament, l'expressió retornarà la porció «&lt;e1&gt;1472/698&lt;/e1&gt;» de «1472/6985» i la porció «&lt;e2&gt;5133/157&lt;/e2&gt;» de «95133/15746».</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&lt;e0&gt;Caution:&lt;/e0&gt; Although the last two codes above are not matched completely, the expression will return the “&lt;e1&gt;1472/698&lt;/e1&gt;” portion of “1472/6985”, as well as the “&lt;e2&gt;5133/157&lt;/e2&gt;” of “95133/15746”.</seg>
       </tuv>
@@ -4605,6 +4614,15 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;\H &lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a horizontal white space, and &lt;l2&gt;\V&lt;/l2&gt; any character that is &lt;e3&gt;not&lt;/e3&gt; a vertical white space ( &lt;l4&gt;[^\h]&lt;/l4&gt; and &lt;l5&gt;[^\v]&lt;/l5&gt;, respectively).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114613Z" creationid="Marc Riera" creationdate="20260322T114613Z">
+        <seg>&lt;l0&gt;\H&lt;/l0&gt; és qualsevol caràcter que &lt;e1&gt;no&lt;/e1&gt; sigui un espai en blanc horitzontal i &lt;l2&gt;\V&lt;/l2&gt; representa qualsevol caràcter que &lt;e3&gt;no&lt;/e3&gt; sigui un espai en blanc vertical (&lt;l4&gt;[^\h]&lt;/l4&gt; i &lt;l5&gt;[^\v]&lt;/l5&gt;, respectivament).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt;\H &lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a horizontal white space, and &lt;l2&gt;\V&lt;/l2&gt; any character that is &lt;e3&gt;not&lt;/e3&gt; a vertical white space (&lt;l4&gt;[^\h]&lt;/l4&gt; and &lt;l5&gt;[^\v]&lt;/l5&gt;, respectively).</seg>
       </tuv>
@@ -4621,11 +4639,29 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;\S&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a whitespace character ( &lt;l2&gt;[^\s]&lt;/l2&gt;).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114607Z" creationid="Marc Riera" creationdate="20260322T114607Z">
+        <seg>&lt;l0&gt;\S&lt;/l0&gt; és qualsevol caràcter que &lt;e1&gt;no&lt;/e1&gt; sigui un caràcter d'espai en blanc (&lt;l2&gt;[^\s]&lt;/l2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt;\S&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a whitespace character (&lt;l2&gt;[^\s]&lt;/l2&gt;).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230207T094725Z" creationid="Marc Riera" creationdate="20230207T094725Z">
         <seg>&lt;l0&gt;\S&lt;/l0&gt; és qualsevol caràcter que &lt;e1&gt;no&lt;/e1&gt; sigui un caràcter d'espai en blanc (&lt;l2&gt;[^\s]&lt;/l2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;\W&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a word character ( &lt;l2&gt;[^\w]&lt;/l2&gt;).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114605Z" creationid="Marc Riera" creationdate="20260322T114605Z">
+        <seg>&lt;l0&gt;\W&lt;/l0&gt; és qualsevol caràcter que &lt;e1&gt;no&lt;/e1&gt; sigui un caràcter de paraula (&lt;l2&gt;[^\w]&lt;/l2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6068,6 +6104,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;project_files_show_on_load&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114246Z" creationid="Marc Riera" creationdate="20260322T114246Z">
+        <seg>&lt;project_files_show_on_load&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;project_files_show_on_load&gt;&lt;t0&gt;false&lt;/t0&gt;&lt;/project_files_show_on_load&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T081918Z" creationid="Marc Riera" creationdate="20221201T081918Z">
@@ -6340,6 +6384,14 @@ Dossier racine
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;false&lt;/t0&gt;&lt;/project_files_show_on_load&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114251Z" creationid="Marc Riera" creationdate="20260322T114251Z">
+        <seg>&lt;t0&gt;false&lt;/t0&gt;&lt;/project_files_show_on_load&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
@@ -6430,6 +6482,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A character in the Greek block ( &lt;l0&gt;Unicode block&lt;/l0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114635Z" creationid="Marc Riera" creationdate="20260322T114635Z">
+        <seg>Caràcter en el bloc Greek (&lt;l0&gt;bloc d'Unicode&lt;/l0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A character in the Greek block (&lt;u0&gt;Unicode block&lt;/u0&gt;)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230207T095120Z" creationid="Marc Riera" creationdate="20230207T095044Z">
@@ -6483,6 +6543,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201127T190322Z" creationid="Alexandra" creationdate="20150526T134239Z">
         <seg>Complet conjunt d'utilitats per a la preparació de fitxers per a la traducció amb eines de TAO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A currency symbol, which is also a &lt;l0&gt;Unicode category&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114658Z" creationid="Marc Riera" creationdate="20260322T114658Z">
+        <seg>Símbol de moneda, que també és una &lt;l0&gt;categoria d'Unicode&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6596,6 +6664,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T151848Z" creationid="Marc Riera" creationdate="20230130T151848Z">
         <seg>A continuació es presenta una llista dels paràmetres d'assignació i també es proporcionen exemples d'ús en la secció següent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A logogram ( &lt;e0&gt;Han&lt;/e0&gt;/ &lt;e1&gt;kanji&lt;/e1&gt;/ &lt;e2&gt;hanja&lt;/e2&gt; character) found in CJK languages ( &lt;l3&gt;Unicode script&lt;/l3&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114646Z" creationid="Marc Riera" creationdate="20260322T114646Z">
+        <seg>Logograma (caràcter &lt;e0&gt;Han&lt;/e0&gt;/&lt;e1&gt;kanji&lt;/e1&gt;/&lt;e2&gt;hanja&lt;/e2&gt;) de les llengües CJK (&lt;l3&gt;sistema d'escriptura d'Unicode&lt;/l3&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7982,6 +8058,15 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>All the arguments should be quoted, e.g.  &lt;l0&gt;"${fileName}"&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114437Z" creationid="Marc Riera" creationdate="20260322T114437Z">
+        <seg>Tots els arguments s'han d'indicar entre cometes; per exemple, &lt;l0&gt;"${fileName}"&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>All the arguments should be quoted, e.g. &lt;l0&gt;"${fileName}"&lt;/l0&gt;.</seg>
       </tuv>
@@ -8763,6 +8848,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An uppercase letter ( &lt;l0&gt;Unicode category&lt;/l0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114652Z" creationid="Marc Riera" creationdate="20260322T114652Z">
+        <seg>Lletra en majúscula (&lt;l0&gt;categoria d'Unicode&lt;/l0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An uppercase letter (&lt;u0&gt;Unicode category&lt;/u0&gt;)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230207T095320Z" creationid="Marc Riera" creationdate="20230207T095320Z">
@@ -8833,6 +8926,15 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T091325Z" creationid="Marc Riera" creationdate="20221231T091325Z">
         <seg>Qualsevol caràcter que &lt;e0&gt;no&lt;/e0&gt; sigui «a», «b» ni «c».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Any combinations of three letters starting with “c” and ending with “t”: “ &lt;e0&gt;cat&lt;/e0&gt;”, “ &lt;e1&gt;cut&lt;/e1&gt;”, “ &lt;e2&gt;cot&lt;/e2&gt;”, or even nonsensical combinations such as “ &lt;e3&gt;czt&lt;/e3&gt;” or “ &lt;e4&gt;cqt&lt;/e4&gt;”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114454Z" creationid="Marc Riera" creationdate="20260322T114454Z">
+        <seg>Qualsevol combinació de tres lletres que comenci per «s» i acabi amb «l»: «&lt;e0&gt;sol&lt;/e0&gt;», «&lt;e1&gt;sal&lt;/e1&gt;» o fins i tot combinacions sense sentit com «&lt;e2&gt;sul&lt;/e2&gt;», «&lt;e3&gt;szl&lt;/e3&gt;» o «&lt;e4&gt;srl&lt;/e4&gt;».</seg>
       </tuv>
     </tu>
     <tu>
@@ -9872,6 +9974,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T170607Z" creationid="Alexandra" creationdate="20150526T132305Z">
         <seg>A continuació trobareu una llista dels àmbits en què els voluntaris serien més que benvinguts!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bidi control characters are available from &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114234Z" creationid="Marc Riera" creationdate="20260322T114234Z">
+        <seg>Els caràcters de control bidireccional estan disponibles en el menú &lt;l0/&gt; &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14367,6 +14477,15 @@ Versió nova: {2}</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Digits and letters of the alphabet preceded by a backslash ( &lt;l0&gt;\&lt;/l0&gt;) take on a special meaning</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114447Z" creationid="Marc Riera" creationdate="20260322T114447Z">
+        <seg>Els dígits i les lletres de l'alfabet precedits per una barra inclinada inversa (&lt;l0&gt;\&lt;/l0&gt;) prenen un significat especial</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Digits and letters of the alphabet preceded by a backslash (&lt;l0&gt;\&lt;/l0&gt;) take on a special meaning</seg>
       </tuv>
@@ -18627,6 +18746,15 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>For example, the seven letters spelling out the word “ &lt;e0&gt;example&lt;/e0&gt;” simply tell the search function to match exactly those letters, in that order.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114443Z" creationid="Marc Riera" creationdate="20260322T114443Z">
+        <seg>Per exemple, les set lletres que formen la paraula «&lt;e0&gt;exemple&lt;/e0&gt;» senzillament indiquen a la funció de cerca que coincideixi exactament amb aquestes lletres, en aquest ordre.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>For example, the seven letters spelling out the word “&lt;e0&gt;example&lt;/e0&gt;” simply tell the search function to match exactly those letters, in that order.</seg>
       </tuv>
@@ -18657,6 +18785,15 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T150123Z" creationid="Marc Riera" creationdate="20230105T150123Z">
         <seg>Per exemple, utilitzeu &lt;u0&gt;\d+&lt;/u0&gt; per a tractar tots els dígits com a etiquetes, la qual cosa us permet comprovar que no s'han modificat els nombres per accident en la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>For example, use the pattern &lt;l0&gt;read*&lt;/l0&gt; if you want to have the text filter handle readme files ( &lt;l1&gt;readme, read.me&lt;/l1&gt;, or &lt;l2&gt;readme.txt&lt;/l2&gt;).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114313Z" creationid="Marc Riera" creationdate="20260322T114313Z">
+        <seg>Per exemple, utilitzeu el patró &lt;l0&gt;read*&lt;/l0&gt; si voleu que el filtre de text tracti fitxers Llegeix-me (&lt;l1&gt;readme, read.me&lt;/l1&gt; o &lt;l2&gt;readme.txt&lt;/l2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21845,6 +21982,14 @@ s'utilitzarà aquesta ubicació i tots els paràmetres es reinicialitzaran.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the use of multiple periods makes identifying the file name and extension ambiguous, you can use variables of the form &lt;l0&gt;${nameOnly-&lt;/l0&gt; &lt;e1&gt;number&lt;/e1&gt;} or &lt;l2&gt;${extension-&lt;/l2&gt; &lt;e3&gt;number} &lt;/e3&gt; to specify which portions are part of the name or extension, as shown in the example below.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114405Z" creationid="Marc Riera" creationdate="20260322T114405Z">
+        <seg>Si l'ús de diversos punts fa que la identificació del nom del fitxer i de l'extensió sigui ambigua, podeu utilitzar variables com ara &lt;l0&gt;${nameOnly-&lt;/l0&gt; &lt;e1&gt;número&lt;/e1&gt;} o &lt;l2&gt;${extension-&lt;/l2&gt; &lt;e3&gt;número} &lt;/e3&gt; per a especificar quins fragments formen part del nom o de l'extensió, com es mostra en l'exemple següent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the use of multiple periods makes identifying the file name and extension ambiguous, you can use variables of the form &lt;l0&gt;${nameOnly-&lt;/l0&gt;&lt;e1&gt;number&lt;/e1&gt;} or &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;number} &lt;/e3&gt; to specify which portions are part of the name or extension, as shown in the example below.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T104933Z" creationid="Marc Riera" creationdate="20230130T104933Z">
@@ -24002,6 +24147,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T175246Z" creationid="Marc Riera" creationdate="20230130T175246Z">
         <seg>Insereix el caràcter de format direccional d'Unicode seleccionat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inside a class, only the backslash ( &lt;l0&gt;\&lt;/l0&gt;), caret ( &lt;l1&gt;^&lt;/l1&gt;), closing bracket ( &lt;l2&gt;]&lt;/l2&gt;) and hyphen ( &lt;l3&gt;-&lt;/l3&gt;) are special.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114559Z" creationid="Marc Riera" creationdate="20260322T114559Z">
+        <seg>Dins d'una classe, només són especials la barra inclinada inversa (&lt;l0&gt;\&lt;/l0&gt;), el circumflex (&lt;l1&gt;^&lt;/l1&gt;), el claudàtor de tancament (&lt;l2&gt;]&lt;/l2&gt;) i el guionet (&lt;l3&gt;-&lt;/l3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37931,6 +38084,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See also &lt;l0&gt;Unicode Regular Expressions&lt;/l0&gt; for a thorough review of Unicode regular expressions.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114622Z" creationid="Marc Riera" creationdate="20260322T114622Z">
+        <seg>Consulteu també &lt;l0&gt;Unicode Regular Expressions&lt;/l0&gt; per a veure una explicació exhaustiva d'expressions regulars amb Unicode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See also &lt;u0&gt;Unicode Regular Expressions&lt;/u0&gt; for a thorough review of Unicode regular expressions.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230207T095024Z" creationid="Marc Riera" creationdate="20230207T095024Z">
@@ -38176,6 +38337,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110022Z" creationid="Marc Riera" creationdate="20230104T110017Z">
         <seg>Consulteu el menú &lt;l0/&gt;&lt;l1/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0&gt;Oracle documentation&lt;/l0&gt; for examples.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114321Z" creationid="Marc Riera" creationdate="20260322T114321Z">
+        <seg>Consulteu la &lt;l0&gt;Documentació d'Oracle&lt;/l0&gt; per a veure exemples.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39927,6 +40096,15 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T113602Z" creationid="Marc Riera" creationdate="20230104T113602Z">
         <seg>Simplifica els indicadors de funció de les etiquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Simply put, the search just looks for the word “ &lt;e1&gt;example&lt;/e1&gt;”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114445Z" creationid="Marc Riera" creationdate="20260322T114445Z">
+        <seg>En resum, la cerca només cerca la paraula «&lt;e1&gt;exemple&lt;/e1&gt;».</seg>
       </tuv>
     </tu>
     <tu>
@@ -44171,6 +44349,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The content of the group can also be used in the &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114532Z" creationid="Marc Riera" creationdate="20260322T114532Z">
+        <seg>El contingut del grup també es pot utilitzar en el &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The content of the group can also be used in the &lt;l0&gt;replacement text&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T155820Z" creationid="Marc Riera" creationdate="20230206T155820Z">
@@ -46820,6 +47006,15 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The word “run”, as well as “runs”, “runner”, “runway”, “runt” in “grunt” or “brunt”, and any other word or sequence of characters containing “run” followed by zero or more “ &lt;e0&gt;word characters&lt;/e0&gt;” (which include digits and the underscore, so the part before the “@” in an email address such as run_123@example.email.org is also a match).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114511Z" creationid="Marc Riera" creationdate="20260322T114511Z">
+        <seg>La paraula «cant», així com «cant», «cantant», «cantaire», la part «cant» de les paraules «vacant» i «Alacant» i qualsevol altra paraula o seqüència de caràcters que contingui «cant» seguit de zero o més «&lt;e0&gt;caràcters de paraula&lt;/e0&gt;». Aquests caràcters inclouen els dígits i el subratllat, de manera que la part anterior a «@» en una adreça electrònica com «cantaires_123@exemple.org» també coincideix.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The word “run”, as well as “runs”, “runner”, “runway”, “runt” in “grunt” or “brunt”, and any other word or sequence of characters containing “run” followed by zero or more “&lt;e0&gt;word characters&lt;/e0&gt;” (which include digits and the underscore, so the part before the “@” in an email address such as run_123@example.email.org is also a match).</seg>
       </tuv>
@@ -47369,6 +47564,15 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201124T193022Z" creationid="Marc Riera" creationdate="20201124T193022Z">
         <seg>Es poden trobar a les carpetes de les versions compilades corresponents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>They can be reused later in the search expression using &lt;l1&gt;\ &lt;o2&gt;n&lt;/o2&gt; &lt;/l1&gt;, where &lt;o3&gt;n&lt;/o3&gt; is the number of the group.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114514Z" creationid="Marc Riera" creationdate="20260322T114514Z">
+        <seg>Es poden reutilitzar més endavant en l'expressió de cerca utilitzant &lt;l1&gt;\&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, on &lt;o3&gt;n&lt;/o3&gt; és el número del grup.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48105,6 +48309,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230204T154051Z" creationid="Marc Riera" creationdate="20230204T154051Z">
         <seg>Aquest fitxer conserva un registre del darrer segment visitat, incloent-hi el número, el contingut del text d'origen, el nom del fitxer i la data, de manera que podeu tornar-hi quan torneu a carregar el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file stores the currently selected text when &lt;l0/&gt; &lt;l1/&gt; is used.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114259Z" creationid="Marc Riera" creationdate="20260322T114259Z">
+        <seg>Aquest fitxer emmagatzema el text seleccionat actualment quan s'utilitza &lt;l0/&gt; &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51748,10 +51960,50 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to access it directly.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114241Z" creationid="Marc Riera" creationdate="20260322T114241Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a accedir-hi directament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; &lt;l1/&gt; to check your tags before you generate your translated files.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T190521Z" creationid="Marc Riera" creationdate="20221230T190521Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a comprovar les etiquetes abans de generar els fitxers traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to directly access it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114412Z" creationid="Marc Riera" creationdate="20260322T114412Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a accedir-hi directament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to enter new terms in this glossary.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114408Z" creationid="Marc Riera" creationdate="20260322T114408Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a afegir termes nous a aquest glossari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to show a visual indication of their position.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114238Z" creationid="Marc Riera" creationdate="20260322T114238Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a mostrar una indicació visual de la posició.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to view the contents of the log file of current session.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114255Z" creationid="Marc Riera" creationdate="20260322T114255Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a visualitzar el contingut del fitxer de registre de la sessió actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55376,6 +55628,15 @@ d'allà.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>You can do so with the following expression: &lt;l0&gt;(?i)o&lt;/l0&gt; &lt;l1&gt;(?-i)mega&lt;/l1&gt; &lt;l2&gt;(?i)t&lt;/l2&gt;, which represents a case insensitive “o” followed by a case sensitive “mega”, followed by a case insensitive “t”.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114543Z" creationid="Marc Riera" creationdate="20260322T114543Z">
+        <seg>Podeu fer-ho amb l'expressió següent: &lt;l0&gt;(?i)o&lt;/l0&gt;&lt;l1&gt;(?-i)mega&lt;/l1&gt; &lt;l2&gt;(?i)t&lt;/l2&gt;, que representa una «o» sense distinció entre majúscules i minúscules, seguida de «mega» amb distinció i «t» sense distinció.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>You can do so with the following expression: &lt;l0&gt;(?i)o&lt;/l0&gt;&lt;l1&gt;(?-i)mega&lt;/l1&gt; &lt;l2&gt;(?i)t&lt;/l2&gt;, which represents a case insensitive “o” followed by a case sensitive “mega”, followed by a case insensitive “t”.</seg>
       </tuv>
@@ -56087,6 +56348,15 @@ un comportament inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190859Z" creationid="Marc Riera" creationdate="20251215T190859Z">
         <seg>Hauríeu de veure fitxers .dz, .idx i .ifo per a cada diccionari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>You should use a shebang, e.g.  &lt;l0&gt;#!</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114440Z" creationid="Marc Riera" creationdate="20260322T114440Z">
+        <seg>Heu d'utilitzar un shebang; per exemple, &lt;l0&gt;#!</seg>
       </tuv>
     </tu>
     <tu>
@@ -61837,6 +62107,14 @@ config-dir="camí/a/una/carpeta/de/configuració"</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230507T135056Z" creationid="Marc Riera" creationdate="20230507T135056Z">
         <seg>&lt;e0&gt;LL&lt;/e0&gt; és el codi de llengua intern de la llengua que voleu mostrar com a referència i &lt;e1&gt;CC&lt;/e1&gt; és un codi arbitrari de dues lletres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;p0&gt;&lt;charset&gt;&lt;/p0&gt; is typically one of the sets listed in the &lt;l1&gt;IANA Charset Registry&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114427Z" creationid="Marc Riera" creationdate="20260322T114427Z">
+        <seg>on &lt;p0&gt;&lt;joc de caràcters&gt;&lt;/p0&gt; és, normalment, un dels jocs de caràcters del &lt;l1&gt;Registre de jocs de caràcters de la IANA&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
