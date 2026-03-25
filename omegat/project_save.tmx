@@ -3424,6 +3424,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;In this manual:&lt;/e0&gt; &lt;k1&gt; &lt;k2&gt;C&lt;/k2&gt; &lt;k3&gt;E&lt;/k3&gt; &lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T112849Z" creationid="Marc Riera" creationdate="20260325T112849Z">
+        <seg>&lt;e0&gt;Aquest manual:&lt;/e0&gt; &lt;k1&gt; &lt;k2&gt;C&lt;/k2&gt; &lt;k3&gt;E&lt;/k3&gt; &lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;In this manual:&lt;/e0&gt; &lt;k1&gt; &lt;k2&gt;C&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;k4&gt;N&lt;/k4&gt; &lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260322T121252Z" creationid="Marc Riera" creationdate="20260322T121252Z">
@@ -8183,6 +8191,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After you have typed the translation of a segment, use &lt;l0/&gt; &lt;l1/&gt; to move to the next untranslated segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T112919Z" creationid="Marc Riera" creationdate="20260325T112919Z">
+        <seg>Després d'escriure la traducció d'un segment, utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a desplaçar-vos al segment sense traduir següent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After you have typed the translation of a segment, use &lt;l0/&gt;&lt;l1/&gt; to move to the next untranslated segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233647Z" creationid="Marc Riera" creationdate="20221226T233647Z">
@@ -8990,6 +9006,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T135050Z" creationid="Marc Riera" creationdate="20221206T135050Z">
         <seg>Un projecte de traducció de l'OmegaT està format per diversos recursos en carpetes independents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An OmegaT translation project consists of a number of resources stored in separate folders, of an &lt;l0&gt; &lt;f1&gt;omegat.project&lt;/f1&gt; &lt;/l0&gt; file that stores the location of all the resources and of a &lt;l2&gt; &lt;f3&gt;project_save.tmx&lt;/f3&gt; &lt;/l2&gt; translation memory file that stores all the translations made while working on that project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T112815Z" creationid="Marc Riera" creationdate="20260325T112815Z">
+        <seg>Un projecte de traducció de l'OmegaT consisteix en una sèrie de recursos emmagatzemats en carpetes independents, un fitxer &lt;l0&gt; &lt;f1&gt;omegat.project&lt;/f1&gt; &lt;/l0&gt; que emmagatzema la ubicació de tots els recursos i un fitxer de memòria de traducció &lt;l2&gt; &lt;f3&gt;project_save.tmx&lt;/f3&gt; &lt;/l2&gt; que emmagatzema totes les traduccions fetes durant la traducció del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20347,6 +20371,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go back to OmegaT and use &lt;l0/&gt; &lt;l1/&gt; to have OmegaT recognize the change.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T112915Z" creationid="Marc Riera" creationdate="20260325T112915Z">
+        <seg>Torneu a l'OmegaT i utilitzeu &lt;l0/&gt; &lt;l1/&gt; perquè l'OmegaT reconegui el canvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go back to OmegaT and use &lt;l0/&gt;&lt;l1/&gt; to have OmegaT recognize the change.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233516Z" creationid="Marc Riera" creationdate="20221226T233516Z">
@@ -20463,6 +20495,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215013Z" creationid="Marc Riera" creationdate="20221124T215013Z">
         <seg>Ves a l'origen del segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to the source file with &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T112912Z" creationid="Marc Riera" creationdate="20260325T112912Z">
+        <seg>Aneu al fitxer d'origen amb &lt;l0/&gt; &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23102,6 +23142,14 @@ extensions dels fitxers.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;l0&gt;OmegaT user groups.&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T112821Z" creationid="Marc Riera" creationdate="20260325T112821Z">
+        <seg>Si necessiteu ajuda amb qualsevol aspecte de l'OmegaT, no dubteu a unir-vos als &lt;l0&gt;grups d'usuaris de l'OmegaT&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u0&gt;OmegaT user groups.&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230126T185149Z" creationid="Marc Riera" creationdate="20230126T185149Z">
@@ -24788,6 +24836,14 @@ feu doble clic en la drecera.</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200123T160336Z" creationid="Marc Riera" creationdate="20180212T223038Z">
         <seg>Instal·lació de l'OmegaT (Windows)
 ==================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead of reaching for the mouse, you unlock the cursor with &lt;l0&gt; &lt;k1&gt;&lt;k2&gt;F2&lt;/k2&gt;&lt;/k1&gt; &lt;/l0&gt;, use the cursor keys and standard system shortcuts to navigate to the term and select it, and then press &lt;k3&gt; &lt;k4&gt;C&lt;/k4&gt; &lt;k5&gt;S&lt;/k5&gt; &lt;k6&gt;G&lt;/k6&gt; &lt;/k3&gt; to &lt;l7&gt;call up the glossary entry dialog&lt;/l7&gt; to enter the source term.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T113126Z" creationid="Marc Riera" creationdate="20260325T113126Z">
+        <seg>En comptes d'utilitzar el ratolí, desbloqueu el cursor amb &lt;l0&gt; &lt;k1&gt;&lt;k2&gt;F2&lt;/k2&gt;&lt;/k1&gt; &lt;/l0&gt;, utilitzeu les tecles de direcció i les dreceres del sistema estàndard per a navegar fins al terme i seleccionar-lo i premeu &lt;k3&gt; &lt;k4&gt;C&lt;/k4&gt; &lt;k5&gt;S&lt;/k5&gt; &lt;k6&gt;G&lt;/k6&gt; &lt;/k3&gt; per a &lt;l7&gt;obrir el quadre de diàleg d'entrada del glossari&lt;/l7&gt; i afegir terme d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32198,6 +32254,14 @@ la carpeta d'inici.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt; &lt;k1&gt;Control&lt;/k1&gt; &lt;k2&gt;E&lt;/k2&gt; &lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T112838Z" creationid="Marc Riera" creationdate="20260325T112838Z">
+        <seg>Windows i Linux: &lt;k0&gt; &lt;k1&gt;Control&lt;/k1&gt; &lt;k2&gt;E&lt;/k2&gt; &lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>On Windows and Linux: &lt;k0&gt; &lt;k1&gt;Control&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;N&lt;/k3&gt; &lt;/k0&gt;</seg>
@@ -32340,6 +32404,14 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230226T100618Z" creationid="Marc Riera" creationdate="20230226T100618Z">
         <seg>En el macOS, la tecla &lt;k0&gt;&lt;k1&gt;F3&lt;/k1&gt;&lt;/k0&gt; habilita el mode de &lt;e2&gt;sobreescriptura&lt;/e2&gt; de l'editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt; &lt;k1&gt;Command&lt;/k1&gt; &lt;k2&gt;E&lt;/k2&gt; &lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T112843Z" creationid="Marc Riera" creationdate="20260325T112843Z">
+        <seg>macOS: &lt;k0&gt; &lt;k1&gt;Ordre&lt;/k1&gt; &lt;k2&gt;E&lt;/k2&gt; &lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35650,6 +35722,14 @@ These words: 'Page not found'</seg>
         <seg>En comptes d'un bip
 o d'un missatge d'error maleducat,
 les paraules «No s'ha trobat la pàgina».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rather than tediously scroll down until you find the first segment to translate, you quickly press &lt;k0&gt; &lt;k1&gt;C&lt;/k1&gt; &lt;k2&gt;U&lt;/k2&gt; &lt;/k0&gt; to &lt;l3&gt;jump straight into the action&lt;/l3&gt; and start translating.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T113015Z" creationid="Marc Riera" creationdate="20260325T113015Z">
+        <seg>En lloc de desplaçar-vos tediosament fins que trobeu el primer segment per a traduir, ràpidament premeu &lt;k0&gt; &lt;k1&gt;C&lt;/k1&gt; &lt;k2&gt;U&lt;/k2&gt; &lt;/k0&gt; per a &lt;l3&gt;passar directament a l'acció&lt;/l3&gt; i començar a traduir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44013,6 +44093,14 @@ la carpeta actual en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221316Z" creationid="Marc Riera" creationdate="20221218T221316Z">
         <seg>El fitxer &lt;l0&gt;&lt;f1&gt;omegat.project&lt;/f1&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0&gt;Java Regex documentation&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T112831Z" creationid="Marc Riera" creationdate="20260325T112831Z">
+        <seg>La &lt;l0&gt;Documentació d'expressions regulars del Java&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52824,6 +52912,22 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; and the &lt;l2/&gt; preferences to manage glossary matches.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T113003Z" creationid="Marc Riera" creationdate="20260325T113003Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; i les preferències de &lt;l2/&gt; per a gestionar les coincidències del glossari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; if you don’t remember where your project is.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T112856Z" creationid="Marc Riera" creationdate="20260325T112856Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; si no recordeu on és el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; &lt;l1/&gt; or &lt;l2/&gt; &lt;l3/&gt; to create the target files and trigger the command.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260322T121113Z" creationid="Marc Riera" creationdate="20260322T121113Z">
@@ -52872,6 +52976,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to add terms to your glossary.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T113005Z" creationid="Marc Riera" creationdate="20260325T112937Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a afegir termes al glossari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; &lt;l1/&gt; to assign an alternative translation to segments that require a different translation.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260322T121109Z" creationid="Marc Riera" creationdate="20260322T121109Z">
@@ -52904,6 +53016,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to come back to this dialog after you have created the project,.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T112854Z" creationid="Marc Riera" creationdate="20260325T112854Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a tornar a aquest quadre de diàleg després de crear el projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; &lt;l1/&gt; to create the TMX files that correspond to the current contents.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085625Z" creationid="Marc Riera" creationdate="20260325T085625Z">
@@ -52924,6 +53044,22 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114408Z" creationid="Marc Riera" creationdate="20260322T114408Z">
         <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a afegir termes nous a aquest glossari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to enter the Notepad and add your remark.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T112921Z" creationid="Marc Riera" creationdate="20260325T112921Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a accedir a la subfinestra «Bloc de notes» i afegiu una anotació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to filter segments based on criteria that you set, and review only those.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T112958Z" creationid="Marc Riera" creationdate="20260325T112927Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a filtrar els segments segons uns criteris que hàgiu establert i reviseu només aquests segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52984,6 +53120,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to return to the Editor and resume your translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T112925Z" creationid="Marc Riera" creationdate="20260325T112925Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a tornar a la subfinestra «Editor» i repreneu la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; &lt;l1/&gt; to show a visual indication of their position.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114238Z" creationid="Marc Riera" creationdate="20260322T114238Z">
@@ -52996,6 +53140,22 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114255Z" creationid="Marc Riera" creationdate="20260322T114255Z">
         <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a visualitzar el contingut del fitxer de registre de la sessió actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt;, and select an empty folder or create a new one with the name of your project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T112851Z" creationid="Marc Riera" creationdate="20260325T112851Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt;, seleccioneu una carpeta buida o creeu-ne una de nova amb el nom del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T112824Z" creationid="Marc Riera" creationdate="20260325T112824Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53516,6 +53676,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T221235Z" creationid="Marc Riera" creationdate="20221218T221235Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l1/&gt; &lt;l2/&gt; to open the list of supported file formats.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T112858Z" creationid="Marc Riera" creationdate="20260325T112858Z">
+        <seg>Utilitzeu &lt;l1/&gt; &lt;l2/&gt; per a obrir la llista de formats de fitxer compatibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57429,6 +57597,14 @@ un comportament inesperat però correcte.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230226T103413Z" creationid="Marc Riera" creationdate="20230226T103413Z">
         <seg>Torneu a l'editor, torneu a blocar el cursor amb &lt;l7&gt;&lt;k8&gt;F2&lt;/k8&gt;&lt;/l7&gt; i repetiu el procés per a introduir el terme de destinació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You then switch back to the editor, lock the cursor again with &lt;l8&gt; &lt;k9&gt;&lt;k10&gt;F2&lt;/k10&gt;&lt;/k9&gt; &lt;/l8&gt; and repeat the process to enter the target term.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T113140Z" creationid="Marc Riera" creationdate="20260325T113140Z">
+        <seg>Torneu a l'editor, torneu a blocar el cursor amb &lt;l8&gt; &lt;k9&gt;&lt;k10&gt;F2&lt;/k10&gt;&lt;/k9&gt; &lt;/l8&gt; i repetiu el procés per a introduir el terme de destinació.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62890,6 +63066,22 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220612T103551Z" creationid="Marc Riera" creationdate="20220612T103551Z">
         <seg>upperCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use &lt;l0/&gt; &lt;l1/&gt; to access the &lt;l2&gt;configuration&lt;/l2&gt; folder and change the dictionary file names to &lt;e3&gt;fr&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T112910Z" creationid="Marc Riera" creationdate="20260325T112910Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a accedir a la carpeta de &lt;l2&gt;configuració&lt;/l2&gt; i canvieu els noms dels fitxers de diccionari a &lt;e3&gt;fr&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use &lt;l0/&gt; &lt;l1/&gt; to change the project target language to &lt;e2&gt;fr-fr&lt;/e2&gt;, or</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T112902Z" creationid="Marc Riera" creationdate="20260325T112902Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a canviar la llengua de destinació del projecte a &lt;e2&gt;fr-fr&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
