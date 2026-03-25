@@ -6218,6 +6218,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;o0&gt;--alignDir=&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085313Z" creationid="Marc Riera" creationdate="20260325T085313Z">
+        <seg>&lt;o0&gt;--alignDir=&lt;/o0&gt; &lt;u1&gt;&lt;camí del projecte&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;o0&gt;--alignDir=&lt;/o0&gt;&lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230509T140107Z" creationid="Marc Riera" creationdate="20230509T140107Z">
@@ -6228,8 +6236,8 @@ per a editar-lo com a projecte en equip.)</seg>
       <tuv lang="en">
         <seg>&lt;o0&gt;--config-dir=&lt;/o0&gt; &lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085036Z" creationid="Marc Riera" creationdate="20260325T085036Z">
-        <seg>&lt;o0&gt;--config-dir=&lt;/o0&gt; &lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085115Z" creationid="Marc Riera" creationdate="20260325T085036Z">
+        <seg>&lt;o0&gt;--config-dir=&lt;/o0&gt; &lt;u1&gt;&lt;camí&gt;&lt;/u1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6244,8 +6252,8 @@ per a editar-lo com a projecte en equip.)</seg>
       <tuv lang="en">
         <seg>&lt;o0&gt;--config-file=&lt;/o0&gt; &lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085053Z" creationid="Marc Riera" creationdate="20260325T085053Z">
-        <seg>&lt;o0&gt;--config-file=&lt;/o0&gt; &lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085126Z" creationid="Marc Riera" creationdate="20260325T085053Z">
+        <seg>&lt;o0&gt;--config-file=&lt;/o0&gt; &lt;u1&gt;&lt;camí&gt;&lt;/u1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6298,10 +6306,26 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;o0&gt;--output-file=&lt;/o0&gt; &lt;u1&gt;[stats-output-file]&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085232Z" creationid="Marc Riera" creationdate="20260325T085232Z">
+        <seg>&lt;o0&gt;--output-file=&lt;/o0&gt; &lt;u1&gt;[fitxer de sortida d'estadístiques]&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;o0&gt;--output-file=&lt;/o0&gt;&lt;u1&gt;[stats-output-file]&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230509T173754Z" creationid="Marc Riera" creationdate="20230509T173754Z">
         <seg>&lt;o0&gt;--output-file=&lt;/o0&gt;&lt;u1&gt;[fitxer de sortida d'estadístiques]&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--pseudotranslatetmx=&lt;/o0&gt; &lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085245Z" creationid="Marc Riera" creationdate="20260325T085245Z">
+        <seg>&lt;o0&gt;--pseudotranslatetmx=&lt;/o0&gt; &lt;u1&gt;&lt;camí&gt;&lt;/u1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6330,6 +6354,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;o0&gt;--resource-bundle=&lt;/o0&gt; &lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085141Z" creationid="Marc Riera" creationdate="20260325T085141Z">
+        <seg>&lt;o0&gt;--resource-bundle=&lt;/o0&gt; &lt;u1&gt;&lt;camí&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;o0&gt;--resource-bundle=&lt;/o0&gt;&lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230509T135914Z" creationid="Marc Riera" creationdate="20230509T135914Z">
@@ -6338,10 +6370,26 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;o0&gt;--script=&lt;/o0&gt; &lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085238Z" creationid="Marc Riera" creationdate="20260325T085222Z">
+        <seg>&lt;o0&gt;--script=&lt;/o0&gt; &lt;u1&gt;&lt;camí&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;o0&gt;--script=&lt;/o0&gt;&lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230509T173801Z" creationid="Marc Riera" creationdate="20230509T173801Z">
         <seg>&lt;o0&gt;--script=&lt;/o0&gt;&lt;u1&gt;&lt;camí&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--source-pattern=&lt;/o0&gt; &lt;u1&gt;&lt;pattern&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085151Z" creationid="Marc Riera" creationdate="20260325T085151Z">
+        <seg>&lt;o0&gt;--source-pattern=&lt;/o0&gt; &lt;u1&gt;&lt;patró&gt;&lt;/u1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8043,6 +8091,15 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>After the project manager confirms that a translator has been able to open the team project, it is a good idea to make sure that the project &lt;l0&gt;project statistics&lt;/l0&gt; are the same for both the project manager (on the server) and the translator (locally).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085413Z" creationid="Marc Riera" creationdate="20260325T085413Z">
+        <seg>Després que el gestor del projecte en equip confirmi que un traductor ha pogut obrir el projecte en equip, és bona idea assegurar-se que les &lt;l0&gt;estadístiques del projecte&lt;/l0&gt; siguin les mateixes tant per al gestor (en el servidor) com per al traductor (localment).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
@@ -8089,6 +8146,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251217T115548Z" creationid="Marc Riera" creationdate="20251217T115548Z">
         <seg>Després de generar els fitxers de destinació, utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a afegir-los al servidor, si el gestor del projecte us ho ha demanat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After you generate the target, files use the &lt;l0/&gt; &lt;l1/&gt; command to add them to the server if the project manager has requested you to do so.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085602Z" creationid="Marc Riera" creationdate="20260325T085602Z">
+        <seg>Després de generar els fitxers de destinació, utilitzeu l'ordre &lt;l0/&gt; &lt;l1/&gt; per a afegir-los al servidor, si el gestor del projecte us ho ha demanat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8884,6 +8949,15 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230226T100329Z" creationid="Marc Riera" creationdate="20230226T100329Z">
         <seg>Un projecte de l'OmegaT és senzillament un conjunt de carpetes que contenen tots els recursos per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>An OmegaT team project synchronizes the project translation memory ( &lt;l0/&gt;) and the project writable glossary ( &lt;l1/&gt;) between the VCS hosting server and all the participating team members.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085329Z" creationid="Marc Riera" creationdate="20260325T085329Z">
+        <seg>Un projecte en equip de l'OmegaT sincronitza la memòria de traducció del projecte (&lt;l0/&gt;) i el glossari modificable del projecte (&lt;l1/&gt;) entre el servidor d'allotjament del VCS i tots els membres participants de l'equip.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18606,6 +18680,15 @@ Alguns atributs tenen valors no vàlids.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Finally, publish your project to the remote server ( &lt;c0&gt;commit&lt;/c0&gt; &lt;c1&gt;push&lt;/c1&gt; in Git, and &lt;c2&gt;commit&lt;/c2&gt; in SVN).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085401Z" creationid="Marc Riera" creationdate="20260325T085401Z">
+        <seg>Finalment, publiqueu el projecte en el servidor remot (&lt;c0&gt;commit&lt;/c0&gt; i &lt;c1&gt;push&lt;/c1&gt; al Git; &lt;c2&gt;commit&lt;/c2&gt; a l'SVN).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Finally, publish your project to the remote server (&lt;c0&gt;commit&lt;/c0&gt; &lt;c1&gt;push&lt;/c1&gt; in Git, and &lt;c2&gt;commit&lt;/c2&gt; in SVN).</seg>
       </tuv>
@@ -22726,6 +22809,15 @@ extensions dels fitxers.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>If you created the project from the OmegaT GUI, you then have to explicitly add it to the version control system ( &lt;c0&gt;add&lt;/c0&gt; in both Git and SVN).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085355Z" creationid="Marc Riera" creationdate="20260325T085355Z">
+        <seg>Si heu creat el projecte des de la GUI de l'OmegaT, haureu d'afegir-lo explícitament al sistema de control de versions (&lt;c0&gt;add&lt;/c0&gt; tant al Git com a l'SVN).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If you created the project from the OmegaT GUI, you then have to explicitly add it to the version control system (&lt;c0&gt;add&lt;/c0&gt; in both Git and SVN).</seg>
       </tuv>
@@ -23746,6 +23838,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T214242Z" creationid="Marc Riera" creationdate="20230131T214242Z">
         <seg>En aquests casos, haureu de copiar o moure la carpeta de scripts a una ubicació on tingueu permisos d'escriptura, com ara la &lt;l0&gt;carpeta de configuració&lt;/l0&gt;, si voleu escriure els vostres propis scripts, afegir-ne de nous, o modificar-ne d'existents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In team projects that use a simple mapping between the local repository and the remote repository (the default), &lt;e0&gt;and only in such projects&lt;/e0&gt;, the source and target files can be modified locally and uploaded to the server directly from OmegaT using the &lt;l1/&gt; &lt;l2/&gt; and &lt;l3/&gt; &lt;l4/&gt; commands.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085349Z" creationid="Marc Riera" creationdate="20260325T085349Z">
+        <seg>En els projectes en equip que utilitzen una assignació senzilla entre el repositori local i el repositori remot (el comportament per defecte), &lt;e0&gt;i només en aquests projectes&lt;/e0&gt;, els fitxers d'origen i destinació es poden modificar localment i pujar al servidor directament des de l'OmegaT utilitzant les ordres &lt;l1/&gt; &lt;l2/&gt; i &lt;l3/&gt; &lt;l4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27589,6 +27689,15 @@ en la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Managing a team project calls for some knowledge of either the &lt;e0&gt;Git&lt;/e0&gt; or &lt;e1&gt;SVN&lt;/e1&gt; version control system ( &lt;e2&gt;VCS&lt;/e2&gt; in the rest of this section).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085324Z" creationid="Marc Riera" creationdate="20260325T085324Z">
+        <seg>La gestió d'un projecte en equip requereix un cert coneixement dels sistemes de control de versions &lt;e0&gt;Git&lt;/e0&gt; o &lt;e1&gt;SVN&lt;/e1&gt; (&lt;e2&gt;VCS&lt;/e2&gt; al llarg d'aquesta secció).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Managing a team project calls for some knowledge of either the &lt;e0&gt;Git&lt;/e0&gt; or &lt;e1&gt;SVN&lt;/e1&gt; version control system (&lt;e2&gt;VCS&lt;/e2&gt; in the rest of this section).</seg>
       </tuv>
@@ -28244,6 +28353,14 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223615Z" creationid="Marc Riera" creationdate="20180214T223615Z">
         <seg>S'ha arribat al nombre màxim de resultats de la cerca ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maxprograms also distributes &lt;l1&gt;XLIFF Manager&lt;/l1&gt;, a graphical user interface for the OpenXLIFF Filters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085514Z" creationid="Marc Riera" creationdate="20260325T085514Z">
+        <seg>Maxprograms també distribueix l'eina &lt;l1&gt;XLIFF Manager&lt;/l1&gt;, una interfície gràfica d'usuari per als filtres OpenXLIFF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33104,6 +33221,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OpenXLIFF from &lt;l0&gt;Maxprograms&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085501Z" creationid="Marc Riera" creationdate="20260325T085501Z">
+        <seg>OpenXLIFF de &lt;l0&gt;Maxprograms&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OpenXLIFF from &lt;u0&gt;Maxprograms&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131342Z" creationid="Marc Riera" creationdate="20221211T131342Z">
@@ -35488,6 +35613,14 @@ Folder = &lt;t1&gt;Dossier&lt;/t1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T123213Z" creationid="Marc Riera" creationdate="20221225T123213Z">
         <seg>El Rainbow pot crear fitxers XLIFF 1.2 vàlids o projectes de l'OmegaT a partir de tots els fitxers establerts com a fitxers d'entrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rainbow, from the &lt;l0&gt;Okapi Framework&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085422Z" creationid="Marc Riera" creationdate="20260325T085422Z">
+        <seg>Rainbow, component de l'&lt;l0&gt;Okapi Framework&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38363,6 +38496,62 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0&gt;Converters&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085456Z" creationid="Marc Riera" creationdate="20260325T085456Z">
+        <seg>Consulteu &lt;l0&gt;Convertidors&lt;/l0&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;Filters Included&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085530Z" creationid="Marc Riera" creationdate="20260325T085530Z">
+        <seg>Consulteu &lt;l0&gt;Filters Included&lt;/l0&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;How to create a file filter plugin for OmegaT&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085546Z" creationid="Marc Riera" creationdate="20260325T085546Z">
+        <seg>Consulteu &lt;l0&gt;How to create a file filter plugin for OmegaT&lt;/l0&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;List of file filters&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085430Z" creationid="Marc Riera" creationdate="20260325T085430Z">
+        <seg>Consulteu &lt;l0&gt;List of file filters&lt;/l0&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;OpenXLIFF Filters&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085507Z" creationid="Marc Riera" creationdate="20260325T085507Z">
+        <seg>Consulteu &lt;l0&gt;OpenXLIFF Filters&lt;/l0&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;Plugins&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085540Z" creationid="Marc Riera" creationdate="20260325T085540Z">
+        <seg>Consulteu &lt;l0&gt;Connectors&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;Rainbow TKit - OmegaT Project&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085438Z" creationid="Marc Riera" creationdate="20260325T085438Z">
+        <seg>Consulteu &lt;l0&gt;Rainbow TKit - OmegaT Project&lt;/l0&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;The Eclipse Temurin™ project&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260325T084656Z" creationid="Marc Riera" creationdate="20260325T084656Z">
@@ -39964,6 +40153,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201122T002100Z" creationid="Marc Riera" creationdate="20201122T002100Z">
         <seg>Curs de formació en línia autodirigit (per a la compra)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Send a URL and ask the translators to use &lt;l0/&gt; &lt;l1/&gt; to create a local copy of the project on their own system.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085404Z" creationid="Marc Riera" creationdate="20260325T085404Z">
+        <seg>Enviar un URL i demanar als traductors que utilitzin &lt;l0/&gt; &lt;l1/&gt; per a crear una còpia local del projecte en el sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44186,6 +44383,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Okapi Filters Plugin for OmegaT, from the &lt;l0&gt;Okapi Framework&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085523Z" creationid="Marc Riera" creationdate="20260325T085523Z">
+        <seg>Connector de filtres de l'Okapi per a l'OmegaT, de l'&lt;l0&gt;Okapi Framework&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Okapi Filters Plugin for OmegaT, from the &lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T134853Z" creationid="Marc Riera" creationdate="20221211T134853Z">
@@ -44910,6 +45115,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The converters from the &lt;l0&gt;Translate Toolkit&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085445Z" creationid="Marc Riera" creationdate="20260325T085445Z">
+        <seg>Convertidors del &lt;l0&gt;Translate Toolkit&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The converters from the &lt;u0&gt;Translate Toolkit&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T104007Z" creationid="Marc Riera" creationdate="20221211T133153Z">
@@ -44981,6 +45194,14 @@ en el seu lloc.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T230111Z" creationid="Marc Riera" creationdate="20221230T230111Z">
         <seg>Les dades es desen en el fitxer &lt;l0/&gt; de la carpeta &lt;l1/&gt; del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The data is the same as when using &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085205Z" creationid="Marc Riera" creationdate="20260325T085205Z">
+        <seg>Les dades són les mateixes que quan s'utilitza &lt;l0/&gt; &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47884,6 +48105,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190924T154035Z" creationid="mgalo" creationdate="20181113T094003Z">
         <seg>S'ha produït un error en inicialitzar el LanguageTool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, any time one side creates or modifies such a TMX using &lt;l0/&gt; &lt;l1/&gt;, the other side does not need to do anything to have that TMX recognized locally.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085628Z" creationid="Marc Riera" creationdate="20260325T085628Z">
+        <seg>Per tant, cada vegada que un usuari creï o modifiqui un fitxer TMX mitjançant &lt;l0/&gt; &lt;l1/&gt;, l'altre usuari no haurà de fer res perquè el fitxer TMX es reconegui localment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52152,6 +52381,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unless special mappings or &lt;l0/&gt; have been set up, all source files are shared by all team members, and any changes made to the local source files are overwritten the next time the project is synchronized, unless they are committed to the server using the &lt;l1/&gt; &lt;l2/&gt; command.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085559Z" creationid="Marc Riera" creationdate="20260325T085559Z">
+        <seg>Tret que s'hagin configurat assignacions especials o &lt;l0/&gt;, tots els fitxers d'origen es comparteixen amb tots els membres de l'equip i qualsevol canvi als fitxers d'origen se sobreescriu cada vegada que se sincronitza el projecte, excepte si es publica al servidor mitjançant l'ordre &lt;l1/&gt; &lt;l2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unless special mappings or &lt;l0/&gt; have been set up, all source files are shared by all team members, and any changes made to the local source files are overwritten the next time the project is synchronized, unless they are committed to the server using the &lt;l1/&gt;&lt;l2/&gt; command.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260126T164606Z" creationid="Marc Riera" creationdate="20260126T164606Z">
@@ -52643,10 +52880,34 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to bring up the &lt;g2&gt;Download Team Project&lt;/g2&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085552Z" creationid="Marc Riera" creationdate="20260325T085552Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a mostrar el quadre de diàleg &lt;g2&gt;Baixada d'un projecte en equip&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to check for possible issues.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085622Z" creationid="Marc Riera" creationdate="20260325T085622Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a comprovar si hi ha errors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; &lt;l1/&gt; to check your tags before you generate your translated files.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T190521Z" creationid="Marc Riera" creationdate="20221230T190521Z">
         <seg>Utilitzeu &lt;l0/&gt;&lt;l1/&gt; per a comprovar les etiquetes abans de generar els fitxers traduïts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to create the TMX files that correspond to the current contents.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085625Z" creationid="Marc Riera" creationdate="20260325T085625Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a crear els fitxers TMX corresponents al contingut actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52663,6 +52924,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114408Z" creationid="Marc Riera" creationdate="20260322T114408Z">
         <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a afegir termes nous a aquest glossari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to find any untranslated segments (and translate them, if need be).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085618Z" creationid="Marc Riera" creationdate="20260325T085618Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a cercar qualsevol segment sense traduir (i traduir-lo, si cal).</seg>
       </tuv>
     </tu>
     <tu>
@@ -53735,6 +54004,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150516Z" creationid="Marc Riera" creationdate="20230131T150516Z">
         <seg>Utilitzeu el ratolí o les tecles de direcció per a col·locar el cursor en la ubicació on voleu dividir el text i feu clic en el botó &lt;g1&gt;D'acord&lt;/g1&gt; o premeu &lt;k2&gt;Retorn&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the navigation menus found in &lt;l0/&gt; &lt;l1/&gt; to navigate to an automatically inserted segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085613Z" creationid="Marc Riera" creationdate="20260325T085613Z">
+        <seg>Utilitzeu els menús de navegació de &lt;l0/&gt; &lt;l1/&gt; per a navegar a un segment inserit automàticament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55112,6 +55389,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you use &lt;l0/&gt; &lt;l1/&gt; to create the target documents for a project, OmegaT also outputs three translation memories that reflect the current state of the translation for the files in the source folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085607Z" creationid="Marc Riera" creationdate="20260325T085607Z">
+        <seg>Quan utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a crear els fitxers de destinació per a un projecte, l'OmegaT també genera tres memòries de traducció que reflecteixen l'estat actual de la traducció dels fitxers de la carpeta «source».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you use &lt;l0/&gt;&lt;l1/&gt; to create the target documents for a project, OmegaT also outputs three translation memories that reflect the current state of the translation for the files in the source folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T212416Z" creationid="Marc Riera" creationdate="20221225T212416Z">
@@ -56115,6 +56400,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T132657Z" creationid="Marc Riera" creationdate="20221211T132657Z">
         <seg>També podeu utilitzar la funció d'etiquetes personalitzades de l'OmegaT per a registrar cadenes específiques del format i fer que l'OmegaT les gestioni com si fossin etiquetes normals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also use the &lt;l0/&gt; &lt;l1/&gt; tool to create a TMX from two files in a format that OmegaT supports.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085610Z" creationid="Marc Riera" creationdate="20260325T085610Z">
+        <seg>També podeu utilitzar l'eina &lt;l0/&gt; &lt;l1/&gt; per a crear un fitxer TMX a partir de dos fitxers en un format compatible amb l'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58151,6 +58444,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221123T215222Z" creationid="Marc Riera" creationdate="20221123T215222Z">
         <seg>changes.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>config-dir="path/to/new/configdir"</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085257Z" creationid="Marc Riera" creationdate="20260325T085257Z">
+        <seg>config-dir="camí/a/una/carpeta/de/configuració"</seg>
       </tuv>
     </tu>
     <tu>
@@ -62649,6 +62950,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>user.language=fr</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085132Z" creationid="Marc Riera" creationdate="20260325T085132Z">
+        <seg>user.language=fr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>user.language=fr
 config-dir="path/to/new/configdir"</seg>
       </tuv>
@@ -63176,6 +63485,24 @@ config-dir="camí/a/una/carpeta/de/configuració"</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201121T225833Z" creationid="Marc Riera" creationdate="20201121T225833Z">
         <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>— ¶ —————————————————————
+
+&lt;t0&gt;A whitespace character: [ \t\n\x0B\f\r]
+ja-JP: 空白文字：[ \t\n\x0B\f\r]&lt;/t0&gt;
+Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;&lt;/t1&gt;
+— ¶ —————————————————————</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085653Z" creationid="Marc Riera" creationdate="20260325T085653Z">
+        <seg>— ¶ —————————————————————
+
+&lt;t0&gt;A whitespace character: [ \t\n\x0B\f\r]
+ja-JP: 空白文字：[ \t\n\x0B\f\r]&lt;/t0&gt;
+Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;&lt;/t1&gt;
+— ¶ —————————————————————</seg>
       </tuv>
     </tu>
     <tu>
