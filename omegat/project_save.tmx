@@ -87,6 +87,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg># Country</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T084830Z" creationid="Marc Riera" creationdate="20260325T084830Z">
+        <seg># País</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg># Language</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T084834Z" creationid="Marc Riera" creationdate="20260325T084834Z">
+        <seg># Llengua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg># Memory</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T084957Z" creationid="Marc Riera" creationdate="20260325T084957Z">
+        <seg># Memòria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg># OmegaT.exe runtime configuration
 	# To use a parameter, remove the '#' before the '-'
 	# Memory
@@ -2753,6 +2777,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Duser.country=CA</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T084827Z" creationid="Marc Riera" creationdate="20260325T084827Z">
+        <seg>-Duser.country=CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-Duser.country=CC</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202017Z" creationid="Marc Riera" creationdate="20221210T202017Z">
@@ -2761,10 +2793,26 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Duser.language=FR</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T084825Z" creationid="Marc Riera" creationdate="20260325T084825Z">
+        <seg>-Duser.language=FR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-Duser.language=LL</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T202007Z" creationid="Marc Riera" creationdate="20221210T202007Z">
         <seg>-Duser.language=LL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Xmx1024M</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T084823Z" creationid="Marc Riera" creationdate="20260325T084823Z">
+        <seg>-Xmx1024M</seg>
       </tuv>
     </tu>
     <tu>
@@ -6138,10 +6186,26 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;o0&gt;--ITokenizer=&lt;/o0&gt; &lt;u1&gt;&lt;classname&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085032Z" creationid="Marc Riera" creationdate="20260325T085032Z">
+        <seg>&lt;o0&gt;--ITokenizer=&lt;/o0&gt; &lt;u1&gt;&lt;classname&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;o0&gt;--ITokenizer=&lt;/o0&gt;&lt;u1&gt;&lt;classname&gt;&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230509T135010Z" creationid="Marc Riera" creationdate="20230509T135010Z">
         <seg>&lt;o0&gt;--ITokenizer=&lt;/o0&gt;&lt;u1&gt;&lt;nom de la classe&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--ITokenizerTarget=&lt;/o0&gt; &lt;u1&gt;&lt;classname&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085034Z" creationid="Marc Riera" creationdate="20260325T085034Z">
+        <seg>&lt;o0&gt;--ITokenizerTarget=&lt;/o0&gt; &lt;u1&gt;&lt;classname&gt;&lt;/u1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6162,10 +6226,26 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;o0&gt;--config-dir=&lt;/o0&gt; &lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085036Z" creationid="Marc Riera" creationdate="20260325T085036Z">
+        <seg>&lt;o0&gt;--config-dir=&lt;/o0&gt; &lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;o0&gt;--config-dir=&lt;/o0&gt;&lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230509T135030Z" creationid="Marc Riera" creationdate="20230509T135030Z">
         <seg>&lt;o0&gt;--config-dir=&lt;/o0&gt;&lt;u1&gt;&lt;camí&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--config-file=&lt;/o0&gt; &lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085053Z" creationid="Marc Riera" creationdate="20260325T085053Z">
+        <seg>&lt;o0&gt;--config-file=&lt;/o0&gt; &lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14484,6 +14564,14 @@ Versió nova: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Detailed instructions on building OmegaT can be found in the &lt;l0&gt;README.txt&lt;/l0&gt; file located in the &lt;f1&gt;docs_devel&lt;/f1&gt; subfolder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T084755Z" creationid="Marc Riera" creationdate="20260325T084755Z">
+        <seg>Podeu trobar instruccions detallades sobre la compilació de l'OmegaT en el fitxer &lt;l0&gt;README.txt&lt;/l0&gt; de la subcarpeta &lt;f1&gt;docs_devel&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Detailed instructions on building OmegaT can be found in the &lt;u0&gt;README.txt&lt;/u0&gt; file located in the &lt;f1&gt;docs_devel&lt;/f1&gt; subfolder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111852Z" creationid="Marc Riera" creationdate="20221209T111852Z">
@@ -17216,6 +17304,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230402T105846Z" creationid="Marc Riera" creationdate="20230402T105846Z">
         <seg>Cada vegada que creeu els fitxers traduïts, l'OmegaT desa el projecte (consulteu l'element del menú &lt;l0/&gt; anterior) i crea memòries de traducció de referència, que inclouen els segments traduïts del conjunt de fitxers d'origen actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every time you save the project data (use &lt;l0/&gt; &lt;l1/&gt;), or when making a regular backup, OmegaT saves the current state of the translation into &lt;f2&gt;project_save.tmx&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T084806Z" creationid="Marc Riera" creationdate="20260325T084806Z">
+        <seg>Cada vegada que deseu les dades del projecte (utilitzeu &lt;l0/&gt; &lt;l1/&gt;), o quan feu una còpia de seguretat periòdica, l'OmegaT desa l'estat actual de la traducció en el fitxer &lt;f2&gt;project_save.tmx&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21362,6 +21458,14 @@ l'hivern ja és aquí.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111450Z" creationid="Marc Riera" creationdate="20221209T111450Z">
         <seg>IBM proporciona JRE per a PowerPC amb Linux en la pàgina &lt;u0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IBM provides JREs for Linux PowerPC at &lt;u0&gt;https://developer.ibm.com/languages/java/semeru-runtimes/downloads/&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T084704Z" creationid="Marc Riera" creationdate="20260325T084704Z">
+        <seg>IBM proporciona JRE per a PowerPC amb Linux en la pàgina &lt;u0&gt;https://developer.ibm.com/languages/java/semeru-runtimes/downloads/&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32283,6 +32387,15 @@ la carpeta d'inici.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Once the code is downloaded, open a terminal in the source folder ( &lt;f0&gt;omegat-code/&lt;/f0&gt; if you cloned from Sourceforge, or &lt;f1&gt;/omegat&lt;/f1&gt; if you cloned from GitHub) and type:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T084746Z" creationid="Marc Riera" creationdate="20260325T084746Z">
+        <seg>Una vegada baixat el codi, obriu un terminal en la carpeta amb el codi font (&lt;f0&gt;omegat-code/&lt;/f0&gt; si l'heu clonat des de Sourceforge, o &lt;f1&gt;/omegat&lt;/f1&gt; si l'heu clonat des de GitHub) i escriviu l'ordre següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Once the code is downloaded, open a terminal in the source folder (&lt;f0&gt;omegat-code/&lt;/f0&gt; if you cloned from Sourceforge, or &lt;f1&gt;/omegat&lt;/f1&gt; if you cloned from GitHub) and type:</seg>
       </tuv>
@@ -36370,10 +36483,26 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace &lt;c0&gt;CC&lt;/c0&gt; with the desired two-letter country code from the &lt;l1&gt;ISO 3166-1 alpha-2&lt;/l1&gt; list.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085029Z" creationid="Marc Riera" creationdate="20260325T085029Z">
+        <seg>Substituïu &lt;c0&gt;CC&lt;/c0&gt; pel codi de país de dues lletres que vulgueu de la llista &lt;l1&gt;ISO 3166-1 alpha-2&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace &lt;c0&gt;CC&lt;/c0&gt; with the desired two-letter country code from the &lt;u1&gt;ISO 3166-1 alpha-2&lt;/u1&gt; list.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134428Z" creationid="Marc Riera" creationdate="20230130T134428Z">
         <seg>Substituïu &lt;c0&gt;CC&lt;/c0&gt; pel codi de país de dues lletres que vulgueu de la llista &lt;u1&gt;ISO 3166-1 alpha-2&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace &lt;c0&gt;LL&lt;/c0&gt; with the desired two-letter language code from the &lt;l1&gt;ISO 639.1&lt;/l1&gt; list.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085022Z" creationid="Marc Riera" creationdate="20260325T085022Z">
+        <seg>Substituïu &lt;c0&gt;LL&lt;/c0&gt; pel codi de llengua de dues lletres que vulgueu de la llista &lt;l1&gt;ISO 639.1&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38230,6 +38359,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T104622Z" creationid="Marc Riera" creationdate="20251116T104622Z">
         <seg>Consulteu &lt;l0/&gt; per a habilitar aquesta característica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;The Eclipse Temurin™ project&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T084656Z" creationid="Marc Riera" creationdate="20260325T084656Z">
+        <seg>Consulteu &lt;l0&gt;Projecte Eclipse Temurin™&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41412,8 +41549,8 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
       <tuv lang="en">
         <seg>Specify a source- or target-language tokenizer (using this option overrides project settings).</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135129Z" creationid="Marc Riera" creationdate="20230130T135129Z">
-        <seg>Especifica un lematitzador en la llengua d'origen o de destinació (l'ús d0aquesta opció substitueix els paràmetres del projecte).</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085056Z" creationid="Marc Riera" creationdate="20230130T135129Z">
+        <seg>Especifica un lematitzador en la llengua d'origen o de destinació (l'ús d'aquesta opció substitueix els paràmetres del projecte).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44656,6 +44793,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The changes between your version and the current version are documented in the development site’s &lt;l0&gt;changes.txt&lt;/l0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T084721Z" creationid="Marc Riera" creationdate="20260325T084721Z">
+        <seg>Els canvis entre la vostra versió i la versió actual estan documentats en el fitxer &lt;l0&gt;changes.txt&lt;/l0&gt; del lloc de desenvolupament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The changes between your version and the current version are documented in the development site’s &lt;u0&gt;changes.txt&lt;/u0&gt; file.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T111536Z" creationid="Marc Riera" creationdate="20221209T111536Z">
@@ -45219,6 +45364,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The files are downloadable directly from &lt;l0&gt;https://omegat.org&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T084647Z" creationid="Marc Riera" creationdate="20260325T084647Z">
+        <seg>Els fitxers es poden baixar directament des del lloc web &lt;l0&gt;https://omegat.org&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The files are downloadable directly from &lt;u0&gt;https://omegat.org&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T210256Z" creationid="Marc Riera" creationdate="20221206T210256Z">
@@ -45660,6 +45813,14 @@ l'àrea d'accés ràpid.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221223T121631Z" creationid="Marc Riera" creationdate="20221223T121631Z">
         <seg>Les instruccions indicades aquí s'apliquen a la baixada del paquet des del lloc &lt;a0&gt;https://omegat.org&lt;/a0&gt; i la instal·lació manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The instructions given here apply to people who download the package from the &lt;l0&gt;https://omegat.org&lt;/l0&gt; site and install it manually.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T084713Z" creationid="Marc Riera" creationdate="20260325T084713Z">
+        <seg>Les instruccions indicades aquí s'apliquen a la baixada del paquet des del lloc &lt;l0&gt;https://omegat.org&lt;/l0&gt; i la instal·lació manual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46122,6 +46283,15 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T092711Z" creationid="Marc Riera" creationdate="20221231T092711Z">
         <seg>Les opcions per a iniciar el programa es llegiran del fitxer &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, que resideix en la mateixa carpeta que el fitxer exe i que podeu editar per a reflectir la vostra configuració.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The options specific to OmegaT are described &lt;l0&gt; later in this section&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085015Z" creationid="Marc Riera" creationdate="20260325T085015Z">
+        <seg>Les opcions específiques de l'OmegaT es descriuen &lt;l0&gt;més endavant en aquesta secció&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46910,6 +47080,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T221736Z" creationid="Marc Riera" creationdate="20221207T221736Z">
         <seg>Els fitxers d'origen i de destinació poden tenir formats diferents (per exemple, es pot alinear un fitxer &lt;f0&gt;.docx&lt;/f0&gt; amb un fitxer &lt;f1&gt;.pdf&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source code for the current version can either be downloaded directly from the OmegaT &lt;l0&gt;download page&lt;/l0&gt;, or cloned from the &lt;l1&gt;Sourceforge&lt;/l1&gt; or &lt;l2&gt;GitHub&lt;/l2&gt; repositories.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T084736Z" creationid="Marc Riera" creationdate="20260325T084736Z">
+        <seg>Podeu baixar el codi font de la versió actual directament des de la &lt;l0&gt;pàgina de baixada&lt;/l0&gt; de l'OmegaT, o bé clonar-lo des dels repositoris de &lt;l1&gt;Sourceforge&lt;/l1&gt; o &lt;l2&gt;GitHub&lt;/l2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52393,6 +52571,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; and focus on &lt;g2&gt;Tag issues&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T084810Z" creationid="Marc Riera" creationdate="20260325T084810Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; i centreu-vos en &lt;g2&gt;Errors d'etiquetes&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; &lt;l1/&gt; and its submenus to access the locations of the project resources.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260322T121115Z" creationid="Marc Riera" creationdate="20260322T121115Z">
@@ -52413,6 +52599,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114241Z" creationid="Marc Riera" creationdate="20260322T114241Z">
         <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a accedir-hi directament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to access the configuration folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T084816Z" creationid="Marc Riera" creationdate="20260325T084816Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a accedir a la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52509,6 +52703,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260322T121048Z" creationid="Marc Riera" creationdate="20260322T121048Z">
         <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a obrir el quadre de diàleg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to recreate the documents.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T084813Z" creationid="Marc Riera" creationdate="20260325T084813Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a recrear els fitxers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59034,6 +59236,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251215T073619Z" creationid="Marc Riera" creationdate="20251215T073619Z">
         <seg>editor_unlock_cursor_f2.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>either after saving the project data (use &lt;l0/&gt; &lt;l1/&gt;),</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T084803Z" creationid="Marc Riera" creationdate="20260325T084803Z">
+        <seg>després de desar les dades del projecte (utilitzeu &lt;l0/&gt; &lt;l1/&gt;),</seg>
       </tuv>
     </tu>
     <tu>
