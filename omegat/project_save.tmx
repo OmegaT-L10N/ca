@@ -3684,10 +3684,26 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Edit&lt;/g0&gt; &gt; &lt;g1&gt;Insert Source&lt;/g1&gt; ( &lt;k2&gt; &lt;k3&gt;C&lt;/k3&gt; &lt;k4&gt;S&lt;/k4&gt; &lt;k5&gt;I&lt;/k5&gt; &lt;/k2&gt;): insert the content of the current source segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T082847Z" creationid="Marc Riera" creationdate="20260325T082847Z">
+        <seg>&lt;g0&gt;Edita&lt;/g0&gt; &gt; &lt;g1&gt;Insereix el text d'origen&lt;/g1&gt; (&lt;k2&gt; &lt;k3&gt;C&lt;/k3&gt; &lt;k4&gt;S&lt;/k4&gt; &lt;k5&gt;I&lt;/k5&gt; &lt;/k2&gt;): insereix el contingut del segment d'origen actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Edit&lt;/g0&gt; &gt; &lt;g1&gt;Insert Source&lt;/g1&gt; (&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;I&lt;/k5&gt;&lt;/k2&gt;): insert the content of the current source segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230201T125650Z" creationid="Marc Riera" creationdate="20230201T125650Z">
         <seg>&lt;g0&gt;Edita&lt;/g0&gt; &gt; &lt;g1&gt;Insereix el text d'origen&lt;/g1&gt; (&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;I&lt;/k5&gt;&lt;/k2&gt;): insereix el contingut del segment d'origen actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Edit&lt;/g0&gt; &gt; &lt;g1&gt;Replace with Source&lt;/g1&gt; ( &lt;k2&gt; &lt;k3&gt;C&lt;/k3&gt; &lt;k4&gt;S&lt;/k4&gt; &lt;k5&gt;R&lt;/k5&gt; &lt;/k2&gt;): replace the contents of the search field with those of the current source segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T082901Z" creationid="Marc Riera" creationdate="20260325T082901Z">
+        <seg>&lt;g0&gt;Edita&lt;/g0&gt; &gt; &lt;g1&gt;Substitueix pel text d'origen&lt;/g1&gt; (&lt;k2&gt; &lt;k3&gt;C&lt;/k3&gt; &lt;k4&gt;S&lt;/k4&gt; &lt;k5&gt;R&lt;/k5&gt; &lt;/k2&gt;): substitueix el contingut del camp de cerca pel del segment d'origen actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3740,10 +3756,26 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;File&lt;/g0&gt; &gt; &lt;g1&gt;Close&lt;/g1&gt; ( &lt;k2&gt; &lt;k3&gt;C&lt;/k3&gt; &lt;k4&gt;W&lt;/k4&gt; &lt;/k2&gt;): close the search window.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T082838Z" creationid="Marc Riera" creationdate="20260325T082838Z">
+        <seg>&lt;g0&gt;Fitxer&lt;/g0&gt; &gt; &lt;g1&gt;Tanca&lt;/g1&gt; (&lt;k2&gt; &lt;k3&gt;C&lt;/k3&gt; &lt;k4&gt;W&lt;/k4&gt; &lt;/k2&gt;): tanca la finestra de cerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;File&lt;/g0&gt; &gt; &lt;g1&gt;Close&lt;/g1&gt; (&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;W&lt;/k4&gt;&lt;/k2&gt;): close the search window.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230201T125615Z" creationid="Marc Riera" creationdate="20230201T125615Z">
         <seg>&lt;g0&gt;Fitxer&lt;/g0&gt; &gt; &lt;g1&gt;Tanca&lt;/g1&gt; (&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;W&lt;/k4&gt;&lt;/k2&gt;): tanca la finestra de cerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;File&lt;/g0&gt; &gt; &lt;g1&gt;Search for Selection&lt;/g1&gt; ( &lt;k2&gt; &lt;k3&gt;C&lt;/k3&gt; &lt;k4&gt;F&lt;/k4&gt; &lt;/k2&gt;): the current selection is inserted in the search field.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T082830Z" creationid="Marc Riera" creationdate="20260325T082830Z">
+        <seg>&lt;g0&gt;Fitxer&lt;/g0&gt; &gt; &lt;g1&gt;Cerca la selecció&lt;/g1&gt; (&lt;k2&gt; &lt;k3&gt;C&lt;/k3&gt; &lt;k4&gt;F&lt;/k4&gt; &lt;/k2&gt;): s'insereix la selecció actual en el camp de cerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8541,6 +8573,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230126T184728Z" creationid="Marc Riera" creationdate="20230126T184728Z">
         <seg>Com a alternativa, copieu les memòries de referència del projecte anterior a la carpeta &lt;l0/&gt; del projecte nou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, select a word or phrase in the &lt;l0/&gt;, &lt;l1/&gt;, or &lt;l2/&gt; pane and use &lt;l3/&gt; &lt;l4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T082808Z" creationid="Marc Riera" creationdate="20260325T082808Z">
+        <seg>Com a alternativa, seleccioneu una paraula o frase en la subfinestra &lt;l0/&gt;, &lt;l1/&gt;, o &lt;l2/&gt; i utilitzeu &lt;l3/&gt; &lt;l4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16493,6 +16533,14 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T210113Z" creationid="Marc Riera" creationdate="20180221T111808Z">
         <seg>Escriviu el número del segment:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the string you want to insert to replace your search term in the &lt;g0&gt;Replace with:&lt;/g0&gt; field and click on &lt;g1&gt;Search&lt;/g1&gt;, or hit &lt;k2&gt;&lt;k3&gt;Enter&lt;/k3&gt;&lt;/k2&gt; if the cursor is still in the field.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T082820Z" creationid="Marc Riera" creationdate="20260325T082820Z">
+        <seg>Indiqueu la cadena que voleu inserir per a substituir el terme de cerca en el camp &lt;g0&gt;Substitueix-ho per:&lt;/g0&gt; i feu clic en &lt;g1&gt;Cerca&lt;/g1&gt; o premeu &lt;k2&gt;&lt;k3&gt;Retorn&lt;/k3&gt;&lt;/k2&gt; si el cursor encara és en el camp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52344,6 +52392,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260322T121602Z" creationid="Marc Riera" creationdate="20260322T121602Z">
         <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a obtenir més informació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to open a new replace window and enter the word or phrase you wish to search for in the search field.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260325T082801Z" creationid="Marc Riera" creationdate="20260325T082801Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a obrir una finestra de substitució nova i indiqueu la paraula o frase que voleu cercar en el camp de cerca.</seg>
       </tuv>
     </tu>
     <tu>
