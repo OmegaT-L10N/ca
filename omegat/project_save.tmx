@@ -111,6 +111,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg># OmegaT.exe runtime configuration</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T102004Z" creationid="Marc Riera" creationdate="20260404T102004Z">
+        <seg># Configuració del temps d'execució d'OmegaT.exe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg># OmegaT.exe runtime configuration
 	# To use a parameter, remove the '#' before the '-'
 	# Memory
@@ -129,6 +137,14 @@
 	-Duser.language=FR
 	# País
 	-Duser.country=CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg># To use a parameter, remove the '#' before the '-'</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T102022Z" creationid="Marc Riera" creationdate="20260404T102022Z">
+        <seg># Per a utilitzar un paràmetre, suprimiu «#» abans de «-»</seg>
       </tuv>
     </tu>
     <tu>
@@ -2831,6 +2847,14 @@ per a editar-lo com a projecte en equip.)</seg>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221005T195326Z" creationid="Marc Riera" creationdate="20221005T195326Z">
         <seg>-h, --help
 	  Mostra aquest missatge d'ajuda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-n --args &lt;OmegaT options&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T102038Z" creationid="Marc Riera" creationdate="20260404T102038Z">
+        <seg>-n --args &lt;paràmetres de l'OmegaT&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -62465,6 +62489,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T163542Z" creationid="Marc Riera" creationdate="20221201T163542Z">
         <seg>open ${targetRoot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>open path/to/OmegaT.app</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T102054Z" creationid="Marc Riera" creationdate="20260404T102054Z">
+        <seg>open camí/del/fitxer/OmegaT.app</seg>
       </tuv>
     </tu>
     <tu>
