@@ -324,6 +324,16 @@ ${filePath}&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${fuzzyFlag}${sourceText} ${targetText}
+&lt;${score}/${noStemScore}/${adjustedScore}%${filePath}&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T102835Z" creationid="Marc Riera" creationdate="20260404T102835Z">
+        <seg>${fuzzyFlag}${sourceText} ${targetText}
+&lt;${score}/${noStemScore}/${adjustedScore}%${filePath}&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${glossaryRoot}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T175901Z" creationid="Marc Riera" creationdate="20221218T175901Z">
@@ -3221,6 +3231,20 @@ per a editar-lo com a projecte en equip.)</seg>
 			
 [ANTERIOR]◀ ${diffReversed}
 ◀ ${targetText}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;${score}/${noStemScore}/${adjustedScore}%&gt; ${fuzzyFlag} ${fileNameOnly}
+[NEW]▷ ${diff}
+
+[OLD]◀ ${diffReversed}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T102906Z" creationid="Marc Riera" creationdate="20260404T102906Z">
+        <seg>&lt;${score}/${noStemScore}/${adjustedScore}%&gt; ${fuzzyFlag} ${fileNameOnly}
+[NOU]▷ ${diff}
+
+[ANTERIOR]◀ ${diffReversed}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6474,6 +6498,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T102825Z" creationid="Marc Riera" creationdate="20260404T102825Z">
+        <seg>&lt;l4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="" repository=""/&gt;
 &lt;/repository&gt;</seg>
       </tuv>
@@ -8321,6 +8353,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T095652Z" creationid="Marc Riera" creationdate="20230104T095652Z">
         <seg>Es poden afegir disposicions addicionals com a connectors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additional plugins can be found on the &lt;l0&gt;OmegaT wiki site&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T102930Z" creationid="Marc Riera" creationdate="20260404T102930Z">
+        <seg>Podeu trobar connectors addicionals en el &lt;l0&gt;lloc de la wiki de l'OmegaT&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31421,6 +31461,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT can automatically run commands after you use &lt;l0/&gt; &lt;l1/&gt; or &lt;l2/&gt; &lt;l3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T102924Z" creationid="Marc Riera" creationdate="20260404T102924Z">
+        <seg>L'OmegaT pot executar ordres automàticament després d'utilitzar &lt;l0/&gt; &lt;l1/&gt; o &lt;l2/&gt; &lt;l3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT can automatically run commands after you use &lt;l0/&gt;&lt;l1/&gt; or &lt;l2/&gt;&lt;l3/&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T181223Z" creationid="Marc Riera" creationdate="20230104T181223Z">
@@ -39421,6 +39469,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; &lt;l1/&gt; menu for details.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T102831Z" creationid="Marc Riera" creationdate="20260404T102831Z">
+        <seg>Consulteu el menú &lt;l0/&gt; &lt;l1/&gt; per a conèixer més detalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; appendix for a general explanation of segmentation (global or local, paragraph or sentence, etc.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T102948Z" creationid="Marc Riera" creationdate="20230104T102948Z">
@@ -40075,6 +40131,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T190144Z" creationid="Marc Riera" creationdate="20230104T190144Z">
         <seg>Els segments amb coincidències en llengües de destinació diferents també es poden mostrar en la subfinestra &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segments that receive automated translation at that time can be marked in the &lt;g2&gt;Editor&lt;/g2&gt; pane by using &lt;l3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T102823Z" creationid="Marc Riera" creationdate="20260404T102823Z">
+        <seg>Els segments que reben una traducció propagada automàticament d'aquesta manera es poden marcar en la subfinestra &lt;g2&gt;Editor&lt;/g2&gt; mitjançant &lt;l3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44385,6 +44449,14 @@ la carpeta actual en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;e0&gt;Before&lt;/e0&gt; and &lt;e1&gt; After&lt;/e1&gt; patterns are regular expressions.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T102813Z" creationid="Marc Riera" creationdate="20260404T102813Z">
+        <seg>Els patrons &lt;e0&gt;anterior&lt;/e0&gt; i &lt;e1&gt;posterior&lt;/e1&gt; són expressions regulars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;e0&gt;Before&lt;/e0&gt; and&lt;e1&gt; After&lt;/e1&gt; patterns are regular expressions.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230105T084158Z" creationid="Marc Riera" creationdate="20230105T084158Z">
@@ -47144,6 +47216,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215845Z" creationid="Marc Riera" creationdate="20221207T215845Z">
         <seg>L'opció sempre està seleccionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The option is equivalent to using &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T102816Z" creationid="Marc Riera" creationdate="20260404T102816Z">
+        <seg>L'opció és equivalent a utilitzar &lt;l0/&gt; &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53685,6 +53765,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to display segment modification information.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T102918Z" creationid="Marc Riera" creationdate="20260404T102918Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a mostrar la informació de modificació dels segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; &lt;l1/&gt; to display the characters for easier manipulation.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260325T120905Z" creationid="Marc Riera" creationdate="20260325T120905Z">
@@ -53757,10 +53845,26 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to identify segments that belong to the same paragraph.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T102828Z" creationid="Marc Riera" creationdate="20260404T102828Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a identificar els segments que pertanyen al mateix paràgraf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; &lt;l1/&gt; to insert a selection of characters directly from the OmegaT interface.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260322T121530Z" creationid="Marc Riera" creationdate="20260322T121530Z">
         <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a inserir una selecció de caràcters directament des de la interfície de l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to mark the second and subsequent copy of a repeated segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T102914Z" creationid="Marc Riera" creationdate="20260404T102914Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a marcar el segon segment repetit i els següents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56328,6 +56432,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T185959Z" creationid="Marc Riera" creationdate="20201125T185959Z">
         <seg>Si s'adopta o no depèn, en primer lloc, de si l'equip de desenvolupament considerà que aportarà beneficis a l'OmegaT i, en segon lloc, de si algú de l'equip de desenvolupament està disposat a dur a terme la feina d'implementació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While the option is disabled, use &lt;l0/&gt; &lt;l1/&gt; to search for matches of the selection or of all the terms in the segment source.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T102810Z" creationid="Marc Riera" creationdate="20260404T102810Z">
+        <seg>Amb l'opció inhabilitada, utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a cercar coincidències de la selecció o de tots els termes del segment d'origen.</seg>
       </tuv>
     </tu>
     <tu>
