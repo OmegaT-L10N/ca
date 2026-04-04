@@ -3406,7 +3406,6 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>&lt;e0&gt;Caution:&lt;/e0&gt; Although the last two codes above are not matched completely, the expression will return the “ &lt;e1&gt;1472/698&lt;/e1&gt;” portion of “1472/6985”, as well as the “ &lt;e2&gt;5133/157&lt;/e2&gt;” of “95133/15746”.</seg>
       </tuv>
@@ -3644,6 +3643,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T151944Z" creationid="Marc Riera" creationdate="20230131T151944Z">
         <seg>El fitxer &lt;f0&gt;OmegaT.app&lt;/f0&gt; inclou un executable &lt;f1&gt;OmegaT&lt;/f1&gt; en la carpeta &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt; que també podeu utilitzar per a iniciar diverses instàncies del programa &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Add Glossary Entry&lt;/g0&gt; (equivalent to using &lt;l1/&gt; &lt;l2/&gt;).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T101627Z" creationid="Marc Riera" creationdate="20260404T101627Z">
+        <seg>&lt;g0&gt;Afegeix una entrada al glossari&lt;/g0&gt; (equivalent a utilitzar &lt;l1/&gt; &lt;l2/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5226,7 +5233,6 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>&lt;l0&gt;\H &lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a horizontal white space, and &lt;l2&gt;\V&lt;/l2&gt; any character that is &lt;e3&gt;not&lt;/e3&gt; a vertical white space ( &lt;l4&gt;[^\h]&lt;/l4&gt; and &lt;l5&gt;[^\v]&lt;/l5&gt;, respectively).</seg>
       </tuv>
@@ -5251,7 +5257,6 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>&lt;l0&gt;\S&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a whitespace character ( &lt;l2&gt;[^\s]&lt;/l2&gt;).</seg>
       </tuv>
@@ -5268,7 +5273,6 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>&lt;l0&gt;\W&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a word character ( &lt;l2&gt;[^\w]&lt;/l2&gt;).</seg>
       </tuv>
@@ -7077,6 +7081,20 @@ Dossier racine
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0&gt;Top&lt;/t0&gt; Folder
+Dossier racine
+&lt;50/50/66% Orphan segments (+1 more)&gt;
+2.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T101758Z" creationid="Marc Riera" creationdate="20260404T101758Z">
+        <seg>&lt;t0&gt;Top&lt;/t0&gt; Folder
+Dossier racine
+&lt;50/50/66% Segments orfes (i 1 més)&gt;
+2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0&gt;false&lt;/t0&gt;&lt;/project_files_show_on_load&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114251Z" creationid="Marc Riera" creationdate="20260322T114251Z">
@@ -8459,7 +8477,6 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>After the project manager confirms that a translator has been able to open the team project, it is a good idea to make sure that the project &lt;l0&gt;project statistics&lt;/l0&gt; are the same for both the project manager (on the server) and the translator (locally).</seg>
       </tuv>
@@ -8783,7 +8800,6 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>All the arguments should be quoted, e.g.  &lt;l0&gt;"${fileName}"&lt;/l0&gt;.</seg>
       </tuv>
@@ -9344,7 +9360,6 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>An OmegaT team project synchronizes the project translation memory ( &lt;l0/&gt;) and the project writable glossary ( &lt;l1/&gt;) between the VCS hosting server and all the participating team members.</seg>
       </tuv>
@@ -9695,7 +9710,6 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Any combinations of three letters starting with “c” and ending with “t”: “ &lt;e0&gt;cat&lt;/e0&gt;”, “ &lt;e1&gt;cut&lt;/e1&gt;”, “ &lt;e2&gt;cot&lt;/e2&gt;”, or even nonsensical combinations such as “ &lt;e3&gt;czt&lt;/e3&gt;” or “ &lt;e4&gt;cqt&lt;/e4&gt;”.</seg>
       </tuv>
@@ -15283,7 +15297,6 @@ Versió nova: {2}</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Digits and letters of the alphabet preceded by a backslash ( &lt;l0&gt;\&lt;/l0&gt;) take on a special meaning</seg>
       </tuv>
@@ -16388,10 +16401,26 @@ Versió nova: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dropping an OmegaT project file ( &lt;f0&gt;omegat.project&lt;/f0&gt;) or a full project here will open the corresponding project after closing the currently open project, if any.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T101537Z" creationid="Marc Riera" creationdate="20260404T101537Z">
+        <seg>Si deixeu anar aquí un fitxer de projecte de l'OmegaT (&lt;f0&gt;omegat.project&lt;/f0&gt;) o un projecte complet, s'obrirà el projecte corresponent després de tancar el projecte obert actualment, si n'hi ha cap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dropping an OmegaT project file (&lt;f0&gt;omegat.project&lt;/f0&gt;) or a full project here will open the corresponding project after closing the currently open project, if any.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230208T142612Z" creationid="Marc Riera" creationdate="20230208T142612Z">
         <seg>Si deixeu anar aquí un fitxer de projecte de l'OmegaT (&lt;f0&gt;omegat.project&lt;/f0&gt;) o un projecte complet, s'obrirà el projecte corresponent després de tancar el projecte obert actualment, si n'hi ha cap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dropping files with a recognized glossary extension ( &lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) here will copy them to the &lt;f2&gt;glossary&lt;/f2&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T101545Z" creationid="Marc Riera" creationdate="20260404T101545Z">
+        <seg>Si deixeu anar aquí fitxers amb una extensió de glossari reconeguda (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.), es copiaran a la carpeta &lt;f2&gt;glossary&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18471,7 +18500,6 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>FATAL: There is no language registered</seg>
       </tuv>
@@ -19096,7 +19124,6 @@ Alguns atributs tenen valors no vàlids.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Finally, publish your project to the remote server ( &lt;c0&gt;commit&lt;/c0&gt; &lt;c1&gt;push&lt;/c1&gt; in Git, and &lt;c2&gt;commit&lt;/c2&gt; in SVN).</seg>
       </tuv>
@@ -19577,7 +19604,6 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>For example, the seven letters spelling out the word “ &lt;e0&gt;example&lt;/e0&gt;” simply tell the search function to match exactly those letters, in that order.</seg>
       </tuv>
@@ -19619,7 +19645,6 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>For example, use the pattern &lt;l0&gt;read*&lt;/l0&gt; if you want to have the text filter handle readme files ( &lt;l1&gt;readme, read.me&lt;/l1&gt;, or &lt;l2&gt;readme.txt&lt;/l2&gt;).</seg>
       </tuv>
@@ -21499,6 +21524,14 @@ l'hivern ja és aquí.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlighting translated segments using &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T101611Z" creationid="Marc Riera" creationdate="20260404T101611Z">
+        <seg>Ressaltar els segments traduïts amb &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlighting translated segments using &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143752Z" creationid="Marc Riera" creationdate="20230208T143752Z">
@@ -23241,7 +23274,6 @@ extensions dels fitxers.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>If you created the project from the OmegaT GUI, you then have to explicitly add it to the version control system ( &lt;c0&gt;add&lt;/c0&gt; in both Git and SVN).</seg>
       </tuv>
@@ -24573,7 +24605,6 @@ feu doble clic en la drecera.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Include the project memory ( &lt;l0/&gt;).</seg>
       </tuv>
@@ -28145,7 +28176,6 @@ en la carpeta de configuració.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Managing a team project calls for some knowledge of either the &lt;e0&gt;Git&lt;/e0&gt; or &lt;e1&gt;SVN&lt;/e1&gt; version control system ( &lt;e2&gt;VCS&lt;/e2&gt; in the rest of this section).</seg>
       </tuv>
@@ -32663,6 +32693,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt; &lt;k1&gt;C&lt;/k1&gt; &lt;k2&gt;Space&lt;/k2&gt; &lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T101637Z" creationid="Marc Riera" creationdate="20260404T101637Z">
+        <seg>Windows i Linux: &lt;k0&gt; &lt;k1&gt;C&lt;/k1&gt; &lt;k2&gt;Espai&lt;/k2&gt; &lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows and Linux: &lt;k0&gt; &lt;k1&gt;Control&lt;/k1&gt; &lt;k2&gt;E&lt;/k2&gt; &lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260325T112838Z" creationid="Marc Riera" creationdate="20260325T112838Z">
@@ -32670,7 +32708,6 @@ la carpeta d'inici.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>On Windows and Linux: &lt;k0&gt; &lt;k1&gt;Control&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;N&lt;/k3&gt; &lt;/k0&gt;</seg>
       </tuv>
@@ -33024,7 +33061,6 @@ la carpeta d'inici.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Once the code is downloaded, open a terminal in the source folder ( &lt;f0&gt;omegat-code/&lt;/f0&gt; if you cloned from Sourceforge, or &lt;f1&gt;/omegat&lt;/f1&gt; if you cloned from GitHub) and type:</seg>
       </tuv>
@@ -38368,7 +38404,6 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Saves the project translation memory ( &lt;l0/&gt;) and closes the project.</seg>
       </tuv>
@@ -38377,7 +38412,6 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Saves the project translation memory ( &lt;l0/&gt;) and synchronizes team projects.</seg>
       </tuv>
@@ -41185,6 +41219,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Showing or hiding paragraph delimitations using &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T101554Z" creationid="Marc Riera" creationdate="20260404T101554Z">
+        <seg>Mostrar o ocultar els límits dels paràgrafs amb &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Showing or hiding paragraph delimitations using &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143644Z" creationid="Marc Riera" creationdate="20230208T143644Z">
@@ -41193,10 +41235,26 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Showing or hiding source segments using &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T101605Z" creationid="Marc Riera" creationdate="20260404T101605Z">
+        <seg>Mostrar o ocultar els segments d'origen amb &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Showing or hiding source segments using &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143744Z" creationid="Marc Riera" creationdate="20230208T143744Z">
         <seg>Mostrar o ocultar els segments d'origen amb &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Showing segment modification information using &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T101602Z" creationid="Marc Riera" creationdate="20260404T101602Z">
+        <seg>Mostrar la informació de modificació dels segments amb &lt;l0/&gt; &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41345,7 +41403,6 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Simply put, the search just looks for the word “ &lt;e1&gt;example&lt;/e1&gt;”.</seg>
       </tuv>
@@ -45990,7 +46047,6 @@ en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>The easiest way to modify the shortcuts is to download copies of the default files to your &lt;l0&gt;your configuration folder&lt;/l0&gt;, as noted above, and make the changes you want there.</seg>
       </tuv>
@@ -47075,7 +47131,6 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>The options specific to OmegaT are described &lt;l0&gt; later in this section&lt;/l0&gt;</seg>
       </tuv>
@@ -48390,7 +48445,6 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>The word “run”, as well as “runs”, “runner”, “runway”, “runt” in “grunt” or “brunt”, and any other word or sequence of characters containing “run” followed by zero or more “ &lt;e0&gt;word characters&lt;/e0&gt;” (which include digits and the underscore, so the part before the “@” in an email address such as run_123@example.email.org is also a match).</seg>
       </tuv>
@@ -48967,7 +49021,6 @@ en sou víctima d'una.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>They can be reused later in the search expression using &lt;l1&gt;\ &lt;o2&gt;n&lt;/o2&gt; &lt;/l1&gt;, where &lt;o3&gt;n&lt;/o3&gt; is the number of the group.</seg>
       </tuv>
@@ -53440,6 +53493,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; or other navigation commands to:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T101549Z" creationid="Marc Riera" creationdate="20260404T101549Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; o altres ordres de navegació per a fer el següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; &lt;l1/&gt; to access it directly.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114241Z" creationid="Marc Riera" creationdate="20260322T114241Z">
@@ -53552,6 +53613,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to enable this feature.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T101623Z" creationid="Marc Riera" creationdate="20260404T101623Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a habilitar aquesta característica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; &lt;l1/&gt; to enter new terms in this glossary.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114408Z" creationid="Marc Riera" creationdate="20260322T114408Z">
@@ -53568,6 +53637,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to enter the pane and add or modify a note.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T101643Z" creationid="Marc Riera" creationdate="20260404T101643Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a accedir a la subfinestra i afegir o modificar una nota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; &lt;l1/&gt; to filter segments based on criteria that you set, and review only those.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260325T112958Z" creationid="Marc Riera" creationdate="20260325T112927Z">
@@ -53580,6 +53657,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085618Z" creationid="Marc Riera" creationdate="20260325T085618Z">
         <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a cercar qualsevol segment sense traduir (i traduir-lo, si cal).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to go back to the Editor.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T101647Z" creationid="Marc Riera" creationdate="20260404T101647Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a tornar a l'editor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56876,6 +56961,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also bring up the menu by right-clicking the mouse ( &lt;k0&gt;C&lt;/k0&gt; +  &lt;k1&gt;click&lt;/k1&gt; on macOS).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T101618Z" creationid="Marc Riera" creationdate="20260404T101618Z">
+        <seg>També podeu obrir el menú fent clic dret amb el ratolí (&lt;k0&gt;C&lt;/k0&gt;+&lt;k1&gt;clic&lt;/k1&gt; en el macOS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also bring up the menu by right-clicking the mouse (&lt;k0&gt;C&lt;/k0&gt; + &lt;k1&gt;click&lt;/k1&gt; on macOS).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230210T093432Z" creationid="Marc Riera" creationdate="20230210T093432Z">
@@ -57340,7 +57433,6 @@ d'allà.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>You can do so with the following expression: &lt;l0&gt;(?i)o&lt;/l0&gt; &lt;l1&gt;(?-i)mega&lt;/l1&gt; &lt;l2&gt;(?i)t&lt;/l2&gt;, which represents a case insensitive “o” followed by a case sensitive “mega”, followed by a case insensitive “t”.</seg>
       </tuv>
@@ -57588,6 +57680,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251217T103444Z" creationid="Marc Riera" creationdate="20251217T103444Z">
         <seg>Podeu organitzar la carpeta «tm» amb subcarpetes i afegir o suprimir fitxers en qualsevol moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can press &lt;k0&gt; &lt;k1&gt;C&lt;/k1&gt; &lt;k2&gt;2, 3, 4, or 5&lt;/k2&gt; &lt;/k0&gt; to select a specific match, or cycle through the available matches with &lt;k3&gt; &lt;k4&gt;C&lt;/k4&gt; &lt;k5&gt;↑ or ↓&lt;/k5&gt; &lt;/k3&gt; ( &lt;k6&gt; &lt;k7&gt;A&lt;/k7&gt; &lt;k8&gt;↑ or ↓&lt;/k8&gt; &lt;/k6&gt; on macOS).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T101705Z" creationid="Marc Riera" creationdate="20260404T101705Z">
+        <seg>Podeu prémer &lt;k0&gt; &lt;k1&gt;C&lt;/k1&gt; &lt;k2&gt;2, 3, 4 o 5&lt;/k2&gt; &lt;/k0&gt; per a seleccionar una coincidència específica o desplaçar-vos cíclicament per les coincidències disponibles amb &lt;k3&gt; &lt;k4&gt;C&lt;/k4&gt; &lt;k5&gt;↑ o ↓&lt;/k5&gt; &lt;/k3&gt; (&lt;k6&gt; &lt;k7&gt;A&lt;/k7&gt; &lt;k8&gt;↑ o ↓&lt;/k8&gt; &lt;/k6&gt; en el macOS).</seg>
       </tuv>
     </tu>
     <tu>
@@ -58079,7 +58179,6 @@ un comportament inesperat però correcte.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>You should use a shebang, e.g.  &lt;l0&gt;#!</seg>
       </tuv>
@@ -64238,6 +64337,23 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;
 &lt;t0&gt;A whitespace character: [ \t\n\x0B\f\r]
 ja-JP: 空白文字：[ \t\n\x0B\f\r]&lt;/t0&gt;
 Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;&lt;/t1&gt;
+— ¶ —————————————————————</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>— ¶ —————————————————————
+
+&lt;t0&gt;Application Folder&lt;/t0&gt;
+| &lt;t1&gt;&lt;segment 1879 ¶&gt;&lt;/t1&gt;
+— ¶ —————————————————————</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T101731Z" creationid="Marc Riera" creationdate="20260404T101731Z">
+        <seg>— ¶ —————————————————————
+
+&lt;t0&gt;Application Folder&lt;/t0&gt;
+| &lt;t1&gt;&lt;segment 1879 ¶&gt;&lt;/t1&gt;
+
 — ¶ —————————————————————</seg>
       </tuv>
     </tu>
