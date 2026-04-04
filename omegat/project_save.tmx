@@ -9270,6 +9270,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alternatively, you can press the arrow keys while holding &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;/k0&gt; to select consecutive segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105850Z" creationid="Marc Riera" creationdate="20260404T105850Z">
+        <seg>Com a alternativa, podeu prémer les tecles de direcció mentre manteniu premuda la tecla &lt;k0&gt;&lt;k1&gt;Maj&lt;/k1&gt;&lt;/k0&gt; per a seleccionar segments consecutius.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alternatively, you can press the arrow keys while holding &lt;k0&gt;Shift&lt;/k0&gt; to select consecutive segments.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T184514Z" creationid="Marc Riera" creationdate="20230103T184514Z">
@@ -12581,6 +12589,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200121T220320Z" creationid="mgalo" creationdate="20181112T113524Z">
         <seg>Suprimeix la marca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clear Mark (&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105939Z" creationid="Marc Riera" creationdate="20260404T105939Z">
+        <seg>Suprimeix la marca (&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;/k0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16742,6 +16758,14 @@ Versió nova: {2}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223801Z" creationid="Marc Riera" creationdate="20180214T223801Z">
         <seg>Edita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit (&lt;k0&gt;&lt;k1&gt;E&lt;/k1&gt;&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105913Z" creationid="Marc Riera" creationdate="20260404T105913Z">
+        <seg>Edita (&lt;k0&gt;&lt;k1&gt;E&lt;/k1&gt;&lt;/k0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23978,6 +24002,14 @@ extensions dels fitxers.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If your translation project involves a number of folders and you feel like working on one folder at a time, use &lt;l0/&gt; &lt;l1/&gt; to access the project properties and change the assigned &lt;l2&gt;source folder&lt;/l2&gt; as you wish.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105740Z" creationid="Marc Riera" creationdate="20260404T105740Z">
+        <seg>Si el vostre projecte de traducció comprèn diverses carpetes i voleu treballar en una carpeta alhora, utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a accedir a les propietats del projecte i canviar la &lt;l2&gt;carpeta de fitxers d'origen&lt;/l2&gt; assignada com vulgueu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If your translation project involves a number of folders and you feel like working on one folder at a time, use &lt;l0/&gt;&lt;l1/&gt; to access the project properties and change the assigned &lt;l2&gt;source folder&lt;/l2&gt; as you wish.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230204T133301Z" creationid="Marc Riera" creationdate="20230204T133301Z">
@@ -24552,6 +24584,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201125T155745Z" creationid="Marc Riera" creationdate="20201125T155745Z">
         <seg>En aquest cas, no seleccioneu la versió per defecte; seleccioneu una versió diferent (p. ex., estàndard o més recent) i seleccioneu una versió «sense el Java».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this dialog, the &lt;k2&gt;&lt;k3&gt;Enter&lt;/k3&gt;&lt;/k2&gt; enters a line break in the text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105918Z" creationid="Marc Riera" creationdate="20260404T105918Z">
+        <seg>En aquest quadre de diàleg, la tecla &lt;k2&gt;&lt;k3&gt;Retorn&lt;/k3&gt;&lt;/k2&gt; afegeix un salt de línia al text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25629,6 +25669,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T222007Z" creationid="Marc Riera" creationdate="20230131T222007Z">
         <seg>Es basa en els punts forts de Java i afegeix característiques potents inspirades en llenguatges com Python, Ruby i Smalltalk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It can also be called by clicking the &lt;g1&gt;Reset&lt;/g1&gt; at the bottom right of the window or pressing &lt;k2&gt; &lt;k3&gt;C&lt;/k3&gt; &lt;k4&gt;S&lt;/k4&gt; &lt;k5&gt;R&lt;/k5&gt; &lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105833Z" creationid="Marc Riera" creationdate="20260404T105833Z">
+        <seg>També podeu accedir-hi fent clic en &lt;g1&gt;Reinicialitza&lt;/g1&gt; en la part inferior dreta de la finestra o prement &lt;k2&gt; &lt;k3&gt;C&lt;/k3&gt; &lt;k4&gt;S&lt;/k4&gt; &lt;k5&gt;R&lt;/k5&gt; &lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28430,6 +28478,14 @@ en la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Accepted (&lt;k0&gt;&lt;k1&gt;A&lt;/k1&gt;&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105930Z" creationid="Marc Riera" creationdate="20260404T105930Z">
+        <seg>Marca com a «Acceptat» (&lt;k0&gt;&lt;k1&gt;A&lt;/k1&gt;&lt;/k0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Accepted (&lt;k0&gt;A&lt;/k0&gt;)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T185702Z" creationid="Marc Riera" creationdate="20230103T185702Z">
@@ -28486,6 +28542,14 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T225038Z" creationid="mgalo" creationdate="20181112T113458Z">
         <seg>Marca com a «Necessita revisió»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Needs Review (&lt;k0&gt;&lt;k1&gt;R&lt;/k1&gt;&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105933Z" creationid="Marc Riera" creationdate="20260404T105933Z">
+        <seg>Marca com a «Necessita revisió» (&lt;k0&gt;&lt;k1&gt;R&lt;/k1&gt;&lt;/k0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29050,6 +29114,14 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T224236Z" creationid="Marc Riera" creationdate="20191110T224236Z">
         <seg>Uneix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge (&lt;k0&gt;&lt;k1&gt;M&lt;/k1&gt;&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105909Z" creationid="Marc Riera" creationdate="20260404T105909Z">
+        <seg>Uneix (&lt;k0&gt;&lt;k1&gt;M&lt;/k1&gt;&lt;/k0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29660,6 +29732,14 @@ s'ha perdut en el paradís.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Move Down (&lt;k0&gt;&lt;k1&gt;D&lt;/k1&gt;&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105858Z" creationid="Marc Riera" creationdate="20260404T105858Z">
+        <seg>Mou avall (&lt;k0&gt;&lt;k1&gt;D&lt;/k1&gt;&lt;/k0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Move Down (&lt;k0&gt;D&lt;/k0&gt;)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T184533Z" creationid="Marc Riera" creationdate="20230103T184533Z">
@@ -29690,6 +29770,14 @@ s'ha perdut en el paradís.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200801T151634Z" creationid="mgalo" creationdate="20181112T111057Z">
         <seg>Mou amunt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move Up (&lt;k0&gt;&lt;k1&gt;U&lt;/k1&gt;&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105854Z" creationid="Marc Riera" creationdate="20260404T105854Z">
+        <seg>Mou amunt (&lt;k0&gt;&lt;k1&gt;U&lt;/k1&gt;&lt;/k0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31344,6 +31432,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20240807T220333Z" creationid="Marc Riera" creationdate="20240807T220333Z">
         <seg>L'OmegaT també accepta arxius ZIP que continguin un fitxer de connector JAR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT also creates a backup of that file ( &lt;f0&gt;omegat.project.bak&lt;/f0&gt;) and will automatically use it to restore your project settings in case of need.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105731Z" creationid="Marc Riera" creationdate="20260404T105731Z">
+        <seg>L'OmegaT també crea una còpia de seguretat del fitxer (&lt;f0&gt;omegat.project.bak&lt;/f0&gt;) i l'utilitzarà automàticament per a recuperar els paràmetres del projecte si cal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36399,6 +36495,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Realign Pending ( &lt;k0&gt; &lt;k1&gt;C&lt;/k1&gt; &lt;k2&gt;R&lt;/k2&gt; &lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105944Z" creationid="Marc Riera" creationdate="20260404T105944Z">
+        <seg>Torna a alinear els pendents (&lt;k0&gt; &lt;k1&gt;C&lt;/k1&gt; &lt;k2&gt;R&lt;/k2&gt; &lt;/k0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Realign Pending (&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;R&lt;/k2&gt;&lt;/k0&gt;)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T185914Z" creationid="Marc Riera" creationdate="20230103T185914Z">
@@ -39959,6 +40063,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segment blocks can be selected with the mouse by clicking the first segment, and holding the &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;/k0&gt; key while clicking the last segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105845Z" creationid="Marc Riera" creationdate="20260404T105845Z">
+        <seg>Es poden seleccionar blocs de segments amb el ratolí fent clic en el primer segment i mantenint premuda la tecla &lt;k0&gt;&lt;k1&gt;Maj&lt;/k1&gt;&lt;/k0&gt; mentre es fa clic en el darrer segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment blocks can be selected with the mouse by clicking the first segment, and holding the &lt;k0&gt;Shift&lt;/k0&gt; key while clicking the last segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230103T184445Z" creationid="Marc Riera" creationdate="20230103T184445Z">
@@ -42646,6 +42758,14 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191110T224233Z" creationid="Marc Riera" creationdate="20191110T224233Z">
         <seg>Divideix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Split (&lt;k0&gt;&lt;k1&gt;S&lt;/k1&gt;&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105901Z" creationid="Marc Riera" creationdate="20260404T105901Z">
+        <seg>Divideix (&lt;k0&gt;&lt;k1&gt;S&lt;/k1&gt;&lt;/k0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -49878,6 +49998,14 @@ en sou víctima d'una.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file is a backup of &lt;f0&gt;project_save.tmx&lt;/f0&gt; and is automatically recreated every time &lt;f1&gt;project_save.tmx&lt;/f1&gt; has been modified: either after using &lt;l2/&gt; &lt;l3/&gt;, or as a regular backup every 3 minutes by default.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105813Z" creationid="Marc Riera" creationdate="20260404T105813Z">
+        <seg>Aquest fitxer és una còpia de seguretat de &lt;f0&gt;project_save.tmx&lt;/f0&gt; i es recrea automàticament cada vegada que es modifica &lt;f1&gt;project_save.tmx&lt;/f1&gt;, ja sigui després d'utilitzar &lt;l2/&gt; &lt;l3/&gt; o com a còpia de seguretat periòdica cada 3 minuts per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file is a backup of &lt;f0&gt;project_save.tmx&lt;/f0&gt; and is automatically recreated every time &lt;f1&gt;project_save.tmx&lt;/f1&gt; has been modified: either after using &lt;l2/&gt;&lt;l3/&gt;, or as a regular backup every 3 minutes by default.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230204T151555Z" creationid="Marc Riera" creationdate="20230204T151555Z">
@@ -53549,6 +53677,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;k0&gt; &lt;k1&gt;C&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; to close it without using the mouse.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105926Z" creationid="Marc Riera" creationdate="20260404T105926Z">
+        <seg>Utilitzeu &lt;k0&gt; &lt;k1&gt;C&lt;/k1&gt; &lt;k2&gt;Retorn&lt;/k2&gt; &lt;/k0&gt; per a tancar-lo sense utilitzar el ratolí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Enter&lt;/k2&gt;&lt;/k0&gt; to close it without using the mouse.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T082627Z" creationid="Marc Riera" creationdate="20230104T082621Z">
@@ -53629,6 +53765,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; or drop files on the &lt;l2/&gt; pane to add files any time you want.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105735Z" creationid="Marc Riera" creationdate="20260404T105735Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; o deixeu anar fitxers en la subfinestra &lt;l2/&gt; per a afegir-los sempre que vulgueu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; &lt;l1/&gt; or other navigation commands to:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260404T101549Z" creationid="Marc Riera" creationdate="20260404T101549Z">
@@ -53689,6 +53833,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260404T102805Z" creationid="Marc Riera" creationdate="20260404T102805Z">
         <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a accedir a aquest quadre de diàleg (menú &lt;l2&gt;OmegaT&lt;/l2&gt; en el macOS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to access this tool.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105825Z" creationid="Marc Riera" creationdate="20260404T105825Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a accedir a aquesta eina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53837,6 +53989,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to generate it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105820Z" creationid="Marc Riera" creationdate="20260404T105820Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a generar-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; &lt;l1/&gt; to go back to the Editor.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260404T101647Z" creationid="Marc Riera" creationdate="20260404T101647Z">
@@ -53849,6 +54009,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260401T101252Z" creationid="Marc Riera" creationdate="20260401T101252Z">
         <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a tornar a la disposició per defecte si no recordeu els canvis que heu aplicat a la interfície d'usuari i ja no podeu veure algunes subfinestres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to highlight them.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105745Z" creationid="Marc Riera" creationdate="20260404T105745Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a ressaltar-los.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53965,6 +54133,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to update it.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105817Z" creationid="Marc Riera" creationdate="20260404T105817Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a actualitzar-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; &lt;l1/&gt; to view the contents of the log file of current session.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260322T114255Z" creationid="Marc Riera" creationdate="20260322T114255Z">
@@ -53977,6 +54153,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260325T112851Z" creationid="Marc Riera" creationdate="20260325T112851Z">
         <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt;, seleccioneu una carpeta buida o creeu-ne una de nova amb el nom del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt;, to easily assign locations other than the default ones to the various resources either when you create the project, or later on.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105727Z" creationid="Marc Riera" creationdate="20260404T105727Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a assignar fàcilment ubicacions diferents de les per defecte als diferents recursos, quan creeu el projecte o més endavant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54997,6 +55181,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the mouse or arrow keys to place the cursor at the location where you want to split the text, and click the &lt;g1&gt;OK&lt;/g1&gt; button or press &lt;k2&gt;&lt;k3&gt;Enter&lt;/k3&gt;&lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105906Z" creationid="Marc Riera" creationdate="20260404T105906Z">
+        <seg>Utilitzeu el ratolí o les tecles de direcció per a col·locar el cursor en la ubicació on voleu dividir el text i feu clic en el botó &lt;g1&gt;D'acord&lt;/g1&gt; o premeu &lt;k2&gt;&lt;k3&gt;Retorn&lt;/k3&gt;&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the mouse or arrow keys to place the cursor at the location where you want to split the text, and click the &lt;g1&gt;OK&lt;/g1&gt; button or press &lt;k2&gt;Enter&lt;/k2&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150516Z" creationid="Marc Riera" creationdate="20230131T150516Z">
@@ -55009,6 +55201,22 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085613Z" creationid="Marc Riera" creationdate="20260325T085613Z">
         <seg>Utilitzeu els menús de navegació de &lt;l0/&gt; &lt;l1/&gt; per a navegar a un segment inserit automàticament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the navigation menus found in &lt;l0/&gt; &lt;l1/&gt; to navigate to the inserted segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105748Z" creationid="Marc Riera" creationdate="20260404T105748Z">
+        <seg>Utilitzeu els menús de navegació de &lt;l0/&gt; &lt;l1/&gt; per a navegar als segments inserits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the navigation menus found in &lt;l0/&gt; &lt;l1/&gt; to navigate to the segments that have been inserted.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105801Z" creationid="Marc Riera" creationdate="20260404T105801Z">
+        <seg>Utilitzeu els menús de navegació de &lt;l0/&gt; &lt;l1/&gt; per a navegar als segments inserits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57217,6 +57425,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also call this command by pressing &lt;k2&gt; &lt;k3&gt;C&lt;/k3&gt; &lt;k4&gt;W&lt;/k4&gt; &lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105839Z" creationid="Marc Riera" creationdate="20260404T105839Z">
+        <seg>També podeu executar aquesta ordre prement &lt;k2&gt; &lt;k3&gt;C&lt;/k3&gt; &lt;k4&gt;W&lt;/k4&gt; &lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also call this command by pressing &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;W&lt;/k4&gt;&lt;/k2&gt;.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221214T205707Z" creationid="Marc Riera" creationdate="20221214T205707Z">
@@ -57729,6 +57945,14 @@ d'allà.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251215T191019Z" creationid="Marc Riera" creationdate="20251215T191019Z">
         <seg>Podeu trobar alguns diccionaris en la &lt;a0&gt;Wiki de l'OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can find some dictionaries on the &lt;l0&gt;OmegaT Wiki&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260404T105807Z" creationid="Marc Riera" creationdate="20260404T105807Z">
+        <seg>Podeu trobar alguns diccionaris en la &lt;l0&gt;Wiki de l'OmegaT&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
