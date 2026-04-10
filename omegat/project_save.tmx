@@ -7386,6 +7386,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A glossary item with multiple definitions displays the definitions in descending order of length.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260410T093920Z" creationid="Marc Riera" creationdate="20260410T093920Z">
+        <seg>Un element del glossari amb diverses definicions mostra les definicions en ordre de longitud descendent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A hyphen placed outside the series is just a hyphen: &lt;l1&gt;[a-z-]&lt;/l1&gt; means any lowercase character from “a” to “z”, or the hyphen character itself.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230207T114750Z" creationid="Marc Riera" creationdate="20230207T114750Z">
@@ -15585,6 +15593,22 @@ Versió nova: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display Longer (Similar) Terms First</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260410T093812Z" creationid="Marc Riera" creationdate="20260410T093812Z">
+        <seg>Mostra els termes més llargs (similars) primer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Longer Definitions First</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260410T093821Z" creationid="Marc Riera" creationdate="20260410T093821Z">
+        <seg>Mostra les definicions més llargues primer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display Modification Info</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T174029Z" creationid="Marc Riera" creationdate="20230130T174029Z">
@@ -15703,6 +15727,38 @@ Versió nova: {2}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T110635Z" creationid="Marc Riera" creationdate="20230104T110635Z">
         <seg>Mostra tots els segments d'origen en negreta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display longer (similar) terms first</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260410T093831Z" creationid="Marc Riera" creationdate="20260410T093831Z">
+        <seg>Mostra els termes més llargs (similars) primer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display longer definitions first</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260410T093834Z" creationid="Marc Riera" creationdate="20260410T093834Z">
+        <seg>Mostra les definicions més llargues primer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display the longer (similar) terms first</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260410T093841Z" creationid="Marc Riera" creationdate="20260410T093841Z">
+        <seg>Mostra els termes més llargs (similars) primer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display the longer definitions first</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260410T093844Z" creationid="Marc Riera" creationdate="20260410T093844Z">
+        <seg>Mostra les definicions més llargues primer</seg>
       </tuv>
     </tu>
     <tu>
@@ -26029,6 +26085,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T202116Z" creationid="Marc Riera" creationdate="20221206T202116Z">
         <seg>S'utilitza amb finalitats de proves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is used to store the default writable glossary and any other glossaries that you use in the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260410T093926Z" creationid="Marc Riera" creationdate="20260410T093926Z">
+        <seg>S'utilitza per a emmagatzemar el glossari modificable per defecte i qualsevol altre glossari que utilitzeu en el projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41535,6 +41599,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230126T185021Z" creationid="Marc Riera" creationdate="20230126T185004Z">
         <seg>Els segments similars tindran coincidències de la memòria de traducció del projecte quan hi accediu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similar terms are displayed in descending order of length.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260410T093858Z" creationid="Marc Riera" creationdate="20260410T093858Z">
+        <seg>Els termes similars es mostren en ordre de longitud descendent.</seg>
       </tuv>
     </tu>
     <tu>
