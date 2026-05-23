@@ -2340,6 +2340,18 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>-- 148&gt; | language = [[日本語]]・[[&lt;t0&gt;ドイツ&lt;/t0&gt;語]]
+&lt;p1&gt;-- 177&gt; [[2001年]]、 &lt;t2&gt;ドイツ&lt;/t2&gt;の永住権を取得。&lt;/p1&gt;
+---------</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260523T125356Z" creationid="Marc Riera" creationdate="20260523T125356Z">
+        <seg>-- 148&gt; | language = [[日本語]]・[[&lt;t0&gt;ドイツ&lt;/t0&gt;語]]
+&lt;p1&gt;-- 177&gt; [[2001年]]、 &lt;t2&gt;ドイツ&lt;/t2&gt;の永住権を取得。&lt;/p1&gt;
+---------</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>---- Localization Notes ----</seg>
@@ -19343,6 +19355,15 @@ Alguns atributs tenen valors no vàlids.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Finally, publish your project to the remote server ( &lt;c0&gt;commit&lt;/c0&gt; and &lt;c1&gt;push&lt;/c1&gt; in Git, and &lt;c2&gt;commit&lt;/c2&gt; in SVN).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260523T125307Z" creationid="Marc Riera" creationdate="20260523T125307Z">
+        <seg>Finalment, publiqueu el projecte en el servidor remot (&lt;c0&gt;commit&lt;/c0&gt; i &lt;c1&gt;push&lt;/c1&gt; al Git; &lt;c2&gt;commit&lt;/c2&gt; a l'SVN).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Finally, publish your project to the remote server (&lt;c0&gt;commit&lt;/c0&gt; &lt;c1&gt;push&lt;/c1&gt; in Git, and &lt;c2&gt;commit&lt;/c2&gt; in SVN).</seg>
       </tuv>
@@ -20100,6 +20121,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251216T154622Z" creationid="Marc Riera" creationdate="20251216T154622Z">
         <seg>Si detecteu formats no admesos, proveu d'associar-los a un format admès (per exemple, fer una conversió a HTML) abans d'afegir-los a la carpeta de fitxers d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For unsupported formats, try to convert them to a supported one (e.g., convert to XLIFF) before adding them to the source folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260523T125455Z" creationid="Marc Riera" creationdate="20260523T125455Z">
+        <seg>Si detecteu formats no admesos, proveu de convertir-los a un format admès (per exemple, convertiu-los a XLIFF) abans d'afegir-los a la carpeta de fitxers d'origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31819,6 +31848,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT creates backups of your project settings to ensure it can retrieve them in case of problems.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260523T125504Z" creationid="Marc Riera" creationdate="20260523T125504Z">
+        <seg>L'OmegaT crea còpies de seguretat dels paràmetres del projecte per a assegurar que pot recuperar-los en cas que hi hagi problemes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT creates up to ten backup files, and older backups are automatically deleted in turn.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230306T123906Z" creationid="Marc Riera" creationdate="20230306T123906Z">
@@ -32461,6 +32498,14 @@ està a punt per a executar-se.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT regularly and automatically stores all your progress in the &lt;c0&gt;project_save.tmx&lt;/c0&gt; file located in the project's &lt;c1&gt;omegat&lt;/c1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260523T125510Z" creationid="Marc Riera" creationdate="20260523T125510Z">
+        <seg>L'OmegaT emmagatzema de manera periòdica i automàtica tot el progrés en el fitxer &lt;c0&gt;project_save.tmx&lt;/c0&gt; de la carpeta &lt;c1&gt;omegat&lt;/c1&gt; del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT regularly and automatically stores all your progress in the &lt;c0&gt;project_save.tmx&lt;/c0&gt; file located in the project's omegat folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251215T190500Z" creationid="Marc Riera" creationdate="20251215T190500Z">
@@ -32531,6 +32576,15 @@ Runtime Environment (JRE) en el sistema.</seg>
         <seg>OmegaT standard theme will switch default colours based on System colors.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251216T154932Z" creationid="Marc Riera" creationdate="20251216T154932Z">
+        <seg>El tema estàndard de l'OmegaT canviarà els colors per defecte en funció dels colors del sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>OmegaT standard theme will switch its default colours based on the system colors.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260523T125531Z" creationid="Marc Riera" creationdate="20260523T125531Z">
         <seg>El tema estàndard de l'OmegaT canviarà els colors per defecte en funció dels colors del sistema.</seg>
       </tuv>
     </tu>
@@ -33948,6 +34002,15 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260322T121030Z" creationid="Marc Riera" creationdate="20260322T121030Z">
         <seg>Obriu el fitxer &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; que heu copiat a la &lt;l1/&gt; amb un editor de text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Open the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; you have copied to your &lt;l1&gt;configuration folder&lt;/l1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260523T125250Z" creationid="Marc Riera" creationdate="20260523T125250Z">
+        <seg>Obriu el fitxer &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; que heu copiat a la &lt;l1&gt;carpeta de configuració&lt;/l1&gt; amb un editor de text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39414,6 +39477,22 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0/&gt; to lock or unlock the cursor.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260523T125336Z" creationid="Marc Riera" creationdate="20260523T125336Z">
+        <seg>Consulteu &lt;l0/&gt; per a blocar o desblocar el cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260523T125230Z" creationid="Marc Riera" creationdate="20260523T125230Z">
+        <seg>Consulteu &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;Apache Groovy&lt;/l0&gt; for details.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260404T110139Z" creationid="Marc Riera" creationdate="20260404T110139Z">
@@ -40415,6 +40494,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T190144Z" creationid="Marc Riera" creationdate="20230104T190144Z">
         <seg>Els segments amb coincidències en llengües de destinació diferents també es poden mostrar en la subfinestra &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segments that receive automated translation at that time can be marked in the &lt;g2&gt;Editor&lt;/g2&gt; pane by using &lt;l3/&gt; &lt;l4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260523T125343Z" creationid="Marc Riera" creationdate="20260523T125343Z">
+        <seg>Els segments que reben una traducció propagada automàticament d'aquesta manera es poden marcar en la subfinestra &lt;g2&gt;Editor&lt;/g2&gt; mitjançant &lt;l3/&gt; &lt;l4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43475,6 +43562,14 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Support other file formats</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260523T125421Z" creationid="Marc Riera" creationdate="20260523T125421Z">
+        <seg>Compatibilitat amb altres formats de fitxers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Support other formats</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T131614Z" creationid="Marc Riera" creationdate="20221211T131614Z">
@@ -46160,6 +46255,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The content of the group can also be used in the replacement text.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260523T125226Z" creationid="Marc Riera" creationdate="20260523T125226Z">
+        <seg>El contingut del grup també es pot utilitzar en el text de substitució.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contents of the files in a format that OmegaT supports will be displayed in the &lt;l0/&gt; pane for translation.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230201T192939Z" creationid="Marc Riera" creationdate="20230201T192939Z">
@@ -46479,6 +46582,15 @@ en el seu lloc.</seg>
         <seg>The easiest way to modify the shortcuts is to download copies of the default files to &lt;l0&gt;your configuration folder&lt;/l0&gt;, as noted above, and make the changes you want there.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T121757Z" creationid="Marc Riera" creationdate="20221217T121757Z">
+        <seg>La manera més fàcil de modificar les dreceres és baixar còpies dels fitxers per defecte a la &lt;l0&gt;carpeta de configuració&lt;/l0&gt;, com s'ha indicat anteriorment, i aplicar els canvis que vulgueu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The easiest way to modify the shortcuts is to download copies of the default files to your &lt;l0&gt;configuration folder&lt;/l0&gt;, as noted above, and make the changes you want there.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260523T125245Z" creationid="Marc Riera" creationdate="20260523T125245Z">
         <seg>La manera més fàcil de modificar les dreceres és baixar còpies dels fitxers per defecte a la &lt;l0&gt;carpeta de configuració&lt;/l0&gt;, com s'ha indicat anteriorment, i aplicar els canvis que vulgueu.</seg>
       </tuv>
     </tu>
@@ -47337,6 +47449,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215659Z" creationid="Marc Riera" creationdate="20230209T215659Z">
         <seg>El visualitzador de coincidències mostra segments de les memòries de traducció que són similars al segment que esteu traduint.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The matching percentages have the following meaning, in order:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260523T125411Z" creationid="Marc Riera" creationdate="20260523T125411Z">
+        <seg>Aquests percentatges de coincidència tenen el significat següent, en ordre:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48510,6 +48630,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The supported file formats depend on your project preferences.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260523T125326Z" creationid="Marc Riera" creationdate="20260523T125326Z">
+        <seg>Els formats de fitxer admesos depenen de les preferències del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The supported file formats depend on your project setting.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T215936Z" creationid="Marc Riera" creationdate="20221207T215936Z">
@@ -48675,6 +48803,15 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230208T143047Z" creationid="Marc Riera" creationdate="20230208T143047Z">
         <seg>El text es divideix en segments numerats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The themes also provide a predefined set of default colors for marks.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260523T125522Z" creationid="Marc Riera" creationdate="20260523T125522Z">
+        <seg>Els temes també proporcionen un conjunt predefinit de colors de marques per defecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51627,6 +51764,14 @@ tots els paràmetres.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T093759Z" creationid="Marc Riera" creationdate="20221225T093759Z">
         <seg>Per a habilitar-les, marqueu &lt;l0/&gt; en les preferències de &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To enable this feature, see &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260523T125301Z" creationid="Marc Riera" creationdate="20260523T125301Z">
+        <seg>Per a habilitar aquesta característica, consulteu &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58049,6 +58194,15 @@ d'allà.</seg>
         <seg>You can copy the default OmegaT shortcut files from the OmegaT development site on Sourceforge to &lt;l0&gt;your configuration folder&lt;/l0&gt; and modify them to suit your needs:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T120720Z" creationid="Marc Riera" creationdate="20221217T120720Z">
+        <seg>Podeu copiar els fitxers de dreceres per defecte de l'OmegaT del lloc de desenvolupament de l'OmegaT de Sourceforge a la &lt;l0&gt;carpeta de configuració&lt;/l0&gt; i modificar-les com vulgueu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>You can copy the default OmegaT shortcut files from the OmegaT development site on Sourceforge to your &lt;l0&gt;configuration folder&lt;/l0&gt; and modify them to suit your needs:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260523T125238Z" creationid="Marc Riera" creationdate="20260523T125238Z">
         <seg>Podeu copiar els fitxers de dreceres per defecte de l'OmegaT del lloc de desenvolupament de l'OmegaT de Sourceforge a la &lt;l0&gt;carpeta de configuració&lt;/l0&gt; i modificar-les com vulgueu:</seg>
       </tuv>
     </tu>
