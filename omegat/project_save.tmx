@@ -3149,6 +3149,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2026-04-12_10-01 indicates that the session started at 10:01, on the 12th of April, 2026.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260602T142942Z" creationid="Marc Riera" creationdate="20260602T142942Z">
+        <seg>2026-04-12_10-01 indica que la sessió es va iniciar a les 10:01 del 12 d'abril de 2026.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>3)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T113310Z" creationid="Marc Riera" creationdate="20221129T113310Z">
@@ -3189,6 +3197,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20180214T223040Z" creationid="Marc Riera" creationdate="20180214T223040Z">
         <seg>95%-100%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>97543 is a random number.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260602T142908Z" creationid="Marc Riera" creationdate="20260602T142908Z">
+        <seg>97543 és un nombre aleatori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3703,6 +3719,14 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T151944Z" creationid="Marc Riera" creationdate="20230131T151944Z">
         <seg>El fitxer &lt;f0&gt;OmegaT.app&lt;/f0&gt; inclou un executable &lt;f1&gt;OmegaT&lt;/f1&gt; en la carpeta &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt; que també podeu utilitzar per a iniciar diverses instàncies del programa &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;OmegaT_2026-04-12_10-01_97543.log&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260602T142858Z" creationid="Marc Riera" creationdate="20260602T142858Z">
+        <seg>&lt;f0&gt;OmegaT_2026-04-12_10-01_97543.log&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7661,6 +7685,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T183539Z" creationid="Marc Riera" creationdate="20230104T183539Z">
         <seg>Una traducció idèntica al text d'origen per defecte no es reconeix com a traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A typical log file name</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260602T142856Z" creationid="Marc Riera" creationdate="20260602T142856Z">
+        <seg>Nom típic d'un fitxer de registre</seg>
       </tuv>
     </tu>
     <tu>
@@ -17609,7 +17641,6 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Error loading dictionary from '{0}': {1}</seg>
       </tuv>
@@ -17667,7 +17698,6 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Error preparing SAX parsing</seg>
       </tuv>
@@ -17701,7 +17731,6 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Error saving ignored words</seg>
       </tuv>
@@ -19355,7 +19384,6 @@ Alguns atributs tenen valors no vàlids.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Finally, publish your project to the remote server ( &lt;c0&gt;commit&lt;/c0&gt; and &lt;c1&gt;push&lt;/c1&gt; in Git, and &lt;c2&gt;commit&lt;/c2&gt; in SVN).</seg>
       </tuv>
@@ -22179,7 +22207,6 @@ l'hivern ja és aquí.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Hunspell spellchecker for language '{0}' dictionary {1} initialized</seg>
       </tuv>
@@ -26141,6 +26168,14 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201128T071712Z" creationid="Marc Riera" creationdate="20201125T140840Z">
         <seg>És la versió recomanada per als usuaris nous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is the session id.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260602T142917Z" creationid="Marc Riera" creationdate="20260602T142917Z">
+        <seg>És l'ID de la sessió.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32580,7 +32615,6 @@ Runtime Environment (JRE) en el sistema.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>OmegaT standard theme will switch its default colours based on the system colors.</seg>
       </tuv>
@@ -34005,7 +34039,6 @@ la carpeta d'inici.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Open the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; you have copied to your &lt;l1&gt;configuration folder&lt;/l1&gt; in a text editor.</seg>
       </tuv>
@@ -46586,7 +46619,6 @@ en el seu lloc.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>The easiest way to modify the shortcuts is to download copies of the default files to your &lt;l0&gt;configuration folder&lt;/l0&gt;, as noted above, and make the changes you want there.</seg>
       </tuv>
@@ -48806,7 +48838,6 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>The themes also provide a predefined set of default colors for marks.</seg>
       </tuv>
@@ -49143,6 +49174,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T124623Z" creationid="Marc Riera" creationdate="20221207T124623Z">
         <seg>El contingut no es mostrarà per a la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Their file name indicates the beginning of the session they logged.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260602T142843Z" creationid="Marc Riera" creationdate="20260602T142843Z">
+        <seg>El nom del fitxer indica l'inici de la sessió registrada</seg>
       </tuv>
     </tu>
     <tu>
@@ -50495,6 +50534,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230203T230335Z" creationid="Marc Riera" creationdate="20230203T230335Z">
         <seg>Aquesta carpeta està destinada a fitxers de referència fiables que també es vol que sobreescriguin automàticament els continguts traduïts prèviament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder is where you put your spelling dictionaries.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260602T143047Z" creationid="Marc Riera" creationdate="20260602T143047Z">
+        <seg>Aquesta carpeta és on podeu copiar diccionaris ortogràfics.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53181,7 +53228,6 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Unable to connect to the Belazar server.</seg>
       </tuv>
@@ -54303,6 +54349,14 @@ El valor actual és de {0} MB.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260325T120905Z" creationid="Marc Riera" creationdate="20260325T120905Z">
         <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a mostrar els caràcters i manipular-los més fàcilment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to display the current session’s log file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260602T143001Z" creationid="Marc Riera" creationdate="20260602T143001Z">
+        <seg>Utilitzeu &lt;l0/&gt; &lt;l1/&gt; per a mostrar el fitxer de registre de la sessió actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58198,7 +58252,6 @@ d'allà.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>You can copy the default OmegaT shortcut files from the OmegaT development site on Sourceforge to your &lt;l0&gt;configuration folder&lt;/l0&gt; and modify them to suit your needs:</seg>
       </tuv>
