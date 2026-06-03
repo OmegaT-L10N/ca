@@ -16469,6 +16469,14 @@ Versió nova: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download StarDict or Lingvo DSL dictionaries and extract them into the project's &lt;c0&gt;dictionary&lt;/c0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260603T085710Z" creationid="Marc Riera" creationdate="20260603T085710Z">
+        <seg>Baixeu diccionaris StarDict o Lingvo DSL i extraieu-los en la carpeta de &lt;c0&gt;diccionaris&lt;/c0&gt; del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download StarDict or Lingvo DSL dictionaries and extract them into the project's dictionary folder.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251217T100715Z" creationid="Marc Riera" creationdate="20251217T100715Z">
@@ -22890,6 +22898,14 @@ s'utilitzarà aquesta ubicació i tots els paràmetres es reinicialitzaran.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If some panes are not displayed anymore, use &lt;s0&gt;View&lt;/s0&gt; &gt; &lt;s1&gt;Restore OmegaT Window&lt;/s1&gt; to return to the default layout.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260603T085646Z" creationid="Marc Riera" creationdate="20260603T085646Z">
+        <seg>Si algunes subfinestres ja no es mostren, feu servir &lt;s0&gt;Visualització&lt;/s0&gt; &lt;s1&gt;Reinicialitza la finestra de l'OmegaT&lt;/s1&gt; per a recuperar la disposició per defecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If source segments are displayed in normal face, you can use this option to display only the current source segment in bold.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T190639Z" creationid="Marc Riera" creationdate="20230104T190639Z">
@@ -23062,6 +23078,22 @@ s'utilitzarà aquesta ubicació i tots els paràmetres es reinicialitzaran.</seg
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221218T120618Z" creationid="Marc Riera" creationdate="20221218T120618Z">
         <seg>Si la ubicació coincideix amb les dues regles, es considera una separació o no, en funció del que defineixi la regla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the matching segment exists in the files located in the source folder, as well as in other reference memories, it is labeled &lt;e0&gt;This project&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260603T085535Z" creationid="Marc Riera" creationdate="20260603T085535Z">
+        <seg>Si el segment coincident existeix als fitxers de la carpeta de fitxers d'origen, a més d'altres memòries de referència, s'etiqueta com a &lt;e0&gt;Aquest projecte&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the matching segment is no longer present in the files located in the source folder, it is labeled &lt;e0&gt;Orphan segment&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260603T085447Z" creationid="Marc Riera" creationdate="20260603T085447Z">
+        <seg>Si el segment coincident ja no està present als fitxers de la carpeta de fitxers d'origen, s'etiqueta com a &lt;e0&gt;Segment orfe&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32806,6 +32838,14 @@ your home folder.</seg>
         <seg>S'ha blocat l'accés de l'OmegaT a la propietat del sistema que conté
 el nom del sistema operatiu o a la propietat del sistema que conté
 la carpeta d'inici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will create memories with &lt;s0&gt;Project menu&lt;/s0&gt; &gt; &lt;s1&gt;Create Translated Files&lt;/s1&gt; that you can share when needed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260603T085624Z" creationid="Marc Riera" creationdate="20260603T085624Z">
+        <seg>L'OmegaT crearà memòries quan seleccioneu &lt;s0&gt;menú Projecte&lt;/s0&gt; &lt;s1&gt;Crea els fitxers traduïts&lt;/s1&gt; que podreu compartir quan sigui necessari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47469,6 +47509,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The match also displays three matching percentages, the origin of the match and how many times is the match repeated in the matching data.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260603T085355Z" creationid="Marc Riera" creationdate="20260603T085355Z">
+        <seg>La coincidència també mostra tres percentatges de coincidència, l'oriden de la coincidència i quantes vegades es repeteix a les dades de coincidències.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The match also displays three matching percentages.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215847Z" creationid="Marc Riera" creationdate="20230209T215847Z">
@@ -51925,6 +51973,14 @@ tots els paràmetres.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T190039Z" creationid="Marc Riera" creationdate="20230104T190031Z">
         <seg>Per a obtenir coincidències més literals més properes al 100 %, seleccioneu l'opció &lt;g0&gt;Text complet, incloent-hi etiquetes i xifres&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To open the folder that encloses the file in the OS file manager, press down the &lt;k0&gt;&lt;k1&gt;ALT&lt;/k1&gt;&lt;/k0&gt; key while selecting this menu item.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260603T085322Z" creationid="Marc Riera" creationdate="20260603T085322Z">
+        <seg>Per a obrir la carpeta que conté el fitxer a l'explorador de fitxers del sistema operatiu, mantingueu premuda la tecla &lt;k0&gt;&lt;k1&gt;ALT&lt;/k1&gt;&lt;/k0&gt; mentre seleccioneu aquest element del menú.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56727,6 +56783,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T094552Z" creationid="Marc Riera" creationdate="20230104T094552Z">
         <seg>Quan un terme del glossari és una paraula composta, el terme coincidirà encara que les paraules apareguin per separat en el text d'origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a match comes from the project memory, its origin is only specified in two cases:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260603T085414Z" creationid="Marc Riera" creationdate="20260603T085414Z">
+        <seg>Quan una coincidència prové de la memòria del projecte, l'origen només s'esmenta en dos casos:</seg>
       </tuv>
     </tu>
     <tu>
