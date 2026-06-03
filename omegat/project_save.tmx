@@ -14363,6 +14363,14 @@ si cal fer res més.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a subfolder under tm named &lt;c0&gt;penalty-XXX&lt;/c0&gt; (e.g., penalty-30) to reduce the match scores from those TMs. A 100% match becomes 70% when found inside &lt;c1&gt;penalty-30&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260603T092207Z" creationid="Marc Riera" creationdate="20260603T092207Z">
+        <seg>Creeu una subcarpeta dins de «tm» anomenada &lt;c0&gt;penalty-XXX&lt;/c0&gt; (p. ex., penalty-30) per a reduir els percentatges de coincidència de les memòries de traducció. Una coincidència del 100% esdevé una coincidència del 70% si és a dins de &lt;c1&gt;penalty-30&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create an empty repository on your VCS hosting server</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251116T101112Z" creationid="Marc Riera" creationdate="20221217T182327Z">
@@ -28405,6 +28413,14 @@ en la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make a minor change anywhere in the project and save it to add the new translations to &lt;c0&gt;project_save.tmx&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260603T092108Z" creationid="Marc Riera" creationdate="20260603T092108Z">
+        <seg>Feu un canvi menor en qualsevol part del projecte i deseu-lo per a afegir les traduccions noves a &lt;c0&gt;project_save.tmx&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make a minor change anywhere in the project and save it.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152957Z" creationid="Marc Riera" creationdate="20230201T152957Z">
@@ -32707,6 +32723,14 @@ Runtime Environment (JRE) en el sistema.</seg>
         <seg>OmegaT supports many formats via file filters.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251217T104315Z" creationid="Marc Riera" creationdate="20251217T104315Z">
+        <seg>L'OmegaT és compatible amb molts formats mitjançant filtres de fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT supports many formats via its file filters.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260603T091945Z" creationid="Marc Riera" creationdate="20260603T091945Z">
         <seg>L'OmegaT és compatible amb molts formats mitjançant filtres de fitxers.</seg>
       </tuv>
     </tu>
@@ -44358,6 +44382,14 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Target folder contains translated files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260603T092033Z" creationid="Marc Riera" creationdate="20260603T091959Z">
+        <seg>La carpeta de fitxers de destinació conté els fitxers traduïts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Target folder creates translated files</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251217T112535Z" creationid="Marc Riera" creationdate="20251217T112535Z">
@@ -46772,6 +46804,14 @@ en el seu lloc.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The enforced TM is considered to be more reliable than the project memory.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260603T092146Z" creationid="Marc Riera" creationdate="20260603T092146Z">
+        <seg>La memòria de traducció forçada es considera més fiable que la memòria del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The entered translation will then be treated as an alternative translation of the source segment.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230209T215037Z" creationid="Marc Riera" creationdate="20230209T215037Z">
@@ -48875,6 +48915,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251217T112604Z" creationid="Marc Riera" creationdate="20251217T112604Z">
         <seg>La carpeta «target» s'emplena quan feu servir &lt;s0&gt;Projecte&lt;/s0&gt; &lt;s1&gt;Crea els fitxers traduïts&lt;/s1&gt; o &lt;s2&gt;Crea el fitxer traduït actual&lt;/s2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The target folder is populated when you use &lt;s0&gt;Project&lt;/s0&gt; &gt; &lt;s1&gt;Create Translated Files&lt;/s1&gt; or &lt;s2&gt;Create Current Translated File&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260603T092018Z" creationid="Marc Riera" creationdate="20260603T092018Z">
+        <seg>La carpeta de fitxers de destinació s'emplena quan feu servir &lt;s0&gt;Projecte&lt;/s0&gt; &gt; &lt;s1&gt;Crea els fitxers traduïts&lt;/s1&gt; o &lt;s2&gt;Crea el fitxer traduït actual&lt;/s2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55313,10 +55361,34 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;s0&gt;Project&lt;/s0&gt; &gt; &lt;s1&gt;Add Files...&lt;/s1&gt; or drop files onto the &lt;s2&gt;Editor&lt;/s2&gt; pane to add documents to translate.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260603T091937Z" creationid="Marc Riera" creationdate="20260603T091937Z">
+        <seg>Feu servir &lt;s0&gt;Projecte&lt;/s0&gt; &gt; &lt;s1&gt;Afegeix fitxers...&lt;/s1&gt; o arrossegueu fitxers a la subfinestra &lt;s2&gt;Editor&lt;/s2&gt; per a afegir documents per a traduir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;s0&gt;Tools&lt;/s0&gt; &lt;s1&gt;Check Issues... (Ctrl+Shift+V)&lt;/s1&gt; and focus on Tag issues to detect missing or misplaced tags that may break exported files.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20251217T114129Z" creationid="Marc Riera" creationdate="20251217T114129Z">
         <seg>Feu servir &lt;s0&gt;Eines&lt;/s0&gt;&lt;s1&gt;Comprova si hi ha errors... (Ctrl+Maj+V)&lt;/s1&gt; i centreu-vos en els errors d'etiquetes per a detectar etiquetes suprimides o mal col·locades que poden trencar els fitxers exportats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;s0&gt;Tools&lt;/s0&gt; &gt; &lt;s1&gt;Check Issues... (Ctrl+Shift+V)&lt;/s1&gt; and focus on Tag issues to detect missing or misplaced tags that may break the exported files.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260603T092235Z" creationid="Marc Riera" creationdate="20260603T092235Z">
+        <seg>Feu servir &lt;s0&gt;Eines&lt;/s0&gt; &gt; &lt;s1&gt;Comprova si hi ha errors... (Ctrl+Maj+V)&lt;/s1&gt; i centreu-vos en els errors d'etiquetes per a detectar etiquetes suprimides o mal col·locades que poden trencar els fitxers exportats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;s0&gt;Tools&lt;/s0&gt; &gt; &lt;s1&gt;Check Issues...&lt;/s1&gt; and focus on Tag issues, fix all tag problems, then create the translated files again.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260603T092222Z" creationid="Marc Riera" creationdate="20260603T092222Z">
+        <seg>Feu servir &lt;s0&gt;Eines&lt;/s0&gt; &gt; &lt;s1&gt;Comprova si hi ha errors...&lt;/s1&gt; i centreu-vos en els errors d'etiquetes. Corregiu tots els problemes d'etiquetes i torneu a crear els fitxers traduïts.</seg>
       </tuv>
     </tu>
     <tu>
