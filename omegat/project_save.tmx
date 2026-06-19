@@ -20898,6 +20898,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Glossary entries with an empty target term are excluded from terminology checks.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260619T084833Z" creationid="Marc Riera" creationdate="20260619T084833Z">
+        <seg>Les entrades del glossari amb un terme de destinació buit s'exclouen de les comprovacions de terminologia.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Glossary file: {0}</seg>
