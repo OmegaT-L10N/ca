@@ -12482,6 +12482,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check that elements appear in the correct order and that no unsupported elements are present.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260629T162908Z" creationid="Marc Riera" creationdate="20260629T162908Z">
+        <seg>Comproveu que els elements apareguin en l'ordre correcte i que no hi hagi elements no admesos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the &lt;o0&gt;Use local file filter settings&lt;/o0&gt; box, and adjust the settings as desired.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221225T093641Z" creationid="Marc Riera" creationdate="20221225T093641Z">
@@ -15486,6 +15494,14 @@ Versió nova: {2}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20250517T064342Z" creationid="Marc Riera" creationdate="20250517T064342Z">
         <seg>Sabíeu que...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Did you mean 'xml:lang'?</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260629T163019Z" creationid="Marc Riera" creationdate="20260629T163019Z">
+        <seg>Volíeu dir «xml.lang»?</seg>
       </tuv>
     </tu>
     <tu>
@@ -25233,6 +25249,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Input one key per line.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260629T163202Z" creationid="Marc Riera" creationdate="20260629T163202Z">
+        <seg>Indiqueu una clau per línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Bidi Control C&amp;haracter</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230111T084603Z" creationid="Marc Riera" creationdate="20230111T084603Z">
@@ -26960,6 +26984,22 @@ en la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keys to exclude:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260629T163156Z" creationid="Marc Riera" creationdate="20260629T163156Z">
+        <seg>Claus que s'han d'excloure:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keys to include:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260629T163151Z" creationid="Marc Riera" creationdate="20260629T163151Z">
+        <seg>Claus que s'han d'incloure:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keyword search</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221224T104913Z" creationid="Marc Riera" creationdate="20221224T104913Z">
@@ -27759,6 +27799,62 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T075131Z" creationid="mgalo" creationdate="20181109T224700Z">
         <seg>Longitud de línia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line {0}:{1} - (Unknown error)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260629T162755Z" creationid="Marc Riera" creationdate="20260629T162755Z">
+        <seg>Línia {0}:{1}: error desconegut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line {0}:{1} - Attribute '{2}' is not allowed on element &lt;{3}&gt;.{4}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260629T162832Z" creationid="Marc Riera" creationdate="20260629T162832Z">
+        <seg>Línia {0}:{1}: no es permet l'atribut «{2}» a l'element &lt;{3}&gt;.{4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line {0}:{1} - Required attribute '{2}' is missing from element &lt;{3}&gt;.{4}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260629T162816Z" creationid="Marc Riera" creationdate="20260629T162816Z">
+        <seg>Línia {0}:{1}: falta l'atribut obligatori «{2}» a l'element &lt;{3}&gt;.{4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line {0}:{1} - Unexpected element &lt;{2}&gt; found.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260629T162851Z" creationid="Marc Riera" creationdate="20260629T162851Z">
+        <seg>Línia {0}:{1}: s'ha trobat l'element inesperat &lt;{2}&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line {0}:{1} - Value '{2}' is not allowed here.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260629T162942Z" creationid="Marc Riera" creationdate="20260629T162942Z">
+        <seg>Línia {0}:{1}: el valor «{2}» no es permet aquí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line {0}:{1} - Value '{2}' is not valid for type '{3}'.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260629T162932Z" creationid="Marc Riera" creationdate="20260629T162932Z">
+        <seg>Línia {0}:{1}: el valor «{2}» no és vàlid per al tipus «{3}».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line {0}:{1} - [{3}] (details unavailable in this locale) {2}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260629T163109Z" creationid="Marc Riera" creationdate="20260629T163109Z">
+        <seg>Línia {0}:{1}: [{3}] (detalls no disponibles en aquesta configuració regional) {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -31776,6 +31872,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT TMX validation failed with the following errors:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260629T162744Z" creationid="Marc Riera" creationdate="20260629T162738Z">
+        <seg>S'ha produït un error en la validació del TMX de l'OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT User Interface Language</seg>
@@ -35274,6 +35378,14 @@ s'esvaeix com la boira.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210514T152406Z" creationid="Marc Riera" creationdate="20210514T152406Z">
         <seg>Hi ha disponibles compilacions periòdiques a SourceForge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Permitted values are: {3}.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260629T162948Z" creationid="Marc Riera" creationdate="20260629T162948Z">
+        <seg>Els valors permesos són: {3}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43128,6 +43240,14 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify the YAML keys that should be included or excluded during translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260629T163143Z" creationid="Marc Riera" creationdate="20260629T163143Z">
+        <seg>Especifiqueu les claus YAML que s'han d'incloure o excloure durant la traducció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify the source and target languages and select the two files you want to align.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T150325Z" creationid="Marc Riera" creationdate="20230131T150325Z">
@@ -43804,6 +43924,14 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Support '*' and '**' wildcards.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260629T163241Z" creationid="Marc Riera" creationdate="20260629T163241Z">
+        <seg>Es permeten els comodins «*» i «**».</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Support for right-to-left languages</seg>
@@ -44137,6 +44265,22 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230402T110137Z" creationid="Marc Riera" creationdate="20230402T105923Z">
         <seg>Opcions de cerca en la memòria de traducció</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX 1.4 requires 'xml:lang' (not 'lang') on every &lt;tuv&gt; element.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260629T163011Z" creationid="Marc Riera" creationdate="20260629T163011Z">
+        <seg>L'especificació TMX 1.4 requereix «xml:lang» (no «lang») en cada element &lt;tuv&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX 1.4 requires the namespace-prefixed form.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260629T163044Z" creationid="Marc Riera" creationdate="20260629T163044Z">
+        <seg>L'especificació TMX 1.4 requereix la forma amb el prefix de l'espai de noms.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54335,6 +54479,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use '/' as a separator for nested keys (e.g., 'footer/copyright').</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260629T163227Z" creationid="Marc Riera" creationdate="20260629T163227Z">
+        <seg>Feu servir «/» com a separador per a les claus imbricades (p. ex., «footer/copyright»).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;c0&gt;$n&lt;/c0&gt; (where &lt;c1&gt;n&lt;/c1&gt; is a digit from 1 to 9) in the replacement field to refer to the &lt;c2&gt;nth&lt;/c2&gt;group in the search field.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230201T151434Z" creationid="Marc Riera" creationdate="20230201T151434Z">
@@ -57996,6 +58148,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260113T083919Z" creationid="Marc Riera" creationdate="20260113T083919Z">
         <seg>YAML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YAML Filter Options</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260629T163126Z" creationid="Marc Riera" creationdate="20260629T163126Z">
+        <seg>Opcions del filtre YAML</seg>
       </tuv>
     </tu>
     <tu>
