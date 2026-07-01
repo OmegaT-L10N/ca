@@ -36246,6 +36246,14 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Progress</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260701T105535Z" creationid="Marc Riera" creationdate="20260701T105535Z">
+        <seg>Progrés</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Project</seg>
@@ -42018,6 +42026,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show Source Files progress</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260701T105623Z" creationid="Marc Riera" creationdate="20260701T105623Z">
+        <seg>Mostra el progrés en els fitxers d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show Tip of the Day</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20250517T064338Z" creationid="Marc Riera" creationdate="20250517T064338Z">
@@ -42885,6 +42901,30 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20191112T215007Z" creationid="Marc Riera" creationdate="20180214T223156Z">
         <seg>Carpeta dels fitxers d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files progress complete</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260701T105616Z" creationid="Marc Riera" creationdate="20260701T105616Z">
+        <seg>Progrés completat dels fitxers d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files progress high</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260701T105608Z" creationid="Marc Riera" creationdate="20260701T105608Z">
+        <seg>Progrés mitjà dels fitxers d'origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files progress low</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260701T105603Z" creationid="Marc Riera" creationdate="20260701T105603Z">
+        <seg>Progrés baix dels fitxers d'origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -65802,6 +65842,14 @@ config-dir="camí/a/una/carpeta/de/configuració"</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20190521T110857Z" creationid="Marc Riera" creationdate="20190521T110857Z">
         <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}/{1} unique segments translated</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260701T105546Z" creationid="Marc Riera" creationdate="20260701T105546Z">
+        <seg>{0}/{1} segments únics traduïts</seg>
       </tuv>
     </tu>
     <tu>
