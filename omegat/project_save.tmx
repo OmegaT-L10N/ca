@@ -2162,6 +2162,22 @@ per a editar-lo com a projecte en equip.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>- A notarized dmg package is provided, supporting both Apple Silicon and</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T082432Z" creationid="Marc Riera" creationdate="20260706T082432Z">
+        <seg>- Es proporciona un paquet DMG notaritzat, compatible amb les arquitectures</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- A tar.bz2 archive is also available.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T082411Z" creationid="Marc Riera" creationdate="20260706T082411Z">
+        <seg>- També es proporciona un arxiu TAR.BZ2.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>- Anthony Baldwin (localisation manager)
@@ -2255,6 +2271,14 @@ per a editar-lo com a projecte en equip.)</seg>
 - Briac Pilpré (administrador de la web)
 - Philippe Tourigny (coordinador de la documentació)
 - Lucie Vecerova (coordinadora de la comunitat de Facebook)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- deb and rpm packages are provided for the amd64 and aarch64</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T082330Z" creationid="Marc Riera" creationdate="20260706T082330Z">
+        <seg>- Es proporcionen paquets DEB i RPM per a les arquitectures</seg>
       </tuv>
     </tu>
     <tu>
@@ -11259,6 +11283,14 @@ Demana una altra copa!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20250917T100702Z" creationid="Marc Riera" creationdate="20250917T100702Z">
         <seg>Inclòs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bundled JRE packages currently ship with JRE 25.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T082236Z" creationid="Marc Riera" creationdate="20260706T082236Z">
+        <seg>Els paquets amb el JRE inclòs actualment inclouen el JRE 25.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25778,6 +25810,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Intel architectures.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T082437Z" creationid="Marc Riera" creationdate="20260706T082437Z">
+        <seg>Apple Silicon i Intel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Intention</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T191400Z" creationid="Marc Riera" creationdate="20221201T191400Z">
@@ -31612,6 +31652,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Older 32-bit environments are not supported.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T082353Z" creationid="Marc Riera" creationdate="20260706T082353Z">
+        <seg>No s'admeten entorns més antics de 32 bits.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmT-l10n</seg>
@@ -32547,6 +32595,16 @@ de la llicència o bé (si ho preferiu) qualsevol altra versió posterior.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T215121Z" creationid="Marc Riera" creationdate="20221211T215121Z">
         <seg>L'OmegaT està dissenyat no només per a facilitar el procés de traducció, sinó també per a assegurar que el traductor no hagi de preocupar-se per perdre dades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is distributed in several package formats, depending on your platform
+and needs:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T082303Z" creationid="Marc Riera" creationdate="20260706T082303Z">
+        <seg>L'OmegaT es distribueix en diversos formats de paquets, en funció de la plataforma
+i les necessitats:</seg>
       </tuv>
     </tu>
     <tu>
@@ -60476,6 +60534,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T110013Z" creationid="Marc Riera" creationdate="20230130T110013Z">
         <seg>Aplicar les regles de segmentació definides en les preferències de &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>architectures.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T082336Z" creationid="Marc Riera" creationdate="20260706T082336Z">
+        <seg>amd64 i aarch64.</seg>
       </tuv>
     </tu>
     <tu>
