@@ -37211,6 +37211,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Read config: {0}={1}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T090205Z" creationid="Marc Riera" creationdate="20260706T090205Z">
+        <seg>S'ha llegit la configuració: {0}={1}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Reading TMX file {0}</seg>
@@ -37225,6 +37233,14 @@ les paraules «No s'ha trobat la pàgina».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T123552Z" creationid="Marc Riera" creationdate="20221211T123552Z">
         <seg>Lectura de memòries de traducció d'altres eines</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reading config file: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T090151Z" creationid="Marc Riera" creationdate="20260706T090151Z">
+        <seg>S'està llegint el fitxer de configuració: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -53583,6 +53599,14 @@ que conté els fitxers «OmegaT.jar» i «linux-install.sh» i executeu l'script
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Trying with backup file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T090144Z" creationid="Marc Riera" creationdate="20260706T090144Z">
+        <seg>S'està intentant llegir el fitxer de còpia de seguretat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Turn on the option to show hidden files in your system to make it visible.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231429Z" creationid="Marc Riera" creationdate="20230203T231429Z">
@@ -66059,6 +66083,16 @@ config-dir="camí/a/una/carpeta/de/configuració"</seg>
       </tuv>
       <tuv lang="ca" changeid="mgalo" changedate="20181111T221422Z" creationid="mgalo" creationdate="20181111T221422Z">
         <seg>{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}
+{1} (started on {2} {3}) Locale {4}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T090139Z" creationid="Marc Riera" creationdate="20260706T090139Z">
+        <seg>{0}
+{1} (s'ha iniciat el {2} {3}) Configuració regional: {4}</seg>
       </tuv>
     </tu>
     <tu>
