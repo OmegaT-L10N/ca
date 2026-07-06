@@ -2129,6 +2129,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(for use with a JRE already installed on your system).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T082721Z" creationid="Marc Riera" creationdate="20260706T082721Z">
+        <seg>(per a l'ús amb un JRE ja instal·lat al sistema).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(no description)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221209T134721Z" creationid="Marc Riera" creationdate="20221209T134721Z">
@@ -2206,6 +2214,14 @@ per a editar-lo com a projecte en equip.)</seg>
 - Henry Pijffers (coordinador dels llançaments)
 - Marc Prior (coordinador del projecte, administrador de la web)
 - Vito Smolej (coordinador de la documentació)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- Installer EXE files are provided in three variants: one bundled with an</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T082656Z" creationid="Marc Riera" creationdate="20260706T082656Z">
+        <seg>- Es proporcionen fitxers d'instal·lació EXE en tres variants: un inclou un JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -7294,6 +7310,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221203T190320Z" creationid="Marc Riera" creationdate="20221203T190320Z">
         <seg>A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A 32-bit</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T082726Z" creationid="Marc Riera" creationdate="20260706T082726Z">
+        <seg>No es proporciona</seg>
       </tuv>
     </tu>
     <tu>
@@ -26683,6 +26707,14 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201010T203951Z" creationid="Marc Riera" creationdate="20201010T203951Z">
         <seg>JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JRE-bundled variant is not provided.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T082741Z" creationid="Marc Riera" creationdate="20260706T082741Z">
+        <seg>una variant que inclogui un JRE de 32 bits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60460,6 +60492,14 @@ creï la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T180533Z" creationid="Marc Riera" creationdate="20221215T180533Z">
         <seg>Sempre, a partir dels paràmetres del filtre de fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>amd64 JRE, one bundled with an aarch64 JRE, and one without any JRE</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T082712Z" creationid="Marc Riera" creationdate="20260706T082712Z">
+        <seg>amd64, un inclou un JRE aarch64 i un no inclou cap JRE</seg>
       </tuv>
     </tu>
     <tu>
