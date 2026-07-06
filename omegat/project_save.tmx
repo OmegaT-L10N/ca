@@ -13587,6 +13587,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Config file not found: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T091255Z" creationid="Marc Riera" creationdate="20260706T091255Z">
+        <seg>No s'ha trobat el fitxer de configuració: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Configuration Folder</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221129T112133Z" creationid="Marc Riera" creationdate="20221129T112133Z">
@@ -18031,6 +18039,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Error while reading config file: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T091306Z" creationid="Marc Riera" creationdate="20260706T091306Z">
+        <seg>S'ha produït un error en llegir el fitxer de configuració: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Error while trying to save script.</seg>
@@ -18945,6 +18961,14 @@ els fils de teranyina t'aparten.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Failed to align project: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T091247Z" creationid="Marc Riera" creationdate="20260706T091247Z">
+        <seg>No s'ha pogut alinear el projecte: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Failed to back up preferences file.</seg>
@@ -19191,6 +19215,14 @@ Alguns atributs tenen valors no vàlids.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260113T083928Z" creationid="Marc Riera" creationdate="20260113T083928Z">
         <seg>No s'ha pogut processar el fitxer YAML: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to print stats.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T091229Z" creationid="Marc Riera" creationdate="20260706T091229Z">
+        <seg>No s'han pogut mostrar les estadístiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54384,6 +54416,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20250917T100755Z" creationid="Marc Riera" creationdate="20250917T100755Z">
         <seg>Desconegut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unknown console mode: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T091239Z" creationid="Marc Riera" creationdate="20260706T091239Z">
+        <seg>El mode de consola és desconegut: {0}</seg>
       </tuv>
     </tu>
     <tu>
