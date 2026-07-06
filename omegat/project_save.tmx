@@ -19022,6 +19022,14 @@ els fils de teranyina t'aparten.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to create pseudo-translate TMX: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T091221Z" creationid="Marc Riera" creationdate="20260706T091221Z">
+        <seg>No s'ha pogut crear el TMX de pseudotraducció: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to create the translated files!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221117T173003Z" creationid="Marc Riera" creationdate="20221117T173003Z">
