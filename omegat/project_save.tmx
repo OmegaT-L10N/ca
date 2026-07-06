@@ -2179,6 +2179,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- A plain ZIP archive is also available.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T084212Z" creationid="Marc Riera" creationdate="20260706T084212Z">
+        <seg>- També es porporciona un arxiu ZIP senzill.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- A tar.bz2 archive is also available.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260706T082411Z" creationid="Marc Riera" creationdate="20260706T082411Z">
@@ -26456,6 +26464,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It may also be used on Mac for self-notarization purposes.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T084259Z" creationid="Marc Riera" creationdate="20260706T084259Z">
+        <seg>També es pot fer servir al Mac per a l'autonotarització.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It may also include several other files.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230203T231133Z" creationid="Marc Riera" creationdate="20230203T231133Z">
@@ -42316,6 +42332,14 @@ Les cerques s'apliquen al projecte i per defecte inclouen el text d'origen i de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simple ZIP archive:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T084159Z" creationid="Marc Riera" creationdate="20260706T084159Z">
+        <seg>Arxiu ZIP senzill:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simple example of a post-processing commands:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221230T192912Z" creationid="Marc Riera" creationdate="20221230T192912Z">
@@ -49149,6 +49173,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source package is</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T084122Z" creationid="Marc Riera" creationdate="20260706T084122Z">
+        <seg>El paquet de codi font</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source term is displayed before the “=” sign and the target terms after it.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230209T220341Z" creationid="Marc Riera" creationdate="20230209T220341Z">
@@ -51366,6 +51398,14 @@ en sou víctima d'una.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T135704Z" creationid="Marc Riera" creationdate="20230130T135704Z">
         <seg>Això és útil si s'executa l'OmegaT en un servidor i s'afegeixen automàticament fitxers TMX a un projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is useful on Linux or</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T084223Z" creationid="Marc Riera" creationdate="20260706T084223Z">
+        <seg>Això és útil al Linux o al</seg>
       </tuv>
     </tu>
     <tu>
@@ -57922,6 +57962,14 @@ no s'ha trobat la pàgina.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Windows when you need a portable package and can supply your own JRE.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T084242Z" creationid="Marc Riera" creationdate="20260706T084242Z">
+        <seg>Windows quan necessiteu un paquet portable i podeu proporcionar el vostre propi JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Windows with 64-bit JRE</seg>
@@ -60910,6 +60958,14 @@ creï la carpeta de configuració.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>cloning the repository from GitHub instead.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T084116Z" creationid="Marc Riera" creationdate="20260706T084116Z">
+        <seg>clonar el repositori des de GitHub.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>config-dir="path/to/new/configdir"</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085257Z" creationid="Marc Riera" creationdate="20260325T085257Z">
@@ -63247,6 +63303,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>intended to support building OmegaT even in environments with limited</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T084142Z" creationid="Marc Riera" creationdate="20260706T084142Z">
+        <seg>té l'objectiu de permetre compilar l'OmegaT fins i tot en entorns amb un accés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>is the location where the target files are created</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230201T152408Z" creationid="Marc Riera" creationdate="20230201T152408Z">
@@ -64227,6 +64291,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221215T180610Z" creationid="Marc Riera" creationdate="20221215T180610Z">
         <seg>Mai i només desar el fitxer de destinació en la codificació especificada en els paràmetres del filtre de fitxers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or no internet access.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T084150Z" creationid="Marc Riera" creationdate="20260706T084150Z">
+        <seg>limitat a Internet o sense connexió:</seg>
       </tuv>
     </tu>
     <tu>
