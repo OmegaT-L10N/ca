@@ -23978,6 +23978,16 @@ extensions dels fitxers.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you installed OmegaT using the deb or rpm package, launch it from your
+desktop environment's application menu, or run:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T084815Z" creationid="Marc Riera" creationdate="20260706T084815Z">
+        <seg>Si heu instal·lat l'OmegaT amb el paquet DEB o RPM, inicieu-lo des del menú
+d'aplicacions de l'entorn d'escriptori o executeu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you just need to reduce the number of tags in a &lt;a0&gt;Microsoft Word&lt;/a0&gt; (2007 and later) document, you can use the &lt;l1/&gt; script.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230213T090217Z" creationid="Marc Riera" creationdate="20230130T110251Z">
@@ -25689,6 +25699,16 @@ feu doble clic en la drecera.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221207T123222Z" creationid="Marc Riera" creationdate="20221207T123222Z">
         <seg>S'instal·larà el connector {0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install the package for your architecture (amd64 or aarch64) using your
+distribution's package manager, e.g.:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T084655Z" creationid="Marc Riera" creationdate="20260706T084655Z">
+        <seg>Instal·leu el paquet de la vostra arquitectura (amd64 o aarch64) amb el gestor
+de paquets de la vostra distribució; p. ex.,</seg>
       </tuv>
     </tu>
     <tu>
@@ -32740,6 +32760,15 @@ i les necessitats:</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT is then ready
+to be launched.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T084732Z" creationid="Marc Riera" creationdate="20260706T084732Z">
+        <seg>Ja podeu iniciar l'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>OmegaT is then ready to
@@ -34481,6 +34510,16 @@ la carpeta d'inici.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260523T125250Z" creationid="Marc Riera" creationdate="20260523T125250Z">
         <seg>Obriu el fitxer &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; que heu copiat a la &lt;l1&gt;carpeta de configuració&lt;/l1&gt; amb un editor de text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the OmegaT .dmg package and drag the OmegaT application to the
+Applications folder (or another location of your choice).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T084612Z" creationid="Marc Riera" creationdate="20260706T084612Z">
+        <seg>Obriu el paquet .DMG de l'OmegaT i arrossegueu l'aplicació OmegaT a la carpeta
+Aplicacions (o una altra ubicació que trieu).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56929,6 +56968,26 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using the deb or rpm package
+----------------------------</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T084627Z" creationid="Marc Riera" creationdate="20260706T084627Z">
+        <seg>Ús del paquet DEB o RPM
+----------------------------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using the tar.bz2 archive
+-------------------------</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T084718Z" creationid="Marc Riera" creationdate="20260706T084718Z">
+        <seg>Ús de l'arxiu TAR.BZ2
+-------------------------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using this parameter launches OmegaT with the user interface in the specified language, if available (even partially).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T134409Z" creationid="Marc Riera" creationdate="20230130T134409Z">
@@ -59660,6 +59719,17 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230708T174808Z" creationid="Marc Riera" creationdate="20230708T174808Z">
         <seg>Podeu evitar aquest problema aplicant un petit canvi a un dels segments anteriors o posteriors en el fitxer d'origen per a distingir les diferents repeticions dels mateixos segments anteriors i posteriors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>You can, however, get a neater and more user-friendly installation by using the
+installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T084742Z" creationid="Marc Riera" creationdate="20260706T084742Z">
+        <seg>Tanmateix, podeu obtenir una instal·lació més ordenada i amigable mitjançant
+l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
