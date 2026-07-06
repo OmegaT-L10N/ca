@@ -2291,6 +2291,14 @@ per a editar-lo com a projecte en equip.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- The source package bundles all required library dependencies, so its</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T082901Z" creationid="Marc Riera" creationdate="20260706T082901Z">
+        <seg>- El paquet de codi font inclou totes les dependències de biblioteques necessàries,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- deb and rpm packages are provided for the amd64 and aarch64</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260706T082330Z" creationid="Marc Riera" creationdate="20260706T082330Z">
@@ -31392,6 +31400,14 @@ adequada, com ara la carpeta «Aplicacions».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that the installer program</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T082758Z" creationid="Marc Riera" creationdate="20260706T082758Z">
+        <seg>Tingueu en compte que l'instal·lador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: The Source File Encoding setting only affects HHC and HHK files with no encoding declaration.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221206T195343Z" creationid="Marc Riera" creationdate="20221206T195343Z">
@@ -43215,6 +43231,14 @@ dirigit a la mateixa carpeta o a una de les subcarpetes que conté.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20220612T104517Z" creationid="Marc Riera" creationdate="20220612T104517Z">
         <seg>Segment d'origen de la coincidència seleccionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source package:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T082839Z" creationid="Marc Riera" creationdate="20260706T082839Z">
+        <seg>Paquet de codi font:</seg>
       </tuv>
     </tu>
     <tu>
@@ -63239,6 +63263,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>itself is a 32-bit Intel binary; this does not affect the architecture</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T082823Z" creationid="Marc Riera" creationdate="20260706T082817Z">
+        <seg>en si és un binari Intel de 32 bits; això no afecta l'arquitectura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>java -jar</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221210T201930Z" creationid="Marc Riera" creationdate="20221210T201930Z">
@@ -63969,6 +64001,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T114824Z" creationid="Marc Riera" creationdate="20230130T114824Z">
         <seg>No es té en compte en els informes d'estadístiques (com ara l'ordre &lt;l0/&gt;&lt;l1/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>of OmegaT or the JRE that gets installed.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T082832Z" creationid="Marc Riera" creationdate="20260706T082832Z">
+        <seg>instal·lada de l'OmegaT o el JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64861,6 +64901,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230206T161351Z" creationid="Marc Riera" creationdate="20230206T161351Z">
         <seg>De manera similar, &lt;l0&gt;\R&lt;/l0&gt; és qualsevol caràcter de salt de línia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>size is relatively large.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T082909Z" creationid="Marc Riera" creationdate="20260706T082909Z">
+        <seg>per la qual cosa té una mida relativament gran.</seg>
       </tuv>
     </tu>
     <tu>
