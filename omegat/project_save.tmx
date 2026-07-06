@@ -22604,6 +22604,14 @@ no cal introduir el camí complet.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;l0/&gt; is enabled, each file entry also shows its translation progress, calculated from the number of unique segments in that file that have already been translated.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T085354Z" creationid="Marc Riera" creationdate="20260706T085354Z">
+        <seg>Si s'habilita &lt;l0/&gt;, cada entrada de fitxer també mostra el progrés de traducció, calculat a partir del nombre de segments únics del fitxer que ja s'han traduït.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If OmegaT behaves erratically, include this file, or the relevant part thereof, to your report.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221201T155505Z" creationid="Marc Riera" creationdate="20221201T155505Z">
@@ -48557,6 +48565,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The progress colours can be changed in &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T085433Z" creationid="Marc Riera" creationdate="20260706T085433Z">
+        <seg>Els colors del progrés es poden canviar a &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The progress is calculated from translated unique segments.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260706T084858Z" creationid="Marc Riera" creationdate="20260706T084858Z">
@@ -57694,6 +57710,14 @@ estalviar-vos la molèstia de seleccionar-lo, obtenir-lo i instal·lar-lo.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230227T102451Z" creationid="Marc Riera" creationdate="20230227T102451Z">
         <seg>Quan l'opció està habilitada, l'OmegaT cerca automàticament coincidències dels termes identificats en el segment en tots els diccionaris quan s'accedeix al segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the progress display is enabled, the bottom progress value shows the overall translation progress for all source files in the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T085424Z" creationid="Marc Riera" creationdate="20260706T085424Z">
+        <seg>Quan s'habilita la visualització del progrés, el valor de progrés inferior mostra el progrés de traducció general per a tots els fitxers d'origen del projecte.</seg>
       </tuv>
     </tu>
     <tu>
