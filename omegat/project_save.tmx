@@ -15992,6 +15992,14 @@ Versió nova: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays a &lt;g0&gt;Progress&lt;/g0&gt; column in the &lt;l1/&gt; window and shows the overall project progress in the totals area.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T084841Z" creationid="Marc Riera" creationdate="20260706T084841Z">
+        <seg>Mostra una columna &lt;g0&gt;Progrés&lt;/g0&gt; a la finestra &lt;l1/&gt; i mostra el progrés general del projecte a la zona de totals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays alternative translations you have created for repeated segments in the project.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T215349Z" creationid="Marc Riera" creationdate="20221124T215349Z">
@@ -46383,6 +46391,14 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The Source Files progress colours shown in the &lt;l0/&gt; window can also be changed here.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T084957Z" creationid="Marc Riera" creationdate="20260706T084957Z">
+        <seg>Els colors del progrés dels fitxers d'origen que es mostren a la finestra &lt;l0/&gt; també es poden canviar aquí.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
@@ -48537,6 +48553,14 @@ s'indica a «/lib/licenses/Licenses.txt».</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230104T092834Z" creationid="Marc Riera" creationdate="20230104T092828Z">
         <seg>El programa demanarà una confirmació abans de sortir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The progress is calculated from translated unique segments.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260706T084858Z" creationid="Marc Riera" creationdate="20260706T084858Z">
+        <seg>El progrés es calcula a partir dels segments únics traduïts.</seg>
       </tuv>
     </tu>
     <tu>
