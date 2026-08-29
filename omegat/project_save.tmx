@@ -670,6 +670,14 @@ ${filePath}&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T151534Z" creationid="Marc Riera" creationdate="20260829T151534Z">
+        <seg>&amp;Aplica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply a different font size to the dictionary pane</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221124T180145Z" creationid="Marc Riera" creationdate="20221124T180145Z">
@@ -1095,6 +1103,14 @@ ${filePath}&gt;</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20200728T143718Z" creationid="Marc Riera" creationdate="20191112T224132Z">
         <seg>&amp;Ignora els atributs «type» i «ctype» en crear etiquetes &lt;ph&gt; reduïdes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Import...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T151804Z" creationid="Marc Riera" creationdate="20260829T151804Z">
+        <seg>&amp;Importa...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12108,6 +12124,14 @@ Demana una altra copa!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changes applied</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T151831Z" creationid="Marc Riera" creationdate="20260829T151831Z">
+        <seg>S'han aplicat els canvis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changes the case of the selected text in the target segment to the selected option, or cycles through the options.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221208T220447Z" creationid="Marc Riera" creationdate="20221208T220447Z">
@@ -16938,6 +16962,14 @@ Versió nova: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>E&amp;xport...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T151807Z" creationid="Marc Riera" creationdate="20260829T151807Z">
+        <seg>E&amp;xporta...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>END</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221205T084643Z" creationid="Marc Riera" creationdate="20221205T084643Z">
@@ -18162,6 +18194,14 @@ ningú no sent els vostres crits.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Event: colours changed</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T151744Z" creationid="Marc Riera" creationdate="20260829T151744Z">
+        <seg>Esdeveniment: s'han canviat els colors</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Event: font changed</seg>
@@ -18962,6 +19002,14 @@ els fils de teranyina t'aparten.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to access the spelling dictionary {0}: {1}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T151844Z" creationid="Marc Riera" creationdate="20260829T151844Z">
+        <seg>No s'ha pogut accedir al diccionari ortogràfic {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to align project: {0}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260706T091247Z" creationid="Marc Riera" creationdate="20260706T091247Z">
@@ -19605,6 +19653,22 @@ Alguns atributs tenen valors no vàlids.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230130T144148Z" creationid="Marc Riera" creationdate="20230130T144148Z">
         <seg>Finalment, publiqueu el projecte en el servidor remot (&lt;c0&gt;commit&lt;/c0&gt; en l'SVN; &lt;c1&gt;commit&lt;/c1&gt; i &lt;c2&gt;push&lt;/c2&gt; en el Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find Ne&amp;xt</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T151610Z" creationid="Marc Riera" creationdate="20260829T151610Z">
+        <seg>Cerca el se&amp;güent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find Pre&amp;vious</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T151559Z" creationid="Marc Riera" creationdate="20260829T151550Z">
+        <seg>Cerca l'ante&amp;rior</seg>
       </tuv>
     </tu>
     <tu>
@@ -20692,6 +20756,14 @@ del Kaptain inclòs («omegat.kaptn»).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T202819Z" creationid="Marc Riera" creationdate="20230101T202819Z">
         <seg>Subfinestra «Coincidències parcials»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fuzzy match #{0}: "{1}"</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T151718Z" creationid="Marc Riera" creationdate="20260829T151718Z">
+        <seg>Coincidència parcial núm. {0}: «{1}»</seg>
       </tuv>
     </tu>
     <tu>
@@ -22424,6 +22496,14 @@ l'hivern ja és aquí.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hunspell spellchecker dictionary {1} for language '{0}' is initialized</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T152218Z" creationid="Marc Riera" creationdate="20260829T152218Z">
+        <seg>S'ha inicialitzat el diccionari de correcció ortogràfica del Hunspell {1} per a la llengua «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hunspell spellchecker for language '{0}' dictionary {1} initialized</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260519T103041Z" creationid="Marc Riera" creationdate="20260519T103041Z">
@@ -23170,6 +23250,14 @@ s'utilitzarà aquesta ubicació i tots els paràmetres es reinicialitzaran.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the &lt;l0/&gt; option is enabled, each file entry also shows its translation progress, calculated from the number of unique segments in that file that have already been translated.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T152109Z" creationid="Marc Riera" creationdate="20260829T152109Z">
+        <seg>Si s'habilita l'opció &lt;l0/&gt;, cada entrada de fitxer també mostra el progrés de traducció, calculat a partir del nombre de segments únics del fitxer que ja s'han traduït.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the &lt;l0/&gt; preference is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T000122Z" creationid="Marc Riera" creationdate="20221231T000122Z">
@@ -23234,6 +23322,14 @@ s'utilitzarà aquesta ubicació i tots els paràmetres es reinicialitzaran.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the cursor is unlocked, only double-clicking can be used to enter the segment.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T152026Z" creationid="Marc Riera" creationdate="20260829T152026Z">
+        <seg>Si el cursor està desblocat, només es pot fer servir el doble clic per a accedir al segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the documents you translate use bold, italics, or other decorative elements, OmegaT will convert those elements into tags that enclose the decorated text.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221226T233851Z" creationid="Marc Riera" creationdate="20221226T233851Z">
@@ -23294,6 +23390,14 @@ s'utilitzarà aquesta ubicació i tots els paràmetres es reinicialitzaran.</seg
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221231T093132Z" creationid="Marc Riera" creationdate="20221231T093132Z">
         <seg>Si la llengua no està disponible, per defecte l'OmegaT s'inicia en anglès encara que el sistema utilitzi una llengua per defecte diferent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the language module for your project target language provides a Hunspell dictionary, it will automatically install it in this folder when you enable spell checking.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T151951Z" creationid="Marc Riera" creationdate="20260829T151951Z">
+        <seg>Si el mòdul de llengua per a la llengua de destinació del projecte proporciona un diccionari del Hunspell, s'instal·larà automàticament en aquesta carpeta quan habiliteu la correcció ortogràfica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24790,6 +24894,14 @@ feu doble clic en la drecera.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In properties</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T151651Z" creationid="Marc Riera" creationdate="20260829T151651Z">
+        <seg>En les propietats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In situations where you need to share a TMX that contain only the text from certain specific files and excludes other content, follow the procedure below:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221211T130440Z" creationid="Marc Riera" creationdate="20221211T130440Z">
@@ -25962,6 +26074,14 @@ de paquets de la vostra distribució; p. ex.,</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20250616T200234Z" creationid="Marc Riera" creationdate="20250616T200234Z">
         <seg>Coincidència interna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Internal name</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T151825Z" creationid="Marc Riera" creationdate="20260829T151825Z">
+        <seg>Nom intern</seg>
       </tuv>
     </tu>
     <tu>
@@ -27788,6 +27908,14 @@ en la carpeta de configuració.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201124T192736Z" creationid="Marc Riera" creationdate="20201124T192736Z">
         <seg>Les versions obsoletes són versions antigues que han quedat desfasades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Let fuzzy matching understand numbers</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T152302Z" creationid="Marc Riera" creationdate="20260829T152302Z">
+        <seg>Reconeixement de nombres en les coincidències parcials</seg>
       </tuv>
     </tu>
     <tu>
@@ -34362,6 +34490,14 @@ la carpeta d'inici.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T151618Z" creationid="Marc Riera" creationdate="20260829T151618Z">
+        <seg>Obre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open Autocompleter</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221217T180644Z" creationid="Marc Riera" creationdate="20221217T180644Z">
@@ -34683,6 +34819,14 @@ Aplicacions (o una altra ubicació que trieu).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Open this folder in the system file manager</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T151637Z" creationid="Marc Riera" creationdate="20260829T151637Z">
+        <seg>Obre aquesta carpeta amb el gestor de fitxers del sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;status:approved&gt;</note>
       <tuv lang="en">
         <seg>Open {0} Source Files</seg>
@@ -34707,6 +34851,14 @@ Aplicacions (o una altra ubicació que trieu).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20201129T230617Z" creationid="Marc Riera" creationdate="20201129T230617Z">
         <seg>Obre...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T151643Z" creationid="Marc Riera" creationdate="20260829T151643Z">
+        <seg>Obre: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -46822,6 +46974,22 @@ Marc Riera Irigoyen (versions 4.1 a l'actual)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The bottom progress value shows the overall translation progress for all source files in the project.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T152120Z" creationid="Marc Riera" creationdate="20260829T152120Z">
+        <seg>El valor de progrés inferior mostra el progrés de traducció general per a tots els fitxers d'origen del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The button is only available if the folder exists.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T151902Z" creationid="Marc Riera" creationdate="20260829T151902Z">
+        <seg>El botó només està disponible si la carpeta existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The buttons at the bottom of the window can be used to add files to your project:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230131T153415Z" creationid="Marc Riera" creationdate="20230131T153415Z">
@@ -54461,6 +54629,14 @@ La cerca exacta cerca coincidències de tota la cadena de text.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unless special mappings have been set up, all source files are shared by all team members, and any changes made to the local source files are overwritten the next time the project is synchronized, unless they are committed to the server using the &lt;l0/&gt; &lt;l1/&gt; command.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T151930Z" creationid="Marc Riera" creationdate="20260829T151930Z">
+        <seg>Tret que s'hagin configurat assignacions especials, tots els fitxers d'origen es comparteixen amb tots els membres de l'equip i qualsevol canvi als fitxers d'origen se sobreescriu cada vegada que se sincronitza el projecte, excepte si es publica al servidor mitjançant l'ordre &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unless special mappings or &lt;l0/&gt; have been set up, all source files are shared by all team members, and any changes made to the local source files are overwritten the next time the project is synchronized, unless they are committed to the server using the &lt;l1/&gt; &lt;l2/&gt; command.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20260325T085559Z" creationid="Marc Riera" creationdate="20260325T085559Z">
@@ -57395,6 +57571,14 @@ El valor actual és de {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Warning: the numbers do not match</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T151730Z" creationid="Marc Riera" creationdate="20260829T151730Z">
+        <seg>Avís: els nombres no coincideixen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We always welcome new contributors!</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20230101T194456Z" creationid="Marc Riera" creationdate="20230101T194456Z">
@@ -59550,6 +59734,14 @@ l'script d'instal·lació (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20250220T171509Z" creationid="Marc Riera" creationdate="20250220T171509Z">
         <seg>Podeu posar un diccionari en aquesta carpeta per a utilitzar un diccionari ortogràfic personalitzat, o si no hi ha cap mòdul de llengua de l'OmegaT per a la llengua de destinació del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can put a dictionary in this folder to use a custom spelling dictionary, or if your project target language is not covered by a language module.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T152001Z" creationid="Marc Riera" creationdate="20260829T152001Z">
+        <seg>Podeu posar un diccionari en aquesta carpeta per a utilitzar un diccionari ortogràfic personalitzat, o si no hi ha cap mòdul de llengua per a la llengua de destinació del projecte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62556,6 +62748,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221213T163748Z" creationid="Marc Riera" creationdate="20221213T163748Z">
         <seg>és parcial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>fuzzy_match_numbers.html</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20260829T152238Z" creationid="Marc Riera" creationdate="20260829T152238Z">
+        <seg>fuzzy_match_numbers.html</seg>
       </tuv>
     </tu>
     <tu>
